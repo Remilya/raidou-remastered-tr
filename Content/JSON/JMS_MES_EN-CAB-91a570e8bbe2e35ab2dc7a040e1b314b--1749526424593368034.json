@@ -1,0 +1,33 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMS_MES_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "JMS_MES_L0000",
+        "msgStr": "> Narumi dışarıda olduğundan Raidou mahjong oynayamaz."
+      },
+      {
+        "msgID": "JMS_MES_L0001",
+        "msgStr": "> Raidou'nun mahjong oynamak için yeterli iblisi yok."
+      },
+      {
+        "msgID": "JMS_MES_L0002",
+        "msgStr": "> Raidou'nun mahjongda bahse girecek kadar parası yok."
+      },
+      {
+        "msgID": "JMS_MES_L0003",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:40:41"
+}

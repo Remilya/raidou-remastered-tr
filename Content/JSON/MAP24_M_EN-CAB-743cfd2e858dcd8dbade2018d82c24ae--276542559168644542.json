@@ -1,0 +1,2489 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP24_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map24_m_m_msg_suifu_1_001_000",
+        "msgStr": "Şık Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0000",
+        "msgStr": "Ahhh! Yardım edin!"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_001_01_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0001",
+        "msgStr": "Demek <IT_S>gerçekten<IT_E> Karanlık Diyar'dalarmış. Şu denizcileri kurtaralım Raidou!"
+      },
+      {
+        "msgID": "map24_m_m_msg_battletest_001_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_002_003",
+        "msgStr": "Şık Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0003",
+        "msgStr": "Vay be, çok güçlüsün! Bileğin pek sağlam!"
+      },
+      {
+        "msgID": "MAP24_M_L0004",
+        "msgStr": "Kargo taşıyordum ki birden her yer karardı ve o canavarlar saldırdı."
+      },
+      {
+        "msgID": "MAP24_M_L0005",
+        "msgStr": "Mürettebat arkadaşlarımdan ayrı düştüm. Onlara ne oldu acaba?"
+      },
+      {
+        "msgID": "MAP24_M_L0006",
+        "msgStr": "Lütfen, onları kurtarmalısın! Buralarda bir yerde olmalılar."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_002_1_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_003_005",
+        "msgStr": "Şık Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0008",
+        "msgStr": "Lütfen diğer denizci arkadaşlarıma da yardım et."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_004_006",
+        "msgStr": "Şık Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0009",
+        "msgStr": "Görünüşe göre mürettebat arkadaşlarımın hepsi iyi. Bunun için çok teşekkürler."
+      },
+      {
+        "msgID": "MAP24_M_L0010",
+        "msgStr": "Hey, bu arada biz neredeyiz? Buradan eve dönebilir miyiz?"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_GOUTO_SISA_007",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0011",
+        "msgStr": "Bu denizcileri ve kargoları Karanlık Diyar'a çeken kişi yakınlarda olmalı."
+      },
+      {
+        "msgID": "MAP24_M_L0012",
+        "msgStr": "Onu yendiğimizde bu denizciler evlerine dönebilecektir."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_001_008",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0013",
+        "msgStr": "Ahhh! Yardım edin!"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_002_009",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0014",
+        "msgStr": "Teşekkürler! Ucuz atlattım."
+      },
+      {
+        "msgID": "MAP24_M_L0015",
+        "msgStr": "Saldırıya uğrayan başkaları da vardı. Lütfen onlara da yardım et!"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_002_01_010",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0016",
+        "msgStr": "Neler oluyor? Şimdi güvende miyim?"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_003_011",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0017",
+        "msgStr": "Lütfen diğer gemici arkadaşlarıma da yardım et."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_004_012",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0018",
+        "msgStr": "Mürettebat arkadaşlarımın hepsi güvende ama burada neler dönüyor?"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_005_013",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0019",
+        "msgStr": "Görünüşe göre denizci arkadaşlarımın hepsi iyi. Sağ ol evlat! Hayatımızı kurtardın!"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_001_014",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0020",
+        "msgStr": "Ahhh! Lütfen yardım edin!"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_002_015",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0021",
+        "msgStr": "Hayatımı kurtardın! Teşekkür ederim!"
+      },
+      {
+        "msgID": "MAP24_M_L0022",
+        "msgStr": "Saldırıya uğrayan başka mürettebat arkadaşlarım da var. Lütfen onlara yardım et!"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_003_016",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0023",
+        "msgStr": "Lütfen denizci arkadaşlarıma yardım et."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_004_017",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0024",
+        "msgStr": "Görünüşe göre mürettebat arkadaşlarımın hepsi güvende ama ben eve gitmek istiyorum."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_005_018",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0025",
+        "msgStr": "Mürettebat arkadaşlarımın hepsi iyi mi şimdi? Çok teşekkür ederim!"
+      },
+      {
+        "msgID": "MAP24_M_L0026",
+        "msgStr": "Peki... burası neresi böyle? Daha önce hiç böyle bir yer görmemiştim."
+      },
+      {
+        "msgID": "map24_m_m_msg_nakama_001_019",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP24_M_L0027",
+        "msgStr": "> İblis tuhaf bir şey sezdi."
+      },
+      {
+        "msgID": "MAP24_M_L0028",
+        "msgStr": "> Raidou'ya geri dönüp bildirmek en iyisi olabilir."
+      },
+      {
+        "msgID": "map24_m_m_msg_nakama_002_020",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP24_M_L0029",
+        "msgStr": "> İblis tuhaf bir şey sezdi."
+      },
+      {
+        "msgID": "MAP24_M_L0030",
+        "msgStr": "> Raidou'ya geri dönüp bildirmek en iyisi olabilir."
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_on_001_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0031",
+        "msgStr": "> Buzun üzerine çıkılsın mı?"
+      },
+      {
+        "msgID": "map24_m_m_sel_01 SEL_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0032",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP24_M_L0033",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_on_yes_001_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_on_yes_002_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mini_ev_001_025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mini_ev_002_026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_off_001_027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_002 SEL_028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_003 SEL_029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_004 SEL_030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_005 SEL_031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_006 SEL_032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_007 SEL_033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_008 SEL_034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_009 SEL_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_010 SEL_036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_011 SEL_037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_012 SEL_038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_013 SEL_039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_014 SEL_040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_015 SEL_041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_sel_016 SEL_042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_r_shirabe_001_043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_n_shirabe_001_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0079",
+        "msgStr": "> Su haznesi yolu kapatıyor."
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_r_reikyaku_001_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0080",
+        "msgStr": "> Soğutucu etki, haznedeki suyu dondurdu."
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_r_kanshiki_001_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_r_kanshiki_002_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_n_hikou_001_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0084",
+        "msgStr": "> <devil 0> suyun üzerinden uçtu."
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_n_reikyaku_001_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0085",
+        "msgStr": "> Soğutucu etki, haznedeki suyu dondurdu."
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_n_reikyaku_002_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0086",
+        "msgStr": "> Deniz suyu zaten donmuş durumda."
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_on_003_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0087",
+        "msgStr": "> Buzun üzerine çıkılsın mı?"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_n_kanshiki_001_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_n_kanshiki_002_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_on_004_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0090",
+        "msgStr": "> Karaya dönülsün mü?"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_001_055",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "MAP24_M_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_001_01_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_kanshi_01_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_kanshi_02_058",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_002_059",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "MAP24_M_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_003_060",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "MAP24_M_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_004_061",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "MAP24_M_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_005_062",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "MAP24_M_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_battletest_002_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_006_064",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "MAP24_M_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_battletest_003_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_007_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_last_000_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0104",
+        "msgStr": "> Raidou denizcilere tehdidin ortadan kaldırıldığını söyledi."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_last_001_068",
+        "msgStr": "Şık Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0105",
+        "msgStr": "Gerçekten mi? Artık her şey yolunda mı?"
+      },
+      {
+        "msgID": "MAP24_M_L0106",
+        "msgStr": "Yani sonunda evimize dönebilecek miyiz?"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_last_002_069",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0107",
+        "msgStr": "Harika bir haber bu! Milyonda bir bulunur senin gibisi evlat."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_last_003_070",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0108",
+        "msgStr": "Ah, çok teşekkür ederim! Artık kargomuzu güvenle teslim edebiliriz."
+      },
+      {
+        "msgID": "MAP24_M_L0109",
+        "msgStr": "Ha? Neler oluyor?"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_last_006_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_last_007_072",
+        "msgStr": "Denizciler"
+      },
+      {
+        "msgID": "MAP24_M_L0111",
+        "msgStr": "Hmm...?"
+      },
+      {
+        "msgID": "map24_m_mplan_ep04_ikai_exit2_073",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0112",
+        "msgStr": "> Gerçek dünyaya açılan bir çıkış var."
+      },
+      {
+        "msgID": "MAP24_M_L0113",
+        "msgStr": "> Tek yönlü bir yola benziyor."
+      },
+      {
+        "msgID": "MAP24_M_L0114",
+        "msgStr": "> Karanlık Diyar'dan çıkılsın mı?"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_n_001_074",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0115",
+        "msgStr": "> İblis tuhaf bir şey sezdi."
+      },
+      {
+        "msgID": "MAP24_M_L0116",
+        "msgStr": "> Raidou'ya geri dönüp bildirmek en iyisi olabilir."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_last_004_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_kikan_001_076",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0120",
+        "msgStr": "> Tapınağa dönülsün mü?"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_last_005_077",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0121",
+        "msgStr": "Görünüşe göre denizciler evlerine sağ salim döndü."
+      },
+      {
+        "msgID": "MAP24_M_L0122",
+        "msgStr": "Biz de dönelim ve Ryugu'nun sahibine müjdeyi verelim."
+      },
+      {
+        "msgID": "map24_m_m_msg_ice_shirabe_001_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_n01_079",
+        "msgStr": "Şık Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0124",
+        "msgStr": "Umarım herkes iyidir..."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_n02_080",
+        "msgStr": "Şık Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0125",
+        "msgStr": "Görünüşe göre artık hepimiz güvendeyiz. İçim öyle rahatladı ki."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_doku01_081",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0126",
+        "msgStr": "<COLOR 2>Ödüm kopuyor burada! Hiç bana göre değil bu işler!<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_1_doku02_082",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0127",
+        "msgStr": "<COLOR 2>Şu çocukta sağlam yürek varmış."
+      },
+      {
+        "msgID": "MAP24_M_L0128",
+        "msgStr": "Dövüş becerileri de bayağı etkileyici üstelik.<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_n01_083",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0129",
+        "msgStr": "Oh be, çok korkutucuydu. Gerçekten öteki dünyaya göçtük sandım."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_n02_084",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0130",
+        "msgStr": "Görünüşe göre herkes güvende. Ne büyük bir rahatlama..."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_doku01_085",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0131",
+        "msgStr": "<COLOR 2>Aman Tanrım, hayatımda hiç bu kadar korkmamıştım! Öldüm sandım!<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_doku02_086",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0132",
+        "msgStr": "<COLOR 2>Gerçi itiraf etmeliyim ki şu öğrenci de bayağı korkutucu biri.<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_n01_087",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0133",
+        "msgStr": "Nefret ediyorum bundan... Hayatım boyunca hep böyle şeyler başıma geldi..."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_n02_088",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0134",
+        "msgStr": "Artık herkes iyi, ha?"
+      },
+      {
+        "msgID": "MAP24_M_L0135",
+        "msgStr": "Evet... <IT_S>Ben<IT_E> iyiysem diğerleri de iyidir."
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_doku01_089",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0136",
+        "msgStr": "<COLOR 2>Of! Yine altıma kaçırdım... En iyisi sesimi çıkarmayayım. Belki kimse fark etmez.<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_3_doku02_090",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0137",
+        "msgStr": "<COLOR 2>Çamaşır yıkamak için sessizce sıvışırım, kimsenin de ruhu duymaz."
+      },
+      {
+        "msgID": "MAP24_M_L0138",
+        "msgStr": "Kanıtları ortadan kaldırdım mı zayıf mesane sorunumu kimse öğrenemez.<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_msg_suifu_2_nakama01_091",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0139",
+        "msgStr": "Ne cehennemdeyiz biz böyle?"
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks01_01_092",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0140",
+        "msgStr": "<COLOR 2>Bu çocuk olmasa ölmüştüm. Karşılığında onun için bir şey yapmalıyım."
+      },
+      {
+        "msgID": "MAP24_M_L0141",
+        "msgStr": "Hm, belki de ona şunu vermeliyim...<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks01_02_093",
+        "msgStr": "Şık Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0142",
+        "msgStr": "Baksana evlat, bizi büyük bir beladan kurtardın; karşılığında sana bunu vermek isterim."
+      },
+      {
+        "msgID": "MAP24_M_L0143",
+        "msgStr": "Senin yaşındaki gençlerin her türlü ihtiyacı olur, değil mi? Bunu harçlık gibi düşün."
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks01_03_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0144",
+        "msgStr": "> Raidou, <ITM_14><COLOR 4>Ahşap Süs<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks02_01_095",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0145",
+        "msgStr": "<COLOR 2>Bu öğrenci araya girmeseydi hepimiz tahtalı köyü boylamıştık..."
+      },
+      {
+        "msgID": "MAP24_M_L0146",
+        "msgStr": "Ona bir tür ödül vermeliyim.<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks02_02_096",
+        "msgStr": "Coşkulu Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0147",
+        "msgStr": "Hayatımı kurtardın, hiç şüphe yok."
+      },
+      {
+        "msgID": "MAP24_M_L0148",
+        "msgStr": "Bu, teşekkürümün bir göstergesi. Özel bir şey değil ama umarım işine yarar."
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks02_03_097",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0149",
+        "msgStr": "> Raidou, <ITM_08><COLOR 4>Jin Dan<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks03_01_098",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP24_M_L0150",
+        "msgStr": "<COLOR 2>Umarım pantolonumdaki ıslak lekeyle ilgili o küçük kazayı kimse fark etmemiştir..."
+      },
+      {
+        "msgID": "MAP24_M_L0151",
+        "msgStr": "Şu çocuk bana tuhaf tuhaf bakıp duruyor. Belki sus payı verip ağzını kapatabilirim...<COLOR 0>"
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks03_02_099",
+        "msgStr": "Gergin Denizci"
+      },
+      {
+        "msgID": "MAP24_M_L0152",
+        "msgStr": "Şey, ımm... evet. İyiyim ben. Hiçbir sorun yok, kesinlikle yok efendim."
+      },
+      {
+        "msgID": "MAP24_M_L0153",
+        "msgStr": "Şey, hey, neden bunu almıyorsun? Bilirsin işte, şey gibi... hediye. Hayatımı kurtardığın için."
+      },
+      {
+        "msgID": "MAP24_M_L0154",
+        "msgStr": "Her neyse, her şey yolunda. Her şey usulüne uygun ve sıradan. Şüpheli hiçbir şey yok burada, ı-ıh."
+      },
+      {
+        "msgID": "map24_m_m_ep04_SuiThanks03_03_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0155",
+        "msgStr": "> Raidou, <ITM_08><COLOR 4>İlaç<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map24_m_m_Doku_Sui01_101",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0156",
+        "msgStr": "> Şık denizcinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map24_m_m_Doku_Sui02_102",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0157",
+        "msgStr": "> Coşkulu denizcinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map24_m_m_Doku_Sui03_103",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0158",
+        "msgStr": "> Gergin denizcinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_TUIKA_01_104",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0159",
+        "msgStr": "Bu, Rasputin'in bebeklerinden biri!"
+      },
+      {
+        "msgID": "MAP24_M_L0160",
+        "msgStr": "Demek bu işin içinde de o var."
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_TUIKA_02_105",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0161",
+        "msgStr": "Ne...?"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_boss_01_106",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0162",
+        "msgStr": "> Bebeğin içinden bir ses yükseldi."
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_boss_02_107",
+        "msgStr": "İblisin Sesi"
+      },
+      {
+        "msgID": "MAP24_M_L0163",
+        "msgStr": "Ben de o kuşlar neden ötmeyi kesti diye merak ediyordum..."
+      },
+      {
+        "msgID": "MAP24_M_L0164",
+        "msgStr": "Demek yine efendimin yoluna taş koymayı planlıyorsun, ha İblis Çağırıcısı?"
+      },
+      {
+        "msgID": "map24_m_m_msg_mato_boss_03_108",
+        "msgStr": "Triglav"
+      },
+      {
+        "msgID": "MAP24_M_L0165",
+        "msgStr": "Hahaha... Bil bakalım ne oldu? O kargoyu çalan <IT_S>benim<IT_E>!"
+      },
+      {
+        "msgID": "MAP24_M_L0166",
+        "msgStr": "Her şey tıpkı efendimin planladığı gibi gidiyor..."
+      },
+      {
+        "msgID": "MAP24_M_L0167",
+        "msgStr": "Sen hariç... O yüzden geber!"
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze01_01_109",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0168",
+        "msgStr": "> <devil 0> su haznesine doğru soğuk hava gönderdi."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze01_02_110",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0169",
+        "msgStr": "> Haznedeki su donuyor."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze01_03_111",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0170",
+        "msgStr": "> Su haznesinin yüzeyi tamamen buz tuttu."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze01_04_112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze02_01_113",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0172",
+        "msgStr": "> Su haznesi yolu kapatıyor."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze02_02_114",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0173",
+        "msgStr": "Su yolumuzu kesiyor. Bu durum Fukagawa-cho'da yaşadığımızı andırıyor."
+      },
+      {
+        "msgID": "MAP24_M_L0174",
+        "msgStr": "Raidou, daha önce bu durumu nasıl çözdüğümüzü hatırlıyor musun?"
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze02_02s SEL_115",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0175",
+        "msgStr": "Bir iblis üzerinden uçmuştu."
+      },
+      {
+        "msgID": "MAP24_M_L0176",
+        "msgStr": "Şey... Hayır."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze02_02a_116",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0177",
+        "msgStr": "Ah, hafızan gayet kuvvetli. Yine aynı yaklaşımla devam edelim."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze02_02b_117",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0178",
+        "msgStr": "Aşk olsun, sen dedektif değil misin? Bari kendi yaptığın şeyleri hatırla..."
+      },
+      {
+        "msgID": "MAP24_M_L0179",
+        "msgStr": "Geçen sefer bir iblisi suyun üzerinden uçurmuştuk."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze02_03_118",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0180",
+        "msgStr": "Hm!? O da ne!?"
+      },
+      {
+        "msgID": "MAP24_M_L0181",
+        "msgStr": "Bak! Savak kapısının tepesinde!"
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze02_04_119",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP24_M_L0182",
+        "msgStr": "Sanırım bir iblisi oraya tek başına göndermemeliyiz..."
+      },
+      {
+        "msgID": "MAP24_M_L0183",
+        "msgStr": "Görünüşe göre <COLOR 3>suyun üzerinden uçmak işe yaramayacak<COLOR 0>."
+      },
+      {
+        "msgID": "MAP24_M_L0184",
+        "msgStr": "Belki bir iblisin suyu bizzat geçmemize yardım edebileceği bir yol vardır."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze03_01_120",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0185",
+        "msgStr": "> Su haznesi buz tutmuş durumda."
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze03_01s SEL_121",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0186",
+        "msgStr": "İlerle"
+      },
+      {
+        "msgID": "MAP24_M_L0187",
+        "msgStr": "Kal"
+      },
+      {
+        "msgID": "map24_m_m_ep04_Freeze04_01_122",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0188",
+        "msgStr": "> Su haznesindeki buz eridi."
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_koe_01_123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_02_124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_02n_125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_koe_03_126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_koe_03_1_127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_04_128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_01_129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_02_130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_02n_131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_03_132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_04_133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_05_134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_06_135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_07_136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_08_137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_08n_138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_09_139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_10_140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_11_141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_12_142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_01_143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_02_144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0221",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_03_145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0222",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_04_146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0223",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_04_1_147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_04_2_148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0226",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_05_149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0227",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0228",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_05_01_150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0229",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_06_151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0230",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0231",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_07_152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ep09_yamata_b_08_153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0236",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten01_01_154",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0237",
+        "msgStr": "Karanlık Diyar'da bir insan ha? Ne tuhaf."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten01_02_155",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0238",
+        "msgStr": "> Raidou durumu açıkladı."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten01_03_156",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0239",
+        "msgStr": "Kendi zaman çizgine mi dönüyorsun? Anlıyorum... Gerçekten de zorlu bir görev."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten01_04_157",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0240",
+        "msgStr": "Pekâlâ. Sana yardım edeceğim."
+      },
+      {
+        "msgID": "MAP24_M_L0241",
+        "msgStr": "Ancak önce senden bir şey istemek durumundayım."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten01_05_158",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0242",
+        "msgStr": "Prizmanın muhafızı, <COLOR 1>Yamata-no-Orochi<COLOR 0> olarak bilinen vahşi ve son derece güçlü bir iblistir."
+      },
+      {
+        "msgID": "MAP24_M_L0243",
+        "msgStr": "Yoldaşlarım ve ben o gücü dengelemek için buradayız."
+      },
+      {
+        "msgID": "MAP24_M_L0244",
+        "msgStr": "Bizi yenemezsen Yamata-no-Orochi karşısında hiçbir şansın olmaz."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten01_06_159",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0245",
+        "msgStr": "Bu nedenle ben, Shouten, seni bir sınava tabi tutmak istiyorum."
+      },
+      {
+        "msgID": "MAP24_M_L0246",
+        "msgStr": "Bu kasabadaki yoldaşlarıma karşı savaşta galip gel ve <COLOR 1>Saflık Tılsımlarını<COLOR 0> elde et."
+      },
+      {
+        "msgID": "MAP24_M_L0247",
+        "msgStr": "Onlardan <COLOR 3>sekiz<COLOR 0> tane elde ederek gücünü kanıtla."
+      },
+      {
+        "msgID": "MAP24_M_L0248",
+        "msgStr": "Tılsımları topladığında seni Yamata-no-Orochi'ye götüreceğim."
+      },
+      {
+        "msgID": "MAP24_M_L0249",
+        "msgStr": "Şimdi git, kayıp çocuk."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten02_01_160",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0250",
+        "msgStr": "Bu kasabadaki yoldaşlarıma karşı savaşta galip gel ve <COLOR 1>Saflık Tılsımlarını<COLOR 0> elde et."
+      },
+      {
+        "msgID": "MAP24_M_L0251",
+        "msgStr": "Tılsımları topladığında seni Yamata-no-Orochi'ye götüreceğim."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten03_01_161",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0252",
+        "msgStr": "Ah, görünüşe göre sekiz Saflık Tılsımı'nı da toplamışsın. Aferin."
+      },
+      {
+        "msgID": "MAP24_M_L0253",
+        "msgStr": "Söz verdiğim gibi seni Yamata-no-Orochi'ye götüreceğim."
+      },
+      {
+        "msgID": "MAP24_M_L0254",
+        "msgStr": "Hazır mısın?"
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten03_01s SEL_162",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0255",
+        "msgStr": "Evet, öyleyim."
+      },
+      {
+        "msgID": "MAP24_M_L0256",
+        "msgStr": "Bana biraz zaman ver."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten03_01a_163",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0257",
+        "msgStr": "Pekâlâ. Gidelim öyleyse."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten03_01b_164",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0258",
+        "msgStr": "Nasıl istersen. Bilge kişi hazırlığı asla ihmal etmez."
+      },
+      {
+        "msgID": "map24_m_m_ep09_Seiten04_01_165",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0259",
+        "msgStr": "Yamata-no-Orochi ile yüzleşmeye hazır mısın?"
+      },
+      {
+        "msgID": "map24_m_m_ep09_SeitenExt01_166",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "MAP24_M_L0260",
+        "msgStr": "Ben Shouten."
+      },
+      {
+        "msgID": "MAP24_M_L0261",
+        "msgStr": "Varlığımız, Yamata-no-Orochi'nin gücünü dengelemeye hizmet ediyor."
+      },
+      {
+        "msgID": "map24_m_m_Jong_Hiruko01_01_167",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0262",
+        "msgStr": "> Yeni doğmuş bir Hiruko'ya benziyor."
+      },
+      {
+        "msgID": "map24_m_m_Jong_Hiruko01_02_168",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0263",
+        "msgStr": "> Tehditkâr görünüyor."
+      },
+      {
+        "msgID": "map24_m_m_Jong_Hiruko01_02s SEL_169",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0264",
+        "msgStr": "Dokun"
+      },
+      {
+        "msgID": "MAP24_M_L0265",
+        "msgStr": "Kendi haline bırak"
+      },
+      {
+        "msgID": "map24_m_m_Jong_Hiruko01_02a_170",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0266",
+        "msgStr": "> İblis saldırdı!"
+      },
+      {
+        "msgID": "map24_m_m_Jong_Devil01_01_171",
+        "msgStr": "Raiju"
+      },
+      {
+        "msgID": "MAP24_M_L0267",
+        "msgStr": "Köprünün karşısındaki şu ucube ne yapıyor öyle?"
+      },
+      {
+        "msgID": "MAP24_M_L0268",
+        "msgStr": "Valla sırf neler döndüğünü görmek için bile karşıya geçesim geldi."
+      },
+      {
+        "msgID": "map24_m_m_Jong_Devil02_01_172",
+        "msgStr": "Raiju"
+      },
+      {
+        "msgID": "MAP24_M_L0269",
+        "msgStr": "O ucube kalabalığa kapılıp gitmedi..."
+      },
+      {
+        "msgID": "MAP24_M_L0270",
+        "msgStr": "Heh, belki o da benim gibi yalnız bir kurttur."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_01_173",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0271",
+        "msgStr": "Saflık Tılsımları mı arıyorsun? Şanslısın, çünkü bende bir tane var!"
+      },
+      {
+        "msgID": "MAP24_M_L0272",
+        "msgStr": "Sana iyi bir fiyata bırakırım. Zaten indirimli olan fiyattan biraz daha düşersem toplamda..."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_02_174",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0273",
+        "msgStr": "20.000 yen olur!"
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_02s SEL_175",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0274",
+        "msgStr": "Satıldı!"
+      },
+      {
+        "msgID": "MAP24_M_L0275",
+        "msgStr": "Şaka mı yapıyorsun?"
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_03_176",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0276",
+        "msgStr": "Ah, şey... 1.000 yene ne dersin?"
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_03s SEL_177",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0277",
+        "msgStr": "Şimdi oldu işte."
+      },
+      {
+        "msgID": "MAP24_M_L0278",
+        "msgStr": "Almayayım."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_03a_01_178",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0279",
+        "msgStr": "Alışveriş için teşekkürler!"
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_03a_02_179",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0280",
+        "msgStr": "> Raidou, <ITM_12><COLOR 4>Saflık Tılsımı<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_03a_03_180",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0281",
+        "msgStr": "> <devil 0>, <ITM_12><COLOR 4>Saflık Tılsımı<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_03b_181",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0282",
+        "msgStr": "Emin misin? Çok iyi bir fırsat ama. Neyse, fikrini değiştirirsen yine gel."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_03NotHave_182",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0283",
+        "msgStr": "Ah canım, yeterince paran yok. Kusura bakma ama burada ticaret yapıyoruz."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_03Enough_183",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0284",
+        "msgStr": "Ah, zaten yeterince tılsımın var mı?"
+      },
+      {
+        "msgID": "MAP24_M_L0285",
+        "msgStr": "Eh, hiç sorun değil. Başka bir sürü müşterim var."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_04_184",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0286",
+        "msgStr": "Ah canım... Üzülerek söylüyorum ki elimde hiç tılsım kalmadı."
+      },
+      {
+        "msgID": "MAP24_M_L0287",
+        "msgStr": "Sanırım geri kalanını kendi başına toplaman gerekecek."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_02_01_185",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0288",
+        "msgStr": "Eskiden buralarda o kadar çok Saflık Tılsımı olurdu ki."
+      },
+      {
+        "msgID": "MAP24_M_L0289",
+        "msgStr": "Ama son zamanlarda azaldılar. Arz düşünce talep artar! İşler hiç bu kadar iyi olmamıştı!"
+      },
+      {
+        "msgID": "map24_m_m_Devil01_02_02_186",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0290",
+        "msgStr": "Aman Tanrım, sende Saflık Tılsımı mı var?"
+      },
+      {
+        "msgID": "MAP24_M_L0291",
+        "msgStr": "Onu senden 20.000 yene alırım. Anlaştık mı?"
+      },
+      {
+        "msgID": "map24_m_m_Devil01_02_02s SEL_187",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0292",
+        "msgStr": "Bana uyar."
+      },
+      {
+        "msgID": "MAP24_M_L0293",
+        "msgStr": "Üzgünüm, kalsın."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_02_02a_01_188",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0294",
+        "msgStr": "Ah, akıllıca bir seçim. Alışveriş için teşekkürler!"
+      },
+      {
+        "msgID": "map24_m_m_Devil01_02_02a_02_189",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0295",
+        "msgStr": "> Raidou, <COLOR 4>20.000 yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_02_02a_03_190",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0296",
+        "msgStr": "> <devil 0>, <COLOR 4>20.000 yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_02_02b_191",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0297",
+        "msgStr": "Ah. Eh, hayal kırıklığına uğradım."
+      },
+      {
+        "msgID": "MAP24_M_L0298",
+        "msgStr": "Sanırım zorla almam gerekecek! Hahaha, merak etme, sadece şaka yapıyorum."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_02_03_192",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0299",
+        "msgStr": "Biraz daha olsa güzel olurdu ama açıkçası... şu sıralar nakit sıkıntısı çekiyorum."
+      },
+      {
+        "msgID": "map24_m_m_Devil01_01_MAE_193",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "MAP24_M_L0300",
+        "msgStr": "Dur biraz, şu an biraz meşgulüm..."
+      },
+      {
+        "msgID": "map24_m_m_Devil02_01_01_194",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "MAP24_M_L0301",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map24_m_m_Devil02_01_02_195",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0302",
+        "msgStr": "> İblis, Raidou'yu tamamen görmezden geliyor."
+      },
+      {
+        "msgID": "map24_m_m_Devil02_02_01_196",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "MAP24_M_L0303",
+        "msgStr": "Hee ho!"
+      },
+      {
+        "msgID": "MAP24_M_L0304",
+        "msgStr": "Ben yüce Yamata-no-Orochi'nin hee-hizmetkârıyım-ho! Siyah Pelerin'i arı-hee-yorum, ho!"
+      },
+      {
+        "msgID": "MAP24_M_L0305",
+        "msgStr": "Sen de mi Siyah Pelerin'le hee-dövüşeceksin? O zaman benden-ho sana gelsin, bunu al!"
+      },
+      {
+        "msgID": "map24_m_m_Devil02_02_02_197",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0306",
+        "msgStr": "> <devil 0>, <ITM_08><COLOR 4>Yaşam Boncuğu<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map24_m_m_Devil02_03_01_198",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "MAP24_M_L0307",
+        "msgStr": "Hee ho! İkimize de hee-bol şans, ho!"
+      },
+      {
+        "msgID": "map24_m_m_Devil02_04_01_199",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "MAP24_M_L0308",
+        "msgStr": "Hee-şey, yüce-ho Yamata-no-Orochi için Siyah Pelerin'le dövüştüm."
+      },
+      {
+        "msgID": "MAP24_M_L0309",
+        "msgStr": "Ama beni hee-alt etti-ho..."
+      },
+      {
+        "msgID": "MAP24_M_L0310",
+        "msgStr": "Dövüşmek artık hee-hiç eğlenceli değil, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0311",
+        "msgStr": "Bunu sen hee-tutabilirsin, ho. Artık işime yaramayacak hee-nasıl olsa, ho."
+      },
+      {
+        "msgID": "map24_m_m_Devil02_05_01_200",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "MAP24_M_L0312",
+        "msgStr": "Nasıl hee-gidiyor bakalım, ho?"
+      },
+      {
+        "msgID": "map24_m_m_Devil03_01_01_201",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0313",
+        "msgStr": "Bu şake fena değil ama... bir şey ekşik..."
+      },
+      {
+        "msgID": "map24_m_m_Devil03_01_02_202",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0314",
+        "msgStr": "Of, açlıktan ölüyorum... Biraz meze olşa..."
+      },
+      {
+        "msgID": "MAP24_M_L0315",
+        "msgStr": "Şake ve meze birbirine şey gibi yakışır... ımm... etle tırnak gibi."
+      },
+      {
+        "msgID": "map24_m_m_Devil03_01_03_203",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0316",
+        "msgStr": "Hey! Şende güzel bir şeyler var, di mi!?"
+      },
+      {
+        "msgID": "MAP24_M_L0317",
+        "msgStr": "Yiyecek bir şeyler ateşleyebilir mişin?"
+      },
+      {
+        "msgID": "map24_m_m_Devil03_01_03s SEL_204",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0318",
+        "msgStr": "Tabii!"
+      },
+      {
+        "msgID": "MAP24_M_L0319",
+        "msgStr": "Çekil git be ayyaş."
+      },
+      {
+        "msgID": "map24_m_m_Devil03_01_03a_01_205",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0320",
+        "msgStr": "Harika, şağ olaşın! Bu şakenin tadı şimdi çok daha güzel çıkacak!"
+      },
+      {
+        "msgID": "MAP24_M_L0321",
+        "msgStr": "Bu da minnetimin bir göştergeşi! Al bakalım!"
+      },
+      {
+        "msgID": "map24_m_m_Devil03_01_03a_02_206",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0322",
+        "msgStr": "> Raidou, <ITM_11><COLOR 4>\"Kotetsu\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map24_m_m_Devil03_01_03a_03_207",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0323",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Kotetsu\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map24_m_m_Devil03_01_03b_208",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0324",
+        "msgStr": "Ha!? Ah, tüüh be..."
+      },
+      {
+        "msgID": "MAP24_M_L0325",
+        "msgStr": "Eh, fikrini değiştirirşen burada açlıktan ölerek bekliyor olacağım..."
+      },
+      {
+        "msgID": "map24_m_m_Devil03_02_01_209",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0326",
+        "msgStr": "kuşura bakma, şimdi konuşamam!"
+      },
+      {
+        "msgID": "MAP24_M_L0327",
+        "msgStr": "İçmem lazım, içmem ve daha çok içmem lazım!"
+      },
+      {
+        "msgID": "map24_m_m_Devil03_03_01_210",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0328",
+        "msgStr": "Ah be kardeşim..."
+      },
+      {
+        "msgID": "MAP24_M_L0329",
+        "msgStr": "Şake hayattır! Şake ve meze bir arada cennettir!"
+      },
+      {
+        "msgID": "map24_m_m_Devil03_03_01__211",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0330",
+        "msgStr": "Ah... Az kalsın ipin ucunu biraaaz fazla kaçırıyordum..."
+      },
+      {
+        "msgID": "MAP24_M_L0331",
+        "msgStr": "İstediğin kadar şake içebilirşin ama şakenin şeni içmeşine izin verme."
+      },
+      {
+        "msgID": "map24_m_m_Devil03_03_02_212",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0332",
+        "msgStr": "Hmm? Şuradakiler meze mi? Bayağı... lezzetli görünüyorlar..."
+      },
+      {
+        "msgID": "MAP24_M_L0333",
+        "msgStr": "Onları bana uzatmaya ne derşin?"
+      },
+      {
+        "msgID": "map24_m_m_Devil03_03_02s SEL_213",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0334",
+        "msgStr": "Mezeleri uzat"
+      },
+      {
+        "msgID": "MAP24_M_L0335",
+        "msgStr": "Sessizce uzaklaş"
+      },
+      {
+        "msgID": "map24_m_m_Devil03_03_02a_214",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0336",
+        "msgStr": "Yihu! Şimdi biraz daha içebilirim!"
+      },
+      {
+        "msgID": "MAP24_M_L0337",
+        "msgStr": "Al bakalım, teşekkür olarak kaliteli maldan bir şişe almana izin vereceğim. Hadi, çekinme al!"
+      },
+      {
+        "msgID": "map24_m_m_Devil03_03_02b_215",
+        "msgStr": "Sarhoş Feng Huang"
+      },
+      {
+        "msgID": "MAP24_M_L0338",
+        "msgStr": "Neyşe... Sonra bu ihtiyara yardım etmek işterşen buralardayım şanırım..."
+      },
+      {
+        "msgID": "map24_m_m_Rhone01_01_216",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0339",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map24_m_m_Rhone01_02_217",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0340",
+        "msgStr": "> Ancak Büyük Tarrasque, Karanlık Diyar'da değil."
+      },
+      {
+        "msgID": "map24_m_m_Rhone01_03_218",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0341",
+        "msgStr": "> Ancak Büyük Tarrasque gelmedi..."
+      },
+      {
+        "msgID": "map24_m_m_msg_tarasuku_nori_00_219",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0342",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_tarasuku_nori_01_220",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0343",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0344",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP24_M_L0345",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map24_m_m_msg_tarasuku_nori_02_221",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0346",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map24_m_m_msg_tarasuku_nori_DAME1_222",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0347",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_m_msg_tarasuku_nori_DAME2_223",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0348",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_m_mplan_ikai_exitDAME_224",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0349",
+        "msgStr": "> Buradan Karanlık Diyar'dan çıkmak imkânsız. Geçit diğer taraftan kapatılmış."
+      },
+      {
+        "msgID": "map24_m_m_Common_IkaiExit01_225",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0350",
+        "msgStr": "> Yatagarasu Elçisi, gerçek dünya ile Karanlık Diyar arasında bir bağlantı kurdu."
+      },
+      {
+        "msgID": "MAP24_M_L0351",
+        "msgStr": "> Işığın ötesinde İsimsiz Tapınak görünüyor. İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map24_m_m_Common_IkaiExit02_226",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0352",
+        "msgStr": "> Işığın ötesinde gerçek dünya görünüyor."
+      },
+      {
+        "msgID": "MAP24_M_L0353",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_M_L0354",
+        "msgStr": "> Gerçek dünyaya dönülsün mü?"
+      },
+      {
+        "msgID": "map24_m_m_Common_IkaiExitSelect SEL_227",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_M_L0355",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP24_M_L0356",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map24_m_m_Devil04_01_01_228",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0357",
+        "msgStr": "Hee ho!"
+      },
+      {
+        "msgID": "MAP24_M_L0358",
+        "msgStr": "Son zamanlarda buralardaki iblislerin sayısından pek hee-hoşnut değilim, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0359",
+        "msgStr": "Ta-hee-şınmayı bile düşünüyorum, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0360",
+        "msgStr": "Ama bence o baş belaları birinin emrinde çalı-hee-şıyor, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0361",
+        "msgStr": "Gözlem becerilerim birinc-hee sınıftır, ho! Benden harika bir dedektif olurdu-ho, ho."
+      },
+      {
+        "msgID": "map24_m_m_Devil04_02_01_229",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0362",
+        "msgStr": "Etkileyici, hee ho! Birisi o alçak iblisleri kapı dışarı hee-tmiş, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0363",
+        "msgStr": "O serser-hee-lerden bıkan iblisler geri dönebilir, ho."
+      },
+      {
+        "msgID": "map24_m_m_Devil04_02_02_230",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0364",
+        "msgStr": "Duydun mu hee? O alçak iblisler artık bura-hee-da değil, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0365",
+        "msgStr": "O serser-hee-lerden bıkan iblisler geri dönebilir, ho."
+      },
+      {
+        "msgID": "map24_m_m_Devil04_03_01_231",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0366",
+        "msgStr": "Tılsım toplamaya mı çalı-hee-şıyorsun, ho? Üzgünüm ama bende hee-hiç yok, ho..."
+      },
+      {
+        "msgID": "MAP24_M_L0367",
+        "msgStr": "Shouten'i ye-hee-nerek onları alabilirsin, ho. Ama bu benim için imkânsız tab-hee."
+      },
+      {
+        "msgID": "MAP24_M_L0368",
+        "msgStr": "Belki benim başaramayacağımı sen başa-hee-rırsın, ho. Bol şans, hee ho!"
+      },
+      {
+        "msgID": "map24_m_m_Devil04_03_02_232",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0369",
+        "msgStr": "Biliyor muydun hee? Siyah Pelerin tılsım top-hee-luyor, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0370",
+        "msgStr": "Hee ho ho! Çırpın ve acıyı hee-hisset, ho!"
+      },
+      {
+        "msgID": "MAP24_M_L0371",
+        "msgStr": "Şey... Sadece birazcık kötü-hee-lük taslamayı denemek istemiştim, ho."
+      },
+      {
+        "msgID": "map24_m_m_Devil04_03_03_233",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0372",
+        "msgStr": "Hee ho? Sanırım ilk kez karşı-ho-laşıyoruz ama seni daha önce gör-hee-müş gibiyim, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0373",
+        "msgStr": "Geleceği görebili-ho olmalıyım!"
+      },
+      {
+        "msgID": "map24_m_m_Devil04_03_04_234",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0374",
+        "msgStr": "Ana caddedeki fil ib-hee-lisine hee-Shouten diyorlar, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0375",
+        "msgStr": "Çok güçlü gö-ho-rünüyor, ho."
+      },
+      {
+        "msgID": "map24_m_m_Devil04_04_01_235",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0376",
+        "msgStr": "Ayrılan iblisler geri dön-hee-meye başladı, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0377",
+        "msgStr": "Tılsım toplayan hanımefend-hee çok sıkı çalışıyor, hee ho."
+      },
+      {
+        "msgID": "map24_m_m_Devil04_05_01_236",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP24_M_L0378",
+        "msgStr": "Harumi-Ho'nun başı dertte ama iblislerin pek umu-hee-runda değil gibi, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0379",
+        "msgStr": "Ama hepimiz o kocaman şeyin iblissavar bir silah olmamasını hee-umuyoruz, ho."
+      },
+      {
+        "msgID": "MAP24_M_L0380",
+        "msgStr": "En korkuncu hee-insanlar, ho!"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:56:38"
+}

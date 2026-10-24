@@ -1,0 +1,293 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP23_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map23_e_EPI02_SCENE08_01_000",
+        "msgStr": "Kırmızı Özel Muhafız"
+      },
+      {
+        "msgID": "MAP23_E_L0000",
+        "msgStr": "Bu adamı burada tutun."
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE08_01_TUIKA01_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0001",
+        "msgStr": "> Kırmızılı askerler ayrıldı."
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE08_02_TUIKA01_002",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_E_L0002",
+        "msgStr": "Bizi Karanlık Diyar'a sürükleyerek neyin peşindeler acaba?"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE08_02_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_E_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE08_03_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE08_04_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_E_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_E_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE08_06_006",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_E_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_E_L0008",
+        "msgStr": "Her neyse, önce şu zombilerin işini bitirelim, sonra da Denpachi'yi bulalım."
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_01_007",
+        "msgStr": "Esir Adam"
+      },
+      {
+        "msgID": "MAP23_E_L0009",
+        "msgStr": "<lips 25 5>"
+      },
+      {
+        "msgID": "MAP23_E_L0010",
+        "msgStr": "Vay anasını evlat, o canavarları yendiğine inanamıyorum!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP23_E_L0011",
+        "msgStr": "<lips 25 5>"
+      },
+      {
+        "msgID": "MAP23_E_L0012",
+        "msgStr": "Çabuk, diğerleri dönmeden beni buradan çıkarman lazım!\n<lips_stop>"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_03_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0013",
+        "msgStr": "> Kapı kilitli."
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_04_009",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_E_L0014",
+        "msgStr": "Hm... Acaba <COLOR 3>Konnou-ya<COLOR 0>'da kilitleri açmaya yarayacak bir şey var mıdır?"
+      },
+      {
+        "msgID": "MAP23_E_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_06_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_07_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_08_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_09_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0019",
+        "msgStr": "> Basit tasarımı sayesinde bir <COLOR 1>Maymuncuk<COLOR 0> onu kolayca açabilir."
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_10_014",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_E_L0020",
+        "msgStr": "Anlıyorum... Acaba <COLOR 3>Konnou-ya<COLOR 0>'da kilitleri açmaya yarayacak bir şey var mıdır?"
+      },
+      {
+        "msgID": "MAP23_E_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE11_00_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0022",
+        "msgStr": "> Raidou kapıyı kapalı tutan kilidi maymuncukla açtı."
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE11_01_016",
+        "msgStr": "Adam"
+      },
+      {
+        "msgID": "MAP23_E_L0023",
+        "msgStr": "<lips 25 5>"
+      },
+      {
+        "msgID": "MAP23_E_L0024",
+        "msgStr": "Beni kurtardığın için çok teşekkür ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP23_E_L0025",
+        "msgStr": "<lips 25 5>"
+      },
+      {
+        "msgID": "MAP23_E_L0026",
+        "msgStr": "Olamaz! Geri döndüler!\n<lips_stop>"
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE11_03_017",
+        "msgStr": "Kırmızı Özel Muhafız"
+      },
+      {
+        "msgID": "MAP23_E_L0027",
+        "msgStr": "Kaçamayacaksınız."
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE12_01_018",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_E_L0028",
+        "msgStr": "Raidou, daha fazlası gelmeden onu buradan çıkaralım."
+      },
+      {
+        "msgID": "map23_e_map01_ep06_scene03_01_019",
+        "msgStr": "Efsuncu"
+      },
+      {
+        "msgID": "MAP23_E_L0029",
+        "msgStr": "bEn Bİr tAnRIyIm! nEyİn İyİ vEyA kÖtÜ oLdUğUnA bEn KaRAr vErİRim!"
+      },
+      {
+        "msgID": "map23_e_map01_ep06_scene03_02_020",
+        "msgStr": "Efsuncu"
+      },
+      {
+        "msgID": "MAP23_E_L0030",
+        "msgStr": "BeN HiTOkOtoNuSHi, KaTsuRAgi'Nİn tAnRIsIyIM!"
+      },
+      {
+        "msgID": "map23_e_map01_ep06_scene03_03_021",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "MAP23_E_L0031",
+        "msgStr": "SüPEr AsKEr pRojESi İyİdİr! bU, KunITsu'NuN İntİkAmIdIR!"
+      },
+      {
+        "msgID": "MAP23_E_L0032",
+        "msgStr": "BiZi DUrDurMAyA çAlIŞırSaN, KuZUnohA..."
+      },
+      {
+        "msgID": "MAP23_E_L0033",
+        "msgStr": "...bU sEnİ KöTÜ yApAr! KötÜ! KöTÜ! ŞiMdİ iYilİĞiMiZe BoYuN eĞ!"
+      },
+      {
+        "msgID": "map23_e_map23_ep07_scene04_01_022",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "MAP23_E_L0034",
+        "msgStr": "LaNEt tİlKİ... kArGAnIn aKılsIZ kUkLAsI..."
+      },
+      {
+        "msgID": "map23_e_map23_ep07_scene04_02_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0035",
+        "msgStr": "> Raidou'nun üzerindeki lanet kırıldı."
+      },
+      {
+        "msgID": "map23_e_map23_ep07_scene04_03_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_e_map23_ep07_scene04_04_025",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP23_E_L0037",
+        "msgStr": "Görüyorum ki lanetin kaynağını ortadan kaldırmışsın."
+      },
+      {
+        "msgID": "MAP23_E_L0038",
+        "msgStr": "Güvende olman sevindirici. Fuchikoma kaldırıldı."
+      },
+      {
+        "msgID": "map23_e_map23_ep07_scene04_05_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0039",
+        "msgStr": "> Raidou'nun etrafındaki hava değişti ve başka bir yere taşındı."
+      },
+      {
+        "msgID": "map23_e_EPI02_SCENE09_01_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_E_L0040",
+        "msgStr": "> Hücreye kilitlenmiş bir adam var."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:46:31"
+}

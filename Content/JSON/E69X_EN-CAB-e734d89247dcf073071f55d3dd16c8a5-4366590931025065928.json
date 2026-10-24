@@ -1,0 +1,341 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E69X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e690_e690_001_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E690_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e690_e690_002_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E690_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e690_e690_003_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E690_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e690_001_e690_001_001_000",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "E690_001_L0000",
+        "msgStr": "Güneş parladıkça, <mw 60>gölge de düşürür.\n<mw 100>"
+      },
+      {
+        "msgID": "e690_001_e690_001_002_001",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "E690_001_L0001",
+        "msgStr": "Göklerin <mw 60>ve yerin kanunu budur.\n<mw 200>"
+      },
+      {
+        "msgID": "e690_001_e690_001_003_002",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "E690_001_L0002",
+        "msgStr": "Aynı şekilde, insanın olduğu yerde karanlık da vardır.<mw 100>\nBiz o karanlığı yok etmek için varız.\n<mw 150>"
+      },
+      {
+        "msgID": "e690_001_e690_001_004_003",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "E690_001_L0003",
+        "msgStr": "Genç aday, önce adını söylemelisin.\n<mw 120>"
+      },
+      {
+        "msgID": "e690_002_e690_002_001_000",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "E690_002_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e690_002_e690_002_002_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E690_002_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e690_003_e690_003_001_000",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "E690_003_L0000",
+        "msgStr": "Pekâlâ, <NAME 0>. Öyleyse sana böyle hitap edilecek.\n<mw 120>"
+      },
+      {
+        "msgID": "e690_003_e690_003_002_001",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "E690_003_L0001",
+        "msgStr": "Şimdi, eğitiminin sonuçlarını göster.\n<mw 180>"
+      },
+      {
+        "msgID": "e690_003_e690_003_003_002",
+        "msgStr": "Yaşlı Ses"
+      },
+      {
+        "msgID": "E690_003_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e690_003_e690_003_004_003",
+        "msgStr": "Yaşlı Ses"
+      },
+      {
+        "msgID": "E690_003_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e690_003_e690_003_005_004",
+        "msgStr": "Yaşlı Ses"
+      },
+      {
+        "msgID": "E690_003_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e690_003_e690_003_006_005",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "E690_003_L0005",
+        "msgStr": "Eğitim salonuna gel.\n<mw 180>"
+      },
+      {
+        "msgID": "e690_004_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E690_004_L0001",
+        "msgStr": "[dua mırıldanır]"
+      },
+      {
+        "msgID": "E690_004_L0002",
+        "msgStr": "[dua mırıldanır]"
+      },
+      {
+        "msgID": "E690_004_L0003",
+        "msgStr": "[dua mırıldanır]"
+      },
+      {
+        "msgID": "E690_004_L0004",
+        "msgStr": "[dua mırıldanır]"
+      },
+      {
+        "msgID": "E690_004_L0005",
+        "msgStr": "Ortaya çık!"
+      },
+      {
+        "msgID": "e690_004_e690_004_001_000",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "E690_004_L0000",
+        "msgStr": "Pekâlâ. Artık bu işte sonuna kadar varım. O yüzden önemli yerlerde beni sahaya sürsen iyi edersin, duydun mu!?\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_001_000",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "E690_005_L0000",
+        "msgStr": "Köy, bu vesileyle sana şu adı bahşediyor...\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_002_001",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "E690_005_L0001",
+        "msgStr": "<COLOR 1>Raidou Kuzunoha<COLOR 0>!\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_003_002",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "E690_005_L0002",
+        "msgStr": "<COLOR 0>Bu adı taşıyan <COLOR 1>ondördüncü<COLOR 0> kişisin!\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_004_003",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "E690_005_L0003",
+        "msgStr": "Doğum adın olan <NAME 0>,\nköyde kalacak.\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_005_004",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "E690_005_L0004",
+        "msgStr": "Şu andan itibaren, Ondördüncü Raidou Kuzunoha olacaksın.\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_006_005",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "E690_005_L0005",
+        "msgStr": "İblis Çağırıcısı, Başkent senin ellerinde!\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_007_006",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "E690_005_L0006",
+        "msgStr": "Ancak bu yükü tek başına sırtlamayacaksın.\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_008_007",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "E690_005_L0007",
+        "msgStr": "<COLOR 1>Gouto-Douji<COLOR 0>, öne çık!\n<mw 120>"
+      },
+      {
+        "msgID": "e690_005_e690_005_009_008",
+        "msgStr": "Kara Kedi"
+      },
+      {
+        "msgID": "E690_005_L0008",
+        "msgStr": "Demek sıradaki Raidou bu çocuk, öyle mi?\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_010_009",
+        "msgStr": "Kara Kedi"
+      },
+      {
+        "msgID": "E690_005_L0009",
+        "msgStr": "Eh, köyün arzusu buysa öyle olsun.\n<mw 120>"
+      },
+      {
+        "msgID": "e690_005_e690_005_011_010",
+        "msgStr": "Kara Kedi"
+      },
+      {
+        "msgID": "E690_005_L0010",
+        "msgStr": "Pekâlâ, bana Gouto diyebilirsin.\n<mw 120>"
+      },
+      {
+        "msgID": "e690_005_e690_005_012_011",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "E690_005_L0011",
+        "msgStr": "Tanıştığımıza memnun oldum, Ondördüncü Raidou.\n<mw 180>"
+      },
+      {
+        "msgID": "e690_005_e690_005_013_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E690_005_L0012",
+        "msgStr": "> Ve böylece <NAME 0> adlı gencin yolculuğu—"
+      },
+      {
+        "msgID": "E690_005_L0013",
+        "msgStr": "> Daha doğrusu, Ondördüncü Raidou Kuzunoha'nın yolculuğu, o ve Gouto köyden ayrılırken başladı."
+      },
+      {
+        "msgID": "e696_001_e696_001_001_000",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "E696_001_L0000",
+        "msgStr": "Ra...do... on... dör...cü...\n<mw 100>"
+      },
+      {
+        "msgID": "e696_001_e696_001_002_001",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "E696_001_L0001",
+        "msgStr": "Ondördüncü Raidou Kuzunoha!\n<mw 100>"
+      },
+      {
+        "msgID": "e696_001_e696_001_003_002",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "E696_001_L0002",
+        "msgStr": "<mw 100>"
+      },
+      {
+        "msgID": "e696_001_e696_001_004_003",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "E696_001_L0003",
+        "msgStr": "Ne kadar utanç verici! <mw 80>Bizi büyük bir hayal kırıklığına uğrattın.\n<mw 80>"
+      },
+      {
+        "msgID": "e696_001_e696_001_005_004",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "E696_001_L0004",
+        "msgStr": "Yeteneklerin—seleflerinin yanında çok sönük kalıyor!\n<mw 120>"
+      },
+      {
+        "msgID": "e696_001_e696_001_006_005",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "E696_001_L0005",
+        "msgStr": "Seni sıradaki Raidou Kuzunoha ilan etmek vahim bir hata olur.\n<mw 120>"
+      },
+      {
+        "msgID": "e696_001_e696_001_007_006",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "E696_001_L0006",
+        "msgStr": "Başka seçeneğimiz yok. Raidou'nun kutsal adına leke sürdün.\n<mw 100>"
+      },
+      {
+        "msgID": "e696_001_e696_001_008_007",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "E696_001_L0007",
+        "msgStr": "Yıkıl karşımdan!\n<mw 80>"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:40:18"
+}

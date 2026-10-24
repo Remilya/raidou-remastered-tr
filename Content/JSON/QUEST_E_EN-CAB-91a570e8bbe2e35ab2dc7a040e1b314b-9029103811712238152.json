@@ -1,0 +1,1841 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "QUEST_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "quest_e_ID01_00_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_E_01_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "quest_e_ID02_00_000",
+        "msgStr": "Kız"
+      },
+      {
+        "msgID": "QUEST_E_02_L0000",
+        "msgStr": "Aa, Raidou! Taro... Taro'nun başı dertte!"
+      },
+      {
+        "msgID": "QUEST_E_02_L0001",
+        "msgStr": "Mahsur kaldı ve kendi başına aşağı inemiyor!"
+      },
+      {
+        "msgID": "quest_e_ID02_00_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_02_L0001_001",
+        "msgStr": "> Çatıda korkuyla titreyen bir köpek var. Bu Taro olmalı..."
+      },
+      {
+        "msgID": "quest_e_ID02_00_006",
+        "msgStr": "Kız"
+      },
+      {
+        "msgID": "QUEST_E_02_L0002",
+        "msgStr": "Belki de fakir olduğumuz ve iyi köpek maması alamadığımız için Taro bize kızgındır..."
+      },
+      {
+        "msgID": "quest_e_ID02_00_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_02_L0003",
+        "msgStr": "Raidou, burada İblis Çağırıcısı yeteneklerini kullanabilir misin dersin?"
+      },
+      {
+        "msgID": "quest_e_ID02_00_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_02_L0004",
+        "msgStr": "> <devil 0> uçma gücünü kullandı."
+      },
+      {
+        "msgID": "QUEST_E_02_L0005",
+        "msgStr": "> <devil 0> sessizce Taro'yu kızın yanına indirdi."
+      },
+      {
+        "msgID": "quest_e_ID02_00_003",
+        "msgStr": "Kız"
+      },
+      {
+        "msgID": "QUEST_E_02_L0006",
+        "msgStr": "Ne!? Nasıl oldu da...!? Onu ne zaman aşağı indirdin!?"
+      },
+      {
+        "msgID": "QUEST_E_02_L0006_001",
+        "msgStr": "Taro! İyi olduğuna çok sevindim!"
+      },
+      {
+        "msgID": "QUEST_E_02_L0006_002",
+        "msgStr": "Yaramaz Taro! Beni bir daha asla öyle korkutma, tamam mı?"
+      },
+      {
+        "msgID": "quest_e_ID02_00_007",
+        "msgStr": "Köpek Taro"
+      },
+      {
+        "msgID": "QUEST_E_02_L0006_003",
+        "msgStr": "Hav, hav! Hav!"
+      },
+      {
+        "msgID": "quest_e_ID02_00_008",
+        "msgStr": "Kız"
+      },
+      {
+        "msgID": "QUEST_E_02_L0007",
+        "msgStr": "Çok teşekkür ederim, Raidou!"
+      },
+      {
+        "msgID": "QUEST_E_02_L0008",
+        "msgStr": "Her zaman herkese karşı çok naziksin!"
+      },
+      {
+        "msgID": "QUEST_E_02_L0009",
+        "msgStr": "Ve insanlara her zaman o kadar hızlı yardım ediyorsun ki kimse görmüyor bile! Gerçi bunu nasıl yaptığını anlamıyorum..."
+      },
+      {
+        "msgID": "quest_e_ID02_00_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_02_L0010",
+        "msgStr": "> Kız Taro'yu aldı ve yüzünde bir gülümsemeyle ayrıldı."
+      },
+      {
+        "msgID": "quest_e_ID03_00_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_E_03_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "quest_e_ID04_00_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_E_04_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "quest_e_ID05_00_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_05_L0000",
+        "msgStr": "Eğitime hazır mısın, Raidou?"
+      },
+      {
+        "msgID": "QUEST_E_05_L0001",
+        "msgStr": "Evet, öyleyim."
+      },
+      {
+        "msgID": "QUEST_E_05_L0002",
+        "msgStr": "Henüz değil."
+      },
+      {
+        "msgID": "quest_e_ID05_00_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_05_L0003",
+        "msgStr": "Görünüşe göre eğitimin gerçekten meyvesini veriyor. Böyle devam et, Raidou."
+      },
+      {
+        "msgID": "QUEST_E_05_L0004",
+        "msgStr": "Süre doldu. Daha hızlı olman gerekecek."
+      },
+      {
+        "msgID": "quest_e_ID07_00_000",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_07_L0000",
+        "msgStr": "Ah! Siz yüce Raidou Kuzunoha olmalısınız!"
+      },
+      {
+        "msgID": "QUEST_E_07_L0001",
+        "msgStr": "Ben Yatagarasu ile iş yapan ve bu unvanı devralan otuzuncu kılıç ustası Usta Muramasa'nın çırağıyım."
+      },
+      {
+        "msgID": "QUEST_E_07_L0002",
+        "msgStr": "Elbette Raidou'nun, zaten saygın olan Kuzunoha klanı içinde bile nam salmış bir isim olduğunun farkındayım!"
+      },
+      {
+        "msgID": "QUEST_E_07_L0003",
+        "msgStr": "Bu kadar genç yaşta bu unvanı devralan ondördüncü kişi olduğunuzu düşünmek bile... Benimle görüşmeye geldiğiniz için inanılmaz bir onur duydum!"
+      },
+      {
+        "msgID": "QUEST_E_07_L0004",
+        "msgStr": "Pekâlâ, işe geçelim. Kılıcınıza bir göz atabilirsem..."
+      },
+      {
+        "msgID": "quest_e_ID07_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_07_L0005",
+        "msgStr": "> Muramasa adayı, Raidou'nun kılıcını dikkatle inceledi."
+      },
+      {
+        "msgID": "QUEST_E_07_L0005_001",
+        "msgStr": "> Raidou, belirtilen kılıçlardan hiçbirini taşımıyordu..."
+      },
+      {
+        "msgID": "quest_e_ID07_00_002",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_07_L0006",
+        "msgStr": "Vay canına... İblisleri katletmek için dövülmüş hakiki bir kılıç!"
+      },
+      {
+        "msgID": "QUEST_E_07_L0007",
+        "msgStr": "Yeşil bir ruhani enerjiyi bile neredeyse görebiliyorum..."
+      },
+      {
+        "msgID": "quest_e_ID07_00_003",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_07_L0008",
+        "msgStr": "Ah, oldukça keskin duyulara sahip görünüyorsun."
+      },
+      {
+        "msgID": "quest_e_ID07_00_004",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_07_L0009",
+        "msgStr": "Ah, çok naziksiniz!"
+      },
+      {
+        "msgID": "quest_e_ID07_00_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_07_L0010",
+        "msgStr": "Öyle miyim...?"
+      },
+      {
+        "msgID": "quest_e_ID07_00_006",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_07_L0011",
+        "msgStr": "Victor'un işçiliği her zamanki gibi kusursuz... Tüylerim diken diken oldu..."
+      },
+      {
+        "msgID": "QUEST_E_07_L0012",
+        "msgStr": "Bu muhteşem fırsat için çok teşekkür ederim, Usta Raidou!"
+      },
+      {
+        "msgID": "QUEST_E_07_L0013",
+        "msgStr": "O kılıcın özü hâlâ zihnimde tazeyken demirhaneye dönmeliyim!"
+      },
+      {
+        "msgID": "QUEST_E_07_L0013_001",
+        "msgStr": "Şey... Gerekli kılıçlardan birini yanınızda getirebilirseniz çok minnettar olurum."
+      },
+      {
+        "msgID": "quest_e_ID07_00_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_07_L0014",
+        "msgStr": "> Muramasa adayı heyecanla uzaklaştı."
+      },
+      {
+        "msgID": "quest_e_ID08_00_000",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "QUEST_E_08_L0000",
+        "msgStr": "Aman Tanrım, Ginza'da trafik çok yoğun. Karşıdan karşıya geçmek bile başlı başına bir çile..."
+      },
+      {
+        "msgID": "QUEST_E_08_L0001",
+        "msgStr": "Ne? Benim gibi yaşlı bir adama yardım mı edeceksin? Ah, Tanrı senden razı olsun evladım."
+      },
+      {
+        "msgID": "quest_e_ID08_00_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_08_L0002",
+        "msgStr": "Raidou, İblis Çağırıcısı yeteneklerin burada işine yarayabilir."
+      },
+      {
+        "msgID": "quest_e_ID08_00_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_08_L0003",
+        "msgStr": "> <devil 0> adamı ve eşyalarını dikkatlice kaldırıp caddenin karşısına taşıdı."
+      },
+      {
+        "msgID": "quest_e_ID08_00_003",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "QUEST_E_08_L0004",
+        "msgStr": "Aman Allahım! Neler oluyor...?"
+      },
+      {
+        "msgID": "QUEST_E_08_L0005",
+        "msgStr": "Az önce ne oldu bilmiyorum... Ama bundan daha kolay olamazdı! Teşekkürler evlat."
+      },
+      {
+        "msgID": "QUEST_E_08_L0006",
+        "msgStr": "Senin gibi gençler etraftayken bu ülkenin geleceği için içim rahat ediyor."
+      },
+      {
+        "msgID": "quest_e_ID08_00_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_08_L0007",
+        "msgStr": "> Yaşlı adam neşeyle yoluna devam etti."
+      },
+      {
+        "msgID": "quest_e_ID12_00_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_12_L0000",
+        "msgStr": "> Sürgülü kapı aralığından içeri bakılsın mı?"
+      },
+      {
+        "msgID": "QUEST_E_12_L0001",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "QUEST_E_12_L0002",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "quest_e_ID12_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_12_L0003",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "QUEST_E_12_L0004",
+        "msgStr": "> Bir çift parlak mavi göz içeriden sana bakmaya başladı!"
+      },
+      {
+        "msgID": "quest_e_ID12_00_002",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_E_12_L0005",
+        "msgStr": "Ben Makami, insanların ezelden beri korktuğu ilahi canavar!"
+      },
+      {
+        "msgID": "quest_e_ID12_00_003",
+        "msgStr": "Makami"
+      },
+      {
+        "msgID": "QUEST_E_12_L0006",
+        "msgStr": "Ee, evlat... Sence neden şehirdeyim?"
+      },
+      {
+        "msgID": "QUEST_E_12_L0007",
+        "msgStr": "Dağlarda yaşayamıyorsun."
+      },
+      {
+        "msgID": "QUEST_E_12_L0008",
+        "msgStr": "Dar yerlere sığabiliyorsun."
+      },
+      {
+        "msgID": "quest_e_ID12_00_004",
+        "msgStr": "Makami"
+      },
+      {
+        "msgID": "QUEST_E_12_L0009",
+        "msgStr": "Vay, şuna bak. Görünüşe göre durumu çakmışsın..."
+      },
+      {
+        "msgID": "quest_e_ID12_00_005",
+        "msgStr": "Makami"
+      },
+      {
+        "msgID": "QUEST_E_12_L0010",
+        "msgStr": "Yani evet, ama bunun konuyla ne alakası var be?"
+      },
+      {
+        "msgID": "quest_e_ID12_00_006",
+        "msgStr": "Makami"
+      },
+      {
+        "msgID": "QUEST_E_12_L0011",
+        "msgStr": "Şu \"modernleşme\" midir nedir bilmiyorum ama her halükârda bugünlerde insanlar iğrenç!"
+      },
+      {
+        "msgID": "QUEST_E_12_L0012",
+        "msgStr": "Artık dağlara hiç saygıları kalmadı!"
+      },
+      {
+        "msgID": "QUEST_E_12_L0013",
+        "msgStr": "Bu yüzden onlara biz eski tanrıların ne kadar korkutucu olabileceğini hatırlatmam gerekiyor!"
+      },
+      {
+        "msgID": "quest_e_ID12_00_007",
+        "msgStr": "Makami"
+      },
+      {
+        "msgID": "QUEST_E_12_L0014",
+        "msgStr": "Kahretsin... Devir değişiyor olabilir ama ben değişmeyeceğim!"
+      },
+      {
+        "msgID": "QUEST_E_12_L0015",
+        "msgStr": "Sonunda evimi ve dostlarımı kaybetsem bile... Savaşmaya devam edeceğim ve onurumla öleceğim."
+      },
+      {
+        "msgID": "QUEST_E_12_L0016",
+        "msgStr": "Dağ tanrısı Makami'nin gururu budur!"
+      },
+      {
+        "msgID": "quest_e_ID12_00_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_12_L0017",
+        "msgStr": "> Makami ortadan kayboldu."
+      },
+      {
+        "msgID": "quest_e_ID14_00_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_14_L0000",
+        "msgStr": "> Raidou bir <ITM_04><COLOR 4>Plastik Oyuncak<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "quest_e_ID14_00_001",
+        "msgStr": "Çocuk"
+      },
+      {
+        "msgID": "QUEST_E_14_L0001",
+        "msgStr": "Oyuncağım nerede!? Bulamıyorum! Ühühühü!"
+      },
+      {
+        "msgID": "quest_e_ID14_00_002",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_14_L0002",
+        "msgStr": "Raidou, aradığı şeyi bulmak için İblis Çağırıcısı yeteneklerini kullanabilir misin?"
+      },
+      {
+        "msgID": "quest_e_ID14_00_003",
+        "msgStr": "Çocuk"
+      },
+      {
+        "msgID": "QUEST_E_14_L0003",
+        "msgStr": "Ühühühü... Her yere baktım ama... bulamıyorum..."
+      },
+      {
+        "msgID": "QUEST_E_14_L0004",
+        "msgStr": "Hey... O oyuncak!"
+      },
+      {
+        "msgID": "QUEST_E_14_L0005",
+        "msgStr": "Vay canına! Onu nasıl buldun? Süper güçlerin mi var!?"
+      },
+      {
+        "msgID": "quest_e_ID14_00_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_14_L0006",
+        "msgStr": "> Raidou, <COLOR 4>Plastik Oyuncak<COLOR 0>'ı çocuğa verdi."
+      },
+      {
+        "msgID": "quest_e_ID14_00_005",
+        "msgStr": "Çocuk"
+      },
+      {
+        "msgID": "QUEST_E_14_L0007",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "QUEST_E_14_L0008",
+        "msgStr": "Aslında, şey... bu oyuncak benim değil."
+      },
+      {
+        "msgID": "QUEST_E_14_L0009",
+        "msgStr": "Arkadaşımın. Onu aldım ve buradaki tapınağa sakladım."
+      },
+      {
+        "msgID": "QUEST_E_14_L0010",
+        "msgStr": "Babasının onu kendisine aldığıyla övünüp duruyordu, ben de sinirlendim..."
+      },
+      {
+        "msgID": "QUEST_E_14_L0011",
+        "msgStr": "Babam askerdi ama artık hayatta değil. Çok havalıydı..."
+      },
+      {
+        "msgID": "QUEST_E_14_L0012",
+        "msgStr": "Bence bunu yapmam hoşuna gitmezdi, o yüzden oyuncağı almaya geri geldim..."
+      },
+      {
+        "msgID": "QUEST_E_14_L0013",
+        "msgStr": "Ama nereye koyduğumu unuttum, ne yapacağımı bilemedim... Bulduğun için teşekkürler."
+      },
+      {
+        "msgID": "QUEST_E_14_L0014",
+        "msgStr": "Gidip arkadaşımdan özür dileyeceğim. Güle güle!"
+      },
+      {
+        "msgID": "quest_e_ID14_00_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_14_L0015",
+        "msgStr": "> Çocuk yüzünde bir gülümsemeyle hızla uzaklaştı."
+      },
+      {
+        "msgID": "quest_e_ID14_00_007",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_14_L0016",
+        "msgStr": "Hım? Bu kimin ruhu?"
+      },
+      {
+        "msgID": "quest_e_ID14_00_008",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "QUEST_E_14_L0017",
+        "msgStr": "Aa, beni görebiliyor musun?"
+      },
+      {
+        "msgID": "QUEST_E_14_L0018",
+        "msgStr": "Oğluma yardım ettiğin için teşekkür ederim."
+      },
+      {
+        "msgID": "QUEST_E_14_L0019",
+        "msgStr": "Ben sadece çatışmada ölen isimsiz bir askerim. \"Askerî operasyon\" adı altında örtbas edilen bir suça katılmaya zorlandım."
+      },
+      {
+        "msgID": "QUEST_E_14_L0020",
+        "msgStr": "Bununla iç hesaplaşmamı tamamlayabileceğim güne kadar oğlumu izlemeye karar verdim."
+      },
+      {
+        "msgID": "QUEST_E_14_L0021",
+        "msgStr": "Lütfen... Sen ve hayatta olan diğerleri... Çocuklarımızın mutlu olabileceği bir gelecek kurun."
+      },
+      {
+        "msgID": "quest_e_ID14_00_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_14_L0022",
+        "msgStr": "> Tayf ortadan kayboldu."
+      },
+      {
+        "msgID": "quest_e_ID15_00_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_15_L0000",
+        "msgStr": "> Yatagarasu tarafından buraya bir Aril Yarığı kurulmuş."
+      },
+      {
+        "msgID": "QUEST_E_15_L0001",
+        "msgStr": "> İçerideki iblislere meydan okunsun mu?"
+      },
+      {
+        "msgID": "QUEST_E_15_L0002",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "QUEST_E_15_L0003",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "quest_e_ID15_00_001",
+        "msgStr": "Yatagarasu Elçisinin Sesi"
+      },
+      {
+        "msgID": "QUEST_E_15_L0004",
+        "msgStr": "Tebrikler, Ondördüncü."
+      },
+      {
+        "msgID": "QUEST_E_15_L0005",
+        "msgStr": "Lütfen bu küçük jesti ödülün olarak kabul et."
+      },
+      {
+        "msgID": "QUEST_E_15_L0006",
+        "msgStr": "Seleflerini bile aşmanı umuyoruz."
+      },
+      {
+        "msgID": "quest_e_ID15_00_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_15_L0007",
+        "msgStr": "> Düşman zamanında yenilemedi..."
+      },
+      {
+        "msgID": "QUEST_E_15_L0008",
+        "msgStr": "> Bu Aril Yarığı tekrar ortaya çıkmayacak."
+      },
+      {
+        "msgID": "quest_e_ID16_00_000",
+        "msgStr": "Rokugoro"
+      },
+      {
+        "msgID": "QUEST_E_16_L0000",
+        "msgStr": "Aa, buradayım! Burada! İsteği gönderen benim."
+      },
+      {
+        "msgID": "QUEST_E_16_L0001",
+        "msgStr": "Evet, ben çoktan öldüm. Şaşırdın mı?"
+      },
+      {
+        "msgID": "QUEST_E_16_L0002",
+        "msgStr": "Hayattayken bir İblis Çağırıcısıydım ama görevimi hiç yerine getirmedim. İblisleri fazla seviyordum!"
+      },
+      {
+        "msgID": "QUEST_E_16_L0003",
+        "msgStr": "Onları sevmek, onlara sarılmak..."
+      },
+      {
+        "msgID": "QUEST_E_16_L0004",
+        "msgStr": "Sonra bir gün bir iblis beni tek lokmada yuttu ve... işte buradayım!"
+      },
+      {
+        "msgID": "QUEST_E_16_L0005",
+        "msgStr": "Ama bedenim ölmüş olsa da iblislere olan sevgim yaşamaya devam ediyor."
+      },
+      {
+        "msgID": "QUEST_E_16_L0006",
+        "msgStr": "Ee, istediğim iblisi getirdin mi?"
+      },
+      {
+        "msgID": "quest_e_ID16_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_16_L0007",
+        "msgStr": "> Teslim etmek için bir iblis seçin."
+      },
+      {
+        "msgID": "QUEST_E_16_L0007_001",
+        "msgStr": "> Bu iblisi teslim etmek istediğinizden emin misiniz?"
+      },
+      {
+        "msgID": "QUEST_E_16_L0007_002",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "QUEST_E_16_L0007_003",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "quest_e_ID16_00_002",
+        "msgStr": "Rokugoro"
+      },
+      {
+        "msgID": "QUEST_E_16_L0007_004",
+        "msgStr": "Ah, ne muhteşem bir iblis! Amaaa istediğim iblis bu değil..."
+      },
+      {
+        "msgID": "QUEST_E_16_L0008",
+        "msgStr": "Evet, işte bu! Tam olarak aradığım bu! Herhangi bir zanaatta ustalaşmak kaçınılmaz olarak temellere dönmeyi içerir, değil mi?"
+      },
+      {
+        "msgID": "QUEST_E_16_L0009",
+        "msgStr": "Bak, parmağımı tutmaya çalışıyor! Çok sevimli..."
+      },
+      {
+        "msgID": "QUEST_E_16_L0010",
+        "msgStr": "Keşke benim gibi fiziksel bedeni olmayanların iblislerle huzur içinde yaşayabileceği bir dünya olsaydı..."
+      },
+      {
+        "msgID": "QUEST_E_16_L0011",
+        "msgStr": "Ben de kendi dünyamı kuracağım! \"Bay Rokugoro'nun Mahallesi\" gibi bir şey..."
+      },
+      {
+        "msgID": "QUEST_E_16_L0012",
+        "msgStr": "Evet... Öyle bir şey..."
+      },
+      {
+        "msgID": "QUEST_E_16_L0013",
+        "msgStr": "Neyse, veda etmek üzücü, bu yüzden umarım tekrar karşılaşırız!"
+      },
+      {
+        "msgID": "quest_e_ID16_00_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_16_L0014",
+        "msgStr": "> Rokugoro gözden kayboldu."
+      },
+      {
+        "msgID": "quest_e_ID18_00_000",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_18_L0000",
+        "msgStr": "Usta Raidou! Benimle tekrar görüşmeye vakit ayırdığınız için teşekkür ederim!"
+      },
+      {
+        "msgID": "QUEST_E_18_L0001",
+        "msgStr": "Geçen gün ustam sonunda kendi başıma kılıç dövmeme izin verdi!"
+      },
+      {
+        "msgID": "QUEST_E_18_L0002",
+        "msgStr": "Ancak denemelerim felaketle sonuçlandı..."
+      },
+      {
+        "msgID": "QUEST_E_18_L0003",
+        "msgStr": "O zamandan beri neyi yanlış yaptığımı anlamaya çalışıyorum."
+      },
+      {
+        "msgID": "QUEST_E_18_L0004",
+        "msgStr": "Ah, gevezeliğimi bağışlayın."
+      },
+      {
+        "msgID": "QUEST_E_18_L0004_001",
+        "msgStr": "Pekâlâ, kılıcınıza bir göz atabilirsem..."
+      },
+      {
+        "msgID": "quest_e_ID18_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_18_L0005",
+        "msgStr": "> Muramasa adayı, Raidou'nun kılıcını dikkatle inceledi."
+      },
+      {
+        "msgID": "QUEST_E_18_L0005_001",
+        "msgStr": "> Raidou, belirtilen kılıçlardan hiçbirini taşımıyordu..."
+      },
+      {
+        "msgID": "quest_e_ID18_00_002",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_18_L0006",
+        "msgStr": "...hııııNNNNNGH!"
+      },
+      {
+        "msgID": "QUEST_E_18_L0007",
+        "msgStr": "GAH! NEDEN MURAMASA AÇIKÇA EN İYİ ÇIRAĞI OLDUĞUMU FARK ETMİYOR, KAHRETSİN!?"
+      },
+      {
+        "msgID": "QUEST_E_18_L0008",
+        "msgStr": "Agh...!"
+      },
+      {
+        "msgID": "QUEST_E_18_L0009",
+        "msgStr": "Ah... Görünüşe göre kılıcın iblis enerjisiyle... büyülenmişim..."
+      },
+      {
+        "msgID": "QUEST_E_18_L0010",
+        "msgStr": "Anlıyorum... Belki de kendi kalbimin içinde yatan bir sorun yüzünden bu işi doğru yapamıyorum."
+      },
+      {
+        "msgID": "QUEST_E_18_L0011",
+        "msgStr": "Usta Raidou, ufuk açıcı bir deneyim daha yaşattığınız için çok teşekkür ederim!"
+      },
+      {
+        "msgID": "QUEST_E_18_L0012",
+        "msgStr": "Sanırım gidip biraz kendimi dinleyeceğim ve kusurlarımı düzeltip düzeltemeyeceğime bakacağım."
+      },
+      {
+        "msgID": "QUEST_E_18_L0012_001",
+        "msgStr": "Şey... Gerekli kılıçlardan birini yanınızda getirebilirseniz çok minnettar olurum."
+      },
+      {
+        "msgID": "quest_e_ID18_00_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_18_L0013",
+        "msgStr": "> Muramasa adayı kendi kendine mırıldanmaya devam ederek ayrıldı."
+      },
+      {
+        "msgID": "quest_e_ID19_00_000",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_E_19_L0000",
+        "msgStr": "Seni bekliyordum, İblis Çağırıcısı Raidou Kuzunoha..."
+      },
+      {
+        "msgID": "QUEST_E_19_L0001",
+        "msgStr": "Köpekleri yüksek yerlerden bile kurtaran o iyi kalpli ruh..."
+      },
+      {
+        "msgID": "QUEST_E_19_L0002",
+        "msgStr": "Ben Hayataro."
+      },
+      {
+        "msgID": "quest_e_ID19_00_001",
+        "msgStr": "Hayataro"
+      },
+      {
+        "msgID": "QUEST_E_19_L0003",
+        "msgStr": "Arzum yardıma muhtaç olanlara yardım etmektir ve bu amaçla pek çok zaman çizgisinde yolculuk ettim."
+      },
+      {
+        "msgID": "QUEST_E_19_L0004",
+        "msgStr": "Daha geçenlerde bazı kasaba halkını kırmızılara bürünmüş o belalardan kurtarmayı başardım."
+      },
+      {
+        "msgID": "QUEST_E_19_L0005",
+        "msgStr": "Sana katılırsam Başkent halkından daha fazla kişiye yardım edebileceğim aklıma geldi."
+      },
+      {
+        "msgID": "QUEST_E_19_L0006",
+        "msgStr": "Bu nedenle senin iblis saflarına katılmak istiyorum."
+      },
+      {
+        "msgID": "QUEST_E_19_L0007",
+        "msgStr": "Ama doğal olarak önce yeteneklerini sınamalıyım..."
+      },
+      {
+        "msgID": "QUEST_E_19_L0008",
+        "msgStr": "Bu kabul edilebilir mi?"
+      },
+      {
+        "msgID": "QUEST_E_19_L0009",
+        "msgStr": "Elbette."
+      },
+      {
+        "msgID": "QUEST_E_19_L0010",
+        "msgStr": "Hayır, değil."
+      },
+      {
+        "msgID": "quest_e_ID19_00_002",
+        "msgStr": "Hayataro"
+      },
+      {
+        "msgID": "QUEST_E_19_L0011",
+        "msgStr": "Ne büyük hayal kırıklığı..."
+      },
+      {
+        "msgID": "QUEST_E_19_L0012",
+        "msgStr": "O halde sen fikrini değiştirene kadar buradaki adakları yemeye devam edeceğim."
+      },
+      {
+        "msgID": "QUEST_E_19_L0013",
+        "msgStr": "Öyleyse savaşalım!"
+      },
+      {
+        "msgID": "quest_e_ID19_00_003",
+        "msgStr": "Hayataro"
+      },
+      {
+        "msgID": "QUEST_E_19_L0014",
+        "msgStr": "Ne olağanüstü bir hüner... Gerçekten son derece etkileyici!"
+      },
+      {
+        "msgID": "QUEST_E_19_L0015",
+        "msgStr": "Şimdi derhal sana katılmak için hazırlık yapacağım."
+      },
+      {
+        "msgID": "QUEST_E_19_L0016",
+        "msgStr": "Goumaden'de iblis füzyonu yoluyla buluşalım, Efendi Raidou."
+      },
+      {
+        "msgID": "quest_e_ID19_00_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_19_L0017",
+        "msgStr": "> Hayataro memnuniyetle ayrıldı."
+      },
+      {
+        "msgID": "QUEST_E_19_L0017_001",
+        "msgStr": "> <DEP_03>Elektrik Düzeni'nden Hayataro artık Goumaden'de füzyonla elde edilebilir!"
+      },
+      {
+        "msgID": "quest_e_ID19_00_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_19_L0018",
+        "msgStr": "Hım... Konuşma tarzı ona karşı bir tür yakınlık hissetmeme neden oldu."
+      },
+      {
+        "msgID": "quest_e_ID19_00_006",
+        "msgStr": "Hayataro"
+      },
+      {
+        "msgID": "QUEST_E_19_L0019",
+        "msgStr": "Seni bekliyordum, İblis Çağırıcısı Raidou Kuzunoha."
+      },
+      {
+        "msgID": "QUEST_E_19_L0020",
+        "msgStr": "İblis saflarına katılmak istiyorum. Ancak önce yeteneklerini sınamalıyım."
+      },
+      {
+        "msgID": "quest_e_ID24_00_000",
+        "msgStr": "Kız Öğrenci?"
+      },
+      {
+        "msgID": "QUEST_E_24_L0000",
+        "msgStr": "Ah, gelmişsin."
+      },
+      {
+        "msgID": "QUEST_E_24_L0001",
+        "msgStr": "Aa, şey..."
+      },
+      {
+        "msgID": "QUEST_E_24_L0002",
+        "msgStr": "Korkma. Ben yalnızca bir iblisim."
+      },
+      {
+        "msgID": "quest_e_ID24_00_001",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_E_24_L0003",
+        "msgStr": "Lütfen bu aldatıcı görünüşümü bağışla. Korkunç bir sosyal kaygım var ve gerçek benliğimi göstermemeyi tercih ederim..."
+      },
+      {
+        "msgID": "QUEST_E_24_L0004",
+        "msgStr": "Neden bir kız öğrenci kılığına girdiğimi mi merak ediyorsun?"
+      },
+      {
+        "msgID": "QUEST_E_24_L0005",
+        "msgStr": "İnsan İblis Çağırıcılarının dikkatini çekebileceğini ve böylece daha hızlı grup arkadaşları bulmamı sağlayabileceğini düşündüm."
+      },
+      {
+        "msgID": "QUEST_E_24_L0006",
+        "msgStr": "Ayrıca bu formu tuhaf bir şekilde rahat buluyorum."
+      },
+      {
+        "msgID": "QUEST_E_24_L0007",
+        "msgStr": "Şimdi, İblis Çağırıcısı... Umarım grubum için gelecek vaat eden birkaç üye bulmuşsundur."
+      },
+      {
+        "msgID": "quest_e_ID24_00_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_24_L0008",
+        "msgStr": "> Önce <COLOR 1><DEVIL_N00> (<DEP_01>Ateş Düzeni)<COLOR 0> seçin."
+      },
+      {
+        "msgID": "QUEST_E_24_L0008_001",
+        "msgStr": "> Bu iblisi teslim etmek istediğinizden emin misiniz?"
+      },
+      {
+        "msgID": "QUEST_E_24_L0008_002",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "QUEST_E_24_L0008_003",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "QUEST_E_24_L0008_004",
+        "msgStr": "> İstenen iblis bu değil..."
+      },
+      {
+        "msgID": "QUEST_E_24_L0009",
+        "msgStr": "> Sonra <COLOR 1><DEVIL_N01> (<DEP_09>Element Düzeni)<COLOR 0> seçin."
+      },
+      {
+        "msgID": "QUEST_E_24_L0010",
+        "msgStr": "> Son olarak <COLOR 1><DEVIL_N02> (<DEP_08>Mitama Düzeni)<COLOR 0> seçin."
+      },
+      {
+        "msgID": "quest_e_ID24_00_003",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_E_24_L0011",
+        "msgStr": "Evet..."
+      },
+      {
+        "msgID": "QUEST_E_24_L0012",
+        "msgStr": "Ne mükemmel grup arkadaşları! Hemen provalara başlamalıyız!"
+      },
+      {
+        "msgID": "QUEST_E_24_L0013",
+        "msgStr": "Teşekkürlerimi sunarım, İblis Çağırıcısı."
+      },
+      {
+        "msgID": "QUEST_E_24_L0014",
+        "msgStr": "...Sanırım iyi geçti."
+      },
+      {
+        "msgID": "quest_e_ID24_00_004",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_E_24_L0015",
+        "msgStr": "Aa, İblis Çağırıcısı."
+      },
+      {
+        "msgID": "QUEST_E_24_L0016",
+        "msgStr": "Hâlâ prova yapıyoruz ama yine de kulak vermekten çekinme. Biz Gülen İblisler'iz."
+      },
+      {
+        "msgID": "quest_e_ID24_00_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_24_L0017",
+        "msgStr": "> İblislerin müzik performansı Karanlık Diyar'dan duyulabiliyor..."
+      },
+      {
+        "msgID": "QUEST_E_24_L0018",
+        "msgStr": "> İblisler performans sergiliyor."
+      },
+      {
+        "msgID": "quest_e_ID25_00_000",
+        "msgStr": "Aşçı"
+      },
+      {
+        "msgID": "QUEST_E_25_L0000",
+        "msgStr": "Ah, yılan balığını getirdin mi?"
+      },
+      {
+        "msgID": "QUEST_E_25_L0001",
+        "msgStr": "Anladım."
+      },
+      {
+        "msgID": "QUEST_E_25_L0002",
+        "msgStr": "Henüz değil."
+      },
+      {
+        "msgID": "quest_e_ID25_00_001",
+        "msgStr": "Aşçı"
+      },
+      {
+        "msgID": "QUEST_E_25_L0003",
+        "msgStr": "Ah, özür dilerim. Yanılmışım."
+      },
+      {
+        "msgID": "quest_e_ID25_00_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_25_L0004",
+        "msgStr": "> Raidou, <COLOR 4>Lüks Yılan Balığı<COLOR 0>'nı aşçıya verdi."
+      },
+      {
+        "msgID": "quest_e_ID25_00_003",
+        "msgStr": "Aşçı"
+      },
+      {
+        "msgID": "QUEST_E_25_L0005",
+        "msgStr": "Evet, bu çok kaliteli bir yılan balığı! Onu pişireceğim! Siparişi çoktan aldım!"
+      },
+      {
+        "msgID": "QUEST_E_25_L0006",
+        "msgStr": "Ama tuhaf bir şey var..."
+      },
+      {
+        "msgID": "QUEST_E_25_L0007",
+        "msgStr": "Yılan balığını Elfman sipariş etmişti ama Elfman'ın öldüğünü duydum..."
+      },
+      {
+        "msgID": "QUEST_E_25_L0008",
+        "msgStr": "Neyse, ödememi çoktan aldım, bu yüzden yemeği hazırlayacağım. Grazie!"
+      },
+      {
+        "msgID": "quest_e_ID25_00_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_25_L0009",
+        "msgStr": "> Aşçı restorana girdi."
+      },
+      {
+        "msgID": "quest_e_ID30_00_000",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_E_30_L0000",
+        "msgStr": "İlerideki i-hee-blis göstericilerin gözcüsüyüm, ho."
+      },
+      {
+        "msgID": "QUEST_E_30_L0001",
+        "msgStr": "Taisho insanlarında hee-arika bir Ruh Gücü var! Sürekli gösteri yapıyorlar, ho!"
+      },
+      {
+        "msgID": "QUEST_E_30_L0002",
+        "msgStr": "Sanırım onların bu hee-avası biz iblislere de bulaştı, ho!"
+      },
+      {
+        "msgID": "QUEST_E_30_L0003",
+        "msgStr": "Yozlaşmış hükümeti yı-hee-kın, ho! Gelir eşitsizliğine son, hee-ho!"
+      },
+      {
+        "msgID": "QUEST_E_30_L0004",
+        "msgStr": "...Hey, gösterimizi dağıtmak için hee-ho-kümran yetkililer tarafından gönderilmedin, değil mi, ho?"
+      },
+      {
+        "msgID": "QUEST_E_30_L0005",
+        "msgStr": "Gönderildim."
+      },
+      {
+        "msgID": "QUEST_E_30_L0006",
+        "msgStr": "Ben değilim."
+      },
+      {
+        "msgID": "quest_e_ID30_00_001",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_E_30_L0007",
+        "msgStr": "Burada bir İblis Çağırıcısı var-ho, ho!"
+      },
+      {
+        "msgID": "QUEST_E_30_L0008",
+        "msgStr": "Herkes kaçsın! Tü-hee-yün, ho!"
+      },
+      {
+        "msgID": "QUEST_E_30_L0009",
+        "msgStr": "O zaman bize katıl ve sesini du-hee-yur, ho!"
+      },
+      {
+        "msgID": "QUEST_E_30_L0010",
+        "msgStr": "Hee-ey, yine mi sensin, ho."
+      },
+      {
+        "msgID": "QUEST_E_30_L0011",
+        "msgStr": "Herkes kaçsın! Tü-hee-yün, ho!"
+      },
+      {
+        "msgID": "quest_e_ID30_00_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_30_L0012",
+        "msgStr": "> Düşman zamanında yenilemedi..."
+      },
+      {
+        "msgID": "quest_e_ID32_00_000",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "QUEST_E_32_L0000",
+        "msgStr": "Ah, Raidou!"
+      },
+      {
+        "msgID": "QUEST_E_32_L0001",
+        "msgStr": "Hastaneden daha yeni taburcu oldum ve senin sayende hemen işimin başına dönebildim."
+      },
+      {
+        "msgID": "QUEST_E_32_L0002",
+        "msgStr": "Hayatımı sana borçluyum... Sana ne kadar teşekkür etsem az."
+      },
+      {
+        "msgID": "QUEST_E_32_L0003",
+        "msgStr": "Yine de lütfen bir kez daha söylememe izin ver."
+      },
+      {
+        "msgID": "QUEST_E_32_L0004",
+        "msgStr": "Teşekkür ederim."
+      },
+      {
+        "msgID": "QUEST_E_32_L0005",
+        "msgStr": "Geriye dönüp baktığımda ne kadar aptal olduğumu şimdi anlıyorum."
+      },
+      {
+        "msgID": "QUEST_E_32_L0006",
+        "msgStr": "Kaya hâlâ kayıp, değil mi?"
+      },
+      {
+        "msgID": "QUEST_E_32_L0007",
+        "msgStr": "Sadece Daidouji Ailesi'ne zarar vermekle kalmadım, aynı zamanda bir suça da ortak oldum."
+      },
+      {
+        "msgID": "QUEST_E_32_L0008",
+        "msgStr": "Ama her şeye rağmen ağabeyim bunların hiçbiri için beni suçlamadı. Hatta fabrikayı satmayı erteleyecek kadar para bile sağladı."
+      },
+      {
+        "msgID": "QUEST_E_32_L0009",
+        "msgStr": "Yeni bir sayfa açıyorum. Fabrikayı kendi başıma geri satın alabilmek için elimden gelen her şeyi yapacağım."
+      },
+      {
+        "msgID": "QUEST_E_32_L0010",
+        "msgStr": "Ailemle ve işçilerimle aramı düzeltmek için elimden gelen her şeyi yapmak istiyorum."
+      },
+      {
+        "msgID": "QUEST_E_32_L0011",
+        "msgStr": "Ticaret zekâm pek parlak olmayabilir ama bu zor zamanlarda fabrikayı yeniden ayağa kaldırmanın kolay olmayacağını ben bile görebiliyorum."
+      },
+      {
+        "msgID": "QUEST_E_32_L0012",
+        "msgStr": "Ama o canavara dönüştüğümde yaşadıklarımla kıyaslandığında, geleceğin getireceği zorluklar hiç de aşılmaz görünmüyor."
+      },
+      {
+        "msgID": "QUEST_E_32_L0013",
+        "msgStr": "Ticaret zekâm pek parlak olmayabilir ama bu zor zamanlarda fabrikayı yeniden ayağa kaldırmanın kolay olmayacağını ben bile görebiliyorum."
+      },
+      {
+        "msgID": "QUEST_E_32_L0014",
+        "msgStr": "Ama o canavara dönüştüğümde yaşadıklarımla kıyaslandığında, geleceğin getireceği zorluklar hiç de aşılmaz görünmüyor."
+      },
+      {
+        "msgID": "QUEST_E_32_L0015",
+        "msgStr": "Ağabeyimden, işçilerimden ve senden gördüğüm iyiliğin karşılığını ödemem gerektiğinden bahsetmiyorum bile, Raidou... Ve bunu yapmaya sonuna kadar kararlıyım."
+      },
+      {
+        "msgID": "quest_e_ID32_00_001",
+        "msgStr": "Fabrika İşçisi"
+      },
+      {
+        "msgID": "QUEST_E_32_L0016",
+        "msgStr": "Görünüşe göre denizaşırı ülkelerde bir mali kriz yaşanıyor ve ülkemiz de bundan zarar görüyor."
+      },
+      {
+        "msgID": "QUEST_E_32_L0017",
+        "msgStr": "En yüksek eğitimliler bile iş bulamıyor. Bu durum o kadar moral bozucu ki insanlar deneme iradesini bile kaybediyor."
+      },
+      {
+        "msgID": "QUEST_E_32_L0018",
+        "msgStr": "Bay Daidouji bizi terk etmediği için çok minnettarım."
+      },
+      {
+        "msgID": "quest_e_ID32_00_002",
+        "msgStr": "Fabrika İşçisi"
+      },
+      {
+        "msgID": "QUEST_E_32_L0019",
+        "msgStr": "Son zamanlarda giderek daha fazla genç çetelere katılıyor ve çeteler kuruyor."
+      },
+      {
+        "msgID": "QUEST_E_32_L0020",
+        "msgStr": "Gidecek başka yerleri yok ve hükümet onlara yardım etmek için hiçbir şey yapmıyor."
+      },
+      {
+        "msgID": "QUEST_E_32_L0021",
+        "msgStr": "Burada, Taisho 20'de gelecek için hiçbir umut yok..."
+      },
+      {
+        "msgID": "quest_e_ID32_00_003",
+        "msgStr": "Fabrika İşçisi"
+      },
+      {
+        "msgID": "QUEST_E_32_L0022",
+        "msgStr": "Bazı çatlaklar fabrikaya girmiş."
+      },
+      {
+        "msgID": "QUEST_E_32_L0023",
+        "msgStr": "Borcumuzdan kaçmak için burayı boşaltıp gideceğimizi mi sandılar acaba? İnanılmaz."
+      },
+      {
+        "msgID": "quest_e_ID33_00_000",
+        "msgStr": "Denpachi"
+      },
+      {
+        "msgID": "QUEST_E_33_L0000",
+        "msgStr": "Vay, kimleri görüyorum, Raidou! Görüşmeyeli uzun zaman oldu."
+      },
+      {
+        "msgID": "QUEST_E_33_L0001",
+        "msgStr": "Gördüğün gibi senin sayende gayet iyiyim."
+      },
+      {
+        "msgID": "QUEST_E_33_L0002",
+        "msgStr": "İş güç meselesine gelince... Hah, şey... Mesai başındayım ama pek müşteri çıkmıyor."
+      },
+      {
+        "msgID": "QUEST_E_33_L0003",
+        "msgStr": "Yaşanan onca şeyden sonra Ryugu'da kalsaydım onlara sadece ayakbağı olurdum."
+      },
+      {
+        "msgID": "QUEST_E_33_L0004",
+        "msgStr": "Ha, bu arada Shizu başka bir yere taşındı."
+      },
+      {
+        "msgID": "QUEST_E_33_L0005",
+        "msgStr": "Hem de elbette onun için seçtiğim bir adamla değil, hiç tanımadığım bir herifle."
+      },
+      {
+        "msgID": "QUEST_E_33_L0006",
+        "msgStr": "Sanırım bugünlerde buna \"özgür aşk\" diyorlar."
+      },
+      {
+        "msgID": "QUEST_E_33_L0007",
+        "msgStr": "Bir insanın tamamen \"modern\" bir şekilde yaşaması tam olarak ne anlama geliyor?"
+      },
+      {
+        "msgID": "QUEST_E_33_L0008",
+        "msgStr": "Diğer ülkelerde yaptıkları gibi taştan yapılmış bir evde yaşamak ve elektrikle yemek pişirmek mi?"
+      },
+      {
+        "msgID": "QUEST_E_33_L0009",
+        "msgStr": "Hım... Devir değiştiğinde geriye dönüş olmuyor."
+      },
+      {
+        "msgID": "QUEST_E_33_L0010",
+        "msgStr": "Zamandan söz açılmışken, artık bolca vaktim var. Yani bundan sonra ne yapmak istediğimi düşünmek için istediğim kadar vakit ayırabilirim."
+      },
+      {
+        "msgID": "QUEST_E_33_L0011",
+        "msgStr": "Neyse, günlük yürüyüşümün vakti geldi. Görüşürüz."
+      },
+      {
+        "msgID": "quest_e_ID33_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_33_L0012",
+        "msgStr": "> Denpachi yürüyüp gitti."
+      },
+      {
+        "msgID": "QUEST_E_33_L0013",
+        "msgStr": "> Arkadan bakıldığında biraz yalnız görünüyordu..."
+      },
+      {
+        "msgID": "quest_e_ID35_00_000",
+        "msgStr": "Koutou-ku Polisi"
+      },
+      {
+        "msgID": "QUEST_E_35_L0000",
+        "msgStr": "K-Kilisede bir... bir canavar var...!"
+      },
+      {
+        "msgID": "quest_e_ID35_00_001",
+        "msgStr": "Koutou-ku Polisi"
+      },
+      {
+        "msgID": "QUEST_E_35_L0001",
+        "msgStr": "Basından bir suç işlendiğine dair ihbar aldık ama... bu şey de neyin nesi böyle!?"
+      },
+      {
+        "msgID": "quest_e_ID35_00_002",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_35_L0002",
+        "msgStr": "Gerçek dünyada bir zombi mi!?"
+      },
+      {
+        "msgID": "quest_e_ID35_00_003",
+        "msgStr": "Zombi Kadın"
+      },
+      {
+        "msgID": "QUEST_E_35_L0003",
+        "msgStr": "TANRILAR BENİ NEDEN TERK ETTİ?"
+      },
+      {
+        "msgID": "QUEST_E_35_L0004",
+        "msgStr": "NEDEN DUALARIMA CEVAP VERMİYORLAR?"
+      },
+      {
+        "msgID": "QUEST_E_35_L0005",
+        "msgStr": "ÇOK UZUN ZAMANDIR ACI ÇEKİYORUM."
+      },
+      {
+        "msgID": "QUEST_E_35_L0006",
+        "msgStr": "ARTIK TANRILARA İNANCIM KALMADI. DÜNYA DEĞİŞMELİ."
+      },
+      {
+        "msgID": "QUEST_E_35_L0007",
+        "msgStr": "CANIMI ADAK OLARAK SUNDUM..."
+      },
+      {
+        "msgID": "QUEST_E_35_L0008",
+        "msgStr": "VE KARANLIĞIN PRENSİ GELDİ."
+      },
+      {
+        "msgID": "QUEST_E_35_L0009",
+        "msgStr": "PRENS HER ŞEYİ YOK EDECEK."
+      },
+      {
+        "msgID": "QUEST_E_35_L0010",
+        "msgStr": "HAHAHA... BU SEFİL DÜNYAYA ELVEDA DİYORUM!"
+      },
+      {
+        "msgID": "quest_e_ID35_00_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "QUEST_E_35_L0011",
+        "msgStr": "Bir iblis çağırmak için kendi canını feda etmiş..."
+      },
+      {
+        "msgID": "QUEST_E_35_L0012",
+        "msgStr": "Biz vardığımızda artık çok geçti... Kuzunoha onu kurtaramadı..."
+      },
+      {
+        "msgID": "quest_e_ID35_00_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_35_L0013",
+        "msgStr": "> <DEP_06>Pagan Düzeni'nden Mot artık Goumaden'de füzyonla elde edilebilir!"
+      },
+      {
+        "msgID": "QUEST_E_35_L0014",
+        "msgStr": "> Düşman zamanında yenilemedi..."
+      },
+      {
+        "msgID": "quest_e_ID37_00_000",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "QUEST_E_37_L0000",
+        "msgStr": "Raidou! Harika haberlerim var!"
+      },
+      {
+        "msgID": "QUEST_E_37_L0001",
+        "msgStr": "Mekanik tedarikçimiz yerli otomobil üretme planlarını duyurdu. Bu olağanüstü bir şey!"
+      },
+      {
+        "msgID": "QUEST_E_37_L0002",
+        "msgStr": "Fabrikamızın onlarla çalışmasını istediler ve faaliyetlerimizi finanse etmeye yardım etmeyi teklif ediyorlar!"
+      },
+      {
+        "msgID": "QUEST_E_37_L0003",
+        "msgStr": "Ve tüm işçilerim bu işe var olduklarını söyledi!"
+      },
+      {
+        "msgID": "QUEST_E_37_L0004",
+        "msgStr": "Kolay bir iş olmayacak ama bu fırsatı kaçırmayacağım."
+      },
+      {
+        "msgID": "QUEST_E_37_L0005",
+        "msgStr": "Çalışanlarıma ödeme yapabileceğim, fabrikayı geri satın alabileceğim ve tekrar faaliyete geçirebileceğim."
+      },
+      {
+        "msgID": "QUEST_E_37_L0006",
+        "msgStr": "Dürüst olmak gerekirse, yerli otomobil üretimini gerçekçi bir şekilde başarabileceğimiz konusunda şüphelerim var..."
+      },
+      {
+        "msgID": "QUEST_E_37_L0007",
+        "msgStr": "Ama bu zorluğun üstesinden gelmeye hazır, yetenekli insanlarım var."
+      },
+      {
+        "msgID": "QUEST_E_37_L0008",
+        "msgStr": "Ve eğer onlar bu işe hazırsa, başarabileceklerine inanıyorum."
+      },
+      {
+        "msgID": "quest_e_ID37_00_001",
+        "msgStr": "Fabrika İşçisi"
+      },
+      {
+        "msgID": "QUEST_E_37_L0009",
+        "msgStr": "Görünüşe göre Bay Kiyoshi, kayıp yeğenini araştıracak vakti olsun diye uykusundan feragat ediyor."
+      },
+      {
+        "msgID": "QUEST_E_37_L0010",
+        "msgStr": "Genç görünüyorsun ama duyduğuma göre şimdiden dedektif olarak çalışıyormuşsun. Doğru mu bu?"
+      },
+      {
+        "msgID": "QUEST_E_37_L0011",
+        "msgStr": "Lütfen yeğenini bulmasına yardım etmek için elinden ne geliyorsa yap."
+      },
+      {
+        "msgID": "quest_e_ID37_00_002",
+        "msgStr": "Fabrika İşçisi"
+      },
+      {
+        "msgID": "QUEST_E_37_L0012",
+        "msgStr": "Sanırım Bay Kiyoshi sonunda kendine biraz güven kazandı."
+      },
+      {
+        "msgID": "quest_e_ID37_00_003",
+        "msgStr": "Fabrika İşçisi"
+      },
+      {
+        "msgID": "QUEST_E_37_L0013",
+        "msgStr": "Hükümet yetkilileri bile kendi otomobillerimizi üretebileceğimizi düşünmüyor... Ne vizyonsuzlar ama."
+      },
+      {
+        "msgID": "QUEST_E_37_L0014",
+        "msgStr": "Onlara günlerini göstereceğiz. Şansımız düşük olabilir ama bu sadece bizim... ne denir ona? İrademizi körüklüyor!"
+      },
+      {
+        "msgID": "quest_e_ID38_00_000",
+        "msgStr": "Denpachi"
+      },
+      {
+        "msgID": "QUEST_E_38_L0000",
+        "msgStr": "Ah, Raidou! Ne olduğunu asla tahmin edemezsin..."
+      },
+      {
+        "msgID": "QUEST_E_38_L0001",
+        "msgStr": "Kiyoshi Daidouji uğradı ve bana otomobil şoförü olarak iş teklif etti!"
+      },
+      {
+        "msgID": "QUEST_E_38_L0002",
+        "msgStr": "Yeni bir iş türü. Ekipman ve benzeri şeyleri teslim etmek için kamyon sürecekmişim."
+      },
+      {
+        "msgID": "QUEST_E_38_L0003",
+        "msgStr": "Hatta ehliyet almam için gereken masrafları bile karşılayacağını söyledi!"
+      },
+      {
+        "msgID": "QUEST_E_38_L0004",
+        "msgStr": "Ona o kadar minnettarım ki."
+      },
+      {
+        "msgID": "QUEST_E_38_L0005",
+        "msgStr": "Teklifini çoktan kabul ettim bile!"
+      },
+      {
+        "msgID": "QUEST_E_38_L0006",
+        "msgStr": "Devir değişiyor, bu yüzden benim de değişmem lazım."
+      },
+      {
+        "msgID": "QUEST_E_38_L0007",
+        "msgStr": "Sanırım ek iş olarak çekçekçiliği de sürdüreceğim."
+      },
+      {
+        "msgID": "QUEST_E_38_L0008",
+        "msgStr": "Yerliler artık binmek istemezse şansımı turistlerle deneyebilirim."
+      },
+      {
+        "msgID": "QUEST_E_38_L0009",
+        "msgStr": "Belki onlardan bu \"modern\" yaşam tarzı hakkında daha çok şey öğrenebilirim."
+      },
+      {
+        "msgID": "QUEST_E_38_L0010",
+        "msgStr": "Ha, direksiyon dersine yetişmem lazım, sonra görüşürüz."
+      },
+      {
+        "msgID": "quest_e_ID38_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_38_L0011",
+        "msgStr": "> Denpachi yürüyüp gitti."
+      },
+      {
+        "msgID": "QUEST_E_38_L0012",
+        "msgStr": "> Arkadan bakıldığında bile gururunu geri kazandığı anlaşılıyor."
+      },
+      {
+        "msgID": "quest_e_ID40_00_000",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_E_40_L0000",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "QUEST_E_40_L0001",
+        "msgStr": "Hm...?"
+      },
+      {
+        "msgID": "QUEST_E_40_L0002",
+        "msgStr": "Hey..."
+      },
+      {
+        "msgID": "QUEST_E_40_L0003",
+        "msgStr": "Sen."
+      },
+      {
+        "msgID": "QUEST_E_40_L0004",
+        "msgStr": "Sen sıradan bir tapınak ziyaretçisi değilsin. Beni, yüce Belphegor'u görebiliyorsun, değil mi?"
+      },
+      {
+        "msgID": "quest_e_ID40_00_001",
+        "msgStr": "Belphegor"
+      },
+      {
+        "msgID": "QUEST_E_40_L0005",
+        "msgStr": "Öff... Ne baş belası bir iş."
+      },
+      {
+        "msgID": "QUEST_E_40_L0006",
+        "msgStr": "Başkentin koruyucusunun er ya da geç ortaya çıkacağını biliyordum ama yine de..."
+      },
+      {
+        "msgID": "QUEST_E_40_L0007",
+        "msgStr": "Ne kahrolası bir baş belası."
+      },
+      {
+        "msgID": "QUEST_E_40_L0008",
+        "msgStr": "Üstelik daha yatağını ıslatacak yaşta, sümüklü bir veletten başka bir şey değilsin."
+      },
+      {
+        "msgID": "QUEST_E_40_L0009",
+        "msgStr": "Ama enerjin hakiki gibi duruyor..."
+      },
+      {
+        "msgID": "QUEST_E_40_L0010",
+        "msgStr": "Baş belası... Neyse ne. Seni yiyeceğim ve gücünü kendime katacağım!"
+      },
+      {
+        "msgID": "quest_e_ID40_00_002",
+        "msgStr": "Belphegor"
+      },
+      {
+        "msgID": "QUEST_E_40_L0011",
+        "msgStr": "Kahretsin... Gerçekten biraz çaba harcadım ve şu geldiğim hale bak..."
+      },
+      {
+        "msgID": "QUEST_E_40_L0012",
+        "msgStr": "Gitmeden önce sana tembellik hakkında küçük bir şey söyleyeyim."
+      },
+      {
+        "msgID": "QUEST_E_40_L0013",
+        "msgStr": "İnsanlar biraz ağırdan alsa ve sürekli her şeye burnunu sokmayı bıraksa dünya huzurlu bir yer olurdu."
+      },
+      {
+        "msgID": "QUEST_E_40_L0014",
+        "msgStr": "Ama neyse ne. Artık önemi yok. Ne baş belası bir iş..."
+      },
+      {
+        "msgID": "QUEST_E_40_L0015",
+        "msgStr": "Baş... belası... bir iiiiiiiiiş..."
+      },
+      {
+        "msgID": "quest_e_ID40_00_003",
+        "msgStr": "Belphegor"
+      },
+      {
+        "msgID": "QUEST_E_40_L0016",
+        "msgStr": "Yine mi sen ha?"
+      },
+      {
+        "msgID": "QUEST_E_40_L0017",
+        "msgStr": "Yaşamana izin verdim ve sen kalkıp geri mi geldin? Gahahah!"
+      },
+      {
+        "msgID": "QUEST_E_40_L0018",
+        "msgStr": "Sanırım bir daha yaşamana izin vermesem iyi olacak."
+      },
+      {
+        "msgID": "QUEST_E_40_L0019",
+        "msgStr": "Ne baş belası bir iş... Seni yiyeceğim ve gücünü kendime katacağım!"
+      },
+      {
+        "msgID": "quest_e_ID40_00_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_40_L0020",
+        "msgStr": "> <DEP_07>Hüner Düzeni'nden Belphegor artık Goumaden'de füzyonla elde edilebilir!"
+      },
+      {
+        "msgID": "QUEST_E_40_L0021",
+        "msgStr": "> Düşman zamanında yenilemedi..."
+      },
+      {
+        "msgID": "quest_e_ID41_00_000",
+        "msgStr": "Maskeli Figür"
+      },
+      {
+        "msgID": "QUEST_E_41_L0000",
+        "msgStr": "Vay canına... Başkent devasaymış!"
+      },
+      {
+        "msgID": "QUEST_E_41_L0001",
+        "msgStr": "Şu Ryugu gibi bir yer bulduğum için ne kadar şanslıyım!"
+      },
+      {
+        "msgID": "QUEST_E_41_L0002",
+        "msgStr": "Aa, şey..."
+      },
+      {
+        "msgID": "QUEST_E_41_L0003",
+        "msgStr": "Siz İblis Çağırıcılarının yaptığı tüm işler için teşekkürler."
+      },
+      {
+        "msgID": "QUEST_E_41_L0004",
+        "msgStr": "Yatagarasu'da sizinkinin altında yer alan başka bir grup için çalışıyorum."
+      },
+      {
+        "msgID": "QUEST_E_41_L0005",
+        "msgStr": "Bir İblis Çağırıcısı stajyerinin istediği bir şeyi almaya geldim."
+      },
+      {
+        "msgID": "QUEST_E_41_L0006",
+        "msgStr": "Yanında mı?"
+      },
+      {
+        "msgID": "quest_e_ID41_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_41_L0007",
+        "msgStr": "> Teslim etmek için bir iblis seçin."
+      },
+      {
+        "msgID": "QUEST_E_41_L0007_001",
+        "msgStr": "> Bu iblisi teslim etmek istediğinizden emin misiniz?"
+      },
+      {
+        "msgID": "QUEST_E_41_L0007_002",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "QUEST_E_41_L0007_003",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "QUEST_E_41_L0008",
+        "msgStr": "> Maskeli figür iblisi Raidou'nun tüpünden aldı ve tuhaf bir böcek kafesine aktardı."
+      },
+      {
+        "msgID": "quest_e_ID41_00_002",
+        "msgStr": "Maskeli Figür"
+      },
+      {
+        "msgID": "QUEST_E_41_L0007_004",
+        "msgStr": "Korkarım buraya bunun için gelmedim, İblis Çağırıcısı."
+      },
+      {
+        "msgID": "QUEST_E_41_L0009",
+        "msgStr": "Güzel, sağ salim içeride."
+      },
+      {
+        "msgID": "QUEST_E_41_L0010",
+        "msgStr": "O zaman ben eve dönüyorum. Sana bol şans."
+      },
+      {
+        "msgID": "QUEST_E_41_L0011",
+        "msgStr": "Biliyor musun... Bir gün Başkente geri dönebilirim. Hatta döneceğimi biliyorum!"
+      },
+      {
+        "msgID": "quest_e_ID41_00_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_41_L0012",
+        "msgStr": "> Maskeli figür ortadan kayboldu."
+      },
+      {
+        "msgID": "quest_e_ID42_00_000",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_42_L0000",
+        "msgStr": "Benimle bir kez daha görüştüğünüz için teşekkür ederim, Usta Raidou."
+      },
+      {
+        "msgID": "QUEST_E_42_L0001",
+        "msgStr": "Pekâlâ, işe geçelim. Kılıcınıza bir göz atabilirsem..."
+      },
+      {
+        "msgID": "quest_e_ID42_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_42_L0002",
+        "msgStr": "> Muramasa adayı, Raidou'nun kılıcını dikkatle inceledi."
+      },
+      {
+        "msgID": "QUEST_E_42_L0002_001",
+        "msgStr": "> Raidou, belirtilen kılıçlardan hiçbirini taşımıyordu..."
+      },
+      {
+        "msgID": "quest_e_ID42_00_002",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_42_L0003",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "QUEST_E_42_L0004",
+        "msgStr": "Evet... Artık eminim."
+      },
+      {
+        "msgID": "QUEST_E_42_L0005",
+        "msgStr": "Geçen gün ilk kez kendi başıma bir kılıç dövdüm."
+      },
+      {
+        "msgID": "QUEST_E_42_L0006",
+        "msgStr": "Ve ilk eserimi kullanan kişinin siz olmanızı istedim, Usta Raidou. Bu yüzden bugün yanımda getirdim."
+      },
+      {
+        "msgID": "QUEST_E_42_L0007",
+        "msgStr": "Az önce kılıcınızı inceledikten sonra, bunun size iyi hizmet edeceğinden eminim."
+      },
+      {
+        "msgID": "QUEST_E_42_L0008",
+        "msgStr": "Lütfen kabul edin."
+      },
+      {
+        "msgID": "QUEST_E_42_L0008_001",
+        "msgStr": "Saygılarımla Usta Raidou, gerekli kılıçlardan birini yanınızda getirebilirseniz..."
+      },
+      {
+        "msgID": "quest_e_ID42_00_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_42_L0009",
+        "msgStr": "> Raidou <ITM_05><COLOR 4>Fujimasa<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "QUEST_E_42_L0009_001",
+        "msgStr": "> <COLOR 4>Fujimasa<COLOR 0>, Raidou'ya <SKL_06><COLOR 4>Erdemli Yürek<COLOR 0> Kılıç Yeteneğini kazandırdı."
+      },
+      {
+        "msgID": "quest_e_ID42_00_004",
+        "msgStr": "Muramasa Adayı"
+      },
+      {
+        "msgID": "QUEST_E_42_L0010",
+        "msgStr": "Benim için yaptığınız her şey için çok teşekkür ederim, Usta Raidou."
+      },
+      {
+        "msgID": "QUEST_E_42_L0011",
+        "msgStr": "Bir gün Muramasa adını devralabilirsem, sizin için harika silahlar dövmeye tüm kalbimi ve ruhumu adayacağım."
+      },
+      {
+        "msgID": "QUEST_E_42_L0012",
+        "msgStr": "Kendinize iyi bakın."
+      },
+      {
+        "msgID": "quest_e_ID42_00_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_42_L0013",
+        "msgStr": "> Muramasa adayı gözlerinde kararlılıkla uzaklaştı."
+      },
+      {
+        "msgID": "quest_e_ID44_00_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_44_L0014",
+        "msgStr": "> <DEP_01>Ateş Düzeni'nden Asura artık Goumaden'de füzyonla elde edilebilir!"
+      },
+      {
+        "msgID": "quest_e_ID24_00_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_24_L0019",
+        "msgStr": "> Görünüşe göre bu kişi iblisleri görebiliyor..."
+      },
+      {
+        "msgID": "quest_e_All_00_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "QUEST_E_ALL_L0000",
+        "msgStr": "> İblis, <devil 0> karşısında temkinli görünüyor..."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:23:52"
+}

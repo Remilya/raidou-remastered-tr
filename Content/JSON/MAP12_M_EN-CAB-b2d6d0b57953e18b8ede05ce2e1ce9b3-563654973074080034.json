@@ -1,0 +1,277 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP12_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map12_m_m_test_01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP12_M_L0000",
+        "msgStr": "Artık geri dönüş yok. Başarmak zorundayız!"
+      },
+      {
+        "msgID": "map12_m_m_test_02_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP12_M_L0001",
+        "msgStr": "> Çekirdek aniden etkinleşti!"
+      },
+      {
+        "msgID": "map12_m_m_test_13_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP12_M_L0002",
+        "msgStr": "> Çekirdeğin etrafında koruyucu bir bariyer belirdi."
+      },
+      {
+        "msgID": "map12_m_m_GOTO_01_003",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP12_M_L0003",
+        "msgStr": "Bu işleri zorlaştırıyor..."
+      },
+      {
+        "msgID": "MAP12_M_L0004",
+        "msgStr": "Önce onu ortadan kaldırmamız gerekecek."
+      },
+      {
+        "msgID": "MAP12_M_L0005",
+        "msgStr": "Harekete geçelim, <devil 0>!"
+      },
+      {
+        "msgID": "map12_m_m_test_14_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP12_M_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_03_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_04_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_15_008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_06_009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_16_010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_22_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP12_M_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_17_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP12_M_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_08_013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_10_014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_19_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP12_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_20_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP12_M_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_12_017",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP12_M_L0035",
+        "msgStr": "Uyduya çıkmayı başardık. İyi ki Rasputin'in hesaplamaları sağlam çıktı."
+      },
+      {
+        "msgID": "MAP12_M_L0036",
+        "msgStr": "Şu devasa çekirdeğe bak... Hedefimiz o olmalı."
+      },
+      {
+        "msgID": "MAP12_M_L0037",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP12_M_L0038",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "MAP12_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_23_018",
+        "msgStr": "Savunma Sistemi"
+      },
+      {
+        "msgID": "MAP12_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_24_019",
+        "msgStr": "Savunma Sistemi"
+      },
+      {
+        "msgID": "MAP12_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_m_m_test_25_020",
+        "msgStr": "Savunma Sistemi"
+      },
+      {
+        "msgID": "MAP12_M_L0043",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/13 19:30:17"
+}

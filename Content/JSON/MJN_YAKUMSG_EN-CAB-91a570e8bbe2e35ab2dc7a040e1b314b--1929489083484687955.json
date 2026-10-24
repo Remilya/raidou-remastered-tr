@@ -1,0 +1,193 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MJN_YAKUMSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MJN_YAKUMSG_L0000",
+        "msgStr": "Puansız El"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0001",
+        "msgStr": "Tüm Basitler"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0002",
+        "msgStr": "Özdeş Diziler"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0003",
+        "msgStr": "Riichi"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0004",
+        "msgStr": "Ippatsu"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0005",
+        "msgStr": "Tsumo"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0006",
+        "msgStr": "Değerli Onur Taşı "
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0007",
+        "msgStr": "Son Çekiş"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0008",
+        "msgStr": "Son Atılan Taş"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0009",
+        "msgStr": "Ölü Duvar Çekişi"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0010",
+        "msgStr": "Kan Çalma"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0011",
+        "msgStr": "Dora "
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0012",
+        "msgStr": "7 Çift"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0013",
+        "msgStr": "Karışık Dış El"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0014",
+        "msgStr": "Tam Sıralı"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0015",
+        "msgStr": "3 Renkli Sıralı"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0016",
+        "msgStr": "3 Renkli Üçlü"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0017",
+        "msgStr": "Tüm Üçlüler"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0018",
+        "msgStr": "3 Gizli Üçlü"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0019",
+        "msgStr": "3 Kan"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0020",
+        "msgStr": "Çifte Özdeş Diziler"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0021",
+        "msgStr": "Yarım Renk"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0022",
+        "msgStr": "Saf Dış El"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0023",
+        "msgStr": "Küçük 3 Ejderha"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0024",
+        "msgStr": "Tüm Uçlar ve Onurlar"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0025",
+        "msgStr": "İnsanın Lütfu"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0026",
+        "msgStr": "Tam Renk"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0027",
+        "msgStr": "Çifte Riichi"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0028",
+        "msgStr": "4 Gizli Üçlü"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0029",
+        "msgStr": "4 Kan"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0030",
+        "msgStr": "Büyük 3 Ejderha"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0031",
+        "msgStr": "13 Yetim"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0032",
+        "msgStr": "Cennetin Lütfu"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0033",
+        "msgStr": "Yeryüzünün Lütfu"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0034",
+        "msgStr": "4 Rüzgâr"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0035",
+        "msgStr": "Tüm Onurlar"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0036",
+        "msgStr": "Tüm Uçlar"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0037",
+        "msgStr": "Tam Yeşil"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0038",
+        "msgStr": "9 Kapı"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0039",
+        "msgStr": "Büyük 4 Rüzgâr"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0040",
+        "msgStr": "Küçük 4 Rüzgâr"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0041",
+        "msgStr": "4 Gizli Üçlü Çift Bekleme"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0042",
+        "msgStr": "Saf 9 Kapı"
+      },
+      {
+        "msgID": "MJN_YAKUMSG_L0043",
+        "msgStr": "Saf 13 Yetim"
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/04 17:00:40"
+}

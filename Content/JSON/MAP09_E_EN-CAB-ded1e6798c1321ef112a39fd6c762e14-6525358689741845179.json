@@ -1,0 +1,2093 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP09_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map09_e_EPI03_SCENE03_01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0000",
+        "msgStr": "Hey, şuna bak..."
+      },
+      {
+        "msgID": "MAP09_E_L0001",
+        "msgStr": "Sormama gerek olmadığından eminim ama bu bastonun kime ait olduğunu biliyorsun, değil mi Raidou?"
+      },
+      {
+        "msgID": "MAP09_E_L0002",
+        "msgStr": "Nakamura'nın."
+      },
+      {
+        "msgID": "MAP09_E_L0003",
+        "msgStr": "Takeshi Daidouji'nin."
+      },
+      {
+        "msgID": "MAP09_E_L0004",
+        "msgStr": "Kiyoshi Daidouji'nin."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE03_03_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0005",
+        "msgStr": "Emin misin? O genelde ellerini kavuşturmuş halde dikilmez mi?"
+      },
+      {
+        "msgID": "MAP09_E_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE03_05_002",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0007",
+        "msgStr": "...Takeshi Daidouji ile hiç tanışmadın ki."
+      },
+      {
+        "msgID": "MAP09_E_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE03_07_003",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0009",
+        "msgStr": "Kesinlikle. Her geçen gün daha keskin bir dedektif oluyorsun."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE03_08_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0010",
+        "msgStr": "Sadece dikkatsizlik ettiğini varsayıyorum, çünkü gerçekten bilmiyorsan senin için hiç umut kalmamış olabilir!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE03_09_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0011",
+        "msgStr": "Bu, Kiyoshi'nin bastonu. Eğer onu burada bıraktıysa..."
+      },
+      {
+        "msgID": "MAP09_E_L0012",
+        "msgStr": "O zaman başı bir çeşit derde girmiş olabilir. Hadi içeride bir göz atalım."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE03_11_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0013",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Kiyoshi'nin Bastonu<COLOR 0>'nu elde etti."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_01_007",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "MAP09_E_L0014_1",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0014",
+        "msgStr": "Ah...!"
+      },
+      {
+        "msgID": "MAP09_E_L0015",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0016",
+        "msgStr": "Beni öyle korkutma, Raidou!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0017",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0018",
+        "msgStr": "Seni burada görmeyi beklemiyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0019",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0020",
+        "msgStr": "Ha? <IT_S>Ben<IT_E> mi neden buradayım? Narumi sana söylemedi mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0021",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0022",
+        "msgStr": "Tabii ki özel haber peşindeyim!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0023",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0024",
+        "msgStr": "Araştırmanı istediğim şu Kırmızı Pelerin gizemini hatırlıyor musun?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0025",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0026",
+        "msgStr": "Bil bakalım ne oldu! Buralarda da bir sürüsü görülmüş!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0027",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0028",
+        "msgStr": "Bu canavarlar Başkent'in dört bir yanında ortaya çıkıyor. Görünüşe göre birden fazlalar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0029",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0030",
+        "msgStr": "Bu fırsatı kaçırmayı göze alamazdım, ben de buraya kadar geldim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0031",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0032",
+        "msgStr": "Ama şimdiye kadar hiçbir şey bulamadım. Belki de asılsız bir ihbar almışımdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0033",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0034",
+        "msgStr": "Neyse, seni buraya hangi rüzgâr attı, Raidou? Bana yardım etmek için mi buralara kadar geldin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0035",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0036",
+        "msgStr": "N-Ne!? Şu bebekler... H-H-Havada süzülüyorlar!\n<lips_stop>\n<mw 170>"
+      },
+      {
+        "msgID": "MAP09_E_L0037",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0038",
+        "msgStr": "Ahh...\n<lips_stop>\n<mw 90>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_11_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0039",
+        "msgStr": "> Tae yere yığıldı."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_12_009",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0040",
+        "msgStr": "Hıh, görür görmez bayılırsan özel haberi biraz zor yakalarsın..."
+      },
+      {
+        "msgID": "MAP09_E_L0041",
+        "msgStr": "Bunlar bir yana, bu bebekler fazlasıyla tanıdık görünüyor."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_14_010",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0042",
+        "msgStr": "Sen Daidouji Malikânesi'ndeki o dedektifsin, değil mi?"
+      },
+      {
+        "msgID": "MAP09_E_L0043",
+        "msgStr": "Kiyoshi Daidouji'yi arıyorsan kendisi arka odada."
+      },
+      {
+        "msgID": "MAP09_E_L0044",
+        "msgStr": "Ancak korkarım yanına öylece geçmene izin veremem."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_15_011",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0045",
+        "msgStr": "O mührü kırmanın anahtarı Matris Labirenti'min içinde gizli."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_15_011_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0045_01",
+        "msgStr": "Matris Labirenti mi...?"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_15_011_02",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0046",
+        "msgStr": "Kiyoshi'yi görmek istiyorsan <COLOR 1>üç parçanın tamamını<COLOR 0> bulman gerekecek!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_15_TUIKA001_012",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0047",
+        "msgStr": "İşte! Bu, Qi Men Dun Jia öğretilerinden geliştirdiğim gizli sanatın yalnızca küçük bir örneği!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_15_TUIKA002_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0048",
+        "msgStr": "> Kapının üzerinde tuhaf bir desen belirdi."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_16_014",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0049",
+        "msgStr": "Buradan sağ çıkacağının hiçbir garantisi yok. Her halükârda iyi bir gösteri sunmanı umuyorum."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_17_015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE05_18_016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_e_EPI03_TAE_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0054",
+        "msgStr": "> Tae'nin bilinci kapalı."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE06_01_018",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0055",
+        "msgStr": "Raidou, bu bir Kırmızı Pelerin! Yoksa bu... Kiyoshi mi!?"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE06_02_019",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP09_E_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0057",
+        "msgStr": "İ-İş yok... P-Para yok..."
+      },
+      {
+        "msgID": "MAP09_E_L0058",
+        "msgStr": "İflas ettik... Devam edemem..."
+      },
+      {
+        "msgID": "MAP09_E_L0059",
+        "msgStr": "Elimde <IT_S>hiçbir şey<IT_E> kalmadı!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE07_01_020",
+        "msgStr": "Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0060",
+        "msgStr": "Ha? Burada ne arıyorsun sen? İçeri sadece fabrika çalışanları gireb—ögh!"
+      },
+      {
+        "msgID": "MAP09_E_L0061",
+        "msgStr": "Neler oluyor? Ögh... Her yerim ağrıyor..."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE07_03_021",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0062",
+        "msgStr": "Görünüşe göre Kırmızı Pelerin olduğunu hatırlamıyor."
+      },
+      {
+        "msgID": "MAP09_E_L0062_01",
+        "msgStr": "Hem Kiyoshi de değilmiş. Nereye gitmiş olabilir ki?"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE07_04_022",
+        "msgStr": "Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0063",
+        "msgStr": "Ha, şimdi anladım! Dedektifçilik oynarken gizlice içeri sızdın. Gençken ben de hep yapardım."
+      },
+      {
+        "msgID": "MAP09_E_L0064",
+        "msgStr": "Sadece depodan uzak durduğundan emin ol. Daidouji Bey içeride. Başın derde girsin istemezsin, değil mi?"
+      },
+      {
+        "msgID": "MAP09_E_L0065",
+        "msgStr": "Neden koşa koşa evine gidip babana ev işlerinde falan yardım etmiyorsun?"
+      },
+      {
+        "msgID": "MAP09_E_L0066",
+        "msgStr": "Neyse, yapacak işlerim var. Görüşürüz evlat. Ah..."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE07_08_023",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0067",
+        "msgStr": "Demek Daidouji Bey depoda, öyle mi? O zaman ilerlemeye devam edelim."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE07_TUIKA_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0068",
+        "msgStr": "> Kırmızı Pelerin gerçek insan formuna geri döndü."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE09_01_025",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0069",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0070",
+        "msgStr": "Tek istediğim...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0071",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0072",
+        "msgStr": "Tek istediğim fabrikayı kurtarmaktı...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0073",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0074",
+        "msgStr": "Sen o dedektifsin... Buraya peşimden mi geldin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0075",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0076",
+        "msgStr": "...Vakti gelmişti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0077",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0078",
+        "msgStr": "Sana her şeyi anlatmak istiyorum... Ağabeyim... ve yeğenim hakkında...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0079",
+        "msgStr": "Ah...!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE11_01_026",
+        "msgStr": "Siyahlı Yabancı"
+      },
+      {
+        "msgID": "MAP09_E_L0080",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0081",
+        "msgStr": "Görünüşe göre Matris Labirenti'nden nispeten yara almadan çıkmayı başarmışsın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0082",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0083",
+        "msgStr": "Hiç fena değil dedektif... ya da İblis Çağırıcısı Raidou Kuzunoha mı demeliydim?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0084",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0085",
+        "msgStr": "Her halükârda, hâlâ benimle boy ölçüşemezsin!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0086",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0087",
+        "msgStr": "Çünkü ben dünyaca ünlü İblis Çağırıcısı, büyük <COLOR 1>Rasputin<COLOR 0>'im!\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE11_03_027",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP09_E_L0088",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0089",
+        "msgStr": "Daha önce adımı kesinlikle duymuşsundur, eminim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0090",
+        "msgStr": "Elbette."
+      },
+      {
+        "msgID": "MAP09_E_L0091",
+        "msgStr": "Ras-kim-tin?"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE11_04_028",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP09_E_L0092",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0093",
+        "msgStr": "Ho ho ho. Ünlü olmak güzel şey, da?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0094",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0095",
+        "msgStr": "Sözlerin kulaklarımı şenlendirdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0096",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0097",
+        "msgStr": "Bu işte senden çok daha uzun süredir varım, o yüzden bazı sorularını yanıtlamama izin ver.\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE11_07_029",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP09_E_L0098",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0099",
+        "msgStr": "Ne!? Bir de kendine İblis Çağırıcısı mı diyorsun!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0100",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0101",
+        "msgStr": "Hıh. Pöh! Aptal, cahil çocuk.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0102",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0103",
+        "msgStr": "Ama bu kadarı yeter. Bir süredir merak ettiğin şeyler olduğundan eminim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0104",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0105",
+        "msgStr": "Ve en azından birkaç yanıt alamadan ölmen çok yazık olurdu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0106",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0107",
+        "msgStr": "Öncelikle, Kiyoshi Daidouji konusuna gelirsek...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0108",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0109",
+        "msgStr": "Bedeninden çıkan nesneyi hatırlıyor musun?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0110",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0111",
+        "msgStr": "Ona <COLOR 1>Hiruko<COLOR 0> denir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0112",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0113",
+        "msgStr": "Tüm insanlar içlerinde Hiruko elementleri taşır ve bunlar genelde uykuda kalır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0114",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0115",
+        "msgStr": "Ancak yoğun olumsuz duygular gibi belirli tetikleyiciler onları uyandırabilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0116",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0117",
+        "msgStr": "Bu gerçekleştiğinde Hiruko, insanın korku ve kaygısını kontrol eden maddelerden beslenerek büyür.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0118",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0119",
+        "msgStr": "Bu yüzden bir insan uyanmış bir Hiruko taşıdığında korkusu asla dinmez. Yalnızca daha da kötüleşir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0120",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0121",
+        "msgStr": "Hiruko büyümeye devam ettikçe, konağını korumak için kırmızı renkli bir pelerin yansıtır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0122",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0123",
+        "msgStr": "Kırmızı Pelerin adını verdiğiniz canavarın ardındaki gerçek işte budur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0124",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0125",
+        "msgStr": "Hiruko tamamen olgunlaştığında ise... Eh, ne olduğunu kendin gördün.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0126",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0127",
+        "msgStr": "Konağını terk ederek kendine ait bir beden kazanır, ardından projenin bir sonraki aşaması için hazırlanmaya başlar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0128",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0129",
+        "msgStr": "Peki bu nasıl bir proje? Korkarım bunu söylemek bana düşmez.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0130",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0131",
+        "msgStr": "İşverenimin sözleşmesini asla ihlal edemem.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0132",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0133",
+        "msgStr": "Bu çağda havada yoğun bir belirsizlik hâkim. Hiruko'ların sayılarını artırması için ideal bir ortam.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0134",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0135",
+        "msgStr": "Ah evet, aradığın şu kız, Kaya Daidouji hakkında.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0136",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0137",
+        "msgStr": "O da projede önemli bir rol oynuyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0140",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0141",
+        "msgStr": "Hım, bu beklediğimden çok daha uzun sürdü. Belki de fazla konuştum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE12_01_030",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP09_E_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_01_031",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0148",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0149",
+        "msgStr": "Aaah... Arrgh...\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_02_032",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0150",
+        "msgStr": "Ne kadar trajik. Bir insan olarak bile ölemiyor."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_03_033",
+        "msgStr": "Fabrika İşçisi A"
+      },
+      {
+        "msgID": "MAP09_E_L0151",
+        "msgStr": "...Daidouji Bey!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_04_034",
+        "msgStr": "Fabrika İşçisi B"
+      },
+      {
+        "msgID": "MAP09_E_L0152",
+        "msgStr": "Daidouji Bey, bizi duyabiliyor musunuz!?"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_05_035",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0153",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0154",
+        "msgStr": "Aah...\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_06_036",
+        "msgStr": "Fabrika İşçisi A"
+      },
+      {
+        "msgID": "MAP09_E_L0155",
+        "msgStr": "Siz olmasaydınız çocuklarımızı doyuracak paramız asla olmazdı!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_07_037",
+        "msgStr": "Fabrika İşçisi B"
+      },
+      {
+        "msgID": "MAP09_E_L0156",
+        "msgStr": "Fabrika için çok yazık oldu ama bize verdiğiniz fırsatlar için hepimiz minnettarız!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_08_038",
+        "msgStr": "Fabrika İşçisi C"
+      },
+      {
+        "msgID": "MAP09_E_L0157",
+        "msgStr": "İşimizden olmayalım diye fabrikada makine kullanmadığınızı da biliyoruz!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_09_039",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0158",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0159",
+        "msgStr": "S-Siz...!\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_10_040",
+        "msgStr": "Fabrika İşçisi B"
+      },
+      {
+        "msgID": "MAP09_E_L0160",
+        "msgStr": "Daidouji Tekstil'in Ruh Gücünü kalbimizde taşıyoruz!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_11_041",
+        "msgStr": "Fabrika İşçisi A"
+      },
+      {
+        "msgID": "MAP09_E_L0161",
+        "msgStr": "Sizi doğruca hastaneye götüreceğiz!"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_12_042",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0162",
+        "msgStr": "> Fabrika işçileri Kiyoshi'yi hızla hastaneye yetiştirdi."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_13_043",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0163",
+        "msgStr": "Günün sonunda onu kurtaran şey işçileriyle arasındaki bağ oldu."
+      },
+      {
+        "msgID": "MAP09_E_L0164",
+        "msgStr": "Ama işimiz henüz bitmedi, Raidou. Hâlâ Kaya'yı bulmamız gerekiyor."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA01_044",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0165",
+        "msgStr": "Narumi'den aldığın şu şeyi vermeye ne dersin?"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA02_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0166",
+        "msgStr": "> Raidou kol düğmesini Kiyoshi'ye verdi..."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA03_046",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0167",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0168",
+        "msgStr": "B-Bu...\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA04_047",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0169",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0170",
+        "msgStr": "Bu ağabeyimin... Bu neden... sende?\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA05_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0171",
+        "msgStr": "> Raidou durumu açıkladı."
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA06_049",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0172",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0173",
+        "msgStr": "Ağabeyimle bunun yüzünden kavga etmiştik... çok uzun zaman önce...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0174",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0175",
+        "msgStr": "Bunu... bana mı veriyorsun, Takeshi? Beni affediyor musun...?\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA07_050",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0176",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0177",
+        "msgStr": "Raidou... Teşekkür ederim... Teşekkür ederim...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0178",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0179",
+        "msgStr": "Hayatımı... hayatımı çöpe atmıştım ama... senin sayende içimde hâlâ mücadele edecek güç var...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA08_051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_14_TUIKA09_052",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP09_E_L0183",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0184",
+        "msgStr": "Ben iyi olacağım ama... Kaya... Lütfen, ona yardım etmelisin...\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI03_SCENE13_15_053",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_E_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0188",
+        "msgStr": "Bunların hepsinden önce Tae'yi buradan çıkarmamız gerekiyor."
+      },
+      {
+        "msgID": "map09_e_EPI05_TAE_01_054",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "MAP09_E_L0189",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0190",
+        "msgStr": "Bana ne oldu bilmiyorum. O sefer neden deklanşöre basmadım ki?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0191",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0192",
+        "msgStr": "Neyse, büyütülecek bir şey değil. Büyük Kichou Asakura bile arada sırada hata yapar.\n<lips_stop>"
+      },
+      {
+        "msgID": "map09_e_EPI06_KAYA_01_055",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP09_E_L0193",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0194",
+        "msgStr": "İnsanın hayatını kazanmak için ne yapacağını seçme özgürlüğüne sahip olması gerçekten harika bir şey.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0195",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0196",
+        "msgStr": "Seninle çalışacak olsaydım <NAME2N 0>, gerçekten çok motive olacağımı biliyorum!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0199_01",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0199_02",
+        "msgStr": "Şey, <NAME2N 0>...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0199",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0200",
+        "msgStr": "Toplum çıkışı olmayan karanlık bir kısır döngüye hapsolmuş olsaydı ne yapardın?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0201",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP09_E_L0202",
+        "msgStr": "İçinden sıyrılıp geçmeye mi çalışırdın? Yoksa her şeyi sil baştan mı yapardın?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP09_E_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_E_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor01_01_056",
+        "msgStr": "Cesareti Kırılmış Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0209",
+        "msgStr": "O tuhaf bebek ortaya çıktığından beri fabrikadan çıkamıyorum."
+      },
+      {
+        "msgID": "MAP09_E_L0210",
+        "msgStr": "Aman, neyse ne. Zaten burada ölüp gideceğim..."
+      },
+      {
+        "msgID": "MAP09_E_L0211",
+        "msgStr": "Pes etme!"
+      },
+      {
+        "msgID": "MAP09_E_L0212",
+        "msgStr": "Ne acınası."
+      },
+      {
+        "msgID": "MAP09_E_L0213",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor01_01_ans0a_057",
+        "msgStr": "Cesareti Kırılmış Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0214",
+        "msgStr": "...Daidouji Bey de bir hata yaptığımda beni hep böyle yüreklendirirdi."
+      },
+      {
+        "msgID": "MAP09_E_L0215",
+        "msgStr": "Hem sen dışarıdan buraya girebildiysen, belki benim de dışarı çıkma şansım vardır."
+      },
+      {
+        "msgID": "MAP09_E_L0216",
+        "msgStr": "Pekâlâ, denemeye devam edeceğim."
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor01_01_ans1_058",
+        "msgStr": "Cesareti Kırılmış Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0217",
+        "msgStr": "Ne dersen de. Farketmez."
+      },
+      {
+        "msgID": "MAP09_E_L0218",
+        "msgStr": "Seni mutlu edecekse bana bağırmaya devam et. Nasıl olsa ikimiz de öleceğiz."
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor01_01_ans2_059",
+        "msgStr": "Cesareti Kırılmış Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0219",
+        "msgStr": "Burada öleceğim..."
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor01_02_060",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0220",
+        "msgStr": "> Fabrika işçisi gözlerinde umutla uzaklaştı."
+      },
+      {
+        "msgID": "map09_e_map09_npc02_Mwor02_01_061",
+        "msgStr": "Şaşkın Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0221",
+        "msgStr": "B-Bebek, k-konuştu... Ve sonra ben... daireler çizerek dönüp durmaya başladım..."
+      },
+      {
+        "msgID": "MAP09_E_L0222",
+        "msgStr": "Buradan kurtulabilirsin!"
+      },
+      {
+        "msgID": "MAP09_E_L0223",
+        "msgStr": "Sakin olmaya çalış!"
+      },
+      {
+        "msgID": "MAP09_E_L0224",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map09_e_map09_npc02_Mwor02_01_ans0_062",
+        "msgStr": "Şaşkın Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0225",
+        "msgStr": "Ama o bebek... O konuşan bebek... Aah!"
+      },
+      {
+        "msgID": "map09_e_map09_npc02_Mwor02_01_ans1a_063",
+        "msgStr": "Şaşkın Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0226",
+        "msgStr": "...Haklısın. Daidouji Bey bir sorun çıktığında asla paniğe kapılmamamızı söylerdi."
+      },
+      {
+        "msgID": "MAP09_E_L0227",
+        "msgStr": "Sen buraya dışarıdan geldin, değil mi? Bu da o bebeği geçmenin bir yolu olduğu anlamına geliyor, değil mi?"
+      },
+      {
+        "msgID": "MAP09_E_L0228",
+        "msgStr": "E-Evet! İyiyim ben! İyi olacağım!"
+      },
+      {
+        "msgID": "map09_e_map09_npc02_Mwor02_01_ans2_064",
+        "msgStr": "Şaşkın Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0229",
+        "msgStr": "Aman Tanrım, ölene kadar burada mahsur kalacağım..."
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor02_02_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0230",
+        "msgStr": "> Fabrika işçisi soğukkanlılığını yeniden kazandı ve uzaklaştı."
+      },
+      {
+        "msgID": "map09_e_map09_npc03_Mwor03_01_066",
+        "msgStr": "Öfkeli Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0231",
+        "msgStr": "Kahretsin! O aptal bebeğin derdi ne!? Beni çıldırtıyor!"
+      },
+      {
+        "msgID": "MAP09_E_L0232",
+        "msgStr": "Hadi bir şeyler atıştıralım."
+      },
+      {
+        "msgID": "MAP09_E_L0233",
+        "msgStr": "Biraz sakinleşmen lazım."
+      },
+      {
+        "msgID": "MAP09_E_L0234",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map09_e_map09_npc03_Mwor03_01_ans0a_067",
+        "msgStr": "Öfkeli Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0235",
+        "msgStr": "Sen daha bir öğrencisin. Neden seninle yemek yemek isteyeyim ki?"
+      },
+      {
+        "msgID": "MAP09_E_L0236",
+        "msgStr": "Heh... Tıpkı Daidouji Bey gibisin. İçkiyle pek arası olmamasına rağmen benimle hep bara gelirdi."
+      },
+      {
+        "msgID": "MAP09_E_L0237",
+        "msgStr": "...Evet, küplere binmenin bana bir faydası olmayacak. Biraz ağırdan almalıyım."
+      },
+      {
+        "msgID": "map09_e_map09_npc03_Mwor03_01_ans1_068",
+        "msgStr": "Öfkeli Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0238",
+        "msgStr": "Ne!? Ben <IT_S>zaten<IT_E> sakinim! Asıl sakinleşmesi gereken <IT_S>sensin<IT_E> evlat!"
+      },
+      {
+        "msgID": "map09_e_map09_npc03_Mwor03_01_ans2_069",
+        "msgStr": "Öfkeli Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0239",
+        "msgStr": "Ne halt etmem gerekiyor benim!?"
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor03_02_070",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0240",
+        "msgStr": "> Fabrika işçisi yüzünde bir gülümsemeyle uzaklaştı."
+      },
+      {
+        "msgID": "map09_e_map09_npc04_Mwor04_01_071",
+        "msgStr": "Sızlanan Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0241",
+        "msgStr": "K-Kimse beni o tuhaf bebek hakkında uyarmadı!"
+      },
+      {
+        "msgID": "MAP09_E_L0242",
+        "msgStr": "Tek istediğim buraya gelip eşyalarımı toplamaktı..."
+      },
+      {
+        "msgID": "MAP09_E_L0243",
+        "msgStr": "Buradan çıkmanın bir yolunu düşünelim."
+      },
+      {
+        "msgID": "MAP09_E_L0244",
+        "msgStr": "Sen git. Burayı bana bırak."
+      },
+      {
+        "msgID": "MAP09_E_L0245",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map09_e_map09_npc04_Mwor04_01_ans0_072",
+        "msgStr": "Sızlanan Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0246",
+        "msgStr": "<IT_S>Benim<IT_E> ne yapmamı istiyorsun ki!? Ben sadece eşyalarımı alıp gitmek istiyorum!"
+      },
+      {
+        "msgID": "map09_e_map09_npc04_Mwor04_01_ans1a_073",
+        "msgStr": "Sızlanan Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0247",
+        "msgStr": "Hıh. Bana biraz Daidouji Bey'i hatırlatıyorsun. Her zaman çok sakin..."
+      },
+      {
+        "msgID": "MAP09_E_L0248",
+        "msgStr": "Başkalarına yardım etme fırsatını asla kaçırmaz. Kendi iyiliği için fazla nazik."
+      },
+      {
+        "msgID": "MAP09_E_L0249",
+        "msgStr": "Senin kadar genç birine bel bağlayamam. Kendi ayaklarımın üzerinde durmalıyım!"
+      },
+      {
+        "msgID": "map09_e_map09_npc04_Mwor04_01_ans2_074",
+        "msgStr": "Sızlanan Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0250",
+        "msgStr": "Sadece eşyalarımı istemiştim... Ve şimdi ölecek miyim?"
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor04_02_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0251",
+        "msgStr": "> Fabrika işçisi mahcup bir gülümsemeyle uzaklaştı."
+      },
+      {
+        "msgID": "map09_e_map09_npc05_Mwor05_01_076",
+        "msgStr": "Pervasız Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0252",
+        "msgStr": "Hepimizi o iblis bebekten ben kurtarmazsam başka kim kurtaracak!?"
+      },
+      {
+        "msgID": "MAP09_E_L0253",
+        "msgStr": "Bu iş senin boyunu aşar."
+      },
+      {
+        "msgID": "MAP09_E_L0254",
+        "msgStr": "Kaçmazsan öleceksin."
+      },
+      {
+        "msgID": "MAP09_E_L0255",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map09_e_map09_npc05_Mwor05_01_ans0a_077",
+        "msgStr": "Pervasız Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0256",
+        "msgStr": "Denemeden bilemem! B-Bu fabrikanın kalan tek umudu benim!"
+      },
+      {
+        "msgID": "MAP09_E_L0257",
+        "msgStr": "Ama haklılık payın var. Tam olarak ne yapmam gerekiyor ki?"
+      },
+      {
+        "msgID": "map09_e_map09_npc05_Mwor05_01_ans1a_078",
+        "msgStr": "Pervasız Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0258",
+        "msgStr": "Heh... Daidouji Bey de fabrikadan ayrılmamızı istediğinde buna benzer bir şey söylemişti."
+      },
+      {
+        "msgID": "MAP09_E_L0259",
+        "msgStr": "Ama burayı gerçekten seviyorum."
+      },
+      {
+        "msgID": "MAP09_E_L0260",
+        "msgStr": "İnsan sevdiği bir şeyin elinden alınmasını nasıl arkasına yaslanıp izleyebilir ki?"
+      },
+      {
+        "msgID": "MAP09_E_L0261",
+        "msgStr": "Ben ölmeyeceğim, bu fabrika da ölmeyecek! Ama şimdilik güvenli bir yere geçeceğim!"
+      },
+      {
+        "msgID": "map09_e_map09_npc05_Mwor05_01_ans2_079",
+        "msgStr": "Pervasız Fabrika İşçisi"
+      },
+      {
+        "msgID": "MAP09_E_L0262",
+        "msgStr": "Bu fabrikayı koruyacağım!"
+      },
+      {
+        "msgID": "map09_e_map09_npc01_Mwor05_02_080",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0263",
+        "msgStr": "> Fabrika işçisi keyifle sekerek uzaklaştı."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc01_KAZAMA_EP04_01_081",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP09_E_L0264",
+        "msgStr": "Selam Raidou. Görünüşe göre son zamanlarda bayağı meşgulsün."
+      },
+      {
+        "msgID": "MAP09_E_L0265",
+        "msgStr": "Daidouji Malikânesi, Ginza-cho, buradaki fabrika..."
+      },
+      {
+        "msgID": "MAP09_E_L0266",
+        "msgStr": "Olaylar hep senin peşinden geliyor, ha? Yürüyen olay yeri gibisin resmen."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc01_KAZAMA_EP04_03_082",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP09_E_L0267",
+        "msgStr": "Somut bir kanıt yok... O işçilerin ifadelerine de güvenilmez."
+      },
+      {
+        "msgID": "MAP09_E_L0268",
+        "msgStr": "Bu konuda ne yapacağıma dair hiçbir fikrim yok..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc01_KAZAMA_EN00_083",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0269",
+        "msgStr": "> Dedektif Kazama'nın Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc01_KAZAMA_EN01_084",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP09_E_L0270",
+        "msgStr": "Polisi alt etme fikrine kapılayım deme!"
+      },
+      {
+        "msgID": "MAP09_E_L0271",
+        "msgStr": "Başkent'i koruyacak olanlar <IT_S>biziz<IT_E>! Sıradan bir özel dedektif değil!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc01_KAZAMA_EN02_085",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP09_E_L0272",
+        "msgStr": "Angarya işten nefret ediyorum. Hiçbir sebep yokken oradan oraya koşturmak zorunda kalıyorum!"
+      },
+      {
+        "msgID": "MAP09_E_L0273",
+        "msgStr": "Belki de herkesi nezarete tıkmalıyım. Ne olur ne olmaz diye seni de!"
+      },
+      {
+        "msgID": "map09_e_map09_npc01_KAZ_RAI_01_086",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP09_E_L0274",
+        "msgStr": "Hmm..."
+      },
+      {
+        "msgID": "MAP09_E_L0275",
+        "msgStr": "Ne—!? Aa! Sensin ha, Raidou!"
+      },
+      {
+        "msgID": "MAP09_E_L0276",
+        "msgStr": "Şuna da bak. Artık sorumluluk sahibi, çalışkan bir yetişkin gibi görünüyorsun."
+      },
+      {
+        "msgID": "MAP09_E_L0277",
+        "msgStr": "Heh, eskiden buradaki serserilerin lideriydim, bütün gün kavga ederdim..."
+      },
+      {
+        "msgID": "MAP09_E_L0278",
+        "msgStr": "Ama şimdi bu kiraz çiçeği armasını taşıyor, kanunun safında çalışıyorum."
+      },
+      {
+        "msgID": "MAP09_E_L0279",
+        "msgStr": "Artık yumruklarım yerine kelepçe kullansam da hâlâ yamuk işlerden nefret ederim."
+      },
+      {
+        "msgID": "MAP09_E_L0280",
+        "msgStr": "Aynasız olmak, şu kıt aklımı kullanarak kendi seçtiğim hayat... Kendim olmamı sağlıyor."
+      },
+      {
+        "msgID": "MAP09_E_L0281",
+        "msgStr": "Gençliğimdeki gözlerin aynısı sende de var; pervasız ama bir o kadar da dürüst."
+      },
+      {
+        "msgID": "MAP09_E_L0282",
+        "msgStr": "...Şunu alsana."
+      },
+      {
+        "msgID": "MAP09_E_L0283",
+        "msgStr": "Benim yaşıma geldiğinde gözlerindeki o ışıltıyı kaybetmediğinden emin ol."
+      },
+      {
+        "msgID": "map09_e_map09_npc01_KAZ_TRG_GET_087",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0284",
+        "msgStr": "> Raidou <ITM_04><COLOR 4>Bancho Üniforması<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc02_Mpol01_EP04_01_088",
+        "msgStr": "Gözü Yaşlı Polis"
+      },
+      {
+        "msgID": "MAP09_E_L0285",
+        "msgStr": "Mahallede soruşturma yapmak için Fukagawa-cho'ya gittim..."
+      },
+      {
+        "msgID": "MAP09_E_L0286",
+        "msgStr": "Daikoku-yu'da Kanto Haguro Ailesi bana ters ters baktı... Korkudan ağlayacaktım!"
+      },
+      {
+        "msgID": "MAP09_E_L0287",
+        "msgStr": "O Kanto Haguro adamlarının ağzından dökülen jargonun yarısını bile anlamadım."
+      },
+      {
+        "msgID": "MAP09_E_L0288",
+        "msgStr": "Sanki yabancılarla konuşuyormuşum gibi hissettim."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc03_Mpol02_EP04_01a_089",
+        "msgStr": "Göz Kırpan Polis"
+      },
+      {
+        "msgID": "MAP09_E_L0289",
+        "msgStr": "Merak ediyorsan söyleyeyim, şurada baygın yatan kadın muhabir evine gitti."
+      },
+      {
+        "msgID": "MAP09_E_L0290",
+        "msgStr": "O yüksek topuklularla kayıp kafasını çarpmış olmalı, değil mi? O şeyler çok tehlikeli."
+      },
+      {
+        "msgID": "MAP09_E_L0291",
+        "msgStr": "O muhabirin kalkmasına yardım ettiğimde bana kartvizitini verdi."
+      },
+      {
+        "msgID": "MAP09_E_L0292",
+        "msgStr": "Kibarca reddetmeye çalıştım ama hiç oralı olmadı. Zorla elime tutuşturdu."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc04_Mpol03_EP04_01_090",
+        "msgStr": "Cık Cıklayan Polis"
+      },
+      {
+        "msgID": "MAP09_E_L0293",
+        "msgStr": "İçerideki işçilerden olayla ilgili ifade aldım ama..."
+      },
+      {
+        "msgID": "MAP09_E_L0294",
+        "msgStr": "İstisnasız hepsi bir bebeğin kendileriyle konuşmaya başladığını söyledi."
+      },
+      {
+        "msgID": "MAP09_E_L0295",
+        "msgStr": "Bunu raporuma yazamam. Alay konusu olurum."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EP05_01_091",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP09_E_L0296",
+        "msgStr": "Bu bölgenin tamamı bizim üssümüz. Geçen gün ben buldum!"
+      },
+      {
+        "msgID": "MAP09_E_L0297",
+        "msgStr": "Bak, tıpkı Satake gibiyim! Babama ihtiyacım yok..."
+      },
+      {
+        "msgID": "MAP09_E_L0298",
+        "msgStr": "Bu bölgenin tamamı bizim üssümüz. Geçen gün ben buldum!"
+      },
+      {
+        "msgID": "MAP09_E_L0299",
+        "msgStr": "Bak, tıpkı Satake gibiyim! Babama göstermek için sabırsızlanıyorum..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EP06_01_092",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP09_E_L0300",
+        "msgStr": "Bir üs! Bir üssümüz var! Yaşasın, hurra!"
+      },
+      {
+        "msgID": "MAP09_E_L0301",
+        "msgStr": "Bir de yamağım var, bu sayede bu devasa yerde yalnızlık çekmiyorum..."
+      },
+      {
+        "msgID": "MAP09_E_L0302",
+        "msgStr": "Anlamıyorum... Bir üssüm var, peki neden kendimi bu kadar yalnız hissediyorum?"
+      },
+      {
+        "msgID": "MAP09_E_L0303",
+        "msgStr": "Yamağım ve şu abla beni izliyor! Satake gibi güçlü olmalıyım..."
+      },
+      {
+        "msgID": "MAP09_E_L0304",
+        "msgStr": "Şu adamın derdi ne...? Burası bizim üssümüz!"
+      },
+      {
+        "msgID": "MAP09_E_L0305",
+        "msgStr": "Sonunda tıpkı Satake gibi oldum... Peki o böyle bir durumda ne yapardı?"
+      },
+      {
+        "msgID": "MAP09_E_L0306",
+        "msgStr": "...Çok sinir bozucu ama şimdi tüymem lazım."
+      },
+      {
+        "msgID": "MAP09_E_L0307",
+        "msgStr": "Şu adamın ne yapacağını bilmiyorum."
+      },
+      {
+        "msgID": "MAP09_E_L0308",
+        "msgStr": "Bir patron yamaklarını korumalıdır. Satake'nin böyle yapacağını biliyorum..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EN00_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0309",
+        "msgStr": "> Özenti çocuğun Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EP05_EN01_094",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP09_E_L0310",
+        "msgStr": "Bir üssüm <IT_S>ve<IT_E> bir yamağım var! Artık tıpkı Satake gibiyim!"
+      },
+      {
+        "msgID": "MAP09_E_L0311",
+        "msgStr": "Benim mekanım Satake'nin hamamından daha büyük! Harika değil mi!?"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EP05_EN02_095",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP09_E_L0312",
+        "msgStr": "Bir üssüm <IT_S>ve<IT_E> bir yamağım var! Artık tıpkı Satake gibiyim!"
+      },
+      {
+        "msgID": "MAP09_E_L0313",
+        "msgStr": "Artık bir patronum, bu yüzden hiçbir yetişkine ihtiyacım yok—babama bile!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EP06_EN01_096",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP09_E_L0314",
+        "msgStr": "Babamın etrafta olmaması umurumda bile değil!"
+      },
+      {
+        "msgID": "MAP09_E_L0315",
+        "msgStr": "Artık bir patronum! Yamağım da var!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EP06_EN02_097",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP09_E_L0316",
+        "msgStr": "Şu abla bizi mi izliyor? Hey abla, tıpkı Satake gibi değil miyim!?"
+      },
+      {
+        "msgID": "MAP09_E_L0317",
+        "msgStr": "Buradaki her şey üssümüzün bir parçası! Satake'nin koca hamamından bile daha büyük!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EP06_EN03_098",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP09_E_L0318",
+        "msgStr": "Yetişkinler çok bencil! Burası <IT_S>bizim<IT_E> üssümüz!"
+      },
+      {
+        "msgID": "MAP09_E_L0319",
+        "msgStr": "Öte yandan yamağım korkmaya başladı... Satake böyle bir durumda ne yapardı?"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc05_Mboy_EP06_EN04_099",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP09_E_L0320",
+        "msgStr": "Şu adamı kavgada rahatça haklarım!"
+      },
+      {
+        "msgID": "MAP09_E_L0321",
+        "msgStr": "Ama babam bana gerçek erkeklerin kavga etmediğini söylemişti..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc06_Mgal_EP05_01_100",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP09_E_L0322",
+        "msgStr": "Ben 1 Numaralı Yamak'ım."
+      },
+      {
+        "msgID": "MAP09_E_L0323",
+        "msgStr": "...Yamak ne demek ki?"
+      },
+      {
+        "msgID": "MAP09_E_L0324",
+        "msgStr": "Biz yamakların Patron'a itaat etmesi gerektiğini biliyorum."
+      },
+      {
+        "msgID": "MAP09_E_L0325",
+        "msgStr": "...Anlamıyorum."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc06_Mgal_EP06_01_101",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP09_E_L0326",
+        "msgStr": "Patron yamaklarını kollar. Öyle söyledi."
+      },
+      {
+        "msgID": "MAP09_E_L0327",
+        "msgStr": "...Ama yamak ne demek ki?"
+      },
+      {
+        "msgID": "MAP09_E_L0328",
+        "msgStr": "Patron sürekli şu ablaya bakıp duruyor..."
+      },
+      {
+        "msgID": "MAP09_E_L0329",
+        "msgStr": "Şuradaki korkunç adam bize bağırdı. \"Çenenizi kapatın!\" dedi."
+      },
+      {
+        "msgID": "MAP09_E_L0330",
+        "msgStr": "Patron... Korkuyorum..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc06_Mgal_EN00_102",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0331",
+        "msgStr": "> Saf ve masum kızın Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc06_Mgal_EP05_EN01_103",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP09_E_L0332",
+        "msgStr": "Yamak ne demek? O kelimenin ne anlama geldiğini bilmiyorum!"
+      },
+      {
+        "msgID": "MAP09_E_L0333",
+        "msgStr": "Bilmiyorum, umurumda da değil! Yeter ki Patron benimle oynasın!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc06_Mgal_EP05_EN02_104",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP09_E_L0334",
+        "msgStr": "Burnu havada insanları sevmem ama benimle oynarsa ona itaat ederim!"
+      },
+      {
+        "msgID": "MAP09_E_L0335",
+        "msgStr": "Her emre itaat edeceğim!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc06_Mgal_EP06_EN01_105",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP09_E_L0336",
+        "msgStr": "\"Patron\" ya da \"yamak\" ne demek bilmiyorum bile!"
+      },
+      {
+        "msgID": "MAP09_E_L0337",
+        "msgStr": "Ama yamak olmak eğlenceli! Patron'la olmak eğlenceli!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc06_Mgal_EP06_EN02_106",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP09_E_L0338",
+        "msgStr": "Hey, Patron'un neyi var? Bütün gün gözünü şu abladan ayırmadı!"
+      },
+      {
+        "msgID": "MAP09_E_L0339",
+        "msgStr": "Büyüdüğümde ben de onun kadar güzel olacağım!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc06_Mgal_EP06_EN03_107",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP09_E_L0340",
+        "msgStr": "Bağıran o adamın sesi bizimkinden bile daha yüksekti!"
+      },
+      {
+        "msgID": "MAP09_E_L0341",
+        "msgStr": "Bayağı korktum..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP05_01_108",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0342",
+        "msgStr": "Sen de kimsin be? Bu mekana önce ben çöktüm."
+      },
+      {
+        "msgID": "MAP09_E_L0343",
+        "msgStr": "Sonunda yağmurdan kaçacak bi' yer bulmuşum. Şuradan şuraya kıpırdamam."
+      },
+      {
+        "msgID": "MAP09_E_L0344",
+        "msgStr": "Ne o, sen de mi evsizsin? Kusura bakma ahbap ama burası benim yerim."
+      },
+      {
+        "msgID": "MAP09_E_L0345",
+        "msgStr": "Ama taş kalpli de değilim hani. Yerin altında uyuyabilirsin. Kendine bi' çukur kaz yeter."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP06_01_109",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0346",
+        "msgStr": "Vır vır vır, dayanamıyom artık... Kimin veletleri bunlar be?"
+      },
+      {
+        "msgID": "MAP09_E_L0347",
+        "msgStr": "Anaları bunlara komşuları rahatsız etmemeyi öğretmemiş mi?"
+      },
+      {
+        "msgID": "MAP09_E_L0348",
+        "msgStr": "Kim bu baş belası veletler? İki dakka kestiremiyoz..."
+      },
+      {
+        "msgID": "MAP09_E_L0349",
+        "msgStr": "Şunlara buralarda oynamamalarını söyleyeyim bari. Ne de olsa sağduyulu bi' adamım..."
+      },
+      {
+        "msgID": "MAP09_E_L0350",
+        "msgStr": "O veletlerin ağzının payını verdim. Gözüme gram uyku girmedi."
+      },
+      {
+        "msgID": "MAP09_E_L0351",
+        "msgStr": "Başkasının mekanına gizlice girilmez. Sadece biraz sağduyu öğrettim onlara."
+      },
+      {
+        "msgID": "MAP09_E_L0352",
+        "msgStr": "Hâlâ mı buradalar? Sabrım taşmaya başlıyo ha."
+      },
+      {
+        "msgID": "MAP09_E_L0353",
+        "msgStr": "Bi' dahaki sefere suratının ortasına bi' tane çakacam... Yok be, belki de o kadarı fazla kaçar."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP07_01_110",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0354",
+        "msgStr": "Burada bi'kaç velet vardı ama tekmeyi bastım."
+      },
+      {
+        "msgID": "MAP09_E_L0355",
+        "msgStr": "Ş-Şey, erken gelen kapar. Darılmaca gücenmece yok şimdi..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP08_01_111",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0356",
+        "msgStr": "Gözüme uyku girmeyince o veletlere tekmeyi bastım."
+      },
+      {
+        "msgID": "MAP09_E_L0357",
+        "msgStr": "Önce ben geldim buraya. Veletlerin üssü falan değil..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP08_02_112",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0358",
+        "msgStr": "O veletler dağ hakkında bi' şeyler gevelediler..."
+      },
+      {
+        "msgID": "MAP09_E_L0359",
+        "msgStr": "İyiler mi acaba... Şey, yani evet! Cehennemin dibine kadar yolları var!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP10_01_113",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0360",
+        "msgStr": "S-Sıkıyönetim falan zerre umurumda değil. Önce ben geldim buraya..."
+      },
+      {
+        "msgID": "MAP09_E_L0361",
+        "msgStr": "N-Ne bakıyon bana öyle! Benim suçum değil!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP10_02_114",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0362",
+        "msgStr": "U-Uydu fırlatması falan zerre umurumda değil. Hiçbi' yere gitmiyom."
+      },
+      {
+        "msgID": "MAP09_E_L0363",
+        "msgStr": "N-Ne bakıyon bana öyle! Benim suçum değil!"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP11_01a_115",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0364",
+        "msgStr": "Ha? Harumi-cho'da canavar mı varmış? Bi' savaş gemisi dönüşmüş de etrafı mı ezip geçiyomuş?"
+      },
+      {
+        "msgID": "MAP09_E_L0365",
+        "msgStr": "Yani şöyle bi' dönüşüm mü diyon...?"
+      },
+      {
+        "msgID": "MAP09_E_L0366",
+        "msgStr": "Pöh, boş iş. Ağzıma tek lokma koymadım... O savaş gemisi ayağa kalkabilir ama ben kalkamam."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP11_02_116",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0367",
+        "msgStr": "Ha!? Roket mi fırlatıyonuz? Nehir kenarındaki şu zımbırtıyı mı?"
+      },
+      {
+        "msgID": "MAP09_E_L0368",
+        "msgStr": "Yakıt işini n'apacanız? Aç karnına kıpırdanmaz, bilirsin..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP12_01_117",
+        "msgStr": "Dinlenen Berduş"
+      },
+      {
+        "msgID": "MAP09_E_L0369",
+        "msgStr": "Azmin elinden bi' şey kurtulmaz, di mi?"
+      },
+      {
+        "msgID": "MAP09_E_L0370",
+        "msgStr": "Dönecek bi' yerin yoksa gel buraya."
+      },
+      {
+        "msgID": "MAP09_E_L0371",
+        "msgStr": "Burada tek başıma pineklemekten sıkıldım valla."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_JYU00_118",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0372",
+        "msgStr": "> Dinlenen berduşun düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP07_JYU01_119",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0373",
+        "msgStr": "<COLOR 2>Zavallı kız gözyaşları içindeydi. Belki de aşırı çocukça davrandım..."
+      },
+      {
+        "msgID": "MAP09_E_L0374",
+        "msgStr": "Gerçi onların dönebilecekleri bir evleri var. Umarım bu yüzden bana içerlemezler.<COLOR 0>"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP08_JYU01_120",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0375",
+        "msgStr": "<COLOR 2>Şimdi düşününce, onun yaşında bir delikanlıyken terk edilmiş bir dükkânı üssüm yapmıştım."
+      },
+      {
+        "msgID": "MAP09_E_L0376",
+        "msgStr": "Akşam yemeğine eve gelmediğim için annem bana bağırmıştı...<COLOR 0>"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP08_JYU02_121",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0377",
+        "msgStr": "<COLOR 2>O körpe yaştayken başında bir büyük olmadan trene binmeyi hayal bile edemezdim..."
+      },
+      {
+        "msgID": "MAP09_E_L0378",
+        "msgStr": "Her zaman annemin yanındaydım. Bugünün çocukları çok cüretkâr.<COLOR 0>"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP10_JYU01_122",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0379",
+        "msgStr": "<COLOR 2>Sıkıyönetim... Aman Tanrım, o çocuklar iyi mi acaba?"
+      },
+      {
+        "msgID": "MAP09_E_L0380",
+        "msgStr": "Onları asla göndermemeliydim... Ama olan oldu artık. Kusura bakmayın çocuklar.<COLOR 0>"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP10_JYU02_123",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0381",
+        "msgStr": "<COLOR 2>Bu iş iyice çığırından çıktı! Ç-Çocuklar iyi mi acaba?"
+      },
+      {
+        "msgID": "MAP09_E_L0382",
+        "msgStr": "Onları asla göndermemeliydim... Ama olan oldu artık. Çok özür dilerim!<COLOR 0>"
+      },
+      {
+        "msgID": "map09_e_map09_00_npc07_Mhor_EP12_JYU01_124",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP09_E_L0383",
+        "msgStr": "<COLOR 2>Geriye dönüp bakınca, o çocuklar etraftayken burası daha neşeliydi..."
+      },
+      {
+        "msgID": "MAP09_E_L0384",
+        "msgStr": "Eğer bir gün geri gelirlerse belki de sadece uyuyormuş gibi yaparım.<COLOR 0>"
+      },
+      {
+        "msgID": "map09_e_map09_Mwor_TUIKA_125",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_E_L0385",
+        "msgStr": "> Fabrika işçisi ayrıldı."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:31:34"
+}

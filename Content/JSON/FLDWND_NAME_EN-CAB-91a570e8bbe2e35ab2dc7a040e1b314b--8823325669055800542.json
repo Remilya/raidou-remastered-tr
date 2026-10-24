@@ -1,0 +1,101 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "FLDWND_NAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "FLDWND_NAME_L0000",
+        "msgStr": "Tsukudo-cho"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0001",
+        "msgStr": "Ginza-cho"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0002",
+        "msgStr": "Ryugu Restoranı"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0003",
+        "msgStr": "Shin-Sekai Ön Kapısı"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0004",
+        "msgStr": "Fukagawa-cho"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0005",
+        "msgStr": "Kırmızı Fener Mahallesi"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0006",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0007",
+        "msgStr": "Yabancılar Mezarlığı"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0008",
+        "msgStr": "Sakuradayama"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0009",
+        "msgStr": "İsimsiz Tapınak"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0010",
+        "msgStr": "Kasumidai"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0011",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0012",
+        "msgStr": "Daidouji Konağı"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0013",
+        "msgStr": "Daidouji Tekstil"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0014",
+        "msgStr": "4 Nolu Topçu Bataryası"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0015",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0016",
+        "msgStr": "Eğitim Salonu - Batı"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0017",
+        "msgStr": "Eğitim Salonu - Kuzey"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0018",
+        "msgStr": "Eğitim Salonu - Doğu"
+      },
+      {
+        "msgID": "FLDWND_NAME_L0019",
+        "msgStr": "Eğitim Salonu - Güney"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:43"
+}

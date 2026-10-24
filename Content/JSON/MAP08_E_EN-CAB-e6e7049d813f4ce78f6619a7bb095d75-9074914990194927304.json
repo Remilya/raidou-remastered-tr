@@ -1,0 +1,4921 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP08_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA01_000",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0000",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0001",
+        "msgStr": "Affedersiniz, efendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA02_001",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0002",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0003",
+        "msgStr": "Randevusu olmadan kimsenin içeri girmesine izin verilmiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA03_002",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0004",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0005",
+        "msgStr": "Çok üzgünüm ama sizden ayrılmanızı rica etmeliyim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA04_003",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0006",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0007",
+        "msgStr": "...Başka bir arzunuz var mıydı?<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA04_SEL SEL 0_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0008",
+        "msgStr": "Kayıp kızdan bahset"
+      },
+      {
+        "msgID": "MAP08_E_L0009",
+        "msgStr": "Ona broşu göster"
+      },
+      {
+        "msgID": "MAP08_E_L0010",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA05_005",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0011",
+        "msgStr": "<lips 9 5>\nOnunla konuştunuz mu? B-Bu doğru mu!?\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA06_006",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA07_007",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0013",
+        "msgStr": "<lips 9 5>\nKarşılaştığınız genç hanımın Küçük Hanım Daidouji olduğuna dair herhangi bir kanıtınız var mı?<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_TUIKA08_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0014",
+        "msgStr": "> Raidou ona Kelebek Broşu'nu gösterdi."
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_01_009",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0022",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0023",
+        "msgStr": "Bu... Bu onunki!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0023_01",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0023_02",
+        "msgStr": "Kabalığım için özür dilerim. Lütfen beni takip edin, efendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_06_010",
+        "msgStr": "Orta Yaşlı Beyefendi"
+      },
+      {
+        "msgID": "MAP08_E_L0024",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0025",
+        "msgStr": "Kaya ile karşılaştığınızı öğrendim. Güvende miydi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0025_01",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0025_02",
+        "msgStr": "Ah, kusuruma bakmayın. Ben amcası <COLOR 1>Kiyoshi Daidouji<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_07_011",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP08_E_L0026",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0027",
+        "msgStr": "Bana... ne olduğunu anlatabilir misiniz?\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_08_TUIKA001_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0028",
+        "msgStr": "> Raidou, önceki gece yaşanan olayları Kiyoshi'ye anlattı."
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_08_013",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP08_E_L0029",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0030",
+        "msgStr": "Demek Kaya'nın başına bunlar geldi. A... Anlıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_08_TUIKA001B_014",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP08_E_L0031",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0032",
+        "msgStr": "Şey, kendisi... yaklaşık on gün önce ortadan kayboldu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0033",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0034",
+        "msgStr": "O zamandan beri ağabeyim Takeshi, yani Kaya'nın babası, geçen her gün daha da hastalandı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0035",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0036",
+        "msgStr": "Sizin de bildiğinizden emin olduğum üzere biz köklü ve saygın bir aileyiz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0037",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0038",
+        "msgStr": "Eğer... iş o noktaya gelseydi onun yerini Kaya alacaktı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0039",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0040",
+        "msgStr": "Ama onun başına bir şey gelirse Daidouji aile soyadına ne olur?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0041",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0042",
+        "msgStr": "Dürüst olmak gerekirse en büyük endişem bu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0043",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0044",
+        "msgStr": "Ancak Kaya ile gerçekten karşılaştığınızı ve onu kaçıranları bir anlığına gördüğünüzü söylüyorsunuz...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0045",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0046",
+        "msgStr": "Raidou'ydu, değil mi? Sizden Kaya'nın izini bulmanızı rica etmek istiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0047",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0048",
+        "msgStr": "Ağabeyimin durumu iyi değil. Ve geçenlerde doktorlarının yapabileceği hiçbir şey kalmadığı bana bildirildi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0049",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0050",
+        "msgStr": "En azından... kızının yüzünü son bir kez görmesini istiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0051",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0052",
+        "msgStr": "Nerede olduğunu öğrenir öğrenmez bana haber verin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0053",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0054",
+        "msgStr": "Onun için çok endişeleniyorum. Hâlâ iyi olması için yalnızca dua edebiliriz.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_12_015",
+        "msgStr": "Kâhya"
+      },
+      {
+        "msgID": "MAP08_E_L0055",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0056",
+        "msgStr": "Vakti geldi, efendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_13_016",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP08_E_L0057",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0058",
+        "msgStr": "Herhangi bir sorunuz olursa <COLOR 1>Nakamura<COLOR 0> memnuniyetle cevaplayacaktır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0059",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0060",
+        "msgStr": "Şimdi izninizle. Bir misafir bekliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_15_017",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0061",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0062",
+        "msgStr": "Evin reisi Efendi Takeshi Daidouji, Küçük Hanım Kaya'yı aramaları için çoktan polise başvurdu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0063",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0064",
+        "msgStr": "Efendi Kiyoshi'nin sözünü çiğnemek istemem ama size zahmet vermemize hiç gerek yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0065",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0066",
+        "msgStr": "Ayrıca Efendimiz bu meselenin duyulmamasını tercih eder.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0067",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0068",
+        "msgStr": "Anlayışla karşılayacağınızdan eminim, Dedektif.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0069",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0070",
+        "msgStr": "Öyleyse bir dahaki sefere görüşmek üzere.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE04_20_018",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0071",
+        "msgStr": "Burada kesinlikle bir sürü şey dönüyor gibi görünüyor."
+      },
+      {
+        "msgID": "MAP08_E_L0072",
+        "msgStr": "Burada pek hoş karşılanmıyor gibiyiz ama Kiyoshi bizden yardım istedi. <COLOR 3>Etrafa bir göz atmamıza<COLOR 0> aldırmayacağından eminim."
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE12_01_019",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0073",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0074",
+        "msgStr": "Ah, iyi günler efendim. Bu kez size nasıl yardımcı olabiliriz?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0075",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0076",
+        "msgStr": "Üzgünüm ama size etrafı gezdirebilecek kimsemiz yok. Özür dilerim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE12_03_020",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0077",
+        "msgStr": "Hizmetkârların eli kolu bağlı olmalı. Bir misafirle mi meşguller acaba?"
+      },
+      {
+        "msgID": "MAP08_E_L0078",
+        "msgStr": "Her halükârda bizim için iyi haber. Artık <COLOR 3>kendi başımıza etrafı kolaçan edebiliriz<COLOR 0>."
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE20_01_021",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP08_E_L0079",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0080",
+        "msgStr": "Bunların hepsi çok yanlış... İşlerin bu noktaya gelmesine nasıl izin verebildim?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0080_01",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0080_02",
+        "msgStr": "Daidouji ailesinin kızlarına ne olduğunu biliyor musun? On altı yaşına girdiklerinde bir iblis tarafından ele geçirilirler... ve sonra da öldürülürler.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0081",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0082",
+        "msgStr": "Ben sadece... ağabeyimin Kaya'yı öldürmesini engellemek istedim!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0083",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0084",
+        "msgStr": "Onun kurtarılabileceğine, çalışanlarımın kurtarılabileceğine gerçekten inanmıştım... O asker kılıklı yılana güvenmekle aptallık ettim!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0085",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0086",
+        "msgStr": "Fabrikam, işçilerim... Tek yapmak istediğim onları kurtarmaktı!\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE20_05_022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE20_06_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_EPI01_SCENE20_07_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI_01_025",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0090",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0091",
+        "msgStr": "Çok özür dilerim, efendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0092",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0093",
+        "msgStr": "Efendi Daidouji, izni olmadan kimseyi çalışma odasına almamam konusunda bana talimat verdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0094",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0095",
+        "msgStr": "Lütfen kenara çekilir misiniz?\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI2_01_026",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0096",
+        "msgStr": "Burası babasının çalışma odasının kapısı, öyle mi? Benim düşündüğümü mü düşünüyorsun?"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI2_02_027",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0097",
+        "msgStr": "Maalesef şu kâhya Nakamura bizi şahin gibi izliyor."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI2_03_028",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0098",
+        "msgStr": "Neyse ki bir İblis Çağırıcısı olarak başka seçeneklerin var."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI2_04_029",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0099",
+        "msgStr": "Mesela dışarı bir iblis göndermek gibi. Ne de olsa başka kimse onları göremez."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI2_05_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI3_01_031",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0103",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0104",
+        "msgStr": "Affedersiniz, efendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI3_02_032",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0105",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0106",
+        "msgStr": "Efendi Kiyoshi, toplantısı bitene kadar kimseyi oturma odasına almamam konusunda bana talimat verdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI3_03_033",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0107",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0108",
+        "msgStr": "Lütfen oradan uzak durun.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI4_03_034",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0109",
+        "msgStr": "Bir toplantı mı? Görünüşe bakılırsa muhtemelen ordudan biridir."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI4_04_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI4_01_036",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0112",
+        "msgStr": "İçeride havadan sudan konuşmadıkları kesin."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_HAJIKI4_02_037",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0113",
+        "msgStr": "Raidou, senin gibi bir İblis Çağırıcısı fark edilmeden içeriyi dinleyebilmeli."
+      },
+      {
+        "msgID": "MAP08_E_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_map01_ep01_kogoto_01_038",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0115",
+        "msgStr": "Yola çıkmak için hazırlanmamanı tuhaf bulmuştum zaten... Bunun olmasına nasıl izin verebildin?"
+      },
+      {
+        "msgID": "map08_e_map01_ep01_kogoto_02_039",
+        "msgStr": "Öfkeli Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0116",
+        "msgStr": "H-Her an burada olabilir! Onu alması için yeni işe alınan kızı Tsukudo-cho'ya gönderdim!"
+      },
+      {
+        "msgID": "map08_e_map01_ep01_kogoto_03_040",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0117",
+        "msgStr": "Ama bununla <IT_S>senin<IT_E> ilgilenmeni istemiştim, değil mi?"
+      },
+      {
+        "msgID": "map08_e_map01_ep01_kogoto_04_041",
+        "msgStr": "Öfkeli Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0118",
+        "msgStr": "Ama bu benim suçum değil! O yeni çalışan muhtemelen bir yerlerde vakit öldürüyordur!"
+      },
+      {
+        "msgID": "map08_e_map01_ep01_kogoto_05_042",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0119",
+        "msgStr": "Şşş, sesini alçalt. Oturma odasındaki misafirimizi rahatsız edeceksin."
+      },
+      {
+        "msgID": "map08_e_map01_ep01_kogoto_06_043",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0120",
+        "msgStr": "Düşüncesiz ve izinsiz hareketlerinle bunu kendi başına getirdin."
+      },
+      {
+        "msgID": "MAP08_E_L0121",
+        "msgStr": "Bu konuşma henüz bitmedi."
+      },
+      {
+        "msgID": "map08_e_map01_ep01_scene15_01_044",
+        "msgStr": "Turdak"
+      },
+      {
+        "msgID": "MAP08_E_L0122",
+        "msgStr": "HEy! OKuLdA bAŞkaLaRıNın eŞyALarInA DoKuNmAmAyI öĞrEnMeDiN mİ sEn!?"
+      },
+      {
+        "msgID": "map08_e_map01_ep01_scene15_02_045",
+        "msgStr": "Turdak"
+      },
+      {
+        "msgID": "MAP08_E_L0123",
+        "msgStr": "O gÜnLüĞüN iÇiNe gÖz aTtIğInI gÖrDüK! eVeT, gÖrDüK iŞtE!"
+      },
+      {
+        "msgID": "map08_e_map01_ep01_scene15_03_046",
+        "msgStr": "Gashadokuro"
+      },
+      {
+        "msgID": "MAP08_E_L0124",
+        "msgStr": "Sen Daidouji'lerin etrafında burnunu sokup duran şu İblis Çağırıcısı Raidou Kuzunoha'sın, değil mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0125",
+        "msgStr": "Burayı araştırdığın için gözümü dört açmam söylendi."
+      },
+      {
+        "msgID": "map08_e_map01_ep01_scene15_04_047",
+        "msgStr": "Gashadokuro"
+      },
+      {
+        "msgID": "MAP08_E_L0126",
+        "msgStr": "Aslında sen bulmadan önce o şeyi parçalayacaktım ama..."
+      },
+      {
+        "msgID": "MAP08_E_L0127",
+        "msgStr": "Görünüşe göre pek planladığım gibi olmadı, değil mi? Gerçi bu şans mı yoksa şanssızlık mı emin değilim."
+      },
+      {
+        "msgID": "map08_e_map01_ep01_scene15_05_048",
+        "msgStr": "Gashadokuro"
+      },
+      {
+        "msgID": "MAP08_E_L0128",
+        "msgStr": "Senin için biraz üzüldüm evlat. Ama günlüğü okudun, olacağı buydu."
+      },
+      {
+        "msgID": "MAP08_E_L0129",
+        "msgStr": "Şimdi seni öldürmem gerekiyor!"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene16_01_049",
+        "msgStr": "Kiyoshi'nin Sesi"
+      },
+      {
+        "msgID": "MAP08_E_L0130",
+        "msgStr": "...Hayır... size ihanet ettim... Kaya'yı götür..."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene16_02_050",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0131",
+        "msgStr": "Duydun mu Raidou? Bu kesinlikle misafiriyle konuşan Kiyoshi'ydi."
+      },
+      {
+        "msgID": "MAP08_E_L0132",
+        "msgStr": "Keşke daha iyi duyabilsek ama şu kâhya tam bir oyunbozan."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene16_03_051",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0133",
+        "msgStr": "Neyse ki senin gibi bir İblis Çağırıcısı'nın fark edilmeden içeriyi dinlemek için bir yolu var."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene16_04_052",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_01_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0137",
+        "msgStr": "> <devil 0> oturma odasındaki konuşmayı dinledi."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_02_054",
+        "msgStr": "Kiyoshi'nin Sesi"
+      },
+      {
+        "msgID": "MAP08_E_L0138",
+        "msgStr": "B-Bütün bunlar bir yanlış anlaşılma! Onu size geri getirmeden önce sadece son bir kez birbirlerini görmelerini istedim!"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_03_055",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP08_E_L0139",
+        "msgStr": "Sırf birbirlerini görebilsinler diye Kaya'nın kaçmasına izin verdiğini mi söylüyorsun?"
+      },
+      {
+        "msgID": "MAP08_E_L0140",
+        "msgStr": "Bunu ağabeyine olan sevginden yaptığını iddia etmekten daha iyi bir yalan uydurabilirdin doğrusu."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_04_056",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP08_E_L0141",
+        "msgStr": "Takeshi'nin bu durumu senin kendi eserin. Onun başına bunun gelmesini <IT_S>sen<IT_E> diledin."
+      },
+      {
+        "msgID": "MAP08_E_L0142",
+        "msgStr": "Sürekli başarılı ağabeyinle kıyaslanmak... Bundan nefret ediyordun, değil mi?"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_05_057",
+        "msgStr": "Kiyoshi'nin Sesi"
+      },
+      {
+        "msgID": "MAP08_E_L0143",
+        "msgStr": "Ne—!? Bu doğru değil! Ben... ben bunu Kaya için yapıyordum!"
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_06_058",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP08_E_L0144",
+        "msgStr": "Her şey planlandığı gibi gittiği sürece paran eksiksiz ödenecek. O fabrika borcunu kapatmaya fazlasıyla yetecek kadar."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_07_059",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP08_E_L0145",
+        "msgStr": "Ama o dedektiften kurtulmalısın. Ve başka kimsenin müdahale etmediğinden emin olmalısın."
+      },
+      {
+        "msgID": "MAP08_E_L0145_01",
+        "msgStr": "Kuzunoha'lar... Bu işe karışamazlar."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_08_060",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP08_E_L0146",
+        "msgStr": "Başarısız olursan sonunun tıpkı ağabeyinki gibi olmasını sağlarım."
+      },
+      {
+        "msgID": "MAP08_E_L0147",
+        "msgStr": "Ve sanırım o kızın da."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_09_061",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0148",
+        "msgStr": "Hmm..."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_10_062",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0149",
+        "msgStr": "Demek Kiyoshi bu işin <IT_S>içindeymiş<IT_E>, ama birisi de onun iplerini elinde tutuyormuş."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_11_063",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0150",
+        "msgStr": "Sadece o da değil, kim olduğumuzu biliyor gibi görünüyor."
+      },
+      {
+        "msgID": "MAP08_E_L0151",
+        "msgStr": "Şu anda o oturma odasına dalmayı kesinlikle çok isterdim..."
+      },
+      {
+        "msgID": "map08_e_map08_ep01_scene18_12_064",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0151_01",
+        "msgStr": "Ama elimizde en iyi ihtimalle dolaylı kanıtlar var, üstelik düşmana elimizi açık etmiş oluruz."
+      },
+      {
+        "msgID": "MAP08_E_L0151_02",
+        "msgStr": "Pek bir işe yaramayabilir ama dedektiflik bürosuna dönüp durumu Narumi ile gözden geçirelim."
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_MES01_064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_NAKAMA_01_065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_NIKKI_01_066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_NIKKI_02_067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_NIKKI_03_068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_NIKKI_04_069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_NIKKI_05_070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_NIKKI_06_071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_MES02_072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_s_EP01_SC014_MES03_073",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0171",
+        "msgStr": "> Raidou işe yarar bir şey bulamadı."
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_01_074",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0172",
+        "msgStr": "Aile sırlarını ifşa etmem. Kişisel prensibimdir."
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_SEL SEL 0_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0173",
+        "msgStr": "Gizlice 100 yen sıkıştır"
+      },
+      {
+        "msgID": "MAP08_E_L0174",
+        "msgStr": "Buz gibi bir bakış at"
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_03_076",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0175",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP08_E_L0176",
+        "msgStr": "İşimle gurur duyarım, efendim. Rüşvet beni fikrimden caydıramaz."
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_04_077",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0177",
+        "msgStr": "P-Pekâlâ, ne isterseniz sorun."
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_04_SEL SEL 0_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0178",
+        "msgStr": "Takeshi Daidouji hakkında sor"
+      },
+      {
+        "msgID": "MAP08_E_L0179",
+        "msgStr": "Kiyoshi Daidouji hakkında sor"
+      },
+      {
+        "msgID": "MAP08_E_L0180",
+        "msgStr": "Kâhya Nakamura hakkında sor"
+      },
+      {
+        "msgID": "MAP08_E_L0181",
+        "msgStr": "Bırak gitsin"
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_05_079",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0182",
+        "msgStr": "Kendisi bu evin efendisidir, gerçi bir hastalık nedeniyle ağır bir uykuda yatıyor."
+      },
+      {
+        "msgID": "MAP08_E_L0183",
+        "msgStr": "Doktoru iyileşme şansının neredeyse hiç olmadığını söyledi. Miras meselesi tam bir karmaşa olacak."
+      },
+      {
+        "msgID": "MAP08_E_L0184",
+        "msgStr": "B-Bilmek istediğiniz başka bir şey var mıydı?"
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_06_080",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0185",
+        "msgStr": "Efendi Kiyoshi, Efendi Daidouji'nin kardeşidir. Sanırım oturma odasında kendisiyle tanıştınız."
+      },
+      {
+        "msgID": "MAP08_E_L0186",
+        "msgStr": "Çalışkan biridir ama Daidouji ailesine liderlik etmeye uygun değildir."
+      },
+      {
+        "msgID": "MAP08_E_L0187",
+        "msgStr": "Efendi Daidouji kendi işini kurması için ona borç verdi ama tam bir felaketle sonuçlandı."
+      },
+      {
+        "msgID": "MAP08_E_L0188",
+        "msgStr": "B-Bilmek istediğiniz başka bir şey var mıydı?"
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_07_081",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0189",
+        "msgStr": "Efendi Daidouji ve Efendi Kiyoshi'nin çocukluğundan beri aileye sadıktır."
+      },
+      {
+        "msgID": "MAP08_E_L0190",
+        "msgStr": "Çok özverilidir ve Efendi Daidouji ona sarsılmaz bir güven duyar. Dört dörtlük bir kâhyadır."
+      },
+      {
+        "msgID": "MAP08_E_L0191",
+        "msgStr": "Gerçi işine karşı fazlasıyla... tutkulu olabiliyor. Korkutucu derecede hem de."
+      },
+      {
+        "msgID": "MAP08_E_L0192",
+        "msgStr": "B-Bilmek istediğiniz başka bir şey var mıydı?"
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_08_082",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0193",
+        "msgStr": "B-Başka ne isterseniz çekinmeden sorabilirsiniz."
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_09a_083",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0194",
+        "msgStr": "N-Neden bana öyle bakıyorsunuz!? Gözümün korkmasına izin vermeyeceğim..."
+      },
+      {
+        "msgID": "MAP08_E_L0195",
+        "msgStr": "Y-Yapmayın efendim, işi kavgaya dökmeyelim."
+      },
+      {
+        "msgID": "map08_e_map08_npc03_Msiyo_10_084",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0196",
+        "msgStr": "M-Merhaba Raidou. Yardımcı olabilir miyim?"
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_01_085",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0197",
+        "msgStr": "Hey, beni yalnız bırakır mısın? Bay Nakamura ile başımı derde sokacaksın."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_SEL SEL 0_086",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0198",
+        "msgStr": "Gizlice 100 yen sıkıştır"
+      },
+      {
+        "msgID": "MAP08_E_L0199",
+        "msgStr": "Buz gibi bir bakış at"
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_03_087",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0200",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP08_E_L0201",
+        "msgStr": "> Hizmetkâr 100 yenlik banknotu kapıp cebine tıkıştırdı."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_04_088",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0202",
+        "msgStr": "...Ne istiyorsan sor ama çabuk ol."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_04_SEL SEL 0_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0203",
+        "msgStr": "Kaya Daidouji hakkında sor"
+      },
+      {
+        "msgID": "MAP08_E_L0204",
+        "msgStr": "Olay hakkında sor"
+      },
+      {
+        "msgID": "MAP08_E_L0205",
+        "msgStr": "Daidouji ailesi hakkında sor"
+      },
+      {
+        "msgID": "MAP08_E_L0206",
+        "msgStr": "Bırak gitsin"
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_05_090",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0207",
+        "msgStr": "Diğer zengin züppeler gibi bize tepeden bakmaz. Biz hizmetkârlara vakit ayırır."
+      },
+      {
+        "msgID": "MAP08_E_L0208",
+        "msgStr": "Ama babasıyla hiçbir zaman yıldızı barışmadı. Artık onu ziyarete bile gelmiyor."
+      },
+      {
+        "msgID": "MAP08_E_L0209",
+        "msgStr": "Açıkçası nedenini anlayabiliyorum ama yaşlı adama karşı biraz fazla soğuk davranmıyor mu diye de merak ediyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0210",
+        "msgStr": "Ne istiyorsan sor ama çabuk ol. Mesai saatindeyim."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_06_091",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0211",
+        "msgStr": "...Yaklaşık on gün önce olmalı."
+      },
+      {
+        "msgID": "MAP08_E_L0212",
+        "msgStr": "Küçük Hanım Kaya okuldan eve geldi ve her zamanki gibi doğruca odasına çıktı. Hepimiz onu gördük."
+      },
+      {
+        "msgID": "MAP08_E_L0213",
+        "msgStr": "Ancak onu son gören de biz olduk."
+      },
+      {
+        "msgID": "MAP08_E_L0214",
+        "msgStr": "Odası hâlâ temizdi ve kıyafetlerinin hepsi yerindeydi, yani üzerinde hâlâ okul üniforması olmalı."
+      },
+      {
+        "msgID": "MAP08_E_L0215",
+        "msgStr": "Ne istiyorsan sor ama çabuk ol. Mesai saatindeyim."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_07_092",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0216",
+        "msgStr": "\"Daidouji ailesinin laneti\" söylentilerini herkes duymuştur."
+      },
+      {
+        "msgID": "MAP08_E_L0217",
+        "msgStr": "Kimisi aileden birinin kadın eti yediğini, kimisi de korkunç yaratıklar yetiştirdiklerini söylüyor."
+      },
+      {
+        "msgID": "MAP08_E_L0218",
+        "msgStr": "Ne istiyorsan sor ama çabuk ol. Mesai saatindeyim."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_08_093",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0219",
+        "msgStr": "Hey, bu aramızda kalsın, tamam mı? Bay Nakamura'nın öğrenmesini istemiyorum."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_09_094",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0220",
+        "msgStr": "Hayır, cidden gider misin artık? Bay Nakamura bu yüzden beni fena haşlayabilir."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_10_095",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0221",
+        "msgStr": "Ne istiyorsan sor ama çabuk ol. Mesai saatindeyim."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_11_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0222",
+        "msgStr": "> Raidou'nun yeterli parası yoktu..."
+      },
+      {
+        "msgID": "map08_e_map08_npc04_Fsiyo_12_097",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0223",
+        "msgStr": "Sen ne çevirmeye çalışıyorsun?"
+      },
+      {
+        "msgID": "MAP08_E_L0224",
+        "msgStr": "Cidden, gider misin artık? Yoksa Bay Nakamura bana günümü gösterecek."
+      },
+      {
+        "msgID": "map08_e_map08_npc07_KAZAMA_01a_098",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP08_E_L0225",
+        "msgStr": "Daha Kaya'nın izini bulmakta yeterince zorlanıyorduk, şimdi de bir başka Daidouji kayıplara karıştı."
+      },
+      {
+        "msgID": "MAP08_E_L0226",
+        "msgStr": "Şansa bak ki görev başındayım! Mülkün acil aranması işine atandım."
+      },
+      {
+        "msgID": "MAP08_E_L0227",
+        "msgStr": "Gerçi izin günüm de böylece yalan oldu..."
+      },
+      {
+        "msgID": "map08_e_map08_npc07_KAZAMA_EN00_099",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0228",
+        "msgStr": "> Dedektif Kazama'nın Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map08_e_map08_npc07_KAZAMA_EP02_EN00_100",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP08_E_L0229",
+        "msgStr": "Amma iş ha, bu malikânede bir dert bitse öbürü başlıyor."
+      },
+      {
+        "msgID": "MAP08_E_L0230",
+        "msgStr": "Beni yanlış anlama dostum. Polis teşkilatı için daha fazla iş çıkması benim işime gelir!"
+      },
+      {
+        "msgID": "map08_e_map08_npc07_KAZ_RAI_01_101",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP08_E_L0231",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP08_E_L0232",
+        "msgStr": "Ne—!? Aa! Sensin ha, Raidou!"
+      },
+      {
+        "msgID": "MAP08_E_L0233",
+        "msgStr": "Şuna da bak. Artık sorumluluk sahibi, çalışkan bir yetişkin gibi görünüyorsun."
+      },
+      {
+        "msgID": "MAP08_E_L0234",
+        "msgStr": "Heh, eskiden buradaki serserilerin lideriydim, bütün gün kavga ederdim..."
+      },
+      {
+        "msgID": "MAP08_E_L0235",
+        "msgStr": "Ama şimdi bu kiraz çiçeği armasını taşıyor, kanunun safında çalışıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0236",
+        "msgStr": "Artık yumruklarım yerine kelepçe kullansam da hâlâ yamuk işlerden nefret ederim."
+      },
+      {
+        "msgID": "MAP08_E_L0237",
+        "msgStr": "Aynasız olmak, şu kıt aklımı kullanarak kendi seçtiğim hayat... Kendim olmamı sağlıyor."
+      },
+      {
+        "msgID": "MAP08_E_L0238",
+        "msgStr": "Gençliğimdeki gözlerin aynısı sende de var; pervasız ama bir o kadar da dürüst."
+      },
+      {
+        "msgID": "MAP08_E_L0239",
+        "msgStr": "...Şunu alsana."
+      },
+      {
+        "msgID": "MAP08_E_L0240",
+        "msgStr": "Benim yaşıma geldiğinde gözlerindeki o ışıltıyı kaybetmediğinden emin ol."
+      },
+      {
+        "msgID": "map08_e_map08_npc07_KAZ_TRG_GET_102",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0241",
+        "msgStr": "> Raidou <ITM_04><COLOR 4>Bancho Üniforması<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map08_e_map08_npc08_Mpol01_01_103",
+        "msgStr": "Karamsar Polis"
+      },
+      {
+        "msgID": "MAP08_E_L0242",
+        "msgStr": "Dedektif Kazama'nın bugün keyfi hiç yerinde değil. Gözlerinin içinin hiç gülmediğini görüyor musun?"
+      },
+      {
+        "msgID": "MAP08_E_L0243",
+        "msgStr": "Biz çaylaklarla uğraşmaya bayılır ve her an başlayabilir..."
+      },
+      {
+        "msgID": "MAP08_E_L0244",
+        "msgStr": "Dedektif Kazama'nın bugün keyfi hiç yerinde değil. Gözlerinin içinin hiç gülmediğini görüyor musun?"
+      },
+      {
+        "msgID": "MAP08_E_L0245",
+        "msgStr": "Biz çaylaklarla uğraşmaya bayılır, gerçi en azından Kanto Haguro Ailesi kadar kötü değil."
+      },
+      {
+        "msgID": "map08_e_map08_npc08_Mpol01_02a_104",
+        "msgStr": "Karamsar Polis"
+      },
+      {
+        "msgID": "MAP08_E_L0246",
+        "msgStr": "Dedektif Kazama başka bir davaya nakledildi. Muhtemelen ilgilenmesi gereken başka bir acil durum var."
+      },
+      {
+        "msgID": "MAP08_E_L0247",
+        "msgStr": "Nihayet biraz soluklanabilirim!"
+      },
+      {
+        "msgID": "MAP08_E_L0248",
+        "msgStr": "Dedektif Kazama, Ginza-cho'da olmalı."
+      },
+      {
+        "msgID": "MAP08_E_L0249",
+        "msgStr": "Oradaki dostumu muhtemelen zor zamanlar bekliyor."
+      },
+      {
+        "msgID": "MAP08_E_L0250",
+        "msgStr": "Bunu yüzüne karşı söyleyemem ama keşke Dedektif Kazama devrin değiştiğini kabul etse."
+      },
+      {
+        "msgID": "MAP08_E_L0251",
+        "msgStr": "Durmadan onlara nutuk çekerse bu genç ve dik başlıların hiçbiri onu ciddiye almaz."
+      },
+      {
+        "msgID": "map08_e_map08_npc09_Mpol02_01_105",
+        "msgStr": "Ürkek Polis"
+      },
+      {
+        "msgID": "MAP08_E_L0252",
+        "msgStr": "Kesinlikle hiçbir şey görmedim... Sadece zihnim bana oyun oynuyor."
+      },
+      {
+        "msgID": "map08_e_map08_npc09_Mpol02_JYU00_106",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0253",
+        "msgStr": "> Ürkek polisin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map08_e_map08_npc09_Mpol02_EP02_JYU01_107",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0254",
+        "msgStr": "<COLOR 2>H-Hiçbir şey görmedim... Uçan bir denizadamı falan yoktu..."
+      },
+      {
+        "msgID": "MAP08_E_L0255",
+        "msgStr": "Ve kesinlikle devasa bir kaplumbağa da görmedim. Delilik bu!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP01_01a_108",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0256",
+        "msgStr": "Bay Nakamura kusursuz bir kâhyadır. İşini neredeyse mide bulandıracak bir ciddiyetle yapar."
+      },
+      {
+        "msgID": "MAP08_E_L0257",
+        "msgStr": "Emri altındaki çalışanlara biraz daha anlayış göstermeli."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP01_02a_109",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0258",
+        "msgStr": "Bay Nakamura dimdik duruşunu veya ifadesiz suratını asla bozmaz."
+      },
+      {
+        "msgID": "MAP08_E_L0259",
+        "msgStr": "Ama kızla konuşurken kullandığı ses tonundan ve seçtiği kelimelerden... epey canının sıkkın olduğunu anlayabiliyorum."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP01_03_110",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0260",
+        "msgStr": "O-Oturma odasında Bay Nakamura'ya ne oldu öyle?"
+      },
+      {
+        "msgID": "MAP08_E_L0261",
+        "msgStr": "Gözle görülür derecede sarsılmış durumda ve açıkçası bu biraz korkutucu! İçeride ne oldu acaba...?"
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP04_01_111",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0262",
+        "msgStr": "Bay Nakamura strese bağlı bir rahatsızlık nedeniyle bugün izinli."
+      },
+      {
+        "msgID": "MAP08_E_L0263",
+        "msgStr": "Burada misafir ağırlamak için pek de uygun bir zaman sayılmaz."
+      },
+      {
+        "msgID": "MAP08_E_L0264",
+        "msgStr": "Bay Nakamura strese bağlı bir rahatsızlık nedeniyle bugün izinli."
+      },
+      {
+        "msgID": "MAP08_E_L0265",
+        "msgStr": "Misafir ağırlamak için hiç de uygun bir zaman değil."
+      },
+      {
+        "msgID": "MAP08_E_L0266",
+        "msgStr": "Yani seni kastediyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0267",
+        "msgStr": "Bay Nakamura strese bağlı bir rahatsızlık nedeniyle bugün izinli."
+      },
+      {
+        "msgID": "MAP08_E_L0268",
+        "msgStr": "Küçük Hanım Kaya'nın okul arkadaşı buralara gelip duruyor ama bir türlü imayı anlamıyor..."
+      },
+      {
+        "msgID": "MAP08_E_L0269",
+        "msgStr": "Ev sahibi artık sana çay ikram etmiyorsa, bu misafirliği fazla uzattığının bir işaretidir."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP05_01_112",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0270",
+        "msgStr": "Bay Nakamura geri döndü ama bugünlerde ürkütücü derecede sakin."
+      },
+      {
+        "msgID": "MAP08_E_L0271",
+        "msgStr": "Artık bize eskisi kadar kök söktürmüyor. Söylemesi tuhaf ama buralar daha sıkıcı hissettiriyor."
+      },
+      {
+        "msgID": "MAP08_E_L0272",
+        "msgStr": "Küçük Hanım Kaya bazen gece geç saatlere kadar dışarıda olurdu."
+      },
+      {
+        "msgID": "MAP08_E_L0273",
+        "msgStr": "Her zaman düzgün giyinirdi, bu yüzden dışarıda sürttüğünden şüpheliyim ama..."
+      },
+      {
+        "msgID": "MAP08_E_L0274",
+        "msgStr": "Efendi Kiyoshi biraz daha disiplinli olsaydı bunlar yaşanmazdı. O kıza karşı fazla yumuşak davranıyor."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP06_01_113",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0275",
+        "msgStr": "Bay Nakamura'nın yüz ifadesi tarif edilemez bir halde."
+      },
+      {
+        "msgID": "MAP08_E_L0276",
+        "msgStr": "Aynı anda hem üzgün hem de rahatlamış görünüyor. Daha önce hiç böyle bir şey görmemiştim."
+      },
+      {
+        "msgID": "MAP08_E_L0277",
+        "msgStr": "Bay Nakamura'nın Küçük Hanım Rin'e tuhaf bakışlar attığını fark ettim."
+      },
+      {
+        "msgID": "MAP08_E_L0278",
+        "msgStr": "Hâlâ üzgün görünüyor ama bence onun halinden de anlıyor. Belki de ona daha fazla çay ikram edilmeli..."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP07_01_114",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0279",
+        "msgStr": "Küçük Hanım Kaya, Efendi Daidouji'ye karşı her zaman dürüst olduğu için ona hiç sorun çıkarmazdı."
+      },
+      {
+        "msgID": "MAP08_E_L0280",
+        "msgStr": "Ama başka bir açıdan bakarsan, belki de sadece mücadele etmekten vazgeçmişti. Onu hiç gülümserken gördüğümü sanmıyorum."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP08_01_115",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0281",
+        "msgStr": "Bay Nakamura epey sakinleşti."
+      },
+      {
+        "msgID": "MAP08_E_L0282",
+        "msgStr": "Umursadığı tek kişi buranın sahibiydi. Bizi zerre kadar umursamazdı."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP10_01_116",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0283",
+        "msgStr": "Bay Nakamura son zamanlarda gerçekten sakinleşti."
+      },
+      {
+        "msgID": "MAP08_E_L0284",
+        "msgStr": "Umursadığı tek kişi buranın sahibiydi. Başka biri için endişelenmesine çok şaşırdım."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP10_02_117",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0285",
+        "msgStr": "Bay Nakamura'ya söylediklerine bakılırsa Küçük Hanım Kaya'yı görmüşsün, değil mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0286",
+        "msgStr": "Dışarıda ne yapıyor? Neden polisten kaçıyor?"
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP11_01_118",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0287",
+        "msgStr": "Bay Nakamura'nın pelerininin altında ne olduğuyla ilgilendiğini gördüm."
+      },
+      {
+        "msgID": "MAP08_E_L0288",
+        "msgStr": "Şahsen senden şüphelenmiyorum ama itiraf etmeliyim ki ben de biraz merak ediyorum."
+      },
+      {
+        "msgID": "map08_e_map08_npc10_Fsiyo_EP12_01_119",
+        "msgStr": "Somurtkan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0289",
+        "msgStr": "Canavar saldırısından sonra herkes sakinleşmiş görünüyor. İşler yoğunlaşmak üzere."
+      },
+      {
+        "msgID": "MAP08_E_L0290",
+        "msgStr": "Efendi Daidouji, Küçük Hanım Kaya ve buradaki diğer tüm sorunlar derken... Eh, en azından burası asla sıkıcı olmayacak."
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP01_01a_120",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0291",
+        "msgStr": "Kitap okuyarak vakit geçirebileceğiniz bir yer arıyorsanız koridordan aşağı inip kiler odasına gidin."
+      },
+      {
+        "msgID": "MAP08_E_L0292",
+        "msgStr": "Kitapların kalın ve biraz ağır olduğunun farkındayım. Çizgi roman veya dergimiz olmadığı için özür dilerim."
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP01_02a_121",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0293",
+        "msgStr": "Aman Tanrım, kiler odasının bodruma bağlandığından hiç haberim yoktu."
+      },
+      {
+        "msgID": "MAP08_E_L0294",
+        "msgStr": "Bir bodrumumuz olduğundan bile haberdar değildim."
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP01_03_122",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0295",
+        "msgStr": "Görünüşe göre giriş holünde bir kargaşa var."
+      },
+      {
+        "msgID": "MAP08_E_L0296",
+        "msgStr": "Ortalık yatışana kadar olduğum yerde kalsam iyi olacak."
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP04_01_123",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0297",
+        "msgStr": "Bay Nakamura aşırı çalışmaktan dolayı hastalık izni aldı."
+      },
+      {
+        "msgID": "MAP08_E_L0298",
+        "msgStr": "Yardıma ihtiyacınız olursa bana bildirin. Kâhya vekili olarak yardım sağlamak benim görevimdir."
+      },
+      {
+        "msgID": "MAP08_E_L0299",
+        "msgStr": "Bay Nakamura'nın emekli olup meşaleyi yeni nesle devretme vakti gelmiş olabilir."
+      },
+      {
+        "msgID": "MAP08_E_L0300",
+        "msgStr": "Yardıma ihtiyacınız olursa bana bildirin. Kâhya vekili olarak yardım sağlamak benim görevimdir."
+      },
+      {
+        "msgID": "MAP08_E_L0301",
+        "msgStr": "Bir tüccarın özel mülküne girmek mi istiyorsunuz?"
+      },
+      {
+        "msgID": "MAP08_E_L0302",
+        "msgStr": "Ş-Şey, Daidouji ailesinin saygınlığı düşünülürse, muhtemelen bunu mümkün kılacak bağlantıları vardır."
+      },
+      {
+        "msgID": "MAP08_E_L0303",
+        "msgStr": "Ama ben kesinlikle yapamam... Şey, Bay Nakamura döndüğünde neden ona sormuyorsunuz?"
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP05_01_124",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0304",
+        "msgStr": "Bay Nakamura geri döndü."
+      },
+      {
+        "msgID": "MAP08_E_L0305",
+        "msgStr": "Onun için oldukça stresli bir durum. Bu malikânenin tüm dertlerini bizim yerimize o çekiyor."
+      },
+      {
+        "msgID": "MAP08_E_L0306",
+        "msgStr": "Ailenin, Küçük Hanım Kaya'nın yerine birini evlat edinmeyi düşündüğünü duydum."
+      },
+      {
+        "msgID": "MAP08_E_L0307",
+        "msgStr": "Merak ediyorum da, yaşanan kargaşa yüzünden... buradaki ortak kanı Küçük Hanım Kaya'yı sonsuza dek kaybettiğimiz yönünde mi?"
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP06_01_125",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0308",
+        "msgStr": "Buradaki herkes kederli görünüyor ama şu an sevinme vakti olmamalı mı?"
+      },
+      {
+        "msgID": "MAP08_E_L0309",
+        "msgStr": "Gerçi söylemem gerekirse bir eksiklik <IT_S>hissediliyor<IT_E>."
+      },
+      {
+        "msgID": "MAP08_E_L0310",
+        "msgStr": "Buradaki herkes kederli görünüyor ama şu an sevinme vakti olmamalı mı?"
+      },
+      {
+        "msgID": "MAP08_E_L0311",
+        "msgStr": "Bugün Küçük Hanım Kaya'nın on altıncı doğum günü! ...Ah, gerçi Küçük Hanım Kaya burada olmayınca bunun pek bir tadı olmuyor sanırım."
+      },
+      {
+        "msgID": "MAP08_E_L0312",
+        "msgStr": "En kötüsüne hazırlanmak için... evlat edinme konusunu tartışıyoruz."
+      },
+      {
+        "msgID": "MAP08_E_L0313",
+        "msgStr": "Küçük Hanım Rin uygun bir aday gibi görünüyor mu? Ne de olsa Küçük Hanım Kaya ile aynı yaşta."
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP07_01_126",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0314",
+        "msgStr": "Diğer çalışanlardan Küçük Hanım Kaya'nın hâlâ Tsukudo-cho'da olduğunu duydum."
+      },
+      {
+        "msgID": "MAP08_E_L0315",
+        "msgStr": "Evden kaçmak... Çok iyi anlıyorum. Çocukken ben de aynı şeyi yapmıştım."
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP08_01_127",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0316",
+        "msgStr": "Genç Küçük Hanım Rin'in Bay Nakamura üzerinde iyi bir etkisi olduğuna inanıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0317",
+        "msgStr": "Belki de Küçük Hanım Kaya için duyduğu endişeyle onun gönlünü kazanmıştır!"
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP10_01_128",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0318",
+        "msgStr": "Dedektiflerin işi insanları aramaktır, sadece bir not bırakıp başıboş dolaşmak değil."
+      },
+      {
+        "msgID": "MAP08_E_L0319",
+        "msgStr": "Belki de bir kayıp vakasını araştırmak ona da ortadan kaybolmak için ilham vermiştir?"
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP10_02_129",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0320",
+        "msgStr": "O gürültü de neydi?"
+      },
+      {
+        "msgID": "MAP08_E_L0321",
+        "msgStr": "Ah, üst kattaki odalarda bulunanlar. Sanırım içlerinden biri takılıp düştü."
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP11_01_130",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0322",
+        "msgStr": "Bütün bu sarsıntıya ne sebep oluyor?"
+      },
+      {
+        "msgID": "MAP08_E_L0323",
+        "msgStr": "Ah, yine üst kattakiler. Adımlarına gerçekten dikkat etmeliler."
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP11_02_131",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0324",
+        "msgStr": "Tuhaf ama buradaki hizmetim sırasında doğaüstü olayları sezme konusundaki altıncı hissimin güçlendiğini hissediyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0325",
+        "msgStr": "Peki ya diğerleri? Onlar olağandışı bir şey görmüş mü?"
+      },
+      {
+        "msgID": "map08_e_map08_npc11_Msiyo_EP12_01_132",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0326",
+        "msgStr": "Herkesin dönecek bir yuvası olmalı. Küçük Hanım Kaya'nın dönmesi gereken yer bu malikâne değil mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0327",
+        "msgStr": "A-Aman Tanrım, kendi evinde tek başına olan annemi hatırladım şimdi..."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP01_01_133",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0328",
+        "msgStr": "Buranın perili olduğunu bilseydim bu işe başvurmazdım bile!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP01_02_134",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0329",
+        "msgStr": "Eleman aranıyor ilanı gerçek olamayacak kadar iyiydi... Bir kâbus olacağını oradan anlamalıydım."
+      },
+      {
+        "msgID": "MAP08_E_L0330",
+        "msgStr": "Buranın perili olduğunu bilseydim bu işe başvurmazdım bile!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP01_03_135",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0331",
+        "msgStr": "S-Sen... bir insansın, değil mi? Gerçek, etten kemikten bir insan?"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP01_04_136",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0332",
+        "msgStr": "F-Fark etmekte... çok geciktim..."
+      },
+      {
+        "msgID": "MAP08_E_L0333",
+        "msgStr": "B-Burası perili... bir malikâne... Perili malikâne..."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP04_01_137",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0334",
+        "msgStr": "Neden buraya geri döndüm ki..."
+      },
+      {
+        "msgID": "MAP08_E_L0335",
+        "msgStr": "Planım bu perili malikânedeki işi bırakıp bir daha asla geri dönmemekti..."
+      },
+      {
+        "msgID": "MAP08_E_L0336",
+        "msgStr": "Çok uykum var... çok... uykum var. Ayakta durmak bile beni yoruyor."
+      },
+      {
+        "msgID": "MAP08_E_L0337",
+        "msgStr": "Ama ne zaman içim geçmeye başlasa yeraltından gelen o ses..."
+      },
+      {
+        "msgID": "MAP08_E_L0338",
+        "msgStr": "Yeraltından gelen o sesi duymuyor musun? Aşağıda ya biri var ya da..."
+      },
+      {
+        "msgID": "MAP08_E_L0339",
+        "msgStr": "İ-İnsanlar öldüklerinde gömülürler, değil mi? C-Cesetler konuşabilir mi!?"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP05_01_138",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0340",
+        "msgStr": "Belki de buranın bana verdiği ürperti sadece hayal ürünümdür."
+      },
+      {
+        "msgID": "MAP08_E_L0341",
+        "msgStr": "Ama gece yarısı yeraltından duyduğum o ses..."
+      },
+      {
+        "msgID": "MAP08_E_L0342",
+        "msgStr": "Ş-Şu portredeki adam az önce hareket mi etti!?"
+      },
+      {
+        "msgID": "MAP08_E_L0343",
+        "msgStr": "Tanrım, ben ne diyorum böyle...?"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP06_01_139",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0344",
+        "msgStr": "Hey, sence de malikâne giderek... gürültülü bir hal almıyor mu?"
+      },
+      {
+        "msgID": "MAP08_E_L0345",
+        "msgStr": "D-Doğru ya... Bugün o gündü."
+      },
+      {
+        "msgID": "MAP08_E_L0346",
+        "msgStr": "S-Seslerin neden giderek yükseldiği belli oldu..."
+      },
+      {
+        "msgID": "MAP08_E_L0347",
+        "msgStr": "Artık seslere alıştım ama bugün onlarda farklı bir şey var."
+      },
+      {
+        "msgID": "MAP08_E_L0348",
+        "msgStr": "Bazen neredeyse sağır edici oluyorlar, bazen de zor duyabileceğim kadar kısık..."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP07_01_140",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0349",
+        "msgStr": "Küçük Hanım Kaya'yı Tsukudo-cho'da gördüm... sanırım."
+      },
+      {
+        "msgID": "MAP08_E_L0350",
+        "msgStr": "Belki de o değildi. Saç modeli farklıydı ve emin olamayacağım kadar uzaktaydı."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP08_01_141",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0351",
+        "msgStr": "D-Duymuyor musun? Yeraltından seslenen o ses korosunu?"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP10_01_142",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0352",
+        "msgStr": "Eskiden yeraltındaki sesi sadece bir inilti olarak duyardım..."
+      },
+      {
+        "msgID": "MAP08_E_L0353",
+        "msgStr": "Ama artık... tam olarak ne dediğini duyabiliyorum. Ayrıntıları anlatıp seni yormayacağım. İkimizi de delirtir."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP10_02_143",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0354",
+        "msgStr": "Aaaah! Başımda korkunç bir baskı var..."
+      },
+      {
+        "msgID": "MAP08_E_L0355",
+        "msgStr": "Bu sadece normal bir baş ağrısı değil. Sanki... birinin bakışları ruhumu delip geçiyor..."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP11_01_144",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0356",
+        "msgStr": "H-Hey! Peşinde dolaşan şu kedi; onun durumu iyi mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0357",
+        "msgStr": "Şey... sadece sağlıklı, normal bir kedi olduğundan emin olmak istedim. Hepsi bu."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP11_02_145",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0358",
+        "msgStr": "H-Hey! Peşinde dolaşan şu kedi; onun durumu iyi mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0359",
+        "msgStr": "Şey... normal bir kedi olduğu sürece benim için sorun yok."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP12_01_146",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0360",
+        "msgStr": "Yeraltındaki sesin bir gün kesileceğini hiç sanmıyorum. Kulağa çok yalnız geliyor."
+      },
+      {
+        "msgID": "MAP08_E_L0361",
+        "msgStr": "O sesi bu kadar uzun süre duyduktan sonra, göçüp gittiğimde ben de yeraltına gömülmeye karar verdim."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EN00_147",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0362",
+        "msgStr": "> Dehşete düşmüş hizmetkârın Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP01_EN01_148",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0363",
+        "msgStr": "Duyuyorum! Yeraltında! Her gece ağlayan bir kadın!"
+      },
+      {
+        "msgID": "MAP08_E_L0364",
+        "msgStr": "Uydurmuyorum! Gözlerimin altındaki şu torbaları görüyor musun? Asıl ağlaması gereken <IT_S>benim<IT_E>!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP01_EN02_149",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0365",
+        "msgStr": "H-Hey! O ses... daha mı yükseldi? Sana söylüyorum, bu hayal ürünüm değil!"
+      },
+      {
+        "msgID": "MAP08_E_L0366",
+        "msgStr": "Az önce bir kahkaha mı duydum ben? Işığı görebiliyorum..."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP01_EN03_150",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0367",
+        "msgStr": "Hıçkıra hıçkıra ağlayan bir kadın duyuyorum!"
+      },
+      {
+        "msgID": "MAP08_E_L0368",
+        "msgStr": "Ve bu ses... senden geliyor! Neler oluyor!?"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP01_EN04_151",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0369",
+        "msgStr": "Oturma odasındaki o adam Efendi Kiyoshi, değil mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0370",
+        "msgStr": "Öyle değil mi? Lütfen bana onun o olduğunu söyle!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP04_EN01_152",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0371",
+        "msgStr": "Onu duyuyorum... yeraltındaki sesi!"
+      },
+      {
+        "msgID": "MAP08_E_L0372",
+        "msgStr": "Tam da uykusuz gecelerimin sona erdiğini düşünmüşken!"
+      },
+      {
+        "msgID": "MAP08_E_L0373",
+        "msgStr": "Uykuya dalarsam yeraltındaki sesin beni alacağından korkuyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0374",
+        "msgStr": "Bunun olmasına izin vermeyeceğim! Duyuyor musun beni? Beni alamayacaksın!"
+      },
+      {
+        "msgID": "MAP08_E_L0375",
+        "msgStr": "Y-Yeraltında ne olabileceğini düşünmek bile istemiyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0376",
+        "msgStr": "Onları duyabiliyorum... Aşağıdaki sesleri duyuyorum!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP05_EN01_153",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0377",
+        "msgStr": "Keşke bu malikâne gerçekten perili değilmiş gibi davranabilsem..."
+      },
+      {
+        "msgID": "MAP08_E_L0378",
+        "msgStr": "Ama ne duyduğumu <IT_S>biliyorum<IT_E>! Yeraltındaki ses... hem de her gece!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP05_EN02_154",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0379",
+        "msgStr": "Sanırım şu portrenin gözlerinin hareket ettiğini gördüm! B-Biliyorum, kulağa imkânsız geliyor..."
+      },
+      {
+        "msgID": "MAP08_E_L0380",
+        "msgStr": "Ama bu fikir bir kez aklına girdi mi, gözlerin hareket ettiğini görmeden edemiyorsun!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP06_EN01_155",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0381",
+        "msgStr": "Yeraltındaki o ses çok yüksek! Daha önce hiç bu kadar yüksek sesle çığlık attığını duymamıştım!"
+      },
+      {
+        "msgID": "MAP08_E_L0382",
+        "msgStr": "Yarın... doğru ya! Söylenti doğru mu yoksa!?"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP06_EN02_156",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0383",
+        "msgStr": "H-Hayır! Bugün... on dört, on beş... on altı!"
+      },
+      {
+        "msgID": "MAP08_E_L0384",
+        "msgStr": "Eğer o söylenti <IT_S>gerçekten<IT_E> doğruysa... o gün bugün! Gerçekleşiyor!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP06_EN03_157",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0385",
+        "msgStr": "D-Duyabiliyorum! Genç bir kızın sesi... ve korkunç bir kükreme sesi!"
+      },
+      {
+        "msgID": "MAP08_E_L0386",
+        "msgStr": "D-Dur bir dakika, ne oldu!? S-Sesler... Kesildi."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP07_EN01_158",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0387",
+        "msgStr": "D-Daidouji ailesinin bir hizmetkârı, ailenin tek kızının yüzünü karıştırmaz!"
+      },
+      {
+        "msgID": "MAP08_E_L0388",
+        "msgStr": "Küçük Hanım Kaya'yı <IT_S>gerçekten<IT_E> gördüm! B-Bacakları vardı ve parlamıyordu, yani..."
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP08_EN01_159",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0389",
+        "msgStr": "Yeraltındaki sesler uyumsuzdu ama sonra hepsi hep bir ağızdan konuşmaya başladı..."
+      },
+      {
+        "msgID": "MAP08_E_L0390",
+        "msgStr": "Neler oluyor!? Lütfen müdahale edip de ölüleri uyandırma!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP10_EN01_160",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0391",
+        "msgStr": "Yeraltındaki sesi duyuyorum! Uzay... uzay... uzay..."
+      },
+      {
+        "msgID": "MAP08_E_L0392",
+        "msgStr": "\"Uzay\" mı...? Ne uzayı? Neden bahsediyor bu?"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP10_EN02_161",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0393",
+        "msgStr": "Aaaah! Başım mengeneye sıkışmış gibi hissediyorum. Bu sıradan bir baş ağrısı değil..."
+      },
+      {
+        "msgID": "MAP08_E_L0394",
+        "msgStr": "Yeraltındaki sesin bahsettiği uzay... g-gökyüzü müydü?"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP11_EN01_162",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0395",
+        "msgStr": "Yeraltındaki diğer seslerle birlikte feryat eden bir kedi duyabiliyorum... sanırım!"
+      },
+      {
+        "msgID": "MAP08_E_L0396",
+        "msgStr": "Çektiği ızdırabı... acısını duyabiliyorum!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP11_EN02_163",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0397",
+        "msgStr": "Bu haldeyken nasıl bu kadar sakin olabiliyorsun!?"
+      },
+      {
+        "msgID": "MAP08_E_L0398",
+        "msgStr": "Yanındaki o kedi... O kedi...!"
+      },
+      {
+        "msgID": "map08_e_map08_npc12_Msiyo_EP12_EN01_164",
+        "msgStr": "Dehşete Düşmüş Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0399",
+        "msgStr": "Yeraltındaki sesler sadece onları fark etmemizi istiyordu."
+      },
+      {
+        "msgID": "MAP08_E_L0400",
+        "msgStr": "Onları sadece ben duyabiliyorum ama o değerli seslere her zaman kulak vereceğim."
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP01_01_165",
+        "msgStr": "Öfkeli Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0401",
+        "msgStr": "Tsukudo-cho'dan mı geldin? Buraya gelirken iş arkadaşımızı gördün m—"
+      },
+      {
+        "msgID": "MAP08_E_L0402",
+        "msgStr": "...Ah, boş ver. Zaten önemli değil."
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP01_02_166",
+        "msgStr": "Öfkeli Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0403",
+        "msgStr": "Bay Raidou, malikâne ile Tsukudo-cho arasında gidip gelmiyor muydunuz?"
+      },
+      {
+        "msgID": "MAP08_E_L0404",
+        "msgStr": "İş arkadaşımızı gördünüz m— Gerçi tekrar düşündüm de, boş verin."
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP01_03a_167",
+        "msgStr": "Öfkeli Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0405",
+        "msgStr": "Benim suçum değil... Unutmamalıyım, bu benim suçum değil..."
+      },
+      {
+        "msgID": "MAP08_E_L0406",
+        "msgStr": "Aa! Bay Raidou. B-Bana aldırmayın, sadece kendi kendime mırıldanıyordum..."
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP01_04a_168",
+        "msgStr": "Öfkeli Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0407",
+        "msgStr": "Ne? Şarap mı!? Çoktan Tsukudo-cho'ya birini gönderdim..."
+      },
+      {
+        "msgID": "MAP08_E_L0408",
+        "msgStr": "H-Hayır, lütfen unutun gitsin."
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP01_05_169",
+        "msgStr": "Öfkeli Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0409",
+        "msgStr": "Ha? Tawara-ya sahibinin kaplumbağası mı? Şarap... kaplumbağa için miymiş!?"
+      },
+      {
+        "msgID": "MAP08_E_L0410",
+        "msgStr": "B-Ben kaplumbağa falan bilmiyorum! Bana kaplumbağalar hakkında soru sormayı bırakın!"
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP01_06_170",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0411",
+        "msgStr": "Sonunda şarap buraya zamanında yetişmedi. Bay Nakamura'dan azar işiteceğim."
+      },
+      {
+        "msgID": "MAP08_E_L0412",
+        "msgStr": "Endişelenmiyorum. Arada sırada başımı sallayıp dinliyormuş gibi yaparım."
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP01_07a_171",
+        "msgStr": "Rahat Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0413",
+        "msgStr": "Bay Nakamura ne yapıyor öyle? Bu... oldukça bayağı bir dans."
+      },
+      {
+        "msgID": "MAP08_E_L0414",
+        "msgStr": "Misafirlerin önünde ağırbaşlılığımızı korumamızı söyleyen bizzat <IT_S>kendisiydi<IT_E>."
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_JYU_00_172",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0415",
+        "msgStr": "> Öfkeli hizmetkârın düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP02_JYU01_173",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0416",
+        "msgStr": "<COLOR 2>Nereye kayboldu bu kız!?"
+      },
+      {
+        "msgID": "MAP08_E_L0417",
+        "msgStr": "Tsukudo-cho hiç de uzak değil. Bu kadar uzun sürmemeliydi!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP02_JYU02_174",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0418",
+        "msgStr": "<COLOR 2>Nereye kayboldu bu kız!? Misafirimiz her an burada olabilir!"
+      },
+      {
+        "msgID": "MAP08_E_L0419",
+        "msgStr": "Kendim yapmalıydım! Yürüyerek uzak değildi! Ah, neden bu kadar tembelim ben!?<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP02_JYU03_175",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0420",
+        "msgStr": "<COLOR 2>Bu sefer gerçekten çuvalladık! Misafirin en sevdiği şarap burada değil!"
+      },
+      {
+        "msgID": "MAP08_E_L0421",
+        "msgStr": "Hepsi o yeni kızın suçu! Üstelik halledeceğini söylemişti!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP02_JYU04_176",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0422",
+        "msgStr": "<COLOR 2>Yeni kızdan Tsukudo-cho'dan birkaç şey almasını istedim ama hâlâ dönmedi!"
+      },
+      {
+        "msgID": "MAP08_E_L0423",
+        "msgStr": "Of ya, Bay Nakamura'nın bitmek bilmeyen dırdırını şimdiden duyabiliyorum. Düşünmesi bile başımı ağrıtıyor...<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_npc13_Fsiyo_EP02_JYU05_177",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0424",
+        "msgStr": "<COLOR 2>Kaplumbağa mı? Umarım binanın önünde bulduğum o kaplumbağadan bahsetmiyordur. Onu çöpe attım..."
+      },
+      {
+        "msgID": "MAP08_E_L0425",
+        "msgStr": "Çok bakımsız ve kirliydi... Benim suçum değil! Onu ben öldürmedim!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_npc14_Mkep_EP01_01_178",
+        "msgStr": "Demir Yumruklu Asker"
+      },
+      {
+        "msgID": "MAP08_E_L0426",
+        "msgStr": "Kâhyayı duydun. Burnunu üstüne vazife olmayan işlere sokma, evlat."
+      },
+      {
+        "msgID": "MAP08_E_L0427",
+        "msgStr": "Uslu durmazsan haddini bildirmem gerekebilir. Anlaşıldı mı?"
+      },
+      {
+        "msgID": "map08_e_map08_npc14_Mkep_EP01_02_179",
+        "msgStr": "Demir Yumruklu Asker"
+      },
+      {
+        "msgID": "MAP08_E_L0428",
+        "msgStr": "Üstümüzün bu adama bu kadar müsamaha göstermesine inanamıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0429",
+        "msgStr": "Bana kalsaydı, bu yumruklarla ona kolay kolay unutamayacağı bir dayak atardım."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01_01_180",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0430",
+        "msgStr": "Demek bir dedektif tutulduğu doğruymuş. Bu biraz pahalı değil mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0431",
+        "msgStr": "Eh, Efendi Kiyoshi öyle diyorsa sorun olmaz herhalde."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01_02_181",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0432",
+        "msgStr": "Rin Hanım mı...? Ha, o mu! Tatlıcıdan bize yiyecek getiren şu kız!"
+      },
+      {
+        "msgID": "MAP08_E_L0433",
+        "msgStr": "Eskiden oldukça sık gelirdi ama son zamanlarda pek uğramıyor."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01_03_182",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0434",
+        "msgStr": "Rin Hanım neredeyse kaçırılıyor muydu?"
+      },
+      {
+        "msgID": "MAP08_E_L0435",
+        "msgStr": "Kaya Hanım bana takip edildiğini düşündüğünden bahsetmişti..."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01_04_183",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0436",
+        "msgStr": "Az önce duyduğum Efendi Kiyoshi miydi? Sesi ikinci kattan geliyor gibiydi."
+      },
+      {
+        "msgID": "MAP08_E_L0437",
+        "msgStr": "Gerçi alışık olduğumdan çok daha gergin geliyordu sesi. Normalde o kadar yüksek sesle konuşmaz."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01_05_184",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0438",
+        "msgStr": "Nakamura Bey, oturma odasında Efendi Kiyoshi ile görüştüğünden beri tuhaf davranıyor."
+      },
+      {
+        "msgID": "MAP08_E_L0439",
+        "msgStr": "Bence Nakamura Bey her taraftan büyük baskı altında ve bu onu çıldırtıyor..."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP02_01a_185",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0440",
+        "msgStr": "Şey, ıı... Nakamura Bey diğer hizmetkârların şu anda başka bir yerde eğitimde olduğunu söylememi tembihledi..."
+      },
+      {
+        "msgID": "MAP08_E_L0441",
+        "msgStr": "B-Boş verin. Gerçekten, önemli bir şey değil."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP02_02a_186",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0442",
+        "msgStr": "S-Sahanlıktaki şu ceketli adamı görüyor musunuz? Bence o bir yaku— Şey, yani...!"
+      },
+      {
+        "msgID": "MAP08_E_L0443",
+        "msgStr": "B-Boş verin. Gerçekten, önemli bir şey değil."
+      },
+      {
+        "msgID": "MAP08_E_L0444",
+        "msgStr": "Şuradaki adamı görüyor musunuz? Şu poli—"
+      },
+      {
+        "msgID": "MAP08_E_L0445",
+        "msgStr": "B-Boş verin. Gerçekten, önemli bir şey değil."
+      },
+      {
+        "msgID": "MAP08_E_L0446",
+        "msgStr": "Şuradaki adamı görüyor musunuz? Şu poli—"
+      },
+      {
+        "msgID": "MAP08_E_L0447",
+        "msgStr": "B-Boş verin. Gerçekten, önemli bir şey değil."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP03_01a_187",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0448",
+        "msgStr": "Biraz önceye kadar burada olan polis memuru..."
+      },
+      {
+        "msgID": "MAP08_E_L0449",
+        "msgStr": "B-Boş verin. Gerçekten, önemli bir şey değil."
+      },
+      {
+        "msgID": "MAP08_E_L0450",
+        "msgStr": "Efendi Kiyoshi artık aranan bir adam, değil mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0451",
+        "msgStr": "Öyle bir adamı nerede bulabilirsin ki... Gerçi gittiğini bildiğim bir yer var..."
+      },
+      {
+        "msgID": "MAP08_E_L0452",
+        "msgStr": "Bazıları Efendi Kiyoshi'nin yüzüne başka, arkasından başka konuşuyor..."
+      },
+      {
+        "msgID": "MAP08_E_L0453",
+        "msgStr": "Ben değilim tabii, yanlış anlamayın... <IT_S>Diğer<IT_E> hizmetkârları kastediyorum."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP04_01_188",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0454",
+        "msgStr": "Tam herkes buraya geri döndüğünde Nakamura Bey hastalandı."
+      },
+      {
+        "msgID": "MAP08_E_L0455",
+        "msgStr": "Acaba diyorum..."
+      },
+      {
+        "msgID": "MAP08_E_L0456",
+        "msgStr": "Rin Hanım burada, değil mi? Gerçi bugün hiç tatlı getirmemiş galiba."
+      },
+      {
+        "msgID": "MAP08_E_L0457",
+        "msgStr": "Ne kadar kaba. Ş-Şey, misafirlere karşı demek istedim."
+      },
+      {
+        "msgID": "MAP08_E_L0458",
+        "msgStr": "Rin Hanım genelde tatlıcıdan bir paket getirip dağıtır—"
+      },
+      {
+        "msgID": "MAP08_E_L0459",
+        "msgStr": "Şey... Sanırım misafirlerin hizmetkârlara ikramda bulunmasını beklemek biraz ters oluyor."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP05_01_189",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0460",
+        "msgStr": "Efendi Kiyoshi ile yaşanan o talihsiz olaydan sonra Rin Hanım daha sık uğrar oldu."
+      },
+      {
+        "msgID": "MAP08_E_L0461",
+        "msgStr": "Her zaman yiyecek getirir... Şey, yani arkadaşlarına çok değer veren harika bir kızdır."
+      },
+      {
+        "msgID": "MAP08_E_L0462",
+        "msgStr": "Kaya Hanım biraz çekingen biridir. Pek fazla arkadaşı yoktur."
+      },
+      {
+        "msgID": "MAP08_E_L0463",
+        "msgStr": "Şu anda askerlerle birlikte ama... hım..."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP06_01_190",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0464",
+        "msgStr": "Duyduğuma göre Rin Hanım tatlıcıdan bir pasta sipariş etmiş..."
+      },
+      {
+        "msgID": "MAP08_E_L0465",
+        "msgStr": "Ha! Şimdi anladım."
+      },
+      {
+        "msgID": "MAP08_E_L0466",
+        "msgStr": "Rin Hanım'ın pastası bu sefer biraz daha büyüktü..."
+      },
+      {
+        "msgID": "MAP08_E_L0467",
+        "msgStr": "Bu... çok üzücü."
+      },
+      {
+        "msgID": "MAP08_E_L0468",
+        "msgStr": "Belki de Rin Hanım'a ortalıkta dolaşan söylentiden bahsetmeliyim..."
+      },
+      {
+        "msgID": "MAP08_E_L0469",
+        "msgStr": "Öte yandan, eğer insanlar yanılıyorsa boş yere ümitlenmesini istemem."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP07_01_191",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0470",
+        "msgStr": "Belki de Rin Hanım'a ortalıkta dolaşan söylentiden bahsetmeliyim..."
+      },
+      {
+        "msgID": "MAP08_E_L0471",
+        "msgStr": "Ama... hâlâ doğrulanmış bir görülme haberi yok. Birinin eşek şakası da olabilir."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP08_01_192",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0472",
+        "msgStr": "Rin Hanım için çok üzülüyorum ama... Kaya Hanım'ın geri döneceğini sanmıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0473",
+        "msgStr": "Gerçi bunu onun önünde söylememeliyim. Rin Hanım, Kaya Hanım'ı tekrar göreceği konusunda çok umutlu."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP10_01_193",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0474",
+        "msgStr": "Ne çok asker var... Ne tuhaf."
+      },
+      {
+        "msgID": "MAP08_E_L0475",
+        "msgStr": "Aman Tanrım, yine içimdeki meraklı seyirci dürtüsünün kabardığını hissedebiliyorum."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP10_02_194",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0476",
+        "msgStr": "Az önceki o yüksek ses neydi öyle? O kadar korktum ki yere kapaklandım."
+      },
+      {
+        "msgID": "MAP08_E_L0477",
+        "msgStr": "İyiyim ama içimdeki meraklı seyircinin hemen ortaya çıktığını hissedebildim."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP11_01_195",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0478",
+        "msgStr": "Amma depremdi ama, değil mi? Beni resmen ayaklarımdan etti."
+      },
+      {
+        "msgID": "MAP08_E_L0479",
+        "msgStr": "Üf, hâlâ sarsılmış haldeyim... ama yine etrafı dikizlemeye gitme dürtüsü geliyor."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP11_02_196",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0480",
+        "msgStr": "Ah, affedersiniz... Köpekleri mi yoksa kedileri mi tercih edersiniz?"
+      },
+      {
+        "msgID": "MAP08_E_L0481",
+        "msgStr": "Köpekleri."
+      },
+      {
+        "msgID": "MAP08_E_L0482",
+        "msgStr": "Kedileri."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP11_02_ans0_197",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0483",
+        "msgStr": "Öyle mi gerçekten? Sizi köpek seven biri olarak tahmin etmemiştim."
+      },
+      {
+        "msgID": "MAP08_E_L0484",
+        "msgStr": "Öyle düşünüyorsanız yanınızdaki kedi size küsmesin?"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP11_02_ans1_198",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0485",
+        "msgStr": "Elbette! Ben de tam bir kediciyimdir, bilirsiniz. Size yüz verip vermeyeceklerini asla bilememe halini çok seviyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0486",
+        "msgStr": "Yanınızdaki şu kara kediye çooook bayıldım. Sanki bana gerçekten tepeden bakıyor gibi!"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP12_01_199",
+        "msgStr": "Dedikoducu Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0487",
+        "msgStr": "Uzun zamandır Daidouji malikânesinde çalışıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0488",
+        "msgStr": "Ve sanırım daha uzun yıllar burada yan gelip yatacağım—yani, sıkı çalışacağım!"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_JYU00_200",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0489",
+        "msgStr": "> Dedikoducu hizmetkârın düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01s_JYU01_201",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0490",
+        "msgStr": "<COLOR 2>Efendi Kiyoshi maaşlarımızı bile zar zor ödeyebiliyor... Bu yüzden herkes ona beceriksiz diyor."
+      },
+      {
+        "msgID": "MAP08_E_L0491",
+        "msgStr": "Bütün bu olanlar muhtemelen saçlarına daha da çok ak düşürecek.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01s_JYU02_202",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0492",
+        "msgStr": "<COLOR 2>Bu, Kaya Hanım'la ilgili mesele yüzünden mi? Ne üzücü."
+      },
+      {
+        "msgID": "MAP08_E_L0493",
+        "msgStr": "Görünüşe göre tatlıcının çilekli pastalarından bir daha göremeyeceğim...<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01s_JYU03_203",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0494",
+        "msgStr": "<COLOR 2>Acaba ailesinden fidye koparmak isteyen biri mi...?"
+      },
+      {
+        "msgID": "MAP08_E_L0495",
+        "msgStr": "Yoksa sadece kız öğrenci üniformalarına zaafı olan bir sapık mı?<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01s_JYU04_204",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0496",
+        "msgStr": "<COLOR 2>Genelde içine kapanık insanlar bütün streslerini içlerine atarlar..."
+      },
+      {
+        "msgID": "MAP08_E_L0497",
+        "msgStr": "Gerçi her gün Efendi Daidouji ile kıyaslanıp beceriksiz deniyor adama.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP01s_JYU05_205",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0498",
+        "msgStr": "<COLOR 2>Nakamura Bey, hem Efendi Daidouji'ye hem de Efendi Kiyoshi'ye eşit derecede düşmanca davranıyordu..."
+      },
+      {
+        "msgID": "MAP08_E_L0499",
+        "msgStr": "Efendi Kiyoshi, Efendi Daidouji kadar iyi olmadığı için mi içten içe köpürüyor acaba?<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP02_JYU01_206",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0500",
+        "msgStr": "<COLOR 2>Aslında bana Efendi Kiyoshi'nin tuhaf davrandığını söylemişti..."
+      },
+      {
+        "msgID": "MAP08_E_L0501",
+        "msgStr": "Diğer herkes bugün izin aldı ama ben almadım. Dünyaları verseler böyle bir heyecanı kaçırmam!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP02_JYU02_207",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0502",
+        "msgStr": "<COLOR 2>Böyle görünen bir adamın gerçek bir dedektif olduğuna inanamıyorum. Aslında Kanto Haguro Ailesi'nden olmadığına emin miyiz?"
+      },
+      {
+        "msgID": "MAP08_E_L0503",
+        "msgStr": "Çocukları her gün böyle bir surata bakmak zorunda kalsaydı gözyaşlarına boğulurlardı.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP02_JYU03_208",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0504",
+        "msgStr": "<COLOR 2>Çok afedersiniz Polis Bey! Burada temizlik yapıyoruz!"
+      },
+      {
+        "msgID": "MAP08_E_L0505",
+        "msgStr": "Neymiş efendim, \"Çekil yolumdan\"mış! Burada sadece birer hizmetkâr olduğumuzu göremiyor mu?<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP02_JYU04_209",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0506",
+        "msgStr": "<COLOR 2>Bana sadece kıpırdamama mı söyledi, değil mi? O zaman ben de şuradan izlerim."
+      },
+      {
+        "msgID": "MAP08_E_L0507",
+        "msgStr": "Ne de olsa bana izlemememi hiç söylemedi.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP03_JYU01_210",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0508",
+        "msgStr": "<COLOR 2>Evi aramanız gerekmesi umurumda değil, yeter ki eşyaları aldığınız yere geri koyun!"
+      },
+      {
+        "msgID": "MAP08_E_L0509",
+        "msgStr": "Diğer herkes izinli olduğu için bu zorbaların arkasını toplamak bana kalıyor!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP03_JYU02_211",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0510",
+        "msgStr": "<COLOR 2>Efendi Kiyoshi ne sigara ne de içki içerdi. Her zaman tamamen işine odaklanırdı."
+      },
+      {
+        "msgID": "MAP08_E_L0511",
+        "msgStr": "Buradan başka bir yere gidecek olsaydı, muhtemelen... Senju-ku'daki fabrikasına giderdi.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP03_JYU03_212",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0512",
+        "msgStr": "<COLOR 2>Hizmetkârlar arkasından Efendi Kiyoshi'ye \"beceriksiz Daidouji\" diyorlar."
+      },
+      {
+        "msgID": "MAP08_E_L0513",
+        "msgStr": "Pek zeki olmadığını düşünüyorlar ama sadece işine o kadar odaklanmış durumda ki biraz patavatsız olabiliyor.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP04_JYU01_213",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0514",
+        "msgStr": "<COLOR 2>Efendi Kiyoshi'nin başı dertte, Efendi Daidouji ağır hasta ve Kaya Hanım kayıp..."
+      },
+      {
+        "msgID": "MAP08_E_L0515",
+        "msgStr": "Bütün bunlar Nakamura Bey'i çok yıpratıyor. Sanırım uyku deliliğine yakalanıyor.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP04_JYU02_214",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0516",
+        "msgStr": "<COLOR 2>Bugün o kadar çok çalıştım ki... Atıştırma saati gelmedi mi hâlâ?"
+      },
+      {
+        "msgID": "MAP08_E_L0517",
+        "msgStr": "Tatlıcının çilekli pastası için yaşıyorum resmen.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP04_JYU03_215",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0518",
+        "msgStr": "<COLOR 2>Hayır, olamaz... Bana çilekli pastayı unuttuklarını söylemeyin!"
+      },
+      {
+        "msgID": "MAP08_E_L0519",
+        "msgStr": "Canım deli gibi çilekli pasta çekiyor. Mutlaka yemeliyim!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP05_JYU01_216",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0520",
+        "msgStr": "<COLOR 2>Tatlıcının çilekli pastası tek kelimeyle şahane."
+      },
+      {
+        "msgID": "MAP08_E_L0521",
+        "msgStr": "O narin ve kabarık pandispanya keki... O enfes taze kreması!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP05_JYU02_217",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0522",
+        "msgStr": "<COLOR 2>Askerler Kaya Hanım'ın tipi olmasa bile, içlerinden biri ona abayı yakmışsa..."
+      },
+      {
+        "msgID": "MAP08_E_L0523",
+        "msgStr": "O yaşça büyük askerlerin Kaya gibi saf tiplerden neden hoşlanabileceğini anlayabiliyorum.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP06_JYU01_218",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0524",
+        "msgStr": "<COLOR 2>Doğru ya, unutmuşum. Yarın Kaya Hanım'ın..."
+      },
+      {
+        "msgID": "MAP08_E_L0525",
+        "msgStr": "Zavallı küçük kız. Sanırım Kaya Hanım'ın geri döneceğine gerçekten inanıyor.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP06_JYU02_219",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0526",
+        "msgStr": "<COLOR 2>Bugün Kaya Hanım'ın doğum günü."
+      },
+      {
+        "msgID": "MAP08_E_L0527",
+        "msgStr": "Rin Hanım, Kaya Hanım da bir dilim yer diye düşünerek daha büyük bir pasta getirmiş olmalı.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP06_JYU03_220",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0528",
+        "msgStr": "<COLOR 2>Kaya Hanım'a benzeyen bir kız öğrencinin görüldüğünü duydum..."
+      },
+      {
+        "msgID": "MAP08_E_L0529",
+        "msgStr": "Görünüşe göre artık bambaşka biri olmuş. Gözlerinin daha keskin baktığını... falan söylüyorlar.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP07_JYU01_221",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0530",
+        "msgStr": "<COLOR 2>Kaya Hanım hakkındaki söylenti her yerde kulağıma çalınıyordu."
+      },
+      {
+        "msgID": "MAP08_E_L0531",
+        "msgStr": "Ama son zamanlarda pek duymuyorum. Muhtemelen birini ona benzettiler.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP08_JYU01_222",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0532",
+        "msgStr": "<COLOR 2>Gerçekten güvende olsaydı evi aramaz mıydı?"
+      },
+      {
+        "msgID": "MAP08_E_L0533",
+        "msgStr": "Açıkçası artık hayatta olduğundan bile şüpheliyim. Zavallı Rin Hanım.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP10_JYU01_223",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0534",
+        "msgStr": "<COLOR 2>Aman Tanrım, içimdeki meraklı yine baş gösteriyor. Kendime engel olamıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0535",
+        "msgStr": "Tsukudo-cho'ya gitmeyi o kadar çok istiyorum ki! Burada yaptığım işe zar zor odaklanabiliyorum!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP10_JYU02_224",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0536",
+        "msgStr": "<COLOR 2>Aman Tanrım, içimdeki meraklı yine baş gösteriyor. Kendime engel olamıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0537",
+        "msgStr": "Dışarıda neler döndüğünü görmek için yanıp tutuşuyorum! Meraktan yemek bile yiyemiyorum.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP11_JYU01_225",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0538",
+        "msgStr": "<COLOR 2>O deprem çok büyüktü... Merkez üssü bayağı yakınlarda olmalı."
+      },
+      {
+        "msgID": "MAP08_E_L0539",
+        "msgStr": "Dışarıda neler olduğunu mutlaka görmeliyim! Tabii yardıma ihtiyacı olan varsa üzerime düşeni yaparım.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP11_JYU02_226",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0540",
+        "msgStr": "<COLOR 2>Köpek sevenlerin başkalarına sadık olduğunu, başkalarının ise kedi sevenlere sadık olduğunu söylerler."
+      },
+      {
+        "msgID": "MAP08_E_L0541",
+        "msgStr": "Bu çocuk kesinlikle kedici! Bahse girerim yanlarından geçerken kızlar çıldırıyordur.<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc01_EP12_JYU01_227",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP08_E_L0542",
+        "msgStr": "<COLOR 2>Bu malikânenin ne sorunu olursa olsun, en azından asla sıkıcı değil."
+      },
+      {
+        "msgID": "MAP08_E_L0543",
+        "msgStr": "Her gün bir olay çıkıyor. Başka hiçbir yerde çalışmak istemem!<COLOR 0>"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP01_01_228",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0544",
+        "msgStr": "Ne o, bugünlerde bürolarda eleman sıkıntısı o kadar mı vahim ki evcil hayvanlar bile yardım etmek zorunda kalıyor?"
+      },
+      {
+        "msgID": "MAP08_E_L0545",
+        "msgStr": "Şu senin kara kedinin tuvalet eğitimi yoksa faturayı sana keseceğimizden hiç şüphen olmasın."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP01_02_229",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0546",
+        "msgStr": "Senin gibi bir okul çocuğunu işe aldıklarına göre büronuz eleman bulmakta bayağı zorlanıyor olmalı."
+      },
+      {
+        "msgID": "MAP08_E_L0547",
+        "msgStr": "Öğrencisin diye göz yumacağımı sanma. Burada ne kırarsan parasını ödersin."
+      },
+      {
+        "msgID": "MAP08_E_L0548",
+        "msgStr": "Bu kadar büyük bir malikâne için zarafet her şeyden önemlidir."
+      },
+      {
+        "msgID": "MAP08_E_L0549",
+        "msgStr": "Yani demem o ki, o yağlı patilerini her şeye sürme. Ortamın havasını bozacaksın."
+      },
+      {
+        "msgID": "MAP08_E_L0550",
+        "msgStr": "Ha, hâlâ buradasın demek. El dokuması halılarımızın üzerinde tepinmek hoşuna gidiyor mu?"
+      },
+      {
+        "msgID": "MAP08_E_L0551",
+        "msgStr": "...Mesajı hâlâ almadın mı? Meşgulüz ve ortalıktan toz olursan minnettar kalırız."
+      },
+      {
+        "msgID": "MAP08_E_L0552",
+        "msgStr": "Efendi Kiyoshi oldukça bitkin görünüyordu. Sürekli ensesini ovuşturup durdu."
+      },
+      {
+        "msgID": "MAP08_E_L0553",
+        "msgStr": "O iş toplantısında o kadar gerilmiş olmalı ki sinirini sıkıştırdı."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP04_01_230",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0554",
+        "msgStr": "Efendi Kiyoshi ile yaşanan o saçmalıktan sonra hâlâ Kaya Hanım'ı arıyor olmanızdan hepimiz çok etkilendik. Gerçekten."
+      },
+      {
+        "msgID": "MAP08_E_L0555",
+        "msgStr": "Ama bu, keyfinize göre mobilyaların üzerinde lekeli parmak izleri bırakabileceğiniz anlamına gelmez."
+      },
+      {
+        "msgID": "MAP08_E_L0556",
+        "msgStr": "Vazolar ve tablolar, önceki Daidouji efendileri tarafından satın alınmış paha biçilmez ithal eserlerdir."
+      },
+      {
+        "msgID": "MAP08_E_L0557",
+        "msgStr": "Bana hepsi aynı görünüyor ama önemli olan tek şey şu: dokunmak yok."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP05_01_231",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0558",
+        "msgStr": "Bu malikânenin pek çok askeri ağırladığının muhtemelen farkındasındır."
+      },
+      {
+        "msgID": "MAP08_E_L0559",
+        "msgStr": "Ordu askerleri, sanki bir sürü kültürsüz domuz değillermiş gibi sanat eserlerine takdirle başlarını sallıyorlardı."
+      },
+      {
+        "msgID": "MAP08_E_L0560",
+        "msgStr": "Bazen hayatta tutunmak için tek başına sıkı çalışmak yetmez."
+      },
+      {
+        "msgID": "MAP08_E_L0561",
+        "msgStr": "Dünyaya tozpembe gözlüklerle bakmaya çalışırsan insanlar sana sadece dudak büker. Haklılar da."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP06_01_232",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0562",
+        "msgStr": "Ordu askerleri, Efendi Kiyoshi ile yaptıkları son ziyaretten beri geri gelmediler."
+      },
+      {
+        "msgID": "MAP08_E_L0563",
+        "msgStr": "Buradaki baş döndürücü lüksün karşısında ezilmiş olmalılar. Burası ucuza mal olmadı."
+      },
+      {
+        "msgID": "MAP08_E_L0564",
+        "msgStr": "Efendi Kiyoshi ve askerler ne hakkında konuşuyorlardı acaba?"
+      },
+      {
+        "msgID": "MAP08_E_L0565",
+        "msgStr": "Dur bir dakika... Fabrika için para bulmanın yollarını mı tartışıyorlardı? Bu tabloları Tümgeneral Munakata'ya satmayacağız, değil mi!?"
+      },
+      {
+        "msgID": "MAP08_E_L0566",
+        "msgStr": "Efendi yeni bir sanat eseri aldığında, eskiler depoya atılır."
+      },
+      {
+        "msgID": "MAP08_E_L0567",
+        "msgStr": "Askerler de artık bize gerek kalmadığı için mi gelmeyi bıraktı acaba? Hayır, fazla kuruntu yapıyorum."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP07_01_233",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0568",
+        "msgStr": "Şu senin patronun bir askerle miydi? Ne yapıyordu acaba, sorabilir miyim?"
+      },
+      {
+        "msgID": "MAP08_E_L0569",
+        "msgStr": "Rüşvet mi alıyordu...? Hayır, olamaz. Hepsini kendine saklayabilecekken bürosunu işin içine katmanın bir anlamı yok."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP08_01_234",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0570",
+        "msgStr": "Efendi Kiyoshi burada değil ama Kaya Hanım'ı bulmanız için <IT_S>sizinle<IT_E> anlaştı."
+      },
+      {
+        "msgID": "MAP08_E_L0571",
+        "msgStr": "Bu saygın hane ile sizin büronuz birbirine bağlı... Neredeyse kader gibi görünüyor."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP10_01_235",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0572",
+        "msgStr": "Tsukudo-cho'daki Ordu varlığından gördüğüm kadarıyla sıkıyönetim ilan edilmiş gibi duruyor."
+      },
+      {
+        "msgID": "MAP08_E_L0573",
+        "msgStr": "Bana sorarsan burayı korumaktan ziyade işgal ediyorlar gibi."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP10_02_236",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0574",
+        "msgStr": "Pencereden dışarı bakarken beyaz bir duman bulutu gördüm."
+      },
+      {
+        "msgID": "MAP08_E_L0575",
+        "msgStr": "Ordu yine ne dolaplar çeviriyor? Yeni bir silah falan mı test ediyorlar?"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP11_01_237",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0576",
+        "msgStr": "Şok dalgası bizi bayağı sert vurdu ama bütün tablolar ve vazolar mucizevi bir şekilde sağlam."
+      },
+      {
+        "msgID": "MAP08_E_L0577",
+        "msgStr": "Sanki her şey yerine yapıştırılmış gibi."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP11_02_238",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0578",
+        "msgStr": "Köpeğim olmasını tercih ederim. Evcil hayvan dediğin iyi bir dost olmalı."
+      },
+      {
+        "msgID": "MAP08_E_L0579",
+        "msgStr": "Kedilerle vakit geçirmek berbattır. Küçükken sevimlidirler ama kim somurtkan bakışlı, yaşlı ve şişman bir tekir ister ki?"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc02_EP12_01_239",
+        "msgStr": "İğneleyici Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0580",
+        "msgStr": "Eskiden ressam olmak isterdim ama şimdi sıradan bir hizmetkârım."
+      },
+      {
+        "msgID": "MAP08_E_L0581",
+        "msgStr": "Fakat bu tablolara baktıkça daha çok ilham alıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0582",
+        "msgStr": "Belki bir kez daha şansımı denerim... Evet, neden olmasın?"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc03_EP02_01_240",
+        "msgStr": "Israrcı Polis"
+      },
+      {
+        "msgID": "MAP08_E_L0583",
+        "msgStr": "Etrafta koşturup durma! Hiçbir şeye dokunma!"
+      },
+      {
+        "msgID": "MAP08_E_L0584",
+        "msgStr": "Her şeyden önemlisi, benimle konuşma! Kurallara uymazsan seni içeri alırım!"
+      },
+      {
+        "msgID": "MAP08_E_L0585",
+        "msgStr": "Hey, şuradaki kadına söyle de bana bakmayı kessin!"
+      },
+      {
+        "msgID": "MAP08_E_L0586",
+        "msgStr": "O öyle dik dik bakarken soruşturmaya nasıl odaklanmamı bekliyorsun?"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc04_EP01_01a_241",
+        "msgStr": "Kusur Arayan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0587",
+        "msgStr": "Efendi Kiyoshi iyi mi acaba? Son zamanlarda tek yaptığı pencereden dışarı bakmak."
+      },
+      {
+        "msgID": "MAP08_E_L0588",
+        "msgStr": "Eskiden Efendi Kiyoshi'nin başı sıkıştığında Efendi Daidouji her zaman yardım eli uzatırdı."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc04_EP01_02_242",
+        "msgStr": "Kusur Arayan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0589",
+        "msgStr": "Nakamura Bey dikkatsiz olmamam konusunda beni uyardı."
+      },
+      {
+        "msgID": "MAP08_E_L0590",
+        "msgStr": "Bugün ziyarete kim geldi acaba? Efendi Kiyoshi nasıl düzgün ev sahipliği yapılacağını biliyor mu ki?"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc04_EP01_03_243",
+        "msgStr": "Kusur Arayan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0591",
+        "msgStr": "Bugünkü misafirin çok önemli biri olduğunu duydum."
+      },
+      {
+        "msgID": "MAP08_E_L0592",
+        "msgStr": "Efendi Kiyoshi iyi olacak mı? Toplantıda durumu idare edebilecek mi?"
+      },
+      {
+        "msgID": "map08_e_map08_01_npc04_EP01_04_244",
+        "msgStr": "Kusur Arayan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0593",
+        "msgStr": "Ah, biliyordum. Efendi Kiyoshi'nin misafirle yaptığı müzakereler başarısızlıkla sonuçlandı."
+      },
+      {
+        "msgID": "MAP08_E_L0594",
+        "msgStr": "Bu işin altından kalkamayacağını biliyordum. Efendi Daidouji'nin yardımı olmadan neredeyse hiçbir şey yapamıyor."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc04_EP01_05_245",
+        "msgStr": "Kusur Arayan Hizmetkâr"
+      },
+      {
+        "msgID": "MAP08_E_L0595",
+        "msgStr": "Efendi Kiyoshi misafirimizle toplantısını bitirdikten sonra oturma odasına kapandı."
+      },
+      {
+        "msgID": "MAP08_E_L0596",
+        "msgStr": "Görünüşe göre misafiri kızdırmış. Keşke Efendi Daidouji burada olsaydı..."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc05_EP01_01_246",
+        "msgStr": "Barut Yanıklı Asker"
+      },
+      {
+        "msgID": "MAP08_E_L0597",
+        "msgStr": "Toranomon'daki o olaydan beri nöbet görevime her şeyimi veriyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0598",
+        "msgStr": "Şüpheli görünen biri olursa ateş etmekten çekinmem. Malikânenin hizmetkârı olsa bile."
+      },
+      {
+        "msgID": "map08_e_map08_01_npc05_EP01_02_247",
+        "msgStr": "Barut Yanıklı Asker"
+      },
+      {
+        "msgID": "MAP08_E_L0599",
+        "msgStr": "Üstümüzün bu adama bu kadar müsamaha göstermesine inanamıyorum."
+      },
+      {
+        "msgID": "MAP08_E_L0600",
+        "msgStr": "Adamlarım itaatsizlik etseydi ateş etmekten tereddüt etmezdim."
+      },
+      {
+        "msgID": "map08_e_map08_02_npc01_EP01_01_248",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0601",
+        "msgStr": "> Yerde oturan bir oyuncak bebek var."
+      },
+      {
+        "msgID": "MAP08_E_L0602",
+        "msgStr": "> Kapüşonlu bir kadını andırıyor."
+      },
+      {
+        "msgID": "map08_e_map08_02_npc02_EP01_01_249",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0603",
+        "msgStr": "> Yerde oturan bir oyuncak bebek var."
+      },
+      {
+        "msgID": "MAP08_E_L0604",
+        "msgStr": "> Yaklaşık bir bebek boyutlarında."
+      },
+      {
+        "msgID": "map08_e_map08_NAKAMA_MES01_250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0605",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_map08_NAKAMA_MES02_251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0606",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_EPI03_SCENE02_01_252",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0607",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0608",
+        "msgStr": "İyi günler efendim. Daha önce işinizi zorlaştırdıysam özür dilerim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0609",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0610",
+        "msgStr": "İtiraf etmeliyim ki endişeliyim. Önce Kaya Hanım, şimdi de Efendi Kiyoshi ortadan kayboldu...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0611",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0612",
+        "msgStr": "...Efendi Daidouji'nin kol düğmesi hakkında mı bilgi almak istiyorsunuz?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0613",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0614",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0615",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0616",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0617",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0618",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0619",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0620",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0621",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0622",
+        "msgStr": "Korkarım Efendi Daidouji'nin durumu oldukça kritik.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0623",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0624",
+        "msgStr": "Bu nedenle, Efendi Kiyoshi'nin zamansız kayboluşunu kendisine bildirmedim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0625",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0626",
+        "msgStr": "Ancak geçen gün Efendi'nin bilinci yerindeyken şöyle dedi...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0627",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0628",
+        "msgStr": "\"Bunu kardeşim Kiyoshi'ye ver...\"\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0629",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0630",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0631",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0632",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0633",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0634",
+        "msgStr": "Narumi Bey o sırada buradaydı, ben de kol düğmesini kendisine emanet ettim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0635",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0636",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP08_E_L0637",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0638",
+        "msgStr": "Efendi Daidouji ve Efendi Kiyoshi hiçbir zaman pek iyi anlaşamazlardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0639",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0640",
+        "msgStr": "Efendi Daidouji hem kendine hem de başkalarına karşı serttir, bir işletmeyi yönetmeye çok uygundur. Efendi Kiyoshi ise biraz yüreksiz olsa da naziktir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0641",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0642",
+        "msgStr": "Ailenin reisi olarak Efendi Daidouji'nin Efendi Kiyoshi'den beklentileri çok yüksekti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0642_01",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0642_02",
+        "msgStr": "Kardeşinin üzerindeki muazzam baskının da fazlasıyla farkındaydı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0642_03",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0642_04",
+        "msgStr": "Fakat artık vaktinin yaklaştığı şu günlerde, şüphesiz Efendi Kiyoshi'ye söyleyecek çok şeyi vardır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0642_05",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0642_06",
+        "msgStr": "Yaptığı her şey için ona teşekkür etmek istediğinden eminim...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0643",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0644",
+        "msgStr": "Çok şey istediğimin farkındayım efendim ama... lütfen Efendi Kiyoshi için elinizden geleni yapın.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI03_SCENE02_20_253",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP08_E_L0645",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map08_e_EP01_NAKA_01_254",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0646",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0647",
+        "msgStr": "Kaya Hanım, Efendi Daidouji'nin tek kızıdır. Başına bir şey gelecek olursa...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0648",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0649",
+        "msgStr": "Efendi Daidouji'nin, hatta atalarının ruhlarının karşısına çıkacak yüzüm kalmaz.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP01_NAKA_03_255",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0650",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0651",
+        "msgStr": "Rin Hanım, okula birlikte başladıklarından beri Kaya Hanım'ın ayrılmaz dostu olmuştur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0652",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0653",
+        "msgStr": "Onun adına, kendisine fazla yüklenmemenizi rica ediyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP01_NAKA_05_256",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0654",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0655",
+        "msgStr": "Efendi Daidouji yerine ev sahibiniz Efendi Kiyoshi olsa da...<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0656",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0657",
+        "msgStr": "Hanenin reisinin Efendi Daidouji olduğunu lütfen unutmayın.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP01_NAKA_07_257",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0658",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0659",
+        "msgStr": "Korkarım Efendi Kiyoshi hâlâ iş toplantısında.<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0660",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0661",
+        "msgStr": "Kendisine sorularınız varsa belki onun yerine ben yardımcı olabilirim?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0662",
+        "msgStr": "Kiyoshi Bey ile konuşmalıyım."
+      },
+      {
+        "msgID": "MAP08_E_L0663",
+        "msgStr": "O zaman boş verin."
+      },
+      {
+        "msgID": "map08_e_EP01_NAKA_09_258",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0664",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0665",
+        "msgStr": "Az önce de belirttiğim gibi, Efendi Kiyoshi bir iş toplantısında.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0666",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0667",
+        "msgStr": "Herhangi bir sorunuz varsa yardımcı olmaktan memnuniyet duyarım.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP01_NAKA_11_259",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0668",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0669",
+        "msgStr": "O halde efendim, kapı bu tarafta.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0670",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0671",
+        "msgStr": "Hizmetkârların hepsi misafirlerle meşgul efendim...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0672",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0673",
+        "msgStr": "Bizi bağışlayın ama dedektiflerle ilgilenecek vaktimiz yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP01_NAKA_14_260",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0674",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0675",
+        "msgStr": "E-Efendi Kiyoshi... O bir... olmuş!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0676",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0677",
+        "msgStr": "Onlarca yıldır bu malikânede hizmet etme ayrıcalığına sahip oldum a-ama bu...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0678",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0679",
+        "msgStr": "N-Ne... Efendi Daidouji'ye ne söyleyeceğim ben!?\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP02_NAKA_01_261",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0680",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0681",
+        "msgStr": "Özür dilemeliyim efendim. Daha önceki... tatsızlık için.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0682",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0683",
+        "msgStr": "Efendi Kiyoshi henüz dönmedi ve Efendi Daidouji şu anda hâlâ yatağa bağlı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0684",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0685",
+        "msgStr": "Daidouji mirası bu şekilde sona eremez...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0686",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0687",
+        "msgStr": "Raidou Bey, lütfen Kaya Hanım için elinizden geleni yapın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0688",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0689",
+        "msgStr": "Iida Bey mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0690",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0691",
+        "msgStr": "Efendi Kiyoshi onun adını anmıştı ama bundan fazlasını pek bilmiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0692",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0693",
+        "msgStr": "Yerini bildiğinizi varsayarak, evine bakmanızı önerebilir miyim?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0694",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0695",
+        "msgStr": "I-Iida Bey kaçırıldı mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0696",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0697",
+        "msgStr": "Bu haneyle bağlantısı olan herkesin başına uğursuzluk mu geliyor!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0698",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0699",
+        "msgStr": "Ah, lanet söz konusu bile olamaz. S-Sadece talihsiz bir olay.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0700",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0701",
+        "msgStr": "Iida Bey'in ziyarete gelip gelmediğini mi öğrenmek istiyorsunuz?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0702",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0703",
+        "msgStr": "Hayır efendim. Malikânede yalnızca çalışanlar ve polis bulunuyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP03_NAKA_01_262",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0704",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0705",
+        "msgStr": "Efendi Daidouji o kol düğmesine oldukça düşkündür.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0706",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0707",
+        "msgStr": "Efendi Kiyoshi'ye bırakıldığına göre... Korkarım Efendi Daidouji'nin pek fazla vakti kalmadı.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP03_NAKA_03_263",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0708",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0709",
+        "msgStr": "Efendi Kiyoshi, şuradaki buradaki çeşitli küçük işlerin yanı sıra fabrikayı da yönetir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0710",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0711",
+        "msgStr": "İşçilerini kontrol etmek için fabrikada durmaksızın dolaşır, her zaman oradan oraya koştururdu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0712",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0713",
+        "msgStr": "Aşırı çalışma alışkanlığı bacaklarını oldukça yıpratmıştı.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP03_NAKA_06_264",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0714",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0715",
+        "msgStr": "Efendi Daidouji bir keresinde bana Efendi Kiyoshi'nin fazla iyi kalpli olduğuna inandığını söylemişti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0716",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0717",
+        "msgStr": "Bir işletmeyi başarıyla yönetmek için taş kalpli olmak ne yazık ki kaçınılmaz bir gerekliliktir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0718",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0719",
+        "msgStr": "Fakat Efendi Kiyoshi... Onun kalbi bu iş için fazla sıcak.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP05_NAKA_01_265",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0720",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0721",
+        "msgStr": "Son zamanlarda... kültürfizik hareketlerimi ihmal ediyordum. Aşırı çalışmaktan bayılmış olmalıyım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0722",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0723",
+        "msgStr": "Şimdi Daidouji atalarının ruhlarının karşısına çıkmaktan çok utanırdım...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0724",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0725",
+        "msgStr": "Bu hanenin kâhyası olarak her zaman en kötüsüne hazırlıklı olmalıyım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0726",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0727",
+        "msgStr": "Zavallı Rin Hanım'ın Ruh Gücünü kırmak istemem ama pek de umutlu sayılmam...\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP06_NAKA_01_266",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0728",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0729",
+        "msgStr": "Efendi Daidouji hasta ve Kaya Hanım hâlâ kayıp.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0730",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0731",
+        "msgStr": "Belki de bu, talihsizlik bulutumuzun ardındaki bir umut ışığıdır...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0732",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0733",
+        "msgStr": "Böyle koşullarda bile bu günü hâlâ kutlayabiliriz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0734",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0735",
+        "msgStr": "Korkarım Kaya Hanım sağ salim bulunsa bile geri dönmek istemeyebilir...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0736",
+        "msgStr": "İblis söylentisi yüzünden mi?"
+      },
+      {
+        "msgID": "MAP08_E_L0737",
+        "msgStr": "O iyi olacak."
+      },
+      {
+        "msgID": "MAP08_E_L0738",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0739",
+        "msgStr": "Bir Daidouji kızı on altı yaşına girdiğinde kişiliği kökten değişir ve saçma sapan şeyler sayıklamaya başlar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0740",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0741",
+        "msgStr": "Her şeye rağmen bu saçmalıklar kehanet olarak kabul edildi ve Daidouji ailesine büyük bir servet ve statü kazandırdı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0742",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0743",
+        "msgStr": "Kızı bizzat efendinin kendisinin ortadan kaldırması Daidouji geleneğidir. Hepsi \"aile onurunu korumak\" içindir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0744",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0745",
+        "msgStr": "Ailenin durumu ve Efendi Daidouji'nin vasiyeti göz önüne alındığında, Kaya Hanım'ın geri dönmesi en iyisi olacak gibi görünüyor...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0746",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0747",
+        "msgStr": "Fakat Rin Hanım'a baktığımda, doğru olanın ne olduğunu merak etmeden duramıyorum...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0748",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0749",
+        "msgStr": "Her halükârda bu mesele yalnızca Daidouji ailesi tarafından çözülmelidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0750",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0751",
+        "msgStr": "Sizin ve benim burnumuzu sokmaya hakkımız yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP07_NAKA_01_267",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0752",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0753",
+        "msgStr": "Kaya Hanım bu ailede doğmamış olsaydı çok farklı bir hayat sürebilirdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0754",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0755",
+        "msgStr": "Umarım doğumunun koşulları yüzünden efendiye içerlemiyordur.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP08_NAKA_01_268",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0756",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0757",
+        "msgStr": "Bir sorun mu var efendim? Pek iyi görünmüyorsunuz...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0758",
+        "msgStr": "Lanetlendim."
+      },
+      {
+        "msgID": "MAP08_E_L0759",
+        "msgStr": "İyiyim."
+      },
+      {
+        "msgID": "MAP08_E_L0760",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0761",
+        "msgStr": "Aman Tanrım... Bu kadar saygın birinin böyle bir şey söyleyeceğini hiç tahmin etmezdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0762",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0763",
+        "msgStr": "Herhalde Daidouji ailesinin korkunç laneti hakkında şaka yapmıyorsunuzdur?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0764",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0765",
+        "msgStr": "Söylemeliyim ki bu yaptığınız oldukça düşüncesizce.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0766",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0767",
+        "msgStr": "Belki de fazla endişeleniyorumdur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0768",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0769",
+        "msgStr": "Yine de lütfen kendinizi fazla yormayın efendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP10_NAKA_01_269",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0770",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0771",
+        "msgStr": "Ne oldu Raidou Bey? Yüzünüzde oldukça ciddi bir ifade var...<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0772",
+        "msgStr": "Ona Narumi'den bahset"
+      },
+      {
+        "msgID": "MAP08_E_L0773",
+        "msgStr": "Sıradan davran"
+      },
+      {
+        "msgID": "MAP08_E_L0774",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0775",
+        "msgStr": "Nasıl hissettiğinizi tamamen anlıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0776",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0777",
+        "msgStr": "İster çırak bir dedektif ister bir kâhya olsun, insanın işverenine karşı hisleri aynıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0778",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0779",
+        "msgStr": "Belki de fazla endişeleniyorumdur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0780",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0781",
+        "msgStr": "Yine de lütfen kendinizi fazla yormayın efendim.<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0782",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0783",
+        "msgStr": "D-Dışarıdaki bu kargaşa da neyin nesi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0784",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0785",
+        "msgStr": "Görünüşe göre gökyüzüne tuhaf bir küre fırlatılmış...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0786",
+        "msgStr": "Kaya ile ilgisi olabilir."
+      },
+      {
+        "msgID": "MAP08_E_L0787",
+        "msgStr": "Endişelenecek bir şey yok."
+      },
+      {
+        "msgID": "MAP08_E_L0788",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0789",
+        "msgStr": "Kaya Hanım, şu yabancının geveleyip durduğu kristalin aynısını mı arıyordu!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0790",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0791",
+        "msgStr": "Sonunda bu ailenin... daha karanlık geleneklerinin ardındaki mantığı anlıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0792",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0793",
+        "msgStr": "Size yalvarıyorum, lütfen Kaya Hanım'ı kurtarın. Sadece bu aile için değil, Başkent'teki herkes için.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0794",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0795",
+        "msgStr": "Teşekkür ederim efendim. Sözleriniz bir şekilde içimi fazlasıyla rahatlattı.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP11_NAKA_01_270",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0796",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0797",
+        "msgStr": "D-Dışarıdaki bu kargaşa da neyin nesi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0798",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0799",
+        "msgStr": "Alışılmadık derecede şiddetli bir sarsıntıydı... Bir bela yaklaşıyor olmalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0800",
+        "msgStr": "Kaya ile ilgisi olabilir."
+      },
+      {
+        "msgID": "MAP08_E_L0801",
+        "msgStr": "Endişelenecek bir şey yok."
+      },
+      {
+        "msgID": "MAP08_E_L0802",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0803",
+        "msgStr": "Ne!? Kaya Hanım, Ruhsuz Tanrı'nın güç kaynağını mı arıyordu...?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0804",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0805",
+        "msgStr": "Eğer bu, aile lanetindeki o iblisin işiyse, o zaman...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0806",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0807",
+        "msgStr": "A-Aman Tanrım! Kaya Hanım... Kaya Hanım'ın hali ne olacak!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0808",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0809",
+        "msgStr": "En içten teşekkürlerimi sunarım. Sözleriniz bir şekilde içimi fazlasıyla rahatlattı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0810",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0811",
+        "msgStr": "İblisleriniz çok nazik... Durun... Ben ne diyorum böyle?\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP12_NAKA_01_271",
+        "msgStr": "Nakamura"
+      },
+      {
+        "msgID": "MAP08_E_L0812",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0813",
+        "msgStr": "Anlıyorum... Demek Harumi-cho'da olan buydu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0814",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0815",
+        "msgStr": "Efendi Kiyoshi'nin sizden isteği Kaya Hanım'ın yerini tespit etmenizdi, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0816",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0817",
+        "msgStr": "O halde takdire şayan bir iş çıkardınız Raidou Bey.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0818",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0819",
+        "msgStr": "Bundan sonrasını biz hallederiz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0820",
+        "msgStr": "Dava henüz kapanmadı."
+      },
+      {
+        "msgID": "MAP08_E_L0821",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP08_E_L0822",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0823",
+        "msgStr": "Raidou Bey! Bu beklenmedik ama çok cömert bir davranış.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0824",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0825",
+        "msgStr": "Kaya Hanım sağ salim döndüğünde ödülünüz için Efendi Daidouji'ye danışacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0826",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0827",
+        "msgStr": "Belki de alışkanlıklarıma bu kadar sıkı sıkıya bağlı olmamalıyım... Bir kâhyanın ağzına pek yakışmadı, değil mi? Ha.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0828",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0829",
+        "msgStr": "Pekâlâ, eğer Başkent'in tüm sıkıntılarının sebebi Kaya'nın ele geçirilmesi idiyse...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0830",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0831",
+        "msgStr": "O zaman Daidouji ailesinin bir temsilcisi olarak vatandaşların zararını ben tazmin edeceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0832",
+        "msgStr": "<lips 9 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0833",
+        "msgStr": "Efendi Daidouji hâlâ yatağa bağlı olduğundan, bunu onun adına ben yapacağım...\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP04_RIN_01_272",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP08_E_L0834",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0835",
+        "msgStr": "Haberlerde Kiyoshi Bey'i gördüm!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0836",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0837",
+        "msgStr": "Belki... Kaya eve dönmüştür diye düşündüm...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0838",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0839",
+        "msgStr": "Belki de olduğu yerde mahsur kalmıştır. Lütfen beyefendi, ona yardım edin!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0840",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0841",
+        "msgStr": "Bu malikânedeki insanlar çok... tuhaf. Ama Kaya farklıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0842",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0843",
+        "msgStr": "Herkese karşı çok nazikti... Tahmin edeceğinizden çok daha fazla.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0844",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0845",
+        "msgStr": "Kaya'nın, başkalarının nasıl hissettiğini anlamak gibi bir yeteneği vardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0846",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0847",
+        "msgStr": "Her zaman gülümserdi ama bence içten içe o lanet üzerine çok ağır bir yük bindiriyordu.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP05_RIN_01_273",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP08_E_L0848",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0849",
+        "msgStr": "Kaya, Kasumidai'de miymiş!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0850",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0851",
+        "msgStr": "S-Saçmalık bu! İnsanlar kulağa hoş gelen ne varsa uydurup söylüyor!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0852",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0853",
+        "msgStr": "Kaya'nın Kasumidai'de ne işi olsun ki!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0854",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0855",
+        "msgStr": "B-Bu çok saçma. Buna inanmamı beklemiyorsunuz, değil mi beyefendi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0856",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0857",
+        "msgStr": "Bir süredir Kaya'nın Akasaka-ku'da görüldüğüne dair bir söylenti vardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0858",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0859",
+        "msgStr": "Ama Kaya kendisini askerlere yakalatmazdı, beni bulmaya da gelmedi...\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP06_RIN_01_274",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP08_E_L0860",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0861",
+        "msgStr": "O-O geri dönecek...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0862",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0863",
+        "msgStr": "Kaya'nın geri döneceğini biliyorum. Söz verdi...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0864",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0865",
+        "msgStr": "Her yıl doğum gününde kutlamak için mutlaka tatlıcıya gideriz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0866",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0867",
+        "msgStr": "Bu yıl da gideceğiz...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0868",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0869",
+        "msgStr": "Kutlamamız... lazım... Ah Kaya, neredesin...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0870",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0871",
+        "msgStr": "Kaya'nın saçı kısa mıymış? İmkanı yok beyefendi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0872",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0873",
+        "msgStr": "Sınıfımızda en yeni saç modeli popüler olunca güzellik salonuna gitmiştik...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0874",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0875",
+        "msgStr": "Ama Kaya kestirmedi. O uzun, siyah saçlarını çok sever.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP07_RIN_01_275",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP08_E_L0876",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0877",
+        "msgStr": "Kaya, neredesin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0878",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0879",
+        "msgStr": "On altıncı yaş gününü birlikte kutlayacaktık...\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP08_RIN_01_276",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP08_E_L0880",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0881",
+        "msgStr": "Kaya hayatta, bundan hiç şüphem yok! Kesinlikle geri dönecek!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0882",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0883",
+        "msgStr": "İnsanlar ne derse desin, hepsi yanılıyor. Ona inanmaktan asla vazgeçmeyeceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP10_RIN_01_277",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP08_E_L0884",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0885",
+        "msgStr": "Kaya inanılmaz tatlı biridir ama bazen fazla tatlıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0886",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0887",
+        "msgStr": "Bahse girerim insanların onun için endişelenmesini istemediğinden not bırakmamıştır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0888",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0889",
+        "msgStr": "Kaya bazen çok dik kafalı olabiliyor. Kendi iyiliği için fazla sorumluluk sahibi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0890",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0891",
+        "msgStr": "Ele geçirilme meselesini tek başına çözebilmek için sizden yardım almaktan vazgeçmiş olmalı...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0892",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0893",
+        "msgStr": "Evet, kesinlikle öyle olmalı...\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP11_RIN_01_278",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP08_E_L0894",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0895",
+        "msgStr": "Kaya ne yaparsa yapsın, yüzde yüz onun yanındayım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0896",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0897",
+        "msgStr": "Onu bekleyeceğim... gerekirse sonsuza dek!\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP12_RIN_01_279",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP08_E_L0898",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0899",
+        "msgStr": "Tabii ki Kaya'yı bekleyeceğim. Arkadaş dediğin böyle yapar, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0900",
+        "msgStr": "Kaya bir..."
+      },
+      {
+        "msgID": "MAP08_E_L0901",
+        "msgStr": "Çok beklemene gerek kalmayacak."
+      },
+      {
+        "msgID": "MAP08_E_L0902",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0903",
+        "msgStr": "Hayır! Söyleme! Kaya'nın bir iblis olduğunu söyleme!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0904",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0905",
+        "msgStr": "Kaya her zaman Kaya olarak kalacak!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0906",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0907",
+        "msgStr": "...Az önceki için kusura bakma.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0908",
+        "msgStr": "<lips 24 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0909",
+        "msgStr": "Teşekkürler Raidou. Çok iyi birisin...\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EPI05_TAE_01_280",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "MAP08_E_L0910",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0911",
+        "msgStr": "Müşterinle mi görüşeceksin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0912",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0913",
+        "msgStr": "Buyur bakalım ama çabuk ol. Ne de olsa Kasumidai'de randevumuz var.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP01_KIYOSHI_01_281",
+        "msgStr": "Kiyoshi"
+      },
+      {
+        "msgID": "MAP08_E_L0914",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0915",
+        "msgStr": "Ah, kusura bakma. Son zamanlarda boynum çok tutuluyor...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0916",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0917",
+        "msgStr": "Normalde sana daha çok vakit ayırabilirdim ama şu sıralar uyumaya bile vaktim olmayacak kadar meşgulüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0918",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0919",
+        "msgStr": "Affedersin, ilgilenmem gereken başka meseleler var. Lütfen, şey... Lütfen Kaya'yı benim için bul.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0920",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0921",
+        "msgStr": "Ah, özür dilerim, aklım başka yerdeydi...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0922",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0923",
+        "msgStr": "Vakit gelmiş bile. Kendimi hazırlasam iyi olacak...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP08_E_L0924",
+        "msgStr": "<lips 10 5>"
+      },
+      {
+        "msgID": "MAP08_E_L0925",
+        "msgStr": "Bir şeye ihtiyacın olursa Nakamura'ya sor. Lütfen Kaya'yı benim için bul.\n<lips_stop>"
+      },
+      {
+        "msgID": "map08_e_EP01_WINE_CHECK_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP08_E_L0926",
+        "msgStr": "Raidou, bence Daidouji Malikânesi'ni bir kez daha ziyaret etmeliyiz."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:26"
+}

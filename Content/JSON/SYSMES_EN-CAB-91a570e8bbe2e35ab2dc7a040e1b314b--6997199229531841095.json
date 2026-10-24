@@ -1,0 +1,805 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SYSMES_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SYSMES_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0001",
+        "msgStr": "<FONT 0>Başarıyla kaçıldı."
+      },
+      {
+        "msgID": "SYSMES_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0003",
+        "msgStr": "<FONT 0>Mermi bitti!"
+      },
+      {
+        "msgID": "SYSMES_L0004",
+        "msgStr": "<FONT 0>Raidou aldığı yaralardan dolayı bayıldı..."
+      },
+      {
+        "msgID": "SYSMES_L0005",
+        "msgStr": "<FONT 0>Raidou tuhaf bir güç tarafından uzağa çekildi!"
+      },
+      {
+        "msgID": "SYSMES_L0006",
+        "msgStr": "<FONT 0>Raidou henüz bu iblisi kontrol edemez."
+      },
+      {
+        "msgID": "SYSMES_L0007",
+        "msgStr": "<FONT 0>Raidou zaten bu iblise sahip."
+      },
+      {
+        "msgID": "SYSMES_L0008",
+        "msgStr": "<FONT 0>Raidou'nun tüm tüpleri dolu."
+      },
+      {
+        "msgID": "SYSMES_L0009",
+        "msgStr": "<FONT 0>Dolunay sırasında tüpe alınamaz."
+      },
+      {
+        "msgID": "SYSMES_L0010",
+        "msgStr": "<FONT 0><V 0>"
+      },
+      {
+        "msgID": "SYSMES_L0011",
+        "msgStr": "<FONT 0><V 0>"
+      },
+      {
+        "msgID": "SYSMES_L0012",
+        "msgStr": "<FONT 0>Raidou büyülendi!"
+      },
+      {
+        "msgID": "SYSMES_L0013",
+        "msgStr": "<FONT 0>İblis büyülendi!"
+      },
+      {
+        "msgID": "SYSMES_L0014",
+        "msgStr": "<FONT 0><V 0> büyülendi!"
+      },
+      {
+        "msgID": "SYSMES_L0015",
+        "msgStr": "<FONT 0>Düşman büyülendi!"
+      },
+      {
+        "msgID": "SYSMES_L0016",
+        "msgStr": "<FONT 0>Raidou uykuya daldı..."
+      },
+      {
+        "msgID": "SYSMES_L0017",
+        "msgStr": "<FONT 0>İblis uykuya daldı..."
+      },
+      {
+        "msgID": "SYSMES_L0018",
+        "msgStr": "<FONT 0><V 0> uykuya daldı..."
+      },
+      {
+        "msgID": "SYSMES_L0019",
+        "msgStr": "<FONT 0>Düşman uykuya daldı..."
+      },
+      {
+        "msgID": "SYSMES_L0020",
+        "msgStr": "<FONT 0>Raidou'nun kafası karıştı!"
+      },
+      {
+        "msgID": "SYSMES_L0021",
+        "msgStr": "<FONT 0>İblisin kafası karıştı!"
+      },
+      {
+        "msgID": "SYSMES_L0022",
+        "msgStr": "<FONT 0><V 0> kafa karışıklığına uğradı!"
+      },
+      {
+        "msgID": "SYSMES_L0023",
+        "msgStr": "<FONT 0>Raidou'nun yetenekleri ve komutları mühürlendi!"
+      },
+      {
+        "msgID": "SYSMES_L0024",
+        "msgStr": "<FONT 0>İblisin yetenekleri mühürlendi!"
+      },
+      {
+        "msgID": "SYSMES_L0025",
+        "msgStr": "<FONT 0><V 0> adlı birimin yetenekleri mühürlendi!"
+      },
+      {
+        "msgID": "SYSMES_L0026",
+        "msgStr": "<FONT 0>Raidou hareketsiz kaldı!"
+      },
+      {
+        "msgID": "SYSMES_L0027",
+        "msgStr": "<FONT 0>İblis hareketsiz kaldı!"
+      },
+      {
+        "msgID": "SYSMES_L0028",
+        "msgStr": "<FONT 0><V 0> hareketsiz kaldı!"
+      },
+      {
+        "msgID": "SYSMES_L0029",
+        "msgStr": "<FONT 0>Raidou zehirlendi!"
+      },
+      {
+        "msgID": "SYSMES_L0030",
+        "msgStr": "<FONT 0>İblis zehirlendi!"
+      },
+      {
+        "msgID": "SYSMES_L0031",
+        "msgStr": "<FONT 0><V 0> zehirlendi!"
+      },
+      {
+        "msgID": "SYSMES_L0032",
+        "msgStr": "<FONT 0><V 0> kör bir öfkeye kapıldı!"
+      },
+      {
+        "msgID": "SYSMES_L0033",
+        "msgStr": "<FONT 0><V 0> kör bir öfkeye kapıldı!"
+      },
+      {
+        "msgID": "SYSMES_L0034",
+        "msgStr": "<FONT 0><V 0> kör bir öfkeye kapıldı!"
+      },
+      {
+        "msgID": "SYSMES_L0035",
+        "msgStr": "<FONT 0>İblis tüpe geri döndü."
+      },
+      {
+        "msgID": "SYSMES_L0036",
+        "msgStr": "<FONT 0>Fiziksel saldırı arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0037",
+        "msgStr": "<FONT 0>Düşmanın fiziksel saldırısı arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0038",
+        "msgStr": "<FONT 0>Büyü saldırısı arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0039",
+        "msgStr": "<FONT 0>Düşmanın büyü saldırısı arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0040",
+        "msgStr": "<FONT 0>Savunma arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0041",
+        "msgStr": "<FONT 0>Düşmanın savunması arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0042",
+        "msgStr": "<FONT 0>Zaten etkin."
+      },
+      {
+        "msgID": "SYSMES_L0043",
+        "msgStr": "<FONT 0><V 0> takviye kuvvet çağırdı!"
+      },
+      {
+        "msgID": "SYSMES_L0044",
+        "msgStr": "<FONT 0>Ama kimse gelmedi..."
+      },
+      {
+        "msgID": "SYSMES_L0045",
+        "msgStr": "<FONT 0><V 0>"
+      },
+      {
+        "msgID": "SYSMES_L0046",
+        "msgStr": "<FONT 0><V 0>"
+      },
+      {
+        "msgID": "SYSMES_L0047",
+        "msgStr": "<FONT 0><V 0>"
+      },
+      {
+        "msgID": "SYSMES_L0048",
+        "msgStr": "<FONT 0>Raidou darbeye dayandı!"
+      },
+      {
+        "msgID": "SYSMES_L0049",
+        "msgStr": "<FONT 0>İblis darbeye dayandı!"
+      },
+      {
+        "msgID": "SYSMES_L0050",
+        "msgStr": "<FONT 0><V 0> darbeye dayandı!"
+      },
+      {
+        "msgID": "SYSMES_L0051",
+        "msgStr": "<FONT 0><V 0> <COLOR 1><V 1><COLOR 0> belirdi!"
+      },
+      {
+        "msgID": "SYSMES_L0052",
+        "msgStr": "<FONT 0><V 0> <COLOR 1><V 1><COLOR 0> belirdi!"
+      },
+      {
+        "msgID": "SYSMES_L0053",
+        "msgStr": "<FONT 0>İblisi çağırmak için MAG yetersiz."
+      },
+      {
+        "msgID": "SYSMES_L0054",
+        "msgStr": "<FONT 0>Yetersiz MAG!"
+      },
+      {
+        "msgID": "SYSMES_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0059",
+        "msgStr": "<FONT 0>Raidou tüpe almak için fazla güçsüz!"
+      },
+      {
+        "msgID": "SYSMES_L0060",
+        "msgStr": "<FONT 0>Şu anda tüpe alınamaz!"
+      },
+      {
+        "msgID": "SYSMES_L0061",
+        "msgStr": "<FONT 0>Bu iblis şu anda tüpe alınamaz!"
+      },
+      {
+        "msgID": "SYSMES_L0062",
+        "msgStr": "<FONT 0><V 0> etkisi geçti!"
+      },
+      {
+        "msgID": "SYSMES_L0063",
+        "msgStr": "<FONT 0>Fiziksel saldırı arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0064",
+        "msgStr": "<FONT 0>Fiziksel savunma arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0065",
+        "msgStr": "<FONT 0>Büyü savunması arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0066",
+        "msgStr": "<FONT 0><V 0> etkisi geçti!"
+      },
+      {
+        "msgID": "SYSMES_L0067",
+        "msgStr": "<FONT 0>Düşmanın fiziksel saldırısı arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0068",
+        "msgStr": "<FONT 0>Düşmanın fiziksel savunması arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0069",
+        "msgStr": "<FONT 0>Düşmanın büyü savunması arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0070",
+        "msgStr": "<FONT 0>Düşmanın <V 0> etkisi geçti."
+      },
+      {
+        "msgID": "SYSMES_L0071",
+        "msgStr": "<FONT 0>İblis öldü..."
+      },
+      {
+        "msgID": "SYSMES_L0072",
+        "msgStr": "<FONT 0>Düşman kaçtı..."
+      },
+      {
+        "msgID": "SYSMES_L0073",
+        "msgStr": "<FONT 0><NAME1N 0> aldığı yaralardan dolayı bayıldı..."
+      },
+      {
+        "msgID": "SYSMES_L0074",
+        "msgStr": "<FONT 0>Bu düşman tüpe alınamaz."
+      },
+      {
+        "msgID": "SYSMES_L0075",
+        "msgStr": "<FONT 0>Gizleniyor"
+      },
+      {
+        "msgID": "SYSMES_L0076",
+        "msgStr": "<FONT 0>Cisimleş"
+      },
+      {
+        "msgID": "SYSMES_L0077",
+        "msgStr": "<FONT 0><V 0> bir şey hazırlıyor!"
+      },
+      {
+        "msgID": "SYSMES_L0078",
+        "msgStr": "<FONT 0>İblis pususu!"
+      },
+      {
+        "msgID": "SYSMES_L0079",
+        "msgStr": "<FONT 0>Raidou'nun MAG miktarı yarıya indi!"
+      },
+      {
+        "msgID": "SYSMES_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0084",
+        "msgStr": "Bir iblis gaza geldi!"
+      },
+      {
+        "msgID": "SYSMES_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0148",
+        "msgStr": "<FONT 0>Etkiler kaldırıldı!"
+      },
+      {
+        "msgID": "SYSMES_L0149",
+        "msgStr": "<FONT 0>Düşman üzerindeki etkiler kaldırıldı!"
+      },
+      {
+        "msgID": "SYSMES_L0150",
+        "msgStr": "<FONT 0>Tetrakarn etkisi geçti."
+      },
+      {
+        "msgID": "SYSMES_L0151",
+        "msgStr": "<FONT 0>Düşmanın Tetrakarn etkisi geçti."
+      },
+      {
+        "msgID": "SYSMES_L0152",
+        "msgStr": "<FONT 0><V 0> üzerindeki Tetrakarn etkisi geçti."
+      },
+      {
+        "msgID": "SYSMES_L0153",
+        "msgStr": "<FONT 0>Raidou'nun MAG'ı emildi!"
+      },
+      {
+        "msgID": "SYSMES_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SYSMES_L0156",
+        "msgStr": "<FONT 0><V 0> itiraz ediyor!"
+      },
+      {
+        "msgID": "SYSMES_L0157",
+        "msgStr": "Hedef bir iblis değil!"
+      },
+      {
+        "msgID": "SYSMES_L0158",
+        "msgStr": "Bu iblis müttefik yapılamaz!"
+      },
+      {
+        "msgID": "SYSMES_L0159",
+        "msgStr": "Bu savaşta iblisler tüpe alınamaz!"
+      },
+      {
+        "msgID": "SYSMES_L0160",
+        "msgStr": "Tüpe alma sanatı bu ibliste işe yaramaz!"
+      },
+      {
+        "msgID": "SYSMES_L0161",
+        "msgStr": "<V 1>. seviye bir <V 0> tüpe alınıyor!"
+      },
+      {
+        "msgID": "SYSMES_L0162",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "SYSMES_L0163",
+        "msgStr": "Arayüz kapalı"
+      },
+      {
+        "msgID": "SYSMES_L0164",
+        "msgStr": "Arayüz açık"
+      },
+      {
+        "msgID": "SYSMES_L0165",
+        "msgStr": "> Arayüz (ekran göstergeleri) kapatılsın mı?\nArayüz, <BTN_SELECT> düğmesine basılarak veya bir menü açılarak tekrar açılabilir.\n<mw 180>"
+      },
+      {
+        "msgID": "SYSMES_L0166",
+        "msgStr": "Hafif"
+      },
+      {
+        "msgID": "SYSMES_L0167",
+        "msgStr": "Orta"
+      },
+      {
+        "msgID": "SYSMES_L0168",
+        "msgStr": "Ağır"
+      },
+      {
+        "msgID": "SYSMES_L0169",
+        "msgStr": "Yıkıcı"
+      },
+      {
+        "msgID": "SYSMES_L0170",
+        "msgStr": "Gizli Saldırı etkisini gösterdi!"
+      },
+      {
+        "msgID": "SYSMES_L0171",
+        "msgStr": "<V 0> adlı iblisin Sadakati <V 1> arttı."
+      },
+      {
+        "msgID": "SYSMES_L0172",
+        "msgStr": "Kurşun geçirmez bir bariyer silah ateşini geçersiz kılıyor."
+      },
+      {
+        "msgID": "SYSMES_L0173",
+        "msgStr": "İblis çağırma mühürlendi!"
+      },
+      {
+        "msgID": "SYSMES_L0174",
+        "msgStr": "Ruh Gücü yükseldi! Buz Düzeni düşmanları sersemletildi!"
+      },
+      {
+        "msgID": "SYSMES_L0175",
+        "msgStr": "Ruh Gücü yükseldi! Ateş Düzeni düşmanları sersemletildi!"
+      },
+      {
+        "msgID": "SYSMES_L0176",
+        "msgStr": "Ruh Gücü yükseldi! Rüzgâr Düzeni düşmanları sersemletildi!"
+      },
+      {
+        "msgID": "SYSMES_L0177",
+        "msgStr": "Ruh Gücü yükseldi! Elektrik Düzeni düşmanları sersemletildi!"
+      },
+      {
+        "msgID": "SYSMES_L0178",
+        "msgStr": "Ruh Gücü yükseldi! Düşman HP'si azaltıldı!"
+      },
+      {
+        "msgID": "SYSMES_L0179",
+        "msgStr": "Ruh Gücü yükseldi! Düşman savunma gücü düşürüldü!"
+      },
+      {
+        "msgID": "SYSMES_L0180",
+        "msgStr": "Ruh Gücü yükseldi! Saldırı gücü arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0181",
+        "msgStr": "Ruh Gücü yükseldi!"
+      },
+      {
+        "msgID": "SYSMES_L0182",
+        "msgStr": "Artık iblisler çağrılabilir!"
+      },
+      {
+        "msgID": "SYSMES_L0183",
+        "msgStr": "<V 0> kör bir öfkeye kapıldı!"
+      },
+      {
+        "msgID": "SYSMES_L0184",
+        "msgStr": "<V 0>, <V 1> yeteneğini etkinleştirdi!"
+      },
+      {
+        "msgID": "SYSMES_L0185",
+        "msgStr": "Raidou'nun <V 1> yeteneği etkinleşti!"
+      },
+      {
+        "msgID": "SYSMES_L0186",
+        "msgStr": "<V 0>, <V 1> yeteneğini etkinleştirdi!"
+      },
+      {
+        "msgID": "SYSMES_L0187",
+        "msgStr": "<V 0>, <V 1> yeteneğini etkinleştirdi!"
+      },
+      {
+        "msgID": "SYSMES_L0188",
+        "msgStr": "Raidou'nun <V 1> yeteneği etkinleşti!"
+      },
+      {
+        "msgID": "SYSMES_L0189",
+        "msgStr": "Buz Düzeni düşmanları sersemletildi!"
+      },
+      {
+        "msgID": "SYSMES_L0190",
+        "msgStr": "Ateş Düzeni düşmanları sersemletildi!"
+      },
+      {
+        "msgID": "SYSMES_L0191",
+        "msgStr": "Rüzgâr Düzeni düşmanları sersemletildi!"
+      },
+      {
+        "msgID": "SYSMES_L0192",
+        "msgStr": "Elektrik Düzeni düşmanları sersemletildi!"
+      },
+      {
+        "msgID": "SYSMES_L0193",
+        "msgStr": "Düşman HP'si azaltıldı!"
+      },
+      {
+        "msgID": "SYSMES_L0194",
+        "msgStr": "Düşman savunma gücü düşürüldü!"
+      },
+      {
+        "msgID": "SYSMES_L0195",
+        "msgStr": "Saldırı gücü arttı!"
+      },
+      {
+        "msgID": "SYSMES_L0196",
+        "msgStr": "Kalan düşman: <V 2>"
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/04 17:04:15"
+}

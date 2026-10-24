@@ -1,0 +1,221 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "QUEST_TITLE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "QUEST_TITLE_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0001",
+        "msgStr": "Aril Yarıklarını Temizle"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0002",
+        "msgStr": "Yardım Çığlığı (1. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0003",
+        "msgStr": "\"Özel Bir Dava\" mı?"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0004",
+        "msgStr": "Gözler Ödülde"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0005",
+        "msgStr": "Yoğun Eğitim"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0006",
+        "msgStr": "İblis Kadar İnatçı"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0007",
+        "msgStr": "Kılıç Dövme Sanatı (1. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0008",
+        "msgStr": "Yaşlılara Saygı"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0009",
+        "msgStr": "Hayvanların Sesi"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0010",
+        "msgStr": "Şu Narumi... (1. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0011",
+        "msgStr": "Hazine Zulası"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0012",
+        "msgStr": "İzlenme Hissi"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0013",
+        "msgStr": "Her İblis Savaşmaz"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0014",
+        "msgStr": "Yardım Çığlığı (2. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0015",
+        "msgStr": "İblis Kuvvetlerini Katlet"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0016",
+        "msgStr": "Bir İblis Krallığı"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0017",
+        "msgStr": "Şu Narumi... (2. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0018",
+        "msgStr": "Kılıç Dövme Sanatı (2. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0019",
+        "msgStr": "Karşınızda Hayataro"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0020",
+        "msgStr": "Şu Narumi... (3. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0021",
+        "msgStr": "Şu Narumi... (4. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0022",
+        "msgStr": "Röntgencilik Yasaktır"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0023",
+        "msgStr": "Yoshitsune'nin Sınavı"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0024",
+        "msgStr": "Grup Arkadaşları Aranıyor"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0025",
+        "msgStr": "Turisti Memnun Et"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0026",
+        "msgStr": "Bir Kuzunoha Geleneği"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0027",
+        "msgStr": "Yüz İblis Sınavı (1. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0028",
+        "msgStr": "Ayrım Gözetmeyen Destek"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0029",
+        "msgStr": "Karşınızda Kudan"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0030",
+        "msgStr": "İblis Gösterisi"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0031",
+        "msgStr": "Alo...?"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0032",
+        "msgStr": "Kiyoshi'yi Ziyaret Et (1. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0033",
+        "msgStr": "Denpachi'yi Ziyaret Et (1. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0034",
+        "msgStr": "Yüz İblis Sınavı (2. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0035",
+        "msgStr": "Karanlığın Prensi"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0036",
+        "msgStr": "AL, SENİN OLSUN"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0037",
+        "msgStr": "Kiyoshi'yi Ziyaret Et (2. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0038",
+        "msgStr": "Denpachi'yi Ziyaret Et (2. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0039",
+        "msgStr": "Yüz İblis Sınavı (3. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0040",
+        "msgStr": "Durgunluğun İzleri"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0041",
+        "msgStr": "Teorik Bir Talep"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0042",
+        "msgStr": "Kılıç Dövme Sanatı (3. Kısım)"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0043",
+        "msgStr": "Son Perde"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0044",
+        "msgStr": "Aşkın Bir Tanrı"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0045",
+        "msgStr": "Yeni Bir Kahraman mı Doğuyor?"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_TITLE_L0050",
+        "msgStr": "Hayır."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:04:19"
+}

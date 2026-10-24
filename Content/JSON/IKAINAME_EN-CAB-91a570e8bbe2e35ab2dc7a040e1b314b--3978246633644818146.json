@@ -1,0 +1,41 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "IKAINAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "IKAINAME_L0000",
+        "msgStr": "Karanlık Tsukudo-cho"
+      },
+      {
+        "msgID": "IKAINAME_L0001",
+        "msgStr": "Karanlık Fukagawa-cho"
+      },
+      {
+        "msgID": "IKAINAME_L0002",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "IKAINAME_L0003",
+        "msgStr": "Karanlık Harumi-cho"
+      },
+      {
+        "msgID": "IKAINAME_L0004",
+        "msgStr": "Karanlık Kasumidai"
+      },
+      {
+        "msgID": "IKAINAME_L0005",
+        "msgStr": "Karanlık Sakuradayama"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:32"
+}

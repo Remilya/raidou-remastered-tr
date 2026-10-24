@@ -1,0 +1,2377 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP23_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map23_m_mplan_ep02_akirame01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0000",
+        "msgStr": "Raidou, o Özel Muhafızların ne kadar güçlü olduğunu biliyorsun."
+      },
+      {
+        "msgID": "MAP23_M_L0001",
+        "msgStr": "Mümkün olduğunca çatışmadan kaçınmak akıllıca olacaktır."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_akirame01a_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0002",
+        "msgStr": "Bekle, Raidou."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_akirame01b_002",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0003",
+        "msgStr": "Orada bizi bekliyorlar."
+      },
+      {
+        "msgID": "MAP23_M_L0004",
+        "msgStr": "Mümkün olduğunca dövüşmekten kaçınıp o adamı kurtarmaya odaklanalım."
+      },
+      {
+        "msgID": "MAP23_M_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_akirame01c_003",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0006",
+        "msgStr": "Geçtiğimiz çıkışı fark ettin mi?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_akirame01d_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0007",
+        "msgStr": "Gerçek dünyada yeniden toplanıp bir maymuncuk aramalıyız."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_akirame01e_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0008",
+        "msgStr": "O adamı orada tek başına kilitli bırakamayız."
+      },
+      {
+        "msgID": "MAP23_M_L0009",
+        "msgStr": "Hücre kapısını incele. Ona yardım edip edemeyeceğine bir bak."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_ASIDOME_ROUYA_006",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0010",
+        "msgStr": "Şimdi gidersek buraya kadar olan tüm yolu baştan yürümemiz gerekir."
+      },
+      {
+        "msgID": "MAP23_M_L0011",
+        "msgStr": "Başka bir şey yapmadan önce maymuncuğu kullanarak o adamın hücresini aç."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_akirame02_007",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0012",
+        "msgStr": "Bak Raidou—o Özel Muhafızlar önceki nöbet yerlerinde değiller."
+      },
+      {
+        "msgID": "MAP23_M_L0013",
+        "msgStr": "Dikkat çekmemeliyiz, aksi takdirde o tutsak adamın güvenliğini tehlikeye atarız."
+      },
+      {
+        "msgID": "MAP23_M_L0014",
+        "msgStr": "Onlardan kaçınmanın bir yolunu arayalım."
+      },
+      {
+        "msgID": "MAP23_M_L0015",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP23_M_L0016",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_kennpei01_008",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_kennpei02_009",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0019",
+        "msgStr": "Bekle Raidou. Böyle bodozlama dalarsan seni yine yakalarlar."
+      },
+      {
+        "msgID": "MAP23_M_L0020",
+        "msgStr": "Daha fazla ilerlemesek iyi olur."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_yomikugutu01_010",
+        "msgStr": "Kırmızı Özel Muhafız"
+      },
+      {
+        "msgID": "MAP23_M_L0021",
+        "msgStr": "Hm!?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_yomikugutu02_011",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0022",
+        "msgStr": "Fark edildik!"
+      },
+      {
+        "msgID": "MAP23_M_L0023",
+        "msgStr": "Önceliğimiz o adamı sağ salim kurtarmak. Geri çekilelim!"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_yomikugutu_saiikai_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_ikai01_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0026",
+        "msgStr": "> Karanlık Diyar'a gidilsin mi?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_genjitu01_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0027",
+        "msgStr": "> Gerçek dünyaya dönülsün mü?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_kawa01_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0028",
+        "msgStr": "> Nehir yolu kapatıyor."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_kawa01_nakama_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0029",
+        "msgStr": "> Bu iblis nehrin üzerinden geçebilir."
+      },
+      {
+        "msgID": "MAP23_M_L0030",
+        "msgStr": "> Nehrin üzerinden uçulsun mu?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_kawa01_modoru_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0031",
+        "msgStr": "> Kıyıya dönülsün mü?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_fune01_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0032",
+        "msgStr": "> Tekneye binilsin mi?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_fune02_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0033",
+        "msgStr": "> Tekneden inilsin mi?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_funeget01_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0034",
+        "msgStr": "> Burada bir tekne sıkışmış."
+      },
+      {
+        "msgID": "MAP23_M_L0035",
+        "msgStr": "> Tekne kıyıya çekilsin mi?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_funeget02_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0036",
+        "msgStr": "> İblis tekneyi kıyıya çekti."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_funeido_022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_fune_move01_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0038",
+        "msgStr": "> Ne yapacağını seç."
+      },
+      {
+        "msgID": "MAP23_M_L0039",
+        "msgStr": "Akıntının tersine git"
+      },
+      {
+        "msgID": "MAP23_M_L0040",
+        "msgStr": "Akıntı yönünde git"
+      },
+      {
+        "msgID": "MAP23_M_L0041",
+        "msgStr": "İn"
+      },
+      {
+        "msgID": "MAP23_M_L0042",
+        "msgStr": "Akıntının tersine git"
+      },
+      {
+        "msgID": "MAP23_M_L0043",
+        "msgStr": "İn"
+      },
+      {
+        "msgID": "MAP23_M_L0044",
+        "msgStr": "Akıntı yönünde git"
+      },
+      {
+        "msgID": "MAP23_M_L0045",
+        "msgStr": "İn"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_yomikugutu01_nakama_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0046",
+        "msgStr": "> Özel Muhafızlar kimsenin geçmesine izin vermiyor—iblislerin bile."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_yomikugutu02_nakama_025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_tobira01_dame_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0049",
+        "msgStr": "> Diğer taraftan kilitlenmiş."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_tobira01_ok_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0050",
+        "msgStr": "> Diğer tarafa geçilsin mi?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_tobira02_dame_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0051",
+        "msgStr": "> Kapı kilitli ve açılmıyor."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_tobira02_akuma_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0052",
+        "msgStr": "> Kapı bu taraftan kilitlenmiş."
+      },
+      {
+        "msgID": "MAP23_M_L0053",
+        "msgStr": "> Kapının kilidi açılsın mı?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_tobira03_akuma_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0054",
+        "msgStr": "> Kilitli değil."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_goal_031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_akuma_dame_032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_debug01_033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_ikai_exit2_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_ikai_exit3_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_ikai_exit4_036",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0067",
+        "msgStr": "Raidou, nereye gidiyorsun?"
+      },
+      {
+        "msgID": "MAP23_M_L0068",
+        "msgStr": "Hâlâ o adamı nasıl kurtaracağımızı bulmamız gerekiyor."
+      },
+      {
+        "msgID": "MAP23_M_L0069",
+        "msgStr": "Hücre kapısıyla ilgili bir şey yapıp yapamayacağına bir bak."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_ikai_exitDAME_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0070",
+        "msgStr": "> Buradan Karanlık Diyar'dan çıkmak imkânsız. Geçit diğer taraftan kapatılmış."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_ikai_exit1_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0071",
+        "msgStr": "> İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_necohint01_039",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0072",
+        "msgStr": "Bir nehir..."
+      },
+      {
+        "msgID": "MAP23_M_L0073",
+        "msgStr": "Bir tekneye ulaşabilsek işimiz çok kolaylaşırdı ama ne yazık ki..."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_necohint02_040",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0074",
+        "msgStr": "Özel Muhafızların ötesinde ne olduğunu görebilsek çok işimize yarardı..."
+      },
+      {
+        "msgID": "MAP23_M_L0075",
+        "msgStr": "Belki de <COLOR 3>uçabilen<COLOR 0> bir iblisten faydalanmalıyız."
+      },
+      {
+        "msgID": "map23_m_m_JYUSO_01_041",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0076",
+        "msgStr": "Burası... Karanlık Fukagawa-cho mu?"
+      },
+      {
+        "msgID": "MAP23_M_L0077",
+        "msgStr": "Sanırım lanetin kaynağı burada olmalı."
+      },
+      {
+        "msgID": "MAP23_M_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_hint01_042",
+        "msgStr": "Azumi"
+      },
+      {
+        "msgID": "MAP23_M_L0079",
+        "msgStr": "O kırmızı pelerinli Özel Muhafızların hiç mizah anlayışı yok."
+      },
+      {
+        "msgID": "MAP23_M_L0080",
+        "msgStr": "Yolu kapatmalarına bir şey demiyorum ama..."
+      },
+      {
+        "msgID": "MAP23_M_L0081",
+        "msgStr": "Ne söylersem söyleyeyim bana tepeden bakıyorlar. Espri anlayışım bunlara fazla geliyor."
+      },
+      {
+        "msgID": "MAP23_M_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0083",
+        "msgStr": "Ama bir insan çıkagelince birden canlanıveriyorlar."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_hint02_043",
+        "msgStr": "Azumi"
+      },
+      {
+        "msgID": "MAP23_M_L0084",
+        "msgStr": "O Özel Muhafızlar gördükleri her insanın peşine düşüyor ama biz iblisleri görmezden geliyorlar."
+      },
+      {
+        "msgID": "MAP23_M_L0085",
+        "msgStr": "Seni bağnaz bilmem neler..."
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_necohint03_044",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0086",
+        "msgStr": "Karanlık Diyar'da iblislerin dikkat çekici bir yanı olmadığı doğru..."
+      },
+      {
+        "msgID": "MAP23_M_L0087",
+        "msgStr": "Özel Muhafızları kendin atlatamıyorsan bir iblisi tek başına araştırmaya göndermeyi dene."
+      },
+      {
+        "msgID": "MAP23_M_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_necosave01_045",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep02_akumahajiki01_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0094",
+        "msgStr": "> <devil 0> tekneyle ilgileniyor..."
+      },
+      {
+        "msgID": "MAP23_M_L0095",
+        "msgStr": "> Ama Raidou ile birlikte gitmek daha iyi olur."
+      },
+      {
+        "msgID": "map23_m_m_KAGIKAKE01_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0096",
+        "msgStr": "> Tuhaf bir güçle kilitlenmiş."
+      },
+      {
+        "msgID": "map23_m_m_tiisai01_01_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0097",
+        "msgStr": "> Burası küçük bir delik."
+      },
+      {
+        "msgID": "map23_m_m_tiisai01_02_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0098",
+        "msgStr": "> Küçük bir delik ama bu iblis muhtemelen içine sığabilir."
+      },
+      {
+        "msgID": "MAP23_M_L0099",
+        "msgStr": "> Girilsin mi?"
+      },
+      {
+        "msgID": "map23_m_m_tiisai01_02s SEL_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0100",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP23_M_L0101",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map23_m_m_tiisai02_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0102",
+        "msgStr": "> Delikten çıkılsın mı?"
+      },
+      {
+        "msgID": "map23_m_m_tiisai02s SEL_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0103",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP23_M_L0104",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map23_m_m_Jinriki01_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0105",
+        "msgStr": "> Burası eski bir çekçek."
+      },
+      {
+        "msgID": "MAP23_M_L0106",
+        "msgStr": "> Eski bir model gibi görünüyor ama çok iyi bakılmış."
+      },
+      {
+        "msgID": "map23_m_mplan_ep06_oni_01_054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep06_oni_02_055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_01_056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_01_1_057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_01_2_058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_02_1_059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_02_2_060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_02_3_061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_sel_ep07_yomi_01 SEL_062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_02_4_063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_03_01_064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_03_02_065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_03_03_066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_03_04_067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_03_05_068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_03_06_069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_yomi_eb_03_07_070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_01_071",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0136",
+        "msgStr": "Görünüşe göre o mühür bizi başka bir yere gönderdi."
+      },
+      {
+        "msgID": "MAP23_M_L0137",
+        "msgStr": "O kardeşler pek bir şeye benzemiyor ama güçleri başımıza bela oluyor."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_02_072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_03_073",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0141",
+        "msgStr": "> İblis şüpheli bir varlık sezdi. Bunu Raidou'ya bildirmeye değer olabilir."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_tuiseki_01_074",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0142",
+        "msgStr": "> Kapının ötesinde bir şey var."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_tuiseki_02_075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_tuiseki_03_076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_tuiseki_04_077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_sup_01_078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_npc_01_079",
+        "msgStr": "Başıbozuk Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP23_M_L0152",
+        "msgStr": "Evim hemen ileride olmalıydı ama..."
+      },
+      {
+        "msgID": "MAP23_M_L0153",
+        "msgStr": "Ne kadar ararsam arayayım bir türlü bulamıyorum!"
+      },
+      {
+        "msgID": "MAP23_M_L0154",
+        "msgStr": "Hey sen, insan! Acaba bu işte bir parmağın olup olmadığını sorabilir..."
+      },
+      {
+        "msgID": "MAP23_M_L0155",
+        "msgStr": "Gerçi düşündüm de bir insanın bu işle ilgisi olması pek olası değil. İşine bak!"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_npc_01_01_080",
+        "msgStr": "Başıbozuk Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP23_M_L0156",
+        "msgStr": "Evim hemen ileride olmalıydı ama..."
+      },
+      {
+        "msgID": "MAP23_M_L0157",
+        "msgStr": "Ne kadar ararsam arayayım bir türlü bulamıyorum!"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_npc_01_02_081",
+        "msgStr": "Başıbozuk Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP23_M_L0158",
+        "msgStr": "Yolculuğum sonu gelmez bir şekilde sürüyor..."
+      },
+      {
+        "msgID": "MAP23_M_L0159",
+        "msgStr": "Çözüm ise tamamen belirsiz..."
+      },
+      {
+        "msgID": "MAP23_M_L0160",
+        "msgStr": "Hey, sen! Burada öyle aval aval bakınmana hiç gerek yok!"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_npc_02_01_082",
+        "msgStr": "Başıbozuk Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP23_M_L0161",
+        "msgStr": "Aniden yeni bir gelişme—havada ince bir değişim var..."
+      },
+      {
+        "msgID": "MAP23_M_L0162",
+        "msgStr": "Acaba bunun sorumlusu sen olabilir misin?"
+      },
+      {
+        "msgID": "MAP23_M_L0163",
+        "msgStr": "Gerçi bu, senin gibi bir çocuğun boyunu aşar."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_npc_02_02_083",
+        "msgStr": "Başıbozuk Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP23_M_L0164",
+        "msgStr": "Aniden yeni bir gelişme—havada ince bir değişim var..."
+      },
+      {
+        "msgID": "MAP23_M_L0165",
+        "msgStr": "Bunun sebebi bir İblis Çağırıcısı olabilir mi!?"
+      },
+      {
+        "msgID": "MAP23_M_L0166",
+        "msgStr": "Hah! Ama yok canım. Hiçbir insan bunu başaramaz."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_npc_03_01_084",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP23_M_L0167",
+        "msgStr": "Ah, sen şu siyah pelerinli insan olmalısın!"
+      },
+      {
+        "msgID": "MAP23_M_L0168",
+        "msgStr": "Burası öne çıkan hiçbir yanı olmasa da kendi halinde, düzgün bir kasabadır."
+      },
+      {
+        "msgID": "MAP23_M_L0169",
+        "msgStr": "Burada her renkten insanın takıldığını gördüm."
+      },
+      {
+        "msgID": "MAP23_M_L0170",
+        "msgStr": "Kendini evinde gibi hisset!"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_npc_03_02_085",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP23_M_L0171",
+        "msgStr": "Ah, hey sen! Evet, sen!"
+      },
+      {
+        "msgID": "MAP23_M_L0172",
+        "msgStr": "Siyah pelerinli çağırıcıyı biliyor musun?"
+      },
+      {
+        "msgID": "MAP23_M_L0173",
+        "msgStr": "Bana sorarsan bir insana göre oldukça etkileyici biri!"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_boss_01_086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_boss_01_a_087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_boss_01_aa_088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_boss_01_aan_089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_kanshiki_01_090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_kanshiki_02_091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_kanshiki_02a_092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_kanshiki_03_093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_kanshiki_03a_094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_kanshiki_04_095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_01_096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_01a_097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_02_098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_03_099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_03a_100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_01n_101",
+        "msgStr": "geçici mesaj"
+      },
+      {
+        "msgID": "MAP23_M_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_04_102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_05_103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_06_104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_07_105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_08_106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_09_107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_dokushin_10_108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_boss_02_109",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_b_msg_110",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_boss_03_111",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0216",
+        "msgStr": "> Bükülmüş uzay normale dönmüş gibi görünüyor."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_warp_mid_boss_04_112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_boss_hito01_113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0221",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_boss_hito02_114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0222",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_boss_hito03_115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0223",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_boss_hito04_116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0226",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_boss_hito05_117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0227",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_msg_b_mae_01_118",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0228",
+        "msgStr": "Bıyıklarım karıncalanıyor... Bu gerçekten de çok güçlü bir iblis."
+      },
+      {
+        "msgID": "MAP23_M_L0229",
+        "msgStr": "Hazır mısın?"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tanti_01_119",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0230",
+        "msgStr": "> Raidou'nun laneti bir iblisin varlığına tepki veriyor."
+      },
+      {
+        "msgID": "MAP23_M_L0231",
+        "msgStr": "> <COLOR 3>Evlerin arkasındaki boş bir arsadan<COLOR 0> güçlü bir enerji yayılıyor."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tanti_02_120",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0232",
+        "msgStr": "> Raidou'nun laneti tepki veriyor..."
+      },
+      {
+        "msgID": "MAP23_M_L0233",
+        "msgStr": "> <COLOR 3>Evlerin arkasındaki boş bir arsadan<COLOR 0> güçlü bir enerji yayılıyor."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tanti_03_121",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0234",
+        "msgStr": "> Raidou'nun laneti tepki veriyor..."
+      },
+      {
+        "msgID": "MAP23_M_L0235",
+        "msgStr": "> <COLOR 3>Kuzeydoğu<COLOR 0> yönünden güçlü bir enerji yayılıyor."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tanti_04_122",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0236",
+        "msgStr": "> Raidou'nun laneti tepki veriyor..."
+      },
+      {
+        "msgID": "MAP23_M_L0237",
+        "msgStr": "> <COLOR 3>Kuzey<COLOR 0> yönünden güçlü bir enerji yayılıyor."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tuiseki_03_123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tuiseki_04_124",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0239",
+        "msgStr": "Görünüşe göre mührü kaldırmadan ilerleyemeyeceğiz."
+      },
+      {
+        "msgID": "MAP23_M_L0240",
+        "msgStr": "Ama o iki soytarı tılsımı saklamış..."
+      },
+      {
+        "msgID": "MAP23_M_L0241",
+        "msgStr": "Onu bulup yok edebilirsek mühür işini de halletmiş oluruz."
+      },
+      {
+        "msgID": "MAP23_M_L0242",
+        "msgStr": "<COLOR 3>O tılsımı bulmalıyız.<COLOR 0> Yakınlarda bir yerde olmalı."
+      },
+      {
+        "msgID": "MAP23_M_L0243",
+        "msgStr": "Belki de mührü tekrar tetikleyip o mankafa kardeşlerle konuşmalıyız."
+      },
+      {
+        "msgID": "MAP23_M_L0244",
+        "msgStr": "Yerini ağızlarından kaçıracak tiplere benziyorlar."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tuiseki_05_125",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0245",
+        "msgStr": "Raidou, tılsım <COLOR 3>posta kutusunun yakınında<COLOR 0>."
+      },
+      {
+        "msgID": "MAP23_M_L0246",
+        "msgStr": "Onu bulmak için İblis Çağırıcısı kıvrak zekânı kullan."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_GOUTO_SISA_EX1_126",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0247",
+        "msgStr": "Raidou, <COLOR 3>posta kutusunun yanında<COLOR 0> bir şey vardı."
+      },
+      {
+        "msgID": "MAP23_M_L0248",
+        "msgStr": "Tılsım o olmalı. Acele et de bir bak."
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tuiseki_06_127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tuiseki_07_128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_mplan_ep07_noroi_tuiseki_08_129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0252",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0253",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai01_130",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0254",
+        "msgStr": "> Posta kutusunun arkasına küçük bir tılsım yapıştırılmış."
+      },
+      {
+        "msgID": "MAP23_M_L0255",
+        "msgStr": "> Tılsımın üzerinde gizemli bir yazı var..."
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai02_131",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0256",
+        "msgStr": "Demek aradığımız tılsım buymuş."
+      },
+      {
+        "msgID": "MAP23_M_L0257",
+        "msgStr": "Durma, yok et onu."
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai03_132",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0258",
+        "msgStr": "> Mühür tılsımı parçalansın mı?"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai04_133",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0259",
+        "msgStr": "Ah be! Yaptın yapacağını, ha?"
+      },
+      {
+        "msgID": "MAP23_M_L0260",
+        "msgStr": "Ama neyse ne. O lanet yakın zamanda ortadan kalkacak değil."
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai05_134",
+        "msgStr": "Küçük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0261",
+        "msgStr": "Neden biliyor musun!?"
+      },
+      {
+        "msgID": "map23_m_m_sel_ep07_jufu_05 SEL_135",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0262",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP23_M_L0263",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai_y_136",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0264",
+        "msgStr": "Çünkü bizim mührümüz, yüce Hitokotonushi'nin lanetinin yanında hiçbir şey!"
+      },
+      {
+        "msgID": "MAP23_M_L0265",
+        "msgStr": "Ne yapacaksın, yüce Hitokotonushi'yi mi yeneceksin?"
+      },
+      {
+        "msgID": "MAP23_M_L0266",
+        "msgStr": "Hah! Sanki öyle bir şey mümkünmüş gibi."
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai_n_137",
+        "msgStr": "Küçük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0267",
+        "msgStr": "Neden biliyor musun!?"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai00_138",
+        "msgStr": "İblis Kardeşler"
+      },
+      {
+        "msgID": "MAP23_M_L0268",
+        "msgStr": "Çünkü bir sonraki yemeğimiz sen olacaksın!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_hakai06_139",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0269",
+        "msgStr": "O baş belası mührün işi böylece bitti."
+      },
+      {
+        "msgID": "MAP23_M_L0270",
+        "msgStr": "Ne durumdasın Raidou? Hâlâ hareket edebiliyor musun?"
+      },
+      {
+        "msgID": "map23_m_m_sel_ep07_jufu_06 SEL_140",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0271",
+        "msgStr": "Dayanabilirim."
+      },
+      {
+        "msgID": "MAP23_M_L0272",
+        "msgStr": "Beni zorlamaya başladı..."
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_06_y_141",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0273",
+        "msgStr": "Mükemmel. Ondördüncü'den de bunu beklerdim."
+      },
+      {
+        "msgID": "MAP23_M_L0274",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_06_n_142",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0275",
+        "msgStr": "Eh, lanetler bedene ağır yük bindirir..."
+      },
+      {
+        "msgID": "MAP23_M_L0276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_haken_143",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0277",
+        "msgStr": "Hm? Raidou, şurada bir şey var."
+      },
+      {
+        "msgID": "MAP23_M_L0278",
+        "msgStr": "<COLOR 3>Posta kutusuna bir bak!<COLOR 0>"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU01_144",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP23_M_L0279",
+        "msgStr": "Hyahaha! Enayiler!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU02_145",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP23_M_L0280",
+        "msgStr": "Yuttular birader!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU03_146",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0281",
+        "msgStr": "Biz bu mührü açık tuttuğumuz sürece yüce <COLOR 1>Hitokotonushi<COLOR 0>'ye asla ulaşamayacaksınız!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU04_147",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0282",
+        "msgStr": "Demek lanet bu \"Hitokotonushi\"den geldi? Bunu öğrendiğimiz iyi oldu."
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU05_148",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0283",
+        "msgStr": "Ne!? Bu çelimsiz kedi yüce Hitokotonushi'yi nereden biliyor!?"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU06_149",
+        "msgStr": "Küçük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0284",
+        "msgStr": "Dikkatli ol birader, bunlar tehlikeli! Onları başka bir yere gönderelim!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU02_01_150",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0285",
+        "msgStr": "Sizi enayiler, yine yuttunuz! Hyahahahaha!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU02_02_151",
+        "msgStr": "Küçük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0286",
+        "msgStr": "Harbiden çok güçlü bir tılsımımız var, değil mi birader?"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU02_03_152",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0287",
+        "msgStr": "Seni mankafa! <COLOR 1>Mühür tılsımından<COLOR 0> bahsetme, yoksa onu sakladığımızı anlayacaklar!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU02_04_153",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0288",
+        "msgStr": "Ah, demek mühür gücünü bir tılsımdan alıyor, öyle mi?"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU02_05_154",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0289",
+        "msgStr": "Ne!? Bu sıska kedi mühür tılsımını nereden biliyor!?"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU02_06_155",
+        "msgStr": "Küçük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0290",
+        "msgStr": "Dikkatli ol birader, bunlar tehlikeli! Onları başka bir yere gönderelim!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU03_01_156",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0291",
+        "msgStr": "Vay be, <IT_S>yine<IT_E> yuttunuz! Hyahahahaha!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU03_02_157",
+        "msgStr": "Küçük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0292",
+        "msgStr": "Harikasın birader! Bu gidişle tılsımımızı asla bulamazlar!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU03_03_158",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0293",
+        "msgStr": "Kes sesini! Tılsım hakkında konuşup durma!"
+      },
+      {
+        "msgID": "MAP23_M_L0294",
+        "msgStr": "Ya <COLOR 3>kırmızı posta kutusunu incelemeye<COLOR 0> kalkarlarsa ne yapacaksın, ha!?"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU03_04_159",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP23_M_L0295",
+        "msgStr": "Anlıyorum. Demek tılsım posta kutusunun yakınında ve tek yapmamız gereken orayı incelemek."
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU03_05_160",
+        "msgStr": "Büyük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0296",
+        "msgStr": "Ne!? Bu bodur kedi zihin mi okuyor yoksa!?"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_GAIKOTU03_06_161",
+        "msgStr": "Küçük İblis Kardeş"
+      },
+      {
+        "msgID": "MAP23_M_L0297",
+        "msgStr": "Dikkatli ol birader, bunlar tehlikeli! Onları başka bir yere gönderelim!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_AYASI01_162",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0298",
+        "msgStr": "> Havada şüpheli bir varlık hissediliyor... Bunu Raidou'ya bildirmek en iyisi olabilir."
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_jufu_OKASI01_163",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0299",
+        "msgStr": "> Bir tuzak tetiklendi!"
+      },
+      {
+        "msgID": "map23_m_m_msg_gk_YABURU_164",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0300",
+        "msgStr": "> Raidou mühür tılsımını yırtıp ikiye ayırdı."
+      },
+      {
+        "msgID": "map23_m_m_msg_ndoor_akuma_01_165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0301",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0302",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_msg_ndoor_akuma_02_166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0303",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0304",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0305",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0306",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0307",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0308",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0309",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_msg_ndoor_akuma_03_167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0310",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0311",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0312",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0313",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_msg_ndoor_akuma_04_168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0314",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0315",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0316",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0317",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map23_m_m_msg_TOJI_akuma_01_169",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0318",
+        "msgStr": "İşe gidiyordum ki birdenbire bu duvarlar belirdi ve zavallı ben içeride mahsur kaldım."
+      },
+      {
+        "msgID": "MAP23_M_L0319",
+        "msgStr": "Kanatlarım olabilir ama sadece süs diye varlar. Buradan uçup çıkmak için onları kullanamam."
+      },
+      {
+        "msgID": "MAP23_M_L0320",
+        "msgStr": "Çok tatlısın şekerim. Çok teşekkür ederim!"
+      },
+      {
+        "msgID": "map23_m_m_msg_TOJI_akuma_02_170",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0321",
+        "msgStr": "Bir iblisin bir insana âşık olması sandığın kadar nadir bir şey değildir."
+      },
+      {
+        "msgID": "MAP23_M_L0322",
+        "msgStr": "Kih kih!"
+      },
+      {
+        "msgID": "map23_m_m_msg_TOJI_akuma_03_171",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0323",
+        "msgStr": "> İblis, <devil 0> ile ilgilenmiyor..."
+      },
+      {
+        "msgID": "map23_m_m_ep07_Thanks01_00_172",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0324",
+        "msgStr": "> İblis, Raidou'ya abayı yakmış."
+      },
+      {
+        "msgID": "map23_m_m_ep07_Thanks01_00_02_173",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0325",
+        "msgStr": "> İblis, <devil 0> tarafına kaçamak bakışlar atıyor."
+      },
+      {
+        "msgID": "MAP23_M_L0326",
+        "msgStr": "> İblis, <devil 0> ile ilgileniyor gibi görünüyor."
+      },
+      {
+        "msgID": "map23_m_m_ep07_Thanks01_01_174",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0327",
+        "msgStr": "Ooh, ne hoş bir delikanlı. Kalbimin biraz daha hızlı attığını hissedebiliyorum!"
+      },
+      {
+        "msgID": "MAP23_M_L0328",
+        "msgStr": "Al bakalım tatlım, bu senin."
+      },
+      {
+        "msgID": "MAP23_M_L0329",
+        "msgStr": "Hislerimin küçük bir hatırası."
+      },
+      {
+        "msgID": "map23_m_m_ep07_Thanks01_02_175",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0330",
+        "msgStr": "Bunu buldum ve senin için çok şirin bir hediye olacağını düşündüm!"
+      },
+      {
+        "msgID": "map23_m_m_ep07_Thanks01_03_176",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0331",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map23_m_m_ep07_Thanks01_04_177",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0332",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map23_m_m_ep07_Thanks01_05_178",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0333",
+        "msgStr": "Gerçekten çok hoş bir çocuksun. Bana onu o kadar çok hatırlatıyorsun ki..."
+      },
+      {
+        "msgID": "map23_m_m_Devil01_01_01_179",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0334",
+        "msgStr": "İşe gidiyordum ki birdenbire bu duvarlar belirdi ve zavallı ben içeride mahsur kaldım."
+      },
+      {
+        "msgID": "MAP23_M_L0335",
+        "msgStr": "Kanatlarım olabilir ama sadece süs diye varlar. Buradan uçup çıkmak için onları kullanamam."
+      },
+      {
+        "msgID": "MAP23_M_L0336",
+        "msgStr": "Çok tatlısın şekerim. Çok teşekkür ederim!"
+      },
+      {
+        "msgID": "map23_m_m_Devil01_01_02_180",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0337",
+        "msgStr": "Pek bir şey değil ama al bakalım tatlım."
+      },
+      {
+        "msgID": "map23_m_m_Devil01_01_03a_181",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0338",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map23_m_m_Devil01_01_03b_182",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0339",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map23_m_m_Devil01_01_04a_183",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0340",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map23_m_m_Devil01_01_04b_184",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0341",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map23_m_m_Devil01_02_01_185",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0342",
+        "msgStr": "Bu arada tatlım, o duvarları diken iblisle dövüşecek misin?"
+      },
+      {
+        "msgID": "map23_m_m_Devil01_02_01s SEL_186",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0343",
+        "msgStr": "Evet, öyle planlıyorum."
+      },
+      {
+        "msgID": "MAP23_M_L0344",
+        "msgStr": "Hayır, dövüşmeyeceğim."
+      },
+      {
+        "msgID": "map23_m_m_Devil01_02_01a_187",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0345",
+        "msgStr": "Ben de öyle düşünmüştüm. Şey, işine yarayabilecek küçük bir dedikodum var."
+      },
+      {
+        "msgID": "MAP23_M_L0346",
+        "msgStr": "Şu Utai-Gaikotsu kardeşleri biliyorsun değil mi tatlım? Birbirleriyle bağıra çağıra konuşurlarken kulak misafiri oldum."
+      },
+      {
+        "msgID": "MAP23_M_L0347",
+        "msgStr": "<COLOR 3>Patronlarının dört biçimi varmış ve her birinin zayıflığı farklıymış.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP23_M_L0348",
+        "msgStr": "Tam olarak nelermiş mi? Ah, dur bakayım şekerim... <COLOR 3>Ateş, Buz, Elektrik ve Fiziksel saldırılar<COLOR 0>."
+      },
+      {
+        "msgID": "MAP23_M_L0349",
+        "msgStr": "O şeyle kapışırsan bunu sakın unutma tatlım."
+      },
+      {
+        "msgID": "map23_m_m_Devil01_02_01b_188",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP23_M_L0350",
+        "msgStr": "Sen öyle diyorsan öyledir tatlım. Sadece dikkatli ol, tamam mı?"
+      },
+      {
+        "msgID": "map23_m_m_Common_IkaiExit01_189",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0351",
+        "msgStr": "> Yatagarasu Elçisi, gerçek dünya ile Karanlık Diyar arasında bir bağlantı kurdu."
+      },
+      {
+        "msgID": "MAP23_M_L0352",
+        "msgStr": "> Işığın ötesinde İsimsiz Tapınak görünüyor. İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map23_m_m_Common_IkaiExit02_190",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0353",
+        "msgStr": "> Işığın ötesinde gerçek dünya görünüyor."
+      },
+      {
+        "msgID": "MAP23_M_L0354",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP23_M_L0355",
+        "msgStr": "> Gerçek dünyaya dönülsün mü?"
+      },
+      {
+        "msgID": "map23_m_m_Common_IkaiExitSelect SEL_191",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0356",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP23_M_L0357",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map23_m_m_HINT_AKUMA_01_192",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP23_M_L0358",
+        "msgStr": "Hu hu hu..."
+      },
+      {
+        "msgID": "MAP23_M_L0359",
+        "msgStr": "Ben Mokoi."
+      },
+      {
+        "msgID": "MAP23_M_L0360",
+        "msgStr": "Ama o kadar çok şey biliyorum ki... Bana \"Profesör Mokoi\" demeni tercih ederim."
+      },
+      {
+        "msgID": "map23_m_m_HINT_AKUMA_02_193",
+        "msgStr": "Profesör Mokoi"
+      },
+      {
+        "msgID": "MAP23_M_L0361",
+        "msgStr": "Bilmediğim bir şey olduğunu sanmıyorum. Varsa bile ben onu bilmiyorumdur."
+      },
+      {
+        "msgID": "map23_m_m_HINT_AKUMA_03_194",
+        "msgStr": "Profesör Mokoi"
+      },
+      {
+        "msgID": "MAP23_M_L0362",
+        "msgStr": "En sevdiğin konu nedir? İstediğin zaman o konuda sana uzun uzadıya bilgi verebilirim."
+      },
+      {
+        "msgID": "MAP23_M_L0363",
+        "msgStr": "Yeraltı Kapılarını sor"
+      },
+      {
+        "msgID": "MAP23_M_L0364",
+        "msgStr": "Profesör Mokoi'yi sor"
+      },
+      {
+        "msgID": "MAP23_M_L0365",
+        "msgStr": "İblis modalarını sor"
+      },
+      {
+        "msgID": "MAP23_M_L0366",
+        "msgStr": "Hiçbir şey sorma"
+      },
+      {
+        "msgID": "map23_m_m_HINT_AKUMA_04_195",
+        "msgStr": "Profesör Mokoi"
+      },
+      {
+        "msgID": "MAP23_M_L0367",
+        "msgStr": "Basitçe söylemek gerekirse Yeraltı Kapısı bir tür bariyerdir—yani bir çeşit yol engeli diyebiliriz."
+      },
+      {
+        "msgID": "MAP23_M_L0368",
+        "msgStr": "Zaten biliyor muydun? O zaman sana bir kurabiye. Ama yeraltı derken bel altı bölgenle ilgili olduğunu sandıysan kurabiye falan yok, keh keh."
+      },
+      {
+        "msgID": "MAP23_M_L0369",
+        "msgStr": "Bir Yeraltı Kapısı'na <COLOR 3>zayıf noktasına saldırmadıkça<COLOR 0> zarar veremezsin, anladın mı?"
+      },
+      {
+        "msgID": "MAP23_M_L0370",
+        "msgStr": "Ateş büyüsü olabilir, Silah saldırıları olabilir... <COLOR 3>Pek çok olası zayıflık<COLOR 0> vardır evlat."
+      },
+      {
+        "msgID": "MAP23_M_L0371",
+        "msgStr": "O yüzden yanında bir sürü farklı iblis bulundur Bay Çağırıcı, böylece her türlü şeyi deneyebilirsin!"
+      },
+      {
+        "msgID": "MAP23_M_L0372",
+        "msgStr": "Bu Yeraltı Kapıları son zamanlarda Başkent'in dört bir yanında bitiveriyor."
+      },
+      {
+        "msgID": "MAP23_M_L0373",
+        "msgStr": "Bana sorarsan ortada büyük ve derin bir komplo var."
+      },
+      {
+        "msgID": "MAP23_M_L0374",
+        "msgStr": "Bu tür şeyleri araştırmak senin ekmek teknen, değil mi dedektif? Belki de seni ben tutmalıyım! Hu hu!"
+      },
+      {
+        "msgID": "map23_m_m_HINT_AKUMA_05_196",
+        "msgStr": "Profesör Mokoi"
+      },
+      {
+        "msgID": "MAP23_M_L0375",
+        "msgStr": "Doğrusunu söylemek gerekirse evlat, ben aslen Başkentli değilim."
+      },
+      {
+        "msgID": "MAP23_M_L0376",
+        "msgStr": "Çok ama çok güneydeki bir diyardan geliyorum."
+      },
+      {
+        "msgID": "MAP23_M_L0377",
+        "msgStr": "Uluru'nun dev kayası benim evimdir."
+      },
+      {
+        "msgID": "MAP23_M_L0378",
+        "msgStr": "Bir gün oraya geri dönmek isterim evlat. Son zamanlarda memleket hasreti çekiyorum."
+      },
+      {
+        "msgID": "map23_m_m_HINT_AKUMA_06_197",
+        "msgStr": "Profesör Mokoi"
+      },
+      {
+        "msgID": "MAP23_M_L0379",
+        "msgStr": "Bugünlerde pelerinler çok moda, bilirsin. Özellikle de kırmızı ve siyah olanlar."
+      },
+      {
+        "msgID": "MAP23_M_L0380",
+        "msgStr": "Şahsen ben Yumeji'nin manto tasarımlarını pek beğeniyorum. Çok modernler."
+      },
+      {
+        "msgID": "MAP23_M_L0381",
+        "msgStr": "Sakın senin üzerinde bir tane görmeyeyim evlat, yoksa hiç tarzı olmayan bir özentiden ibaret olduğunu anlarım."
+      },
+      {
+        "msgID": "map23_m_m_HINT_AKUMA_07_198",
+        "msgStr": "Profesör Mokoi"
+      },
+      {
+        "msgID": "MAP23_M_L0382",
+        "msgStr": "Öyle mi? Hiç sorun <IT_S>yok<IT_E> diyorsan bana \"Profesör <IT_S>Yok<IT_E>-oi\" de geç..."
+      },
+      {
+        "msgID": "map23_m_m_Rhone01_01_199",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0383",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map23_m_m_Rhone01_02_200",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0384",
+        "msgStr": "> Ancak Büyük Tarrasque, Karanlık Diyar'da değil."
+      },
+      {
+        "msgID": "map23_m_m_Rhone01_03_201",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0385",
+        "msgStr": "> Ancak Büyük Tarrasque gelmedi..."
+      },
+      {
+        "msgID": "map23_m_m_tiisai02_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP23_M_L0386",
+        "msgStr": "> Delikten çıkıldı."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:15:00"
+}

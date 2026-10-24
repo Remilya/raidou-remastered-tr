@@ -1,0 +1,145 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SAVENAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SAVENAME_L0000",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "SAVENAME_L0001",
+        "msgStr": "Karanlık Tsukudo-cho A"
+      },
+      {
+        "msgID": "SAVENAME_L0002",
+        "msgStr": "Daidouji Konağı Bodrum Katı"
+      },
+      {
+        "msgID": "SAVENAME_L0003",
+        "msgStr": "Waden One - Üst"
+      },
+      {
+        "msgID": "SAVENAME_L0004",
+        "msgStr": "Karanlık Fukagawa-cho C"
+      },
+      {
+        "msgID": "SAVENAME_L0005",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "SAVENAME_L0006",
+        "msgStr": "Karanlık Fukagawa-cho D"
+      },
+      {
+        "msgID": "SAVENAME_L0007",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "SAVENAME_L0008",
+        "msgStr": "İsimsiz Tapınak"
+      },
+      {
+        "msgID": "SAVENAME_L0009",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "SAVENAME_L0010",
+        "msgStr": "Karanlık Fukagawa-cho A"
+      },
+      {
+        "msgID": "SAVENAME_L0011",
+        "msgStr": "Karanlık Fukagawa-cho B"
+      },
+      {
+        "msgID": "SAVENAME_L0012",
+        "msgStr": "Akarana Koridoru A"
+      },
+      {
+        "msgID": "SAVENAME_L0013",
+        "msgStr": "Akarana Koridoru B"
+      },
+      {
+        "msgID": "SAVENAME_L0014",
+        "msgStr": "Akarana Koridoru C"
+      },
+      {
+        "msgID": "SAVENAME_L0015",
+        "msgStr": "Akarana Koridoru D"
+      },
+      {
+        "msgID": "SAVENAME_L0016",
+        "msgStr": "Matris Labirenti"
+      },
+      {
+        "msgID": "SAVENAME_L0017",
+        "msgStr": "Daidouji Tekstil"
+      },
+      {
+        "msgID": "SAVENAME_L0018",
+        "msgStr": "Tersane B4 A"
+      },
+      {
+        "msgID": "SAVENAME_L0019",
+        "msgStr": "Tersane B4 B"
+      },
+      {
+        "msgID": "SAVENAME_L0020",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "SAVENAME_L0021",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "SAVENAME_L0022",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "SAVENAME_L0023",
+        "msgStr": "Karanlık Harumi-cho"
+      },
+      {
+        "msgID": "SAVENAME_L0024",
+        "msgStr": "Karanlık Kasumidai"
+      },
+      {
+        "msgID": "SAVENAME_L0025",
+        "msgStr": "Akarana Koridoru E"
+      },
+      {
+        "msgID": "SAVENAME_L0026",
+        "msgStr": "Yabancılar Mezarlığı"
+      },
+      {
+        "msgID": "SAVENAME_L0027",
+        "msgStr": "Tersane B1"
+      },
+      {
+        "msgID": "SAVENAME_L0028",
+        "msgStr": "Karanlık Tsukudo-cho B"
+      },
+      {
+        "msgID": "SAVENAME_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVENAME_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVENAME_L0031",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:21"
+}

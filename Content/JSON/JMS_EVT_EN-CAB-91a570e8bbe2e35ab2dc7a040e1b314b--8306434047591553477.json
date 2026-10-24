@@ -1,0 +1,633 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMS_EVT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_01_000",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0000",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0001",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0002",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0003",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0004",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0005",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0006",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0007",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0008",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_09_001",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0009",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0010",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_10_002",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0011",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_11_003",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0012",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0013",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_12_004",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0014",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_13_005",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0015",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_14_006",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0016",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_16_007",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0017",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0018",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_17_008",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0019",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_18_009",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0020",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0021",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_19_010",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0022",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE01_20_011",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0023",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0024",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0025",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0026",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0027",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0028",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0029",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0030",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_SETUMEI_01_012",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0031",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0032",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_01_013",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0033",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_02_014",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0034",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0035",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_03_015",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0036",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_04_016",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0037",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0038",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0039",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0040",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_06_017",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0041",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0042",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_08_018",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0043",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0044",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_SETUMEI_02_019",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0045",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0046",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0047",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0048",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE02_SETUMEI_03_020",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0049",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0050",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0051",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE17_01_021",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0052",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0053",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE17_02_022",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0054",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE17_03_023",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0055",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0056",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0057",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0058",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0059",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0060",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0061",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0062",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0063",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE17_07_024",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0064",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0065",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0066",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0067",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE17_09_025",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0068",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0069",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0070",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0071",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0072",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0073",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0074",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0075",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0076",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0077",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0078",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0079",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0080",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0081",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE19_01_026",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0082",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0083",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE19_02_027",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0084",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE19_03_028",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0085",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0086",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0087",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0088",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0089",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0090",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0091",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0092",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0093",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0094",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0095",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0096",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0097",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0098",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0099",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0100",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0101",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE23_01_029",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0102",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0103",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0104",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0105",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0106",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0107",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0108",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0109",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0110",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0111",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0112",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0113",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0114",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0115",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0116",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0117",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE23_10_030",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0118",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE23_11_031",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0119",
+        "msgStr": ""
+      },
+      {
+        "msgID": "jms_evt_EPI01_SCENE23_12_032",
+        "msgStr": ""
+      },
+      {
+        "msgID": "JMS_EVT_L0120",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:40:47"
+}

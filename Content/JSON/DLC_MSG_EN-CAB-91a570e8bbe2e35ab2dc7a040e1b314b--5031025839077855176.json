@@ -1,0 +1,109 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DLC_MSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DLC_MSG_L0000",
+        "msgStr": "\"Kuzunoha Köyü Eğitimleri\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DLC_MSG_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DLC_MSG_L0003",
+        "msgStr": "\"Aril Yarığı İblisleri\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DLC_MSG_L0005",
+        "msgStr": "\"İblis Unvanları: Çağırıcı Sıfatları\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0006",
+        "msgStr": "\"Özel Bir Bilgilendirme\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0007",
+        "msgStr": "\"Gelecekteki Kendime\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0008",
+        "msgStr": "Daha fazla bilgi için Dedektif Günlüğü'ndeki \"İndirilebilir İçerik Nasıl Kullanılır\" bölümüne göz atın."
+      },
+      {
+        "msgID": "DLC_MSG_L0009",
+        "msgStr": "\"Konuk İblisler Paketi\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0010",
+        "msgStr": "\"Yetenek Kitabı Paketi\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0011",
+        "msgStr": "\"Hayatta Kalma Paketi\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0012",
+        "msgStr": "\"Raidou Gözlüğü\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0013",
+        "msgStr": "\"Hayatta Kalma Paketi Hafif Ekipman\" indirilebilir içeriği etkinleştirildi."
+      },
+      {
+        "msgID": "DLC_MSG_L0014",
+        "msgStr": "> \"Yetenek Kitabı Paketi\" indirilebilir içeriğinden <COLOR 4><V 0><COLOR 0> x<V 1> alındı!"
+      },
+      {
+        "msgID": "DLC_MSG_L0015",
+        "msgStr": "> \"Yetenek Kitabı Paketi\" indirilebilir içeriğiyle <COLOR 4><V 0><COLOR 0> maksimum kapasiteye ulaştı. Fazla olan <V 1> adet depolandı."
+      },
+      {
+        "msgID": "DLC_MSG_L0016",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> zaten maksimum kapasitede—\"Yetenek Kitabı Paketi\" indirilebilir içeriğinden daha fazla alınamaz. Fazla olan <V 1> adet depolandı."
+      },
+      {
+        "msgID": "DLC_MSG_L0017",
+        "msgStr": "> \"Hayatta Kalma Paketi\" indirilebilir içeriğinden <COLOR 4><V 0><COLOR 0> x<V 1> alındı!"
+      },
+      {
+        "msgID": "DLC_MSG_L0018",
+        "msgStr": "> \"Hayatta Kalma Paketi\" indirilebilir içeriğiyle <COLOR 4><V 0><COLOR 0> maksimum kapasiteye ulaştı. Fazla olan <V 1> adet depolandı."
+      },
+      {
+        "msgID": "DLC_MSG_L0019",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> zaten maksimum kapasitede—\"Hayatta Kalma Paketi\" indirilebilir içeriğinden daha fazla alınamaz. Fazla olan <V 1> adet depolandı."
+      },
+      {
+        "msgID": "DLC_MSG_L0020",
+        "msgStr": "> \"Hayatta Kalma Paketi Hafif Ekipman\" indirilebilir içeriğinden <COLOR 4><V 0><COLOR 0> x<V 1> alındı!"
+      },
+      {
+        "msgID": "DLC_MSG_L0021",
+        "msgStr": "> \"Hayatta Kalma Paketi Hafif Ekipman\" indirilebilir içeriğiyle <COLOR 4><V 0><COLOR 0> maksimum kapasiteye ulaştı. Fazla olan <V 1> adet depolandı."
+      },
+      {
+        "msgID": "DLC_MSG_L0022",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> zaten maksimum kapasitede—\"Hayatta Kalma Paketi Hafif Ekipman\" indirilebilir içeriğinden daha fazla alınamaz. Fazla olan <V 1> adet depolandı."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:34:16"
+}

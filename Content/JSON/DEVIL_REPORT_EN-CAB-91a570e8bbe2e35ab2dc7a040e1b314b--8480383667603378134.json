@@ -1,0 +1,85 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DEVIL_REPORT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DEVIL_REPORT_L0000",
+        "msgStr": "<V 0> konuşmak istiyor."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0001",
+        "msgStr": "> Bozuk Para yeteneğinden <COLOR 4><V 0> yen<COLOR 0> elde edildi."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0002",
+        "msgStr": "> Bozuk Para yeteneğinden toplam <COLOR 4><V 0> yen<COLOR 0> elde edildi."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0003",
+        "msgStr": "> Yağmacı yeteneğinden <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0004",
+        "msgStr": "> Yağmacı yeteneğinden toplamda <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0005",
+        "msgStr": "> Hediye olarak <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0006",
+        "msgStr": "> Hediye olarak toplamda <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0007",
+        "msgStr": "> Maksimum kapasitedeki eşyalar alınamadı."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0008",
+        "msgStr": "> <devil 0> uzmanlığını sergilemek üzere Hüner Gösterme kullandı..."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0009",
+        "msgStr": "> Raidou için geride bir şey bırakılmış."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0010",
+        "msgStr": "> Görünüşe göre bir şey bırakan kişi <V 0> idi."
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0011",
+        "msgStr": "<COLOR 4><V 0><COLOR 0> x<V 1> elde edildi!"
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0012",
+        "msgStr": "<COLOR 4><V 0> yen<COLOR 0> elde edildi!"
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0013",
+        "msgStr": "<COLOR 4><V 0> TP<COLOR 0> kazanıldı!"
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0014",
+        "msgStr": "<COLOR 4><V 0> Sadakat<COLOR 0> kazanıldı!"
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0015",
+        "msgStr": "<COLOR 4><V 0><COLOR 0> kapasitesi zaten dolu!"
+      },
+      {
+        "msgID": "DEVIL_REPORT_L0016",
+        "msgStr": "Daha fazla para taşınamaz!"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:51:37"
+}

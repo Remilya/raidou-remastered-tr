@@ -1,0 +1,4505 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP04_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map04_e_EPI04_SCENE03_01_000",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0000",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0001",
+        "msgStr": "Ah, Raidou, sen misin? Seni görmeyi beklemiyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0002",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0003",
+        "msgStr": "Bay Narumi seni çok mu çalıştırıyor? Belki de bir zam vakti gelmiştir, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0004",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0005",
+        "msgStr": "Ah, ben mi? Buradayım çünkü Harumi-cho'da doğup büyüdüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0006",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0007",
+        "msgStr": "Harada Şti.'ni duymuş muydun? Aslında ailemin şirketidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0008",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0009",
+        "msgStr": "Ryugu'daki işime başlamak için ayrıldım ve Harada Şti.'ni ağabeyime bıraktım ama...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0010",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0011",
+        "msgStr": "Altı ay önce öldü. Yüküyle birlikte denizin dibini boyladı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0012",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0013",
+        "msgStr": "Doğal olarak onun yerine işi devralmamı istediler.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0014",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0015",
+        "msgStr": "Ama son zamanlarda bir sürü tuhaf olay yaşanıyor. Can sıkıcı bir durum; Ginza-cho'dan sonra bu canavar meselelerinin bittiğini sanıyorduk, şimdi de...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0016",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP04_E_L0017",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0018",
+        "msgStr": "...Ah, kusura bakma, çenemi düşürmek istememiştim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0019",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0020",
+        "msgStr": "Ee, seni buraya hangi rüzgâr attı Raidou? Gezip görmeye gelmediğini varsayıyorum.<lips_stop><WAIT>"
+      },
+      {
+        "msgID": "MAP04_E_L0021",
+        "msgStr": "Konnou-ya'nın yükünü sor"
+      },
+      {
+        "msgID": "MAP04_E_L0022",
+        "msgStr": "Rasputin'i sor"
+      },
+      {
+        "msgID": "MAP04_E_L0023",
+        "msgStr": "\"Tuhaf olayları\" sor"
+      },
+      {
+        "msgID": "MAP04_E_L0024",
+        "msgStr": "Şimdilik bu kadar yeter"
+      },
+      {
+        "msgID": "MAP04_E_L0025",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0026",
+        "msgStr": "Sormak istediğin bir şey varsa kısa kesmeye çalış.<lips_stop><WAIT>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_12_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0027",
+        "msgStr": "> Raidou, Konnou-ya'nın sahibine yardım etmek için Harumi-cho'ya geldiğini açıkladı."
+      },
+      {
+        "msgID": "MAP04_E_L0028",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0029",
+        "msgStr": "O yaşlı adam gerçekten de kıymetli dükkânını bırakıp yardım mı istedi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0030",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0031",
+        "msgStr": "Evet, kendisi bir süredir sadık bir müşterimizdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0032",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0033",
+        "msgStr": "Bu durumun Konnou-ya için büyük bir sıkıntı yarattığının tamamen farkındayım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0034",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0035",
+        "msgStr": "Bu yüzden bir gemi gönderdik, hatta tam şu anda yola çıktı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0036",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0037",
+        "msgStr": "İşler yolunda giderse siparişini yakında alacak. Ama gitmezse...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0038",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0039",
+        "msgStr": "Konnou-ya kapanacak ve bizim itibarımız da onunla birlikte batacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_18_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0040",
+        "msgStr": "> Raidou, Rasputin'i sordu."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_19_003",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0041",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0042",
+        "msgStr": "Rasputin mi...? Bu ismi daha önce duyduğumu söyleyemem, üzgünüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_20_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0043",
+        "msgStr": "> Raidou ondan \"tuhaf olayları\" biraz daha açmasını istedi."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_21_005",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0044",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0045",
+        "msgStr": "...Aah, Harumi-cho'ya gelmene şaşmamalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_22_006",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0046",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0047",
+        "msgStr": "Altı ay önce, ağabeyim öldükten hemen sonra yüklerimiz kaybolmaya başladı.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_23_007",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0048",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0049",
+        "msgStr": "Çalındığını varsaydık, bu yüzden nöbetçi olarak denizcileri diktik.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_24_008",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0050",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0051",
+        "msgStr": "...Ve aynı şey tekrar yaşandı, yalnız bu kez ortadan kaybolanlar denizcilerdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_25_009",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0052",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0053",
+        "msgStr": "Tanıklarımız var. Söylenenlere göre denizciler sırra kadem basmış.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_26_010",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0054",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0055",
+        "msgStr": "Polise gittim ama anlattıklarımı ciddiye almadılar. Uğradığımız onca zarara rağmen hem de!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0056",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0057",
+        "msgStr": "O adamlar o yükü teslim etmek için hayatlarını tehlikeye atıp denize göğüs gerdiler!\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_27_011",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0058",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0059",
+        "msgStr": "Ve yük öylece buharlaşıp uçuyor! Ailemi ve işimizi utandırmışım gibi hissediyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE03_28_012",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0060",
+        "msgStr": "Demek hâlâ Rasputin hakkında bir ipucu yok, ha?"
+      },
+      {
+        "msgID": "MAP04_E_L0061",
+        "msgStr": "Ama en azından anlattıkları Konnou-ya'nın bize söyledikleriyle örtüşüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0062",
+        "msgStr": "Raidou, büroya dönüp Narumi'ye rapor vermeliyiz."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_01_013",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0063",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0064",
+        "msgStr": "Heh heh... Davam için bu kadar sıkı çalıştığın için teşekkürler.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0065",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0066",
+        "msgStr": "Bay Narumi bir sonraki geminin mallarımı getireceğini bana çoktan söyledi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0067",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0068",
+        "msgStr": "Az önce Bayan Harada ile ayrıntıların üzerinden geçmeyi bitirdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0069",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0070",
+        "msgStr": "Sonunda mallarımı alacağımdan emin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0071",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0072",
+        "msgStr": "Gemi kıyıdan hemen açıkta ve biz konuşurken yükü boşaltıyorlar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0073",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0074",
+        "msgStr": "Belki bu gece nihayet huzur içinde uyuyabilirim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_06_014",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0075",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0076",
+        "msgStr": "...Gerçi henüz tamamen düze çıkmış değiliz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0077",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0078",
+        "msgStr": "Yükü kendi iki gözümle görene kadar içim rahat etmeyecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0079",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0080",
+        "msgStr": "İşler en kötüye sararsa... Ne yaparım bilmiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_09_015",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0081",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0082",
+        "msgStr": "Hadi ama, en kötüsünü atlattık.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0083",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0084",
+        "msgStr": "Boşaltma işlemi çok uzun sürmeyecektir. Sadece biraz daha sabırlı olmamız gerekiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_11_016",
+        "msgStr": "Denizci"
+      },
+      {
+        "msgID": "MAP04_E_L0085",
+        "msgStr": "...B-Bir sorunumuz var!"
+      },
+      {
+        "msgID": "MAP04_E_L0086",
+        "msgStr": "Y-Yük yine kayboldu ve denizciler—"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_13_017",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0087",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0088",
+        "msgStr": "Onlar da mı kayboldu?\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_14_018",
+        "msgStr": "Denizci"
+      },
+      {
+        "msgID": "MAP04_E_L0089",
+        "msgStr": "E-Evet... Kendi gözlerimle gördüm. Üç denizci ve yük durup dururken ortadan kayboldu!"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_15_019",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0090",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0091",
+        "msgStr": "O teslimatı ayarlamak için işimden bile para çekmiştim...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0092",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0093",
+        "msgStr": "...Çok üzgünüm. Sonuçta yine işe yaramadı.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_17_020",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0094",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0095",
+        "msgStr": "Hayır! Hayır! Bu olamaz! Bir şeyler yapamaz mısın Raidou!?\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_18_021",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0096",
+        "msgStr": "Bizden bunu istemesi oldukça mantıksız ama hiçbir şey yapmadan da duramayız."
+      },
+      {
+        "msgID": "MAP04_E_L0097",
+        "msgStr": "Şimdi buna nasıl yaklaşacağız..."
+      },
+      {
+        "msgID": "MAP04_E_L0098",
+        "msgStr": "Yük gerçek dünyadan kayboluyorsa, belki de Karanlık Diyar'ı araştırmalıyız."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE06_KARI_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0099",
+        "msgStr": "> <COLOR 3>Karanlık Harumi-cho<COLOR 0> artık erişilebilir."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_01_023",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0100",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0101",
+        "msgStr": "Kayıp denizciler döndü! Hepsinin durumu iyi!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0102",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0103",
+        "msgStr": "Siyah pelerinli bir öğrencinin onları kurtardığını söylediler...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0104",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0105",
+        "msgStr": "Ve yük de geri geldi. Üzerinde tek bir çizik bile yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0106",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0107",
+        "msgStr": "...Sanırım bunun için sana teşekkür etmeliyim?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0108",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0109",
+        "msgStr": "Böyle bir sorunu çözmek de Narumi Dedektiflik Bürosu'na yakışırdı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0110",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0111",
+        "msgStr": "Harada Şti. yeniden ayağa kalktı! Konnou-ya'nın işleri de normale dönecektir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0112",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0113",
+        "msgStr": "Size gerçekten minnettarız. Teşekkürler, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0114",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP04_E_L0115",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0116",
+        "msgStr": "Satake'den Bay Elfman'ı araştırdığını duydum, doğru mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0117",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0118",
+        "msgStr": "Onun değiştiğini bilmelisin... Eskiden böyle değildi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0119",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0120",
+        "msgStr": "Elfman ve ağabeyim iyi arkadaştılar. Onu başka türlü düşünmek zor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0121",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0122",
+        "msgStr": "Hatta bana... bana her zaman küçük bir kız kardeş gibi davranırdı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0123",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0124",
+        "msgStr": "Ama ağabeyim vefat ettikten kısa bir süre sonra onun hakkında kötü şeyler duymaya başladım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0127",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0128",
+        "msgStr": "Söylenenlere göre yabancıların Japonya'da yasa dışı kalmasına yardım etmiş ve tüccarlarımızı hırpalamaya başlamış.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0129",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0130",
+        "msgStr": "Duyduklarıma inanamadım, bu yüzden onunla görüşmeye gittim... ama beni görmeyi reddetti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0133",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0134",
+        "msgStr": "Duyduğuma göre kimseyle doğrudan konuşmayı kabul etmiyormuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0139",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0140",
+        "msgStr": "Elfman, Ryugu'da işe başlamamdan önceki gün bana bir hediye vermişti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0141",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0142",
+        "msgStr": "Bana bunun denizde güvenliği garanti eden bir uğur tılsımı olduğunu söylemişti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0143",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0144",
+        "msgStr": "Onu görürsen, bunu ona gösterip selamlarımı iletir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_23_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0147",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Anılar Yüzüğü<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_24_025",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0148",
+        "msgStr": "Çok güzel, şimdi o yüzüğü alalım ve Elfman'ı görmeye gidelim."
+      },
+      {
+        "msgID": "MAP04_E_L0149",
+        "msgStr": "Umarım Rasputin'in izini sürmenin bir yolunu buluruz."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_26_026",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0150",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0151",
+        "msgStr": "Elfman'ı yakınlardaki bir Katolik kilisesinde bulabilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0152",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0153",
+        "msgStr": "Oraya ulaşmak için bir tekneye ihtiyacın olacak ama oraya tüm ulaşım yasaklandı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_27_027",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0158",
+        "msgStr": "Yani suyun üzerinden geçmemiz gerekiyor ama tekne kullanamıyoruz..."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_28_028",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0159",
+        "msgStr": "Senin de aklından benim düşündüğüm iblis mi geçiyor?"
+      },
+      {
+        "msgID": "MAP04_E_L0160",
+        "msgStr": "Büyük Tarrasque'ı öner"
+      },
+      {
+        "msgID": "MAP04_E_L0161",
+        "msgStr": "Azumi'yi öner"
+      },
+      {
+        "msgID": "MAP04_E_L0162",
+        "msgStr": "Gouto'yu öner"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_29_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0163",
+        "msgStr": "> Raidou, Büyük Tarrasque'ı önerdi."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_30_030",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0164",
+        "msgStr": "Evet, bence Daidouji Malikanesi'nin altındaki o iblis tam aradığımız çözüm olabilir."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_31_031",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0165",
+        "msgStr": "Onun sırtına binersek suyu geçebiliriz."
+      },
+      {
+        "msgID": "MAP04_E_L0166",
+        "msgStr": "Bakalım o Büyük Tarrasque bize yardım etmeye yanaşacak mı."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_31_031_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0166_01",
+        "msgStr": "Bakalım o Büyük Tarrasque bize yardım etmeye yanaşacak mı."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_32_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0167",
+        "msgStr": "> Raidou, Azumi'yi önerdi."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_33_033",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0168",
+        "msgStr": "Azumi mi? Şey, su eğilimli bir iblis olduğu kesin ama bizi karşıya kadar taşıyacak kadar güçlü olduğunu sanmıyorum."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_34_034",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0169",
+        "msgStr": "Onun yerine, Daidouji Malikanesi'ndeki şu iblis işimizi görebilir; Büyük Tarrasque."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_34_034_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0169_01",
+        "msgStr": "Hayır, bence Daidouji Malikanesi'ndeki o iblis tam ihtiyacımız olan kişi; Büyük Tarrasque."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE09_35_035",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0170",
+        "msgStr": "Ben mi!? Aklını mı kaçırdın sen? İkimizin de boğulmasını mı istiyorsun?"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0171",
+        "msgStr": "> Bir hayalet, pişmanlıkla katılaşmış bir yüzle yere dik dik bakıyor."
+      },
+      {
+        "msgID": "MAP04_E_L0172",
+        "msgStr": "> Burada gömülü bir şey var gibi görünüyor..."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA00_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0173",
+        "msgStr": "> Kazıp çıkarılsın mı?"
+      },
+      {
+        "msgID": "MAP04_E_L0174",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP04_E_L0175",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA01_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0176",
+        "msgStr": "> Raidou kazmaya başladı."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA02_039",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0177",
+        "msgStr": "> Raidou bir iskelet ortaya çıkardı!"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA03_040",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0178",
+        "msgStr": "Bu sıradan bir defin işlemine benzemiyor."
+      },
+      {
+        "msgID": "MAP04_E_L0179",
+        "msgStr": "Raidou, neden bu ruhla konuşmayı denemiyoruz?"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA03_002_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0180",
+        "msgStr": "> Raidou hayaleti dinledi."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA04_042",
+        "msgStr": "Azap Çeken Ruh"
+      },
+      {
+        "msgID": "MAP04_E_L0181",
+        "msgStr": "Sesimi duyabilen ilk kişi sensin. Teşekkür ederim."
+      },
+      {
+        "msgID": "MAP04_E_L0181_01",
+        "msgStr": "Burası soğuk. Hem de çok soğuk..."
+      },
+      {
+        "msgID": "MAP04_E_L0181_02",
+        "msgStr": "Aah... Onu asla affetmeyeceğim..."
+      },
+      {
+        "msgID": "MAP04_E_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0183",
+        "msgStr": "Cinayete kurban gittim. Her şey o kadar hızlı oldu ki..."
+      },
+      {
+        "msgID": "MAP04_E_L0184",
+        "msgStr": "Ticaret işimi ele geçirmek için planları olduğunu söyledi."
+      },
+      {
+        "msgID": "MAP04_E_L0185",
+        "msgStr": "Benim yerime geçmek istiyordu..."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA09_043",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0186",
+        "msgStr": "Bu hayalet... Olamaz..."
+      },
+      {
+        "msgID": "MAP04_E_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0188",
+        "msgStr": "Raidou, bunun kim olduğunu biliyorsun, değil mi?"
+      },
+      {
+        "msgID": "MAP04_E_L0189",
+        "msgStr": "Bu Elfman."
+      },
+      {
+        "msgID": "MAP04_E_L0190",
+        "msgStr": "Bu Rasputin."
+      },
+      {
+        "msgID": "MAP04_E_L0191",
+        "msgStr": "Hiçbir fikrim yok."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA10_044",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0192",
+        "msgStr": "Evet, Elfman."
+      },
+      {
+        "msgID": "MAP04_E_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA11_045",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0194",
+        "msgStr": "Rasputin mi? O çoktan ölmedi mi? Gerçi tarih kitaplarına göre öldü sanırım."
+      },
+      {
+        "msgID": "MAP04_E_L0195",
+        "msgStr": "Hadi ama, şu yabancı tüccarı hatırlamıyor musun?"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA12_046",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0196",
+        "msgStr": "Bilmiyor musun!?"
+      },
+      {
+        "msgID": "MAP04_E_L0197",
+        "msgStr": "Hadi ama, hatırlamalısın! Şu yabancı tüccara ne dersin?"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA12_046_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0197_01",
+        "msgStr": "Evet, Elfman."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA13_047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA14_048",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0200",
+        "msgStr": "Peki gerçekten o olduğundan emin olmamızın bir yolu var mı? Belki ona gösterebileceğimiz bir şey vardır?"
+      },
+      {
+        "msgID": "MAP04_E_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0204",
+        "msgStr": "Anılar Yüzüğü'nü göster"
+      },
+      {
+        "msgID": "MAP04_E_L0205",
+        "msgStr": "Rhone Flütü'nü göster"
+      },
+      {
+        "msgID": "MAP04_E_L0206",
+        "msgStr": "Gouto'yu dinleme"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA15_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0207",
+        "msgStr": "> Raidou, Anılar Yüzüğü'nü uzattı."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA16_050",
+        "msgStr": "Azap Çeken Ruh"
+      },
+      {
+        "msgID": "MAP04_E_L0208",
+        "msgStr": "Aah, o yüzük! Ona verdiğim yüzük bu!"
+      },
+      {
+        "msgID": "MAP04_E_L0209",
+        "msgStr": "Harada'nın kız kardeşi... Bir veda hediyesiydi."
+      },
+      {
+        "msgID": "MAP04_E_L0210",
+        "msgStr": "Onu... nereden buldun?"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA17_051",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0211",
+        "msgStr": "...Söylemesi üzücü ama bu hayalet gerçekten de asıl Elfman gibi görünüyor."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA18_052",
+        "msgStr": "Azap Çeken Ruh"
+      },
+      {
+        "msgID": "MAP04_E_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0213",
+        "msgStr": "...O şu anda kilisede."
+      },
+      {
+        "msgID": "MAP04_E_L0214",
+        "msgStr": "Lütfen... ölümümün intikamını al..."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA20_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0215",
+        "msgStr": "> Hayalet sessizce ortadan kayboldu."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_01_TUIKA21_054",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0217",
+        "msgStr": "Raidou, hadi gidip şu sahtekâr Elfman'ı bulalım."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_25_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0218",
+        "msgStr": "> Raidou, Rhone Flütü'nü uzattı."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_26_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0219",
+        "msgStr": "> Ancak hayalet en ufak bir tepki bile vermedi."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_27_057",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0220",
+        "msgStr": "Raidou, şu an oyun oynamanın sırası değil."
+      },
+      {
+        "msgID": "MAP04_E_L0221",
+        "msgStr": "Gösterecek daha uygun bir şeyin olmalı."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_29_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0222",
+        "msgStr": "> Bir hayalet kederle iskelete bakıyor..."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE12_30_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0223",
+        "msgStr": "> Ona ne gösterilmeli?"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE13_01_060",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0224",
+        "msgStr": "Raidou. Zayıf da olsa burada birinin varlığını hissedebiliyorum..."
+      },
+      {
+        "msgID": "MAP04_E_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE14_01_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0226",
+        "msgStr": "> Günah çıkarma kabininden bir ses duyuluyor."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE14_02_062",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP04_E_L0227",
+        "msgStr": "...Soruşturma sorunsuz ilerliyor. Müsterih olun, bana verilen görevi yerine getireceğim."
+      },
+      {
+        "msgID": "MAP04_E_L0227_01",
+        "msgStr": "Taisho 20... Evet, bu dünya için tarih rotadan sapıyor gibi görünüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0228",
+        "msgStr": "Hâlâ bu anormalliğin yerini tam olarak saptamaya ve buna tam olarak neyin sebep olduğunu araştırmaya çalışıyorum."
+      },
+      {
+        "msgID": "MAP04_E_L0229",
+        "msgStr": "Evet, bana bırakın. Ne pahasına olursa olsun tarihin doğal akışına dönmesini sağlayacağım."
+      },
+      {
+        "msgID": "MAP04_E_L0230",
+        "msgStr": "...Hıh, gerçekten de bana söylenen her şeyi yapmamı bekliyorlar."
+      },
+      {
+        "msgID": "MAP04_E_L0231",
+        "msgStr": "Ben bir çeşit kukla değilim. Bu konuda kendi düşüncelerim var."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE14_05_063",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0232",
+        "msgStr": "İçeride biri var; hadi bir bakalım Raidou!"
+      },
+      {
+        "msgID": "MAP04_E_L0233",
+        "msgStr": "...Ne, boş mu!? Ama nasıl olur?"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE16_01_064",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP04_E_L0234",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0235",
+        "msgStr": "Öyleyse söyle bakalım. Seni buraya getiren nedir?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0236",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0237",
+        "msgStr": "Sanırım Bay Elfman'ı aramaya geldin?<lips_stop><WAIT>"
+      },
+      {
+        "msgID": "MAP04_E_L0238",
+        "msgStr": "Belki de öyle."
+      },
+      {
+        "msgID": "MAP04_E_L0239",
+        "msgStr": "Hiç de değil."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE16_03_065",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP04_E_L0240",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0241",
+        "msgStr": "Öyle mi dersin? Ama ikimizin de bildiği gibi, Bay Elfman artık bu dünyadan göçtü.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0242",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0243",
+        "msgStr": "Onun nüfuzunu ve servetini elde etmek istiyorsam onu devre dışı bırakmam gerekiyordu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0244",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0245",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0246",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0247",
+        "msgStr": "...Ah, bana öyle bakma.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0248",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0249",
+        "msgStr": "Ticaret işini büyütmek için onun hayal bile edemeyeceği şeyler yaptım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0252",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0253",
+        "msgStr": "Hahaha... Bana sormak istediğin başka bir şey daha vardı, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE16_10_066",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP04_E_L0254",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0255",
+        "msgStr": "Elbette hayır. Bana sormak istediğin başka bir şey daha vardı, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0256",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0257",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0258",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0259",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0260",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0261",
+        "msgStr": "Belki de varlıklı bir ailenin kızı hakkındadır?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0262",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0263",
+        "msgStr": "Kaya Daidouji... Onun da nerede olduğunu bilmek istiyorsundur herhalde.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0264",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0265",
+        "msgStr": "Kaya şu anda <COLOR 1>Kasumidai<COLOR 0>'de çalışıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0266",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0267",
+        "msgStr": "Anlayacağın, <COLOR 1>Süper Asker Projesi<COLOR 0>'ni tamamlaması gerekiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE16_10_066_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0267_01",
+        "msgStr": "Süper Asker Projesi mi...?"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE16_10_066_02",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP04_E_L0268",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0269",
+        "msgStr": "Aslına bakarsan ben de bunun bir parçasıyım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0270",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0271",
+        "msgStr": "...Çok fazla şey bilenleri ortadan kaldıracak güvenlik görevlisi olarak.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0272",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0273",
+        "msgStr": "Şunu özellikle belirteyim; bu kişisel bir mesele değil. Sadece kara listemizde yer alıyorsun!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0274",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0275",
+        "msgStr": "Anlayacağın, Kaya'yı arayışın her adımda planlarımızı bozuyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0277",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE18_01_067",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0278",
+        "msgStr": "Bu da ne demek oluyor!?"
+      },
+      {
+        "msgID": "MAP04_E_L0279",
+        "msgStr": "Bu Karanlık Çağırıcı bir tür mekanik kukla... Kim bu adam?"
+      },
+      {
+        "msgID": "MAP04_E_L0280",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0281",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_e_EPI04_OKAMI_01_068",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0282",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0283",
+        "msgStr": "Kusura bakma ama şu an başımdan aşkın işim var. Sana yardım edebileceğimi sanmıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0284",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0285",
+        "msgStr": "Umarım anlayışla karşılarsın, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_OKAMI_03_069",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0286",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0287",
+        "msgStr": "Dedektiflik Bürosu'na döneceğini bana söylemeliydin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0288",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0289",
+        "msgStr": "Narumi'ye veresiye hesabını unutmadığımı söylemeni isteyecektim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_OKAMI_05_070",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0290",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0291",
+        "msgStr": "Söylemesi üzücü ama... her şeyi kaybettik.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_OKAMI_07_071",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0292",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0293",
+        "msgStr": "Elfman'a seni benim gönderdiğimi söyle ve ona yüzüğü göster.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0294",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0295",
+        "msgStr": "Hafızası yerindeyse sana iyi davranacaktır.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_OKAMI_09_072",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0296",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0297",
+        "msgStr": "Elfman <IT_S>ne<IT_E> zamandır ölüymüş!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0298",
+        "msgStr": "<lips 32 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0299",
+        "msgStr": "O-O zaman kilisedeki kişi kim...?<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI04_KONNO_01_073",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "MAP04_E_L0300",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0301",
+        "msgStr": "Raidou! Sevkiyatımı kurtarmaya yardım etmelisin!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0302",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0303",
+        "msgStr": "O yüke bir şey olursa... Mahvolurum! Bu Konnou-ya'nın sonu olur!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0304",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0305",
+        "msgStr": "Sen en iyi müşterilerimden birisin, değil mi? İflas edersem ne yaparsın, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI05_TAE_01_074",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "MAP04_E_L0306",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0307",
+        "msgStr": "Ordu'nun güzel yuvası Kasumidai'ye doğru yoldayız.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0308",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0309",
+        "msgStr": "Burası Harumi-cho; Deniz Kuvvetleri Karargâhı. Kafa karıştırıcı, biliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0310",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0311",
+        "msgStr": "Vakit nakittir Raidou. Kafanı topla da kıpırdan biraz.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI06_KAYA_01_075",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP04_E_L0312",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0313",
+        "msgStr": "Aah, ne kadar hoş bir his...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0314",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0315",
+        "msgStr": "Açık bir günde okyanus öyle güzel ki. Esinti çok hoş geliyor...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0315_01",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0315_02",
+        "msgStr": "Mayom olsaydı seninle yüzmeye gitmek isterdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0316_01",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0316_02",
+        "msgStr": "Şey, <NAME2N 0>...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0316",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0317",
+        "msgStr": "Toplumda her şey senin adına kararlaştırılsaydı ne yapardın sence?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0318",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0319",
+        "msgStr": "İstediğini söyleyemeseydin ya da nerede yaşayacağın veya çalışacağın konusunda hiçbir seçme şansın olmasaydı, insanlar yine de mutlu bir hayat sürebilir miydi sence?\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI10_SCENE03_00_076",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0320",
+        "msgStr": "> Cehennem Piyonları ayrıldı."
+      },
+      {
+        "msgID": "map04_e_EPI10_SCENE03_01_077",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0321",
+        "msgStr": "Demek Munakata'nın iblisleri artık güpegündüz insanlara saldırıyor?"
+      },
+      {
+        "msgID": "MAP04_E_L0322",
+        "msgStr": "Askerler sadece birer insan. Cehennem Piyonları karşısında hiç şansları yok."
+      },
+      {
+        "msgID": "MAP04_E_L0323",
+        "msgStr": "Raidou, bakalım sağ kalanlardan neler öğrenebileceğiz."
+      },
+      {
+        "msgID": "map04_e_EPI10_SITAI_01_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0324",
+        "msgStr": "> Cehennem Piyonları ile savaşırken hayatını kaybetmiş..."
+      },
+      {
+        "msgID": "map04_e_EPI10_SCENE04_01_079",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0325",
+        "msgStr": "Raidou Kuzunoha! İyisin!"
+      },
+      {
+        "msgID": "MAP04_E_L0326",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0327",
+        "msgStr": "Waden One'a sızdıktan sonra seninle irtibatı kaybettik. Munakata'nın elinde can verdiğini varsaymıştık.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0328",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0329",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0330",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0331",
+        "msgStr": "Seni tekrar görmek içimi rahatlattı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0332",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0333",
+        "msgStr": "...Ne olduğunu mu bilmek istiyorsun? Şey, ben de seninle aynı durumdayım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0334",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0335",
+        "msgStr": "O Cehennem Piyonu denen canavarlar bizi pusuya düşürdü.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0336",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0337",
+        "msgStr": "Gerçekten de ölmek bilmediler... İçlerine ne kadar mermi boşaltırsak boşaltalım gelmeye devam ettiler.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0338",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0339",
+        "msgStr": "Karargâhı terk etmekten başka çaremiz kalmadı ve önemli kişileri korumak için geri çekildik.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0340",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0341",
+        "msgStr": "Endişelendim, bu yüzden bölgeyi taramak için geri geldim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0342",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0343",
+        "msgStr": "Neden buraya geldin? Bay Narumi'yi gördün mü?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0344",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0345",
+        "msgStr": "...Ah, görmedin demek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0346",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0347",
+        "msgStr": "Yakın zamanda seni sormak için uğramıştı. Seni arayacağını ve Munakata'nın peşine düşeceğini söyledi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0348",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0349",
+        "msgStr": "Sanırım Bay Narumi, Munakata Waden One'dan ayrıldıktan sonra onu takip etti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0350",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0351",
+        "msgStr": "Ama ondan sonra kendisine ne olduğunu bilmiyorum. Endişelenmeye başlıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI10_SCENE04_15_080",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0352",
+        "msgStr": "Görünüşe göre gerçekten tek başına gitmiş. Ne katıksız bir aptal."
+      },
+      {
+        "msgID": "MAP04_E_L0353",
+        "msgStr": "Raidou, Narumi'ye yardım etmeliyiz ama önce onu bulmamız gerekiyor."
+      },
+      {
+        "msgID": "MAP04_E_L0354",
+        "msgStr": "...Gel gör ki elimizde hiçbir ipucu yok."
+      },
+      {
+        "msgID": "MAP04_E_L0355",
+        "msgStr": "Hıh, büroda mutlaka bir şeyler vardır. Gerekirse oranın altını üstüne getiririz."
+      },
+      {
+        "msgID": "map04_e_EPI11_SCENE03_01_081",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0356",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0357",
+        "msgStr": "Raidou Kuzunoha! Burada neler oluyor böyle!?\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI11_SCENE03_02_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0358",
+        "msgStr": "> Raidou, Sadakichi'ye Süper Asker Projesi'ni açıkladı."
+      },
+      {
+        "msgID": "map04_e_EPI11_SCENE03_03_083",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0359",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0360",
+        "msgStr": "Demek Munakata'nın Süper Asker Projesi'yle neyi başarmaya çalıştığını nihayet öğrendik...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0361",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0362",
+        "msgStr": "O şeyi nasıl durduracağız peki...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0363",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0364",
+        "msgStr": "Ne? Sadece uyduyu yok etmemiz mi gerekiyor?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0365",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0366",
+        "msgStr": "Pekâlâ. Çok işe yarar mı bilmiyorum ama Deniz Kuvvetleri'nin topladığı tüm bilgileri paylaşacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI11_SCENE03_07_084",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0367",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>SS Projesi Raporu<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map04_e_EPI11_SCENE03_08_085",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0368",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0369",
+        "msgStr": "Bunun içinde Tai-itsu Uydusu ile ilgili ayrıntılar da olmalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0370",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0371",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_E_L0372",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0373",
+        "msgStr": "Gerçi dürüst olmak gerekirse bu konular beni biraz aşıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0374",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0375",
+        "msgStr": "O Ruhsuz Tanrı'yı durdurmak için ne gerekiyorsa yap Raidou!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0376",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0377",
+        "msgStr": "Lütfen Başkent'i koru!\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI10_SADA_01_086",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0378",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0379",
+        "msgStr": "4 Nolu Topçu Bataryası'ndaki telefon kulübesi artık işe yaramaz halde. Sen gizlice girdikten sonra Munakata onu devre dışı bıraktı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0380",
+        "msgStr": "Başka giriş var mı?"
+      },
+      {
+        "msgID": "MAP04_E_L0381",
+        "msgStr": "Narumi tuhaf davranıyor muydu?"
+      },
+      {
+        "msgID": "MAP04_E_L0382",
+        "msgStr": "İçeri girmemin bir yolunu bulacağım."
+      },
+      {
+        "msgID": "map04_e_EPI10_SADA_02_087",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0383",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0384",
+        "msgStr": "Tesis simetrik bir tasarıma sahip, bu yüzden içeri girmemin başka bir yolu olmalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0385",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0386",
+        "msgStr": "Ne yazık ki bunun dışında bir bilgim yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0387",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0388",
+        "msgStr": "Keşke içeride Munakata ile bağlantısı olan birini tanısaydık...\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI10_SADA_05_088",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0389",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0390",
+        "msgStr": "Bir süredir merak ediyorum... \"Narumi\" onun gerçek adı mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0391",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0392",
+        "msgStr": "Sadece... Bir zamanlar Ordu'da ona çok benzeyen birini tanıyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0393",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0394",
+        "msgStr": "Gerçi yanılıyor olmalıyım. Tanıdığım adamın bugün hayatta olması imkânsız.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI10_SADA_08_089",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0395",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0396",
+        "msgStr": "Belki bunu benim söylemem doğru değil ama...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0397",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0398",
+        "msgStr": "Umarım Bay Narumi güvendedir.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI10_SADA_10_090",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0399",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0400",
+        "msgStr": "Rasputin'in gizli bir girişi ağzından kaçırmasına şaşırdım...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0401",
+        "msgStr": "O aslında kim?"
+      },
+      {
+        "msgID": "MAP04_E_L0402",
+        "msgStr": "Ona güvenmekten başka çaremiz yok."
+      },
+      {
+        "msgID": "map04_e_EPI10_SADA_11_091",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0403",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0404",
+        "msgStr": "Zehirlendi, vuruldu, boğuldu... O yaşlı mistik bir düzine kez ölmüş olmalıydı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0405",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0406",
+        "msgStr": "Doğu Avrupalı olduğunu iddia ediyor, gerçi bu adı taşıyan tek kişinin öldüğü doğrulandı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0407",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0408",
+        "msgStr": "Munakata için casus olarak çalıştı; gözetleme ve ara sıra suikast işleri yaptı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0409",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0410",
+        "msgStr": "Ne yapacağı belli olmaz biri gibi görünüyor ama deliliğinin altında kesin bir yöntem var.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0411",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0412",
+        "msgStr": "Öğrenebildiğim tek şey bu, ancak okült işlerle de ilgisi olduğundan şüpheleniyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI10_SADA_16_092",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0413",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0414",
+        "msgStr": "Evet... Bu konuda haklısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0415",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0416",
+        "msgStr": "Yardımımızı teklif ederdim ama Deniz Kuvvetleri şu an biraz karışık durumda... Üzgünüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI11_SADA_01_093",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0417",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0418",
+        "msgStr": "Hortum, yangınlardaki tüm ısıyı tek bir noktaya çekerek atmosferi tutuşturdu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0419",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0420",
+        "msgStr": "Patlamanın etkisi Harumi-cho'yu sert vurdu!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0421",
+        "msgStr": "Durumun ne kadar kötü olduğunu sor"
+      },
+      {
+        "msgID": "MAP04_E_L0422",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "MAP04_E_L0423",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0424",
+        "msgStr": "Yapısal bir hasar olmadı ama bazı insanlar sıcak hava dalgası yüzünden hayatını kaybetti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0425",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0426",
+        "msgStr": "Tersanelerdeki durumu gördün mü?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0427",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0428",
+        "msgStr": "Kendimi cehennemin ortasına düşmüş gibi hissettim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0429",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0430",
+        "msgStr": "Böyle devam ederse Harumi-cho... hayır, tüm Başkent...\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI11_SADA_07_094",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0431",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0432",
+        "msgStr": "Güç kaynağını yok etmek mi? Sağlam bir plan.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0433",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0434",
+        "msgStr": "Sonsuz bir enerji kaynağına ihtiyacı var, aksi takdirde külüstür bir eski savaş gemisinden farksız.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI12_SADA_01_095",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP04_E_L0435",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0436",
+        "msgStr": "Tüm bu felaket, tek bir kişinin tarihi değiştirme arzusuyla başladı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0437",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0438",
+        "msgStr": "...Onun peşinden gidiyorsun, değil mi Raidou? Onu bulduğunda ne yapacaksın?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0439",
+        "msgStr": "Yenilmesi gerekiyor."
+      },
+      {
+        "msgID": "MAP04_E_L0440",
+        "msgStr": "Müvekkilimi kurtaracağım!"
+      },
+      {
+        "msgID": "MAP04_E_L0441",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0442",
+        "msgStr": "Tepeden tırnağa gerçek bir Raidou Kuzunoha'sın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0443",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0444",
+        "msgStr": "Ne kadar korkunç...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0445",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0446",
+        "msgStr": "Senin gibi genç bir adamın kana ve şiddete başvurmak zorunda kalacağını düşünmek...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0447",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0448",
+        "msgStr": "...Sonuçta suçlu olan biziz. Üzgünüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0449",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0450",
+        "msgStr": "İşte duymak istediğim şey buydu!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0451",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0452",
+        "msgStr": "Raidou Kuzunoha olabilirsin ama aynı zamanda hâlâ bir dedektifsin!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0453",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0454",
+        "msgStr": "Şimdi git ve ona gücünü göster; <IT_S>gerçek<IT_E> gücünü!\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI12_SCENE02_01_096",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP04_E_L0455",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0456",
+        "msgStr": "...Sonunda Sukuna-Hikona tam olarak peşinde olduğu şeyi elde etti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0457",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0458",
+        "msgStr": "Başkent'in yarısı yok oldu. Saldırıda kaç can kaybı yaşandığını bir tek Tanrı bilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0459",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0460",
+        "msgStr": "Ama Gouto ve iblisin sayesinde en azından tamamen yok olmadı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0461",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0462",
+        "msgStr": "Sen de hiç fena değildin hani, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0463",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0464",
+        "msgStr": "Herkese gerçekten minnettarım...\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI12_SCENE02_06_097",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP04_E_L0465",
+        "msgStr": "<lips 27 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0466",
+        "msgStr": "Sukuna-Hikona yenildi...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0467",
+        "msgStr": "<lips 27 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0468",
+        "msgStr": "Ve Ruhsuz Tanrı Omagatsu'yu da durdurmayı başardın.\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI12_SCENE02_08_098",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP04_E_L0469",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0470",
+        "msgStr": "<IT_S>N-Ne<IT_E>!? Bir tane daha mı!?\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI12_SCENE02_09_099",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP04_E_L0471",
+        "msgStr": "<lips 27 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0472",
+        "msgStr": "Ondördüncü Raidou Kuzunoha. Hıh, bula bula peşime düşecek sen mi kaldın...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0473",
+        "msgStr": "<lips 27 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0474",
+        "msgStr": "Ama Yasomagatsu elimde olduğu sürece İradem asla sönmeyecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0475",
+        "msgStr": "<lips 27 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0476",
+        "msgStr": "Ve şimdi son savaşımız vakti; tarihin akışını belirleyelim!\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_EPI12_SCENE02_12_100",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP04_E_L0477",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0478",
+        "msgStr": "Neler oluyor yahu? Şu iblis tarafından ele geçirilen kuş mu bu?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP04_E_L0479",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP04_E_L0480",
+        "msgStr": "Hem \"tarihin akışını belirlemek\" de neyin nesiydi?\n<lips_stop>"
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP04_01a_101",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0481",
+        "msgStr": "Yarai-ku'dan mı geldin? Uzun yolculuktu, değil mi?"
+      },
+      {
+        "msgID": "MAP04_E_L0482",
+        "msgStr": "Bu kadar yolu gelmişken Deniz Kuvvetleri Karargâhı'nı ziyaret etmemek yazık olur."
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP04_01b_102",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0483",
+        "msgStr": "Şuradaki tepeden yukarı çık, gözünden kaçması imkânsız."
+      },
+      {
+        "msgID": "MAP04_E_L0484",
+        "msgStr": "Bir keresinde suda yüzen ve o kadar feci parçalanmış bir ceset bulmuştuk ki bazılarımız sırf görünce bile kustu."
+      },
+      {
+        "msgID": "MAP04_E_L0485",
+        "msgStr": "Böyle bir vahşeti yapabilecek bir insan hayal bile edemiyorum... Hasar insan işi değildi."
+      },
+      {
+        "msgID": "MAP04_E_L0486",
+        "msgStr": "Özel sektörde patron Elfman'dır. Biri öldürülürse bizim yetki alanımıza girmez."
+      },
+      {
+        "msgID": "MAP04_E_L0487",
+        "msgStr": "Gerçi kendisi sadece bir tüccar değil mi? Yetkililerle nasıl bu kadar sıkı fıkı olabildi?"
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP05_01_103",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0488",
+        "msgStr": "Üzerimde bu üniforma varken Kasumidai'ye gitmesem iyi olur. Ordu, Deniz Kuvvetleri askerlerine pek sıcak bakmaz."
+      },
+      {
+        "msgID": "MAP04_E_L0489",
+        "msgStr": "Çok, çok uzun zaman önce iki kuvvet arasında başlayan bir kini hâlâ güdüyorlar."
+      },
+      {
+        "msgID": "MAP04_E_L0490",
+        "msgStr": "Ordu'nun kıdemlileri geçmişteki kinler yüzünden bizden hoşlanmıyor, bunu anlıyorum."
+      },
+      {
+        "msgID": "MAP04_E_L0491",
+        "msgStr": "Beni asıl tiksindiren şey, sırf kıdemlileri taklit etmek için aynı şekilde davranan astsubaylar!"
+      },
+      {
+        "msgID": "MAP04_E_L0492",
+        "msgStr": "General Munakata'nın çok zeki olduğu söylenir ve astlarının büyük güvenine sahiptir."
+      },
+      {
+        "msgID": "MAP04_E_L0493",
+        "msgStr": "Eylemlerin sözlerden daha etkili olduğuna inanan bir adam olduğunu söylüyorlar."
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP06_01_104",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0494",
+        "msgStr": "Popüler birine benziyorsun. Düzenli çıktığın biri var mı?"
+      },
+      {
+        "msgID": "MAP04_E_L0495",
+        "msgStr": "Fırsat bulursan çıktığın kızı buraya getir. Güzel, romantik bir yerdir."
+      },
+      {
+        "msgID": "MAP04_E_L0496",
+        "msgStr": "Bu senin sevgilin mi? Yok canım, utanıp sıkılmana gerek yok."
+      },
+      {
+        "msgID": "MAP04_E_L0497",
+        "msgStr": "Oldukça sevimliymiş. İtiraf etmeliyim ki biraz kıskandım."
+      },
+      {
+        "msgID": "MAP04_E_L0498",
+        "msgStr": "Bu senin sevgilin mi? Yanlış anlama ama o dik bakışları beni ürpertiyor."
+      },
+      {
+        "msgID": "MAP04_E_L0499",
+        "msgStr": "Onunla tartışmaktan kaçın. Damarına basarsan dünyayı başına yıkar; yüzünden belli oluyor."
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP07_01_105",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0500",
+        "msgStr": "Deniz Kuvvetleri şu an tam bir karmaşa içinde."
+      },
+      {
+        "msgID": "MAP04_E_L0501",
+        "msgStr": "Keşke sana daha fazlasını anlatabilseydim ama bu gizli bilgi."
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP08_01a_106",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0502",
+        "msgStr": "Waden One... Şey, kendi gözlerinle gör. Dağların oradaki şu kule."
+      },
+      {
+        "msgID": "MAP04_E_L0503",
+        "msgStr": "Oraya gitmen gerekiyorsa Deniz Kuvvetleri Karargâhı üzerinden çıkıp Sakuradayama'ya doğru ilerle."
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP10_01_107",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0504",
+        "msgStr": "K-Kırmızı üniformalı Özel Muhafızları gördüm... Buradalar, Harumi-cho'dalar..."
+      },
+      {
+        "msgID": "MAP04_E_L0505",
+        "msgStr": "Beni boş ver; siviller ne durumda? D-Deniz Kuvvetleri Karargâhı güvende mi?"
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP10_02_108",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0506",
+        "msgStr": "D-Demek Deniz Kuvvetleri Karargâhı..."
+      },
+      {
+        "msgID": "MAP04_E_L0507",
+        "msgStr": "Şey... En azından hiçbir sivil yaralanmadı ya da ölmedi."
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP10_03_109",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0508",
+        "msgStr": "Askerî bir lider nasıl olur da koruması gereken insanların pahasına güç peşinde koşar?"
+      },
+      {
+        "msgID": "MAP04_E_L0509",
+        "msgStr": "Gerçek bir asker böyle davranmaz. Munakata mesleği için bir yüz karası."
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP11_01_110",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0510",
+        "msgStr": "Önce kırmızı üniformalı Özel Muhafızlar saldırıyor, şimdi de bir canavar..."
+      },
+      {
+        "msgID": "MAP04_E_L0511",
+        "msgStr": "N-Ne pahasına olursa olsun Harumi-cho vatandaşlarını korumalıyız!"
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP11_02_111",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0512",
+        "msgStr": "Neyse ki o çılgın hortum silahının yeniden dolması zaman alıyor..."
+      },
+      {
+        "msgID": "MAP04_E_L0513",
+        "msgStr": "Arka arkaya kullanılabilseydi tüm Harumi-cho'yu, hatta belki tüm Koutou-ku'yu haritadan silerdi!"
+      },
+      {
+        "msgID": "map04_e_map04_npc01_Mkai_EP12_01_112",
+        "msgStr": "Cesur Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0514",
+        "msgStr": "Dinlenmeye vakit yok. O canavar her an tekrar ortaya çıkabilir."
+      },
+      {
+        "msgID": "MAP04_E_L0515",
+        "msgStr": "Gururumuzu bir kenara bırakıp Ordu'dan takviye istemek zorunda kalacağız."
+      },
+      {
+        "msgID": "MAP04_E_L0516",
+        "msgStr": "Artık aramızdaki anlaşmazlıkları bir kenara bırakma vakti geldiğini anlamalılar."
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_EP04_01_113",
+        "msgStr": "Cana Yakın Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0517",
+        "msgStr": "Deniz Kuvvetleri Karargâhı aslında o kadar da katı değildir."
+      },
+      {
+        "msgID": "MAP04_E_L0518",
+        "msgStr": "Taşkınlık yapmadığın sürece keyfine bakmakta özgürsün."
+      },
+      {
+        "msgID": "MAP04_E_L0519",
+        "msgStr": "Belgesiz burada yaşayan yabancılar mı? Vay canına... bu yasa dışı."
+      },
+      {
+        "msgID": "MAP04_E_L0520",
+        "msgStr": "Benden duymuş olma ama her yerde kaçak göçmenler var. Bu gerçek bir sorun."
+      },
+      {
+        "msgID": "MAP04_E_L0521",
+        "msgStr": "Sahte vize düzenliyorlar ama peşlerine düşecek fazladan adamımız yok."
+      },
+      {
+        "msgID": "MAP04_E_L0522",
+        "msgStr": "Oraya Katolik kilisesi diyorlar ama aslında aşağı yukarı Elfman'ın evi sayılır."
+      },
+      {
+        "msgID": "MAP04_E_L0523",
+        "msgStr": "Kendisi dışında kimsenin girmesine izin verilmiyor. Nasıl bir kilise bu böyle?"
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_EP05_01_114",
+        "msgStr": "Cana Yakın Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0524",
+        "msgStr": "Bir asker olarak bir sürü pis söylenti duyuyorum..."
+      },
+      {
+        "msgID": "MAP04_E_L0525",
+        "msgStr": "Belki de bunlar sivillerin kulağına göre değildir... Kusura bakma."
+      },
+      {
+        "msgID": "MAP04_E_L0526",
+        "msgStr": "Ordunun saflarında dudak uçuklatacak sayıda insan var. Muhtemelen bir tür operasyon planlıyorlar..."
+      },
+      {
+        "msgID": "MAP04_E_L0527",
+        "msgStr": "Belki de bunlar sivillerin kulağına göre değildir... Kusura bakma."
+      },
+      {
+        "msgID": "MAP04_E_L0528",
+        "msgStr": "Biliyor musun, sözde ülkeyi koruyan o savaş gemileri aslında işimize çok burnunu—"
+      },
+      {
+        "msgID": "MAP04_E_L0529",
+        "msgStr": "Belki de bunlar sivillerin kulağına göre değildir... Kusura bakma."
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_EP06_01_115",
+        "msgStr": "Cana Yakın Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0530",
+        "msgStr": "Katolik kilisesindeki aksiliklerden sonra Harumi-cho normale döndü."
+      },
+      {
+        "msgID": "MAP04_E_L0531",
+        "msgStr": "Sanırım yüzmeye gideceğim. Suyun üzerinde öylece süzülüp hiçbir şeyi dert etmeden..."
+      },
+      {
+        "msgID": "MAP04_E_L0532",
+        "msgStr": "Barış zamanı bir asker için epey sıkıcıdır. Yapacak hiçbir işimiz yok."
+      },
+      {
+        "msgID": "MAP04_E_L0533",
+        "msgStr": "Ama sırf biraz heyecan olsun diye barışımızı asla değişmem. İşimi kaybetmek anlamına gelse bile."
+      },
+      {
+        "msgID": "MAP04_E_L0534",
+        "msgStr": "Barış zamanı bir asker için epey sıkıcıdır. Yapacak hiçbir işimiz yok."
+      },
+      {
+        "msgID": "MAP04_E_L0535",
+        "msgStr": "Öte yandan, bir savaş çıkarsa koca şehirler yerle bir olabilir..."
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_EP07_01a_116",
+        "msgStr": "Cana Yakın Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0536",
+        "msgStr": "Sadakichi'nin Kasumidai'den gönderdiği raporu okudum. Yeraltındaki bir tersaneden bahsediyor."
+      },
+      {
+        "msgID": "MAP04_E_L0537",
+        "msgStr": "Ordu o eski, hurdaya çıkarılmış savaş gemileriyle ne yapıyor ki?"
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_EP08_01_117",
+        "msgStr": "Cana Yakın Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0538",
+        "msgStr": "Amiralimizi kurtarmak için kendi hayatını tehlikeye attın. Herkes böyle bir şey yapmazdı."
+      },
+      {
+        "msgID": "MAP04_E_L0539",
+        "msgStr": "Ben ve diğer çocuklar sana gerçekten minnettarız. Ülken için bir gurur kaynağısın."
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_EP10_01a_118",
+        "msgStr": "Cana Yakın Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0540",
+        "msgStr": "...S-Sadakichi'nin raporu... Hortlaklar ordusu..."
+      },
+      {
+        "msgID": "MAP04_E_L0541",
+        "msgStr": "M-Munakata'yı durdur... lütfen... M-Munakata'yı... durdurmalısın... Muna...ka..."
+      },
+      {
+        "msgID": "MAP04_E_L0542",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_EP10_02_119",
+        "msgStr": "Cana Yakın Denizci Asker"
+      },
+      {
+        "msgID": "MAP04_E_L0543",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP04_E_L0544",
+        "msgStr": "> Asker hayatını kaybetti."
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_EP11_01_120",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0545",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP04_E_L0546",
+        "msgStr": "> Asker hayatını kaybetti."
+      },
+      {
+        "msgID": "MAP04_E_L0547",
+        "msgStr": "> Karnına isabet eden kurşun ölümcül oldu..."
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_JYU00_121",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0548",
+        "msgStr": "> Cana yakın Denizci askerin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_JYU01_122",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0549",
+        "msgStr": "<COLOR 2>Diğer ülkelerden rüşvet kabul ettiğimiz o sefer vardı..."
+      },
+      {
+        "msgID": "MAP04_E_L0550",
+        "msgStr": "Vatandaşların bize duyduğu güvenin karşılığı bu olmamalı. Kendime asker demekten utandım...<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_JYU02_123",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0551",
+        "msgStr": "<COLOR 2>Kasumidai'de bir köstebeğimiz olduğunu duymuştum."
+      },
+      {
+        "msgID": "MAP04_E_L0552",
+        "msgStr": "Ama halkın bunu bilmesini beklemiyordum...<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc02_Mkai_JYU03_124",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0553",
+        "msgStr": "<COLOR 2>Sekiz savaş gemisi ve sekiz kruvazörün konuşlandırıldığını görmeyi umuyordum ama..."
+      },
+      {
+        "msgID": "MAP04_E_L0554",
+        "msgStr": "Savaş gemileri inşa etmek için vergileri artırmak halka ağır bir yük olurdu."
+      },
+      {
+        "msgID": "MAP04_E_L0555",
+        "msgStr": "Sonunda hükümet savaş gemilerini hurdaya çıkararak doğru kararı verdi.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP04_01a_125",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0556",
+        "msgStr": "Erkek arkadaşım ne kadar da uzun boylu ve ince yapılı, değil mi? O kadar havalı ki manken olabilir!"
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP04_01b_126",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0557",
+        "msgStr": "Sırf yanında durmak bile beni ilgi odağı yapıyor."
+      },
+      {
+        "msgID": "MAP04_E_L0558",
+        "msgStr": "Erkek arkadaşım tersane olayını duyunca şok oldu."
+      },
+      {
+        "msgID": "MAP04_E_L0559",
+        "msgStr": "Kelimelerin ağzında dolanışına bak. O kadar tatlı ki!"
+      },
+      {
+        "msgID": "MAP04_E_L0560",
+        "msgStr": "Erkek arkadaşım o tersane olayını hâlâ atlatamadı."
+      },
+      {
+        "msgID": "MAP04_E_L0561",
+        "msgStr": "Küçük bir çocuk gibi gözleri doluyor. Çok sevimliydi!"
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP05_01a_127",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0562",
+        "msgStr": "Evraksız bir yabancıyı suçüstü yakalamışlar."
+      },
+      {
+        "msgID": "MAP04_E_L0563",
+        "msgStr": "Erkek arkadaşım asla öyle bir şey yapmaz. Çünkü, şey, o benim erkek arkadaşım."
+      },
+      {
+        "msgID": "MAP04_E_L0564",
+        "msgStr": "Şu aynasızlar artık her yabancı hakkında en kötüsünü düşünüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0565",
+        "msgStr": "Benim erkeğim masum! Daha ne kadar açık olabilir ki? O benim erkek arkadaşım!"
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP06_01a_128",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0566",
+        "msgStr": "Biliyor musun, sen de oldukça sevimlisin ve bunu laf olsun diye söylemiyorum."
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP06_01b_129",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0567",
+        "msgStr": "Ama sıradan, basmakalıp yerli mallar yerine nadir ithal malları her zaman tercih ederim."
+      },
+      {
+        "msgID": "MAP04_E_L0568",
+        "msgStr": "Şu kız öğrenci oldukça hoş görünüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0569",
+        "msgStr": "Gerçi o yaşta herkes güzel görünür. Asıl sınav yaşlandığında başlar!"
+      },
+      {
+        "msgID": "MAP04_E_L0570",
+        "msgStr": "Erkek arkadaşım kaçamak bakışlarla o kız öğrenciyi süzüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0571",
+        "msgStr": "O kız seninle, değil mi? Ona söyle de benim erkeğim hakkında aklından bir şeyler geçirmesin."
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP07_01_130",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0572",
+        "msgStr": "Deniz Kuvvetleri askerleri son zamanlarda aralıksız nöbet tutuyor."
+      },
+      {
+        "msgID": "MAP04_E_L0573",
+        "msgStr": "Keşke çekip gitseler. Üniformaları güzelim okyanus manzarasını bozuyor."
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP08_01_131",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0574",
+        "msgStr": "Deniz Kuvvetleri sakinleşir sakinleşmez Ordu harekete geçmeye başladı."
+      },
+      {
+        "msgID": "MAP04_E_L0575",
+        "msgStr": "\"Ordu\" ne kadar da çirkin bir kelime... Onlar etraftayken güzelim okyanus manzarasının tadını çıkaramıyorum."
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP10_01_132",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0576",
+        "msgStr": "Hay aksi, elbisemde barut yanığı var!"
+      },
+      {
+        "msgID": "MAP04_E_L0577",
+        "msgStr": "Ordu bunun parasını bana ödese iyi olur! Üstüne bir de tazminat!"
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP10_02_133",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0578",
+        "msgStr": "Bütün bu karmaşa Ordu'nun suçu mu? Askeriye kontrolden çıktı!"
+      },
+      {
+        "msgID": "MAP04_E_L0579",
+        "msgStr": "Bu konuda yerel milletvekilime yazacağım!"
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP11_01_134",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0580",
+        "msgStr": "N-Neler oluyor!? Ben... Ben onun İtalyalı olduğunu sanıyordum..."
+      },
+      {
+        "msgID": "MAP04_E_L0581",
+        "msgStr": "Ama bu doğruysa... o zaman Japoncası neden bu kadar iyi?"
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP11_02a_135",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0582",
+        "msgStr": "Erkek arkadaşım bir harika! İtalyan olmasına rağmen natto yiyebiliyor!"
+      },
+      {
+        "msgID": "MAP04_E_L0583",
+        "msgStr": "...Dur bir saniye. O İtalyan falan değil! O da bir Japon!"
+      },
+      {
+        "msgID": "map04_e_map04_npc03_Fkim_EP12_01_136",
+        "msgStr": "Gururlu Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0584",
+        "msgStr": "Bunca zamandır yabancı olduğu konusunda bana yalan söylediği için epey kızgınım ama..."
+      },
+      {
+        "msgID": "MAP04_E_L0585",
+        "msgStr": "Birlikte güzel zamanlarımız oldu, hem asıl önemli olan da bu değil mi?"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP04_01_137",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0586",
+        "msgStr": "Ben üzgün... Ben unutuyor... düzgün konuşmak."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP04_02_138",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0587",
+        "msgStr": "Ben... kaçmalı? Her şey... yo... lunda?"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP04_03_139",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0588",
+        "msgStr": "Yabancı için... şimdi... güvenli?"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP05_01_140",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0589",
+        "msgStr": "Japonya polis... korkunç... Korkunç."
+      },
+      {
+        "msgID": "MAP04_E_L0590",
+        "msgStr": "B-Benim ülke... iyi yer. Ben de... iyi insan."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP06_01_141",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0591",
+        "msgStr": "Benim mem...leket? Şey, ben... dur bir... düşüneyim."
+      },
+      {
+        "msgID": "MAP04_E_L0592",
+        "msgStr": "B-Ben... unuttu."
+      },
+      {
+        "msgID": "MAP04_E_L0593",
+        "msgStr": "O... senin kız arkadaş?"
+      },
+      {
+        "msgID": "MAP04_E_L0594",
+        "msgStr": "Ben asla... H-Hayır, o çok... sevimli."
+      },
+      {
+        "msgID": "MAP04_E_L0595",
+        "msgStr": "...Vay anasını! Şu kız öğren—"
+      },
+      {
+        "msgID": "MAP04_E_L0596",
+        "msgStr": "Ah, şey... Ben bir şey... demiyor."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP07_01a_142",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0597",
+        "msgStr": "İşler gittikçe daha da kötüye gidi—"
+      },
+      {
+        "msgID": "MAP04_E_L0598",
+        "msgStr": "Ah, şey... Umarım Denizci adamlar... iyi."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP08_01a_143",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0599",
+        "msgStr": "Vay canına, dışarıda işler fena karışıyor—"
+      },
+      {
+        "msgID": "MAP04_E_L0600",
+        "msgStr": "Ah, şey... Umarım Ordu adamlar... iyi."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP10_01_144",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0601",
+        "msgStr": "S-Sıradaki... Sıradaki hedef ne olacak...?"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP10_02_145",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0602",
+        "msgStr": "Ordu bundan sonra yabancıların peşine düşmez... Değil mi?"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP11_01a_146",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0603",
+        "msgStr": "O-Olamaz! Buradan defolup gitmeliyiz!"
+      },
+      {
+        "msgID": "MAP04_E_L0604",
+        "msgStr": "Ama <IT_S>o kadar<IT_E> büyük bir makinenin bize ulaşamayacağı nereye gidebiliriz ki!?"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP11_02_147",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0605",
+        "msgStr": "O-Olamaz! Buradan defolup gitmeliyiz!"
+      },
+      {
+        "msgID": "MAP04_E_L0606",
+        "msgStr": "Olabildiğince uzağa ve olabildiğince hızlı kaçmalıyız!"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP12_01_148",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0607",
+        "msgStr": "Ben... Uzun boyluyum ve alışılmadık bir yüzüm var. Sürekli yabancı sanılıyorum."
+      },
+      {
+        "msgID": "MAP04_E_L0608",
+        "msgStr": "Yabancılar buralarda çok popüler, ben de küçük bir beyaz yalan söyledim..."
+      },
+      {
+        "msgID": "MAP04_E_L0609",
+        "msgStr": "Peki şimdi ne olacak?"
+      },
+      {
+        "msgID": "MAP04_E_L0610",
+        "msgStr": "Tabanları yağlasan iyi olur."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP12_01_ans0_149",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0611",
+        "msgStr": "Dişimi sıkıp özür dileyeceğim. Beni affetmesi için her şeyi yaparım."
+      },
+      {
+        "msgID": "MAP04_E_L0612",
+        "msgStr": "Ve eğer affederse... Onunla ciddi bir ilişkiye başlamaya karar verdim."
+      },
+      {
+        "msgID": "MAP04_E_L0613",
+        "msgStr": "Bu hatun çok saf... Bir daha böyle palavralara kanmadığından emin olsam iyi olur."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP12_01_ans1_150",
+        "msgStr": "Yakışıklı Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0614",
+        "msgStr": "Evet, haklısın. Tüymem en iyisi olacak."
+      },
+      {
+        "msgID": "MAP04_E_L0615",
+        "msgStr": "Buradan gideceğim... ama onsuz bir yere ayrılmam."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP10_h00_151",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0616",
+        "msgStr": "> Yakışıklı adamın düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP04_h01_152",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0617",
+        "msgStr": "<COLOR 2>Ne enayi ama. Başkent'teki insanlar yabancılara doyamıyor."
+      },
+      {
+        "msgID": "MAP04_E_L0618",
+        "msgStr": "Yeni bir takım elbiseye ihtiyacım var ve bu hatun tam aradığım fırsat.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP04_h02_153",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0619",
+        "msgStr": "<COLOR 2>Kendini ne sanıyor da benim hakkımda böyle konuşuyor!? Hıh, şimdilik sineye çekeceğim..."
+      },
+      {
+        "msgID": "MAP04_E_L0620",
+        "msgStr": "Bir dahaki sefere bana büyük paralar harcamasını sağlayacağım. Belki bir otomobil falan aldırırım.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP04_h03_154",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0621",
+        "msgStr": "<COLOR 2>Hop, bu kadar çok esnememeliyim. Gerçi sıkılmaktan ziyade karnım aç. Hesabı ona ödeteceğim."
+      },
+      {
+        "msgID": "MAP04_E_L0622",
+        "msgStr": "Sürekli makarna yemekten içim dışım makarna oldu. Bir dahaki sefere biraz miso çorbası \"denemek\" için ısrar etmeliyim.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP05_h01_155",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0623",
+        "msgStr": "<COLOR 2>Eyvah, şu dedektif beni gömleğimin yakasından tutup kaldırdı!"
+      },
+      {
+        "msgID": "MAP04_E_L0624",
+        "msgStr": "Bu hatun araya girmeseydi başım fena derde girebilirdi!<COLOR 0>"
+      },
+      {
+        "msgID": "MAP04_E_L0625",
+        "msgStr": "<COLOR 2>Yabancılar Harumi-cho'da çok fazla dikkat çekiyor."
+      },
+      {
+        "msgID": "MAP04_E_L0626",
+        "msgStr": "Belki de daha az göze çarpmaya çalışmalıyım...<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP06_h01_156",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0627",
+        "msgStr": "<COLOR 2>Bu hatunun bir erkekte umursadığı tek şey yabancı olup olmadığı."
+      },
+      {
+        "msgID": "MAP04_E_L0628",
+        "msgStr": "Onun için sadece bir oyuncağım... gerçi benim de ondan aşağı kalır yanım yok.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP04_E_L0629",
+        "msgStr": "<COLOR 2>Şu kız öğrenci muhtemelen sırf yabancıları kesmek için Harumi-cho'ya gelmiştir."
+      },
+      {
+        "msgID": "MAP04_E_L0630",
+        "msgStr": "Son dakika haberi: İnsanlar sadece dış görünüşten ibaret değildir!<COLOR 0>"
+      },
+      {
+        "msgID": "MAP04_E_L0631",
+        "msgStr": "<COLOR 2>Bu da ne böyle? Şu kız öğrenci işaretleri anlayamıyor mu? Sana kur yapıyorum şapşal!"
+      },
+      {
+        "msgID": "MAP04_E_L0632",
+        "msgStr": "Bana bakmıyor bile! Hey! Yakışıklı çocuk bu tarafta!<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP07_h01_157",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0633",
+        "msgStr": "<COLOR 2>Ha? Tüm kaçak göçmenleri topluyorlar mı?"
+      },
+      {
+        "msgID": "MAP04_E_L0634",
+        "msgStr": "Ah dostum, bu sorun olabilir. Sadece dikkat çekmemeye çalışmalıyım.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP08_h01_158",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0635",
+        "msgStr": "<COLOR 2>Göçmen avına ordu da mı dahil olmuş?"
+      },
+      {
+        "msgID": "MAP04_E_L0636",
+        "msgStr": "B-Benimle hiçbir ilgisi yok! Ne yapacağım ben?<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP10_h01_159",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0637",
+        "msgStr": "<COLOR 2>D-Deniz Kuvvetleri ile işleri bittiğinde... sıradaki hedefleri kaçak göçmenler olacak!"
+      },
+      {
+        "msgID": "MAP04_E_L0638",
+        "msgStr": "Beni yabancı sanırlarsa hiç komik olmaz! Ben Japon'um, kahretsin!<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc04_Mgai01_EP10_h02_160",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0639",
+        "msgStr": "<COLOR 2>D-Deniz Kuvvetleri ile işleri bittiğinde... sıradaki hedefleri kaçak göçmenler olacak!"
+      },
+      {
+        "msgID": "MAP04_E_L0640",
+        "msgStr": "Beni yabancı sanırlarsa hiç komik olmaz! Ben tam burada, Başkent'te doğdum!<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP04_01_161",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0641",
+        "msgStr": "Az önce Hara—ah, doğru ya, o artık Ryugu'nun sahibi."
+      },
+      {
+        "msgID": "MAP04_E_L0642",
+        "msgStr": "Her zamanki gibi muhteşem görünerek iskeleye doğru yürüyordu."
+      },
+      {
+        "msgID": "MAP04_E_L0643",
+        "msgStr": "Son zamanlardaki tüm bu talihsiz olaylar bu bölgenin adını kötüye çıkardı."
+      },
+      {
+        "msgID": "MAP04_E_L0644",
+        "msgStr": "Bundan sonra geceleri dolaşırken dikkatli olsam iyi olur."
+      },
+      {
+        "msgID": "MAP04_E_L0645",
+        "msgStr": "İskeledeki bütün bu gürültü patırtı da neyin nesi?"
+      },
+      {
+        "msgID": "MAP04_E_L0646",
+        "msgStr": "Birdenbire her yer çok sessizleşti."
+      },
+      {
+        "msgID": "MAP04_E_L0647",
+        "msgStr": "Bütün bu sessizlik... *esner*... uykumu getiriyor."
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP05_01_162",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0648",
+        "msgStr": "Kasumidai şu sıralar epey gergin. Tüm Akasaka-ku diken üstünde."
+      },
+      {
+        "msgID": "MAP04_E_L0649",
+        "msgStr": "Yanındaki bir kız ortadan mı kayboldu? Ah, Kasumidai'de mi oldu?"
+      },
+      {
+        "msgID": "MAP04_E_L0650",
+        "msgStr": "Bu çok korkunç... Akasaka-ku'nun yakınından bile geçmemek için bir sebep daha."
+      },
+      {
+        "msgID": "MAP04_E_L0651",
+        "msgStr": "Ordu böyle ölümcül silahlar yapmak için neden bu kadar çok paraya ihtiyaç duyuyor ki?"
+      },
+      {
+        "msgID": "MAP04_E_L0652",
+        "msgStr": "Bütün o kaynakları savaşmak için değil, savaşları önlemenin yollarını bulmak için harcamalılar."
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP06_01_163",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0653",
+        "msgStr": "Bugün ne kadar da güzel ve huzurlu bir gün..."
+      },
+      {
+        "msgID": "MAP04_E_L0654",
+        "msgStr": "Şu Deniz Kuvvetleri askerleri bugün izin alıp dinlenmeli. Böyle günlerin tadını çıkarmak iyidir."
+      },
+      {
+        "msgID": "MAP04_E_L0655",
+        "msgStr": "Bana sorarsan şu Deniz Kuvvetleri askerlerinin bolca boş vakti var."
+      },
+      {
+        "msgID": "MAP04_E_L0656",
+        "msgStr": "Bugünkü gibi güzel bir günde ne olabilir ki? Rahatlayıp günün tadını çıkarmalılar."
+      },
+      {
+        "msgID": "MAP04_E_L0657",
+        "msgStr": "Harumi-cho bu kadar huzurlu olduğu için şu Deniz Kuvvetleri askerleri huysuzlanmaya başladı."
+      },
+      {
+        "msgID": "MAP04_E_L0658",
+        "msgStr": "Ama zor bir hayat sürüyorlar. Bir molayı hak ediyorlar."
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP07_01_164",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0659",
+        "msgStr": "Deniz Kuvvetleri Karargâhı'ndan gelen bütün bu gürültü patırtı da neyin nesi?"
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP08_01_165",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0660",
+        "msgStr": "Sakuradayama'dan gelen bütün bu gürültü patırtı da neyin nesi?"
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP10_01_166",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0661",
+        "msgStr": "O-O Denizci asker canı pahasına beni korudu..."
+      },
+      {
+        "msgID": "MAP04_E_L0662",
+        "msgStr": "Ama... o kırmızılı Özel Muhafızlar da neyin nesiydi öyle!?"
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP10_02_167",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0663",
+        "msgStr": "Kırmızı üniformalı Özel Muhafız ve az önce gördüğüm o ışık topu..."
+      },
+      {
+        "msgID": "MAP04_E_L0664",
+        "msgStr": "Harumi-cho'da neler oluyor? B-Bizim halimiz ne olacak?"
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP11_01_168",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0665",
+        "msgStr": "Buradan bile o sıcaklığı hissedebildim."
+      },
+      {
+        "msgID": "MAP04_E_L0666",
+        "msgStr": "Umarım okyanus kenarındaki insanlar iyidir..."
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP11_02_169",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0667",
+        "msgStr": "O canavar korkunç bir savaş çığırtkanının eseri olmalı."
+      },
+      {
+        "msgID": "MAP04_E_L0668",
+        "msgStr": "Savaş çıkarmak istiyorlarsa gidip başka bir yerde çıkarsınlar!"
+      },
+      {
+        "msgID": "map04_e_map04_npc05_Fold_EP12_01_170",
+        "msgStr": "Gezinen Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0669",
+        "msgStr": "O cesur Deniz Kuvvetleri askerlerine ayak bağı olamam..."
+      },
+      {
+        "msgID": "MAP04_E_L0670",
+        "msgStr": "Ben başımın çaresine bakabilirim! Hiçbir canavardan korkmuyorum!"
+      },
+      {
+        "msgID": "map04_e_map04_npc06_Mhra_EP04_01_171",
+        "msgStr": "Ateşli Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0671",
+        "msgStr": "Şu yabancılar dışarıdan gelmiş olabilir ama yüksek sesleri ve tavır sorunları onları çekilmez kılıyor."
+      },
+      {
+        "msgID": "MAP04_E_L0672",
+        "msgStr": "Ryugu'nun sahibinin önünde bir şey yapmam ama... o heriflere katlanamıyorum."
+      },
+      {
+        "msgID": "MAP04_E_L0673",
+        "msgStr": "Yüklere kim saldırıyorsa sadece bizim gemilerimizi hedef alıyor, yabancı gemilere hiç dokunmuyor."
+      },
+      {
+        "msgID": "MAP04_E_L0674",
+        "msgStr": "Şüpheli, değil mi? Sence bütün bunların arkasında kim var?"
+      },
+      {
+        "msgID": "MAP04_E_L0675",
+        "msgStr": "Düşünüyorum da, elimizde en ufak bir kanıt bile yokken o yabancıların suçlu olduğunu varsaydım..."
+      },
+      {
+        "msgID": "MAP04_E_L0676",
+        "msgStr": "Utanç verici bir şey. Benim gibi bir Başkent tüccarı o insanlara karşı nazik olmalı."
+      },
+      {
+        "msgID": "map04_e_map04_npc06_Mhra_EP05_01_172",
+        "msgStr": "Ateşli Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0677",
+        "msgStr": "O saldırılar sona erdiğinden beri işler çok açıldı ve yabancılarla da harika anlaşıyorum."
+      },
+      {
+        "msgID": "MAP04_E_L0678",
+        "msgStr": "Ryugu'nun sahibi de bize göz kulak oluyor, yani Harumi-cho'da her şey tıkırında."
+      },
+      {
+        "msgID": "map04_e_map04_npc06_Mhra_EP06_01_173",
+        "msgStr": "Ateşli Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0679",
+        "msgStr": "İnanılmazdı! Ne gördüğümü asla tahmin edemezsin!"
+      },
+      {
+        "msgID": "MAP04_E_L0680",
+        "msgStr": "Ne gördüğünü sor"
+      },
+      {
+        "msgID": "MAP04_E_L0681",
+        "msgStr": "Gülümse ve onu görmezden gel"
+      },
+      {
+        "msgID": "MAP04_E_L0682",
+        "msgStr": "Dev bir kaplumbağanın sırtına binmiş genç bir adam! Seninki gibi bir pelerin giyiyordu."
+      },
+      {
+        "msgID": "MAP04_E_L0683",
+        "msgStr": "Ciddiyim! O kaplumbağaya kendi yatıymış gibi biniyordu!"
+      },
+      {
+        "msgID": "MAP04_E_L0684",
+        "msgStr": "Evet, tabii, gül bakalım. Kimse beni ciddiye almıyor..."
+      },
+      {
+        "msgID": "MAP04_E_L0685",
+        "msgStr": "İnanılmazdı! Ne gördüğümü asla tahmin edemezsin!"
+      },
+      {
+        "msgID": "MAP04_E_L0686",
+        "msgStr": "Ne gördüğünü sor"
+      },
+      {
+        "msgID": "MAP04_E_L0687",
+        "msgStr": "Gülümse ve onu görmezden gel"
+      },
+      {
+        "msgID": "MAP04_E_L0688",
+        "msgStr": "Dev kaplumbağanın üzerindeki o genç adam bir kız taşıyordu..."
+      },
+      {
+        "msgID": "MAP04_E_L0689",
+        "msgStr": "Daha önce gördüğüm hanımefendi gibi bordo kıyafetler giyiyordu."
+      },
+      {
+        "msgID": "MAP04_E_L0690",
+        "msgStr": "Evet, tabii, gül bakalım. Kimse beni ciddiye almıyor..."
+      },
+      {
+        "msgID": "MAP04_E_L0691",
+        "msgStr": "İnanılmazdı! Ne gördüğümü asla tahmin edemezsin!"
+      },
+      {
+        "msgID": "MAP04_E_L0692",
+        "msgStr": "Ne gördüğünü sor"
+      },
+      {
+        "msgID": "MAP04_E_L0693",
+        "msgStr": "Gülümse ve onu görmezden gel"
+      },
+      {
+        "msgID": "MAP04_E_L0694",
+        "msgStr": "Kaplumbağanın üzerindeki adam, bordo kıyafetli kadını taşıyordu..."
+      },
+      {
+        "msgID": "MAP04_E_L0695",
+        "msgStr": "Bir tür insanüstü varlık olmalı! Ve o hanımefendiyi... mutlak bir ölümden kurtardı!"
+      },
+      {
+        "msgID": "MAP04_E_L0696",
+        "msgStr": "Evet, tabii, gül bakalım. Kimse beni ciddiye almıyor..."
+      },
+      {
+        "msgID": "map04_e_map04_npc06_Mhra_EP07_01_174",
+        "msgStr": "Ateşli Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0697",
+        "msgStr": "Deniz Kuvvetleri askerleri can sıkıntısından patlayacak gibi görünüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0698",
+        "msgStr": "Tabii bugünlerde Harumi-cho civarı sakin ama biraz durup hayatın tadını çıkarmalılar!"
+      },
+      {
+        "msgID": "map04_e_map04_npc06_Mhra_EP08_01_175",
+        "msgStr": "Ateşli Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0699",
+        "msgStr": "Ordu, Akasaka-ku'dan Sakuradayama'ya doğru yürüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0700",
+        "msgStr": "Bir casus meselesiymiş... Sanki Ordu'nun harekete geçmek için bahaneye ihtiyacı varmış gibi."
+      },
+      {
+        "msgID": "map04_e_map04_npc06_Mhra_EP10_01_176",
+        "msgStr": "Ateşli Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0701",
+        "msgStr": "Kırmızı üniformalı o Özel Muhafızlar Deniz Kuvvetleri'nin peşindeydi, bu yüzden biz ucuz kurtulduk."
+      },
+      {
+        "msgID": "MAP04_E_L0702",
+        "msgStr": "Ama her an gelmesi beklenen gemiler için endişeleniyorum. Harumi-cho ziyaretçi ağırlayacak durumda değil."
+      },
+      {
+        "msgID": "map04_e_map04_npc06_Mhra_EP10_02_177",
+        "msgStr": "Ateşli Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0703",
+        "msgStr": "Fırlattıkları o top buralarda bir yere düşmese iyi olur."
+      },
+      {
+        "msgID": "MAP04_E_L0704",
+        "msgStr": "Ama her an gelmesi beklenen gemiler için endişeleniyorum. Harumi-cho ziyaretçi ağırlayacak durumda değil."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP04_01_178",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0705",
+        "msgStr": "Şu çitin arkasındaki yer özel mülktür. İzinsiz girilmez."
+      },
+      {
+        "msgID": "MAP04_E_L0706",
+        "msgStr": "Etrafı suyla çevrili, yani zaten içeri giremezsin."
+      },
+      {
+        "msgID": "MAP04_E_L0707",
+        "msgStr": "Şu çitin arkasındaki yer özel mülktür. Oradaki o koca görüntü kirliliği ise Katolik kilisesi."
+      },
+      {
+        "msgID": "MAP04_E_L0708",
+        "msgStr": "O kahrolası şey bütün güneş ışığını kesiyor. Bu yüzden her sabah kasvetli geçiyor."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP05_01_179",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0709",
+        "msgStr": "Şu çitin arkasındaki yer özel mülktür. Gerçi sahibi vefat etti..."
+      },
+      {
+        "msgID": "MAP04_E_L0710",
+        "msgStr": "Keşke mirasçıları o devasa kiliseyi yıksa. Çamaşırlarımın kuruması asırlar sürüyor."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP06_01_180",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0711",
+        "msgStr": "Her şey sakinleşmiş gibi görünüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0712",
+        "msgStr": "Peki ya çamaşırlarım ne olacak!? O kilise hâlâ bütün güneş ışığını kapatıyor!"
+      },
+      {
+        "msgID": "MAP04_E_L0713",
+        "msgStr": "Çamaşırlarımı evin içine asamam! Tamamen kurumuyorlar!"
+      },
+      {
+        "msgID": "MAP04_E_L0714",
+        "msgStr": "O kilise ayakta kaldığı sürece buralarda huzur olmayacak!"
+      },
+      {
+        "msgID": "MAP04_E_L0715",
+        "msgStr": "Dün kullandığım banyo havlusu önceki günden hâlâ ıslaktı!"
+      },
+      {
+        "msgID": "MAP04_E_L0716",
+        "msgStr": "Birisi, herhangi biri, şu beş para etmez kiliseden kurtulsun artık!"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP07_01_181",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0717",
+        "msgStr": "O ucube şey çamaşırlarımın kurumasını engelliyor! Hâlâ nemliler!"
+      },
+      {
+        "msgID": "MAP04_E_L0718",
+        "msgStr": "Yıkın şu berbat kiliseyi! Çamaşırlarımı kurutmam lazım!"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP08_01_182",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0719",
+        "msgStr": "Sakuradayama'daki bir tapınağa gidip dua ettim."
+      },
+      {
+        "msgID": "MAP04_E_L0720",
+        "msgStr": "Umarım bu sayede o kilise yıkılır da evim biraz güneş ışığı görür."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP10_01_183",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0721",
+        "msgStr": "Deniz Kuvvetleri Karargâhı'nı değil, o kiliseyi yıkmalıydılar!"
+      },
+      {
+        "msgID": "MAP04_E_L0722",
+        "msgStr": "Lütfen çamaşırlarımı kurtar! Beni bu rutubetten kurtar!"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP10_02_184",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0723",
+        "msgStr": "Uzaya parlak bir top fırlatabildilerse kıytırık bir kiliseyi yıkamazlar mıydı yani!?"
+      },
+      {
+        "msgID": "MAP04_E_L0724",
+        "msgStr": "Bir kere de şu silah bütçesini işe yarar bir şeye harcayın!"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP11_01_185",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0725",
+        "msgStr": "O yoğun sıcaklık sonunda çamaşırlarımı kuruttu!"
+      },
+      {
+        "msgID": "MAP04_E_L0726",
+        "msgStr": "Ama üzerleri toz ve is oldu... Şimdi her şeyi baştan yıkamam gerekiyor!"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP11_02_186",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0727",
+        "msgStr": "Sen! O canavarın daha fazla sıcak hava dalgası yaymasını durdur!"
+      },
+      {
+        "msgID": "MAP04_E_L0728",
+        "msgStr": "Havlularımı kuruttu ama şimdi leş gibi oldular! Nemli kalmalarını tercih ederdim!"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP12_01_187",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0729",
+        "msgStr": "Bana kalırsa o canavar başımın üstünde yeri var! Hâlâ o kiliseyi yıkmasını umuyorum."
+      },
+      {
+        "msgID": "MAP04_E_L0730",
+        "msgStr": "Yeter ki çamaşırlarımın üzerine daha fazla sıcak rüzgâr üflemesin!"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_SUI00_188",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0731",
+        "msgStr": "> Tombul çamaşırcı kadın sakinleşti."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP06_SUI01_189",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0732",
+        "msgStr": "Neyse, yakın zamanda yağmur yağacağa benzemiyor, bu yüzden biraz daha dışarıda bırakabilirim."
+      },
+      {
+        "msgID": "MAP04_E_L0733",
+        "msgStr": "Çamaşırlar için kendimi bu kadar yıpratmamalıyım, yoksa kırışıklarım artacak."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP06_SUI02_190",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0734",
+        "msgStr": "Kuruduğu sürece çamaşırların nerede asılı olduğunun pek bir önemi yok."
+      },
+      {
+        "msgID": "MAP04_E_L0735",
+        "msgStr": "Çamaşırlar için kendimi bu kadar yıpratmamalıyım, yoksa kırışıklarım artacak."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP06_SUI03_191",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0736",
+        "msgStr": "Aman canım, aynı havluyu iki gün üst üste kullanmak beni öldürmez ya."
+      },
+      {
+        "msgID": "MAP04_E_L0737",
+        "msgStr": "Çamaşırlar için kendimi bu kadar yıpratmamalıyım, yoksa kırışıklarım artacak."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP07_SUI01_192",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0738",
+        "msgStr": "Ev hanımlarının izin günü olmaz."
+      },
+      {
+        "msgID": "MAP04_E_L0739",
+        "msgStr": "İtiraf ediyorum, vaktimi çamaşırlardan yakınmak yerine daha iyi değerlendirebileceğim yollar var."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP08_SUI01_193",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0740",
+        "msgStr": "O kilise yıkılsaydı muhtemelen her yer toz ve moloz içinde kalırdı..."
+      },
+      {
+        "msgID": "MAP04_E_L0741",
+        "msgStr": "Kesin bir kısmı çamaşırlarımın üzerine dökülürdü, o zaman ne yapardım?"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP10_SUI01_194",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0742",
+        "msgStr": "Sırf çamaşırlar yüzünden bir başkasından böylesine devasa bir işi başarmasını isteyemem."
+      },
+      {
+        "msgID": "MAP04_E_L0743",
+        "msgStr": "Umabileceğim en iyi şey, bir tür doğal afetin orayı yerle bir etmesi."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP10_SUI02_195",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0744",
+        "msgStr": "Hükümet benim çamaşırlarım gibi önemsiz bir şey için bütçesini çarçur etmez..."
+      },
+      {
+        "msgID": "MAP04_E_L0745",
+        "msgStr": "Umabileceğim en iyi şey, bir tür doğal afetin orayı yerle bir etmesi."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP11_SUI01_196",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0746",
+        "msgStr": "O sıcak hava dalgası kötü oldu... Küller havlularımın üzerine uçuştu."
+      },
+      {
+        "msgID": "MAP04_E_L0747",
+        "msgStr": "Sanırım kurudular ama güneş ışığıyla kurumalarını tercih ederdim."
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP11_SUI02_197",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0748",
+        "msgStr": "Kusura bakma tatlım."
+      },
+      {
+        "msgID": "MAP04_E_L0749",
+        "msgStr": "Sırf benim çamaşır sorunumu çözmek için bu kadar zahmete gireceğini tahmin etmemiştim."
+      },
+      {
+        "msgID": "MAP04_E_L0750",
+        "msgStr": "Bir sonraki yıkamada senin pelerinini de çamaşırlara atmamı ister misin?"
+      },
+      {
+        "msgID": "map04_e_map04_npc07_Fgai01_EP12_SUI01_198",
+        "msgStr": "Tombul Çamaşırcı Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0751",
+        "msgStr": "Sence canavarı sadece kiliseyi yıkıp gitmeye ikna edebilir miyim? Dilimizi anlamayabilir."
+      },
+      {
+        "msgID": "MAP04_E_L0752",
+        "msgStr": "Kiliseyle birlikte evimi de yıkarsa her şeyimi kaybederim..."
+      },
+      {
+        "msgID": "map04_e_map04_npc08_Mgai02_EP04_01_199",
+        "msgStr": "Gülümseyen Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0753",
+        "msgStr": "Bana sormanın faydası yok."
+      },
+      {
+        "msgID": "map04_e_map04_npc08_Mgai02_EP04_02_200",
+        "msgStr": "Gülümseyen Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0754",
+        "msgStr": "Faydası yok, ben hiçbir şey bilmiyor."
+      },
+      {
+        "msgID": "map04_e_map04_npc08_Mgai02_JYU00_201",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0755",
+        "msgStr": "> Gülümseyen adamın düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map04_e_map04_npc08_Mgai02_EP04_01h_202",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0756",
+        "msgStr": "<COLOR 2>Ben ona kız tanıştırıyor, o bana oturma izni veriyor."
+      },
+      {
+        "msgID": "MAP04_E_L0757",
+        "msgStr": "O kızı kapıyor, ben belgeleri alıyor, ikimiz de mutlu.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc08_Mgai02_EP04_02h_203",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0758",
+        "msgStr": "<COLOR 2>Japon tüccarın itibarı düşüyor."
+      },
+      {
+        "msgID": "MAP04_E_L0759",
+        "msgStr": "Bana daha çok iş, bana daha çok para.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc09_Fgai02_EP04_01a_204",
+        "msgStr": "Yabancı Refakatçi"
+      },
+      {
+        "msgID": "MAP04_E_L0760",
+        "msgStr": "Oh! Bir yönetici mi...? Boş veeer, sadece bir çocukmuş. Çek git buradan!"
+      },
+      {
+        "msgID": "map04_e_map04_npc09_Fgai02_EP04_01b_205",
+        "msgStr": "Yabancı Refakatçi"
+      },
+      {
+        "msgID": "MAP04_E_L0761",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map04_e_map04_npc09_Fgai02_EP04_02a_206",
+        "msgStr": "Yabancı Refakatçi"
+      },
+      {
+        "msgID": "MAP04_E_L0762",
+        "msgStr": "Ohh! Bayım, masaj ister mi, beş yüz yen...? Ah, sen sadece bir çocuk..."
+      },
+      {
+        "msgID": "map04_e_map04_npc09_Fgai02_EP04_03b_207",
+        "msgStr": "Yabancı Refakatçi"
+      },
+      {
+        "msgID": "MAP04_E_L0763",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map04_e_map04_npc09_Fgai02_JYU00_208",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0764",
+        "msgStr": "> Yabancı refakatçinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map04_e_map04_npc09_Fgai02_EP04_01_209",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0765",
+        "msgStr": "<COLOR 2>Harumi-cho'da çalışmak için izin gerekmiyor."
+      },
+      {
+        "msgID": "MAP04_E_L0766",
+        "msgStr": "Fukagawa-cho çok can sıkıcı! Bay Satake çok fazla soru soruyor!"
+      },
+      {
+        "msgID": "MAP04_E_L0767",
+        "msgStr": "Ben Harumi-cho'da çok daha iyi iş yapıyor.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc09_Fgai02_EP04_02_210",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0768",
+        "msgStr": "<COLOR 2>Harumi-cho'da çalışmak için izin gerekmiyor."
+      },
+      {
+        "msgID": "MAP04_E_L0769",
+        "msgStr": "Fukagawa-cho çok can sıkıcı! Bay Satake çok fazla soru soruyor!"
+      },
+      {
+        "msgID": "MAP04_E_L0770",
+        "msgStr": "Ben Harumi-cho'da çok daha iyi iş yapıyor.<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc10_KAZAMA_EP05_01_211",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP04_E_L0771",
+        "msgStr": "Dedektiflik dediğin kumları elle elemek gibi düzenli ve sabır isteyen bir iştir. Yapacak iş asla bitmez."
+      },
+      {
+        "msgID": "MAP04_E_L0772",
+        "msgStr": "Acaba bugüne kadar kaç kişiyi tutukladım... Bir polisin normalde kaç kişiyi tutuklaması gerekir ki zaten?"
+      },
+      {
+        "msgID": "MAP04_E_L0773",
+        "msgStr": "Makineler hakkında soru sorulacak yanlış kişiyim dostum."
+      },
+      {
+        "msgID": "MAP04_E_L0774",
+        "msgStr": "Hey, Narumi'nin mekânının yakınındaki şu hurdacı dükkânını biliyor musun? Adı Konnou-ya."
+      },
+      {
+        "msgID": "MAP04_E_L0775",
+        "msgStr": "Şansını neden orada denemiyorsun?"
+      },
+      {
+        "msgID": "MAP04_E_L0776",
+        "msgStr": "Etrafta Ordu'nun savaş gemileri yaptığına dair bir söylenti dolaşıyor. Amire bunu sordum ama..."
+      },
+      {
+        "msgID": "MAP04_E_L0777",
+        "msgStr": "Beni başından savdı."
+      },
+      {
+        "msgID": "MAP04_E_L0778",
+        "msgStr": "Büyükbaşların rütbesi ne kadar yükselirse, altındakileri o kadar az umursuyorlar."
+      },
+      {
+        "msgID": "map04_e_map04_npc10_KAZAMA_EN00_212",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0779",
+        "msgStr": "> Dedektif Kazama'nın Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map04_e_map04_npc10_KAZAMA_EP04_EN01_213",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP04_E_L0780",
+        "msgStr": "Laf dinlemezlerse onlara en ağır cezayı kesmekten başka çarem kalmayacak!"
+      },
+      {
+        "msgID": "MAP04_E_L0781",
+        "msgStr": "Ben etrafta olduğum sürece serseriler Başkent'te cirit atamayacak!"
+      },
+      {
+        "msgID": "map04_e_map04_npc10_KAZAMA_EP04_EN02_214",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP04_E_L0782",
+        "msgStr": "Kararlı bir suçlunun elinde her alet bir silaha dönüşebilir!"
+      },
+      {
+        "msgID": "MAP04_E_L0783",
+        "msgStr": "Edepsiz fotoğraflar çekersen seni anında içeri tıkacağımı aklından çıkarma!"
+      },
+      {
+        "msgID": "map04_e_map04_npc10_KAZAMA_EP04_EN03_215",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP04_E_L0784",
+        "msgStr": "Artık patronlarımın beni itip kakmasına izin vermeyeceğim! Ben amire değil, halka hizmet ediyorum!"
+      },
+      {
+        "msgID": "MAP04_E_L0785",
+        "msgStr": "Gerçek bir erkek bu çürümüş toplumu düzeltmeye baş koyar, ben de tam olarak bunu yapacağım!"
+      },
+      {
+        "msgID": "map04_e_map04_npc10_KAZ_RAI_01_216",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP04_E_L0786",
+        "msgStr": "Hmm..."
+      },
+      {
+        "msgID": "MAP04_E_L0787",
+        "msgStr": "Ne—!? Aa! Sensin ha, Raidou!"
+      },
+      {
+        "msgID": "MAP04_E_L0788",
+        "msgStr": "Şuna da bak. Artık sorumluluk sahibi, çalışkan bir yetişkin gibi görünüyorsun."
+      },
+      {
+        "msgID": "MAP04_E_L0789",
+        "msgStr": "Heh, eskiden buradaki serserilerin lideriydim, bütün gün kavga ederdim..."
+      },
+      {
+        "msgID": "MAP04_E_L0790",
+        "msgStr": "Ama şimdi bu kiraz çiçeği armasını taşıyor, kanunun safında çalışıyorum."
+      },
+      {
+        "msgID": "MAP04_E_L0791",
+        "msgStr": "Artık yumruklarım yerine kelepçe kullansam da hâlâ yamuk işlerden nefret ederim."
+      },
+      {
+        "msgID": "MAP04_E_L0792",
+        "msgStr": "Aynasız olmak, şu kıt aklımı kullanarak kendi seçtiğim hayat... Kendim olmamı sağlıyor."
+      },
+      {
+        "msgID": "MAP04_E_L0793",
+        "msgStr": "Gençliğimdeki gözlerin aynısı sende de var; pervasız ama bir o kadar da dürüst."
+      },
+      {
+        "msgID": "MAP04_E_L0794",
+        "msgStr": "...Şunu alsana."
+      },
+      {
+        "msgID": "MAP04_E_L0795",
+        "msgStr": "Benim yaşıma geldiğinde gözlerindeki o ışıltıyı kaybetmediğinden emin ol."
+      },
+      {
+        "msgID": "map04_e_map04_npc10_KAZ_TRG_GET_217",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0796",
+        "msgStr": "> Raidou <ITM_04><COLOR 4>Bancho Üniforması<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map04_e_map04_npc11_Mpol01_EP05_01_218",
+        "msgStr": "Rahat Polis"
+      },
+      {
+        "msgID": "MAP04_E_L0797",
+        "msgStr": "Dedektif Kazama, yabancının cesediyle bağlantılı olarak şu özel mülkü araştırıyor."
+      },
+      {
+        "msgID": "MAP04_E_L0798",
+        "msgStr": "Boyunu aşan bir işe kalkışmış gibi görünüyordu ama... Neyse, niyetin varsa git onunla konuş."
+      },
+      {
+        "msgID": "MAP04_E_L0799",
+        "msgStr": "Dedektif Kazama, yabancının cesediyle bağlantılı olarak şu özel mülkü araştırıyor."
+      },
+      {
+        "msgID": "MAP04_E_L0800",
+        "msgStr": "Gerçi buradaki işimiz her an bitebilir."
+      },
+      {
+        "msgID": "map04_e_map04_npc12_Mpol02_EP05_01_219",
+        "msgStr": "Rahat Polis"
+      },
+      {
+        "msgID": "MAP04_E_L0801",
+        "msgStr": "Buraya gelirken Dedektif Kazama bir kaçak göçmeni enselenmiş."
+      },
+      {
+        "msgID": "MAP04_E_L0802",
+        "msgStr": "Kelepçeyi takar takmaz \"İtiraf et!\" diye bağırdı."
+      },
+      {
+        "msgID": "MAP04_E_L0803",
+        "msgStr": "Suçu işlemiş olsa bile o zavallı garibana acıdım."
+      },
+      {
+        "msgID": "map04_e_map04_npc13_Mhra_EP11_01_220",
+        "msgStr": "Sabırsız Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0804",
+        "msgStr": "Canavar, gemilerin vardığı anda ortaya çıktı..."
+      },
+      {
+        "msgID": "MAP04_E_L0805",
+        "msgStr": "Gemi battı... O teknede bir sürü mürettebat can verdi."
+      },
+      {
+        "msgID": "map04_e_map04_npc13_Mhra_EP11_02_221",
+        "msgStr": "Sabırsız Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0806",
+        "msgStr": "Şuradaki yabancı bir süre var gücüyle feryat figan bağırdı, sonra da kıpırdamayı kesti."
+      },
+      {
+        "msgID": "MAP04_E_L0807",
+        "msgStr": "Zavallının başına korkunç bir şey gelmiş olmalı. Ama sonrasında aklını kaçırmış gibi gülüyordu."
+      },
+      {
+        "msgID": "map04_e_map04_npc13_Mhra_EP12_01_222",
+        "msgStr": "Sabırsız Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0808",
+        "msgStr": "Harumi-cho bir günde yeniden inşa edilmeyecek ama elimizden gelenin en iyisini yapmalıyız."
+      },
+      {
+        "msgID": "MAP04_E_L0809",
+        "msgStr": "Ölenlerin ruhlarını cennet kapılarına ulaşabilmeleri için usulünce uğurlamamız gerekiyor."
+      },
+      {
+        "msgID": "map04_e_map04_npc14_Fkim_EP11_02_223",
+        "msgStr": "Nefes Nefese Kadın"
+      },
+      {
+        "msgID": "MAP04_E_L0810",
+        "msgStr": "Lütfen... su... Biraz su... alabilir miyim... lütfen!"
+      },
+      {
+        "msgID": "map04_e_map04_npc15_Msyo_EP11_01_224",
+        "msgStr": "Endişeli Öğrenci"
+      },
+      {
+        "msgID": "MAP04_E_L0811",
+        "msgStr": "G-Gördüm... Hep görmek istemiştim... Kachidoki Köprüsü'nü..."
+      },
+      {
+        "msgID": "MAP04_E_L0812",
+        "msgStr": "Ama... bu haldeyken... eve nasıl dönebilirim?"
+      },
+      {
+        "msgID": "map04_e_map04_npc15_Msyo_JYU00_225",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0813",
+        "msgStr": "> Endişeli öğrencinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map04_e_map04_npc15_Msyo_EP11_JYU01_226",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0814",
+        "msgStr": "<COLOR 2>Anne... Özür dilerim..."
+      },
+      {
+        "msgID": "MAP04_E_L0815",
+        "msgStr": "Okul bahçesinden ayrılmama sözümü... tutmadım... Lütfen bana... kızma...<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc16_Mgai03_EP11_01_227",
+        "msgStr": "Paniklemiş Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0816",
+        "msgStr": "Gülersen mutluluk da peşinden gelir! Değil mi?"
+      },
+      {
+        "msgID": "MAP04_E_L0817",
+        "msgStr": "Hadi gülelim ve mutlu olalım! Hahaha! Hahahahaha!"
+      },
+      {
+        "msgID": "map04_e_map04_npc16_Mgai03_EP11_02_228",
+        "msgStr": "Paniklemiş Adam"
+      },
+      {
+        "msgID": "MAP04_E_L0818",
+        "msgStr": "...Ha... Haha... Haa..."
+      },
+      {
+        "msgID": "map04_e_map04_npc17_Mgai04_01_229",
+        "msgStr": "Terli Yabancı Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0819",
+        "msgStr": "B-Boynum kaşınıyor! Neden bu kadar kaşınıyor!?"
+      },
+      {
+        "msgID": "MAP04_E_L0820",
+        "msgStr": "Hayalet mi var? Belki de içime bir hayalet kaçtı?"
+      },
+      {
+        "msgID": "MAP04_E_L0821",
+        "msgStr": "Bütün bu tütsünün tek yaptığı boynumu kaşındırmak!"
+      },
+      {
+        "msgID": "MAP04_E_L0822",
+        "msgStr": "Güzel kokması umurumda değil!"
+      },
+      {
+        "msgID": "MAP04_E_L0823",
+        "msgStr": "Artık bunu istemiyor! Ben memleketime geri dönüyor!"
+      },
+      {
+        "msgID": "map04_e_map04_npc17_Mgai04_03_230",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0824",
+        "msgStr": "> Terli yabancı tüccar ayrıldı."
+      },
+      {
+        "msgID": "map04_e_MIDORISWN_GOT_231",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0825",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Puan Çubukları<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE02_01_232",
+        "msgStr": "Devriye Gezen Polis"
+      },
+      {
+        "msgID": "MAP04_E_L0826",
+        "msgStr": "Yerel tüccarlar ile yabancı tacirler arasında büyük bir husumet var."
+      },
+      {
+        "msgID": "MAP04_E_L0827",
+        "msgStr": "Eskiden içtikleri su ayrı gitmezdi, aralarına ne girdi bilmiyorum."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE02_03_233",
+        "msgStr": "Göğsü Kıllı Yabancı"
+      },
+      {
+        "msgID": "MAP04_E_L0828",
+        "msgStr": "Kaçacağım... Buradan kaçacağım..."
+      },
+      {
+        "msgID": "map04_e_map04_ep04_npc02_JYU00_234",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0829",
+        "msgStr": "> Göğsü kıllı yabancının düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map04_e_EPI04_SCENE02_03J_235",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0830",
+        "msgStr": "<COLOR 2>Daha önce hiç ceset görmemiştim... Bana Başkent güvenli bir yer demişlerdi..."
+      },
+      {
+        "msgID": "MAP04_E_L0831",
+        "msgStr": "Kaçıyorum... Çok, çok uzaklara...<COLOR 0>"
+      },
+      {
+        "msgID": "map04_e_map04_npc17_queke_01_236",
+        "msgStr": "Pişman Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0832",
+        "msgStr": "Şuradaki adam... öldü. Ölümcül şekilde yaralanmıştı..."
+      },
+      {
+        "msgID": "MAP04_E_L0833",
+        "msgStr": "Ona ne oldu?"
+      },
+      {
+        "msgID": "MAP04_E_L0834",
+        "msgStr": "Bunun için vaktim yok."
+      },
+      {
+        "msgID": "map04_e_map04_npc17_queke_02_01_237",
+        "msgStr": "Pişman Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0835",
+        "msgStr": "Sıkıyönetim yüzünden dertlerimizi unutmak için içiyorduk..."
+      },
+      {
+        "msgID": "MAP04_E_L0836",
+        "msgStr": "O kadar sarhoş olduk ki... şey... birlikte küçük su dökmeye gittik."
+      },
+      {
+        "msgID": "MAP04_E_L0837",
+        "msgStr": "O büyük sarsıntı vurduğunda pek dik duramıyordu, düşüp kafasını çarptı..."
+      },
+      {
+        "msgID": "map04_e_map04_npc17_queke_02_02_238",
+        "msgStr": "Pişman Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0838",
+        "msgStr": "B-Birlikte iş kuracaktık!"
+      },
+      {
+        "msgID": "map04_e_map04_npc17_queke_03_239",
+        "msgStr": "Pişman Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0839",
+        "msgStr": "B-Birlikte iş kuracaktık!"
+      },
+      {
+        "msgID": "map04_e_map04_npc18_queke_01_240",
+        "msgStr": "Talihsiz Yabancı Tüccar"
+      },
+      {
+        "msgID": "MAP04_E_L0840",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map04_e_map04_npc18_queke_02_241",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0841",
+        "msgStr": "> Son nefesini vermiş..."
+      },
+      {
+        "msgID": "MAP04_E_L0842",
+        "msgStr": "> <devil 0> iç sese uyum sağladı."
+      },
+      {
+        "msgID": "map04_ep04_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0843_01",
+        "msgStr": "Kimse var mıııı...."
+      },
+      {
+        "msgID": "map04_ep04_hd_add_scene01_242",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0843_02",
+        "msgStr": "Hm? Ne oldu Raidou?"
+      },
+      {
+        "msgID": "map04_ep04_CC_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0844_01",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map04_ep04_hd_add_scene03_243",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0844_02",
+        "msgStr": "> Raidou bir ses duyduğunu sandı..."
+      },
+      {
+        "msgID": "map04_ep04_CC_02",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_E_L0845_01",
+        "msgStr": "Ah!"
+      },
+      {
+        "msgID": "map04_ep04_hd_add_scene09_244",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0845_02",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map04_ep04_hd_add_scene12_01_245",
+        "msgStr": "Ürkütücü Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0846",
+        "msgStr": "Beni duyabiliyorsun, değil mi?"
+      },
+      {
+        "msgID": "MAP04_E_L0847",
+        "msgStr": "Deniz Kuvvetleri Karargâhı'nın yakınındaki iskeleden suyu geç ve mezarlığa gel."
+      },
+      {
+        "msgID": "map04_ep04_hd_add_scene12_02_246",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_E_L0848",
+        "msgStr": "Ben de sesi duydum Raidou. Oldukça net bir yol tarifiydi."
+      },
+      {
+        "msgID": "MAP04_E_L0849",
+        "msgStr": "Hadi o mezarlığa gidelim."
+      },
+      {
+        "msgID": "map04_ep04_hd_add_scene12_03_247",
+        "msgStr": "Ürkütücü Ses"
+      },
+      {
+        "msgID": "MAP04_E_L0850",
+        "msgStr": "Evet, bu taraftan..."
+      },
+      {
+        "msgID": "MAP04_E_L0851",
+        "msgStr": "Mezarlıktaki Katolik kilisesini geçince. Bekliyor olacağım..."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:03"
+}

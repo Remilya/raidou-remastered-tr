@@ -1,0 +1,273 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "TIPS_TITLETEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "TIPS_TITLETEXT_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0001",
+        "msgStr": "Savaş Temelleri"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0003",
+        "msgStr": "Silah Kullanımı"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0007",
+        "msgStr": "Hayatta Kalma"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0008",
+        "msgStr": "Tüpe Alma Sanatı"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0010",
+        "msgStr": "MAG Emme Sistemi"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0011",
+        "msgStr": "İblislerle Hafiyelik"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0014",
+        "msgStr": "Köy Öğretilerini Görüntüleme"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0015",
+        "msgStr": "Temel Kontroller"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0017",
+        "msgStr": "Hedef ve Harita"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0018",
+        "msgStr": "İblis Komutları II"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0019",
+        "msgStr": "Seviye Atlama"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0021",
+        "msgStr": "İblis Komutları"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0022",
+        "msgStr": "İblislerin Seviye Atlaması"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0023",
+        "msgStr": "Zayıflık Kalkanları"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0024",
+        "msgStr": "Büroda İyileşme"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0025",
+        "msgStr": "İblislerinizin Durumları"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0026",
+        "msgStr": "Tekil Soruşturma"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0027",
+        "msgStr": "Ekspres Tramvaylar"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0028",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0029",
+        "msgStr": "Gizli Saldırı"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0030",
+        "msgStr": "Savaşa Başlama"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0031",
+        "msgStr": "İblis Çağırıcısı Rütbeleri"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0032",
+        "msgStr": "İblis Kıran"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0033",
+        "msgStr": "İnceleme"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0035",
+        "msgStr": "Yetenek Kitapları"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0037",
+        "msgStr": "Tek Başına Savaşan İblisler"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0038",
+        "msgStr": "Otomatik Kayıt"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0039",
+        "msgStr": "Kilitlenme"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0040",
+        "msgStr": "Çağırıcı Yetenekleri"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0041",
+        "msgStr": "Düşmanları Sersemletme"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0042",
+        "msgStr": "İblis Çalımı"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0043",
+        "msgStr": "Hafif ve Ağır Kılıç Saldırıları"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0044",
+        "msgStr": "Çağırıcı Yetenekleri (Özet)"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0045",
+        "msgStr": "Yeraltı Kapısı"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0046",
+        "msgStr": "Ruh Kesişi"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0047",
+        "msgStr": "Kombolar"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0048",
+        "msgStr": "Kaçınmak İçin Zıplama"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0049",
+        "msgStr": "Çağırıcı Yetenekleri (Özet)"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0050",
+        "msgStr": "İblis Çağırma ve Geri Gönderme"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0051",
+        "msgStr": "Çağırıcı Yeteneklerini Değiştirme"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0052",
+        "msgStr": "Tüplerden Yararlanma"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0053",
+        "msgStr": "İblis Yoklaması"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0054",
+        "msgStr": "Hızlı Kayıt ve Otomatik Kayıt"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0055",
+        "msgStr": "Ejderha Pınarı"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0056",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0057",
+        "msgStr": "İblis Füzyonu"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0058",
+        "msgStr": "Ay Evreleri"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0059",
+        "msgStr": "Dava Dosyaları"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0060",
+        "msgStr": "Aril Yarıkları"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0061",
+        "msgStr": "Dedektif Günlüğünü Kontrol Etme"
+      },
+      {
+        "msgID": "TIPS_TITLETEXT_L0062",
+        "msgStr": "Demo Sonu"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2025/08/08 11:29:02"
+}

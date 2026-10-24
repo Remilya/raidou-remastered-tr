@@ -1,0 +1,33 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONTINUE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONTINUE_L0000",
+        "msgStr": "Soruşturma Başarısız"
+      },
+      {
+        "msgID": "CONTINUE_L0001",
+        "msgStr": "Savaşı yeniden dene"
+      },
+      {
+        "msgID": "CONTINUE_L0002",
+        "msgStr": "Ana ekrana dön"
+      },
+      {
+        "msgID": "CONTINUE_L0003",
+        "msgStr": "Savaşı başka bir zorlukta yeniden dene"
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/23 16:38:36"
+}

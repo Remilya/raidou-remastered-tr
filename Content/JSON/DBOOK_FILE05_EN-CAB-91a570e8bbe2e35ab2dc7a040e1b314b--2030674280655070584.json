@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_FILE05_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_FILE05_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_FILE05_L0011",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:56:13"
+}

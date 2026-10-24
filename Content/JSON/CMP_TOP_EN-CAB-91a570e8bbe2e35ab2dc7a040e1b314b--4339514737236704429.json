@@ -1,0 +1,33 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_TOP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CMP_TOP_L0000",
+        "msgStr": "Para"
+      },
+      {
+        "msgID": "CMP_TOP_L0001",
+        "msgStr": "yen"
+      },
+      {
+        "msgID": "CMP_TOP_L0002",
+        "msgStr": "x"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:37:02"
+}

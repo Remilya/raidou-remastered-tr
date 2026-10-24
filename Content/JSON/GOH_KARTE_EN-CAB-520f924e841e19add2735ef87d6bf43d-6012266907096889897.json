@@ -1,0 +1,45 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_KARTE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_KARTE_L0000",
+        "msgStr": "Tümünü Kaydet"
+      },
+      {
+        "msgID": "GOH_KARTE_L0001",
+        "msgStr": "Maliyet"
+      },
+      {
+        "msgID": "GOH_KARTE_L0002",
+        "msgStr": "Düzene Göre"
+      },
+      {
+        "msgID": "GOH_KARTE_L0003",
+        "msgStr": "Seviyeye Göre"
+      },
+      {
+        "msgID": "GOH_KARTE_L0004",
+        "msgStr": "Favorilere Göre"
+      },
+      {
+        "msgID": "GOH_KARTE_L0005",
+        "msgStr": "Kayıt Sayısına Göre"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:27"
+}

@@ -1,0 +1,1689 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP06_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map06_e_EPI01_SCENE08_01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI01_SCENE08_02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI01_SCENE08_03_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI01_SCENE08_04_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI01_SCENE08_05_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI01_SCENE08_06_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI01_SCENE08_12_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_01_007",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0012",
+        "msgStr": "<lips 8 5>\nOndördüncü Raidou Kuzunoha, dönüşünü bekliyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0013",
+        "msgStr": "<lips 8 5>\nLütfen bu taraftan gel.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0014",
+        "msgStr": "<lips 8 5>\n<COLOR 1>Lord Takagi<COLOR 0>, Kuzunoha geldi.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_04_008",
+        "msgStr": "Lord Takagi"
+      },
+      {
+        "msgID": "MAP06_E_L0015",
+        "msgStr": "Ah, evet... Raidou Kuzunoha, Başkent'imizin koruyucusu."
+      },
+      {
+        "msgID": "MAP06_E_L0016",
+        "msgStr": "Sana güveniyorum."
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_06_009",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0017",
+        "msgStr": "<lips 8 5>\nRaidou, bu zat bir insan değildir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0018",
+        "msgStr": "<lips 8 5>\nKendisi Yatagarasu'nun baş tanrısıdır ve diğer tanrılara rehberlik eder.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0019",
+        "msgStr": "<lips 8 5>\nLord Takagi, Munakata ve Kunitsukamilerin korkunç bir <COLOR 1>lanetine<COLOR 0> uğradı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0020",
+        "msgStr": "<lips 8 5>\nAncak elbette bu çapta bir lanet Lord Takagi'ye asla zarar veremez.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0021",
+        "msgStr": "<lips 8 5>\nBu illeti ortadan kaldırdığımızda her şey yeniden düzelecektir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0022",
+        "msgStr": "<lips 8 5>\nBununla birlikte, Lord Takagi'nin üzerine bir lanet salmak karşılıksız bırakılamayacak kadar ağır bir suçtur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0023",
+        "msgStr": "<lips 8 5>\nBu lanet Amatsu'ya karşı bir kışkırtmadır. Şüphesiz bizi Munakata ve Kunitsu ile çatışmaya çekmek için atılmış bir yemdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0024",
+        "msgStr": "<lips 8 5>\nBöylesi bir saygısızlığı görmezden gelmek Yatagarasu'nun adına yalnızca leke sürer.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0025",
+        "msgStr": "<lips 8 5>\nRaidou, lanetin kaynağını tespit etmeli ve onu yapan kişiyi bulmalısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0026",
+        "msgStr": "<lips 8 5>\nBu amaçla bir Arınma Ritüeli gerçekleştireceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0026_01",
+        "msgStr": "<lips 8 5>\nSen, Raidou Kuzunoha, kurban olarak—yani \n<COLOR 1>Fuchikoma<COLOR 0> olarak görev yapacaksın.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_16_010",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0027",
+        "msgStr": "Fuchikoma mı!? Ama neden!?"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_17_011",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0028",
+        "msgStr": "<lips 8 5>\nİster bir kukla ister başka bir taşıyıcı kullanalım, bundan kaçınılamaz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0029",
+        "msgStr": "<lips 8 5>\nRaidou, Lord Takagi'nin üzerine konulan laneti kendi yükün olarak kabul etmelisin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0030",
+        "msgStr": "<lips 8 5>\nBunu yaparak, bu kötü niyetin izini kökenine kadar sürme yeteneği kazanacaksın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0031",
+        "msgStr": "<lips 8 5>\nBunu yapacak mısın, Raidou?<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0032",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "MAP06_E_L0033",
+        "msgStr": "Hayır..."
+      },
+      {
+        "msgID": "MAP06_E_L0034",
+        "msgStr": "Fuchikoma nedir?"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_21_012",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0035",
+        "msgStr": "<lips 8 5>\nİblis Çağırıcımızdan da bu beklenirdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0036",
+        "msgStr": "<lips 8 5>\nÖyleyse Arınma Ritüeli'ne başlıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0037",
+        "msgStr": "<lips 8 5>\nRaidou, lütfen kendini hazırla.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_24_013",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0038",
+        "msgStr": "<lips 8 5>\nLanet, Lord Takagi'yi yozlaştırıyor. Konsantrasyonunu bir an bile kaybedersen seni paramparça eder.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0039",
+        "msgStr": "<lips 8 5>\nOdağını kaybetme, Raidou adını taşıyan kişi!\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0039_01",
+        "msgStr": "*dua mırıldanır*"
+      },
+      {
+        "msgID": "MAP06_E_L0039_02",
+        "msgStr": "*dua mırıldanır*"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_26_014",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0040",
+        "msgStr": "<lips 8 5>\nRitüeli tamamladım. Lord Takagi'nin durumu iyi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0041",
+        "msgStr": "<lips 8 5>\nŞimdi bu lanetin kaynağını bulup yok etmen şart.<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0042",
+        "msgStr": "<lips 8 5>\nOdaklan... Laneti hisset. Bedenin hangi yöne gideceğini bilecektir.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_29_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0043",
+        "msgStr": "> Raidou lanetin kaynağının peşinden giderek başka bir diyara doğru eriyip karışıyor..."
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_30_016",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0044",
+        "msgStr": "<lips 8 5>\nKorkarım reddetmek senin için bir seçenek değil, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0045",
+        "msgStr": "<lips 8 5>\nAncak bir kez Fuchikoma olduğunda, lanetin kaynağı yok edilene kadar normale dönemezsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0046",
+        "msgStr": "<lips 8 5>\nTamamen hazır olana kadar bu görevi üstlenmek zorunda değilsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0047",
+        "msgStr": "<lips 8 5>\nHazır olduğunda buraya dön.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_34_017",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0048",
+        "msgStr": "<lips 8 5>\nFuchikoma, Arınma Ritüeli için bir aktarım kabıdır; bir kurbandır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0049",
+        "msgStr": "<lips 8 5>\nRaidou, Lord Takagi'nin üzerine konulan laneti kendi yükün olarak kabul etmelisin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0050",
+        "msgStr": "<lips 8 5>\nBunu yaparak, bu kötü niyetin izini kökenine kadar sürme yeteneği kazanacaksın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0051",
+        "msgStr": "<lips 8 5>\nBunu kabul edecek misin, Raidou?<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE02_38_018",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0052",
+        "msgStr": "<lips 8 5>\nKendini hazırladın mı?<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE05_01_019",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP06_E_L0053",
+        "msgStr": "<lips 29 5>\nİyi iş çıkardın Raidou. Güvende olduğunu görmek güzel.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0054",
+        "msgStr": "<lips 29 5>\nDeniz Kuvvetleri, Yatagarasu'nun yanındadır. Ayrıca ben de sana şahsen teşekkür etmek isterim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0055",
+        "msgStr": "<lips 29 5>\nYine de bir lanet kullanacak kadar ileri gitmek ha? Üstelik tanrıların dile getirilmeyen barış zamanını ihlal etmek? Munakata gerçekten de korkutucu bir adam.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0056",
+        "msgStr": "<lips 29 5>\nBu olaydan en az kayıpla çıkmayı başardık. Hatta neredeyse hiç kayıp vermedik diyebilirim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0057",
+        "msgStr": "<lips 29 5>\nAncak bunun çok daha kötü bir şeyi ateşleyecek kıvılcım olma ihtimali var.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0058",
+        "msgStr": "<lips 29 5>\nŞu anki en büyük korkumuz bu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0059",
+        "msgStr": "<lips 29 5>\nDürüst olmak gerekirse, tanrılar arasındaki bir savaşın neye benzeyeceğini hayal bile edemiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0060",
+        "msgStr": "<lips 29 5>\nAma ne olursa olsun, Munakata'nın eylemleri insanlık üzerinde neredeyse kesin olarak olumsuz bir etki yaratacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0061",
+        "msgStr": "<lips 29 5>\nBundan sonrasında yardımını görmekten memnuniyet duyarım. Söz veriyorum, artık sır yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0062",
+        "msgStr": "<lips 29 5>\nDonanma, Munakata'yı izlemek için ben de dahil olmak üzere pek çok casus görevlendirdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0063",
+        "msgStr": "<lips 29 5>\nHerhangi bir sorun varsa çekinmeden sor. Topladığımız tüm istihbaratı paylaşacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0066",
+        "msgStr": "Munakata hakkında"
+      },
+      {
+        "msgID": "MAP06_E_L0067",
+        "msgStr": "Süper Asker Projesi hakkında"
+      },
+      {
+        "msgID": "MAP06_E_L0068",
+        "msgStr": "Kırmızı Pelerinler hakkında"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE05_14_020",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP06_E_L0069",
+        "msgStr": "<lips 29 5>\nAskerî bir deha olarak görülüyor ve bunda haklılar da.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0070",
+        "msgStr": "<lips 29 5>\nİleri görüşlülüğü sayesinde her şeyin üstünde halkı ön planda tutan pek çok askerî tasarı hazırladı. Ardından rütbeleri tırmanarak şu anki konumuna yükseldi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0071",
+        "msgStr": "<lips 29 5>\nFakat son zamanlardaki faaliyetlerine gelirsek... Oldukça tuhaf. Açıklanamayacak derecede hem de.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0072",
+        "msgStr": "<lips 29 5>\nYakınındakilere göre, eskiden çok daha yumuşak başlı, daha güvenilir bir adammış...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0072_01",
+        "msgStr": "<lips 29 5>\nSonra bir gün, kişiliği aniden değişmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0072_02",
+        "msgStr": "<lips 29 5>\nAynı dönemlerde, ne zaman konuşsa ağzını eliyle kapatma alışkanlığı edinmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0072_03",
+        "msgStr": "<lips 29 5>\nŞu anda Munakata, Kunitsukami ile birlikte hareket ediyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0072_04",
+        "msgStr": "<lips 29 5>\nNe olursa olsun yine de değişir miydi? Yoksa Kunitsukami'nin bununla bir bağlantısı mı var?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0072_05",
+        "msgStr": "<lips 29 5>\nBelki de gerçekte o çoktan... Boş ver. Bir şey demedim say.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0073",
+        "msgStr": "<lips 29 5>\nBaşka bir sorun var mı?<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE05_19_021",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP06_E_L0074",
+        "msgStr": "<lips 29 5>\nBüyük Savaş'tan sonra Munakata dünya uluslarını değerlendirdi ve yeni bir küresel çatışmanın patlak vereceği sonucuna vardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0075",
+        "msgStr": "<lips 29 5>\nBuna hazırlanmak ve ülkeyi güçlendirmek amacıyla Süper Asker Projesi'ni sundu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0076",
+        "msgStr": "<lips 29 5>\nAma bunun ardındaki korkunç gerçeği biliyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0077",
+        "msgStr": "<lips 29 5>\nÖlmeyen askerlerden oluşan yenilmez bir ordu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0078",
+        "msgStr": "<lips 29 5>\nBir Hiruko, bir Kırmızı Pelerin'den ayrıldığında geride insanüstü bir Cehennem Piyonu kalıyor ve silahlarla donatılıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0079",
+        "msgStr": "<lips 29 5>\nBaşka bir deyişle, Hiruko'lar konaklarını terk ettiğinde ortaya çıkan zombiler ordunun piyonları haline geliyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0083",
+        "msgStr": "<lips 29 5>\nHer halükârda, tıbbi açıdan bakıldığında hem Cehennem Piyonları hem de zombiler birer cesettir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0084",
+        "msgStr": "<lips 29 5>\nDolayısıyla ölümden korkmazlar; bedenleri parçalandıktan sonra bile emirleri yerine getirmeye ve savaşmaya devam ederler.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0085",
+        "msgStr": "<lips 29 5>\nBu deliliğe bir son vermeliyiz. Ölülere saygısızlık etmeye devam edemeyiz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0086",
+        "msgStr": "<lips 29 5>\n...Evet, Kiyoshi Daidouji'nin \"dirilişi\" vakası bu açıdan temel bir örnek teşkil etmeli.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE05_34_022",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP06_E_L0088",
+        "msgStr": "<lips 29 5>\nİnsanların Kırmızı Pelerin'e dönüşmesinin sebebi Ordu'nun radyo kuleleri.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0089",
+        "msgStr": "<lips 29 5>\nYaydıkları radyo dalgaları, kişinin kaygısını artıran yerleşik bir etkiye sahip.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0090",
+        "msgStr": "<lips 29 5>\nHesaplamalarımıza göre, henüz açıkça ortaya çıkmamış olanlar da dahil olmak üzere Başkent'teki Kırmızı Pelerinlerin sayısı bir hayli fazla.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0091",
+        "msgStr": "<lips 29 5>\nVe çok yakında bir sonraki aşamaya geçilecek: Hiruko'ların kitlesel göçüne.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0091_01",
+        "msgStr": "<lips 29 5>\nMunakata bütün bunlarla ne planlıyor olabilir?\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE05_38_023",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP06_E_L0092",
+        "msgStr": "<lips 29 5>\nRaidou...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0093",
+        "msgStr": "<lips 29 5>\nHortlak sürüleri ve perde arkasında faaliyet gösteren Kunitsukami yüzünden bu iş kontrolümüzü aşan bir şeye dönüştü.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0095",
+        "msgStr": "<lips 29 5>\nBu noktadan sonra senin gibi yetenekli bir İblis Çağırıcısı'nın yardımına ihtiyacımız olacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0096",
+        "msgStr": "<lips 29 5>\nSüper Asker Projesi'ni durdurmanın bir yolunu bulmalıyız.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0099",
+        "msgStr": "<lips 29 5>\nBunun anahtarı da <COLOR 3>Sakuradayama<COLOR 0>'da yatıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0100",
+        "msgStr": "<lips 29 5>\nDağda <COLOR 1>Waden One<COLOR 0> adında bir kule var. Ordu'nun ilk radyo kulesidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0101",
+        "msgStr": "<lips 29 5>\nKaynaklarımız Munakata'nın şu anda bile orayı sık sık ziyaret ettiğini söylüyor.<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0102",
+        "msgStr": "<lips 29 5>\nBu da orada bir şey olduğu anlamına geliyor...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0104",
+        "msgStr": "<lips 29 5>\nRaidou, Waden One'ı araştırma konusunda sana güvenebilir miyim?<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0105",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP06_E_L0106",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE05_51_024",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP06_E_L0107",
+        "msgStr": "<lips 29 5>\nTeşekkür ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0108",
+        "msgStr": "<lips 29 5>\nKötülüğü gördüğün yerde yıkacağına güvenebileceğimi biliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0109",
+        "msgStr": "<lips 29 5>\nÜstünle gerekli ayarlamaları yapacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0110",
+        "msgStr": "<lips 29 5>\nOrada bol şans dilerim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_SCENE05_55_025",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP06_E_L0111",
+        "msgStr": "<lips 29 5>\nLütfen Raidou... Bunu dikkatlice düşün.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0112",
+        "msgStr": "<lips 29 5>\nBaşkent'in geleceği bu göreve bağlı.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_01_026",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0113",
+        "msgStr": "<lips 8 5>\n...Bu ne biçim bir büyü? Karşımda iki tane Ondördüncü görüyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_02_027",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "MAP06_E_L0114",
+        "msgStr": "<lips 21 5>\nTuhaf bir varlık hissettim ve ardından bu ikisini buldum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0115",
+        "msgStr": "<lips 21 5>\nKılık değiştirmiş iblislere benzemiyorlar, bu yüzden onları buraya getirdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_02_027_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0115_01",
+        "msgStr": "> Raidou ve Gouto durumu açıkladı."
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_04_028",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0116",
+        "msgStr": "<lips 8 5>\nAnlıyorum. Demek bu yüzden tavsiyemi almak için geldiniz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0116_01",
+        "msgStr": "<lips 8 5>\nRasputin denen bu Karanlık Çağırıcı... Onun varlığından hiç haberdar değildik.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0116_02",
+        "msgStr": "<lips 8 5>\nDolayısıyla ne tür bir büyü kullandığı belirsiz. Ancak...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0117",
+        "msgStr": "<lips 8 5>\nGörünüşe göre ikiniz kayıp ruhlarsınız.<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0118",
+        "msgStr": "<lips 8 5>\nSiz birer anomalisiniz ve bu zaman ile mekânda var olmamanız gerekiyor.<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_07_029",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP06_E_L0119",
+        "msgStr": "<lips 22 5>\nÖyleyse ne yapalım? Onları ortadan kaldıralım mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_08_030",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0120",
+        "msgStr": "<lips 8 5>\nHayır. Bu muhtemelen Ondördüncü, ancak başka bir dünyadan.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0121",
+        "msgStr": "<lips 8 5>\nSormamda bir sakınca yoksa, sen de \"Raidou Kuzunoha\"sın, değil mi?<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0122",
+        "msgStr": "Evet, öyleyim."
+      },
+      {
+        "msgID": "MAP06_E_L0123",
+        "msgStr": "Hayır, değilim."
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_10_031",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0124",
+        "msgStr": "<lips 8 5>\nTahmin ettiğim gibi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0125",
+        "msgStr": "<lips 8 5>\nAncak burada kalmanız bu zaman çizgisi için zararlıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_12_032",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0126",
+        "msgStr": "Hey, sen ne diyorsun öyle? Elçi, seni temin ederim ki bu gerçekten Raidou!"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_13_033",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0127_01",
+        "msgStr": "<lips 8 5>\nBunun doğurabileceği sonuçları öngöremeyiz, bu yüzden buradaki varlığınızı asgari düzeyde tutmalıyız.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0127",
+        "msgStr": "<lips 8 5>\nBu nedenle, geldiğiniz zaman ve mekâna geri dönmelisiniz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0128",
+        "msgStr": "<lips 8 5>\nBu amaçla, <COLOR 1>Amatsu Kanagi<COLOR 0>'yi kullanmanıza izin verilecektir.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_15_034",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0129",
+        "msgStr": "Amatsu Kanagi... Bu ismi uzun zamandır duymamıştım."
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_16_035",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0130",
+        "msgStr": "<lips 8 5>\nAmatsu Kanagi, gücü zaman ve mekânı aşan bir yadigârdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0131",
+        "msgStr": "<lips 8 5>\nOnunla kendi dünyanıza güvenli bir şekilde dönebilmelisiniz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0132",
+        "msgStr": "<lips 8 5>\nFakat bunun gerçekleşebilmesi için önce biraz çaba göstermeniz gerekecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0133",
+        "msgStr": "<lips 8 5>\nAmatsu Kanagi, kötü niyetli ellere geçmesini önlemek için mühürlendi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0134",
+        "msgStr": "<lips 8 5>\nToprak, alev, su... Her birinin bir muhafızı olan birkaç prizmaya ayrıldı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0135",
+        "msgStr": "<lips 8 5>\nBaşka bir dünyadan gelen Raidou...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0136",
+        "msgStr": "<lips 8 5>\nEvine dönmek istiyorsan, muhafızlara gücünü kanıtlamalı ve bu prizmalardan üçünü kazanmalısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_24_036",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0138",
+        "msgStr": "Eh, en azından Taisho 20'ye dönmemiz için gerçekten bir yol var."
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_25_037",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_26_038",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0140_01",
+        "msgStr": "<lips 8 5>\nTaisho...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0140",
+        "msgStr": "<lips 8 5>\nPekâlâ, hazır mısınız?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0141",
+        "msgStr": "<lips 8 5>\nHer prizma farklı bir yerde gizlidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0142",
+        "msgStr": "<lips 8 5>\nNereden başlayacağınıza karar verin.<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0143",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "MAP06_E_L0144",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "MAP06_E_L0145",
+        "msgStr": "Karanlık Harumi-cho"
+      },
+      {
+        "msgID": "MAP06_E_L0146",
+        "msgStr": "Vazgeç"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_29_039",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0147",
+        "msgStr": "<lips 8 5>\nÖyle olsun. Sizi Karanlık Sakuradayama'ya göndereceğim. Size bol şans dilerim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_30_040",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0148",
+        "msgStr": "<lips 8 5>\nÖyle olsun. Sizi Karanlık Ginza-cho'ya göndereceğim. Size bol şans dilerim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_31_041",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0149",
+        "msgStr": "<lips 8 5>\nÖyle olsun. Sizi Karanlık Harumi-cho'ya göndereceğim. Size bol şans dilerim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE04_32_042",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0150",
+        "msgStr": "<lips 8 5>\nPekâlâ, öyleyse cesaretinizi topladığınızda lütfen geri dönün.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_KARASU_01_043",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0151",
+        "msgStr": "<lips 8 5>\nDemek prizmaları aramaya gidiyorsunuz, öyle mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0153",
+        "msgStr": "<lips 8 5>\nBundan sonra nereye gideceğiniz size kalmış.<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_01_044",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0154",
+        "msgStr": "<lips 8 5>\nİyi iş çıkardın, başka bir dünyadan gelen Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0155",
+        "msgStr": "<lips 8 5>\nToprak, su ve alev; üç prizmayı da gerçekten elde ettin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0156",
+        "msgStr": "<lips 8 5>\nŞimdi onları bana teslim et.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_04_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0157",
+        "msgStr": "> Raidou üç prizmayı Yatagarasu Elçisi'ne teslim etti."
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_05_046",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0158",
+        "msgStr": "<lips 8 5>\nPekâlâ. Şimdi onları korumam altındaki Cennet Prizması ile birleştireceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0159",
+        "msgStr": "<lips 8 5>\nPrizmalar bir araya gelerek gerçek formlarına, yani Amatsu Kanagi'ye bürünüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_07_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0160",
+        "msgStr": "> Dört prizma üst üste binerek tek bir nesne oluşturdu."
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_08_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0161",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Amatsu Kanagi<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_09_049",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0162",
+        "msgStr": "<lips 8 5>\nİleri çık, Raido.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_10_050",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "MAP06_E_L0163",
+        "msgStr": "<lips 21 5>\n...Evet?\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_11_051",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0164",
+        "msgStr": "<lips 8 5>\nAmatsu Kanagi'yi al ve Karanlık Diyar'daki Ushigome-Gaeri Köprüsü'ne kadar onlara eşlik et.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0165",
+        "msgStr": "<lips 8 5>\nO köprü, dünyamız ile Karanlık Diyar arasında bir sınır görevi görür; yapmanız gereken şey için ideal bir yerdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0166",
+        "msgStr": "<lips 8 5>\nOrada, Ruh Gönderme Ritüeli'ni gerçekleştireceksiniz.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_SCENE08_14_052",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0167",
+        "msgStr": "<lips 8 5>\nBaşka bir zaman ve mekândan gelen yolcular, size veda ediyorum...\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI09_RAIDO_01_053",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "MAP06_E_L0168",
+        "msgStr": "<lips 21 5>\nKendimle kılıç tokuşturmaya hevesli olduğumu söylesem yalan olur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0169",
+        "msgStr": "<lips 21 5>\nOndördüncü'nün neler yapabileceğinin fazlasıyla farkındayım...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0170",
+        "msgStr": "<lips 21 5>\nBeklenmedik bir durumla karşılaştın ama hızla kendini toparlayıp görevini yerine getirdin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0171",
+        "msgStr": "<lips 21 5>\nEtkilendim, Ondördüncü Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0172",
+        "msgStr": "<lips 21 5>\n...Hım, bu kendi kendimi övmek gibi mi oldu?<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW01_01_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0173",
+        "msgStr": "> Tapınağın içinde bir çan var."
+      },
+      {
+        "msgID": "map06_e_CROW01_02_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0174",
+        "msgStr": "> Çanı çal?"
+      },
+      {
+        "msgID": "MAP06_E_L0175",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP06_E_L0176",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map06_e_CROW01_03_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0177",
+        "msgStr": "> Çanın sesi etrafta yankılandı..."
+      },
+      {
+        "msgID": "map06_e_CROW02_01_057",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_02_058",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0179",
+        "msgStr": "<lips 8 5>\nOndördüncü Raidou, Kuzunoha'nın İblis Çağırıcısı, bir sorun mu var?<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0180",
+        "msgStr": "Giriş Ritüeli'ni gerçekleştir"
+      },
+      {
+        "msgID": "MAP06_E_L0181",
+        "msgStr": "Vazgeç"
+      },
+      {
+        "msgID": "map06_e_CROW02_03_059",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0182",
+        "msgStr": "<lips 8 5>\nPekâlâ. Seni Başkent'in Karanlık Diyarı'na göndereceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_04_060",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0183",
+        "msgStr": "<lips 8 5>\nHerhangi bir şeye ihtiyacın yok mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_05_061",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0184",
+        "msgStr": "<lips 8 5>\nPekâlâ, öyleyse bu düzlemin ötesindeki bir yer olan Yatagarasu'ya döneceğim...\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_06_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0185",
+        "msgStr": "> Yatagarasu Elçisi ortadan kayboldu."
+      },
+      {
+        "msgID": "map06_e_CROW02_07_063",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0186",
+        "msgStr": "<lips 8 5>\nDemek Ondördüncü Raidou Kuzunoha, son görüşmemizden bu yana güçlenmiş görünüyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_064",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_KAGE_065",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK03_066",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK04_067",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK05_068",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK06_069",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK07_070",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK08_071",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK09_072",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK10_073",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK11_074",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK12_075",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK13_076",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK14_077",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK15_078",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_08_LANK16_079",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_09_080",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_CROW02_10_081",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0204",
+        "msgStr": "<lips 8 5>\nŞu anki durumunla bunları kullanabilirsin.<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_11_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0205",
+        "msgStr": "> Raidou 2 Tüp elde etti."
+      },
+      {
+        "msgID": "map06_e_CROW02_11_02_083",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0206",
+        "msgStr": "<lips 8 5>\nSon bir şey daha...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0207",
+        "msgStr": "<lips 8 5>\nOndördüncü olarak halefiyetini kutlamak adına lütfen bunu al.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_11_03_084",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0208",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Mistik Göz<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map06_e_CROW02_11_04_085",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0209",
+        "msgStr": "<lips 8 5>\nBu ayna, bir iblisin yeteneklerini görmeni sağlayacak. Gelecek savaşlarda faydalı olacaktır.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_11_04_085_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0210",
+        "msgStr": "Pekâlâ, şimdi benden de bir şey var."
+      },
+      {
+        "msgID": "MAP06_E_L0210_01",
+        "msgStr": "Bir dedektifle ortaklık yapacağım için bu \"dedektif günlüğünü\" tutmanın faydalı olacağına inanıyorum."
+      },
+      {
+        "msgID": "MAP06_E_L0210_02",
+        "msgStr": "İşimizle ilgili tüm kelime veya ifadeleri not alacağım. Böylece istediğin zaman onlara başvurabilirsin."
+      },
+      {
+        "msgID": "MAP06_E_L0210_03",
+        "msgStr": "Başlangıç olarak, köydeki eğitiminle ilgili kayıtların yanı sıra şimdiye kadar öğrendiğimiz diğer önemli şeyleri ekleyeceğim."
+      },
+      {
+        "msgID": "map06_e_CROW02_11_04_085_02",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0210_04",
+        "msgStr": "> Gouto tasmasının altından küçük bir günlük ve kalem çıkardı..."
+      },
+      {
+        "msgID": "MAP06_E_L0210_05",
+        "msgStr": "> Ağzındaki kalemle günlüğü ustalıkla doldurdu."
+      },
+      {
+        "msgID": "map06_e_CROW02_11_04_085_03",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0210_06",
+        "msgStr": "Hım, hım, hım... Oh, bu kadarı yeterli olacaktır."
+      },
+      {
+        "msgID": "map06_e_CROW02_11_04_085_05",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0210_09",
+        "msgStr": "> \"Köy Öğretileri\" dedektif günlüğüne eklendi."
+      },
+      {
+        "msgID": "map06_e_CROW02_11_04_085_06",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0210_07",
+        "msgStr": "Şimdi, şu sözde Narumi Dedektiflik Bürosu'na doğru yola çıkalım."
+      },
+      {
+        "msgID": "map06_e_CROW02_11_04_085_04",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0210_08",
+        "msgStr": "<lips 8 5>\nİlerle Raidou ve Başkent'in güvenliğini sağla.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_12_086",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0211",
+        "msgStr": "<lips 8 5>\nBaşkent'teki huzuru korumak için çabalarken göstereceğin gelişimi dört gözle bekliyorum.<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_13_087",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0212",
+        "msgStr": "<lips 8 5>\nOndördüncü Raidou, benden istediğin başka bir şey var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_14_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0213",
+        "msgStr": "> Raidou 4 Tüp elde etti."
+      },
+      {
+        "msgID": "map06_e_CROW02_15_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0214",
+        "msgStr": "> Raidou 6 Tüp elde etti."
+      },
+      {
+        "msgID": "map06_e_EPI07_SADA_01_090",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP06_E_L0215",
+        "msgStr": "<lips 29 5>\nSöyleyecek bir şeyin var gibi görünüyor.<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0216",
+        "msgStr": "...Beni kandırdın."
+      },
+      {
+        "msgID": "MAP06_E_L0217",
+        "msgStr": "Donanma sorguları epey sert görünüyor."
+      },
+      {
+        "msgID": "MAP06_E_L0218",
+        "msgStr": "Ya sana yardım etmeyi reddedersem?"
+      },
+      {
+        "msgID": "MAP06_E_L0219",
+        "msgStr": "<lips 29 5>\nOlaylar sadece bu şekilde gelişti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0220",
+        "msgStr": "<lips 29 5>\nAma anlamalısın ki biz düşman değiliz. Gördüğün gibi Yatagarasu'nun yanındayız.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0221",
+        "msgStr": "<lips 29 5>\nBay Narumi'yi mi kastediyorsun? Olduğundan daha kötü görünüyor ama kalıcı bir hasar yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0222",
+        "msgStr": "<lips 29 5>\nEpey sıkı dövüştü. En iyi adamlarımızdan birkaçını alt etmeyi başardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0223",
+        "msgStr": "<lips 29 5>\nBedeninden çok gururumuz darbe aldı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0224",
+        "msgStr": "<lips 29 5>\nMümkün olan en iyi çözüm bu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0225",
+        "msgStr": "<lips 29 5>\nKorkarım bu konuda başka bir seçeneğin yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu01_091",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0226",
+        "msgStr": "Raidou isminin varisi, bunu iyice aklında tutmaya özen göster."
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu02_092",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0227",
+        "msgStr": "İlk bakışta ıssız, isimsiz bir tapınak gibi görünebilir."
+      },
+      {
+        "msgID": "MAP06_E_L0228",
+        "msgStr": "Ancak burası Kuzunoha klanının <COLOR 1>Yatagarasu<COLOR 0> ile iletişim kurabildiği yerdir."
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu03_093",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0229",
+        "msgStr": "Belirli adımları takip ederek Elçi ile görüşebiliriz. Hadi, dene bakalım."
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu04_094",
+        "msgStr": "Gizemli Kişi"
+      },
+      {
+        "msgID": "MAP06_E_L0230",
+        "msgStr": "<lips 8 5>\nGörünüşe göre Raidou ismi yeni varisine geçmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu05_095",
+        "msgStr": "Gizemli Kişi"
+      },
+      {
+        "msgID": "MAP06_E_L0231",
+        "msgStr": "<lips 8 5>\nAnlıyorum. Demek Ondördüncü sensin.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu06_096",
+        "msgStr": "Gizemli Kişi"
+      },
+      {
+        "msgID": "MAP06_E_L0232",
+        "msgStr": "<lips 8 5>\nBen <COLOR 1>Yatagarasu'dan haber getirenim<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu06_TUIKA001_097",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0233",
+        "msgStr": "<lips 8 5>\n<COLOR 0>Kuzunoha klanının ve bu toprakları ruhani tehditlerden koruma görevinin gözetmeniyim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu07_098",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0234",
+        "msgStr": "Uluslarüstü örgüt, Yatagarasu."
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu08_099",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0235",
+        "msgStr": "Bu ülkedeki İblis Çağırıcılarına onlar komuta eder."
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu09_100",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0236",
+        "msgStr": "Ayrıca iblislerin ardında bıraktığı her türlü pisliği de onlar temizler."
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu10_101",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0237",
+        "msgStr": "Kuzunoha klanı, Yatagarasu'nun emri altındadır."
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu11_102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu12_103",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0239",
+        "msgStr": "<lips 8 5>\nRaidou Kuzunoha'nın her nesli <COLOR 1>Başkent<COLOR 0>'i korumakla görevlendirilmiştir.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu13_104",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0240",
+        "msgStr": "<lips 8 5>\nBaşkent bu ülkenin canlı merkezidir. İnsanlar, kurumlar... Pek çok şey orada yoğunlaşmıştır.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu14_105",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0241",
+        "msgStr": "<lips 8 5>\n...Bu da orayı iblisler için ideal bir avlanma alanı haline getirir.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu15_106",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0242",
+        "msgStr": "<lips 8 5>\nRaidou, Başkent'te ne zaman iblisler ortaya çıkarsa, halk herhangi bir zarar görmeden onları katletmelisin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0243",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_E_L0244",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu15_YES_107",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0245",
+        "msgStr": "<lips 8 5>\nTam da o karanlığı yok etmek için karanlığın içinde var oluyorsun. Bunu asla unutma.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu15_NO_108",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0246",
+        "msgStr": "<lips 8 5>\nSenin görevin budur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0247",
+        "msgStr": "<lips 8 5>\nVe insanlar seni asla bilmemeli.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu16_109",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0248",
+        "msgStr": "Öyleyse şimdi bizden ne yapmamız bekleniyor?"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu16_109_01",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0249",
+        "msgStr": "<lips 8 5>\nRaidou, Başkent'e gidecek. Orada bir \"dedektif çırağı\" olacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0250",
+        "msgStr": "<lips 8 5>\n<COLOR 1>Narumi Dedektiflik Bürosu<COLOR 0>'na git.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0251",
+        "msgStr": "<lips 8 5>\nBüronun başındaki <COLOR 1>Narumi<COLOR 0> bizimle çalışıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu17_110",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP06_E_L0252",
+        "msgStr": "Oo, hem İblis Çağırıcısı hem de dedektif ha? İlginç."
+      },
+      {
+        "msgID": "map06_e_EPI00_karasu18_111",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0253",
+        "msgStr": "<lips 8 5>\nGittiğin okulla ilgili formaliteleri de hallettik.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_TUIKA_NOROI_001_112",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0254",
+        "msgStr": "<lips 8 5>\nOndördüncü Raidou Kuzunoha.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0255",
+        "msgStr": "<lips 8 5>\nNeden hâlâ laneti bozmadın?<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0256",
+        "msgStr": "<lips 8 5>\nGörevin, o laneti koyan iblisi alt etmektir.<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0257",
+        "msgStr": "<lips 8 5>\nÇabuk Karanlık Diyar'a gir ve düşmanınla yüzleş.<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_EPI07_TUIKA_NOROI_004_113",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0258",
+        "msgStr": "> Raidou lanetin kaynağının peşinden giderek başka bir diyara doğru eriyip karışıyor..."
+      },
+      {
+        "msgID": "map06_e_IKAI_SETUMEI_01_114",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0259",
+        "msgStr": "<lips 8 5>\nKaranlık Diyar, bildiğimiz dünyanın ardında uzanır. İblislerin özgürce dolaştığı tehlikeli bir yerdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0260",
+        "msgStr": "<lips 8 5>\nDiyarlar arasındaki sınır incedir ve iblisler bazen bu dünyaya düşer.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0261",
+        "msgStr": "<lips 8 5>\nUnutulmuş çağlardan beri pek çok açıklanamayan olay çoğunlukla iblislerin başının altından çıkmıştır. Bu durum bugün de değişmedi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0262",
+        "msgStr": "<lips 8 5>\nŞimdi, ben Giriş Ritüeli'ni gerçekleştirdiğimde, gerçek dünya ile Karanlık Diyar arasında geçebileceğin yapay bir geçit açılacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP06_E_L0263",
+        "msgStr": "<lips 8 5>\nŞimdi...\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_03_060",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0264",
+        "msgStr": "<lips 8 5>\nLütfen bunu al.\n<lips_stop>"
+      },
+      {
+        "msgID": "map06_e_CROW02_03_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_E_L0265",
+        "msgStr": "> Yatagarasu Elçisi, Raidou'nun açık tüpüne bir iblis koydu!"
+      },
+      {
+        "msgID": "MAP06_E_L0266",
+        "msgStr": "> <DEP_02>Buz Düzeni iblisi Preta gruba katıldı!"
+      },
+      {
+        "msgID": "map06_e_CROW02_03_062",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP06_E_L0267",
+        "msgStr": "<lips 8 5>\nGelecek savaşlarda faydalı olacaktır.\n<lips_stop>"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:56:05"
+}

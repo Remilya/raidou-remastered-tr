@@ -1,0 +1,29 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_USE_MSG_DLC3_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_MEGANE_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0022",
+        "msgStr": "> Raidou gözlüğü taktı."
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0023",
+        "msgStr": "> Raidou gözlüğü çıkardı."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:48:03"
+}

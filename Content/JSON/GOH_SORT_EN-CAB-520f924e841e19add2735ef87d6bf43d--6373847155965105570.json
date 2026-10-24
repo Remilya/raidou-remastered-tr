@@ -1,0 +1,41 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_SORT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_SORT_L0000",
+        "msgStr": "Seviye"
+      },
+      {
+        "msgID": "GOH_SORT_L0001",
+        "msgStr": "Maks. Can"
+      },
+      {
+        "msgID": "GOH_SORT_L0002",
+        "msgStr": "Düzen"
+      },
+      {
+        "msgID": "GOH_SORT_L0003",
+        "msgStr": "Kayıtsız"
+      },
+      {
+        "msgID": "GOH_SORT_L0004",
+        "msgStr": "Füzyonlanabilir"
+      },
+      {
+        "msgID": "GOH_SORT_L0005",
+        "msgStr": "Alfabetik"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:22"
+}

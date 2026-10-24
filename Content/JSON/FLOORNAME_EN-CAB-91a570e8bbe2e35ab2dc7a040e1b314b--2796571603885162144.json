@@ -1,0 +1,401 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "FLOORNAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "FLOORNAME_L0000",
+        "msgStr": "Tsukudo-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0001",
+        "msgStr": "Ginza-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0002",
+        "msgStr": "Ryugu Restoranı"
+      },
+      {
+        "msgID": "FLOORNAME_L0003",
+        "msgStr": "Ginza-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0004",
+        "msgStr": "Shin-Sekai Ön Kapısı"
+      },
+      {
+        "msgID": "FLOORNAME_L0005",
+        "msgStr": "Kırmızı Fener Mahallesi"
+      },
+      {
+        "msgID": "FLOORNAME_L0006",
+        "msgStr": "Fukagawa-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0007",
+        "msgStr": "Daikoku-yu"
+      },
+      {
+        "msgID": "FLOORNAME_L0008",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0009",
+        "msgStr": "Katolik Kilisesi"
+      },
+      {
+        "msgID": "FLOORNAME_L0010",
+        "msgStr": "Yabancılar Mezarlığı"
+      },
+      {
+        "msgID": "FLOORNAME_L0011",
+        "msgStr": "Sakuradayama"
+      },
+      {
+        "msgID": "FLOORNAME_L0012",
+        "msgStr": "İsimsiz Tapınak"
+      },
+      {
+        "msgID": "FLOORNAME_L0013",
+        "msgStr": "Kasumidai"
+      },
+      {
+        "msgID": "FLOORNAME_L0014",
+        "msgStr": "Daidouji Konağı 1. Kat"
+      },
+      {
+        "msgID": "FLOORNAME_L0015",
+        "msgStr": "Daidouji Konağı 2. Kat"
+      },
+      {
+        "msgID": "FLOORNAME_L0016",
+        "msgStr": "Daidouji Konağı Bodrum Katı"
+      },
+      {
+        "msgID": "FLOORNAME_L0017",
+        "msgStr": "Daidouji Konağı 1. Kat"
+      },
+      {
+        "msgID": "FLOORNAME_L0018",
+        "msgStr": "Fabrika İçi"
+      },
+      {
+        "msgID": "FLOORNAME_L0019",
+        "msgStr": "Matris Labirenti"
+      },
+      {
+        "msgID": "FLOORNAME_L0020",
+        "msgStr": "Tersane B1"
+      },
+      {
+        "msgID": "FLOORNAME_L0021",
+        "msgStr": "Tersane B2"
+      },
+      {
+        "msgID": "FLOORNAME_L0022",
+        "msgStr": "Tersane B3"
+      },
+      {
+        "msgID": "FLOORNAME_L0023",
+        "msgStr": "Tersane B4"
+      },
+      {
+        "msgID": "FLOORNAME_L0024",
+        "msgStr": "Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "FLOORNAME_L0025",
+        "msgStr": "1930"
+      },
+      {
+        "msgID": "FLOORNAME_L0026",
+        "msgStr": "1940"
+      },
+      {
+        "msgID": "FLOORNAME_L0027",
+        "msgStr": "1950"
+      },
+      {
+        "msgID": "FLOORNAME_L0028",
+        "msgStr": "1960"
+      },
+      {
+        "msgID": "FLOORNAME_L0029",
+        "msgStr": "1960"
+      },
+      {
+        "msgID": "FLOORNAME_L0030",
+        "msgStr": "1970"
+      },
+      {
+        "msgID": "FLOORNAME_L0031",
+        "msgStr": "1980"
+      },
+      {
+        "msgID": "FLOORNAME_L0032",
+        "msgStr": "1990"
+      },
+      {
+        "msgID": "FLOORNAME_L0033",
+        "msgStr": "2000"
+      },
+      {
+        "msgID": "FLOORNAME_L0034",
+        "msgStr": "2030"
+      },
+      {
+        "msgID": "FLOORNAME_L0035",
+        "msgStr": "2020"
+      },
+      {
+        "msgID": "FLOORNAME_L0036",
+        "msgStr": "2050"
+      },
+      {
+        "msgID": "FLOORNAME_L0037",
+        "msgStr": "2010"
+      },
+      {
+        "msgID": "FLOORNAME_L0038",
+        "msgStr": "2040"
+      },
+      {
+        "msgID": "FLOORNAME_L0039",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "FLOORNAME_L0040",
+        "msgStr": "20XX"
+      },
+      {
+        "msgID": "FLOORNAME_L0041",
+        "msgStr": "20XX"
+      },
+      {
+        "msgID": "FLOORNAME_L0042",
+        "msgStr": "20XX"
+      },
+      {
+        "msgID": "FLOORNAME_L0043",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "FLOORNAME_L0044",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "FLOORNAME_L0045",
+        "msgStr": "Boyutsal Yarık - 199X"
+      },
+      {
+        "msgID": "FLOORNAME_L0046",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "FLOORNAME_L0047",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "FLOORNAME_L0048",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "FLOORNAME_L0049",
+        "msgStr": "Eğitim Salonu B1"
+      },
+      {
+        "msgID": "FLOORNAME_L0050",
+        "msgStr": "Eğitim Salonu B2"
+      },
+      {
+        "msgID": "FLOORNAME_L0051",
+        "msgStr": "Eğitim Salonu B3"
+      },
+      {
+        "msgID": "FLOORNAME_L0052",
+        "msgStr": "Eğitim Salonu B4"
+      },
+      {
+        "msgID": "FLOORNAME_L0053",
+        "msgStr": "Eğitim Salonu B5"
+      },
+      {
+        "msgID": "FLOORNAME_L0054",
+        "msgStr": "Eğitim Salonu B6"
+      },
+      {
+        "msgID": "FLOORNAME_L0055",
+        "msgStr": "Eğitim Salonu B7"
+      },
+      {
+        "msgID": "FLOORNAME_L0056",
+        "msgStr": "Eğitim Salonu B8"
+      },
+      {
+        "msgID": "FLOORNAME_L0057",
+        "msgStr": "Eğitim Salonu B9"
+      },
+      {
+        "msgID": "FLOORNAME_L0058",
+        "msgStr": "Eğitim Salonu B10"
+      },
+      {
+        "msgID": "FLOORNAME_L0059",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "FLOORNAME_L0060",
+        "msgStr": "Kuzunoha Eğitim Salonu"
+      },
+      {
+        "msgID": "FLOORNAME_L0061",
+        "msgStr": "Eğitim Salonu - Doğu"
+      },
+      {
+        "msgID": "FLOORNAME_L0062",
+        "msgStr": "Eğitim Salonu - Batı"
+      },
+      {
+        "msgID": "FLOORNAME_L0063",
+        "msgStr": "Eğitim Salonu - Güney"
+      },
+      {
+        "msgID": "FLOORNAME_L0064",
+        "msgStr": "Eğitim Salonu - Kuzey"
+      },
+      {
+        "msgID": "FLOORNAME_L0065",
+        "msgStr": "Karanlık Tsukudo-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0066",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0067",
+        "msgStr": "Karanlık Daidouji Konağı"
+      },
+      {
+        "msgID": "FLOORNAME_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "FLOORNAME_L0069",
+        "msgStr": "Karanlık Fukagawa-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0070",
+        "msgStr": "Karanlık Harumi-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0071",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "FLOORNAME_L0072",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "FLOORNAME_L0073",
+        "msgStr": "Karanlık Kasumidai"
+      },
+      {
+        "msgID": "FLOORNAME_L0074",
+        "msgStr": "Waden One - Alt"
+      },
+      {
+        "msgID": "FLOORNAME_L0075",
+        "msgStr": "Waden One - Orta"
+      },
+      {
+        "msgID": "FLOORNAME_L0076",
+        "msgStr": "Waden One - Üst"
+      },
+      {
+        "msgID": "FLOORNAME_L0077",
+        "msgStr": "Kubbe İçi"
+      },
+      {
+        "msgID": "FLOORNAME_L0078",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "FLOORNAME_L0079",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "FLOORNAME_L0080",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "FLOORNAME_L0081",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "FLOORNAME_L0082",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "FLOORNAME_L0083",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "FLOORNAME_L0084",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "FLOORNAME_L0085",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "FLOORNAME_L0086",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "FLOORNAME_L0087",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "FLOORNAME_L0088",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0089",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0090",
+        "msgStr": "Tersane B4"
+      },
+      {
+        "msgID": "FLOORNAME_L0091",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "FLOORNAME_L0092",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "FLOORNAME_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "FLOORNAME_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "FLOORNAME_L0095",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/26 18:51:26"
+}

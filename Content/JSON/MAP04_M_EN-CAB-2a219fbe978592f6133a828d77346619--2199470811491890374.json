@@ -1,0 +1,849 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP04_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map04_m_m_Common_Item_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0000",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map04_m_m_Common_ItemSelect SEL_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0001",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP04_M_L0002",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map04_m_m_Common_GetItem_Raidou_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0003",
+        "msgStr": "> Raidou <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map04_m_m_Common_GetItem_Devil_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0004",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map04_m_m_Common_GetMAKA_Raidou_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0005",
+        "msgStr": "> Raidou <COLOR 4><V 0> yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map04_m_m_Common_GetMAKA_Devil_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0006",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0> yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map04_m_m_ep11_jisin_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0007",
+        "msgStr": "> Ruhsuz Tanrı yeri inletiyor..."
+      },
+      {
+        "msgID": "map04_m_m_mes_01_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_mess_02_001_008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_guren_001_009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_guren_raidou_shirabe_001_010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_guren_hakka_001_011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_guren_hakka_002_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_guren_gigei_kanshiki_001_013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_nakama_shirabe_001_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0031",
+        "msgStr": "> Kilise karşı tarafta, buradan ulaşılamaz."
+      },
+      {
+        "msgID": "MAP04_M_L0032",
+        "msgStr": "> Kilise karşı tarafta, buradan ulaşılamaz."
+      },
+      {
+        "msgID": "map04_m_m_msg_kyoukai_003_015",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_M_L0033",
+        "msgStr": "Görünüşe göre ilerlemek istiyorsak suyu geçmemiz gerekecek."
+      },
+      {
+        "msgID": "map04_m_m_msg_kyoukai_004_016",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP04_M_L0034",
+        "msgStr": "Teknemiz yok ama iblislerimiz var. Değil mi, Bay İblis Çağırıcısı?"
+      },
+      {
+        "msgID": "MAP04_M_L0035",
+        "msgStr": "Belki <COLOR 3>Daidouji Malikanesi'ndeki şu Büyük Tarrasque<COLOR 0> bizi sırtında taşır."
+      },
+      {
+        "msgID": "map04_m_m_msg_ring_tuiseki_01_017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_ring_tuiseki_02_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_ring_tuiseki_03_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP04_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_msg_tarasuku_nori_00_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0041",
+        "msgStr": "> Burası bir iskele."
+      },
+      {
+        "msgID": "map04_m_m_msg_tarasuku_nori_01_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0042",
+        "msgStr": "> Büyük Tarrasque çağrılsın mı?"
+      },
+      {
+        "msgID": "MAP04_M_L0043",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP04_M_L0044",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map04_m_m_msg_tarasuku_nori_02_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0045",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map04_m_m_Tel01_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0046",
+        "msgStr": "> Bu, otomatik santralli bir umumi telefon."
+      },
+      {
+        "msgID": "MAP04_M_L0047",
+        "msgStr": "> Son birkaç yıldır Başkent'in dört bir yanında mantar gibi bitiyorlar."
+      },
+      {
+        "msgID": "map04_m_m_Tel02_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map04_m_m_Alice01_01_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0049",
+        "msgStr": "> Telefon çalıyor."
+      },
+      {
+        "msgID": "map04_m_m_Alice01_02_026",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP04_M_L0050",
+        "msgStr": "Fakat dur hele! Bu can sıkıcı his de nedir böyle!?"
+      },
+      {
+        "msgID": "MAP04_M_L0051",
+        "msgStr": "Sanki telefon kablosunun ardındaki varlık beni çağırıyor!"
+      },
+      {
+        "msgID": "map04_m_m_Alice02_01_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0052",
+        "msgStr": "> Nebiros telefona cevap verdi."
+      },
+      {
+        "msgID": "map04_m_m_Alice02_02_028",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP04_M_L0053",
+        "msgStr": "Selamlar...? Sen kimsin?"
+      },
+      {
+        "msgID": "map04_m_m_Alice02_03_029",
+        "msgStr": "Telefondaki Ses"
+      },
+      {
+        "msgID": "MAP04_M_L0054",
+        "msgStr": "Benim..."
+      },
+      {
+        "msgID": "map04_m_m_Alice02_04_030",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP04_M_L0055",
+        "msgStr": "Ah! Yoksa sen... misin!?"
+      },
+      {
+        "msgID": "MAP04_M_L0056",
+        "msgStr": "Benim, güzel bakire... senin Kara Amcan! Beni tanımadın mı?"
+      },
+      {
+        "msgID": "map04_m_m_Alice02_05_031",
+        "msgStr": "Telefondaki Ses"
+      },
+      {
+        "msgID": "MAP04_M_L0057",
+        "msgStr": "Telefona baktığın için teşekkürler Amca!"
+      },
+      {
+        "msgID": "MAP04_M_L0058",
+        "msgStr": "Okyanus çooook güzeldi. Şimdi şehirde alışverişe çıkıyorum!"
+      },
+      {
+        "msgID": "MAP04_M_L0059",
+        "msgStr": "Acaba burada sevimli kıyafetler var mıdır..."
+      },
+      {
+        "msgID": "map04_m_m_Alice02_06_032",
+        "msgStr": "Telefondaki Ses"
+      },
+      {
+        "msgID": "MAP04_M_L0060",
+        "msgStr": "Seni yakında tekrar ararım amca. Bay bay!"
+      },
+      {
+        "msgID": "map04_m_m_Alice02_07_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0061",
+        "msgStr": "> Telefon kapandı..."
+      },
+      {
+        "msgID": "map04_m_m_TYOSUITI01_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0062",
+        "msgStr": "> Burası bir su deposu..."
+      },
+      {
+        "msgID": "map04_m_m_TYOSUITI02_035",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0063",
+        "msgStr": "> Burası bir su deposu..."
+      },
+      {
+        "msgID": "map04_m_m_YAOYA01_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0064",
+        "msgStr": "> Burası bol çeşit bulunan bir manav."
+      },
+      {
+        "msgID": "MAP04_M_L0065",
+        "msgStr": "> Raflarda egzotik meyve ve sebzeler dizili."
+      },
+      {
+        "msgID": "map04_m_m_YAOYA02_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0066",
+        "msgStr": "> Burası bol çeşit bulunan bir manav."
+      },
+      {
+        "msgID": "MAP04_M_L0067",
+        "msgStr": "> <devil 0> sevinçle kendi memleketinden bir meyve keşfetti."
+      },
+      {
+        "msgID": "map04_m_m_KAIGUN01_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0068",
+        "msgStr": "> Burası Deniz Kuvvetleri Karargâhı."
+      },
+      {
+        "msgID": "MAP04_M_L0069",
+        "msgStr": "> Olağandışı hiçbir şey görünmüyor."
+      },
+      {
+        "msgID": "map04_m_m_KAIGUN02_039",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0070",
+        "msgStr": "> Burası Deniz Kuvvetleri Karargâhı."
+      },
+      {
+        "msgID": "MAP04_M_L0071",
+        "msgStr": "> <devil 0> binayı yerle bir etme dürtüsüne kapıldı."
+      },
+      {
+        "msgID": "map04_m_m_REST01_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0072",
+        "msgStr": "> Burası bir İtalyan restoranı."
+      },
+      {
+        "msgID": "MAP04_M_L0073",
+        "msgStr": "> Havada zeytinyağı ve sarımsak kokusu var."
+      },
+      {
+        "msgID": "map04_m_m_REST02_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0074",
+        "msgStr": "> Burası bir İtalyan restoranı."
+      },
+      {
+        "msgID": "MAP04_M_L0075",
+        "msgStr": "> <devil 0> dil peynirini görünce ağzının suyu aktı."
+      },
+      {
+        "msgID": "map04_m_m_REST2_01_042",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0076",
+        "msgStr": "> İtalyan restoranının menüsü var."
+      },
+      {
+        "msgID": "MAP04_M_L0077",
+        "msgStr": "> \"Günün spesiyali mürekkep soslu kalamarlı makarna.\""
+      },
+      {
+        "msgID": "map04_m_m_REST2_02_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0078",
+        "msgStr": "> Burası restoranın menüsü."
+      },
+      {
+        "msgID": "MAP04_M_L0079",
+        "msgStr": "> <devil 0> tabelayı yemeye çalıştı ama sert ve lezzetsizdi."
+      },
+      {
+        "msgID": "map04_m_m_KIYOHIKO01_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0080",
+        "msgStr": "> Burası Salon Kiyohiko."
+      },
+      {
+        "msgID": "MAP04_M_L0081",
+        "msgStr": "> İçerideki antika mobilyalar zengin bir atmosfer yaratıyor."
+      },
+      {
+        "msgID": "MAP04_M_L0082",
+        "msgStr": "> Kültürlü müşteriler dükkânda gülüşüp sohbet ediyor."
+      },
+      {
+        "msgID": "map04_m_m_KIYOHIKO02_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0083",
+        "msgStr": "> Burası Salon Kiyohiko."
+      },
+      {
+        "msgID": "MAP04_M_L0084",
+        "msgStr": "> <devil 0> için burası tıpkı bir kafeye benziyor."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN01_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0085",
+        "msgStr": "> Burası Batı tarzı bir ev."
+      },
+      {
+        "msgID": "MAP04_M_L0086",
+        "msgStr": "> İçeride egzotik bir müzik eşliğinde dans eden yabancı bir kadın var."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN01_dev_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0087",
+        "msgStr": "> Burası Batı tarzı bir ev."
+      },
+      {
+        "msgID": "MAP04_M_L0088",
+        "msgStr": "> <devil 0> içeride egzotik bir müzik eşliğinde dans eden yabancı bir kadın gördü."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN2_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0089",
+        "msgStr": "> Burası Batı tarzı bir ev."
+      },
+      {
+        "msgID": "MAP04_M_L0090",
+        "msgStr": "> Dışarıdaki çamaşır ipinde rengârenk kıyafetler asılı."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN2_dev_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0091",
+        "msgStr": "> Burası Batı tarzı bir ev."
+      },
+      {
+        "msgID": "MAP04_M_L0092",
+        "msgStr": "> <devil 0> rüzgârda sallanan giysilere bakarken hipnotize oldu."
+      },
+      {
+        "msgID": "map04_m_m_BYOUIN01_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0093",
+        "msgStr": "> Burası Batı tarzı bir hastane."
+      },
+      {
+        "msgID": "MAP04_M_L0094",
+        "msgStr": "> Kapıda bir tabela var."
+      },
+      {
+        "msgID": "MAP04_M_L0095",
+        "msgStr": "> \"AÇIK\""
+      },
+      {
+        "msgID": "map04_m_m_BYOUIN02_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0096",
+        "msgStr": "> Burası Batı tarzı bir hastane."
+      },
+      {
+        "msgID": "MAP04_M_L0097",
+        "msgStr": "> Hastane, <devil 0> için belirli bir tesisi çağrıştırdı."
+      },
+      {
+        "msgID": "MAP04_M_L0098",
+        "msgStr": "> <devil 0> aniden iblis füzyonunu hatırladı ve ürperdi."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI01_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0099",
+        "msgStr": "> Burası bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0100",
+        "msgStr": "> \"Sevgili anısına...\""
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI01_dev_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0101",
+        "msgStr": "> Burası bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0102",
+        "msgStr": "> <devil 0> insan hayatının geçiciliği üzerine düşündü."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI02_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0103",
+        "msgStr": "> Burası üzerinde Latince bir yazıt bulunan bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0104",
+        "msgStr": "> \"Requiescat in pace.\""
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI02_02_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0105",
+        "msgStr": "> Burası üzerinde Latince bir yazıt bulunan bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0106",
+        "msgStr": "> <devil 0> insan hayatının kırılganlığı üzerine düşündü."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI03_01_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0107",
+        "msgStr": "> Burası üzerindeki isim kazınmış bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0108",
+        "msgStr": "> Silinmiş yazıt şüpheli görünüyor..."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI03_02_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0109",
+        "msgStr": "> Burası üzerindeki isim kazınmış bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0110",
+        "msgStr": "> <devil 0> mezarda bir terslik olduğunu hissediyor ama tam olarak ne olduğunu çözemiyor."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI04_01_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0111",
+        "msgStr": "> Burası Elfman'ın mezarı."
+      },
+      {
+        "msgID": "MAP04_M_L0112",
+        "msgStr": "> Elfman'ın sesi artık duyulmuyor."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI04_02_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0113",
+        "msgStr": "> Burası Elfman'ın mezarı."
+      },
+      {
+        "msgID": "MAP04_M_L0114",
+        "msgStr": "> Elfman'ın sesi artık duyulmuyor."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI06_060",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0115",
+        "msgStr": "> Burası yazıtı solmuş bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0116",
+        "msgStr": "> \"...d Davi... burada yatıyor\""
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI06_dev01_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0117",
+        "msgStr": "> Burası yazıtı solmuş bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0118",
+        "msgStr": "> \"...d Davi... burada yatıyor\""
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI06_dev02_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0119",
+        "msgStr": "> <devil 0> zorlu bir dövüş için kendini hazırladı."
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI07_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0120",
+        "msgStr": "> Burası üzerinde Fransızca bir yazıt bulunan bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0121",
+        "msgStr": "> \"À la mémoire de...\""
+      },
+      {
+        "msgID": "map04_m_m_GAIJIN_BOTI07_dev_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0122",
+        "msgStr": "> Burası üzerinde Fransızca bir yazıt bulunan bir mezar."
+      },
+      {
+        "msgID": "MAP04_M_L0123",
+        "msgStr": "> <devil 0> insan hayatının ağırlığı üzerine düşündü."
+      },
+      {
+        "msgID": "map04_m_m_Rhone01_01_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0124",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map04_m_m_DAREMOINAI01_01_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0125",
+        "msgStr": "> Burada kimse yok."
+      },
+      {
+        "msgID": "map04_m_m_Shop_EP10_Basic01_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0126",
+        "msgStr": "> Burası artık eskisi kadar canlı hissettirmiyor..."
+      },
+      {
+        "msgID": "map04_m_m_Shop_EP10_Basic02_068",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0127",
+        "msgStr": "> İçeride kimse yok. Tüm binayı bir sessizlik bürümüş..."
+      },
+      {
+        "msgID": "map04_m_m_Shop_EP10_Basic03_069",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0128",
+        "msgStr": "> Burada kimse yok."
+      },
+      {
+        "msgID": "map04_m_m_Shop_EP10_Basic04_070",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0129",
+        "msgStr": "> Dükkânda kimse yok."
+      },
+      {
+        "msgID": "map04_m_m_Shop_EP11_BYOUIN01_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0130",
+        "msgStr": "> Burası Batı tarzı bir hastane."
+      },
+      {
+        "msgID": "MAP04_M_L0131",
+        "msgStr": "> Sanki savaş çıkmış gibi hastane koğuşları yaralılarla dolu."
+      },
+      {
+        "msgID": "map04_m_m_Shop_EP10_GAIJIN01_072",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP04_M_L0132",
+        "msgStr": "> Burası Batı tarzı bir ev."
+      },
+      {
+        "msgID": "MAP04_M_L0133",
+        "msgStr": "> Tişört giymiş, öfkeli görünümlü yabancı bir kadın var."
+      },
+      {
+        "msgID": "MAP04_M_L0134",
+        "msgStr": "> Tişörtün üzerinde \"THE SUMO WRESTLER\" yazıyor."
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/17 10:36:08"
+}

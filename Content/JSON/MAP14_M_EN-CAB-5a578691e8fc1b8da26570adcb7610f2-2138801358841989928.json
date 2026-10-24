@@ -1,0 +1,469 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP14_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map14_e_dammy_14_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map14_m_m_start_000",
+        "msgStr": "Başlat"
+      },
+      {
+        "msgID": "MAP14_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map14_m_m_kaifuku_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP14_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map14_m_m_Exit01_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0002",
+        "msgStr": "> İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map14_m_m_Exit01s SEL_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0003",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP14_M_L0004",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map14_m_m_Limit01_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0005",
+        "msgStr": "> Karanlıktan ağırbaşlı bir ses yankılanıyor."
+      },
+      {
+        "msgID": "map14_m_m_Limit02_005",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0006",
+        "msgStr": "Burası acımasız gerçekliğin mekânıdır."
+      },
+      {
+        "msgID": "MAP14_M_L0007",
+        "msgStr": "Mevcut gücünle daha fazla ilerleyemezsin."
+      },
+      {
+        "msgID": "MAP14_M_L0008",
+        "msgStr": "Eğitim alıp daha güçlü bir hâle geldiğinde geri dön."
+      },
+      {
+        "msgID": "map14_m_m_F0579Boss01_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0009",
+        "msgStr": "> Tuhaf ve hayaletimsi sisin içinden ürkütücü bir ses yükseliyor."
+      },
+      {
+        "msgID": "map14_m_m_F0579Boss01_01_007",
+        "msgStr": "Ürkütücü Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0010",
+        "msgStr": "Bir insan... İçeri bir insan atladı..."
+      },
+      {
+        "msgID": "MAP14_M_L0011",
+        "msgStr": "Gel, ahmak insan... Bize meydan oku..."
+      },
+      {
+        "msgID": "MAP14_M_L0012",
+        "msgStr": "Çırpın... Çırpın ve öl ki bizi eğlendiresin...!"
+      },
+      {
+        "msgID": "map14_m_m_F0579Boss01_02_008",
+        "msgStr": "Ürkütücü Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0013",
+        "msgStr": "Sadece bir iblis... Kendi türümüzden birine ihtiyacımız yok..."
+      },
+      {
+        "msgID": "MAP14_M_L0014",
+        "msgStr": "Hemen git... Bizim aradığımız bir insan..."
+      },
+      {
+        "msgID": "map14_m_m_F0579Boss01s SEL_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0015",
+        "msgStr": "Meydan okumasını kabul et"
+      },
+      {
+        "msgID": "MAP14_M_L0016",
+        "msgStr": "Savaşmayı reddet"
+      },
+      {
+        "msgID": "map14_m_m_F0579Boss01a_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0017",
+        "msgStr": "> Hayaletimsi sis Raidou'ya saldırmak için toplanıyor."
+      },
+      {
+        "msgID": "map14_m_m_F0579Boss01b_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0018",
+        "msgStr": "> Hayaletimsi sis sessizce dağılıp gidiyor..."
+      },
+      {
+        "msgID": "map14_m_m_F0579Clear01_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0019",
+        "msgStr": "> Hayaletimsi sis dağılırken Raidou'nun elinde bir şey cisimleşiyor..."
+      },
+      {
+        "msgID": "map14_m_m_F0579Clear02_01_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0020",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Hayalet Kafatası<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map14_m_m_F0579Clear02_02_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0021",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Tiran Dölü<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map14_m_m_F0579Clear02_03_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0022",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Cehennem Amblemi<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map14_m_m_F04Boss01_016",
+        "msgStr": "Yoshitsune"
+      },
+      {
+        "msgID": "MAP14_M_L0023",
+        "msgStr": "Hey, uzaktayken kulağını dört aç ama yakındayken sadece gözlerini kullan!"
+      },
+      {
+        "msgID": "MAP14_M_L0024",
+        "msgStr": "Hiç öyle resmiyete gerek yok. N'aber dostum? Benim adım Yoshitsune!"
+      },
+      {
+        "msgID": "MAP14_M_L0025",
+        "msgStr": "Sen 14. Raidou'sun, değil mi? Adını bayağı sık duyuyorum."
+      },
+      {
+        "msgID": "MAP14_M_L0026",
+        "msgStr": "İstersen ekibine katılmaya dünden razıyım!"
+      },
+      {
+        "msgID": "MAP14_M_L0027",
+        "msgStr": "Ama... işini öyle çok da kolaylaştıramam."
+      },
+      {
+        "msgID": "MAP14_M_L0028",
+        "msgStr": "Bana patronum olmak için gereken cevhere sahip olduğunu göster!"
+      },
+      {
+        "msgID": "map14_m_m_F04Boss01dev_017",
+        "msgStr": "Yoshitsune"
+      },
+      {
+        "msgID": "MAP14_M_L0029",
+        "msgStr": "Son zamanlarda bir Çağırıcının buralarda fırtınalar estirdiğini duydum."
+      },
+      {
+        "msgID": "MAP14_M_L0030",
+        "msgStr": "Gerçi hâlâ acemi olduğunu söylüyorlar; daha lise çağında bir çocukmuş."
+      },
+      {
+        "msgID": "MAP14_M_L0031",
+        "msgStr": "Gerçekten ne kadar güçlü olduğunu görmek istiyorum."
+      },
+      {
+        "msgID": "map14_m_m_F04Boss02_018",
+        "msgStr": "Yoshitsune"
+      },
+      {
+        "msgID": "MAP14_M_L0032",
+        "msgStr": "Vay be, taş gibi sağlam çıktın! Fena değil, evlat."
+      },
+      {
+        "msgID": "MAP14_M_L0033",
+        "msgStr": "Sana bir şey söyleyeyim mi; saygımı kazandın, bu iş tamam."
+      },
+      {
+        "msgID": "map14_m_m_F04Boss03_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0034",
+        "msgStr": "> <DEP_05>Öfke Düzeni'nden Yoshitsune artık Gouma-Den'de füzyonlanabilir!"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss01_01_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0035",
+        "msgStr": "> Dondurucu, hayaletimsi bir sis yükseliyor!"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss01_02_021",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0036",
+        "msgStr": "İnsanoğlu ne acınası. Sen de orada kaybolmuş, uçuruma doğru uzanıyorsun."
+      },
+      {
+        "msgID": "MAP14_M_L0037",
+        "msgStr": "Seni ileriye iten şeyin ne olduğunu sorsam sunacak hiçbir cevabın olmazdı."
+      },
+      {
+        "msgID": "map14_m_m_F10Boss01_03_022",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0038",
+        "msgStr": "Bunun yerine sadece şunu soruyorum: Buraya huzuruma çıkmak için mi geldin?"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss01_03s SEL_023",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0039",
+        "msgStr": "Evet, onun için geldim."
+      },
+      {
+        "msgID": "MAP14_M_L0040",
+        "msgStr": "Pek sayılmaz."
+      },
+      {
+        "msgID": "MAP14_M_L0041",
+        "msgStr": "Sen kimsin?"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss02_01_024",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP14_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP14_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss02_02_025",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0045",
+        "msgStr": "O hâlde Kral adına arzunu yerine getireceğim."
+      },
+      {
+        "msgID": "map14_m_m_F10Boss03_01_026",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0046",
+        "msgStr": "Elveda o hâlde. Yolculuğun başarıyla sonuçlansın."
+      },
+      {
+        "msgID": "map14_m_m_F10Boss04_01_027",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0047",
+        "msgStr": "Belki de önce tanışmamız gerekir. Makul bir istek."
+      },
+      {
+        "msgID": "map14_m_m_F10Boss04_02_028",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0048",
+        "msgStr": "Ben uçurumun kralıyım."
+      },
+      {
+        "msgID": "MAP14_M_L0049",
+        "msgStr": "Eğer huzuruma çıkmak istiyorsan önce buna layık olduğunu kanıtlamalısın."
+      },
+      {
+        "msgID": "MAP14_M_L0050",
+        "msgStr": "Bunu bana <COLOR 1>Hayalet Kafatası, Tiran Dölü ve Cehennem Amblemi<COLOR 0>'ni sunarak yap."
+      },
+      {
+        "msgID": "MAP14_M_L0051",
+        "msgStr": "Dikkatli ol, zira hepsi Cehennem'de dövülmüştür."
+      },
+      {
+        "msgID": "MAP14_M_L0052",
+        "msgStr": "Kafatası, döl, Cehennem, kral ve hiçlik... Hepsi cehennemidir."
+      },
+      {
+        "msgID": "MAP14_M_L0053",
+        "msgStr": "Bu meydan okumayı kabul edersen karşılaşmamızı dört gözle bekleyeceğim."
+      },
+      {
+        "msgID": "map14_m_m_F10Boss05_01_029",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP14_M_L0054",
+        "msgStr": "Ben Sineklerin Efendisi, Beelzebub!"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss05_02_030",
+        "msgStr": "Beelzebub"
+      },
+      {
+        "msgID": "MAP14_M_L0055",
+        "msgStr": "Benimle görüşmek için bizzat Cehennem'i aşmış olman oldukça takdire şayan..."
+      },
+      {
+        "msgID": "MAP14_M_L0056",
+        "msgStr": "Ancak asıl korkman gereken şey bu görüşmenin ta kendisidir."
+      },
+      {
+        "msgID": "MAP14_M_L0057",
+        "msgStr": "Alevlerin içinde dur ve Cehennem'in gerçek ateşinde sınan!"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss06_01_031",
+        "msgStr": "Beelzebub"
+      },
+      {
+        "msgID": "MAP14_M_L0058",
+        "msgStr": "Demek uçurumun kralı alt edildi..."
+      },
+      {
+        "msgID": "map14_m_m_F10Boss06_02_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0059",
+        "msgStr": "> <DEP_06>Pagan Düzeni'nden Beelzebub artık Gouma-Den'de füzyonlanabilir!"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss06_03_033",
+        "msgStr": "Beelzebub"
+      },
+      {
+        "msgID": "MAP14_M_L0060",
+        "msgStr": "Elveda. Tekrar görüşmek dileğiyle."
+      },
+      {
+        "msgID": "map14_m_m_F10Boss07_01_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0061",
+        "msgStr": "> Hayaletimsi sis dağılıp gitti..."
+      },
+      {
+        "msgID": "map14_m_m_F10Boss_LAST01_035",
+        "msgStr": "Beelzebub"
+      },
+      {
+        "msgID": "MAP14_M_L0062",
+        "msgStr": "Tebrikler!"
+      },
+      {
+        "msgID": "MAP14_M_L0063",
+        "msgStr": "Fakat bir insan tarafından yenilgiye uğratılmak... Görünüşe göre paslanmışım."
+      },
+      {
+        "msgID": "MAP14_M_L0064",
+        "msgStr": "Hayır, sıradan bir ölümlüye geçilecek değilim!"
+      },
+      {
+        "msgID": "map14_m_m_F10Boss_LAST02_036",
+        "msgStr": "Beelzebub"
+      },
+      {
+        "msgID": "MAP14_M_L0065",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP14_M_L0066",
+        "msgStr": "Gouma-Den'de bir araya gelelim."
+      },
+      {
+        "msgID": "MAP14_M_L0067",
+        "msgStr": "Orada gerçek ihtişamıma tanıklık edeceksin."
+      },
+      {
+        "msgID": "map14_m_m_QUEST_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP14_M_L0076",
+        "msgStr": "> Zemine kazınmış bir sayı var..."
+      },
+      {
+        "msgID": "MAP14_M_L0077",
+        "msgStr": "\"A: 1,995,122\""
+      },
+      {
+        "msgID": "MAP14_M_L0078",
+        "msgStr": "\"B: 5,971,113\""
+      },
+      {
+        "msgID": "MAP14_M_L0079",
+        "msgStr": "\"C: 2,006,030\""
+      },
+      {
+        "msgID": "MAP14_M_L0080",
+        "msgStr": "\"D: 281,023\""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:49"
+}

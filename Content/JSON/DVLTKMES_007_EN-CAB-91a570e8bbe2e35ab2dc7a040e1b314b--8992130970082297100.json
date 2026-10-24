@@ -1,0 +1,517 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DVLTKMES_007_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DVLTKMES_007_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0001",
+        "msgStr": "KENDİMİ İYİ HİSSEDİYORUM!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0002",
+        "msgStr": "AUUUUU! YAŞASIN BEN!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0003",
+        "msgStr": "KESKİN DUYULARIM YALAN SÖYLEMEZ."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0004",
+        "msgStr": "RAIDOU, BU ÇOK KOLAY."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0005",
+        "msgStr": "GRR... ZAMANIMI BOŞA HARCIYORSUN."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0006",
+        "msgStr": "GRRRR..."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0007",
+        "msgStr": "BENİ AFFET. AUUUUU!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0008",
+        "msgStr": "AUUUUU..."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0009",
+        "msgStr": "BİR İNSANA GÖRE FENA DEĞİLSİN."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0010",
+        "msgStr": "BEN HARİKAYIM!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0011",
+        "msgStr": "RAIDOU. DAHA İYİSİNİ YAPAMAZ MISIN?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0012",
+        "msgStr": "RAIDOU. HAYAL KIRIKLIĞI YARATIYORSUN..."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0013",
+        "msgStr": "KAN! ET! YEMEEEEEEK!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0014",
+        "msgStr": "MRRRR... İYİLEŞTİRME YOK MU?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0015",
+        "msgStr": "GUH... ELVEDA, RAIDOU..."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0016",
+        "msgStr": "SANA BİR İBLİSİN GÜCÜNÜ GÖSTERECEĞİM!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0017",
+        "msgStr": "RAIDOU, BİZİ KÖTÜYE KULLANMA!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0018",
+        "msgStr": "YİNE SENİN YANINDA YÜRÜYECEĞİM."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0019",
+        "msgStr": "NE ACIMASIZ BİR EFENDİ..."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0020",
+        "msgStr": "MANTIKLI GÖRÜNÜYOR..."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0021",
+        "msgStr": "YAPACAĞIM! MORALİM ÇOK YÜKSEK!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0022",
+        "msgStr": "SONRA GÖRÜŞÜRÜZ. AUUUUU!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0023",
+        "msgStr": "BANA KATIL, RAIDOU!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0024",
+        "msgStr": "DİKKATLİ OL, RAIDOU..."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0025",
+        "msgStr": "PON."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0026",
+        "msgStr": "CHII."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0027",
+        "msgStr": "KAN."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0028",
+        "msgStr": "HIMMM... RIICHI."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0029",
+        "msgStr": "RON DİYORUM!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0030",
+        "msgStr": "MAG! HEMEN BANA VER!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0031",
+        "msgStr": "RAIDOU!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0032",
+        "msgStr": "AUUUUU!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0033",
+        "msgStr": "RUH GÜCÜM TAMAMEN DOLU!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0035",
+        "msgStr": "SEN KAZANDIN. ÇOK GÜÇLÜSÜN!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0036",
+        "msgStr": "TAMAM, ARTIK SENİN İBLİSİNİM!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0037",
+        "msgStr": "AUUUUUUUUU!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0038",
+        "msgStr": "ÇAĞIRICI, İBLİSLERİ KULLANIYORSUN."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0039",
+        "msgStr": "İŞE YARAR HİSSETMEYİ SEVİYORUM."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0046",
+        "msgStr": "SEN. BANA ADINI SÖYLE."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0047",
+        "msgStr": "14. Raidou Kuzunoha."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0048",
+        "msgStr": "<NAME 0>."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0049",
+        "msgStr": "Söylemem."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0050",
+        "msgStr": "İNSANLARA İTAAT ETMEM! BENİ ÖLDÜRSEN DAHA İYİ!"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0051",
+        "msgStr": "Öyle olsun."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0052",
+        "msgStr": "Bunu yapmayacağım."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0053",
+        "msgStr": "Sakin ol biraz."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0054",
+        "msgStr": "BANA NE YAPACAKSIN?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0055",
+        "msgStr": "Omuz omuza savaşacağız."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0056",
+        "msgStr": "Evcil hayvanım olacaksın."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0057",
+        "msgStr": "Seni füzyon için kullanacağım."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0058",
+        "msgStr": "İBLİSLERLE DOST OLMAK MI İSTİYORSUN?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0059",
+        "msgStr": "Elbette istiyorum."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0060",
+        "msgStr": "Belki de değilimdir..."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0061",
+        "msgStr": "İşi profesyonel tutalım."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0062",
+        "msgStr": "İNSANLAR VE İBLİSLER ARKADAŞ OLABİLİR Mİ?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0063",
+        "msgStr": "Elbette olabiliriz."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0064",
+        "msgStr": "Hayır, olamayız."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0065",
+        "msgStr": "Arkadaştan öte olabiliriz."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0066",
+        "msgStr": "SEN BİR DEDEKTİFSİN. NEDEN DAVALARI ÇÖZÜYORSUN?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0067",
+        "msgStr": "Gerçek suçluları yakalamak için."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0068",
+        "msgStr": "Başkent'i korumak için."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0069",
+        "msgStr": "Görevimi yerine getirmek için."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0070",
+        "msgStr": "İNSANLARIN BİR GELECEĞİ OLDUĞUNU DÜŞÜNÜYOR MUSUN?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0071",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0072",
+        "msgStr": "İnanmıyorum."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0073",
+        "msgStr": "Emin değilim."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0074",
+        "msgStr": "ACIKTIM. NE YEMELİYİM?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0075",
+        "msgStr": "Ramen."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0076",
+        "msgStr": "Hayashi pilavı."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0077",
+        "msgStr": "Şinitzel."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0078",
+        "msgStr": "ACIKTIM. NE YEMELİYİM?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0079",
+        "msgStr": "Köri."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0080",
+        "msgStr": "Omletli pilav."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0081",
+        "msgStr": "Kroket."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0082",
+        "msgStr": "BANA GÜVENEBİLİR MİSİN?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0083",
+        "msgStr": "Elbette."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0084",
+        "msgStr": "Hayır, güvenmem."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0085",
+        "msgStr": "Hiçbir söz veremem."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0086",
+        "msgStr": "İYİ CEVAP."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0087",
+        "msgStr": "SENİ SEVDİM."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0088",
+        "msgStr": "İYİ SEÇİM."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0089",
+        "msgStr": "KALBİN SAF."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0090",
+        "msgStr": "HOŞUMA GİTMEDİ."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0091",
+        "msgStr": "DEMEK BÖYLE DÜŞÜNÜYORSUN...?"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0092",
+        "msgStr": "PEK ZEKİ DEĞİLSİN."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0093",
+        "msgStr": "KALBİN KİRLENMİŞ."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0094",
+        "msgStr": "İNSANLAR BİZİM AKSİMİZE ZAYIFTIR. BU YÜZDEN ÇOK FAZLA DÜŞÜNÜRLER."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_007_L0123",
+        "msgStr": "BAŞKENT'İ KORUYACAĞIZ."
+      },
+      {
+        "msgID": "DVLTKMES_007_L0124",
+        "msgStr": "DAHA FAZLA! DAHA FAZLA SALDIR!"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:48:50"
+}

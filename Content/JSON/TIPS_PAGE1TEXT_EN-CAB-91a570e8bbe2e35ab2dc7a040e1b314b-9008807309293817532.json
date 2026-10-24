@@ -1,0 +1,269 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "TIPS_PAGE1TEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0001",
+        "msgStr": "<BTN_Y> Hafif kılıç saldırısı\n<BTN_X> Ağır kılıç saldırısı\n  <COLOR 1>Not: Kılıç saldırılarının kontrol şeması \"Oyun Ayarları\" içinden art arda basma ve basılı tutma arasında değiştirilebilir.<COLOR 0>\n<BTN_A> Kaçınma\n<BTN_L1> Savunma\n<BTN_B> Zıplama\n(Zıplama saldırıları da mümkündür)\n<BTN_OP2> Savaş menüsü\n\n<INS_IMG 000>\n\n1) HP: Yaşam gücünüz. Tükenmesine izin vermeyin.\n2) MAG: Kalan MAG (Manyetit) miktarınız. Çeşitli özel eylemler kullanılırken tüketilir."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0003",
+        "msgStr": "Silah saldırıları <COLOR 1>düşmanlarınızın hareketlerini engellemek<COLOR 0> için kullanışlıdır.\n\n1) Silahınızı hazırlamak için <BTN_L2> düğmesine basılı tutun.\n2) Ateş etmek için <BTN_R2> düğmesine basın (kilitlendiğiniz düşmana ateş edersiniz ve elbette o an yalnızca doldurulmuş merminiz kadar ateş edebilirsiniz).\n3) <BTN_L2> düğmesini bırakarak silahınızı kılıfına sokun.\n\nKilitlenilen hedefleri değiştirmek için <BTN_R1>+<BTN_AR> kullanın veya silahınız çekiliyken doğrudan <BTN_R1> düğmesine basın.\n\n<COLOR 1>Ne kadar çok ateş ederseniz<COLOR 0>, bir düşmanın hareketini durdurma ihtimaliniz o kadar artar. Cephaneniz <COLOR 1>zaman geçtikçe otomatik olarak yeniden doldurulur<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0007",
+        "msgStr": "HP'niz düşükse, eşyalarınız arasından bir <COLOR 1>İlaç<COLOR 0> seçip <BTN_DU> ile kullanın."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0008",
+        "msgStr": "<INS_IMG 010>\n\n<BTN_R2>+<BTN_A>(bir iblisin yakınındayken art arda basın/basılı tutun) Tüpe alma sanatı\n\n*Kontroller \"Oyun Ayarları\" içinden art arda basma veya basılı tutma arasında değiştirilebilir.\n\nTüpe alma sanatı <COLOR 1>MAG tüketir<COLOR 0> ve tüketilen miktar hedef iblisin seviyesine göre belirlenir. Örneğin, 8. seviye bir iblisi tüpe almak 8 MAG gerektirir."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0010",
+        "msgStr": "<INS_IMG 001>\n\nSavaşta <COLOR 1>MAG miktarınızı geri kazanmak için kullanabileceğiniz çeşitli yöntemler<COLOR 0> vardır. Bu tekniklerin tamamına birden <COLOR 1>MAG Emme<COLOR 0> denir.\n\n1) <COLOR 1>Hafif kılıç saldırıları<COLOR 0>\n(<BTN_Y> ile kullanılan hafif kılıç saldırıları az hasar verir ama düşmanlardan MAG emebilir. <BTN_X> ile kullanılan ağır kılıç saldırıları daha fazla hasar verir ama MAG ememez.)\n\n2) <COLOR 1>Silah atışları<COLOR 0>\n(<BTN_L2> düğmesine basılı tutun ve <BTN_R2> ile ateş edin.)\n\n3) <COLOR 1>İblislerin temel saldırıları<COLOR 0>\n\n4) <COLOR 1>Düşmanları alt etmek<COLOR 0> (yöntemden bağımsız olarak)\n\n5) <COLOR 1>Sersemlemiş düşmanlara yapılan hafif kılıç saldırıları<COLOR 0>\n\n6) <COLOR 1>Sersemlemiş düşmanlara yapılan temel iblis saldırıları<COLOR 0>\n\n\nİblislerinizin MAG yenilemeye odaklanmasını istiyorsanız davranışlarını <COLOR 1>Yetenek Kullanma<COLOR 0> olarak ayarlayın. İblislerinizin saldırmaya, iyileştirmeye ve güçlendirme uygulamaya odaklanmasını tercih ediyorsanız davranışlarını <COLOR 1>Yetenek Kullan<COLOR 0> olarak ayarlayın.\n\nSavaşırken düzenli olarak yeterli MAG üretebilirseniz, <COLOR 1>kesintisiz bir şekilde yetenek kullanabilirsiniz<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0011",
+        "msgStr": "<BTN_OP2> ile soruşturma menüsünü açıp \"Çağır\" seçeneğine gidin, ardından bir iblis seçin (bu durumda Ukobach olacaktır). Bundan sonra Alp'e yaklaşın ve <BTN_B> ile \"Tutuşturma\" Soruşturma Yeteneğini kullanın.\n\nBir İblis Çağırıcısı olarak iblislerinizi yalnızca savaşta değil, soruşturmalarda da kullanmaya özen göstermelisiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0014",
+        "msgStr": "Sahadayken <BTN_OP2> ile soruşturma menüsünü açın ve \"Köy Öğretileri\" seçeneğini seçin.\n\n\"Köy Öğretileri\" seçeneğini ana menüden (<BTN_X>) veya savaştayken savaş menüsünden (<BTN_OP2>) de seçebilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0015",
+        "msgStr": "<BTN_AL> Hareket et\n<BTN_R2> Koş (hareket ederken basılı tut)\n<BTN_L3> Koş (hareket ederken bir kez bas)\n<BTN_AR> Kamerayı hareket ettir (yalnızca belirli bölgelerde)\n<BTN_OP2> Soruşturma menüsü\n<BTN_OP1> Harita\n<BTN_X> Ana menü\n\nSoruşturma menüsünden (<BTN_OP2>) veya ana menüde (<BTN_X>) \"Seçenekler\"i seçtikten sonra hızlı kayıt yapabilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0017",
+        "msgStr": "Soruşturmanız ilerledikçe <COLOR 1>mevcut hedefiniz<COLOR 0> gerektiğinde güncellenecektir.\n\nBu hedef, ekranın sağ üst köşesindeki <COLOR 1>mini haritanın yanında<COLOR 0>, <BTN_OP2> ile soruşturma menüsünü açtığınızda görüntülenecektir. Ayrıca birkaç saniye hareketsiz durduğunuzda kendiliğinden de belirecektir. Ek olarak, <BTN_X> ile ana menüyü açıp dedektif günlüğüne giderek <COLOR 1>Hedefinizi<COLOR 0> kontrol edebilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0018",
+        "msgStr": "Korumaya Alma\n\nKorumaya alma, <COLOR 1>düşman saldırılarından hasar almaktan kaçınmak için temel bir tekniktir<COLOR 0>. Bunu kullanmak <COLOR 1>tüm iblislerinizi geçici olarak yenilmez yapar<COLOR 0>.\n\n<INS_IMG 016>\n\n<BTN_L3> Korumaya almayı aç/kapat\n\n\nİkinci iblisinize emir verme\n\n<BTN_DR> 2. iblis için \"Yetenek Kullan\" ve \"Yetenek Kullanma\" arasında geçiş yap\n\n<BTN_OP2> <COLOR 1>Emir<COLOR 0>\n\nAlp, <COLOR 1>Dia<COLOR 0> iyileştirme yeteneğine sahiptir. Ona Yetenek Kullan emri verirseniz, <COLOR 1>gerektiğinde müttefiklerini otomatik olarak iyileştirecektir<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0019",
+        "msgStr": "Düşmanları alt edip tecrübe kazandıkça <COLOR 1>seviye atlayacak<COLOR 0> ve niteliklerinizi artırmak için <COLOR 1>serbestçe dağıtabileceğiniz puanlar <COLOR 0> kazanacaksınız.\n\n<COLOR 1>Kv<COLOR 0>: Fiziksel saldırı gücünüzü artırır.\n\n<COLOR 1>By<COLOR 0>: İblislerinizin niteliklerini güçlendirmenin yanı sıra, hem kendi büyü yeteneklerinizin gücünü hem de onlara karşı direncinizi artırır.\n\n<COLOR 1>Cn<COLOR 0>: Maksimum HP'nizi ve fiziksel saldırılara karşı direncinizi artırır.\n\n<COLOR 1>Şn<COLOR 0>: Diğer etkilerin yanı sıra kritik vuruş oranınızı ve durum rahatsızlıklarına karşı direncinizi artırır."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0021",
+        "msgStr": "İblislerinize şu şekilde emir verebilirsiniz:\n\n<INS_IMG 014>\n\nYetenek Kullan ve Yetenek Kullanma davranışları arasında geçiş yapmak için <BTN_DL> düğmesine basın. Yetenek Kullan seçildiğinde, iblisleriniz duruma göre otomatik olarak yetenek kullanacak ve <COLOR 1>düşman zayıflıklarını hedeflemeye çalışacaktır<COLOR 0>. Yetenek Kullanma seçildiğinde ise iblisleriniz mümkün olduğunca yetenek kullanmadan savaşacaktır. Bu, <COLOR 1>MAG saklamak<COLOR 0> için önerilen taktiktir.\n\nİblislerinizin hangi yetenekleri kullanacağını elle de değiştirebilir ve hedeflerini belirleyebilirsiniz. \n\nBunu yapmak için <BTN_OP2> düğmesine basın ve <COLOR 1>Emir<COLOR 0> seçeneğini seçin. İblisleriniz yeteneklerini kullandığında <COLOR 1>MAG'ınızı tüketeceklerini<COLOR 0> unutmayın.\n\n<INS_IMG 023>"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0022",
+        "msgStr": "İblisleriniz savaşta düşmanları alt ettiğinde <COLOR 1>tecrübe kazanacak ve sonunda seviye atlayacaktır<COLOR 0>. Bir iblis seviye atladığında nitelikleri <COLOR 1>otomatik olarak artacak<COLOR 0> ve yeni <COLOR 1>Savaş Yetenekleri<COLOR 0> öğrenebilecektir."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0023",
+        "msgStr": "Zayıflık kalkanına sahip düşmanlar <COLOR 1>sersemletilemez<COLOR 0>.\n\n<INS_IMG 005>\n\nKalkan kırılana dek <COLOR 1>sürekli saldırmanız<COLOR 0> gerekecektir. Bu işlem, düşmanın zayıf olduğu yatkınlığa sahip saldırılar kullanılarak <COLOR 1>önemli ölçüde daha hızlı gerçekleştirilebilir<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0024",
+        "msgStr": "Siz ve iblisleriniz, yalnızca Narumi Dedektiflik Bürosu'na dönerek <COLOR 1>HP ve MAG'ınızı tamamen yenileyebilir, ayrıca durum rahatsızlıklarını iyileştirebilirsiniz<COLOR 0>. İtiraf etmesi zor olsa da burası bizim için oldukça rahatlatıcı bir yer olmalı."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0025",
+        "msgStr": "Durum ekranından iblislerinizin mevcut durumunu, <COLOR 1>seviye atlamak için gereken tecrübe miktarını<COLOR 0> ve <COLOR 1>bir sonraki Pasif Yeteneği öğrenmek için gereken Sadakat miktarını<COLOR 0> görüntüleyebilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0026",
+        "msgStr": "<COLOR 1>Bir iblise uzaktan kumanda etmek<COLOR 0> için <BTN_OP2> ile soruşturma menüsünü açıp \"Tek Başına Soruşturma\" seçeneğini seçebilirsiniz. Bunu yapmak MAG tüketmez. Ancak tek başına soruşturma sırasında hem hızlı kaydın hem de otomatik kaydın kullanılamayacağını unutmayın."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0027",
+        "msgStr": "<COLOR 1>Anında<COLOR 0>, <COLOR 1>daha önce ziyaret ettiğiniz yerlere<COLOR 0> seyahat etmek için <BTN_L1> düğmesine basabilir veya soruşturma menüsünden \"Ekspres Tramvay\" seçeneğini seçebilirsiniz. Konumunuza veya soruşturmanızın durumuna bağlı olarak bazen <COLOR 1>ekspres tramvaylar kullanılamayabilir<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0028",
+        "msgStr": "Gouma-Den, <COLOR 1>Dr. Victor<COLOR 0> tarafından işletilen bir araştırma tesisidir. Tsukudo-cho'daki Konnou-ya'nın bodrum katında bulunur.\n\nBurada ücretsiz olarak <COLOR 1>iblis füzyonu<COLOR 0> yapabilirsiniz. Ayrıca belirli bir ücret karşılığında <COLOR 1>İblis Rehberi<COLOR 0>'ni kullanabilir ve <COLOR 1>iyileşebilirsiniz<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0029",
+        "msgStr": "Gizli Saldırı, çağrılmış bir iblisi kullanarak <COLOR 1>savaşa avantajlı başlamanızı<COLOR 0> veya <COLOR 1>savaşa hiç girmeden düşmanları alt etmenizi<COLOR 0> sağlayan bir yöntemdir.\n\n<INS_IMG 017>\n\n<BTN_Y> Gizli Saldırı\n<BTN_R1> Hedef değiştir\n\nBaşarılı bir Gizli Saldırı gerçekleştirmek için <COLOR 1>düşman tarafından fark edilmemeniz<COLOR 0> gerekir. Saldırı isabet ettikten sonra aşağıdakilerden biri gerçekleşir:\n\n1) Hedeften* <COLOR 1>10 veya daha fazla<COLOR 0> seviye yüksekteyseniz, iblisiniz savaş başlamadan karşılaşmadaki tüm düşmanları anında alt eder. Zaferden <COLOR 1>tecrübe ve eşyalar<COLOR 0> kazanırsınız ve bu tecrübe <COLOR 1>size ve tüm iblislerinize<COLOR 0> dağıtılır.\n2) Hedefi anında alt edecek kadar <COLOR 1>yüksek seviyede değilseniz<COLOR 0>, savaş her zamanki gibi başlar. Ancak Gizli Saldırı kullanan iblisin <COLOR 1>Düzenine<COLOR 0> bağlı olarak bir tür <COLOR 1>savaş avantajı<COLOR 0> elde edersiniz.\n\n\n*Bu bağlamda \"hedef\", normal bir şekilde savaşa girmeniz halinde karşılaşacağınız iblis grubu arasındaki <COLOR 1>en yüksek seviyeli düşmanı<COLOR 0> ifade eder."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0030",
+        "msgStr": "Tüpe alma sanatının kısa bir özeti:\n\nTüpe alma, <COLOR 1>daha fazla iblisi gruba katmanın<COLOR 0> anahtarıdır.\n\n<INS_IMG 010>\n\n<BTN_R2>+<BTN_A>(bir iblisin yakınındayken art arda basın/basılı tutun) Tüpe alma sanatı\n\n*Kontroller \"Oyun Ayarları\" içinden art arda basma veya basılı tutma arasında değiştirilebilir.\n\nTüpe alma sanatı belirli miktarda MAG tüketir ve yalnızca sizinle aynı veya daha düşük seviyedeki iblisler üzerinde kullanılabilir. Bu teknikle <COLOR 1>eşya da çalabilirsiniz<COLOR 0>.\n\n<COLOR 1>Aynı iblisten iki tanesini<COLOR 0> aynı anda müttefikiniz yapabilirsiniz. Örneğin, savaşta iki Jack Frost çağırabilir veya en sevdiğiniz iblisin birden fazla versiyonundan oluşan eksiksiz bir ekip kurabilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0031",
+        "msgStr": "<COLOR 1>İblislerinizin toplam Sadakati belirli bir seviyeye her ulaştığında<COLOR 0>, Yatagarasu takdirini göstermek için rütbenizi yükseltecektir. Bu gerçekleştiğinde size <COLOR 1>yeni unvanlar<COLOR 0> bahşedilecek ve hatta daha fazla iblis taşımanıza olanak tanıyan <COLOR 1>daha fazla tüp<COLOR 0> bile alabileceksiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0032",
+        "msgStr": "<INS_IMG 018>\n\nİblis Felaketi, <COLOR 1>düşmanlarınıza yüksek miktarda hasar veren ve onlardan MAG çalan<COLOR 0> güçlü bir saldırıdır.\n\nİblis Felaketi'ni, <COLOR 1>kesintisiz bir saldırıyla düşmanınızın dengesini bozduktan<COLOR 0> veya <COLOR 1>kusursuz bir zamanlamayla bir saldırıdan kaçındıktan<COLOR 0> sonra gerçekleştirebilirsiniz.\n\n<INS_IMG 008>\n\nBu koşullardan biri sağlandığında, kılıcınıza rehberlik edecek <COLOR 1>ışığı<COLOR 0> göreceksiniz.\n\n<BTN_Y>+<BTN_B> İblis Felaketi (simge yukarıda gösterildiği gibi belirdiğinde)"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0033",
+        "msgStr": "<COLOR 1>Gizli bir şeyi ortaya çıkarmanız<COLOR 0> gerektiğinde, Elektrik Düzeni iblisleri tarafından kullanılabilen İnceleme adlı Soruşturma Yeteneğini kullanmayı deneyin. Sahadayken bir Elektrik Düzeni iblisi çağırın, ardından <BTN_L2> düğmesine basın veya <BTN_OP2> ile soruşturma menüsünü açıp \"İnceleme\" seçeneğini seçin."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0035",
+        "msgStr": "Yetenek kitapları, <COLOR 1>iblislerinize belirli yetenekleri öğretmenize<COLOR 0> olanak tanır. Bunları elde etmenin başlıca yolları <COLOR 1>düşmanlar üzerinde tüpe alma sanatını kullanmak<COLOR 0> veya <COLOR 1>seviye atlayan bir iblis müttefikin durumunu kontrol etmektir<COLOR 0>.\n\nYetenek kitaplarından yetenekler aşamalar halinde öğrenilir. İlk aşamada iblis <COLOR 1>yeteneği kullanabilir<COLOR 0>. Ancak yetenek yalnızca kısmen öğrenildiği için <COLOR 1>iblis füzyonu yoluyla aktarılamaz<COLOR 0>. İkinci aşamada yetenek <COLOR 1>tamamen öğrenilir<COLOR 0> ve <COLOR 1>iblis füzyonu yoluyla aktarılabilir<COLOR 0> hale gelir."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0037",
+        "msgStr": "<BTN_AL> İblisi hareket ettir\n<BTN_AR> Kamerayı hareket ettir\n<BTN_R3> Kilitlenmeyi aç/kapat\n<BTN_R1> Kilitlenmişken hedef değiştir\n<BTN_Y> Temel saldırı\n<BTN_X> Seçili Savaş Yeteneğini kullan\n<BTN_DU>/<BTN_DD> Savaş Yeteneğini değiştir\n<BTN_A> Kaçınma\n<BTN_L1> Savunma\n<BTN_OP1> Mistik Göz\n<BTN_OP2>Savaş menüsü"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0038",
+        "msgStr": "Bu oyun otomatik kayıt işlevini desteklemektedir. Kaydedilirken ekranda şu simge görüntülenecektir:\n\n<AUT_ICN 000>\n\nBu simge görüntülenirken gücü kapatmayın veya oyunu sonlandırmayın.\n\nOtomatik kayıt ayarları ana ekrandan veya ana menüdeki \"Oyun Ayarları\" içinden değiştirilebilir."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0039",
+        "msgStr": "<INS_IMG 011>\n\n<BTN_R3> Kilitlenmeyi aç/kapat\n<BTN_R1> Hedef değiştir (varsayılan sıra)\n<BTN_R1>+<BTN_ARL>/<BTN_ARR> Hedef değiştir (sol veya sağ)\n<BTN_R1>+<BTN_ARD> Hedef değiştir (en yakın düşmana)\n<BTN_R1>+<BTN_ARU> Hedef değiştir (en uzak düşmana)"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0040",
+        "msgStr": "<INS_IMG 009>\n\n<BTN_R2>(basılı tut) Eylemi değiştir\n<BTN_R2>(basılı tut)+<BTN_Y> <RAI_03>Ateş Mührü\n\nBir Savaş Yeteneği yalnızca <COLOR 1>yeterli süre geçtikten<COLOR 0> sonra tekrar kullanılabilir."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0041",
+        "msgStr": "<INS_IMG 012>\n\nBir düşmana <COLOR 1>zayıf olduğu yatkınlıkla<COLOR 0> vurmak onu <COLOR 1>sersemletir<COLOR 0>.\n\nSersemlemiş düşmanlara yapılan saldırılar her zaman <COLOR 1>kritik vuruş<COLOR 0> olur; bu da normalin <COLOR 1>iki katı<COLOR 0> MAG geri kazanımı ve <COLOR 1>1,5 katı<COLOR 0> hasar verilmesini sağlar.\n\nDüşman zayıflıklarından yararlanmak <COLOR 1>başarılı bir savaşın anahtarıdır<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0042",
+        "msgStr": "İblis Çalımı, <COLOR 1>sizi bir düşmanın arkasına geçiren<COLOR 0> bir tekniktir.\n\n<BTN_AL>(düşman yönünde)+<BTN_A>(kaçınma) İblis Çalımı"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0043",
+        "msgStr": "Savaşta <COLOR 1>hafif kılıç saldırıları<COLOR 0> ile <COLOR 1>ağır kılıç saldırılarının<COLOR 0> kullanımını dengelemek önemlidir.\n\nHafif kılıç saldırıları (<BTN_Y>) <COLOR 1>az hasar verir<COLOR 0> ancak <COLOR 1>MAG yenileyebilir<COLOR 0>. Öte yandan, ağır kılıç saldırıları (<BTN_X>) <COLOR 1>yüksek hasar verir<COLOR 0> ancak <COLOR 1>MAG yenileyemez<COLOR 0>.\n\nSersemlemiş bir düşmana vurmak kesin <COLOR 1>kritik vuruş<COLOR 0> ile sonuçlanır; böylece hafif kılıç saldırıları normalin <COLOR 1>iki katı<COLOR 0> miktarda MAG çalar ve ağır kılıç saldırıları normalin <COLOR 1>1,5 katı<COLOR 0> hasar verir.\n\nDuruma göre <COLOR 1>MAG<COLOR 0> veya <COLOR 1>hasara<COLOR 0> öncelik verme beceriniz, zafere ulaşmak için hayati önem taşıyacaktır.\n\n<INS_IMG 013>"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0044",
+        "msgStr": "<INS_IMG 009>\n\n<BTN_R2>(basılı tut) Eylemi değiştir\n<BTN_R2>(basılı tut)+<BTN_B>/<BTN_X>/<BTN_Y> Savaş Yeteneği kullan\n\nBir Savaş Yeteneğini kullandıktan sonra tekrar kullanabilmek için <COLOR 1>bir süre beklemeniz<COLOR 0> gerekir.\n\n<COLOR 3>*Gouto'dan Öneri<COLOR 0>\nÖğrendiğin yeni <RAI_04><COLOR 1>Buz Mührü<COLOR 0> yeteneğini denemeye ne dersin?"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0045",
+        "msgStr": "Bir Cehennem Kapısı, ona <COLOR 1>zayıflığına karşılık gelen yatkınlıkla<COLOR 0> saldırmadığınız sürece yok edilemez. Özellikle bu kapı için <COLOR 1>Agathion gibi bir Elektrik Düzeni iblisine<COLOR 0> ihtiyacınız olacak. (Zaten Agathion'a sahipseniz Cehennem Kapısı ile savaşa geçin.)"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0046",
+        "msgStr": "Ruh Gücünüz en yüksek noktasına ulaştığında <COLOR 1>Ruh Kesişi<COLOR 0> kullanabilirsiniz. Ruh Gücü kazanmanın birkaç yolu vardır:\n\n1) Savaşta bir iblise emir vermek (<COLOR 1>bir düşmana saldırmak<COLOR 0> ya da <COLOR 1>bir müttefiki iyileştirmek veya güçlendirmek<COLOR 0> için)\n2) <COLOR 1>İblis Felaketi<COLOR 0> veya bir <COLOR 1>Çağırıcı Yeteneği<COLOR 0> isabet ettirmek\n3) <COLOR 1>Bir düşmanın zayıflığına vurmak<COLOR 0> veya <COLOR 1>zayıflık kalkanını kırmak<COLOR 0>\n4) <COLOR 1>Bir iblis müttefikin sersemlemiş bir düşmana vurmasını sağlamak<COLOR 0>\n5) <COLOR 1>Bir düşmanı alt etmek<COLOR 0>\n\n<BTN_X>+<BTN_A> Ruh Kesişi (Ruh Gücü göstergesi doluyken)\n\nBu teknik <COLOR 1>tüm düşmanlara<COLOR 0> isabet eder ve yatkınlığı <COLOR 1>toplamda en fazla hasarı verecek yatkınlığa dönüşür<COLOR 0>. (Ruh Kesişi'nin dönüştüğü yatkınlığa dirençli olan düşmanlar, dirençlerini <COLOR 1>yok sayan<COLOR 0> bir hasarla vurulur.)"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0047",
+        "msgStr": "<INS_IMG 019>\n\nBir düşmana <COLOR 1>art arda ne kadar çok vuruş isabet ettirebilirseniz<COLOR 0>, <COLOR 1>Ruh Gücü göstergeniz o kadar hızlı dolar<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0048",
+        "msgStr": "Bir düşman kaçınılamayan veya engellenemeyen bir saldırı kullandığında, hasardan kaçınmak için iblislerinizi <COLOR 1>korumaya almanız<COLOR 0> (<BTN_L3>) ve <COLOR 1>zıplamanız<COLOR 0> (<BTN_B>) gerekir.\n(Bir <COLOR 1>zıplama<COLOR 0> hareketini <BTN_B> ile gerçekleştirdikten sonra, havadayken tekrar <BTN_B> kullanarak <COLOR 1>çift zıplama<COLOR 0> yapabilirsiniz.)\n\nRaidou'nun başının üzerinde <COLOR 1>!!<COLOR 0> sembolü belirdiğinde dikkatli olun.\n\n<INS_IMG 006>"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0049",
+        "msgStr": "<INS_IMG 009>\n\n<BTN_R2>(basılı tut) Eylemi değiştir\n<BTN_R2>(basılı tut)+<BTN_B>/<BTN_X>/<BTN_Y> Savaş Yeteneği kullan\n\nBir Savaş Yeteneğini kullandıktan sonra tekrar kullanabilmek için <COLOR 1>bir süre beklemeniz<COLOR 0> gerekir.\n\n<COLOR 3>*Gouto'dan Öneri<COLOR 0>\nÖğrendiğin yeni <COLOR 1>Elektrik Mührü<COLOR 0> yeteneğini denemeye ne dersin?"
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0050",
+        "msgStr": "Yatagarasu Elçisi'nden aldığınız <DEP_02><COLOR 1>Buz Düzeni iblisi Preta'yı<COLOR 0> çağırmayı deneyin. İblislerinizi duruma uygun şekilde <COLOR 1>değiştirmek<COLOR 0>, farklı düşmanların zayıflıklarına vurmanıza olanak tanır.\n\n<INS_IMG 020>\n\n<BTN_DD> İblis çağır/geri gönder\n\nBir <COLOR 1>düşmanın zayıflığını<COLOR 0> belirlemek için <COLOR 1>Mistik Göz<COLOR 0> (<BTN_OP1>) yeteneğinizi kullanın."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0051",
+        "msgStr": "Yeni Çağırıcı Yetenekleri öğrenmek için Gouma-Den'de Kılıç Simyası yoluyla kılıçlar üretmeniz gerekir. Kılıç Simyası gerçekleştirmek için gereken malzemeler <COLOR 1>iblisleri alt ederek<COLOR 0> veya <COLOR 1>Konnou-ya'dan satın alınarak<COLOR 0> elde edilebilir.\n\nÇağırıcı Yetenekleri iki kategoriye ayrılır. Savaş Yetenekleri, savaşta <COLOR 1>aktif olarak<COLOR 0> kullanılan yeteneklerdir. Kılıç Yetenekleri ise kuşanıldığında <COLOR 1>otomatik olarak<COLOR 0> etkisini gösterir.\n\nHer iki yetenek türü de <COLOR 1>serbestçe değiştirilebilir<COLOR 0>, böylece yetenek diziliminizi dilediğiniz gibi <COLOR 1>özelleştirebilirsiniz<COLOR 0>. Bu yeteneklerden hangilerinin etkin olduğunu değiştirmek için <BTN_X> ile ana menüyü açıp \"Çağırıcı Yetenekleri\"ni seçin veya savaştayken <BTN_OP2> ile savaş menüsünü açıp \"Çağırıcı Yetenekleri\"ni seçin."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0052",
+        "msgStr": "<COLOR 1>Yedekteki iblislerinizden<COLOR 0> destek alabilirsiniz. <COLOR 1>Yüksek Sadakate<COLOR 0> sahip ne kadar çok iblisiniz varsa bu durum o kadar sık gerçekleşir.\n\nDestek; <COLOR 1>HP yenileme, durum rahatsızlığı iyileştirme ve geçici nitelik güçlendirmeleri sağlamayı<COLOR 0> içerebilir. Bu eylemler <COLOR 1>hiç MAG tüketmez<COLOR 0> (iblislerinizin bir yerlerde sakladıkları ve kullandıkları bazı yedekleri olmalı)."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0053",
+        "msgStr": "<INS_IMG 021>\n\nBir iblisin başının üzerinde <COLOR 1>yanıp sönen bir konuşma balonu simgesi<COLOR 0> fark ederseniz, sahadayken onu çağırıp <COLOR 1>doğrudan onunla konuşarak<COLOR 0> ya da <BTN_X> ile ana menüyü açıp <COLOR 1>İblis Yoklaması<COLOR 0>'nı seçerek ne söyleyeceğini dinleyebilirsiniz.\n\nİblisleriniz <COLOR 1>seviye atladıktan<COLOR 0> veya <COLOR 1>Yağmacı<COLOR 0>, <COLOR 1>Bozuk Para<COLOR 0> ya da <COLOR 1>Gösteri<COLOR 0> gibi yetenekler etkisini gösterdikten sonra başarılarını size bildirmek isteyebilirler.\n\n<COLOR 3>*Gouto'dan Not<COLOR 0>\nSoruşturmaların sırasında seni rahatsız etmeyecek kadar düşünceli olsalar da iblislerinin seninle konuşmak isteyeceği pek çok şey olduğundan eminim. Ara sıra onlara kulak ver."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0054",
+        "msgStr": "İlerlemenizi hem ana menüdeki hem de soruşturma menüsündeki \"Seçenekler\" içinden <COLOR 1>hızlı kaydedebilirsiniz<COLOR 0>.\n\n<COLOR 1>Uyarı<COLOR 0>: Aynı anda yalnızca bir hızlı kayıt dosyası tutabilirsiniz. Bu dosya yüklendikten sonra bile kaybolmaz. Ancak başka bir hızlı kayıt dosyası oluşturmak öncekinin üzerine yazacaktır.\n\nAyrıca ana menüde \"Seçenekler\"i seçip ardından \"Oyun Ayarları\"na ve \"Oyun\"a giderek açılıp kapatılabilen bir otomatik kayıt özelliği de bulunmaktadır."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0055",
+        "msgStr": "Bir Ejderha Pınarı'nda soruşturma ilerlemenizi kaydetmek için tercih ettiğiniz dosyayı seçin ve <COLOR 1>kaydedin<COLOR 0>. Bu pınarları gerçek dünyadaki <COLOR 1>Gouma-Den<COLOR 0>'e seyahat etmek için de kullanabilirsiniz; orada <COLOR 1>iblis füzyonu<COLOR 0> yapabilir ve iyileşebilirsiniz.\n\n<COLOR 1>Eşya satın almak<COLOR 0> isterseniz Gouma-Den'den <COLOR 1>Konnou-ya<COLOR 0>'ya gidebilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0056",
+        "msgStr": "Nakisawame'nin hizmetleri <COLOR 1>ücretsizdir<COLOR 0> ve <COLOR 1>sizinle iblislerinizin sağlığını ve MAG'ını tamamen iyileştirir<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0057",
+        "msgStr": "<COLOR 3>*Gouto'dan Not<COLOR 0>\nBir süre uzakta kaldıktan sonra görünüşe göre Victor Gouma-Den'e geri dönmüş; yani artık iblis füzyonu yapabileceksin.\n\nO şarabı Daidouji Malikânesi'ne götürmeden önce <COLOR 1>Gouma-Den<COLOR 0>'i ziyaret etmeyi ve güçlerini pekiştirmek için bu fırsatı değerlendirmeyi düşünebilirsin.\n\nGouma-Den'e gitmek için Narumi Dedektiflik Bürosu'ndan çık ve <COLOR 1>Konnou-ya<COLOR 0>'ya ulaşana dek nehir boyunca düz ilerle; onu içeride bulacaksın."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0058",
+        "msgStr": "<INS_IMG 022>\n\nSahada dolaştıkça ayın evresi değişecektir. Bunun pek çok etkisi vardır.\n\nİblis füzyonu sırasında, <COLOR 1>füzyon kazalarının<COLOR 0> sonuçları ve <COLOR 1>Mitama Düzeni iblislerini içeren füzyonların<COLOR 0> sonuçları ayın evresine bağlı olarak değişiklik gösterir.\n\nEk olarak, Soruşturma Yeteneği <COLOR 1>Gösteri<COLOR 0> ile Pasif Yetenekler <COLOR 1>Yağmacı<COLOR 0> ve <COLOR 1>Bozuk Para<COLOR 0>'nın etkileri de değişir.\n\nDaha fazla bilgi için \"Çağırıcı Bilgisi: Genel\" altındaki \"Ay Evreleri\" başlığına bakın."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0059",
+        "msgStr": "Yeteneklerinizin gelişimi göz önüne alındığında artık <COLOR 1>dava dosyalarını<COLOR 0> kabul etmeye hazırsınız.\n\n<BTN_X> ile menüyü açıp \"Dava Dosyaları\"nı seçerek dava dosyalarını inceleyebilirsiniz. Ayrıca bir dava dosyasının hedefine ulaşmak için nereye gitmeniz gerektiğini kontrol etmek üzere <BTN_OP1> ile haritayı açabilirsiniz; bu konum bir simgeyle işaretlenecektir ve <BTN_X> düğmesine basarak dava dosyasının adını ve numarasını da kontrol edebilirsiniz.\n\nDava dosyalarına ilişkin bilgiler gerektiğinde benim (Gouto) tarafımdan <COLOR 1>güncellenecek<COLOR 0> ve bunu yaptığımda sizi <COLOR 1>bilgilendireceğim<COLOR 0>.\n\nDava dosyalarının tamamen isteğe bağlı olduğunu unutmayın. Onların peşine düşüp düşmemek tamamen sizin takdirinize kalmıştır."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0060",
+        "msgStr": "Aril Yarıkları öncelikle <COLOR 1>gerçek dünyada<COLOR 0> ortaya çıkar.\n\nAril Yarıklarını arındırmak kaçınılmaz olarak <COLOR 1>savaşmayı<COLOR 0> gerektirir, ancak <COLOR 1>tecrübe ve iblis müttefikler kazanmak gibi faydalı fırsatlar<COLOR 0> sunarlar. Daha açık belirtmek gerekirse, başarılı bir arındırma size <COLOR 1>dört kata kadar tecrübe<COLOR 0> ve <COLOR 1>sekiz kata kadar para<COLOR 0> kazandırabilir. Ayrıca daha önce arındırdığınız Aril Yarıklarının <COLOR 1>dolunay vakti geldiğinde yeniden belireceğini<COLOR 0> unutmayın.\n\nEk olarak, Yatagarasu size <COLOR 1>arındırdığınız benzersiz Aril Yarığı sayısına<COLOR 0> bağlı olarak <COLOR 1>ödüller<COLOR 0> sunacaktır. Daha fazla bilgi edinmek için İsimsiz Tapınak'taki <COLOR 1>sol tilki heykeliyle<COLOR 0> konuşun."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0061",
+        "msgStr": "Sahadayken <BTN_OP2> ile soruşturma menüsünü açın ve \"Dedektif Günlüğü\" seçeneğini seçin.\n\n\"Dedektif Günlüğü\" seçeneğini ana menüden (<BTN_X>) veya savaştayken savaş menüsünden (<BTN_OP2>) de seçebilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE1TEXT_L0062",
+        "msgStr": "Demoyu oynadığınız için teşekkürler! Hikâyeniz oyunun tam sürümünde devam edebilir.\n\nDemodaki kayıt verileri tam oyuna aktarılabilir, bu nedenle mevcut ilerlemenizi kaydetmeniz önerilir."
+      }
+    ]
+  },
+  "_convDateTime": "2025/09/08 11:20:22"
+}

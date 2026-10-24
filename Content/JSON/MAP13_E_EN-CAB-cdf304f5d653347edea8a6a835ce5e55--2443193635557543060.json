@@ -1,0 +1,597 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP13_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map13_e_EPI12_SCENE06_01_TUIKA01_000",
+        "msgStr": "Kaya'nın Sesi"
+      },
+      {
+        "msgID": "MAP13_E_L0000",
+        "msgStr": "Eninde sonunda buraya geleceğini tahmin etmiştim."
+      },
+      {
+        "msgID": "map13_e_EPI12_SCENE06_01_001",
+        "msgStr": "Kaya'nın Sesi"
+      },
+      {
+        "msgID": "MAP13_E_L0001",
+        "msgStr": "Ondördüncü Raidou Kuzunoha... Gerçekten de \"efsanevi\" bir dedektif."
+      },
+      {
+        "msgID": "map13_e_EPI12_SCENE06_01_001_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP13_E_L0001_01",
+        "msgStr": "Zaman yolcusu bu olmalı!"
+      },
+      {
+        "msgID": "map13_e_EPI12_SCENE06_01_001_02",
+        "msgStr": "Kaya'nın Sesi"
+      },
+      {
+        "msgID": "MAP13_E_L0002",
+        "msgStr": "Doğru tahmin. Ben Kırkıncıyım..."
+      },
+      {
+        "msgID": "MAP13_E_L0003",
+        "msgStr": "Raidou unvanını miras alan halefin."
+      },
+      {
+        "msgID": "map13_e_EPI12_SCENE06_03_002",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "MAP13_E_L0004",
+        "msgStr": "Demek büyük selefim beni durdurmaya gelmiş... Doğrusu bundan büyük onur duydum."
+      },
+      {
+        "msgID": "MAP13_E_L0005",
+        "msgStr": "Burası Akarana Koridoru; her çağa erişim sağlayan, zamanın içinden geçen bir geçit."
+      },
+      {
+        "msgID": "MAP13_E_L0006",
+        "msgStr": "Anılarımı Kaya Daidouji'ye aktarmak için buradan faydalandım."
+      },
+      {
+        "msgID": "MAP13_E_L0007",
+        "msgStr": "Her neyse... Beni durdurmaya niyetlisin, öyle mi? Pekâlâ o hâlde."
+      },
+      {
+        "msgID": "MAP13_E_L0008",
+        "msgStr": "Kendi çağıma yakın bir yerde olacağım. Bana ulaşmaya çalışırken zamanda yolculuğunun tadını çıkar."
+      },
+      {
+        "msgID": "map13_e_EPI12_SCENE07_01_003",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "MAP13_E_L0009",
+        "msgStr": "<lips 27 5>\nSeni kendi zaman çizgimin durumu hakkında bilgilendirmeme izin ver.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0010",
+        "msgStr": "<lips 27 5>\n21. yüzyılda...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0010_01",
+        "msgStr": "<lips 27 5>\nÜlken artık kendi halkını yönetmiyor. Başka bir yerden gelen bir Tanrı ve hizmetkârları yönetimi ele geçirdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0011",
+        "msgStr": "<lips 27 5>\nBu Tanrı herkesi \"eşit\" ilan ederek halkın mülkünü, bireyselliğini ve geleceğini ellerinden aldı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0012",
+        "msgStr": "<lips 27 5>\nSonra ne oldu dersin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0013",
+        "msgStr": "<lips 27 5>\nHiçbir şey! Halk bundan zerre kadar rahatsız olmadı!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0014",
+        "msgStr": "<lips 27 5>\nDünya zaten bitmek bilmeyen savaşlardan ve çöken ekonomiden bitap düşmüştü.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0015",
+        "msgStr": "<lips 27 5>\nBu yüzden halk, toplumsal hiyerarşinin ortadan kalkmasını memnuniyetle karşıladı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0015_01",
+        "msgStr": "<lips 27 5>\nHerkes aynı seviyede, Tanrı herkese yetiyor ve kimsenin kendi başına hareket etmesine gerek kalmıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0015_02",
+        "msgStr": "<lips 27 5>\nGerçek anlamda acı çekenler yalnızca zenginler ve ayrıcalıklılardı, ancak kitleler onlara hiç acımadı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0015_03",
+        "msgStr": "<lips 27 5>\nVe böylece başladı...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0016",
+        "msgStr": "<lips 27 5>\n\"Eşitlik\" zihniyetinin körüklediği cadı avları...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0016_01",
+        "msgStr": "<lips 27 5>\nKalabalıklar, sebebi ne olursa olsun göze batan tüm muhaliflere saldırdı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0017",
+        "msgStr": "<lips 27 5>\nBunu yapmak onlara stresten bir anlığına kurtulma fırsatı ve coşkulu bir üstünlük hissi sağlıyordu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0018",
+        "msgStr": "<lips 27 5>\nVe böylece insanlar kendi deliliklerinin içine gittikçe daha çok battılar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP13_E_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_E_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_E_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_e_map13_00_npc01_EP12_01_004",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0022",
+        "msgStr": "Buraya etten kemikten bedeninle mi damladın? Hay aksi dostum, bu fena sıkıntılı olabilir."
+      },
+      {
+        "msgID": "MAP13_E_L0023",
+        "msgStr": "Öncesinde bilincini kopyalaman gerekiyordu, bilmiyor musun? Tabii zamanın arasında sıkışıp kalmak istemiyorsan..."
+      },
+      {
+        "msgID": "map13_e_map13_00_npc02_EP12_01_005",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0024",
+        "msgStr": "Yoldaşlar, toplanın... restorasyon sancağı..."
+      },
+      {
+        "msgID": "map13_e_map13_01_npc01_EP12_01_006",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0025",
+        "msgStr": "Burada, Akarana Koridoru'nda iki tip insanla karşılaşırsın."
+      },
+      {
+        "msgID": "MAP13_E_L0026",
+        "msgStr": "Etrafı seyretmek için kendi iradesiyle gelen bizim gibi zaman turistleri..."
+      },
+      {
+        "msgID": "MAP13_E_L0027",
+        "msgStr": "Ve nerede olduklarını bile çakamayan şu... kayıp ruhlar."
+      },
+      {
+        "msgID": "map13_e_map13_01_npc02_EP12_01_007",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0028",
+        "msgStr": "...bu savaşın sonu... herkes hemfikir ki... dünyanın özgür halkları..."
+      },
+      {
+        "msgID": "map13_e_map13_02_npc01_EP12_01_008",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0029",
+        "msgStr": "Zaman turizmi dediğin, bir insanın zihnini sıyırıp tarih boyunca tura göndermektir."
+      },
+      {
+        "msgID": "MAP13_E_L0030",
+        "msgStr": "İki altın sebepten ötürü bedenini peşine takamazsın."
+      },
+      {
+        "msgID": "MAP13_E_L0031",
+        "msgStr": "Biri turisti güvende tutmak, diğeri ise resmî tarihte herhangi bir pürüz çıkmasını önlemek."
+      },
+      {
+        "msgID": "map13_e_map13_02_npc02_EP12_01_009",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0032",
+        "msgStr": "\"Raidou Kuzunoha\" mı?"
+      },
+      {
+        "msgID": "MAP13_E_L0033",
+        "msgStr": "Evet, bu isme aşinayım. Hangi dönemde olursan ol her zaman bir tane vardır."
+      },
+      {
+        "msgID": "map13_e_map13_03_npc01_EP12_01_010",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0034",
+        "msgStr": "Biz zaman turistleri buradayız ama etten kemikten bedenimizle değil."
+      },
+      {
+        "msgID": "MAP13_E_L0035",
+        "msgStr": "Şu an doğrudan zihnimle konuşuyorsun. Yüz yüze tanışamamamız kötü oldu."
+      },
+      {
+        "msgID": "map13_e_map13_03_npc02_EP12_01_011",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0036",
+        "msgStr": "Bu bir insan için küçük... insanlık için dev bir adım!"
+      },
+      {
+        "msgID": "MAP13_E_L0037",
+        "msgStr": "Okyanusa güvenli iniş için hazırlıklar tamamlandı..."
+      },
+      {
+        "msgID": "map13_e_map13_05_npc01_EP12_01_012",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0038",
+        "msgStr": "Selamlar, muhterem beyefendi! Size daha da büyük ve nadide bir mücevher yapmak için birkaç elmas eriteyim mi?"
+      },
+      {
+        "msgID": "MAP13_E_L0039",
+        "msgStr": "Ya da belki açlığınızı sonsuza dek dindirecek bitkisel çayımdan arzu edersiniz?"
+      },
+      {
+        "msgID": "MAP13_E_L0040",
+        "msgStr": "Gençliğimin baharında gibi görünebilirim fakat aslında üç yüz yaşın üzerindeyim."
+      },
+      {
+        "msgID": "MAP13_E_L0041",
+        "msgStr": "Sen kimsin?"
+      },
+      {
+        "msgID": "MAP13_E_L0042",
+        "msgStr": "Teşekkürler ama kalsın."
+      },
+      {
+        "msgID": "MAP13_E_L0043",
+        "msgStr": "Muhterem beyefendi, kendimi tanıtmama izin verin! Bana St. Germain Kontu derler."
+      },
+      {
+        "msgID": "MAP13_E_L0044",
+        "msgStr": "Pekâlâ o hâlde, bu zaman dilimindeki işim tamamlandı. Sıradaki hangi çağı zenginleştirsem acaba?"
+      },
+      {
+        "msgID": "MAP13_E_L0045",
+        "msgStr": "Sakıncası yoksa meslektaşım Rasputin'e selamlarımı iletin lütfen, <NAME 0>."
+      },
+      {
+        "msgID": "map13_e_map13_05_npc02_EP12_01_013",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0046",
+        "msgStr": "Hiç hatırlamıyorum, hayır. Yüz fıstık kabul ettiğimi hiç anımsamıyorum."
+      },
+      {
+        "msgID": "MAP13_E_L0047",
+        "msgStr": "...hiç hatırlamıyorum... Bahsettiğiniz şu \"Gölge Şogun\" da kim?"
+      },
+      {
+        "msgID": "map13_e_map13_06_npc01_EP12_01_014",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0048",
+        "msgStr": "Çok eski günlerde zaman yolculuğu yapmanın okült bir yöntemi olduğunu duymuştum."
+      },
+      {
+        "msgID": "MAP13_E_L0049",
+        "msgStr": "\"Tohokami-falan-filan\" diye upuzun dizeler okurlarmış. Ama şimdilerde bir uygulama düzeltmeleri senin yerine hallediyor."
+      },
+      {
+        "msgID": "map13_e_map13_06_npc02_EP12_01_015",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0050",
+        "msgStr": "...bıktım artık... bu duvardan... batıya gidiyorum... hiçbir şey... beni durduramaz..."
+      },
+      {
+        "msgID": "MAP13_E_L0051",
+        "msgStr": "Güvenl... üretim kotaları canı cehenneme... Amerikan malı bir... yolda turlayacağım...!"
+      },
+      {
+        "msgID": "map13_e_map13_06_npc01_EP12_01_016",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0052",
+        "msgStr": "Çok eski günlerde zaman yolculuğu yapmanın okült bir yöntemi olduğunu duymuştum."
+      },
+      {
+        "msgID": "MAP13_E_L0053",
+        "msgStr": "\"Tohokami-falan-filan\" diye upuzun dizeler okurlarmış. Ama şimdilerde bir uygulama düzeltmeleri senin yerine hallediyor."
+      },
+      {
+        "msgID": "map13_e_map13_06_npc02_EP12_01_017",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0054",
+        "msgStr": "...bıktım artık... bu duvardan... batıya gidiyorum... hiçbir şey... beni durduramaz..."
+      },
+      {
+        "msgID": "MAP13_E_L0055",
+        "msgStr": "Güvenl... üretim kotaları canı cehenneme... Amerikan malı bir... yolda turlayacağım...!"
+      },
+      {
+        "msgID": "map13_e_map13_07_npc01_EP12_01_018",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0056",
+        "msgStr": "Yerinde olsam önümüzdeki otuz yılı pas geçerdim. Sadece sağduyu meselesi."
+      },
+      {
+        "msgID": "MAP13_E_L0057",
+        "msgStr": "İnsanlık son sürat kendi yıkımına doğru uçuyor. O kadar ağır darbeyi kaldıramam ben."
+      },
+      {
+        "msgID": "map13_e_map13_07_npc02_EP12_01_019",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0058",
+        "msgStr": "N-Ne yapıyorsun!? Çabuk, siper al!"
+      },
+      {
+        "msgID": "MAP13_E_L0059",
+        "msgStr": "Büyükelçi kıtalararası balistik füzeleri ateşledi! Otuz saniyeden kısa sürede Tokyo... İşte geliyor!"
+      },
+      {
+        "msgID": "map13_e_map13_10_npc01_EP12_01_020",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0060",
+        "msgStr": "Taisho 20 yılından mı kayıp geldin?"
+      },
+      {
+        "msgID": "MAP13_E_L0061",
+        "msgStr": "Ne saçmalıyorsun sen? Taisho dönemi sadece on beş yıl sürdü. Tarih hololarını izlemedin mi?"
+      },
+      {
+        "msgID": "MAP13_E_L0062",
+        "msgStr": "Haa, şimdi seni çaktım. Meseleyi kavradım."
+      },
+      {
+        "msgID": "MAP13_E_L0063",
+        "msgStr": "Ne demek istiyorsun?"
+      },
+      {
+        "msgID": "MAP13_E_L0064",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "MAP13_E_L0065",
+        "msgStr": "Yukarıdaki kodamanlar asıl akışla uyuşmayan hiçbir tarihe göz yummaz."
+      },
+      {
+        "msgID": "MAP13_E_L0066",
+        "msgStr": "Bu yüzden tarihi geriye dönük düzeltmek için Akarana Koridoru'ndan aşağı bir ajan kaydırdılar."
+      },
+      {
+        "msgID": "MAP13_E_L0067",
+        "msgStr": "Rasputin adında, tera-seviye bir Karanlık Çağırıcı."
+      },
+      {
+        "msgID": "MAP13_E_L0068",
+        "msgStr": "Ama o eleman bir kiliseden onlarla son konuştuğundan beri radardan kayboldu."
+      },
+      {
+        "msgID": "MAP13_E_L0069",
+        "msgStr": "Tarih akışında bir sapma, ha? Her gün göreceğin türden bir şey değil."
+      },
+      {
+        "msgID": "map13_e_map13_10_npc02_EP12_01_021",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0070",
+        "msgStr": "Yalnızca Tanrı sevgisini kutsal tutanlar cennetin krallığına girecektir."
+      },
+      {
+        "msgID": "MAP13_E_L0071",
+        "msgStr": "Geçmiş yıllardaki Büyük... Tanrımızın bir inanç sınavıdır."
+      },
+      {
+        "msgID": "map13_e_map13_09_npc01_EP12_01_022",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0072",
+        "msgStr": "Hafıza manipülasyonuyla eski dönemlerdeki akrabalarının zihnine kopyalanmaya çalışan bir eleman olduğunu duydum."
+      },
+      {
+        "msgID": "MAP13_E_L0073",
+        "msgStr": "Elemanı Rai-bir şey diye tanıyorlar. Kara bilimi bayağı sağlamdı."
+      },
+      {
+        "msgID": "MAP13_E_L0074",
+        "msgStr": "Eski dönemde olsam ne yapardım bilmiyorum ama bu bana biraz ters geliyor."
+      },
+      {
+        "msgID": "map13_e_map13_09_npc02_EP12_01_023",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0075",
+        "msgStr": "Savaş! İnsanlık aptal liderlerinin şiddeti seçmesini engelleyemedi ve şimdi asla aşmamaları gereken bir çizgiyi aştılar!"
+      },
+      {
+        "msgID": "MAP13_E_L0076",
+        "msgStr": "Savaş hiç bitmeyebilir... Başka ülkelerle savaşmamız gerekiyordu ama şimdi bitmek bilmeyen iblis sürüleriyle savaşıyoruz!"
+      },
+      {
+        "msgID": "map13_e_map13_11_npc01_EP12_01_024",
+        "msgStr": "Zaman Turisti"
+      },
+      {
+        "msgID": "MAP13_E_L0077",
+        "msgStr": "Demek senin adın da Raidou? Bir Raidou ile takışmıştım."
+      },
+      {
+        "msgID": "MAP13_E_L0078",
+        "msgStr": "Benim zamanımdan, tera-seviye yetenekleri olan bir askerdi. Bir gün yukarıdakilerin arasına çıkabilirdi."
+      },
+      {
+        "msgID": "MAP13_E_L0079",
+        "msgStr": "Ama yok, o eleman yapmadı. Bir gün \"Bundan daha büyük bir görevim var,\" diyerek Tokyo'dan çekip gitti."
+      },
+      {
+        "msgID": "map13_e_map13_11_npc02_EP12_01_025",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0080",
+        "msgStr": "Ve böylece Tokyo harabeye döndü ve Tanrı'nın krallığının saltanatı başladı."
+      },
+      {
+        "msgID": "MAP13_E_L0081",
+        "msgStr": "Tanrı'nın korumasını aldık ama karşılığında özgürlüğümüzü kaybettik."
+      },
+      {
+        "msgID": "map13_e_map13_16_npc01_EP12_01_026",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0082",
+        "msgStr": "Sensin!"
+      },
+      {
+        "msgID": "MAP13_E_L0083",
+        "msgStr": "Beni hatırladın mı? Nehrin kenarındaki hurdalıkta konuşmuştuk. Ben oradaki köpektim."
+      },
+      {
+        "msgID": "MAP13_E_L0084",
+        "msgStr": "İnsanlar boş vaatlerle dolu. Sizin türünüze dair umut beslemekle aptallık etmişim!"
+      },
+      {
+        "msgID": "MAP13_E_L0085",
+        "msgStr": "Yuvalarımızdan daha kaç tanesini yok etmeleri gerekiyor?"
+      },
+      {
+        "msgID": "MAP13_E_L0086",
+        "msgStr": "Eminim senin de diğerlerinden bir farkın yoktur."
+      },
+      {
+        "msgID": "MAP13_E_L0087",
+        "msgStr": "Benimle paylaştığın hayali bile hatırlamıyorsundur, değil mi?"
+      },
+      {
+        "msgID": "MAP13_E_L0088",
+        "msgStr": "Hayali hatırla"
+      },
+      {
+        "msgID": "MAP13_E_L0089",
+        "msgStr": "Omuz silkip ayrıl"
+      },
+      {
+        "msgID": "MAP13_E_L0090",
+        "msgStr": "Bir daha gelme! Bir insanın daha yüzünü görmek istemiyorum!"
+      },
+      {
+        "msgID": "map13_e_map13_16_npc01_EP12_05_027",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0091",
+        "msgStr": "İnsanlara yeniden inanmaya çalışacağım."
+      },
+      {
+        "msgID": "MAP13_E_L0092",
+        "msgStr": "Teşekkürümü göstermeye kelimeler yetmez. Benimle gel."
+      },
+      {
+        "msgID": "MAP13_E_L0093",
+        "msgStr": "Takip et"
+      },
+      {
+        "msgID": "MAP13_E_L0094",
+        "msgStr": "Takip etme"
+      },
+      {
+        "msgID": "map13_e_map13_16_npc01_EP12_06_028",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0095",
+        "msgStr": "Dışarıda senin gibi insanlar varken hayalim, yani doğduğum orman yaşamaya devam edebilir."
+      },
+      {
+        "msgID": "MAP13_E_L0096",
+        "msgStr": "Hayaller bize umut verir. Bu insanlar için de geçerli. Hayallerimizi... Onları unutma."
+      },
+      {
+        "msgID": "map13_e_map13_16_DREAM_af_Y01_029",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0097",
+        "msgStr": "Gerçekten de hatırladın..."
+      },
+      {
+        "msgID": "map13_e_map13_16_DREAM_af_Y02_030",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0098",
+        "msgStr": "Dışarıda senin gibi insanlar varken hayalim, yani doğduğum orman yaşamaya devam edebilir."
+      },
+      {
+        "msgID": "MAP13_E_L0099",
+        "msgStr": "İnsanlara yeniden inanmaya çalışacağım."
+      },
+      {
+        "msgID": "MAP13_E_L0100",
+        "msgStr": "Teşekkürümü göstermeye kelimeler yetmez."
+      },
+      {
+        "msgID": "map13_e_map13_16_DREAM_af_Y03_031",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0101",
+        "msgStr": "Benimle gel."
+      },
+      {
+        "msgID": "map13_e_map13_16_DREAM_af_N01_032",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_E_L0102",
+        "msgStr": "Biliyordum! Sen de tıpkı diğerleri gibisin!"
+      },
+      {
+        "msgID": "MAP13_E_L0103",
+        "msgStr": "Hayaller bize umut verir! Senin için önemli olduklarını sanmıştım..."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:45"
+}

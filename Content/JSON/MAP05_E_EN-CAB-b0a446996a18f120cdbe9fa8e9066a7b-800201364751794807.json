@@ -1,0 +1,937 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP05_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map05_e_map05_ep08_scene03_01_000",
+        "msgStr": "Radyo Kulesi Müfettişi"
+      },
+      {
+        "msgID": "MAP05_E_L0000",
+        "msgStr": "Hey! Şimdi olmaz! Mesai saatinde sohbet etmemem gerekiyor!"
+      },
+      {
+        "msgID": "MAP05_E_L0001",
+        "msgStr": "Hadi ama dostum! Şu an gerçekten çok kötü bir zaman... Başımı büyük belaya sokacaksın!"
+      },
+      {
+        "msgID": "map05_e_map05_ep08_scene03_02_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP05_E_L0002",
+        "msgStr": "\"Kötü bir zaman\" mı...? Tam olarak neler oluyor?"
+      },
+      {
+        "msgID": "map05_e_map05_ep08_scene03_JYU00_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0003",
+        "msgStr": "> Radyo kulesi müfettişinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map05_e_map05_ep08_scene03_h01_003",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP05_E_L0004",
+        "msgStr": "<COLOR 2>Bu hiç iyi değil... Tümgeneral Munakata sahadayken olmaz..."
+      },
+      {
+        "msgID": "MAP05_E_L0005",
+        "msgStr": "Waden One'ın tepesinden doğrudan görünüyoruz... Konuşurken yakalanmayı göze alamam!<COLOR 0>"
+      },
+      {
+        "msgID": "map05_e_map05_ep08_scene03_h02_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP05_E_L0006",
+        "msgStr": "Aah, demek Munakata tepede, ha..."
+      },
+      {
+        "msgID": "MAP05_E_L0007",
+        "msgStr": "Şu anda ne peşinde olduğunu öğrenmeyi kesinlikle çok isterim."
+      },
+      {
+        "msgID": "MAP05_E_L0008",
+        "msgStr": "Ama Munakata bizzat buradaysa mutlaka bir sürü güvenlik görevlisi vardır."
+      },
+      {
+        "msgID": "MAP05_E_L0009",
+        "msgStr": "Onlarla doğrudan yüzleşmeliyiz."
+      },
+      {
+        "msgID": "MAP05_E_L0010",
+        "msgStr": "Karanlık Diyar'ı kullanalım."
+      },
+      {
+        "msgID": "MAP05_E_L0011",
+        "msgStr": "Cesaretin var Raidou, hakkını yemeyeyim."
+      },
+      {
+        "msgID": "MAP05_E_L0012",
+        "msgStr": "Ama asker olsalar bile onlar <IT_S>hâlâ<IT_E> Başkent'in vatandaşları. Onlarla savaşamayız."
+      },
+      {
+        "msgID": "MAP05_E_L0013",
+        "msgStr": "Üstelik Cehennem Piyonları da içeride olabilir. Ne pahasına olursa olsun sivilleri bu işe karıştırmaktan kaçınmalıyız."
+      },
+      {
+        "msgID": "MAP05_E_L0014",
+        "msgStr": "Yavaş ve emin adımlarla, değil mi? Dolambaçlı bir yol olabilir ama Karanlık Diyar üzerinden gidelim."
+      },
+      {
+        "msgID": "MAP05_E_L0015",
+        "msgStr": "Yavaş ve emin adımlarla ilerlemeyi seçiyorsun demek? İyi düşündün Raidou."
+      },
+      {
+        "msgID": "MAP05_E_L0016",
+        "msgStr": "Asker olsalar bile onlar <IT_S>hâlâ<IT_E> Başkent'in vatandaşları. Onlarla savaşamayız."
+      },
+      {
+        "msgID": "MAP05_E_L0017",
+        "msgStr": "Üstelik Cehennem Piyonları da içeride olabilir. Ne pahasına olursa olsun sivilleri bu işe karıştırmaktan kaçınmalıyız."
+      },
+      {
+        "msgID": "MAP05_E_L0018",
+        "msgStr": "O halde senin planına uyalım ve Karanlık Diyar'dan geçelim."
+      },
+      {
+        "msgID": "map05_e_map05_ep08_scene03_IKAIHIRAKI_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0019",
+        "msgStr": "> <COLOR 3>Karanlık Sakuradayama<COLOR 0> artık erişilebilir."
+      },
+      {
+        "msgID": "map05_e_map05_npc01_Mboy_EP08_01_006",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP05_E_L0020",
+        "msgStr": "Sonunda iyi bir yedek üs bulduğumu sanıyordum..."
+      },
+      {
+        "msgID": "MAP05_E_L0021",
+        "msgStr": "Ama tıpkı Senju'daki fabrikada olduğu gibi yine kapı dışarı edildim."
+      },
+      {
+        "msgID": "MAP05_E_L0022",
+        "msgStr": "Of yaaa... Ben sadece Satake gibi olmak istiyorum..."
+      },
+      {
+        "msgID": "map05_e_map05_npc01_Mboy_EP10_01_007",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP05_E_L0023",
+        "msgStr": "Neyse, pes etmeyeceğim! Burası bizim üssümüz."
+      },
+      {
+        "msgID": "MAP05_E_L0024",
+        "msgStr": "Bir daha çuvallamayacağım. Satake çuvallamazdı, değil mi?"
+      },
+      {
+        "msgID": "map05_e_map05_npc01_Mboy_EP10_02_008",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP05_E_L0025",
+        "msgStr": "Sonunda iyi bir yedek üs buldum ama... Patron benim ve adamlarımı korumam gerekiyor."
+      },
+      {
+        "msgID": "MAP05_E_L0026",
+        "msgStr": "Böyle zamanlarda kendime sorarım: Satake olsa ne yapardı?"
+      },
+      {
+        "msgID": "map05_e_map05_npc01_Mboy_EN00_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0027",
+        "msgStr": "> Özenti çocuğun Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map05_e_map05_npc01_Mboy_EP08_EN01_010",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP05_E_L0028",
+        "msgStr": "Burası bizim yedek üssümüz! Çünkü ben öyle dedim!"
+      },
+      {
+        "msgID": "MAP05_E_L0029",
+        "msgStr": "Orduymuş, külahıma anlatsınlar! Burnu havada pislikler! Yetişkin olmanın neresi bu kadar harika ki!?"
+      },
+      {
+        "msgID": "map05_e_map05_npc01_Mboy_EP10_EN01_011",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP05_E_L0030",
+        "msgStr": "Hayır! Eve gitmiyorum! Bir santim bile kıpırdamayacağım!"
+      },
+      {
+        "msgID": "MAP05_E_L0031",
+        "msgStr": "Burası bizim üssümüz! Gitmesi gereken birileri varsa o da Ordu'dur!"
+      },
+      {
+        "msgID": "map05_e_map05_npc01_Mboy_EP10_EN02_012",
+        "msgStr": "Özenti Çocuk"
+      },
+      {
+        "msgID": "MAP05_E_L0032",
+        "msgStr": "Eve gitmiyorum! Bu noktadan kıpırdamıyorum! Üssüm tam burada olacak!"
+      },
+      {
+        "msgID": "MAP05_E_L0033",
+        "msgStr": "Ama sağ kolum korkudan paniklemeye başladı. Ve patron <IT_S>benim<IT_E>... Satake olsa ne yapardı?"
+      },
+      {
+        "msgID": "map05_e_map05_npc02_Fgal_EP08_01_013",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP05_E_L0034",
+        "msgStr": "Yeni bir üs bulmak için Senju'daki fabrikada bulunan eski üssümüzden geldik."
+      },
+      {
+        "msgID": "MAP05_E_L0035",
+        "msgStr": "Patron bana trene nasıl binileceğini öğretti. Patron her şeyi biliyor!"
+      },
+      {
+        "msgID": "map05_e_map05_npc02_Fgal_EP10_01_014",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP05_E_L0036",
+        "msgStr": "Patron bir harika. Ordu'daki adamlar kızdığında bile geri adım atmıyor."
+      },
+      {
+        "msgID": "MAP05_E_L0037",
+        "msgStr": "Bu yüzden ben de... elimden gelenin en iyisini yapmalıyım! Patrona yardım etmeliyim..."
+      },
+      {
+        "msgID": "map05_e_map05_npc02_Fgal_EP10_02_015",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP05_E_L0038",
+        "msgStr": "O yuvarlak şey de neydi öyle? Çok gürültülüydü..."
+      },
+      {
+        "msgID": "MAP05_E_L0039",
+        "msgStr": "K-Korkuyorum... Patron, eve gitmek istiyorum!"
+      },
+      {
+        "msgID": "map05_e_map05_npc02_Fgal_EN00_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0040",
+        "msgStr": "> Saf ve masum kızın Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map05_e_map05_npc02_Fgal_EP10_EN01_017",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP05_E_L0041",
+        "msgStr": "Şu asker bize aptal dedi ama asıl aptal kendisi!"
+      },
+      {
+        "msgID": "MAP05_E_L0042",
+        "msgStr": "Burnu havada askerler beni çok kızdırıyor!"
+      },
+      {
+        "msgID": "map05_e_map05_npc02_Fgal_EP10_EN02_018",
+        "msgStr": "Saf ve Masum Kız"
+      },
+      {
+        "msgID": "MAP05_E_L0043",
+        "msgStr": "Patron çok çabalıyor! O yüzden ben de çok çabalamalıyım!"
+      },
+      {
+        "msgID": "MAP05_E_L0044",
+        "msgStr": "Ama o yuvarlak şey... Çok korkunçtu. Eve gitmek istiyorum..."
+      },
+      {
+        "msgID": "map05_e_map05_npc03_Fold_EP08_01_019",
+        "msgStr": "Tapınak Ziyaretçisi"
+      },
+      {
+        "msgID": "MAP05_E_L0045",
+        "msgStr": "Dağın zirvesinden Başkent manzarası eskiden çok güzeldi."
+      },
+      {
+        "msgID": "MAP05_E_L0046",
+        "msgStr": "Eğer dağın bir ruhu varsa, Ordu'nun tepesine o şeyi inşa ettiğini gördükçe ağladığına bahse girerim."
+      },
+      {
+        "msgID": "map05_e_map05_npc03_Fold_EP10_01_020",
+        "msgStr": "Tapınak Ziyaretçisi"
+      },
+      {
+        "msgID": "MAP05_E_L0047",
+        "msgStr": "Radyo dalgaları şu tuhaf görünümlü kuleden geliyor, değil mi?"
+      },
+      {
+        "msgID": "MAP05_E_L0048",
+        "msgStr": "Bu radyo denen şeyin ne kadar popüler olduğu kimin umurunda? Dağa hiçbir faydası dokunmuyor."
+      },
+      {
+        "msgID": "map05_e_map05_npc03_Fold_EP10_02_021",
+        "msgStr": "Tapınak Ziyaretçisi"
+      },
+      {
+        "msgID": "MAP05_E_L0049",
+        "msgStr": "Aman Tanrım. Şuradaki küçük melek ağlamak üzere gibi görünüyor, zavallı şey."
+      },
+      {
+        "msgID": "MAP05_E_L0050",
+        "msgStr": "Havada uçan o şey yüzünden ödü kopmuş olmalı..."
+      },
+      {
+        "msgID": "map05_e_map05_npc03_Fold_EP11_01_022",
+        "msgStr": "Tapınak Ziyaretçisi"
+      },
+      {
+        "msgID": "MAP05_E_L0051",
+        "msgStr": "Hem Ordu hem de bir dedektif burada ama homurdanmaktan başka bir şey yapmıyorlar."
+      },
+      {
+        "msgID": "MAP05_E_L0052",
+        "msgStr": "O kadar işe yaramazlar ki; grrr, ağlayasım geliyor!"
+      },
+      {
+        "msgID": "map05_e_map05_npc03_Fold_EP11_02_023",
+        "msgStr": "Tapınak Ziyaretçisi"
+      },
+      {
+        "msgID": "MAP05_E_L0053",
+        "msgStr": "Ha? O canavar hakkında bir şeyler yapacağını mı söyledin?"
+      },
+      {
+        "msgID": "MAP05_E_L0054",
+        "msgStr": "Sırf benim gönlümü almak için söylüyor olsan bile eksik olma. Şu adamlar senden bir iki şey öğrenebilir."
+      },
+      {
+        "msgID": "map05_e_map05_npc03_Fold_EP12_01_024",
+        "msgStr": "Tapınak Ziyaretçisi"
+      },
+      {
+        "msgID": "MAP05_E_L0055",
+        "msgStr": "Ne kadar ömrüm kaldı bilmiyorum ama öleceğim güne kadar buraya gelmeyi planlıyorum."
+      },
+      {
+        "msgID": "MAP05_E_L0056",
+        "msgStr": "Bunun bir sebebi yok. Sadece Sakuradayama burada olduğu için. Bazen kalbin bir gerekçesi olmaz."
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_EP08_01_025",
+        "msgStr": "Büyülenmiş Hanım"
+      },
+      {
+        "msgID": "MAP05_E_L0057",
+        "msgStr": "Şu kulenin ne kadar da hoş bir çelik iskeleti var! Bütün gün ona bakabilirim."
+      },
+      {
+        "msgID": "MAP05_E_L0058",
+        "msgStr": "O kadar soğuk, o kadar güçlü, o kadar güvenilir ki! Şu andan itibaren yeni sevgilim Waden One!"
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_EP10_01_026",
+        "msgStr": "Büyülenmiş Hanım"
+      },
+      {
+        "msgID": "MAP05_E_L0059",
+        "msgStr": "Waden One çok harika! Yeni göz ağrım o."
+      },
+      {
+        "msgID": "MAP05_E_L0060",
+        "msgStr": "Çeliği, yapısı; tek kelimeyle kusursuz! Başkent'te bunlardan bu kadar çok olduğuna inanamıyorum!"
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_EP11_01_027",
+        "msgStr": "Büyülenmiş Hanım"
+      },
+      {
+        "msgID": "MAP05_E_L0061",
+        "msgStr": "Waden One az önce parladı ve bir sürü bebek doğurdu."
+      },
+      {
+        "msgID": "MAP05_E_L0062",
+        "msgStr": "Hayal mi görüyordum? Yoksa bu kule bir tür... tanrı mı?"
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_EP12_01_028",
+        "msgStr": "Büyülenmiş Hanım"
+      },
+      {
+        "msgID": "MAP05_E_L0063",
+        "msgStr": "Ohhh! Altını ıslatmasına rağmen o asker soğukkanlılığını korudu. Sanırım aşık oldum..."
+      },
+      {
+        "msgID": "MAP05_E_L0064",
+        "msgStr": "Waden One kısmetlerin bulunduğu bir yer... Sanırım gerçekten de bir tür tanrıymış!"
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_IROJ00_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0065",
+        "msgStr": "> Büyülenmiş hanımın gözleri Raidou'ya kilitlenmiş durumda..."
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_EP08_IROJ00_030",
+        "msgStr": "Büyülenmiş Hanım"
+      },
+      {
+        "msgID": "MAP05_E_L0066",
+        "msgStr": "Ohhhh, bu da nedir...? Etten kemikten insanlardan vazgeçtiğimi sanıyordum!"
+      },
+      {
+        "msgID": "MAP05_E_L0067",
+        "msgStr": "Seni gördüğümde aklıma o güzel kule geliyor!"
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_EP10_IROJ01_031",
+        "msgStr": "Büyülenmiş Hanım"
+      },
+      {
+        "msgID": "MAP05_E_L0068",
+        "msgStr": "Ohhh... Etten kemikten vazgeçtiğimi söylediğimde... yalan söylemişim. Gerçekliğin tanrısı galip geldi."
+      },
+      {
+        "msgID": "MAP05_E_L0069",
+        "msgStr": "Sevgilim olursan Waden One'ı bir daha asla düşünmem!"
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_EP11_IROJ01_032",
+        "msgStr": "Büyülenmiş Hanım"
+      },
+      {
+        "msgID": "MAP05_E_L0070",
+        "msgStr": "Ohhh, Waden One, seni bırakmak zorundayım. Canım yanacak ama ayrılığımız kaçınılmaz."
+      },
+      {
+        "msgID": "MAP05_E_L0071",
+        "msgStr": "Sevgilim olursan Waden One'ı bir daha asla düşünmem!"
+      },
+      {
+        "msgID": "map05_e_map05_npc04_Fgai_EP12_IROJ01_033",
+        "msgStr": "Büyülenmiş Hanım"
+      },
+      {
+        "msgID": "MAP05_E_L0072",
+        "msgStr": "Kesinlikle oldukça çekicisin... Ama kalbim kararını çoktan verdi."
+      },
+      {
+        "msgID": "MAP05_E_L0073",
+        "msgStr": "Az önce mesanesini boşaltan o askere... ve o görkemli kuleye ebedi aşk yemini ettim... Evet, bu aşk üçgeni benim kaderim."
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP08_01_034",
+        "msgStr": "Sakuradayama Ordu Askeri"
+      },
+      {
+        "msgID": "MAP05_E_L0074",
+        "msgStr": "Canlanma yeri... Kudreti artırma yeri..."
+      },
+      {
+        "msgID": "MAP05_E_L0075",
+        "msgStr": "Siviller tuhaf söylentiler yayıyor, belki de radyo dalgaları yüzündendir. Ordu'nun moral kaynağını merak ediyor gibiler."
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP10_01_035",
+        "msgStr": "Sakuradayama Ordu Askeri"
+      },
+      {
+        "msgID": "MAP05_E_L0076",
+        "msgStr": "Waden One, projemizin temel taşı olmasının yanı sıra Ordu'nun moral kaynağıdır."
+      },
+      {
+        "msgID": "MAP05_E_L0077",
+        "msgStr": "Göklere doğru uzanışı, gelişme arzumuzu simgeliyor! Şu ihtişama bak!"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP10_02_036",
+        "msgStr": "Sakuradayama Ordu Askeri"
+      },
+      {
+        "msgID": "MAP05_E_L0078",
+        "msgStr": "Tai-itsu Uydusu'nun fırlatılışı Ordu'nun moral kaynağı ve projemizin can damarlarından biridir."
+      },
+      {
+        "msgID": "MAP05_E_L0079",
+        "msgStr": "İyice bir bak; Waden One'ın ihtişamını gör!"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP11_01_037",
+        "msgStr": "Sakuradayama Ordu Askeri"
+      },
+      {
+        "msgID": "MAP05_E_L0080",
+        "msgStr": "S-Siz sivillerin aksine biz hazırlıklıyız!"
+      },
+      {
+        "msgID": "MAP05_E_L0081",
+        "msgStr": "Ve bilgin olsun diye söylüyorum, b-bu... ter! Evet, ter! Aynen öyle, terden sırılsıklam olmuş bir pantolondan başka bir şey değil!"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP11_02_038",
+        "msgStr": "Sakuradayama Ordu Askeri"
+      },
+      {
+        "msgID": "MAP05_E_L0082",
+        "msgStr": "N-Ne? O canavarı yenmek için bir planın mı var? Böyle şakalar yapma!"
+      },
+      {
+        "msgID": "MAP05_E_L0083",
+        "msgStr": "Neyse... Y-Yedek pantolonun varsa memnuniyetle alırım..."
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP12_01_039",
+        "msgStr": "Sakuradayama Ordu Askeri"
+      },
+      {
+        "msgID": "MAP05_E_L0084",
+        "msgStr": "W-Waden One kulesi bizim moral kaynağımızdır!"
+      },
+      {
+        "msgID": "MAP05_E_L0085",
+        "msgStr": "Yani tabii, pantolonumla ilgili koşullar pek ideal sayılmaz ama... bu beni yavaşlatamaz!"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_JYU00_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0086",
+        "msgStr": "> Sakuradayama Ordu askerinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP08_JYU01_041",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP05_E_L0087",
+        "msgStr": "<COLOR 2>Sivillerin zihni çok fesat. Waden One'ı bir tür eğlence evi olarak görmek ha..."
+      },
+      {
+        "msgID": "MAP05_E_L0088",
+        "msgStr": "Ah, hayır... Şimdi ben de bunu düşünmeden edemiyorum!<COLOR 0>"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP10_JYU01_042",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP05_E_L0089",
+        "msgStr": "<COLOR 2>Ona baktıkça..."
+      },
+      {
+        "msgID": "MAP05_E_L0090",
+        "msgStr": "Eyvah... Ayağa kalkabilmem için bir dakikaya ihtiyacım olacak...<COLOR 0>"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP10_JYU02_043",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP05_E_L0091",
+        "msgStr": "<COLOR 2>Neden moladayken tuvalete gitmedim ki?"
+      },
+      {
+        "msgID": "MAP05_E_L0092",
+        "msgStr": "Şimdi önemli bir görevdeyim... Ve tuvalete... gidemem...<COLOR 0>"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP11_JYU01_044",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP05_E_L0093",
+        "msgStr": "<COLOR 2>O-O sarsıntı çok şiddetliydi! Ve sonra o canavar..."
+      },
+      {
+        "msgID": "MAP05_E_L0094",
+        "msgStr": "K-Kim olsa altına <IT_S>işemezdi<IT_E> ki!?<COLOR 0>"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP11_JYU02_045",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP05_E_L0095",
+        "msgStr": "<COLOR 2>O şeyi görünce ben bile mesanemin kontrolünü kaybettim!"
+      },
+      {
+        "msgID": "MAP05_E_L0096",
+        "msgStr": "B-Bir liseli velet ne yapmayı umabilir ki!?<COLOR 0>"
+      },
+      {
+        "msgID": "map05_e_map05_npc05_Mkep_EP12_JYU01_046",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP05_E_L0097",
+        "msgStr": "<COLOR 2>Şuradaki kadın dik dik bana bakıyor..."
+      },
+      {
+        "msgID": "MAP05_E_L0098",
+        "msgStr": "H-Hayır! O canavarı gördüğümde altıma işediğimi fark etmedi, değil mi!?"
+      },
+      {
+        "msgID": "MAP05_E_L0099",
+        "msgStr": "Sakin ol... Fark etmiş olamaz. Ben tüm Ordu'daki en iyi oyuncuyum!<COLOR 0>"
+      },
+      {
+        "msgID": "map05_e_map05_npc06_Mkep_EP08_01_047",
+        "msgStr": "Radyo Kulesi Müfettişi"
+      },
+      {
+        "msgID": "MAP05_E_L0100",
+        "msgStr": "Lütfen! Şimdi sırası değil! Sadece bu seferlik beni dinlemen gerekiyor!"
+      },
+      {
+        "msgID": "MAP05_E_L0101",
+        "msgStr": "Ve şu aptal veletleri de yanında götür!"
+      },
+      {
+        "msgID": "map05_e_map05_npc06_Mkep_EP10_01_048",
+        "msgStr": "Radyo Kulesi Müfettişi"
+      },
+      {
+        "msgID": "MAP05_E_L0102",
+        "msgStr": "Neden kimse beni dinlemiyor!? Siviller, polisler; kimsenin buraya girmesine izin yok!"
+      },
+      {
+        "msgID": "MAP05_E_L0103",
+        "msgStr": "Kahretsin, bana bakıp kıs kıs gülme! Bu noktadan kıpırdamıyorum!"
+      },
+      {
+        "msgID": "map05_e_map05_npc06_Mkep_EP10_02_049",
+        "msgStr": "Radyo Kulesi Müfettişi"
+      },
+      {
+        "msgID": "MAP05_E_L0104",
+        "msgStr": "Neden kimse beni dinlemiyor!? Bu bölge sivillere yasak!"
+      },
+      {
+        "msgID": "MAP05_E_L0105",
+        "msgStr": "Çocukların oyun kalesi kimin umurunda!? Ağlamak seni hiçbir yere götürmez. Burası benim nöbet yerim!"
+      },
+      {
+        "msgID": "map05_e_map05_npc06_Mkep_EP11_01_050",
+        "msgStr": "Radyo Kulesi Müfettişi"
+      },
+      {
+        "msgID": "MAP05_E_L0106",
+        "msgStr": "O-O veletler sonunda gitti..."
+      },
+      {
+        "msgID": "MAP05_E_L0107",
+        "msgStr": "Az önce onlara bağırdığımı biliyorum ama... Ö-Önlerinde kaçamazdım. Aptal gibi görünürdüm."
+      },
+      {
+        "msgID": "map05_e_map05_npc06_Mkep_EP11_02_051",
+        "msgStr": "Radyo Kulesi Müfettişi"
+      },
+      {
+        "msgID": "MAP05_E_L0108",
+        "msgStr": "O-O veletler sonunda gitti..."
+      },
+      {
+        "msgID": "MAP05_E_L0109",
+        "msgStr": "Az önce onlara bağırdığımı biliyorum ama... Ö-Önlerinde kaçamazdım. Aptal gibi görünürdüm."
+      },
+      {
+        "msgID": "map05_e_map05_npc06_Mkep_EP12_01_052",
+        "msgStr": "Radyo Kulesi Müfettişi"
+      },
+      {
+        "msgID": "MAP05_E_L0110",
+        "msgStr": "C-Canavar olsun ya da olmasın, bu kontrol noktası benim nöbet yerim!"
+      },
+      {
+        "msgID": "MAP05_E_L0111",
+        "msgStr": "B-Bu yüzden yerimden kıpırdamıyorum! Kimse geçemez!"
+      },
+      {
+        "msgID": "map05_e_map05_npc06_Mkep_JYU00_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0112",
+        "msgStr": "> Radyo kulesi müfettişinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map05_e_map05_npc06_Mkep_EP08_JYU01_054",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP05_E_L0113",
+        "msgStr": "<COLOR 2>Bu hiç iyi değil... Tümgeneral Munakata sahadayken olmaz..."
+      },
+      {
+        "msgID": "MAP05_E_L0114",
+        "msgStr": "Waden One'ın tepesinden doğrudan görünüyoruz... Konuşurken yakalanmayı göze alamam!<COLOR 0>"
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP10_01_055",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0115",
+        "msgStr": "...Yine sendin, ha? Waden One'daki kargaşanın sorumlusu da kesin sensindir."
+      },
+      {
+        "msgID": "MAP05_E_L0116",
+        "msgStr": "Aah, sorun değil. Görmezden geleceğim."
+      },
+      {
+        "msgID": "MAP05_E_L0117",
+        "msgStr": "Git de şu Ordu öğrencisi serserilere dünyayı dar et."
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP10_02_056",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0118",
+        "msgStr": "Tümgeneral Munakata'nın süper silahları elbette epey güçlü ama..."
+      },
+      {
+        "msgID": "MAP05_E_L0119",
+        "msgStr": "Onlarla ilgili en iyi şey güçlerinin asla tükenmemesi."
+      },
+      {
+        "msgID": "MAP05_E_L0120",
+        "msgStr": "O uydunun aşağıdaki silahlara kesintisiz enerji akışı gönderdiğini söylüyorlar."
+      },
+      {
+        "msgID": "MAP05_E_L0121",
+        "msgStr": "Bana zırva gibi gelmişti ama gördüklerimden sonra..."
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP11_01_057",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0122",
+        "msgStr": "Eğer o canavarın, Tümgeneral Munakata'nın dediği gibi sınırsız enerjisi varsa..."
+      },
+      {
+        "msgID": "MAP05_E_L0123",
+        "msgStr": "O zaman bütün dünya dümdüz olana kadar durmayacaktır."
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP11_02_058",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0124",
+        "msgStr": "Sınırsız enerjisi olan bir şeyi nasıl durdurursun ki be!?"
+      },
+      {
+        "msgID": "MAP05_E_L0125",
+        "msgStr": "Bir yolunu biliyorum. Bana bırak."
+      },
+      {
+        "msgID": "MAP05_E_L0126",
+        "msgStr": "Bir şeyler yapın, Dedektif!"
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP11_02_ans0_059",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0127",
+        "msgStr": "Ş-Şaka yapıyor olmalısın! <IT_S>Böyle<IT_E> bir canavara karşı kıdemsiz bir özel dedektifin ne yapmasını bekliyorsun ki!?"
+      },
+      {
+        "msgID": "MAP05_E_L0128",
+        "msgStr": "Tanrım, ne oluyor bana böyle? Ben bir hafiyeyim! Özel bir dedektifin beni gölgede bırakmasına izin veremem!"
+      },
+      {
+        "msgID": "MAP05_E_L0129",
+        "msgStr": "Sen git ve büroda Narumi ile bekle. Gerisini polis halleder!"
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP11_02_ans1_060",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0130",
+        "msgStr": "B-Benimle kavga mı çıkarmaya çalışıyorsun!? Öyle bir canavara karşı <IT_S>benim<IT_E> ne yapmamı istiyorsun ki!?"
+      },
+      {
+        "msgID": "MAP05_E_L0131",
+        "msgStr": "Kazanamayacağın bir kavgaya tutuşmaktan hiçbir hayır gelmez."
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EN00_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0132",
+        "msgStr": "> Dedektif Kazama'nın Ruh Gücü yeniden alevlendi."
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP10_EN01_062",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0133",
+        "msgStr": "Müfettişmiş, külahıma anlatsın! Kahrolası çaylak öğrenci kalkmış bana ahkâm kesiyor!"
+      },
+      {
+        "msgID": "MAP05_E_L0134",
+        "msgStr": "O daha annesinin karnındayken ben bu Başkent'te pislikleri içeri tıkıyordum!"
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP10_EN02_063",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0135",
+        "msgStr": "Uydusu batsın! Arkana bir ordu alıp kavgaya tutuşmak ha..."
+      },
+      {
+        "msgID": "MAP05_E_L0136",
+        "msgStr": "Buna asla tahammül edemem! Sana söylüyorum, bir kavga dövüşenler dışında kimseyi ilgilendirmez!"
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP11_EN01_064",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0137",
+        "msgStr": "\"Kavga çıkarırlarsa, istediklerinin üç katını verirsin!\" Gençliğimde benim düsturum buydu."
+      },
+      {
+        "msgID": "MAP05_E_L0138",
+        "msgStr": "Ama <IT_S>o kadar<IT_E> büyük bir canavar mı? Gözünü oyamazsın ya da hayalarına diz atamazsın ki!"
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZAMA_EP11_EN02_065",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0139",
+        "msgStr": "O koca aptalla kafa kafaya kapışmaya çalışacak kadar salak değilim!"
+      },
+      {
+        "msgID": "MAP05_E_L0140",
+        "msgStr": "Ama bir kenarda oturup parmaklarımı şıklatacak da değilim! <IT_S>O kadar<IT_E> da çıtkırıldım değilim!"
+      },
+      {
+        "msgID": "MAP05_E_L0141",
+        "msgStr": "Benim kendi dövüş tarzım var. Yumruklarımla değil, duygularımla!"
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZ_RAI_01_066",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "MAP05_E_L0142",
+        "msgStr": "Hmm..."
+      },
+      {
+        "msgID": "MAP05_E_L0143",
+        "msgStr": "Ne—!? Aa! Sensin ha, Raidou!"
+      },
+      {
+        "msgID": "MAP05_E_L0144",
+        "msgStr": "Şuna da bak. Artık sorumluluk sahibi, çalışkan bir yetişkin gibi görünüyorsun."
+      },
+      {
+        "msgID": "MAP05_E_L0145",
+        "msgStr": "Heh, eskiden buradaki serserilerin lideriydim, bütün gün kavga ederdim..."
+      },
+      {
+        "msgID": "MAP05_E_L0146",
+        "msgStr": "Ama şimdi bu kiraz çiçeği armasını taşıyor, kanunun safında çalışıyorum."
+      },
+      {
+        "msgID": "MAP05_E_L0147",
+        "msgStr": "Artık yumruklarım yerine kelepçe kullansam da hâlâ yamuk işlerden nefret ederim."
+      },
+      {
+        "msgID": "MAP05_E_L0148",
+        "msgStr": "Aynasız olmak, şu kıt aklımı kullanarak kendi seçtiğim hayat... Kendim olmamı sağlıyor."
+      },
+      {
+        "msgID": "MAP05_E_L0149",
+        "msgStr": "Gençliğimdeki gözlerin aynısı sende de var; pervasız ama bir o kadar da dürüst."
+      },
+      {
+        "msgID": "MAP05_E_L0150",
+        "msgStr": "...Şunu alsana."
+      },
+      {
+        "msgID": "MAP05_E_L0151",
+        "msgStr": "Benim yaşıma geldiğinde gözlerindeki o ışıltıyı kaybetmediğinden emin ol."
+      },
+      {
+        "msgID": "map05_e_map05_npc07_KAZ_TRG_GET_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_E_L0152",
+        "msgStr": "> Raidou <ITM_04><COLOR 4>Bancho Üniforması<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map05_e_map05_npc08_quake_01_068",
+        "msgStr": "Can Çekişen Denizci Asker"
+      },
+      {
+        "msgID": "MAP05_E_L0153",
+        "msgStr": "Radyolar... popüler olsa bile... Ordu tarafından korunan... bir radyo kulesi... fazla şüpheli..."
+      },
+      {
+        "msgID": "MAP05_E_L0154",
+        "msgStr": "Ç-Çok geç... kaldık... Keşke içeri dalıp... onu yok... etseydik..."
+      },
+      {
+        "msgID": "map05_e_map05_npc09_quake_01_069",
+        "msgStr": "Hıçkıran Ordu Askeri"
+      },
+      {
+        "msgID": "MAP05_E_L0155",
+        "msgStr": "B-Ben yapmadım! O Denizci adamı... ben... ben durdurmaya çalıştım!"
+      },
+      {
+        "msgID": "MAP05_E_L0156",
+        "msgStr": "Sarsıntı sırasında ayağı kayıp düştü! K-Kendi kendine düştü!"
+      },
+      {
+        "msgID": "map05_e_map05_STOP_IGOUKI_01_070",
+        "msgStr": "Radyo Kulesi Müfettişi"
+      },
+      {
+        "msgID": "MAP05_E_L0157",
+        "msgStr": "Lütfen! Buradan ileri geçemezsin! Başım belaya girer!"
+      },
+      {
+        "msgID": "MAP05_E_L0158",
+        "msgStr": "Gerçekten, evine git! Yalvarıyorum sana!"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:07"
+}

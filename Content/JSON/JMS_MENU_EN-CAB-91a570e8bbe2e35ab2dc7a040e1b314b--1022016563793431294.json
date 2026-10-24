@@ -1,0 +1,113 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMS_MENU_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "JMS_MENU_L0000",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "JMS_MENU_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_MENU_L0002",
+        "msgStr": "Soruşturmayı Kaydet"
+      },
+      {
+        "msgID": "JMS_MENU_L0003",
+        "msgStr": "İlerleme Raporları"
+      },
+      {
+        "msgID": "JMS_MENU_L0004",
+        "msgStr": "Mahjong Oyna"
+      },
+      {
+        "msgID": "JMS_MENU_L0005",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "JMS_MENU_L0006",
+        "msgStr": "Dosya 1"
+      },
+      {
+        "msgID": "JMS_MENU_L0007",
+        "msgStr": "Dosya 2"
+      },
+      {
+        "msgID": "JMS_MENU_L0008",
+        "msgStr": "Dosya 3"
+      },
+      {
+        "msgID": "JMS_MENU_L0009",
+        "msgStr": "Bölüm 1"
+      },
+      {
+        "msgID": "JMS_MENU_L0010",
+        "msgStr": "Bölüm 2"
+      },
+      {
+        "msgID": "JMS_MENU_L0011",
+        "msgStr": "Bölüm 3"
+      },
+      {
+        "msgID": "JMS_MENU_L0012",
+        "msgStr": "Bölüm 4"
+      },
+      {
+        "msgID": "JMS_MENU_L0013",
+        "msgStr": "Bölüm 5"
+      },
+      {
+        "msgID": "JMS_MENU_L0014",
+        "msgStr": "Bölüm 6"
+      },
+      {
+        "msgID": "JMS_MENU_L0015",
+        "msgStr": "Bölüm 7"
+      },
+      {
+        "msgID": "JMS_MENU_L0016",
+        "msgStr": "Bölüm 8"
+      },
+      {
+        "msgID": "JMS_MENU_L0017",
+        "msgStr": "Bölüm 9"
+      },
+      {
+        "msgID": "JMS_MENU_L0018",
+        "msgStr": "Bölüm 10"
+      },
+      {
+        "msgID": "JMS_MENU_L0019",
+        "msgStr": "Bölüm 11"
+      },
+      {
+        "msgID": "JMS_MENU_L0020",
+        "msgStr": "Son Bölüm"
+      },
+      {
+        "msgID": "JMS_MENU_L0021",
+        "msgStr": "20"
+      },
+      {
+        "msgID": "JMS_MENU_L0022",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "JMS_MENU_L0023",
+        "msgStr": "Eşyaları Al"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:02:50"
+}

@@ -1,0 +1,25 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_PLTF_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CMP_PLTF_L0001",
+        "msgStr": "> Kaydedilsin mi?"
+      },
+      {
+        "msgID": "CMP_PLTF_L0002",
+        "msgStr": "> Hızlı kayıt verisi oluşturuldu."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:47:58"
+}

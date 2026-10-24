@@ -1,0 +1,1333 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP07_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map07_m_m_Common_Item_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0000",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map07_m_m_Common_ItemSelect SEL_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0001",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP07_M_L0002",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map07_m_m_Common_GetItem_Raidou_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0003",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "map07_m_m_Common_GetItem_Devil_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0004",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map07_m_m_sys_kan_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0005",
+        "msgStr": "> <devil 0>, İnceleme yeteneğini kullandı."
+      },
+      {
+        "msgID": "map07_m_m_sys_doku_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0006",
+        "msgStr": "> <devil 0> kişinin kalbinin içine baktı."
+      },
+      {
+        "msgID": "map07_m_m_sys_riki_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0007",
+        "msgStr": "> <devil 0> tüm gücüyle vurdu!"
+      },
+      {
+        "msgID": "map07_m_m_Mihari01_007",
+        "msgStr": "Gözcü Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0008",
+        "msgStr": "Senin gibi bir çocuğun burada işi yok. Hadi evine git."
+      },
+      {
+        "msgID": "map07_m_m_Mihari02_008",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0009",
+        "msgStr": "Beklendiği gibi güvenlik sıkı. Yüzünde ben olan adamımızı bu şekilde asla bulamayız."
+      },
+      {
+        "msgID": "MAP07_M_L0010",
+        "msgStr": "Bu durumda, <COLOR 3>bu nöbetçiyi buradan uzaklaştırmanın<COLOR 0> bir yolunu düşünmeliyiz."
+      },
+      {
+        "msgID": "MAP07_M_L0011",
+        "msgStr": "Önce <COLOR 3>bölgedeki askerlerin neler söylediğine bir kulak verelim<COLOR 0>."
+      },
+      {
+        "msgID": "map07_m_m_heisi02_009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou01_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0017",
+        "msgStr": "> Bir top. Üzerine yapıştırılmış el yazısı bir not var."
+      },
+      {
+        "msgID": "MAP07_M_L0018",
+        "msgStr": "\"Bu top her zaman ateşlenmeye hazırdır. Yetkisiz personel: DOKUNMAYIN.\""
+      },
+      {
+        "msgID": "MAP07_M_L0019",
+        "msgStr": "\"Fitilden açık alevleri uzak tutun.\""
+      },
+      {
+        "msgID": "map07_m_m_taihou02_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0020",
+        "msgStr": "> Bir Ordu topu."
+      },
+      {
+        "msgID": "MAP07_M_L0021",
+        "msgStr": "> Konumu ve açısı göz önüne alındığında, savunma amaçlı olması pek olası görünmüyor."
+      },
+      {
+        "msgID": "MAP07_M_L0022",
+        "msgStr": "> Barut ve gülle çoktan doldurulmuş. Geriye sadece fitili ateşlemek kalmış."
+      },
+      {
+        "msgID": "map07_m_m_taihou03_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0023",
+        "msgStr": "> <devil 0> topun fitilini ateşledi!"
+      },
+      {
+        "msgID": "map07_m_m_taihou03rej_013",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0024",
+        "msgStr": "Raidou, yapma."
+      },
+      {
+        "msgID": "MAP07_M_L0025",
+        "msgStr": "Cazip geldiğini biliyorum ama ne olacağı hakkında hiçbir fikrimiz yok."
+      },
+      {
+        "msgID": "MAP07_M_L0026",
+        "msgStr": "Ateşle oynamayalım. Hemen <COLOR 3>nöbetçi kulübesine<COLOR 0> gitmeliyiz."
+      },
+      {
+        "msgID": "map07_m_m_taihou03rej2_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0027",
+        "msgStr": "> Raidou alevi hızla söndürdü."
+      },
+      {
+        "msgID": "map07_m_m_taihou04_015",
+        "msgStr": "Askerlerin Sesleri"
+      },
+      {
+        "msgID": "MAP07_M_L0028",
+        "msgStr": "O ses toptan mı geldi? Saat şimdiden öğlen mi oldu?"
+      },
+      {
+        "msgID": "MAP07_M_L0029",
+        "msgStr": "Biraz erken gibi, değil mi?"
+      },
+      {
+        "msgID": "MAP07_M_L0030",
+        "msgStr": "Gerçekten mi? Çünkü ben öğle yemeğine tamamen hazırım."
+      },
+      {
+        "msgID": "MAP07_M_L0031",
+        "msgStr": "Her halükârda nöbetimiz bitti. Ben kışlaya dönüyorum."
+      },
+      {
+        "msgID": "map07_m_m_taihou05_01_016",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0032",
+        "msgStr": "Bak sen şu işe, görünüşe göre top atışı o askerleri yanılttı."
+      },
+      {
+        "msgID": "MAP07_M_L0033",
+        "msgStr": "İyi düşündün, Raidou."
+      },
+      {
+        "msgID": "MAP07_M_L0034",
+        "msgStr": "Bu nöbetçiler meselesini çözecektir. <COLOR 3>Nöbetçi kulübesine gidelim ve şu benli adamımızı arayalım.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_m_m_taihou05_02_017",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0035",
+        "msgStr": "Görünüşe göre tam da söylendiği gibi işe yaradı."
+      },
+      {
+        "msgID": "MAP07_M_L0036",
+        "msgStr": "Bu nöbetçiler meselesini çözecektir. <COLOR 3>Nöbetçi kulübesine gidelim ve şu benli adamımızı arayalım.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_m_m_taihou06_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou07_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou07s SEL_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou08_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou08s SEL_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou09_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou10_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou11_01_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou11_02_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou12_01_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_taihou12_02_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo00_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0056",
+        "msgStr": "> Raidou konuşan askerleri duyabiliyor."
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo01_030",
+        "msgStr": "Soldaki Asker"
+      },
+      {
+        "msgID": "MAP07_M_L0057",
+        "msgStr": "Hey, şu <COLOR 3>asker kaçağını<COLOR 0> buldun mu?"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo02_031",
+        "msgStr": "Sağdaki Asker"
+      },
+      {
+        "msgID": "MAP07_M_L0058",
+        "msgStr": "<COLOR 3>Nöbetçi kulübesinin<COLOR 0> etrafında o tarife uyan bir adam olduğunu duydum..."
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo03_032",
+        "msgStr": "Soldaki Asker"
+      },
+      {
+        "msgID": "MAP07_M_L0059",
+        "msgStr": "Biliyor musun, düşünüyordum da... mangamızda <COLOR 3>yüzünde ben olan bir adam<COLOR 0> var mı ki?"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo04_033",
+        "msgStr": "Sağdaki Asker"
+      },
+      {
+        "msgID": "MAP07_M_L0060",
+        "msgStr": "Bize adını veya birliğini söylemezlerse onu nasıl bulmamızı bekliyorlar?"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo05_034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo06_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo07_036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo08_037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo09_038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo10_039",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0067",
+        "msgStr": "> Ordu askerleri işlerinin başına dönerken yakınmaya devam ettiler..."
+      },
+      {
+        "msgID": "map07_m_m_SadaInfo11_040",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0068",
+        "msgStr": "<COLOR 3>Yüzünde ben olan bir asker kaçağı<COLOR 0> diyorlar... Bu, Tae'nin muhbiri olabilir."
+      },
+      {
+        "msgID": "MAP07_M_L0069",
+        "msgStr": "Bunu kontrol etmeliyiz. <COLOR 3>Şu sözde nöbetçi kulübesini bir ziyaret edelim<COLOR 0>."
+      },
+      {
+        "msgID": "map07_m_m_SadaInfoSt01_041",
+        "msgStr": "Şaşkın Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0070",
+        "msgStr": "Duyduğuma göre <COLOR 3>o asker kaçağı nöbetçi kulübesinin etrafında dolanıyormuş<COLOR 0>."
+      },
+      {
+        "msgID": "MAP07_M_L0071",
+        "msgStr": "Dur bir dakika, bu nöbetçi kulübesinde görevlendirilen askerin... o asker kaçağı olduğu anlamına mı geliyor?"
+      },
+      {
+        "msgID": "MAP07_M_L0072",
+        "msgStr": "Beni olup olmadığını hatırlayamıyorum. Genelde insanların yüzüne dik dik bakmam."
+      },
+      {
+        "msgID": "map07_m_m_don01_042",
+        "msgStr": "Yakınan Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0073",
+        "msgStr": "Meiji döneminden beri o şey gümbürdeyip duruyor. Sesi hoşuma gidiyor, anlıyor musun?"
+      },
+      {
+        "msgID": "MAP07_M_L0074",
+        "msgStr": "Ama Meclis son sözü söyledi... O topun günleri sayılı. Onu gerçekten özleyeceğim."
+      },
+      {
+        "msgID": "map07_m_m_don01ext_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0075",
+        "msgStr": "> <devil 0> askeri alışılmadık bir ilgiyle izliyor."
+      },
+      {
+        "msgID": "map07_m_m_don02_01_044",
+        "msgStr": "Boşboğaz Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0076",
+        "msgStr": "Buraya gelirken o topu gördün, değil mi? Sakın dokunma."
+      },
+      {
+        "msgID": "MAP07_M_L0077",
+        "msgStr": "Acemi bir askeri öğrenci, onun <COLOR 3>nöbet değişim sinyali<COLOR 0> olduğunu bilmeden ateşledi ve onu disiplin koğuşuna tıktılar."
+      },
+      {
+        "msgID": "MAP07_M_L0078",
+        "msgStr": "O kargaşada <COLOR 3>tüm nöbetçiler görev yerlerini terk etti<COLOR 0>... Kasumidai tamamen savunmasız kaldı."
+      },
+      {
+        "msgID": "map07_m_m_don02_02_045",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0079",
+        "msgStr": "Oo, bak <IT_S>bu<IT_E> gerçekten ilginçmiş..."
+      },
+      {
+        "msgID": "MAP07_M_L0080",
+        "msgStr": "<COLOR 3>Demek top nöbetçiler için bir sinyal, öyle mi?<COLOR 0> Bunu bir kenara not etsen iyi olur, Raidou."
+      },
+      {
+        "msgID": "map07_m_m_don02ext_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0081",
+        "msgStr": "> <devil 0> şeytani bir gülümsemeyle izliyor."
+      },
+      {
+        "msgID": "map07_m_m_Hara01_047",
+        "msgStr": "Övüngen Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0082",
+        "msgStr": "Umarım üzerinde hiç kibrit yoktur. Varsa el koymamız gerekecek."
+      },
+      {
+        "msgID": "MAP07_M_L0083",
+        "msgStr": "Açık bir alev <COLOR 3>topa<COLOR 0> fazla yaklaşırsa felaket olur."
+      },
+      {
+        "msgID": "map07_m_m_Hara01ext_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0084",
+        "msgStr": "> <devil 0> boş gözlerle insana bakıyor."
+      },
+      {
+        "msgID": "map07_m_m_Radio01_049",
+        "msgStr": "Telsizci Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0085",
+        "msgStr": "Hey, evlat. Radyo dinler misin?"
+      },
+      {
+        "msgID": "map07_m_m_Radio01s SEL_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0086",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "MAP07_M_L0087",
+        "msgStr": "Hayır."
+      },
+      {
+        "msgID": "MAP07_M_L0088",
+        "msgStr": "Pek bana göre değil."
+      },
+      {
+        "msgID": "map07_m_m_Radio01a_051",
+        "msgStr": "Telsizci Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0089",
+        "msgStr": "Şahane! Ben de!"
+      },
+      {
+        "msgID": "map07_m_m_Radio01b_052",
+        "msgStr": "Telsizci Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0090",
+        "msgStr": "Aa... Ne kötü."
+      },
+      {
+        "msgID": "map07_m_m_Radio01c_053",
+        "msgStr": "Telsizci Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0091",
+        "msgStr": "Bir şans vermelisin. Bayılacağına eminim."
+      },
+      {
+        "msgID": "map07_m_m_Radio02_054",
+        "msgStr": "Telsizci Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0092",
+        "msgStr": "Radyo dinlemeye bayılırım. Elimde olsa bütün gün dinlerim."
+      },
+      {
+        "msgID": "MAP07_M_L0093",
+        "msgStr": "<COLOR 3>Öğlen nöbet değişimi<COLOR 0> çalar çalmaz doğrudan kışlaya doğru ok gibi fırlarım."
+      },
+      {
+        "msgID": "MAP07_M_L0094",
+        "msgStr": "Öğlene ne kadar kaldı...?"
+      },
+      {
+        "msgID": "map07_m_m_Radio01ext_055",
+        "msgStr": "Telsizci Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_M_L0095",
+        "msgStr": "Biraz daha radyo dinlemek için sabırsızlanıyorum... Öğlen nöbet değişimi vakti gelmedi mi hâlâ?"
+      },
+      {
+        "msgID": "map07_m_m_ThinkInfo01_056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_ThinkInfo02_057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_ThinkInfo03_058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_ThinkInfo03s SEL_059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_ThinkInfo03a_060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_ThinkInfo03b_061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_bari01_01_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0110",
+        "msgStr": "> Yolu kapatan bir barikat var."
+      },
+      {
+        "msgID": "map07_m_m_bari01_01s SEL_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0111",
+        "msgStr": "Barikatın üzerinden atla"
+      },
+      {
+        "msgID": "MAP07_M_L0112",
+        "msgStr": "Sınıra saygı duy"
+      },
+      {
+        "msgID": "map07_m_m_bari01_01ss SEL_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0113",
+        "msgStr": "Karşıya bir iblis gönder"
+      },
+      {
+        "msgID": "MAP07_M_L0114",
+        "msgStr": "Hiçbir şey yapma"
+      },
+      {
+        "msgID": "map07_m_m_bari01_02_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0115",
+        "msgStr": "> Yolları kapatmak için kullanılan bir barikat."
+      },
+      {
+        "msgID": "map07_m_m_tiisai01_01_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0116",
+        "msgStr": "> Burası küçük bir delik."
+      },
+      {
+        "msgID": "map07_m_m_tiisai01_02_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0117",
+        "msgStr": "> Küçük bir delik ama bu iblis muhtemelen içine sığabilir."
+      },
+      {
+        "msgID": "MAP07_M_L0118",
+        "msgStr": "> Girilsin mi?"
+      },
+      {
+        "msgID": "map07_m_m_tiisai01_02s SEL_068",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0119",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP07_M_L0120",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map07_m_m_tiisai02_069",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0121",
+        "msgStr": "> Delikten çıkılsın mı?"
+      },
+      {
+        "msgID": "map07_m_m_tiisai02s SEL_070",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0122",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP07_M_L0123",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map07_m_m_Building01_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0124",
+        "msgStr": "> Yüce Mahkeme binası."
+      },
+      {
+        "msgID": "MAP07_M_L0125",
+        "msgStr": "> Uzun koridorun ötesinde büyük, sağlam görünümlü kapılar var."
+      },
+      {
+        "msgID": "map07_m_m_Building01_dev01_072",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0126",
+        "msgStr": "> Yüce Mahkeme binası."
+      },
+      {
+        "msgID": "MAP07_M_L0127",
+        "msgStr": "> <devil 0> uzun koridorun ötesindeki kapılardan yüksek, gümbürtülü bir ses duydu."
+      },
+      {
+        "msgID": "map07_m_m_Building01_dev02_073",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP07_M_L0128",
+        "msgStr": "İtiraz ediyorum!"
+      },
+      {
+        "msgID": "map07_m_m_Building02_074",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0129",
+        "msgStr": "> Meclis Binası."
+      },
+      {
+        "msgID": "MAP07_M_L0130",
+        "msgStr": "> Sarsılmaz bina Kasumidai'nin üzerinde nöbet tutuyor gibi görünüyor."
+      },
+      {
+        "msgID": "map07_m_m_Building02_dev_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0131",
+        "msgStr": "> Meclis Binası."
+      },
+      {
+        "msgID": "MAP07_M_L0132",
+        "msgStr": "> <devil 0> binanın beş dakikadan kısa sürede yerle bir edilebileceğinden emin."
+      },
+      {
+        "msgID": "map07_m_m_Building03_076",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0133",
+        "msgStr": "> Ordu Karargâhı."
+      },
+      {
+        "msgID": "MAP07_M_L0134",
+        "msgStr": "> Baskıcı görünümlü yerleşke Kasumidai'ye tepeden bakıyor."
+      },
+      {
+        "msgID": "map07_m_m_Building03_dev_077",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0135",
+        "msgStr": "> Ordu Karargâhı."
+      },
+      {
+        "msgID": "MAP07_M_L0136",
+        "msgStr": "> <devil 0> binanın on dakikadan kısa sürede yerle bir edilebileceğinden emin."
+      },
+      {
+        "msgID": "map07_m_m_Building04_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0137",
+        "msgStr": "> Efsanevi bir tanrının heykeli."
+      },
+      {
+        "msgID": "MAP07_M_L0138",
+        "msgStr": "> Tepeden tırnağa her parçası özenle yontulmuş."
+      },
+      {
+        "msgID": "map07_m_m_Building04_dev_079",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0139",
+        "msgStr": "> Efsanevi bir tanrının heykeli."
+      },
+      {
+        "msgID": "MAP07_M_L0140",
+        "msgStr": "> Tepeden tırnağa her parçası özenle yontulmuş."
+      },
+      {
+        "msgID": "MAP07_M_L0141",
+        "msgStr": "> <devil 0> refleks olarak savaş duruşuna geçti."
+      },
+      {
+        "msgID": "map07_m_m_Y_Entrance01_080",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0142",
+        "msgStr": "Hım, buranın etrafında şüpheli bir hava var."
+      },
+      {
+        "msgID": "MAP07_M_L0143",
+        "msgStr": "Gerçi mevcut soruşturmamızla bir ilgisi yok, o yüzden devam edelim."
+      },
+      {
+        "msgID": "map07_m_m_Y_Entrance02_081",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0144",
+        "msgStr": "Hım, buranın etrafında şüpheli bir hava var."
+      },
+      {
+        "msgID": "MAP07_M_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0146",
+        "msgStr": "Araştıralım, Raidou."
+      },
+      {
+        "msgID": "map07_m_m_Y_Entrance03_082",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0147",
+        "msgStr": "Buraya daha önce de gelmiştik, değil mi? Burası hakkında şüphelerim olduğunu hatırlıyorum."
+      },
+      {
+        "msgID": "MAP07_M_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0149",
+        "msgStr": "Araştıralım, Raidou."
+      },
+      {
+        "msgID": "map07_m_m_Y_blue01_083",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0150",
+        "msgStr": "> Tek gözünün yerinde delik olan bir heykel..."
+      },
+      {
+        "msgID": "map07_m_m_Y_blue01s SEL_084",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0151",
+        "msgStr": "Shiomitsu Küresi'ni yerleştir"
+      },
+      {
+        "msgID": "MAP07_M_L0152",
+        "msgStr": "Chigaeshi Küresi'ni yerleştir"
+      },
+      {
+        "msgID": "MAP07_M_L0153",
+        "msgStr": "Hiçbir şey yapma"
+      },
+      {
+        "msgID": "map07_m_m_Y_blue01ss SEL_085",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0154",
+        "msgStr": "Shiomitsu Küresi'ni yerleştir"
+      },
+      {
+        "msgID": "MAP07_M_L0155",
+        "msgStr": "Hiçbir şey yapma"
+      },
+      {
+        "msgID": "map07_m_m_Y_blue02_086",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0156",
+        "msgStr": "> Raidou, Shiomitsu Küresi'ni yerleştirdi."
+      },
+      {
+        "msgID": "map07_m_m_Y_blue03_087",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0157",
+        "msgStr": "> Heykel hareket etmeye başladı..."
+      },
+      {
+        "msgID": "map07_m_m_Y_blue04_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0158",
+        "msgStr": "> Raidou, Chigaeshi Küresi'ni yerleştirdi."
+      },
+      {
+        "msgID": "MAP07_M_L0159",
+        "msgStr": "> Ama yerine oturmadı..."
+      },
+      {
+        "msgID": "map07_m_m_Y_blue10_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_red01_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0161",
+        "msgStr": "> Tek gözünün yerinde delik olan bir heykel..."
+      },
+      {
+        "msgID": "map07_m_m_Y_red01s SEL_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0162",
+        "msgStr": "Shiomitsu Küresi'ni yerleştir"
+      },
+      {
+        "msgID": "MAP07_M_L0163",
+        "msgStr": "Chigaeshi Küresi'ni yerleştir"
+      },
+      {
+        "msgID": "MAP07_M_L0164",
+        "msgStr": "Hiçbir şey yapma"
+      },
+      {
+        "msgID": "map07_m_m_Y_red01ss SEL_092",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0165",
+        "msgStr": "Chigaeshi Küresi'ni yerleştir"
+      },
+      {
+        "msgID": "MAP07_M_L0166",
+        "msgStr": "Hiçbir şey yapma"
+      },
+      {
+        "msgID": "map07_m_m_Y_red02_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0167",
+        "msgStr": "> Raidou, Chigaeshi Küresi'ni yerleştirdi."
+      },
+      {
+        "msgID": "map07_m_m_Y_red03_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0168",
+        "msgStr": "> Heykel hareket etmeye başladı..."
+      },
+      {
+        "msgID": "map07_m_m_Y_red04_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0169",
+        "msgStr": "> Raidou, Shiomitsu Küresi'ni yerleştirdi."
+      },
+      {
+        "msgID": "MAP07_M_L0170",
+        "msgStr": "> Ama yerine oturmadı..."
+      },
+      {
+        "msgID": "map07_m_m_Y_red10_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_MoveStop01_097",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0172",
+        "msgStr": "Hım? Duydun mu? Heykel hareket etmeyi bıraktı."
+      },
+      {
+        "msgID": "map07_m_m_Y_MoveStop02_098",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0173",
+        "msgStr": "Raidou, daha yakından bir bakar mısın?"
+      },
+      {
+        "msgID": "map07_m_m_Y_MoveStop03_099",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0174",
+        "msgStr": "Ne demek istediğimi anlıyorsan, biraz kaba kuvvet kullanmamız gerekebilir."
+      },
+      {
+        "msgID": "MAP07_M_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_slide01_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0176",
+        "msgStr": "> Toprakta ağır bir nesnenin bıraktığı derin izler var."
+      },
+      {
+        "msgID": "map07_m_m_Y_ObjectMove01_101",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0177",
+        "msgStr": "> Ne yapacağını seç."
+      },
+      {
+        "msgID": "map07_m_m_Y_ObjectMove01s SEL_102",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0178",
+        "msgStr": "İt"
+      },
+      {
+        "msgID": "MAP07_M_L0179",
+        "msgStr": "Vur"
+      },
+      {
+        "msgID": "MAP07_M_L0180",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "map07_m_m_Y_ObjectMove02_103",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0181",
+        "msgStr": "> Yerinden kımıldamıyor..."
+      },
+      {
+        "msgID": "map07_m_m_Y_ObjectMove03_01_104",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0182",
+        "msgStr": "> Heykel hareket etmeye başladı..."
+      },
+      {
+        "msgID": "map07_m_m_Y_ObjectMove03_02_105",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0183",
+        "msgStr": "Aha, görünüşe göre bu kez sadece kıvrak zekâmızdan fazlasına ihtiyacımız varmış."
+      },
+      {
+        "msgID": "MAP07_M_L0184",
+        "msgStr": "Heykeller artık yerinde ama görünüşe göre hâlâ yapılacak şeyler var."
+      },
+      {
+        "msgID": "map07_m_m_Y_ObjectMove03_03_106",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0185",
+        "msgStr": "Belki de bulmacanın ikinci bir katmanı vardır?"
+      },
+      {
+        "msgID": "MAP07_M_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_ObjectMove03_04_107",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_M_L0187",
+        "msgStr": "Geriye ne kaldı, ne kaldı... Hım? Yerdeki şu iki şey..."
+      },
+      {
+        "msgID": "MAP07_M_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_ido01_108",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0189",
+        "msgStr": "> Kuyunun üzerinde bir işlemeli yazı var."
+      },
+      {
+        "msgID": "MAP07_M_L0190",
+        "msgStr": "\"Toprağın içindeki iki balık, mavi ve kırmızı incilerini kaybetti.\""
+      },
+      {
+        "msgID": "MAP07_M_L0191",
+        "msgStr": "\"İnciler bir kez daha parladığında, iki büyük adam kaidelerinden bu dirilişi alkışlayacak.\""
+      },
+      {
+        "msgID": "MAP07_M_L0192",
+        "msgStr": "\"Başıboş balıklar dişleri ve gözleriyle geleceği ele geçirerek bir kez daha denizlerde yüzecek.\""
+      },
+      {
+        "msgID": "map07_m_m_Y_ido02_109",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0193",
+        "msgStr": "> Kuyudaki su çekilmiş ve yeraltına inen bir girişi ortaya çıkarmış."
+      },
+      {
+        "msgID": "map07_m_m_Y_ido02__110",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0194",
+        "msgStr": "> Girilsin mi?"
+      },
+      {
+        "msgID": "map07_m_m_Y_ido02s SEL_111",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0195",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP07_M_L0196",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map07_m_m_Y_ido03_112",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0197",
+        "msgStr": "> Artık kuyunun içine girmek için bir sebep yok."
+      },
+      {
+        "msgID": "map07_m_m_Y_fumi01_113",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0198",
+        "msgStr": "> <COLOR 3>Raidou bir düğme sesi duydu...<COLOR 0>"
+      },
+      {
+        "msgID": "map07_m_m_Y_Clear01_114",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0199",
+        "msgStr": "> Kuyudan bir ses geliyor..."
+      },
+      {
+        "msgID": "map07_m_m_Y_Clear02_115",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0200",
+        "msgStr": "> Kuyunun derinliklerinden gümbürtülü bir ses geliyor..."
+      },
+      {
+        "msgID": "map07_m_m_Y_System01_116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_System02_117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_System03_118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_System04_119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_M_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_Y_System05_120",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_m_m_tiisai02_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_M_L0206",
+        "msgStr": "> Delikten çıkıldı."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/13 19:30:09"
+}

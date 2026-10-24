@@ -1,0 +1,205 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_USE_MSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_USE_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0000",
+        "msgStr": "> <COLOR 4><V 1><COLOR 0> kullanıldı."
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_N_USE_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0001",
+        "msgStr": "> Bu şu anda kullanılamaz."
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_SYUMAMIZ_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0002",
+        "msgStr": "> Yakındaki iblisleri çekmek için Çekim Suyu serpildi."
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0003",
+        "msgStr": "> Karşılaşma oranı arttı."
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_TAIMAMIZ_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0004",
+        "msgStr": "> Yakındaki iblisleri uzaklaştırmak için İtim Suyu serpildi."
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0005",
+        "msgStr": "> Karşılaşma oranı düştü."
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_01A_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0006",
+        "msgStr": "Benim sıradan bir sokak kedisi olduğumu mu sanıyorsun?"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_02A_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0007",
+        "msgStr": "Sana söyledim, ben öyle alelade bir kedi değilim."
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_03A_006",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0008",
+        "msgStr": "Benimle dalga geçiyorsun, değil mi!? Şu cürete bak!"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_04A_007",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0009",
+        "msgStr": "Israrın sinir bozucu olmaya başladı. Sana söylüyorum... Reddediyorum...!"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_05A_008",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0010",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0011",
+        "msgStr": "B-Bir şey yok! İyiyim ben!"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_06A_009",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0012",
+        "msgStr": "Ngh... Hayır... Ghh... Yapmayacağım... Bunu yapmayacağım...!"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_07A_010",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0013",
+        "msgStr": "D-Dur! B-Boynumdan olmaz!"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_08A_011",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0014",
+        "msgStr": "Artık dayanamıyorum! Miyavvv!"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_09A_012",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0015",
+        "msgStr": "Mırrraauuvvvv! Tamam, tamam, tamam, pes ediyorum! Kimseye söyleme, bunu alabilirsin!"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_09B_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0016",
+        "msgStr": "> <V 0>, <COLOR 4><V 2><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0017",
+        "msgStr": "> <V 0>, <COLOR 4><V 3><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0018",
+        "msgStr": "> <V 0>, <COLOR 4><V 4><COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_NEKOZYAR_10A_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0019",
+        "msgStr": "> Gouto bunu tamamen görmezden geliyor."
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_TETYOU___015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0020",
+        "msgStr": "> İblisle sözleşme yapmaya çalışıldı."
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0021",
+        "msgStr": "> <V 2> adlı iblisin Sadakati <V 3> arttı."
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_MEGANE_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0022",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0023",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "cmp_use_msg_CMP_USE_MSG_MEGANE_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0024",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0025",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0026",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0027",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "CMP_USE_MSG_L0028",
+        "msgStr": "???"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:26:46"
+}

@@ -1,0 +1,3061 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "ITEMHELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "ITEMHELP_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0001",
+        "msgStr": "1 müttefikin 120 HP'sini yeniler. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0002",
+        "msgStr": "1 müttefikin 350 HP'sini yeniler. 24 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0003",
+        "msgStr": "1 müttefikin maks. HP'sinin %25'ini yeniler. 24 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0004",
+        "msgStr": "1 müttefikin maks. HP'sinin %60'ını yeniler, yan etkileri vardır. 12 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0005",
+        "msgStr": "1 müttefikin tüm HP'sini yeniler. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0006",
+        "msgStr": "Grubun tüm HP'sini yeniler. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0007",
+        "msgStr": "Raidou'nun MAG değerini orta düzeyde yeniler. 30 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0008",
+        "msgStr": "Raidou'nun tüm MAG değerini yeniler. 30 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0009",
+        "msgStr": "(İndirilebilir içerik verisi bulunamadı.)"
+      },
+      {
+        "msgID": "ITEMHELP_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0012",
+        "msgStr": "Raidou'nun tüm HP ve MAG değerini yeniler. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0013",
+        "msgStr": "1 müttefikin Zehir durumunu iyileştirir. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0014",
+        "msgStr": "1 müttefikin Susturma durumunu iyileştirir. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0015",
+        "msgStr": "1 müttefikin Taşlaşma durumunu iyileştirir. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0016",
+        "msgStr": "1 müttefikin Uyku, Kafa Karışıklığı, Büyülenme, Sersemleme veya Öfke durumunu iyileştirir. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0017",
+        "msgStr": "Bir iblisi az miktarda HP ile diriltir. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0018",
+        "msgStr": "Bir iblisi tam HP ile diriltir. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0019",
+        "msgStr": "1 müttefikin Kuvvet değerini 1 artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0020",
+        "msgStr": "1 müttefikin Büyü değerini 1 artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0021",
+        "msgStr": "1 müttefikin Dayanıklılık değerini 1 artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0022",
+        "msgStr": "1 müttefikin Şans değerini 1 artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0023",
+        "msgStr": "Bir iblisin Sadakatini biraz artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0024",
+        "msgStr": "Ateş Düzeni'nden bir iblisin Sadakatini orta düzeyde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0025",
+        "msgStr": "Buz Düzeni'nden bir iblisin Sadakatini orta düzeyde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0026",
+        "msgStr": "Elektrik Düzeni'nden bir iblisin Sadakatini orta düzeyde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0027",
+        "msgStr": "Rüzgâr Düzeni'nden bir iblisin Sadakatini orta düzeyde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0028",
+        "msgStr": "Öfke Düzeni'nden bir iblisin Sadakatini orta düzeyde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0029",
+        "msgStr": "Pagan Düzeni'nden bir iblisin Sadakatini orta düzeyde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0030",
+        "msgStr": "Hüner Düzeni'nden bir iblisin Sadakatini orta düzeyde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0031",
+        "msgStr": "Bir iblisin Sadakatini orta düzeyde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0032",
+        "msgStr": "Bir iblisin Sadakatini büyük ölçüde artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0034",
+        "msgStr": "Bir sonraki yeni aya kadar karşılaşma oranını artırır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0035",
+        "msgStr": "Bir sonraki yeni aya kadar karşılaşma oranını azaltır. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0036",
+        "msgStr": "Kedilerin karşı koyamadığı ot bir oyuncak. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0038",
+        "msgStr": "Savaştan anında kaçmayı sağlar. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0039",
+        "msgStr": "Kötülüğü kovduğu söylenen bir tılsım. 9 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0064",
+        "msgStr": "Özenle oyulmuş bir parça. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0065",
+        "msgStr": "Özel bir alaşımdan yapılmıştır. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0066",
+        "msgStr": "Kadim bir şarap kadehi. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0067",
+        "msgStr": "Kutsal bir kuş oyması. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0068",
+        "msgStr": "Üzerine bir portre işlenmiştir. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0069",
+        "msgStr": "Nadir, parlak bir çömlek. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0070",
+        "msgStr": "Bir zamanlar yaygın olarak kullanılırdı. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0071",
+        "msgStr": "Fildişi bir heykel. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0072",
+        "msgStr": "Kayıp bilgiler içerir. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0073",
+        "msgStr": "Parıldayan altından yapılmıştır. Yüksek fiyata alıcı bulur. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0074",
+        "msgStr": "Nadir bir böcek. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0075",
+        "msgStr": "Çocuklar arasında popülerdir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0076",
+        "msgStr": "Popüler bir bar atıştırmalığı. İblisler de sever. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0077",
+        "msgStr": "Sıradan, eski bir dal parçası. Hiçbir işe yaramaz. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0078",
+        "msgStr": "Çok eskiden bakirelerin tercih ettiği bir giysi. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0128",
+        "msgStr": "Bir sonraki yeni aya kadar Kuvvet değerini 3 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0129",
+        "msgStr": "Bir sonraki yeni aya kadar Büyü değerini 3 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0130",
+        "msgStr": "Bir sonraki yeni aya kadar Dayanıklılık değerini 3 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0131",
+        "msgStr": "Bir sonraki yeni aya kadar Şans değerini 3 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0132",
+        "msgStr": "Maks. HP'nin %30'unu yeniler."
+      },
+      {
+        "msgID": "ITEMHELP_L0133",
+        "msgStr": "Bir sonraki yeni aya kadar Kuvvet ve Dayanıklılık değerlerini 3 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0134",
+        "msgStr": "Bir sonraki yeni aya kadar Büyü ve Şans değerlerini 3 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0135",
+        "msgStr": "Bir sonraki yeni aya kadar Kuvvet değerini 5 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0136",
+        "msgStr": "Bir sonraki yeni aya kadar Büyü değerini 5 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0137",
+        "msgStr": "Bir sonraki yeni aya kadar Dayanıklılık değerini 5 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0138",
+        "msgStr": "Bir sonraki yeni aya kadar Şans değerini 5 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0139",
+        "msgStr": "Tüm HP'yi yeniler."
+      },
+      {
+        "msgID": "ITEMHELP_L0140",
+        "msgStr": "Bir sonraki yeni aya kadar savaşlardan kazanılan parayı artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0141",
+        "msgStr": "Bir sonraki yeni aya kadar savaşlardan düşen eşyaları artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0142",
+        "msgStr": "Bir sonraki yeni aya kadar Kuvvet, Büyü, Dayanıklılık ve Şans değerlerini 5 artırır."
+      },
+      {
+        "msgID": "ITEMHELP_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0145",
+        "msgStr": "Saldırı 100 | Ma +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0146",
+        "msgStr": "Saldırı 150 | Vi +1 | Ma +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0147",
+        "msgStr": "Saldırı 150 | Ma +1 | Lu +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0148",
+        "msgStr": "Saldırı 150 | St +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0149",
+        "msgStr": "Saldırı 180 | Ma +1 | Vi +1 | Lu +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0150",
+        "msgStr": "Saldırı 180 | Ma +2 | Lu +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0151",
+        "msgStr": "Saldırı 180 | St +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0152",
+        "msgStr": "Saldırı 210 | Ma +1 | Vi +2 | Lu +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0153",
+        "msgStr": "Saldırı 210 | Ma +2 | Lu +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0154",
+        "msgStr": "Saldırı 210 | HP +10 | St +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0155",
+        "msgStr": "Saldırı 240 | Ma +2 | Vi +2 | Lu +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0156",
+        "msgStr": "Saldırı 240 | Ma +1 | Vi +3 | Lu +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0157",
+        "msgStr": "Saldırı 240 | Ma +2 | Lu +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0158",
+        "msgStr": "Saldırı 255 | Ma +3 | Lu +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0159",
+        "msgStr": "Saldırı 240 | HP +20 | St +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0160",
+        "msgStr": "Saldırı 240 | HP +10 | St +4"
+      },
+      {
+        "msgID": "ITEMHELP_L0161",
+        "msgStr": "Saldırı 270 | Ma +3 | Vi +2 | Lu +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0162",
+        "msgStr": "Saldırı 270 | Ma +2 | Vi +3 | Lu +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0163",
+        "msgStr": "Saldırı 270 | Ma +3 | Lu +4"
+      },
+      {
+        "msgID": "ITEMHELP_L0164",
+        "msgStr": "Saldırı 300 | Ma +5 | Lu +4"
+      },
+      {
+        "msgID": "ITEMHELP_L0165",
+        "msgStr": "Saldırı 270 | HP +30 | St +4"
+      },
+      {
+        "msgID": "ITEMHELP_L0166",
+        "msgStr": "Saldırı 270 | HP +20 | St +5"
+      },
+      {
+        "msgID": "ITEMHELP_L0167",
+        "msgStr": "Saldırı 300 | Ma +4 | Vi +3 | Lu +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0168",
+        "msgStr": "Saldırı 300 | Ma +3 | Vi +4 | Lu +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0169",
+        "msgStr": "Saldırı 340 | St +2 | Ma +5 | Vi +4 | Lu +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0170",
+        "msgStr": "Saldırı 300 | Ma +4 | Lu +5"
+      },
+      {
+        "msgID": "ITEMHELP_L0171",
+        "msgStr": "Saldırı 300 | Ma +5 | Lu +4"
+      },
+      {
+        "msgID": "ITEMHELP_L0172",
+        "msgStr": "Saldırı 330 | Ma +5 | Lu +6"
+      },
+      {
+        "msgID": "ITEMHELP_L0173",
+        "msgStr": "Saldırı 300 | HP +30 | St +5 | Ma +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0174",
+        "msgStr": "Saldırı 300 | HP +20 | St +6 | Ma +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0175",
+        "msgStr": "Saldırı 340 | HP +30 | St +7 | Lu +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0176",
+        "msgStr": "Saldırı 330 | St +1 | Ma +4 | Vi +3 | Lu +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0177",
+        "msgStr": "Saldırı 330 | St +1 | Ma +3 | Vi +4 | Lu +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0178",
+        "msgStr": "Saldırı 360 | Ma +6 | Lu +7"
+      },
+      {
+        "msgID": "ITEMHELP_L0179",
+        "msgStr": "Saldırı 330 | Ma +6 | Lu +5"
+      },
+      {
+        "msgID": "ITEMHELP_L0180",
+        "msgStr": "Saldırı 330 | HP +30 | St +6 | Ma +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0181",
+        "msgStr": "Saldırı 330 | HP +20 | St +7 | Ma +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0182",
+        "msgStr": "Saldırı 360 | St +2 | Ma +3 | Vi +5 | Lu +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0183",
+        "msgStr": "Saldırı 360 | Ma +7 | Lu +6"
+      },
+      {
+        "msgID": "ITEMHELP_L0184",
+        "msgStr": "Saldırı 360 | HP +30 | St +8 | Ma +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0188",
+        "msgStr": "Saldırı 200 | St +1 | Ma +1 | Vi +1 | Lu +1"
+      },
+      {
+        "msgID": "ITEMHELP_L0189",
+        "msgStr": "Saldırı 270 | St +2 | Ma +2 | Vi +2 | Lu +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0190",
+        "msgStr": "Saldırı 340 | St +3 | Ma +3 | Vi +3 | Lu +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0191",
+        "msgStr": "Saldırı 410 | St +4 | Ma +4 | Vi +4 | Lu +4"
+      },
+      {
+        "msgID": "ITEMHELP_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0194",
+        "msgStr": "Saldırı 360 | HP +40 | St +7 | Ma +2"
+      },
+      {
+        "msgID": "ITEMHELP_L0195",
+        "msgStr": "Saldırı 360 | St +2 | Ma +5 | Vi +3 | Lu +3"
+      },
+      {
+        "msgID": "ITEMHELP_L0196",
+        "msgStr": "Saldırı 340 | St +4 | Ma +4 | Vi +4 | Lu +4"
+      },
+      {
+        "msgID": "ITEMHELP_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0221",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0222",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0223",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0226",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0227",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0228",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0229",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0230",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0231",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0236",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0237",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0239",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0240",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0241",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0242",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0243",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0244",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0245",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0246",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0247",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0248",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0252",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0253",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0254",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0255",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0256",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0257",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0258",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0259",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0260",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0261",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0262",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0263",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0264",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0265",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0266",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0267",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0268",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0269",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0270",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0271",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0272",
+        "msgStr": "Kristalleşmiş bir Ateş Düzeni iblis ruhu. Düşük değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0273",
+        "msgStr": "Kristalleşmiş bir Ateş Düzeni iblis ruhu. Orta değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0274",
+        "msgStr": "Kristalleşmiş bir Ateş Düzeni iblis ruhu. Yüksek değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0275",
+        "msgStr": "Kristalleşmiş bir Ateş Düzeni iblis ruhu. Muazzam değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0277",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0278",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0279",
+        "msgStr": "Kristalleşmiş bir Buz Düzeni iblis ruhu. Düşük değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0280",
+        "msgStr": "Kristalleşmiş bir Buz Düzeni iblis ruhu. Orta değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0281",
+        "msgStr": "Kristalleşmiş bir Buz Düzeni iblis ruhu. Yüksek değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0282",
+        "msgStr": "Kristalleşmiş bir Buz Düzeni iblis ruhu. Muazzam değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0283",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0284",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0285",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0286",
+        "msgStr": "Kristalleşmiş bir Elektrik Düzeni iblis ruhu. Düşük değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0287",
+        "msgStr": "Kristalleşmiş bir Elektrik Düzeni iblis ruhu. Orta değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0288",
+        "msgStr": "Kristalleşmiş bir Elektrik Düzeni iblis ruhu. Yüksek değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0289",
+        "msgStr": "Kristalleşmiş bir Elektrik Düzeni iblis ruhu. Muazzam değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0290",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0291",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0292",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0293",
+        "msgStr": "Kristalleşmiş bir Rüzgâr Düzeni iblis ruhu. Düşük değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0294",
+        "msgStr": "Kristalleşmiş bir Rüzgâr Düzeni iblis ruhu. Orta değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0295",
+        "msgStr": "Kristalleşmiş bir Rüzgâr Düzeni iblis ruhu. Yüksek değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0296",
+        "msgStr": "Kristalleşmiş bir Rüzgâr Düzeni iblis ruhu. Muazzam değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0297",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0298",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0299",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0300",
+        "msgStr": "Kristalleşmiş bir Öfke Düzeni iblis ruhu. Düşük değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0301",
+        "msgStr": "Kristalleşmiş bir Öfke Düzeni iblis ruhu. Orta değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0302",
+        "msgStr": "Kristalleşmiş bir Öfke Düzeni iblis ruhu. Yüksek değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0303",
+        "msgStr": "Kristalleşmiş bir Öfke Düzeni iblis ruhu. Muazzam değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0304",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0305",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0306",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0307",
+        "msgStr": "Kristalleşmiş bir Pagan Düzeni iblis ruhu. Düşük değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0308",
+        "msgStr": "Kristalleşmiş bir Pagan Düzeni iblis ruhu. Orta değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0309",
+        "msgStr": "Kristalleşmiş bir Pagan Düzeni iblis ruhu. Yüksek değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0310",
+        "msgStr": "Kristalleşmiş bir Pagan Düzeni iblis ruhu. Muazzam değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0311",
+        "msgStr": "Ayinler sırasında takan kişiyi korumak için kullanılan bir tılsım. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0312",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0313",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0314",
+        "msgStr": "Kristalleşmiş bir Hüner Düzeni iblis ruhu. Düşük değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0315",
+        "msgStr": "Kristalleşmiş bir Hüner Düzeni iblis ruhu. Orta değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0316",
+        "msgStr": "Kristalleşmiş bir Hüner Düzeni iblis ruhu. Yüksek değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0317",
+        "msgStr": "Kristalleşmiş bir Hüner Düzeni iblis ruhu. Muazzam değerdedir. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0318",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0319",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0320",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0321",
+        "msgStr": "Yabancı bir ülkeden gelen ileri teknoloji ürünü malzeme. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0322",
+        "msgStr": "Gümüşi beyaz renkte parlayan kimyasal bir madde. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0323",
+        "msgStr": "Göklerden düşmüş bir kaya parçası. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0324",
+        "msgStr": "Homusubi'nin gücüyle dolu yanan bir kristal. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0325",
+        "msgStr": "İlahi alev barındıran kadim bir cevher. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0326",
+        "msgStr": "Ay gücü barındıran bir magatama. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0327",
+        "msgStr": "White Rider'dan alındı. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0328",
+        "msgStr": "Red Rider'dan alındı. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0329",
+        "msgStr": "Hakikati simgeleyen gizemli bir malzeme. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0330",
+        "msgStr": "Yaşam gücünü emen efsanevi bir taş. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0331",
+        "msgStr": "Sadece Onogoro Adası'nda bulunan nadir bir mineral. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0332",
+        "msgStr": "Güneşin gücünü barındıran ilahi bir ayna. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0333",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0334",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0335",
+        "msgStr": "Bir Fiend'in sahip olduğu siyah felaket sembolü. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0336",
+        "msgStr": "Bir Fiend'in sahip olduğu soluk renkli felaket sembolü. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0337",
+        "msgStr": "Yıldız şeklinde mistik bir arma. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0338",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0339",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0340",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0341",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0342",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0343",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0344",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0345",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0346",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0347",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0348",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0349",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0350",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0351",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0352",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0353",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0354",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0355",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0356",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0357",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0358",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0359",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0360",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0361",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0362",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0363",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0364",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0365",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0366",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0367",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0368",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0369",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0370",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0371",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0372",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0373",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0374",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0375",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0376",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0377",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0378",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0379",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0380",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0381",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0382",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0383",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0384",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0385",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0386",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0387",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0388",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0389",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0390",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0391",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0392",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0393",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0394",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0395",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0396",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0397",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0398",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0399",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0400",
+        "msgStr": "Kaçırılan kızın düşürdüğü bir broş."
+      },
+      {
+        "msgID": "ITEMHELP_L0401",
+        "msgStr": "Kaya Daidouji'nin bir fotoğrafı."
+      },
+      {
+        "msgID": "ITEMHELP_L0402",
+        "msgStr": "Kaya Daidouji'nin günlüğü."
+      },
+      {
+        "msgID": "ITEMHELP_L0403",
+        "msgStr": "Yıpranmış eski bir tılsım."
+      },
+      {
+        "msgID": "ITEMHELP_L0404",
+        "msgStr": "Bir çekçek kolunun parçası."
+      },
+      {
+        "msgID": "ITEMHELP_L0405",
+        "msgStr": "Mahjong oynamak için kullanılan taşlar."
+      },
+      {
+        "msgID": "ITEMHELP_L0406",
+        "msgStr": "Mahjong oynamak için kullanılan taşlar."
+      },
+      {
+        "msgID": "ITEMHELP_L0407",
+        "msgStr": "Mahjong oynamak için kullanılan malzemeler."
+      },
+      {
+        "msgID": "ITEMHELP_L0408",
+        "msgStr": "Mahjong oynamak için kullanılan taşlar."
+      },
+      {
+        "msgID": "ITEMHELP_L0409",
+        "msgStr": "Mahjong oynamak için kullanılan malzemeler."
+      },
+      {
+        "msgID": "ITEMHELP_L0410",
+        "msgStr": "Sahibinin tramvaylara ücretsiz binmesini sağlar."
+      },
+      {
+        "msgID": "ITEMHELP_L0411",
+        "msgStr": "Daidouji hanesinin reisine ait bir kol düğmesi."
+      },
+      {
+        "msgID": "ITEMHELP_L0412",
+        "msgStr": "Elfman'ın Ryugu'nun sahibine verdiği yüzük."
+      },
+      {
+        "msgID": "ITEMHELP_L0413",
+        "msgStr": "Tae'nin her zaman yanında taşıdığı fotoğraf makinesi."
+      },
+      {
+        "msgID": "ITEMHELP_L0414",
+        "msgStr": "Narumi'nin Konnou-ya'dan sipariş ettiği mallar."
+      },
+      {
+        "msgID": "ITEMHELP_L0415",
+        "msgStr": "Üç prizmadan biri. Toprağı temsil eder."
+      },
+      {
+        "msgID": "ITEMHELP_L0416",
+        "msgStr": "Üç prizmadan biri. Ateşi temsil eder."
+      },
+      {
+        "msgID": "ITEMHELP_L0417",
+        "msgStr": "Üç prizmadan biri. Suyu temsil eder."
+      },
+      {
+        "msgID": "ITEMHELP_L0418",
+        "msgStr": "Yatagarasu'nun kutsal hazinesi."
+      },
+      {
+        "msgID": "ITEMHELP_L0419",
+        "msgStr": "Kilitleri açmak için kullanılan bir alet. Dikkatli kullanın."
+      },
+      {
+        "msgID": "ITEMHELP_L0420",
+        "msgStr": "Soğuk, tatlı bir yiyecek."
+      },
+      {
+        "msgID": "ITEMHELP_L0421",
+        "msgStr": "Tatlı ve şekerleme yapımında kullanılan faydalı bir malzeme."
+      },
+      {
+        "msgID": "ITEMHELP_L0422",
+        "msgStr": "Onarılabilir gibi görünen bir parça."
+      },
+      {
+        "msgID": "ITEMHELP_L0423",
+        "msgStr": "Onarılabilir gibi görünen bir parça."
+      },
+      {
+        "msgID": "ITEMHELP_L0424",
+        "msgStr": "Onarılabilir gibi görünen bir parça."
+      },
+      {
+        "msgID": "ITEMHELP_L0425",
+        "msgStr": "Fabrikadaki mührü kırmak için kullanılan bir mücevher."
+      },
+      {
+        "msgID": "ITEMHELP_L0426",
+        "msgStr": "Tilkiler için ayrılmış yiyecek porsiyonları."
+      },
+      {
+        "msgID": "ITEMHELP_L0427",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0428",
+        "msgStr": "Toprak Prizması'nın muhafızını uyandırmak için kullanılan bir kılıç."
+      },
+      {
+        "msgID": "ITEMHELP_L0429",
+        "msgStr": "Sadakichi'nin Süper Asker Projesi hakkındaki raporu."
+      },
+      {
+        "msgID": "ITEMHELP_L0430",
+        "msgStr": "Sadakichi'nin Süper Asker Projesi hakkındaki raporu."
+      },
+      {
+        "msgID": "ITEMHELP_L0431",
+        "msgStr": "Sadakichi'nin Süper Asker Projesi hakkındaki raporu."
+      },
+      {
+        "msgID": "ITEMHELP_L0432",
+        "msgStr": "Sadakichi'nin Süper Asker Projesi hakkındaki raporu."
+      },
+      {
+        "msgID": "ITEMHELP_L0433",
+        "msgStr": "Sadakichi'nin Süper Asker Projesi hakkındaki raporu."
+      },
+      {
+        "msgID": "ITEMHELP_L0434",
+        "msgStr": "Sadakichi'nin Süper Asker Projesi hakkındaki raporu."
+      },
+      {
+        "msgID": "ITEMHELP_L0435",
+        "msgStr": "Sadakichi'nin Süper Asker Projesi hakkındaki raporu."
+      },
+      {
+        "msgID": "ITEMHELP_L0436",
+        "msgStr": "Sadakichi'nin Süper Asker Projesi hakkındaki raporu."
+      },
+      {
+        "msgID": "ITEMHELP_L0437",
+        "msgStr": "Okyanus mavisi bir mücevher."
+      },
+      {
+        "msgID": "ITEMHELP_L0438",
+        "msgStr": "Kan kırmızısı bir mücevher."
+      },
+      {
+        "msgID": "ITEMHELP_L0439",
+        "msgStr": "Fransa'nın Provence bölgesinden şarap."
+      },
+      {
+        "msgID": "ITEMHELP_L0440",
+        "msgStr": "Büyük Tarrasque'ı çağırmak için kullanılan eski bir flüt."
+      },
+      {
+        "msgID": "ITEMHELP_L0441",
+        "msgStr": "Çok uzun zaman önce yapılmış gibi görünen yoğun kıvamlı bir bira."
+      },
+      {
+        "msgID": "ITEMHELP_L0442",
+        "msgStr": "Biri bundan bir yudum almış bile ama Büyük Tarrasque hoşlanabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0443",
+        "msgStr": "Pek çok felaketi önceden haber veren bir kitap."
+      },
+      {
+        "msgID": "ITEMHELP_L0444",
+        "msgStr": "Uğursuz bir enerji yayan asa."
+      },
+      {
+        "msgID": "ITEMHELP_L0445",
+        "msgStr": "Dedektif Kazama'nın eskiden giydiği pelerin ve şapka."
+      },
+      {
+        "msgID": "ITEMHELP_L0446",
+        "msgStr": "İblislerin yeteneklerini ortaya çıkaran bir ayna."
+      },
+      {
+        "msgID": "ITEMHELP_L0447",
+        "msgStr": "İblis Lordu'yla görüşmeye layık olunduğunun kanıtı."
+      },
+      {
+        "msgID": "ITEMHELP_L0448",
+        "msgStr": "İblis Lordu'yla görüşmeye layık olunduğunun kanıtı."
+      },
+      {
+        "msgID": "ITEMHELP_L0449",
+        "msgStr": "İblis Lordu'yla görüşmeye layık olunduğunun kanıtı."
+      },
+      {
+        "msgID": "ITEMHELP_L0450",
+        "msgStr": "Süper Asker Projesi'nin tüm ayrıntılarını içerir."
+      },
+      {
+        "msgID": "ITEMHELP_L0451",
+        "msgStr": "Tae'nin Kırmızı Pelerin'i çektiği fotoğraf."
+      },
+      {
+        "msgID": "ITEMHELP_L0452",
+        "msgStr": "Kaçan Shizu'nun bir fotoğrafı."
+      },
+      {
+        "msgID": "ITEMHELP_L0453",
+        "msgStr": "Kiyoshi'nin her zaman yanında taşıdığı baston."
+      },
+      {
+        "msgID": "ITEMHELP_L0454",
+        "msgStr": "Tae ve bir Ordu askerinin Karanlık Diyar'a süzülürken çekilmiş fotoğrafı."
+      },
+      {
+        "msgID": "ITEMHELP_L0455",
+        "msgStr": "Başkent'teki tüm Aril Yarıklarını temizlemenin anısına verilen bir hediye."
+      },
+      {
+        "msgID": "ITEMHELP_L0456",
+        "msgStr": "Modern çağ için yenilikçi malzemelerden yapılmış bir oyuncak."
+      },
+      {
+        "msgID": "ITEMHELP_L0457",
+        "msgStr": "Tokyo usulü lüks bir yılan balığı."
+      },
+      {
+        "msgID": "ITEMHELP_L0458",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0459",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0460",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0461",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0462",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0463",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0464",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0465",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0466",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0467",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0468",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0469",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0470",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0471",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0472",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0473",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0474",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0475",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0476",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0477",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0478",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0479",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0480",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0481",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0482",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0483",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0484",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0485",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0486",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0487",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0488",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0489",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0490",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0491",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0492",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0493",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0494",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0495",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0496",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0497",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0498",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0499",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0500",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0501",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0502",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0503",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0504",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0505",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0506",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0507",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0508",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0509",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0510",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0511",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0512",
+        "msgStr": "Bir iblise <SKL_09>Agi (1 hedefe hafif Ateş saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0513",
+        "msgStr": "Bir iblise <SKL_09>Agidyne (1 hedefe ağır Ateş saldırısı | Alan etkili | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0514",
+        "msgStr": "Bir iblise <SKL_09>Maragi (Kendi etrafındaki orta genişlikte bir alana orta Ateş saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0515",
+        "msgStr": "Bir iblise <SKL_09>Maragidyne (Kendi etrafındaki geniş bir alana ağır Ateş saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0516",
+        "msgStr": "Bir iblise <SKL_09>Alev (Üç yönlü yayılan orta Ateş saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0517",
+        "msgStr": "Bir iblise <SKL_09>Cehennem Ateşi (1 hedefe ağır Ateş saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0518",
+        "msgStr": "Bir iblise <SKL_09>Ateş Nefesi (Hafif Ateş saldırısı | Delici etki | Çoklu vuruş | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0519",
+        "msgStr": "Bir iblise <SKL_09>Agirati (Üç yönlü yayılan hafif Ateş saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0520",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0521",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0522",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0523",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0524",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0525",
+        "msgStr": "Bir iblise <SKL_10>Bufu (1 hedefe hafif Buz saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0526",
+        "msgStr": "Bir iblise <SKL_10>Bufudyne (1 hedefe ağır Buz saldırısı | Alan etkili | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0527",
+        "msgStr": "Bir iblise <SKL_10>Mabufu (Kendi etrafındaki orta genişlikte bir alana orta Buz saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0528",
+        "msgStr": "Bir iblise <SKL_10>Mabufudyne (Kendi etrafındaki geniş bir alana ağır Buz saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0529",
+        "msgStr": "Bir iblise <SKL_10>Cocytus (1 hedefe ağır Buz saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0530",
+        "msgStr": "Bir iblise <SKL_10>Buzul Patlaması (Hafif Buz saldırısı | Delici etki | Çoklu vuruş | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0531",
+        "msgStr": "Bir iblise <SKL_10>Soğuk Isırığı (Üç yönlü yayılan orta Buz saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0532",
+        "msgStr": "Bir iblise <SKL_10>Bufurati (Üç yönlü yayılan hafif Buz saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0533",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0534",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0535",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0536",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0537",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0538",
+        "msgStr": "Bir iblise <SKL_11>Zio (1 hedefe hafif Elektrik saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0539",
+        "msgStr": "Bir iblise <SKL_11>Ziodyne (1 hedefe ağır Elektrik saldırısı | Alan etkili | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0540",
+        "msgStr": "Bir iblise <SKL_11>Mazio (Kendi etrafındaki orta genişlikte bir alana orta Elektrik saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0541",
+        "msgStr": "Bir iblise <SKL_11>Maziodyne (Kendi etrafındaki geniş bir alana ağır Elektrik saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0542",
+        "msgStr": "Bir iblise <SKL_11>Kıvılcım (Üç yönlü yayılan orta Elektrik saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0543",
+        "msgStr": "Bir iblise <SKL_11>Yıldırım Fırtınası (1 hedefe ağır Elektrik saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0544",
+        "msgStr": "Bir iblise <SKL_11>Şok Dalgası (Hafif Elektrik saldırısı | Delici etki | Çoklu vuruş | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0545",
+        "msgStr": "Bir iblise <SKL_11>Ziorati (Üç yönlü yayılan hafif Elektrik saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0546",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0547",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0548",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0549",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0550",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0551",
+        "msgStr": "Bir iblise <SKL_12>Zan (1 hedefe hafif Güç saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0552",
+        "msgStr": "Bir iblise <SKL_12>Zandyne (1 hedefe ağır Güç saldırısı | Alan etkili | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0553",
+        "msgStr": "Bir iblise <SKL_12>Mazan (Kendi etrafındaki orta genişlikte bir alana orta Güç saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0554",
+        "msgStr": "Bir iblise <SKL_12>Mazandyne (Kendi etrafındaki geniş bir alana ağır Güç saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0555",
+        "msgStr": "Bir iblise <SKL_12>Bora (1 hedefe ağır Güç saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0556",
+        "msgStr": "Bir iblise <SKL_12>Rüzgâr Kesici (Hafif Güç saldırısı | Delici etki | Çoklu vuruş | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0557",
+        "msgStr": "Bir iblise <SKL_12>Kasırga (Üç yönlü yayılan orta Güç saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0558",
+        "msgStr": "Bir iblise <SKL_12>Zanrati (Üç yönlü yayılan hafif Güç saldırısı | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0559",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0560",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0561",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0562",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0563",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0564",
+        "msgStr": "Bir iblise <SKL_13>Mudo (1 hedefe Ölüm saldırısı | Hedefin HP'sini yarıya indirir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0565",
+        "msgStr": "Bir iblise <SKL_13>Mamudo (Kendi etrafındaki orta genişlikte bir alana Ölüm saldırısı | Hedefin HP'sini yarıya indirir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0566",
+        "msgStr": "Bir iblise <SKL_13>Mamudoon (Kendi etrafındaki orta genişlikte bir alana Ölüm saldırısı | Orta ihtimalle anında öldürür | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0567",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0568",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0569",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0570",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0571",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0572",
+        "msgStr": "Bir iblise <SKL_14>Marin Karin (Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Büyülenme verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0573",
+        "msgStr": "Bir iblise <SKL_14>Dormina (Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Uyku verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0574",
+        "msgStr": "Bir iblise <SKL_14>Pulinpa (Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Kafa Karışıklığı verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0575",
+        "msgStr": "Bir iblise <SKL_14>Makajam (Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Susturma verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0576",
+        "msgStr": "Bir iblise <SKL_14>Petra (Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Düşük ihtimalle Taşlaşma verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0577",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0578",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0579",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0580",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0581",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0582",
+        "msgStr": "Bir iblise <SKL_07>Kombo (1 hedefe hafif Fiziksel saldırı | Çoklu vuruş | Düşük ihtimalle Sersemleme verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0583",
+        "msgStr": "Bir iblise <SKL_07>Zehirli Darbe (1 hedefe orta Fiziksel saldırı | Orta ihtimalle Zehir verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0584",
+        "msgStr": "Bir iblise <SKL_07>Kanatlı Öfke (Yarım daire şeklinde orta Fiziksel saldırı | Dirençleri yok sayar | Düşük ihtimalle Sersemleme verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0585",
+        "msgStr": "Bir iblise <SKL_07>Vahşi Savaşçı (1 hedefe ağır Fiziksel saldırı | Orta ihtimalle Öfke verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0586",
+        "msgStr": "Bir iblise <SKL_07>Çılgınlık (Kendi etrafındaki geniş bir alana orta Fiziksel saldırı | Düşük ihtimalle Sersemleme verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0587",
+        "msgStr": "Bir iblise <SKL_07>Güçlü Darbe (1 hedefe ağır Fiziksel saldırı | Düşük ihtimalle Sersemleme verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0588",
+        "msgStr": "Bir iblise <SKL_07>Çılgın Hücum (Hafif Fiziksel saldırı | Çoklu vuruş | Düşük ihtimalle Sersemleme verir | <SKL_17>: <V 0> | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0589",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0590",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0591",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0592",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0593",
+        "msgStr": "Bir iblise <SKL_16>Dia (1 müttefikin HP'sini biraz yeniler | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0594",
+        "msgStr": "Bir iblise <SKL_16>Diarama (1 müttefikin HP'sini orta düzeyde yeniler | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0595",
+        "msgStr": "Bir iblise <SKL_16>Diarahan (1 müttefikin tüm HP'sini yeniler | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0596",
+        "msgStr": "Bir iblise <SKL_16>Media (Grubun HP'sini biraz yeniler | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0597",
+        "msgStr": "Bir iblise <SKL_16>Patra (Sersemletme ve diğer özel durumlar dışındaki rahatsızlıkları iyileştirir | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0598",
+        "msgStr": "Bir iblise <SKL_16>Dia Aura (1 müttefike geçici olarak hafif HP yenilenmesi sağlar | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0599",
+        "msgStr": "Bir iblise <SKL_16>Recarm (1 müttefiki az miktarda HP ile diriltir | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0600",
+        "msgStr": "Bir iblise <SKL_16>Samarecarm (1 müttefiki tam HP ile diriltir | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0601",
+        "msgStr": "Bir iblise <SKL_16>Mutluluk Hali (1 müttefike geçici olarak orta düzeyde HP yenilenmesi sağlar | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0602",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0603",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0604",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0605",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0606",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0607",
+        "msgStr": "Bir iblise <SKL_01>Tarukaja (Savaş bitene kadar grubun fiziksel saldırı gücünü artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0608",
+        "msgStr": "Bir iblise <SKL_01>Makakaja (Savaş bitene kadar grubun büyü saldırı gücünü artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0609",
+        "msgStr": "Bir iblise <SKL_01>Rakukaja (Savaş bitene kadar grubun savunma gücünü artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0610",
+        "msgStr": "Bir iblise <SKL_01>Savaş Narası (Grubun fiziksel saldırı gücünü geçici olarak büyük ölçüde artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0611",
+        "msgStr": "Bir iblise <SKL_01>Makara Aura (Grubun büyü savunma gücünü geçici olarak büyük ölçüde artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0612",
+        "msgStr": "Bir iblise <SKL_01>Tetra Aura (Grubun fiziksel savunma gücünü geçici olarak büyük ölçüde artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0613",
+        "msgStr": "Bir iblise <SKL_01>Tarukajaon (Savaş bitene kadar grubun fiziksel saldırı gücünü büyük ölçüde artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0614",
+        "msgStr": "Bir iblise <SKL_01>Makakajaon (Savaş bitene kadar grubun büyü saldırı gücünü büyük ölçüde artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0615",
+        "msgStr": "Bir iblise <SKL_01>Rakukajaon (Savaş bitene kadar grubun savunma gücünü büyük ölçüde artırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0616",
+        "msgStr": "Bir iblise <SKL_01>Dekaja (Tüm düşmanların nitelik güçlendirmelerini kaldırır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0617",
+        "msgStr": "Bir iblise <SKL_01>Tetrakarn (Gruba yönelik fiziksel saldırıları geçici olarak yansıtır | MAG: <V 1>) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0618",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0619",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0620",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0621",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0622",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0623",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0624",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0625",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0626",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0627",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0628",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0629",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0630",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0631",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0632",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0633",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0634",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0635",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0636",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0637",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0638",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0639",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0640",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0641",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0642",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0643",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0644",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0645",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0646",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0647",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0648",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0649",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0650",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0651",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0652",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0653",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0654",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0655",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0656",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0657",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0658",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0659",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0660",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0661",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0662",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0663",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0664",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0665",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0666",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0667",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0668",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0669",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0670",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0671",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0672",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0673",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0674",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0675",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0676",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0677",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0678",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0679",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0680",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0681",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0682",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0683",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0684",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0685",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0686",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0687",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0688",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0689",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0690",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0691",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0692",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0693",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0694",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0695",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0696",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0697",
+        "msgStr": "Bir iblise <SKL_06>Can Bonusu (Maks. HP'yi %10 artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0698",
+        "msgStr": "Bir iblise <SKL_06>Can Kazanımı (Maks. HP'yi %20 artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0699",
+        "msgStr": "Bir iblise <SKL_06>Can Patlaması (Maks. HP'yi %30 artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0700",
+        "msgStr": "Bir iblise <SKL_06>Ateş Takviyesi (Ateş saldırı gücünü artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0701",
+        "msgStr": "Bir iblise <SKL_06>Buz Takviyesi (Buz saldırı gücünü artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0702",
+        "msgStr": "Bir iblise <SKL_06>Elektrik Takviyesi (Elektrik saldırı gücünü artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0703",
+        "msgStr": "Bir iblise <SKL_06>Güç Takviyesi (Güç saldırı gücünü artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0704",
+        "msgStr": "Bir iblise <SKL_06>İyileştirme Takviyesi (İyileştirme yeteneklerinin etkinliğini artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0705",
+        "msgStr": "Bir iblise <SKL_06>Büyü Takviyesi (Yetenek kullanırken MAG tüketimini azaltır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0706",
+        "msgStr": "Bir iblise <SKL_06>Zihin Takviyesi (Zihin rahatsızlıkları verme ihtimalini artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0707",
+        "msgStr": "Bir iblise <SKL_06>Ateş Direnci (Alınan Ateş hasarını yarıya indirir | Ateş zayıflığını geçersiz kılar) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0708",
+        "msgStr": "Bir iblise <SKL_06>Buz Direnci (Alınan Buz hasarını yarıya indirir | Buz zayıflığını geçersiz kılar) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0709",
+        "msgStr": "Bir iblise <SKL_06>Elektrik Direnci (Alınan Elektrik hasarını yarıya indirir | Elektrik zayıflığını geçersiz kılar) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0710",
+        "msgStr": "Bir iblise <SKL_06>Güç Direnci (Alınan Güç hasarını yarıya indirir | Güç zayıflığını geçersiz kılar) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0711",
+        "msgStr": "Bir iblise <SKL_06>Fiziksel Direnç (Alınan Fiziksel hasarı yarıya indirir | Fiziksel zayıflığı geçersiz kılar) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0712",
+        "msgStr": "Bir iblise <SKL_06>Yarı Ölüm (Ölüm saldırılarına maruz kalma ihtimalini yarıya indirir | Ölüm zayıflığını geçersiz kılar) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0713",
+        "msgStr": "Bir iblise <SKL_06>Yarı Zihin (Alınan Zihin hasarını yarıya indirir | Zihin rahatsızlıklarına yakalanma ihtimalini yarıya indirir) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0714",
+        "msgStr": "Bir iblise <SKL_06>Yarı Fani (Anında ölme ihtimalini yarıya indirir) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0715",
+        "msgStr": "Bir iblise <SKL_06>Fani İptali (Anında ölme ihtimalini önler) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0716",
+        "msgStr": "Bir iblise <SKL_06>Kuvvet Çakrası (Kuvvet değerini 3 artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0717",
+        "msgStr": "Bir iblise <SKL_06>Büyü Çakrası (Büyü değerini 3 artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0718",
+        "msgStr": "Bir iblise <SKL_06>Dayanıklılık Çakrası (Dayanıklılık değerini 3 artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0719",
+        "msgStr": "Bir iblise <SKL_06>Şans Çakrası (Şans değerini 3 artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0720",
+        "msgStr": "Bir iblise <SKL_06>Agni'nin Lütfu (Tüm nitelikleri 3 artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0721",
+        "msgStr": "Bir iblise <SKL_06>Ruh Sömürüsü (MAG emme miktarını artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0722",
+        "msgStr": "Bir iblise <SKL_06>Misilleme (Ölüm anında yüksek ihtimalle kendi etrafındaki bir alana ağır Mutlak saldırı tetikler) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0723",
+        "msgStr": "Bir iblise <SKL_06>Yetenek Uzatma (Destek yeteneklerinin müttefikleri ve sürekli iyileşme yeteneklerinin kendisini etkileme süresini artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0724",
+        "msgStr": "Bir iblise <SKL_06>Ya Hep Ya Hiç (Temel saldırıların kritik vuruş oranını büyük ölçüde artırır ancak düşük bir ıskalama ihtimali ekler) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0725",
+        "msgStr": "Bir iblise <SKL_06>Amansız Odak (Temel saldırıların kritik vuruş oranını artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0726",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0727",
+        "msgStr": "Bir iblise <SKL_06>Direniş (Savaş başına bir kez ölüm anında 1 HP ile dirilir) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0728",
+        "msgStr": "Bir iblise <SKL_06>İntikam Mührü (Savaş başına bir kez ölüm anında yarım HP ile dirilir) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0729",
+        "msgStr": "Bir iblise <SKL_06>Hızlı Kaçış (Kullanıcının katıldığı savaşlardan daha kolay kaçılmasını sağlar) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0730",
+        "msgStr": "Bir iblise <SKL_06>EXP Takviyesi (Kullanıcının kazandığı EXP miktarını artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0731",
+        "msgStr": "Bir iblise <SKL_06>Gelişim (Savaşta çağrılmasa bile EXP kazanır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0732",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0733",
+        "msgStr": "Bir iblise <SKL_06>Kaprisli Yardım (Bir savaşı kazandıktan sonra Şans değerine bağlı miktarda kendi HP'sini yeniler) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0734",
+        "msgStr": "Bir iblise <SKL_06>Bozukluk Bulma (Yürürken ara sıra para bulma şansı verir) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0735",
+        "msgStr": "Bir iblise <SKL_06>Toplayıcı (Yürürken oldukça sık para bulma şansı verir) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0736",
+        "msgStr": "(İndirilebilir içerik verisi bulunamadı.)"
+      },
+      {
+        "msgID": "ITEMHELP_L0737",
+        "msgStr": "(İndirilebilir içerik verisi bulunamadı.)"
+      },
+      {
+        "msgID": "ITEMHELP_L0738",
+        "msgStr": "(İndirilebilir içerik verisi bulunamadı.)"
+      },
+      {
+        "msgID": "ITEMHELP_L0739",
+        "msgStr": "(İndirilebilir içerik verisi bulunamadı.)"
+      },
+      {
+        "msgID": "ITEMHELP_L0740",
+        "msgStr": "Bir iblise <SKL_06>Para Bulma (Kullanıcının katıldığı savaşlardan kazanılan parayı artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0741",
+        "msgStr": "Bir iblise <SKL_06>Eşya Bulma (Kullanıcının katıldığı savaşlardan düşen eşyaları artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0742",
+        "msgStr": "Bir iblise <SKL_06>Adanmışlık (Kullanıcının katıldığı savaşlardan kazanılan Sadakati artırır) öğreten tuhaf bir cilt. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0743",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0744",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0745",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0746",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0747",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0748",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0749",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0750",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0751",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0752",
+        "msgStr": "Seviye atlamak için gereken EXP'nin %25'ini sağlar. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0753",
+        "msgStr": "Seviye atlamak için gereken EXP'nin %100'ünü sağlar. 99 adet taşınabilir."
+      },
+      {
+        "msgID": "ITEMHELP_L0754",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0755",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0756",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0757",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0758",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0759",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEMHELP_L0760",
+        "msgStr": "(İndirilebilir içerik verisi bulunamadı.)"
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/22 17:04:16"
+}

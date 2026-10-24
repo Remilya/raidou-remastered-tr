@@ -1,0 +1,229 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_MENU_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CMP_MENU_L0000",
+        "msgStr": "Ana Menü"
+      },
+      {
+        "msgID": "CMP_MENU_L0001",
+        "msgStr": "İblis Yetenekleri"
+      },
+      {
+        "msgID": "CMP_MENU_L0002",
+        "msgStr": "Eşya"
+      },
+      {
+        "msgID": "CMP_MENU_L0003",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "CMP_MENU_L0004",
+        "msgStr": "Dedektif Günlüğü"
+      },
+      {
+        "msgID": "CMP_MENU_L0005",
+        "msgStr": "Durum"
+      },
+      {
+        "msgID": "CMP_MENU_L0006",
+        "msgStr": "Harita"
+      },
+      {
+        "msgID": "CMP_MENU_L0007",
+        "msgStr": "Seçenekler"
+      },
+      {
+        "msgID": "CMP_MENU_L0008",
+        "msgStr": "<PT 6>"
+      },
+      {
+        "msgID": "CMP_MENU_L0009",
+        "msgStr": "Kullan"
+      },
+      {
+        "msgID": "CMP_MENU_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0012",
+        "msgStr": "Önemli Eşyalar"
+      },
+      {
+        "msgID": "CMP_MENU_L0013",
+        "msgStr": "Varsayılan Çağırmalar"
+      },
+      {
+        "msgID": "CMP_MENU_L0014",
+        "msgStr": "Düzenle"
+      },
+      {
+        "msgID": "CMP_MENU_L0015",
+        "msgStr": "Serbest Bırak"
+      },
+      {
+        "msgID": "CMP_MENU_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0018",
+        "msgStr": "Kılıç"
+      },
+      {
+        "msgID": "CMP_MENU_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0020",
+        "msgStr": "Malzemeler"
+      },
+      {
+        "msgID": "CMP_MENU_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0024",
+        "msgStr": "Kullan"
+      },
+      {
+        "msgID": "CMP_MENU_L0025",
+        "msgStr": "Doğrudan Komutlar"
+      },
+      {
+        "msgID": "CMP_MENU_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_MENU_L0030",
+        "msgStr": "Bir Pasif Yetenek Seç"
+      },
+      {
+        "msgID": "CMP_MENU_L0031",
+        "msgStr": "Öğrenilen Pasif Yetenekler"
+      },
+      {
+        "msgID": "CMP_MENU_L0032",
+        "msgStr": "Savaş Yetenekleri"
+      },
+      {
+        "msgID": "CMP_MENU_L0033",
+        "msgStr": "Pasif Yetenekler"
+      },
+      {
+        "msgID": "CMP_MENU_L0034",
+        "msgStr": "Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "CMP_MENU_L0035",
+        "msgStr": "Aktarılabilir Pasif Yetenekler"
+      },
+      {
+        "msgID": "CMP_MENU_L0036",
+        "msgStr": "Aktarılacak Yetenekleri Seç"
+      },
+      {
+        "msgID": "CMP_MENU_L0037",
+        "msgStr": "<PT 1>"
+      },
+      {
+        "msgID": "CMP_MENU_L0038",
+        "msgStr": "Bir Unvan Seç"
+      },
+      {
+        "msgID": "CMP_MENU_L0039",
+        "msgStr": "Kılıç Yeteneklerini Seç"
+      },
+      {
+        "msgID": "CMP_MENU_L0040",
+        "msgStr": "Ana Ekrana Dön"
+      },
+      {
+        "msgID": "CMP_MENU_L0041",
+        "msgStr": "Bitir"
+      },
+      {
+        "msgID": "CMP_MENU_L0042",
+        "msgStr": "Oyun Ayarları"
+      },
+      {
+        "msgID": "CMP_MENU_L0043",
+        "msgStr": "Köy Öğretileri"
+      },
+      {
+        "msgID": "CMP_MENU_L0044",
+        "msgStr": "Öğrenilen Kılıç Yetenekleri"
+      },
+      {
+        "msgID": "CMP_MENU_L0045",
+        "msgStr": "Kaldır"
+      },
+      {
+        "msgID": "CMP_MENU_L0046",
+        "msgStr": "Yapılandırma"
+      },
+      {
+        "msgID": "CMP_MENU_L0047",
+        "msgStr": "Çağırıcı Yetenekleri"
+      },
+      {
+        "msgID": "CMP_MENU_L0048",
+        "msgStr": "İblis Yoklaması"
+      },
+      {
+        "msgID": "CMP_MENU_L0049",
+        "msgStr": "İblis Yoklaması (<V 0>)"
+      },
+      {
+        "msgID": "CMP_MENU_L0050",
+        "msgStr": "Tüketilebilir Eşyalar"
+      },
+      {
+        "msgID": "CMP_MENU_L0051",
+        "msgStr": "Öğrenilen Savaş Yetenekleri"
+      },
+      {
+        "msgID": "CMP_MENU_L0052",
+        "msgStr": "Dava Dosyaları"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:36:36"
+}

@@ -1,0 +1,221 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "QUEST_MAINTEXT01_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "QUEST_MAINTEXT01_L0000",
+        "msgStr": "*Bu talep şu anda ilerletilemez.<COLOR 0>"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0001",
+        "msgStr": "Müşteri: Gouto-Douji\nKonum: Tsukudo-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nBiraz antrenman yapmak adına git ve <COLOR 3>Tsukudo-cho'daki 3 Aril Yarığını temizle<COLOR 0>. Aril Yarıkları birden fazla kez temizlenebilse de bu görev için <COLOR 1>her Aril Yarığını bir kez temizle<COLOR 0>."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0002",
+        "msgStr": "Müşteri: Gouto-Douji\nKonum: Tsukudo-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>\n...ve halkın minnettarlığı<COLOR 0>\n\nRaidou, halktan herhangi bir konuda yardıma ihtiyacı olan biri olup olmadığını görmek için Başkent'i düzenli olarak kolaçan etmelisin.\n\nÖzellikle şu an... Bıyıklarımda Tsukudo-cho'da bir yerlerde <COLOR 1>bir kızın ağladığını<COLOR 0> hissedebiliyorum..."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0003",
+        "msgStr": "Müşteri: Takım Elbiseli Beyefendi\nKonum: Tsukudo-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>\n...ve halkın minnettarlığı<COLOR 0>\n\n\"Narumi Dedektiflik Bürosu'nun yalnızca 'özel davaları' aldığını duydum. Beni dinlersiniz, değil mi?\"\n\nGördüğün gibi büroya yeni bir dava geldi. İşin içinde bir tuhaflık var gibi görünüyor ve bu yüzden Narumi konuyu rafa kaldırdı. Ancak Başkent sakinlerinin ihtiyaçlarını görmezden gelemeyiz.\n\nHer ne sebepleyse <COLOR 3>müşteri öküz pazehiri arıyor<COLOR 0>. Elimizde <COLOR 1>1 <ITEM_N00><COLOR 0> olduğunda doğrudan kendisine teslim etmeliyiz."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0004",
+        "msgStr": "Müşteri: Tilki (Sol)\nKonum: İsimsiz Tapınak\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nİsimsiz Tapınak'ta birlikte her şeyin arasındaki dengeyi temsil eden iki tilki heykeli vardır. Ve tesadüfe bak ki bu heykellerde, biz İblis Çağırıcılarına tavsiyeler vererek Yatagarasu'ya yardım eden doğaüstü varlıklar ikamet etmektedir.\n\nGörünüşe göre soldaki heykel kaç tane Aril Yarığı temizlediğini takip edecek ve ilerlemen karşılığında seni ödüllendirecek. Başka bir şey için olmasa bile kendi eğitimin için <COLOR 3>bu ödüller uğruna çalışman iyi olur<COLOR 0>.\n\n<COLOR 1>Tsukudo-cho dışındaki Aril Yarıklarına da<COLOR 0> gözünü dört açmayı unutma."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0005",
+        "msgStr": "Müşteri: Gouto-Douji\nKonum: Tamonten Tapınağı, Karanlık Tsukudo-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nHalkın koruyucusu 14. Raidou Kuzunoha... Güçlü düşmanlara karşı kaçınılmaz savaşlara hazırlanmak adına günlük antrenmanlarını ihmal etmemelisin. Bu tür bir eğitim için belirli iblisler hazırlandı ve <COLOR 1>onları süre sınırı içinde alt etmelisin<COLOR 0>.\n\n<COLOR 3>Ekspres tramvayları<COLOR 0> kullanarak Karanlık Tsukudo-cho'ya hızla ulaşabilirsin."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0006",
+        "msgStr": "Müşteri: Yatagarasu Elçisi\nKonum: Tsukudo-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <ITEM_R01> x<ITEM_R01_NUM>, <ITEM_R02> x<ITEM_R02_NUM>, <ITEM_R03> x<ITEM_R03_NUM><COLOR 0>\n\n(Bu görevin alışkın olduğundan biraz daha zor olacağını unutma)\n\nYatagarasu Elçisi'nden, daha önce ortadan kaldırdığın <COLOR 1>Tsuchigumo<COLOR 0>'nun pes etmeyi reddettiğini ve gerçek dünyaya girmeye çalıştığını açıklayan bir mektup aldık (genel olarak konuşmak gerekirse iblisler oldukça inatçı olma eğilimindedir).\n\n<COLOR 3>Tsukudo-cho'da Rin'in ilk kaçırıldığı ara sokaktaki<COLOR 0> <COLOR 3>yeni Aril Yarığına<COLOR 0> git."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0007",
+        "msgStr": "Müşteri: Muramasa Adayı\nKonum: Shin-Sekai Gazozcusu girişi\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nYatagarasu ile bağlantılı bir kılıç ustası, bir çırağın eğitimine yardımcı olmak üzere <COLOR 3>hakiki bir iblis kesen kılıç sunmanı<COLOR 0> talep etti.\n\nGouma-Den'de Kılıç Simyası yoluyla <COLOR 1>aşağıdaki kılıçlardan birini<COLOR 0> döv, ardından gazozcunun dışında bekleyen çırağa <COLOR 1>göster<COLOR 0>:\n<COLOR 1><KATANA_N00><COLOR 0>\n<COLOR 1><KATANA_N01><COLOR 0>\n<COLOR 1><KATANA_N02><COLOR 0>"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0008",
+        "msgStr": "Müşteri: Gouto-Douji; istihbarat Tae Asakura'dan\nKonum: Ginza-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>\n...ve halkın minnettarlığı<COLOR 0>\n\nRaidou, halktan herhangi bir konuda yardıma ihtiyacı olan biri olup olmadığını görmek için Başkent'i düzenli olarak kolaçan etmelisin.\n\nSöz açılmışken... Tae son zamanlarda otomobil trafiğinin arttığından ve yaşlılar için zorluk çıkardığından bahsetti. Toplum hızla gelişiyor ve buna ayak uyduramayanlar geride kalıyor. Şüphesiz Tae bunu ciddi bir sorun olarak görüyor; Narumi'ninkinin aksine oldukça takdire şayan bir tutum.\n\nTae'yi örnek alalım ve Ginza'nın yaşlılarına <COLOR 1>gücümüzle<COLOR 0> destek olalım."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0009",
+        "msgStr": "Müşteri: Gouto-Douji\nKonum: İnanılmaz Bilim Laboratuvarı\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <ITEM_R01> x<ITEM_R01_NUM>, <ITEM_R02> x<ITEM_R02_NUM><COLOR 0>\n\nBaşkent'i korumakla görevlendirildiğin için vazifelerin yalnızca insanları değil, hayvanlarını korumayı da kapsıyor.\n\nBunu eğitiminin bir parçası olarak düşün: <COLOR 1>Zihin Okuma yeteneğine sahip bir iblis kullan ve bir hayvanla sohbet et<COLOR 0>. Belki umutlar ve hayaller gibi tüm canlıları ilgilendiren bir konuyu konuşabilirsin.\n\nNe düşündüğünü biliyorum... Seninle benim zaten birbirimizle konuştuğumuzu, değil mi? Unutma ki ben bir hayvan değilim!"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0010",
+        "msgStr": "Müşteri: Narumi\nKonum: İnanılmaz Bilim Laboratuvarı\nÖdül: <COLOR 1><ITEM_R00><COLOR 0>\n\nNarumi'den: \"Gerçekten zor zamanlarda yaşıyoruz... Ama tam da bu yüzden arada sırada kafa dağıtmak lazım. Neden bir <COLOR 3>mahjong takımı<COLOR 0> bir araya getirmiyorsun? İçimden bir ses bakılacak yerin <COLOR 1>İnanılmaz Bilim Laboratuvarı<COLOR 0> olduğunu söylüyor. Oraya gidip bölgeyi iyice bir <COLOR 1>İnceleme<COLOR 0> şansın var mı? Sağ olasın!\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0011",
+        "msgStr": "Müşteri: Büyük Tarrasque\nKonum: Daidouji Konağı bodrumu\nÖdül: <COLOR 1>Küçük Ada Hazinesi<COLOR 0>\n\nDaidouji Konağı'nın altında yaşayan Büyük Tarrasque, <COLOR 3>kendisine içki getiren bir İblis Çağırıcısını hazine zulasına davet etme<COLOR 0> niyetini dile getirdi. Bu işin nereye varacağını görsek iyi olur, sence de öyle değil mi Raidou?\n\nTarrasque şöyle dedi: \"Canım şöyle sert bir şeyler içmek istiyor. Votka iş görür. Daidouji Ailesi zengin olduğuna göre etrafta kesin bir şeyler vardır.\"\n\nBu konuda bazı çekincelerim var ama sanırım Konnou-ya'dan aldığımız <COLOR 3>Maymuncuğu kullanabilir<COLOR 0> ve <COLOR 1>Daidouji Konağı'na etraflıca bir göz atabiliriz<COLOR 0>."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0012",
+        "msgStr": "Müşteri: Ucube Gösterisi Sahibi\nKonum: Fukagawa-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nMekânın sahibi bize aşağıdaki mesajı gönderdi.\n\n\"Ekibim oldukça huzursuz; sürgülü kapıyı açtığınızda içine girdiği duvardaki o ince yarıktan birinin kendilerini izlediğini hissettiklerini söylüyorlar. Hatta bazıları neredeyse oraya çekildiklerini hissettiklerini söylüyor. <COLOR 1>Fukagawa-cho'daki ucube gösterisine gelip sürgülü kapıya bir göz atabilir misiniz<COLOR 0>? Eğer gerçekten oraya sığabilen biri varsa burada çalışabilir!\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0013",
+        "msgStr": "Müşteri: Agathion\nKonum: Karanlık Tsukudo-cho\nÖdül: <COLOR 1>Satılabilir eşya x1<COLOR 0>\n\nÖzellikle de zarar verme niyeti olmayan her iblise kılıç çekmen gerekmez. Bence bu seferkini bir dinlemeyi denemelisin.\n\nGörünüşe göre Karanlık Tsukudo-cho'da <COLOR 3>böcek toplayan bir Agathion<COLOR 0> var. Belki canını neyin sıktığını öğrenebiliriz. Öhöm, Narumi'nin huyları bana da bulaşmış galiba..."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0014",
+        "msgStr": "Müşteri: Gouto-Douji\nKonum: İsimsiz Tapınak\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <ITEM_R01> x<ITEM_R01_NUM>, <ITEM_R02> x<ITEM_R02_NUM>, <ITEM_R03> x<ITEM_R03_NUM>\n...ve halkın minnettarlığı<COLOR 0>\n\nRaidou, halktan herhangi bir konuda yardıma ihtiyacı olan biri olup olmadığını görmek için Başkent'i düzenli olarak kolaçan etmelisin.\n\nÖzellikle şu an... Bıyıklarımda İsimsiz Tapınak civarında bir yerlerde <COLOR 1>bir oğlanın ağladığını<COLOR 0> hissedebiliyorum..."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0015",
+        "msgStr": "Müşteri: Yatagarasu Elçisi\nKonum: Eğitim Salonu B2\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nYatagarasu Elçisi'nden sana bir mektup geldi.\n\n\"Başarılarının haberini aldık 14. Raidou Kuzunoha; görünüşe göre sıkı çalışıyorsun. Daha da büyük bir çaba göstermeni umarak sana <COLOR 3>Eğitim Salonu'na erişim hakkı<COLOR 0> tanıyoruz. Bu vesileyle senin için <COLOR 3>özel bir sınav<COLOR 0> hazırladık; bu sınavda <COLOR 1>iblis kuvvetlerini süre sınırı içinde alt etmelisin<COLOR 0>. Eğitim Salonu'na <COLOR 3>İsimsiz Tapınak'taki şadırvandan<COLOR 0> ulaşabilirsin. İçeri girdikten sonra <COLOR 1>B2<COLOR 0> katına in.\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0016",
+        "msgStr": "Müşteri: İblis Çağırıcısı Rokugoro\nKonum: Shin-Sekai Gazozcusu dışı\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <ITEM_R01> x<ITEM_R01_NUM>, <ITEM_R02> x<ITEM_R02_NUM><COLOR 0>\n\nGörünüşe göre bir İblis Çağırıcısı meslektaşımızın belirli bir iblise ihtiyacı var. Bizim gibi Yatagarasu için çalışan İblis Çağırıcıları, bağlantıları ve güç dengesini korumak amacıyla bazen birbirlerine iblis devredebilirler.\n\nBu İblis Çağırıcısı, iblislerin özgürce dolaşacağı kendi krallığını kurmak amacıyla her türden iblisi toplayacak kadar onlara hayran görünüyor. Ne kadar da tuhaf... Bu görevi kabul edip edemeyeceğimizi bile bilmiyorum.\n\nİstenen iblis: <COLOR 0>bir adet <DEVIL_N00><COLOR 0>. Müşteriyle <COLOR 1>Gazozcunun dışında<COLOR 0> buluşabilirsin.\n\nİblisi <COLOR 3>tüpe alma sanatıyla<COLOR 0> veya <COLOR 3>iblis füzyonuyla<COLOR 0>, hatta zaten kayıtlıysa İblis Rehberi'nden çağırarak bile elde edebilirsin.\n\nİblisi teslim ettikten sonra <COLOR 3>onu geri alamazsın<COLOR 0>; bu yüzden öncesinde <COLOR 3>onu İblis Rehberi'ne ve/veya Özel karşılığına kaydettiğinden<COLOR 0> emin ol. (Ödül parası iblisi yeniden çağırmaya yetebilir.)"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0017",
+        "msgStr": "Müşteri: Narumi\nKonum: Daidouji Tekstil\nÖdül: <COLOR 1><ITEM_R00><COLOR 0>\n\nNarumi'den: \"Ne kadar da iç karartıcı zamanlarda yaşıyoruz... Bana sorarsan kafa dağıtmak için bundan daha önemli bir zaman olamaz. Neden bir <COLOR 3>mahjong takımı<COLOR 0> bir araya getirmiyorsun? İçimden bir ses bakılacak yerin Daidouji Tekstil'deki <COLOR 1>depo odası<COLOR 0> olduğunu söylüyor.\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0018",
+        "msgStr": "Müşteri: Muramasa Adayı\nKonum: Shin-Sekai Gazozcusu girişi\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nMuramasa ismini devralmayı uman aday, iblis kesen bir başka kılıç —<COLOR 1>aşağıda listelenenlerden birini<COLOR 0>— görmek istedi:\n<COLOR 1><KATANA_N00><COLOR 0>\n<COLOR 1><KATANA_N01><COLOR 0>\n<COLOR 1><KATANA_N02><COLOR 0>\n\nGouma-Den'de Kılıç Simyası yoluyla dövdükten sonra yanına git ve kılıcı ona <COLOR 3>göster<COLOR 0>."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0019",
+        "msgStr": "Müşteri: Fukagawa-cho Muhtarı\nKonum: Fukagawa-cho'daki boş arka arsa\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <DEP_03>Elektrik Düzeni'nden Hayataro füzyon açılışı<COLOR 0>\n\nBu talep Fukagawa-cho mahalle derneği başkanından geliyor.\n\n\"Boş bir arsada küçük bir tapınak var ve adakları sürekli <COLOR 3>büyük, beyaz bir köpek<COLOR 0> tarafından aşırılıyor. Şimdiye kadar sadece tapınak adakları zarar gördü ama bir çocuğa saldırması riskini göze alamayız. Belediye çalışanlarından yardım istedim ama hepsi boşboğaz aptalların teki; zerre faydaları dokunmadı. Dedektif, bizim için <COLOR 1>şu sokak köpeğinden kurtulabilir misin<COLOR 0>?\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0020",
+        "msgStr": "Müşteri: Narumi\nKonum: Harumi-cho\nÖdül: <COLOR 1><ITEM_R00><COLOR 0>\n\nNarumi'den: \"Ne huzursuz zamanlarda yaşıyoruz... Kafa dağıtmak için vakit ayırdığımızdan emin olsak iyi olur. Hm, sanırım bütün taleplerim dinlenmekle ilgiliymiş gibi görünüyor, değil mi? Yanlış fikre kapılma sakın. Öyle görünmese de arada sırada kesinlikle çalışıyorum! Her neyse, şu <COLOR 3>mahjong takımını<COLOR 0> bir araya getirmen konusunda sana güveniyorum. İçimden bir ses Harumi-cho'daki <COLOR 1>yabancı tüccarlardan<COLOR 0> birinde aradığımız malların olacağını söylüyor. Ne olur ne olmaz hem gerçek dünyada hem de Karanlık Diyar'da bir kontrol et.\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0021",
+        "msgStr": "Müşteri: Narumi\nKonum: Eğitim Salonu - Doğu\nÖdül: <COLOR 1><ITEM_R00><COLOR 0>\n\nNarumi'den: \"Ne belirsiz zamanlarda yaşıyoruz... Şimdi kafa dağıtmak her zamankinden daha önemli. Ama hey, sakın işim gücüm sadece yatmak sanma. Bu tür genellemeler her zaman yanıltıcıdır. Hayatta geçinip gitmek için orta yolu bulmak gerekir, bilirsin işte? Her neyse, şu <COLOR 3>mahjong takımını<COLOR 0> bir araya getirmen konusunda sana güveniyorum. İçimde... Yatagarasu <COLOR 1>Eğitim Salonu<COLOR 0> hakkında iyi bir his var? Şu <COLOR 1>doğu<COLOR 0> tarafındaki? Evet, aradığımız yer tam orası.\"\n\nBöyle bir mankafa için bu özel konulardaki sezgileri alışılmadık derecede keskin..."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0022",
+        "msgStr": "Müşteri: Tokyo Polis Teşkilatı\nKonum: Fukagawa-cho nehir kıyısı\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <ITEM_R01> x<ITEM_R01_NUM>, <ITEM_R02> x<ITEM_R02_NUM>, <ITEM_R03> x<ITEM_R03_NUM><COLOR 0>\n\nPolis bu talebi bize iletmek için Yatagarasu'yu aracı koymuş. (Bizi başlarından savıp sonra yardıma ihtiyaç duyduklarında sürünerek geri gelmelerindeki şu cürete bak...)\n\n\"Birkaç gündür Fukagawa-cho sakinleri <COLOR 1>şüpheli bir adam<COLOR 0> tarafından gözetlendiklerine dair vakalar bildiriyor; ancak tüm çabalarımıza rağmen suçluyu bulamadık. Bu davanın 'yetki alanımızın dışında' olabileceğinden şüpheleniyoruz, bu nedenle yardım için Yatagarasu'ya resmi bir talepte bulunuyoruz. İddia edilen suçların mahalli <COLOR 1>nehrin karşısındaki müstakil bir evde<COLOR 0> bulunuyor. Bu davayı hızla çözmek için işbirliğinize güvenebileceğimizi umuyoruz.\"\n\nRaidou, eğer bu röntgenci insan değilse <COLOR 3>Soruşturma Yeteneği \"Cazibe\"yi<COLOR 0> kullanmak hızlı sonuç verebilir. Eğer <COLOR 3>Cazibe kullanabilen bir iblisin<COLOR 0> yoksa Gouma-Den'deki Arama Füzyonu'ndan yararlanmak isteyebilirsin."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0023",
+        "msgStr": "Müşteri: Yoshitsune\nKonum: Eğitim Salonu B4\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <DEP_05>Öfke Düzeni'nden Yoshitsune füzyon açılışı<COLOR 0>\n\nYatagarasu'nun <COLOR 1>Yoshitsune<COLOR 0>'nin kaçışına yardım edip ona Eğitim Salonu'nda sığınak sağlamasının üzerinden uzun yıllar geçti. Görünüşe göre şimdi bizzat <COLOR 1>gücünü sınamak<COLOR 0> istiyor. Şöhretin iblisler arasında bile yayılıyor olmalı. Bunu düşündükçe gurur duyduğumu söylemeliyim.\n\nYoshitsune, sergilediğin güçten memnun kalırsa <COLOR 3>iblis saflarına katılmaya<COLOR 0> ikna olabileceğini belirtti. Doğrusu bu teklifi reddetmenin akılsızlık olacağını düşünüyorum.\n\nKendini hazır hissettiğinde <COLOR 1>Eğitim Salonu'nun B4 katına<COLOR 0> in."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0024",
+        "msgStr": "Müşteri: İsimsiz İblis\nKonum: İnanılmaz Bilim Laboratuvarı\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nBu talebi gönderen iblisin kötü bir niyeti yok gibi görünüyor, belki ona yardım eli uzatabilirsin Raidou?\n\n\"İçinde bulunduğumuz bu Taisho döneminde 'caz' olarak bilinen müzik türü epey dinleyici kazandı. Bir iblis olsam da olumsuz duyguları kovup götürdüğü için bu cazı hoş ve ilham verici buluyorum. Caza öyle kapıldım ki kendi caz grubumu kurmak istiyorum. Ancak henüz başka hiçbir üye bulamadım. Lütfen nazik İblis Çağırıcısı, grubumu kurmak için ihtiyacım olan iblisleri bana bulabilir misin? Aşağıdaki <COLOR 3>3 iblisi<COLOR 0> arıyorum:\n1. Ateşli ritimler sağlayabilecek <COLOR 1><DEVIL_N00> (<DEP_01>Ateş Düzeni)<COLOR 0>.\n2. Coşkulu üflemelilerle katkıda bulunabilecek <COLOR 1><DEVIL_N01> (<DEP_09>Element Düzeni)<COLOR 0>.\n3. Güçlü bir boru çalabilecek <COLOR 1><DEVIL_N02> (<DEP_08>Mitama Düzeni)<COLOR 0>.\nOradaki hurdalardan uygun enstrümanlar yapmak üzere <COLOR 3>insan kılığında<COLOR 0> İnanılmaz Bilim Laboratuvarı'nda olacağım.\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0025",
+        "msgStr": "Müşteri: Bir \"Turist\"\nKonum: Harumi-cho'daki İtalyan restoranının dışı\nÖdül: <COLOR 1><MONEY_R> yen<COLOR 0>\n\nBaşkent uluslararası bir merkez haline geldi ve bu nedenle Başkent'in koruyucusu turistlere de güvenlik ve misafirperverlik sağlamalıdır. Belki böyle bir turiste yardım eli uzatabilirsin.\n\n\"Zdravstvuyte. Başka bir ülkeden gelen bir ziyaretçiyim. Başkent'te denenmesi gereken şeyin Tokyo usulü <COLOR 1><ITEM_N00><COLOR 0> olduğunu duydum. Ancak Başkent'in etrafındaki denizler bir hayli kirlendi; modernleşme için ödenen korkunç bir bedel, da? Yılan balıklarının bu dünyada pek ömrü kalmadığına inanıyorum (nasıl bildiğimi sorma), bu yüzden bir tanesinin tadını çıkarmak için tek şansım bu olabilir. Doğal olarak yılan balıkları <COLOR 3>okyanusta<COLOR 0> yaşar, dolayısıyla bir tane bulmayı umuyorsan <COLOR 3>suyun üzerinde yolculuk etmelisin<COLOR 0>. Bir yılan balığı yakaladıktan sonra onu <COLOR 1>Harumi-cho'daki İtalyan restoranının dışındaki<COLOR 0> şefe getir.\"\n\nSöylemeliyim ki bu turistin konuşma tarzı rahatsız edici derecede tanıdık..."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0026",
+        "msgStr": "Müşteri: Tilki (Sağ)\nKonum: İsimsiz Tapınak\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <ITEM_R01> x<ITEM_R00_NUM>, <ITEM_R02> x<ITEM_R00_NUM><COLOR 0>\n\nİşte bu beni eski günlere götürdü... Kuzunoha soyundan yeni bir İblis Çağırıcısının eğitim olarak tilki heykelinden bir görev alması adettendir.\n\n\"<COLOR 1>Eğitim Salonu'nun<COLOR 0> her bir <COLOR 1>kolunu<COLOR 0> ziyaret et ve <COLOR 1>altı sayıyı<COLOR 0> ara. Hepsini bulduktan sonra geri dön ve bana <COLOR 1>toplam sonucu<COLOR 0> söyle. Bu sayıların konumları şu şekildedir:\n1) <COLOR 3>Eğitim Salonu B1<COLOR 0>\n2) <COLOR 3>Eğitim Salonu B2<COLOR 0>\n3) <COLOR 3>Eğitim Salonu B3<COLOR 0>\n4) <COLOR 3>Eğitim Salonu B4<COLOR 0>\n5) <COLOR 3>Eğitim Salonu - Doğu<COLOR 0>\n6) <COLOR 3>Eğitim Salonu - Kuzey<COLOR 0>\n<COLOR 3>Her konumda bir sayı<COLOR 0> bulacaksın. <COLOR 3>A<COLOR 0>'dan <COLOR 3>F<COLOR 0>'ye kadar etiketlenmiş <COLOR 3>toplam altı sayı<COLOR 0> var. Kazındıkları zemindeki <COLOR 3>parlayan noktalara<COLOR 0> dikkatlice bak. Toplam sonucu bulduğunda benimle, yani sağdaki tilki heykeliyle konuş ve <COLOR 3>cevabını bana ver<COLOR 0>.\"\n\nAyrıca Eğitim Salonu kollarındayken Toplayıcı yeteneğine sahip iblislerinin düşük bir ihtimalle (ve \"düşük\" kısmını özellikle vurguluyorum) tütsü bulabileceğini bilmek işine yarayabilir."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0027",
+        "msgStr": "Müşteri: Hiçliğin Kralı\nKonum: Eğitim Salonu B5\nÖdül: <COLOR 1><ITEM_R00><COLOR 0>\n\nGörünüşe göre bir iblisten yazılı bir meydan okuma aldın. Bu iş başımıza bela açabilir...\n\n\"İblis Çağırıcıları; karanlığın varlıklarıyla iletişim kurmaya ve hiçliğe bakmaya cüret eden aciz faniler... Böylesine doymak bilmez bir arzuya sahip olan sana, ben, hiçliğin kralı, bir eğlence müsabakası hazırladım: <COLOR 1>Yüz İblis Sınavı<COLOR 0> kapıda ve tam anlamıyla bir Grand Guignol olmayı vaat ediyor; herkes katılmaya davetlidir! İlk perde Eğitim Salonu'nun <COLOR 1>B5<COLOR 0> katında açılacak. <COLOR 3>Sahnenin 8 köşesini adımlarken<COLOR 0> <COLOR 1><ITEM_R00><COLOR 0> göreceksin. Onu al ve <COLOR 3>ikinci perdeye biletini<COLOR 0> kazan. <COLOR 3>Son perdeye kadar ulaşanlara<COLOR 0> bizzat benimle, yani hiçliğin kralıyla <COLOR 1>özel bir görüşme<COLOR 0> bahşedilecek. Bekliyor olacağım!\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0028",
+        "msgStr": "Müşteri: Gouto-Douji\nKonum: Karanlık Fukagawa-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nYatagarasu, Başkent'in Karanlık Diyarı'nı izliyordu ve görünüşe göre <COLOR 1>Karanlık Fukagawa-cho<COLOR 0>'da bir yerlerde bir <COLOR 3>iblis, Ejderha Yükselişleri ve Yeraltı Kapıları arasında kapana kısılmış<COLOR 0>.\n\nUnutma Raidou: Bir İblis Çağırıcısı, gücünü iyilik için kullandığından emin olmak adına adil bir İradeye sahip olmalıdır. İblis olsalar bile yardıma ihtiyacı olanlara yardım elimizi uzatmalıyız."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0029",
+        "msgStr": "Müşteri: Yatagarasu Elçisi\nKonum: Karanlık Diyar'da bir yer\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <DEP_07>Hüner Düzeni'nden Kudan füzyon açılışı<COLOR 0>\n\nRaidou, Yatagarasu'dan bir mesaj aldık.\n\n\"Uğursuzluk alameti olduğu söylenen iblis <COLOR 1>Kudan<COLOR 0>, vatandaşları yoldan çıkarmak için Başkent'te ortaya çıktı. Kitleler günlük yaşamlarında geçim sıkıntısı çekerken, iblisin kaderci kehanetlerini benimsemeye her zamankinden daha yatkınlar. İnsanların zihinlerini daha fazla zehirlemeden önce Kudan'ı <COLOR 1>ortadan kaldırmanı<COLOR 0> rica ediyoruz. Neyse ki henüz bu dünyaya girmedi. Onu <COLOR 3>şehrin Karanlık Diyarı'nda bir yerlerde<COLOR 0> bulman muhtemeldir.\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0030",
+        "msgStr": "Müşteri: Yatagarasu Elçisi\nKonum: Kasumidai\nÖdül: <COLOR 1>1 ek Kılıç Yeteneği yuvası<COLOR 0>\n\nRaidou, Yatagarasu'dan bir mesaj aldık.\n\n\"Gösterici kılığına girmiş iblisler, <COLOR 1>Kasumidai<COLOR 0>'de, <COLOR 3>yüksek bir yere konumlandırılmış heykelin<COLOR 0> yakınında ortaya çıktı. Neyse ki insanlar henüz onları fark etmedi. Lütfen herhangi bir insana veya başka bir iblise olumsuz bir yansıması olmadan önce durumu <COLOR 1>kontrol altına al<COLOR 0>.\"\n\nHıh, insan göstericiler kılığına giren iblisler, ha? Gerçi doğrusunu söylemek gerekirse meleklerin de bu tür taktiklere tenezzül etmeyeceğini söyleyemem..."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0031",
+        "msgStr": "Müşteri: Kırmızı Amca ve Siyah Amca\nKonum: Tsukudo-cho telefon kulübesi\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <DEP_06>Pagan Düzeni'nden Alice füzyon açılışı<COLOR 0>\n\nBu talep kırmızı ve siyah giyinmiş iki beyefendiden geliyor. Özellikle seni istediler. İblis olduklarını varsaymak muhtemelen yanlış olmaz.\n\n\"Bu, 14. Raidou Kuzunoha için bir taleptir. Yalnızca onunla yaşamaya devam etmek dileğiyle, ölmüş bir kıza geçici bir yaşam bahşetme gibi yasak bir eylem gerçekleştirdik. Şu anda ruhu hâlâ ölüler dünyasında dolaşıyor olmalı. Bize yardım etme nezaketini gösterirseniz, ilk göreviniz <COLOR 1>Ateş Düzeni'nden Belial<COLOR 0>'ı müttefikiniz yapmak ve ardından <COLOR 1>Tsukudo-cho'daki telefon kulübesine<COLOR 0> gitmek olacaktır.\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0032",
+        "msgStr": "Müşteri: Narumi\nKonum: Daidouji Tekstil\nÖdül: <COLOR 1>Bir miktar nakit<COLOR 0>\n\nNarumi, Kiyoshi Daidouji'nin durumunu kontrol etmemizi istiyor.\n\n\"Kiyoshi'nin hastaneden sağ salim taburcu olduğu haberini aldım. İşte bu sırtımızdan büyük bir yük aldı! Ama insan gerçekten tamamen iyileşip iyileşmediğini merak ediyor, ne demek istediğimi anlıyorsun değil mi? Ona çabucak bir uğrayıp kontrol edebilir misin Raidou?\"\n\nBelki de Narumi belli ettiğinden daha düşüncelidir. Pekâlâ, gidip Kiyoshi ile bir <COLOR 1>konuşalım<COLOR 0>."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0033",
+        "msgStr": "Müşteri: Narumi\nKonum: Denpachi'nin evi, Fukagawa-cho\nÖdül: <COLOR 1>Bir miktar nakit<COLOR 0>\n\nNarumi, Denpachi Iida'nın durumunu kontrol etmemizi istiyor.\n\n\"Görünüşe göre Denpachi sağlığına kavuşmuş. Tüm o Kırmızı Pelerin olaylarından sonra hem onun hem de Kiyoshi'nin iyi olduğunu görmek güzel. Raidou, Denpachi'ye bir uğrayıp iyi olduğundan emin olabilir misin? Anlaşılan hâlâ yeni bir iş arıyormuş, bu yüzden muhtemelen evdedir.\"\n\nHadi oraya gidip Denpachi ile bir <COLOR 1>konuşalım<COLOR 0>."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0034",
+        "msgStr": "Müşteri: Hiçliğin Kralı\nKonum: Eğitim Salonu B7\nÖdül: <COLOR 1><ITEM_R00><COLOR 0>\n\n\"İblis Çağırıcıları, Grand Guignol'ümüzün ikinci perdesinin vakti geldi! <COLOR 1>Yüz İblis Sınavı<COLOR 0>, Eğitim Salonu'nun <COLOR 1>B7<COLOR 0> katında devam edecek. <COLOR 3>Tepedeki ışık gizlendiğinde güneybatıya yönelin<COLOR 0>; orada <COLOR 1><ITEM_R00><COLOR 0> göreceksiniz. Onu alın ve <COLOR 3>üçüncü perdeye biletinizi<COLOR 0> kazanın. Aranızdan kim benimle ilk görüşen olacak?\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0035",
+        "msgStr": "Müşteri: Yatagarasu Elçisi\nKonum: Harumi-cho'daki Katolik kilisesi\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <DEP_06>Pagan Düzeni'nden Mot füzyon açılışı<COLOR 0>\n\nBasın, işlenecek bir suçla ilgili isimsiz bir ihbar almış görünüyor.\n\n\"Dünyanın yıkımı. Ölüm. Katolik kilisesi. Karanlığın Prensi.\"\n\nPolis şimdiden harekete geçti ama bizim de yardımımızı talep ettiler. <COLOR 1>Katolik kilisesine<COLOR 0> gidelim."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0036",
+        "msgStr": "Müşteri: Nue\nKonum: Karanlık Ginza-cho\nÖdül: <COLOR 1><ITEM_R00><COLOR 0>\n\n\"TRAMVAYLAR ARTIK SIKICI. TRAMVAY PASOMU VERECEĞİM. İLK GELEN ALIR.\"\n\nOldukça cömert bir iblis sanırım. Buna bir göz atmalıyız Raidou."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0037",
+        "msgStr": "Müşteri: Gouto-Douji\nKonum: Daidouji Tekstil\nÖdül: <COLOR 1><MONEY_R> yen\n...ve halkın minnettarlığı<COLOR 0>\n\nKiyoshi Daidouji'nin iyi olduğunu teyit etmek güzeldi; onu kurtarmak için gösterdiğin çabaların sonuçlarını görmek senin için de kesinlikle memnuniyet verici olmalı.\n\nBu kez Kiyoshi'yi bundan sonra neyin beklediğini merak eden Narumi değil, benim. Raidou, gidip onunla tekrar <COLOR 1>konuşabilir misin<COLOR 0>?"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0038",
+        "msgStr": "Müşteri: Gouto-Douji\nKonum: Denpachi'nin evi, Fukagawa-cho\nÖdül: <COLOR 1><MONEY_R> yen\n...ve halkın minnettarlığı<COLOR 0>\n\nKiyoshi'de olduğu gibi Denpachi Iida'nın da bundan sonra ne yapmayı planladığını bilmek istiyorum. İtiraf etmeliyim ki epey meraklı olmaya başladım.\n\nGidip onunla bir kez daha <COLOR 1>konuşabilir misin<COLOR 0> Raidou?"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0039",
+        "msgStr": "Müşteri: Hiçliğin Kralı\nKonum: Eğitim Salonu B9\nÖdül: <COLOR 1><ITEM_R00><COLOR 0>\n\n\"İblis Çağırıcıları, tuhaf ve harikulade Grand Guignol üçüncü perdesini açtı! <COLOR 1>Yüz İblis Sınavı<COLOR 0>, Eğitim Salonu'nun <COLOR 1>B9<COLOR 0> katında devam edecek. <COLOR 3>Tepedeki ışık büyüyüp daire şeklini aldığında kuzeydoğuya yönelin<COLOR 0>; orada <COLOR 1><ITEM_R00><COLOR 0> göreceksiniz. Onu alın ve <COLOR 3>son perdeye biletinizi<COLOR 0> kazanın. Aranızdan kim benimle ilk görüşen olacak?\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0040",
+        "msgStr": "Müşteri: Başkent Sosyal Hizmetler Dairesi\nKonum: Sakuradayama\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <ITEM_R01> x<ITEM_R01_NUM>,\n Hüner Düzeni'nden Belphegor füzyon açılışı<COLOR 0>\n<DEP_07>Görünüşe göre tapınak ziyaretçileri aniden çalışma arzularını kaybediyor. Ne kadar da tuhaf...\n\"Başkent'teki gençlerin motivasyonlarını kaybedip kendilerini evlerine kapattıklarına dair birkaç rapor aldık. Elbette ülkemizin geleceğine dair belirsizliğin ve hepimizin katlanmak zorunda kaldığı uzun ekonomik durgunluğun farkındayız. Yine de iş gücündeki bu derecede bir düşüşün eşi benzeri görülmemiştir ve ulusumuzun gücü ile nüfuzu tehlike altındadır. Araştırmalarımıza göre iş arayışlarında şans getirmesi için <COLOR 1>Sakuradayama'daki bir tapınağı ziyaret eden iş arayanlar, kısa bir süre sonra aniden kendilerini eve kapatıyorlar. Özel davaları ele alma konusundaki uzmanlığı göz önüne alındığında Bay Narumi'nin bürosundan yardım almak istiyoruz.\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0041",
+        "msgStr": "Müşteri: Okayama'dan İblis Çağırıcısı\nKonum: Ginza-cho\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM><COLOR 0>\n\nBu talep daha kıdemsiz bir İblis Çağırıcısından geliyor gibi görünüyor.\n\n\"Ben ustamın öğrencisiyim ama teorik olarak başlı başına bir İblis Çağırıcısıyım. Ancak ustam henüz bana tüpe alma (veya müzakere) sanatını ya da iblis füzyonunu kullanma izni verme sürecini başlatmadı. Ustamın beni tam yeterlilik sınırları içine dahil etmesi için, varsayımıma göre bağımsız olarak iblislere emir verme pratiği yapmalıyım; bu nedenle <COLOR 1>Agidyne yeteneğini bilen 1 <DEVIL_N00> (<DEP_07>Hüner Düzeni)<COLOR 0> talep ediyorum. Ginza-cho'da bir ulak bekliyor, dolayısıyla teorik olarak teslimatı orada yapacaksınız.\nNot: Pixie'nin kimono içinde çok sevimli görüneceğinden şüpheleniyorum, bu yüzden sürecin bir parçası olarak onun için bir tane hazırladım.\"\n\nSöylemeden geçemeyeceğim, bu bana oldukça tuhaf bir konuşma tarzı gibi geldi..."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0042",
+        "msgStr": "Müşteri: Muramasa Adayı\nKonum: Shin-Sekai Gazozcusu girişi\nÖdül: <COLOR 1>1 ek Kılıç Yeteneği yuvası<COLOR 0>\n\nMuramasa Adayı belirli bir iblis kesen kılıcı daha görmek istedi. İnsanın zanaatına böylesine adanmış olması oldukça ilham verici. Bu kez <COLOR 1>aşağıdakilerden birini<COLOR 0> görmek istedi:\n<COLOR 1><KATANA_N00><COLOR 0>\n<COLOR 1><KATANA_N01><COLOR 0>\n<COLOR 1><KATANA_N02><COLOR 0>\n<COLOR 1><KATANA_N03><COLOR 0>\n<COLOR 1><KATANA_N04><COLOR 0>\n<COLOR 1><KATANA_N05><COLOR 0>\n\nGouma-Den'de Kılıç Simyası yoluyla dövdükten sonra yanına git ve kılıcı ona <COLOR 3>göster<COLOR 0>."
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0043",
+        "msgStr": "Müşteri: Hiçliğin Kralı\nKonum: Eğitim Salonu B10\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <DEP_06>Pagan Düzeni'nden Beelzebub füzyon açılışı<COLOR 0>\n\n\"Duyduk duymadık demeyin! Sonunda bir İblis Çağırıcısı Grand Guignol'ümüzün son perdesine katılmaya layık olduğunu kanıtladı ve bu müstesna şahıs 14. Raidou Kuzunoha'dan başkası değil! Öyleyse Raidou... Bu son perdeyi sana ithaf ediyorum. Eğitim Salonu'nun <COLOR 1>en alt katına<COLOR 0> in; orada ben, hiçliğin kralı, sana özel bir görüşme bahşedeceğim. Beni bekletme.\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0044",
+        "msgStr": "Müşteri: Goto-Douji\nKonum: Akarana Koridoru'ndaki Boyut Yarığı - 199X\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <DEP_01>Ateş Düzeni'nden Asura füzyon açılışı<COLOR 0>\n\nBu zaman çizgisinin Raidou'su için bir görevim var.\n\nBuraya gelmemin bir diğer nedeni de Asura'ya dönüşen Dainichi Nyorai'yi alt etmektir. Ayrıntıları seninle paylaşmama izin ver...\n\n<COLOR 1>Akarana Koridoru - 1990<COLOR 0>'a bağlı olarak bulacağın <COLOR 1>Boyut Yarığı - 199X<COLOR 0>'e sığınan <COLOR 1>Asura'yı alt etmeni<COLOR 0> istiyorum.\n\nAnlayacağın, biz seni kendi zamanına (şu anda içinde bulunduğumuz zamana) geri gönderme açmazını çözmeye çalışırken, benim Raido'm Yatagarasu'dan çıldıran Dainichi Nyorai'yi dize getirme emri aldı. Ancak sonunda onu köşeye sıkıştırıp neredeyse alt ettiğimizde Asura'ya dönüştü ve Ushigome-Gaeri Köprüsü'nde Ruh Gönderme Ayini için açtığımız yarığa kaçmayı başardı.\n\nBenim zaman çizgimin Showa döneminde tanrılar arasındaki çatışma tırmanıyor ve bu da dünya genelindeki insan toplumlarında gerilim yaratıyor. Asura'nın Dainichi Nyorai olarak evrendeki dengeyi koruması gerekiyor. Bu çatışma devam ederse dünyanın düzeni çökebilir; tanrılar birbirleriyle çarpışırken gökler yarılabilir ve yeryüzündeki düşmanlıklar ile çalkantılar bir dünya savaşına dönüşebilir.\n\nYatagarasu, Asura'nın hem geçmiş hem de gelecek tarihin akışını belirlemede kritik bir nokta olduğu varsayımıyla 199X yılına girmiş olabileceğinden şüpheleniyor. 199X boyut yarığı bir şekilde 1990 yılındakiyle bağlantılı olmalı. Bir ipucu bulmak için oraya gidip bölgeyi <COLOR 3>İncelemen<COLOR 0> gerekebilir.\n\n*Gouto'nun (senin zaman çizgindekinin) notu:\nBen meşgulken buraya bir talep sıkıştırmaya nasıl cüret eder! Görünüşe göre durum bunu gerektiriyordu ama yine de beni çileden çıkarıyor!"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0045",
+        "msgStr": "Müşteri: Raidou Hayranı\nKonum: Tsukudo-cho'daki Gouma-Den'in dışı\nÖdül: <COLOR 1><ITEM_R00> x<ITEM_R00_NUM>, <DEP_02>Buz Düzeni'nden Raiho füzyon açılışı<COLOR 0>\n\nRaidou, bu talep senin bir hayranın olduğunu iddia eden bir iblisten geliyor.\n\n\"Raidou için bir yeni oyun artı i-hee-steğim var, ho! Kendine bir <COLOR 1>Bancho Üniforması<COLOR 0> bul ve hee-Gouma-Den'in dışında onu <COLOR 1>bana hee-göster<COLOR 0>, ho! Sadece gör-ho-mek istiyorum; söz veriyorum onu çal-hee-mayacağım, ho! Şu hee-serseri polis dedektifinden bir tane alabilirsin, ho. Hani şu hee-bildiğin. <COLOR 3>Bu oyunda adı geçen tek bir hee-polis dedektifi var<COLOR 0>, ho!\""
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0046",
+        "msgStr": "Dava Dosyası Metni 46"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT01_L0050",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/03/26 19:20:26"
+}

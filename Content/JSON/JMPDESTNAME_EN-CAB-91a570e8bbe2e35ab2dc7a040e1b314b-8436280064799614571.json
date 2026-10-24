@@ -1,0 +1,249 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMPDESTNAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "JMPDESTNAME_L0000",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0001",
+        "msgStr": "Konnou-ya"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0002",
+        "msgStr": "İsimsiz Tapınak"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0003",
+        "msgStr": "Shin-Sekai Ön Kapısı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0004",
+        "msgStr": "Eğitim Salonu"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0005",
+        "msgStr": "Eğitim Salonu - Doğu"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0006",
+        "msgStr": "Eğitim Salonu - Batı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0007",
+        "msgStr": "Eğitim Salonu - Güney"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0008",
+        "msgStr": "Eğitim Salonu - Kuzey"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0009",
+        "msgStr": "Tsukudo-cho"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0010",
+        "msgStr": "Daidouji Konağı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0011",
+        "msgStr": "Fukagawa-cho"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0012",
+        "msgStr": "Kırmızı Fener Mahallesi"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0013",
+        "msgStr": "Daidouji Tekstil"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0014",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0015",
+        "msgStr": "Ginza-cho"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0016",
+        "msgStr": "Ryugu Ön Girişi"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0017",
+        "msgStr": "Yabancılar Mezarlığı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0018",
+        "msgStr": "Katolik Kilisesi"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0019",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0020",
+        "msgStr": "Sakuradayama"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0021",
+        "msgStr": "4 Nolu Topçu Bataryası"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0022",
+        "msgStr": "Kasumidai"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0023",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0024",
+        "msgStr": "Karanlık Tsukudo-cho"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0025",
+        "msgStr": "Karanlık Tsukudo-cho Ejderha Pınarı A"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0026",
+        "msgStr": "Karanlık Fukagawa-cho"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0027",
+        "msgStr": "Karanlık Fukagawa-cho Ejderha Pınarı B"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0028",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0029",
+        "msgStr": "Karanlık Ginza-cho Ejderha Pınarı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0030",
+        "msgStr": "Karanlık Harumi-cho"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0031",
+        "msgStr": "Karanlık Harumi-cho Ejderha Pınarı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0032",
+        "msgStr": "Karanlık Kasumidai"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0033",
+        "msgStr": "Karanlık Kasumidai Ejderha Pınarı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0034",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0035",
+        "msgStr": "Karanlık Sakuradayama Ejderha Pınarı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0036",
+        "msgStr": "Karanlık Waden One"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0037",
+        "msgStr": "Karanlık Waden One Ejderha Pınarı"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0038",
+        "msgStr": "Akarana Koridoru"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0039",
+        "msgStr": "Yeraltı Tersanesi (Doğu)"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0040",
+        "msgStr": "Yeraltı Tersanesi (Batı)"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0100",
+        "msgStr": "Ekspres Tramvay"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0101",
+        "msgStr": "Tesisler"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0102",
+        "msgStr": "Konumlar"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0103",
+        "msgStr": "Karanlık Diyar"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0104",
+        "msgStr": "Bir varış noktası seç."
+      },
+      {
+        "msgID": "JMPDESTNAME_L0105",
+        "msgStr": "yen"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0106",
+        "msgStr": "Para"
+      },
+      {
+        "msgID": "JMPDESTNAME_L1001",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0041",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0042",
+        "msgStr": "Karanlık Tsukudo-cho Ejderha Pınarı B"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0043",
+        "msgStr": "Karanlık Fukagawa-cho Ejderha Pınarı A"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0044",
+        "msgStr": "Karanlık Fukagawa-cho Ejderha Pınarı C"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0045",
+        "msgStr": "Akarana Koridoru Ejderha Pınarı A"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0046",
+        "msgStr": "Akarana Koridoru Ejderha Pınarı B"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0047",
+        "msgStr": "Akarana Koridoru Ejderha Pınarı C"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0048",
+        "msgStr": "Akarana Koridoru Ejderha Pınarı D"
+      },
+      {
+        "msgID": "JMPDESTNAME_L0049",
+        "msgStr": "Akarana Koridoru Ejderha Pınarı E"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/24 21:35:15"
+}

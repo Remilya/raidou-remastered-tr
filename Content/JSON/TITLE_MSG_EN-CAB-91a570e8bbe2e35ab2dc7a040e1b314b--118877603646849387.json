@@ -1,0 +1,53 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "TITLE_MSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "TITLE_MSG_L0000",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "TITLE_MSG_L0001",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "TITLE_MSG_L0002",
+        "msgStr": "Oyundan çıkılsın mı?"
+      },
+      {
+        "msgID": "TITLE_MSG_L0003",
+        "msgStr": "Zorluk seviyesi, ana menüdeki \"Oyun ayarları\"na erişilerek değiştirilebilir."
+      },
+      {
+        "msgID": "TITLE_MSG_L0004",
+        "msgStr": "Bu zorluk seviyesiyle başlansın mı?"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:50:57"
+}

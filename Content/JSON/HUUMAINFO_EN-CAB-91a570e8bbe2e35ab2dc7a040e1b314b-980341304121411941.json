@@ -1,0 +1,101 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "HUUMAINFO_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "HUUMAINFO_L0000",
+        "msgStr": "SV"
+      },
+      {
+        "msgID": "HUUMAINFO_L0001",
+        "msgStr": "TP"
+      },
+      {
+        "msgID": "HUUMAINFO_L0002",
+        "msgStr": "SONRAKİ"
+      },
+      {
+        "msgID": "HUUMAINFO_L0003",
+        "msgStr": "Sadakat"
+      },
+      {
+        "msgID": "HUUMAINFO_L0004",
+        "msgStr": "CP"
+      },
+      {
+        "msgID": "HUUMAINFO_L0005",
+        "msgStr": "Gü"
+      },
+      {
+        "msgID": "HUUMAINFO_L0006",
+        "msgStr": "Bü"
+      },
+      {
+        "msgID": "HUUMAINFO_L0007",
+        "msgStr": "Da"
+      },
+      {
+        "msgID": "HUUMAINFO_L0008",
+        "msgStr": "Şa"
+      },
+      {
+        "msgID": "HUUMAINFO_L0009",
+        "msgStr": "Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "HUUMAINFO_L0010",
+        "msgStr": "Savaş Yetenekleri"
+      },
+      {
+        "msgID": "HUUMAINFO_L0011",
+        "msgStr": "MAG"
+      },
+      {
+        "msgID": "HUUMAINFO_L0012",
+        "msgStr": "Pasif Yetenekler"
+      },
+      {
+        "msgID": "HUUMAINFO_L0013",
+        "msgStr": "-"
+      },
+      {
+        "msgID": "HUUMAINFO_L0014",
+        "msgStr": "Yk"
+      },
+      {
+        "msgID": "HUUMAINFO_L0015",
+        "msgStr": "Yns"
+      },
+      {
+        "msgID": "HUUMAINFO_L0016",
+        "msgStr": "Em"
+      },
+      {
+        "msgID": "HUUMAINFO_L0017",
+        "msgStr": "Zyf"
+      },
+      {
+        "msgID": "HUUMAINFO_L0018",
+        "msgStr": "Hapsedilen iblis hakkındaki bilgileri görüntüleyin."
+      },
+      {
+        "msgID": "HUUMAINFO_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "HUUMAINFO_L0020",
+        "msgStr": "Hapsedilme Sanatı"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:51:03"
+}

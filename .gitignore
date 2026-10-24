@@ -1,0 +1,9 @@
+# Local backups and raw game bundles
+Backups/
+
+# Temporary batch splits & Python cache
+Spreadsheets/batches/
+Spreadsheets/dlg_batches/
+__pycache__/
+*.pyc
+*.pyo

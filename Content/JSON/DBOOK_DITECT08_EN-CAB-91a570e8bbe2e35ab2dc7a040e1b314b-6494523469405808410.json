@@ -1,0 +1,197 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_DITECT08_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_DITECT08_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0003",
+        "msgStr": "Doğum yılı: 1915 / Yaş: 16 / Meslek: Ouran Lisesi dördüncü sınıf öğrencisi / Boy: Yaklaşık 155cm / Kilo: Yaklaşık 42kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Kâhya Nakamura'nın hazırladığı özel puding / Özel not: Bu kızın içinde başka bir varlığın izleri vardı ve bunun gelecekten gelen bir \"iblis\" olduğu ortaya çıktı.\n\nİblisler tarafından kaçırılmadan önce ardında \"Beni öldürmenizi istiyorum\" sözlerini bırakan bir kız. Mevcut davamızın merkezindeki isim ve bir o kadar da gizemli biri.\n\nBaşkent'teki varlıklı Daidouji ailesine mensuptur ve ailenin reisi Takeshi Daidouji'nin tek kızıdır.\n\nSaf kalpli bir kıza benziyor. Ne yazık ki bir şeyden dolayı büyük bir sıkıntı içinde olduğu anlaşılıyor. Kaçırılmadan hemen önce tuhaf bir şey daha söyledi: \"Neredeyse on altı yaşıma girdim.\"\n\nKaya'nın esrarengiz sözlerinin arkasındaki anlamı çözdük. Sınıf arkadaşı Rin'e göre (ki bu bilgiyi daha önce bizzat Kaya'dan öğrenmiş), Daidouji ailesinin kızları on altı yaşına girdiklerinde bir iblis tarafından ele geçirildikleri bir lanetten muzdaripmiş.\n\nBununla bağlantılı olarak Kaya görünüşe göre kendi kendine şu şarkıyı söylüyormuş: \"Anne, baba—aralarında toprak. İblisin kanı yeniden bütünlenecek. Uçurumda kanı katledilecek.\" Rin, şarkıda bahsedilen \"uçurumun\" Daidouji Malikânesi'nin bodrum katını ifade ettiğinden şüpheleniyor.\n\nGörünüşe göre Rin'in şüpheleri haklıymış—anlaşılan Kaya, Daidouji Malikânesi'nin altındaki bir hapishanede tutuluyormuş. Geride bıraktığı günlüğe göre amcası Kiyoshi Daidouji ve malikâne çalışanları onun hapsedilmesinde rol oynamış.\n\nDaha sonra Kaya'yı 4 Nolu Topçu Bataryası'nın altındaki yeraltı tersanesinde bulduk ve Raidou onu Tümgeneral Munakata'nın elinden kurtarmayı başardı.\n\nŞu anda bizim korumamız altında. Gidecek başka yeri olmadığından (Daidouji ailesinin sözde ele geçirilmiş kızlarını öldürme geleneği yüzünden eve dönerse öldürülecek, başka bir yerde ise Munakata tarafından yeniden yakalanma tehlikesi altında olacaktı), Narumi'nin tavsiyesiyle Narumi Dedektiflik Bürosu'nda çalışmaya başladı (şahsen ben bundan memnunum—mekana çok ihtiyaç duyulan bir canlılık katıyor).\n\nBir terslik olduğunu biliyordum. Kaya, EL 200'ü aldı ve onunla birlikte ortadan kayboldu. Görünüşe göre \"iblis\" onu çoktan ele geçirmişti.\n\nMunakata'ya göre bu \"iblis\", şu anda var olmaması gereken \"süper\" teknoloji bilgisine sahip \"gelecekten gelen bir zaman yolcusu\" ve bu bilgi geçmişteki insanlara (bize ve çağdaşlarımıza) sözde \"kehanetler\" olarak getirilmiş.\n\n(Artık açıkça anlaşılıyor ki Daidouji aile işletmelerini refaha kavuşturan şey, zaman yolcusunun gelecekten getirdiği \"kehanet\" niteliğindeki teknoloji ve bilgisiymiş. Daidouji ailesi açısından bu bilginin sunulması gerçek birer kehanet teşkil ediyordu.)\n\n<U_COLOR 1>Ne yazık ki bu zaman yolcusunun gerçek kimliğinin kendi soyundan biri, yani Raidou Kuzunoha XL olduğu ortaya çıktı. (Sözde \"iblis tarafından ele geçirilme\" olayının işleyişi hakkında daha fazla bilgi için bkz. \"Daidouji Ailesi\" maddesi.)<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT08_L0044",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:28:01"
+}

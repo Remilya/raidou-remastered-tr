@@ -1,0 +1,41 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMS_PERSON_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "JMS_PERSON_L0000",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_PERSON_L0001",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_PERSON_L0002",
+        "msgStr": "Konnou-ya'nın Sahibi"
+      },
+      {
+        "msgID": "JMS_PERSON_L0003",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_PERSON_L0004",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "JMS_PERSON_L0005",
+        "msgStr": "Narumi"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:02:56"
+}

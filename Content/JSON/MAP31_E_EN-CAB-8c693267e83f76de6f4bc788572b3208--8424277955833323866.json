@@ -1,0 +1,277 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP31_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map29_e_dammy_29_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map30_e_dammy_30_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map31_e_EPI08_SCENE07_01_000",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "MAP31_E_L0000",
+        "msgStr": "İyi dinle, bu çağın Raidou Kuzunoha'sı—Ondördüncü..."
+      },
+      {
+        "msgID": "MAP31_E_L0001",
+        "msgStr": "Süper Asker Projesi bir intikam senfonisidir."
+      },
+      {
+        "msgID": "MAP31_E_L0002",
+        "msgStr": "Çok eskiden, efsaneler çağında bu topraklar kana bulanmıştı."
+      },
+      {
+        "msgID": "MAP31_E_L0003",
+        "msgStr": "Tanrılar yukarıdan inip bu toprakların sakinlerine hükmettiler."
+      },
+      {
+        "msgID": "MAP31_E_L0004",
+        "msgStr": "İpleri elinde tutan ise Yatagarasu'ydu."
+      },
+      {
+        "msgID": "MAP31_E_L0005",
+        "msgStr": "Yenilgiden sonra boyun eğmeyi reddeden herkes sürgün edildi, alaya alındı ve hor görüldü."
+      },
+      {
+        "msgID": "MAP31_E_L0006",
+        "msgStr": "Bu toprakların sakinleri olarak kabul edilmediler ve kendilerine canavarca isimler takıldı."
+      },
+      {
+        "msgID": "MAP31_E_L0007",
+        "msgStr": "Boyun eğmedikleri için cezalandırıldılar. Beni harekete geçiren şey onların öfkesidir!"
+      },
+      {
+        "msgID": "MAP31_E_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_E_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_E_L0010",
+        "msgStr": "Yakında <COLOR 1>Ruhsuz Tanrı<COLOR 0>'nın gelişiyle Süper Asker Projesi tamamlanacak."
+      },
+      {
+        "msgID": "MAP31_E_L0011",
+        "msgStr": "Karada ve denizde ilerleyebilen, yaşayan, batmaz bir savaş gemisi..."
+      },
+      {
+        "msgID": "MAP31_E_L0012",
+        "msgStr": "Ve her türlü askerî gücü kökünden kazıyacak kadar kudretli."
+      },
+      {
+        "msgID": "MAP31_E_L0013",
+        "msgStr": "Ruhsuz Tanrı'nın vücut bulması için Kaya Daidouji ve Hiruko'lar gerekiyordu."
+      },
+      {
+        "msgID": "MAP31_E_L0014",
+        "msgStr": "Savaş gemisinin kas yapısını oluşturmak için çok sayıda Hiruko gerekiyor."
+      },
+      {
+        "msgID": "MAP31_E_L0015",
+        "msgStr": "Bu radyo kulesinden de anlayabileceğin üzere, kemiksiz Hiruko'lar bir iç iskelete hasretler."
+      },
+      {
+        "msgID": "MAP31_E_L0016",
+        "msgStr": "Öte yandan Kaya Daidouji'nin içindeki iblis ise bizzat Ruhsuz Tanrı'nın kendisinden sorumluydu."
+      },
+      {
+        "msgID": "MAP31_E_L0017",
+        "msgStr": "Normal şartlarda Taisho döneminde var olamayacak gelecek teknolojisini o sağladı."
+      },
+      {
+        "msgID": "MAP31_E_L0018",
+        "msgStr": "Evet, Daidouji lanetinin ardındaki gerçek şu ki bu \"iblis\", gelecekten gelen bir zaman yolcusudur."
+      },
+      {
+        "msgID": "MAP31_E_L0019",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP31_E_L0020",
+        "msgStr": "Sen de bizden pek farklı değilsin, İblis Çağırıcısı Raidou Kuzunoha."
+      },
+      {
+        "msgID": "MAP31_E_L0021",
+        "msgStr": "Görünmeyeni görüyor ve başkalarının sahip olmadığı bir güce hükmediyorsun."
+      },
+      {
+        "msgID": "MAP31_E_L0022",
+        "msgStr": "Ve bir gün sen de kaçınılmaz bir ihanete uğrayabilirsin."
+      },
+      {
+        "msgID": "MAP31_E_L0023",
+        "msgStr": "Sana son bir şans tanıyacağım. Hayatını nasıl yönlendireceğine şimdi karar ver."
+      },
+      {
+        "msgID": "MAP31_E_L0024",
+        "msgStr": "İnsanlık tarafından kullanılmaya devam mı edeceksin..."
+      },
+      {
+        "msgID": "MAP31_E_L0025",
+        "msgStr": "Yoksa Boyun Eğmeyenlerin haklı intikamımıza ulaşmasına yardım mı edeceksin?"
+      },
+      {
+        "msgID": "MAP31_E_L0026",
+        "msgStr": "Şimdi seç, Ondördüncü!"
+      },
+      {
+        "msgID": "MAP31_E_L0027",
+        "msgStr": "Munakata'nın yanında yer al"
+      },
+      {
+        "msgID": "MAP31_E_L0028",
+        "msgStr": "Teklifini reddet"
+      },
+      {
+        "msgID": "map31_e_EPI08_SCENE07_26_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP31_E_L0029",
+        "msgStr": "Kanma ona Raidou."
+      },
+      {
+        "msgID": "MAP31_E_L0030",
+        "msgStr": "Narumi'nin söylediklerini hatırla. Henüz tüm gerçeği bilmiyoruz."
+      },
+      {
+        "msgID": "map31_e_EPI08_SCENE07_28_002",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "MAP31_E_L0031",
+        "msgStr": "Demek \"tarihin\" yanında yer alacaksın."
+      },
+      {
+        "msgID": "MAP31_E_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_E_L0033",
+        "msgStr": "Korkarım bu seni gazabımızın hedefi yapıyor, XIV. Raidou."
+      },
+      {
+        "msgID": "MAP31_E_L0034",
+        "msgStr": "Pekâlâ. Boyun Eğmeyenlerin ruhlarını teskin edecek pek çok kurbanın ilki sen olacaksın."
+      },
+      {
+        "msgID": "MAP31_E_L0035",
+        "msgStr": "Sana veda etmeliyim..."
+      },
+      {
+        "msgID": "MAP31_E_L0036",
+        "msgStr": "Ama Başkent'in yıkımına şahit olmayacağını bilerek teselli bul!"
+      },
+      {
+        "msgID": "map31_e_EPI08_SCENE08_01_003",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "MAP31_E_L0037",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0038",
+        "msgStr": "Bravo dedektif. Beni yenmiş olmana şaşmamalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0039",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0040",
+        "msgStr": "Sanırım nihayetinde burada kalmaya karar vermem iyi olmuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0041",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0042",
+        "msgStr": "Bir rövanş yapmak isterdim... ama işverenim aksi yönde düşünüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_E_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_E_L0045",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0046",
+        "msgStr": "Ancak senin de kafana göre hareket etmene izin veremem.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0047",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0048",
+        "msgStr": "Uydunun fırlatılmasını engellersen Munakata bundan hiç hoşnut olmaz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0049",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0050",
+        "msgStr": "Ah, bu uydu meselesi seni hiç endişelendirmesin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0051",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0052",
+        "msgStr": "Ne de olsa birazdan bu dünyadan yok olup gideceksin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0053",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0054",
+        "msgStr": "Ortaya koyduğun güce bakılırsa gizli silahımı kullansam iyi olacak, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0055",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0056",
+        "msgStr": "Anlayacağın üzere, ancak sözleşmem yerine getirildiğinde paramı alabiliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP31_E_L0057",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "MAP31_E_L0058",
+        "msgStr": "Şimdi sonsuza dek kaybol!\n<lips_stop>"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/13 19:30:29"
+}

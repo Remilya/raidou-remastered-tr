@@ -1,0 +1,593 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E80X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e801_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E801_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e801_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E801_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e801_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E801_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e801_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E801_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e801_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E801_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e801_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E801_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e801_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E801_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e801_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E801_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e802_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E802_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e802_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E802_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e802_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E802_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e802_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E802_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e802_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E802_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e802_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E802_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e802_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E802_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e802_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E802_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e803_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E803_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e803_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E803_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e803_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E803_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e803_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E803_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e803_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E803_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e803_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E803_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e803_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E803_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e803_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E803_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e804_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E804_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e804_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E804_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e804_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E804_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e804_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E804_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e804_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E804_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e804_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E804_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e804_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E804_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e804_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E804_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e805_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E805_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e805_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E805_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e805_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E805_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e805_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E805_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e805_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E805_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e805_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E805_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e805_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E805_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e805_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E805_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e806_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E806_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e806_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E806_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e806_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E806_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e806_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E806_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e806_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E806_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e806_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E806_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e806_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E806_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e806_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E806_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e807_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E807_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e807_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E807_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e807_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E807_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e807_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E807_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e807_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E807_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e807_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E807_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e807_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E807_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e807_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E807_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e808_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E808_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e808_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E808_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e808_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E808_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e808_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E808_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e808_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E808_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e808_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E808_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e808_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E808_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e808_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E808_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e809_001_e601_TAE01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E809_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e809_001_e601_TAE02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E809_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e809_001_e601_NARUMI01_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E809_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e809_001_e601_TAE03_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E809_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e809_001_e601_TAE04_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E809_001_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e809_001_e601_TAE04_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E809_001_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e809_001_e601_NARUMI02_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E809_001_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e809_001_e601_TAE05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E809_001_L0007",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:40:20"
+}

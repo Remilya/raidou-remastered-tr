@@ -1,0 +1,717 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMS_TALK_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "jms_talk_JMS_ENTER_01_000",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0000",
+        "msgStr": "Hey, Raidou."
+      },
+      {
+        "msgID": "JMS_TALK_L0000_01",
+        "msgStr": "Soruşturma nasıl gidiyor?"
+      },
+      {
+        "msgID": "JMS_TALK_L0000_02",
+        "msgStr": "Nasıl gidiyor, Raidou?"
+      },
+      {
+        "msgID": "JMS_TALK_L0000_03",
+        "msgStr": "Nasıl gidiyor, Raidou?"
+      },
+      {
+        "msgID": "jms_talk_JMS_ENTER_02_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_TALK_L0001",
+        "msgStr": "> Narumi burada değil."
+      },
+      {
+        "msgID": "jms_talk_JMS_ENTER_03_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_TALK_L0002",
+        "msgStr": "> Narumi telefonda."
+      },
+      {
+        "msgID": "jms_talk_JMS_ENTER_04_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_TALK_L0003",
+        "msgStr": "> Narumi dinleniyor."
+      },
+      {
+        "msgID": "jms_talk_JMS_LEAVE_004",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0004",
+        "msgStr": "Takılırsan kapım her zaman açık."
+      },
+      {
+        "msgID": "JMS_TALK_L0004_01",
+        "msgStr": "Pekâlâ, sonra görüşürüz."
+      },
+      {
+        "msgID": "JMS_TALK_L0004_02",
+        "msgStr": "Yolun açık olsun."
+      },
+      {
+        "msgID": "JMS_TALK_L0004_03",
+        "msgStr": "Yolun açık olsun."
+      },
+      {
+        "msgID": "JMS_TALK_L0004_04",
+        "msgStr": "Yolun açık olsun."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_01_005",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0005",
+        "msgStr": "Ah, doğru ya, az kalsın unutuyordum. Al bakalım."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_02_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_TALK_L0006",
+        "msgStr": "> Raidou <COLOR 4>1.000 yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_03_007",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0008",
+        "msgStr": "O kızı aramaya başlamadan önce caddenin aşağısındaki <COLOR 1>Konnou-ya<COLOR 0>'ya bir uğra."
+      },
+      {
+        "msgID": "JMS_TALK_L0009",
+        "msgStr": "Kim bilir? İşe yarar bir şey bulabilirsin."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_04_008",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0010",
+        "msgStr": "Ne tür bir kadın öldürülmeyi ister ki? Bu işi kendi haline bırakamayız."
+      },
+      {
+        "msgID": "JMS_TALK_L0011",
+        "msgStr": "Ama içimde bu davanın bildiğimizden çok daha büyük olduğuna dair bir his var. Vay canına..."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_05_009",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0012",
+        "msgStr": "Demek kız Ouran Lisesi öğrencisi, ha?"
+      },
+      {
+        "msgID": "JMS_TALK_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0014",
+        "msgStr": "Bakalım diğer Ouran öğrencileri ne biliyor. O üniformayı giyen kızlara bak."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_06_010",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0015",
+        "msgStr": "Gözünün önünde bir kız öğrenci daha mı kaçırıldı!?"
+      },
+      {
+        "msgID": "JMS_TALK_L0016",
+        "msgStr": "Hay aksi, Raidou! Bu durum büronun itibarı için hiç iyi olmayacak, biliyorsun!"
+      },
+      {
+        "msgID": "JMS_TALK_L0017",
+        "msgStr": "Ee, İsimsiz Tapınak'a mı gidiyorsun? Elçiye benden selam söyle."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_TUIKA_011",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0018",
+        "msgStr": "Demek Rin denen kız güvende? Oh be! Sağ ol, Raidou."
+      },
+      {
+        "msgID": "JMS_TALK_L0019",
+        "msgStr": "Çok şey yaşadığını biliyorum ama konuşabilecek kadar iyi hissediyor mu bir bak."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_07_012",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0020",
+        "msgStr": "Lanet mi? Bu devirde mi?"
+      },
+      {
+        "msgID": "JMS_TALK_L0021",
+        "msgStr": "Hm, buna \"aile geleneği\" diyebilirler ama bana pek tekin gelmedi."
+      },
+      {
+        "msgID": "JMS_TALK_L0022",
+        "msgStr": "\"Uçurumda, kanı katledilmeli\"..."
+      },
+      {
+        "msgID": "JMS_TALK_L0023",
+        "msgStr": "Görünüşe göre Daidouji Malikânesi'ndeki o bodrum katına bakmak gerekiyor."
+      },
+      {
+        "msgID": "JMS_TALK_L0024",
+        "msgStr": "Bakalım sen ve iblislerin neler ortaya çıkarabileceksiniz, Raidou."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP01_08_013",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0025",
+        "msgStr": "Kiyoshi yalnız, git bak bakalım ne biliyormuş. Suç ortağından da uzak dur."
+      },
+      {
+        "msgID": "JMS_TALK_L0026",
+        "msgStr": "Ordudan biri işin içinde, ha...? Bu dava pis kokmaya başladı."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_01_014",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0027",
+        "msgStr": "Ryugu'da soruşturma yapman için sana güveniyorum. Ben şahsen gitmemeyi tercih ederim..."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_02_015",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0028",
+        "msgStr": "Eğer o çekçekçi Kiyoshi'yi tanıyorsa, nerede olabileceğini de biliyordur belki."
+      },
+      {
+        "msgID": "JMS_TALK_L0029",
+        "msgStr": "Denpachi Fukagawa-cho'da yaşıyor, ha...?"
+      },
+      {
+        "msgID": "JMS_TALK_L0030",
+        "msgStr": "Eh, şeytanın bacağını kır... tabii iş o raddeye gelirse kelimenin tam anlamıyla kır."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_05_016",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0031",
+        "msgStr": "Kanto Haguro Ailesi, güvene ve mertliğe önem veren eski bir yakuza grubudur."
+      },
+      {
+        "msgID": "JMS_TALK_L0032",
+        "msgStr": "Düzgün adamlardır. Satake'nin ne söyleyeceğini öğrenmek de işe yarayabilir."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_07_017",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0033",
+        "msgStr": "Kızı kaçıran o Özel Muhafızlar şimdi Fukagawa-cho'da mı?"
+      },
+      {
+        "msgID": "JMS_TALK_L0034",
+        "msgStr": "Ve başka birini daha mı kaçırdılar? Bunların amacı ne böyle...?"
+      },
+      {
+        "msgID": "JMS_TALK_L0035",
+        "msgStr": "Yakaladıkları adamı kurtarmaya çalış. Bir şeyler bulabilirsin."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_TUIKA02_018",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0036",
+        "msgStr": "Ha, maymuncuk mu? Eminim Konnou-ya'da vardır."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_10_019",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0037",
+        "msgStr": "Bir adamla kaçan bir kadını mı bulman gerekiyor? Hem de peşin ödeme olmadan...?"
+      },
+      {
+        "msgID": "JMS_TALK_L0038",
+        "msgStr": "Eh, Satake insanları bulmakta ustadır. Neden Daikoku-yu'ya bir bakmıyorsun?"
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_TUIKA_020",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0039",
+        "msgStr": "Tae, Kırmızı Pelerin'in dolunay sırasında Kurisu-zaka civarında göründüğünü mü söylüyor?"
+      },
+      {
+        "msgID": "JMS_TALK_L0040",
+        "msgStr": "Dolunayın sadece kurt adamlarla ilgili bir şey olduğunu sanırdım... Neyse ne."
+      },
+      {
+        "msgID": "JMS_TALK_L0041",
+        "msgStr": "Sanırım denemeye değer. Bu işi sana bırakıyorum, Raidou."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_13_021",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0042",
+        "msgStr": "Taksilere saldıran adam arkasında kanıt bırakmış, ha? Dur, bu yoksa...?"
+      },
+      {
+        "msgID": "JMS_TALK_L0043",
+        "msgStr": "Bunu Shizu'nun yerine götürür müsün? Ve Denpachi'ye bundan bahsetme."
+      },
+      {
+        "msgID": "JMS_TALK_L0044",
+        "msgStr": "Dostum, umarım içimdeki bu his yanlıştır..."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_16_022",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0045",
+        "msgStr": "Denpachi'yi kötü habere hazırlaman lazım. Etrafa bir bak bakalım onu bulabilecek misin."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_17_023",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0046",
+        "msgStr": "Raidou, çabuk Karanlık Ginza-cho'ya git ve şu Kırmızı Pelerin'in işini bitir!"
+      },
+      {
+        "msgID": "JMS_TALK_L0047",
+        "msgStr": "Daha fazla hata yapmasına izin veremeyiz."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP03_01_024",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0048",
+        "msgStr": "Git Daidouji Tekstil'i kontrol et. Kiyoshi'nin orada saklanıyor olma ihtimali yüksek."
+      },
+      {
+        "msgID": "JMS_TALK_L0048_01",
+        "msgStr": "Ha, bir de o kol düğmesini merak ediyorsan Daidouji Malikânesi'ndeki Nakamura'ya sor."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP03_02_025",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0049",
+        "msgStr": "Kiyoshi bir labirentin arkasına mı kilitlenmiş, ha? Bir tuzak için yem gibi duruyor..."
+      },
+      {
+        "msgID": "JMS_TALK_L0050",
+        "msgStr": "Ama gereken güce sahip olduğundan şüphem yok. Göster günlerini, Raidou."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP03_04_026",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0051",
+        "msgStr": "<IT_S>Üçüncü<IT_E> bir Kırmızı Pelerin mi? Eh, sanırım Tae bu konuda haklıymış."
+      },
+      {
+        "msgID": "JMS_TALK_L0052",
+        "msgStr": "Bu şeyler ardı ardına çıkmaya devam ediyor..."
+      },
+      {
+        "msgID": "JMS_TALK_L0053",
+        "msgStr": "Kötü bir şey olmadan önce Kiyoshi'ye ulaşalım."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP04_01_027",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0054",
+        "msgStr": "Harumi-cho'da ne öğrenebileceğine bir bak ama acele etme. Ağırdan al."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP04_02_028",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0055",
+        "msgStr": "Yasadışı göç, ha? Satake'ye sor. Rasputin hakkında bir şeyler biliyor olabilir."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP04_03_029",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0056",
+        "msgStr": "Demek Elfman Harumi-cho'yu ele geçirmiş?"
+      },
+      {
+        "msgID": "JMS_TALK_L0057",
+        "msgStr": "Eskiden Harada Şirketi ile ortaktı, bu yüzden Ryugu'nun sahibi onu tanıyor olmalı."
+      },
+      {
+        "msgID": "JMS_TALK_L0058",
+        "msgStr": "Orada hâlâ bir sevkiyat bekliyor olma ihtimaline karşı Harumi-cho'ya gitmeyi dene."
+      },
+      {
+        "msgID": "JMS_TALK_L0059",
+        "msgStr": "Konnou-ya batarsa fena zora düşeriz doğrusu."
+      },
+      {
+        "msgID": "JMS_TALK_L0060",
+        "msgStr": "Bu işi halletsek iyi olur. Bak bakalım ne yapabiliyorsun, Raidou."
+      },
+      {
+        "msgID": "JMS_TALK_L0061",
+        "msgStr": "Elfman Katolik kilisesine mi kapanmış, ha?"
+      },
+      {
+        "msgID": "JMS_TALK_L0062",
+        "msgStr": "Eskiden oraya gitmek için başka bir limandan tekneye binmek gerekirdi."
+      },
+      {
+        "msgID": "JMS_TALK_L0063",
+        "msgStr": "Rasputin hakkındaki tek ipucumuz o. Oraya gitmenin bir yolunu bulmalısın."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP04_10_030",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0064",
+        "msgStr": "Elfman ölmüş mü? Vay be... Sahtekâr herkesi fena kandırmış."
+      },
+      {
+        "msgID": "JMS_TALK_L0065",
+        "msgStr": "Bu sahtekârın kim olduğunu öğrenelim. Gerçek Elfman'ın intikamını almalıyız."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP07_01_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_TALK_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP07_02_032",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0067",
+        "msgStr": "Ah... Dostum, şu Deniz Kuvvetleri'ndeki adamlar çok sert..."
+      },
+      {
+        "msgID": "JMS_TALK_L0068",
+        "msgStr": "Her neyse, eğer Yatagarasu işe dahil oluyorsa..."
+      },
+      {
+        "msgID": "JMS_TALK_L0069",
+        "msgStr": "Bir şeyler yapmalıyız yoksa başımız <IT_S>gerçekten<IT_E> belaya girecek."
+      },
+      {
+        "msgID": "JMS_TALK_L0070",
+        "msgStr": "Neye bulaştıysan artık... kendine dikkat et, Raidou."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP08_01_033",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0071",
+        "msgStr": "Waden One, Harumi-cho'yu geçince Sakuradayama'nın zirvesinde."
+      },
+      {
+        "msgID": "JMS_TALK_L0072",
+        "msgStr": "Kendine dikkat et, Raidou."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP08_02_034",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0073",
+        "msgStr": "Hiruko'lar radyo kulesine mi yapışmış?"
+      },
+      {
+        "msgID": "JMS_TALK_L0074",
+        "msgStr": "Hm... Nasıl bir radyo dalgası yaydığı konusunda endişeliyim..."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP11_01_035",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0075",
+        "msgStr": "O metal yığınının gerçekten uçabileceğinden biraz şüpheliyim..."
+      },
+      {
+        "msgID": "JMS_TALK_L0076",
+        "msgStr": "Ah, boş ver. Bunun için vaktimiz yok. Elimizden geleni yapmalıyız."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP11_03_036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP12_01_037",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_TALK_L0097",
+        "msgStr": "Eh, bir müşterimiz olmadan dava üzerinde çalışmak zor olurdu."
+      },
+      {
+        "msgID": "JMS_TALK_L0098",
+        "msgStr": "Onu sağ salim geri getir, tamam mı? Her şey sana bağlı, Raidou."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_TGS_01_038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_TALK_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_talk_TAE_EP02_01_039",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_TALK_L0101",
+        "msgStr": "Umarım tembel patronunun açığını kapatabilirsin, Raidou."
+      },
+      {
+        "msgID": "JMS_TALK_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_talk_TAE_EP02_03_040",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_TALK_L0103",
+        "msgStr": "Fukagawa-cho'ya mı gidiyorsun? Orası oldukça tehlikelidir, gözünü dört aç."
+      },
+      {
+        "msgID": "JMS_TALK_L0104",
+        "msgStr": "Ha, bir de senin gibi efendi bir çocuk şehrin kuzey tarafındaki yerden uzak durmalı."
+      },
+      {
+        "msgID": "jms_talk_TAE_EP02_04_041",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_TALK_L0105",
+        "msgStr": "Okurlarımız Fukagawa-cho'yu merak ediyor. Bana bir röportaj ayarlayabilir misin dersin?"
+      },
+      {
+        "msgID": "JMS_TALK_L0106",
+        "msgStr": "Başkent yeraltı dünyasındaki önemli bir ismin günümüz toplumu hakkındaki görüşlerini almayı çok isterim."
+      },
+      {
+        "msgID": "jms_talk_TAE_EP02_05_042",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_TALK_L0107",
+        "msgStr": "O Özel Muhafızlardan uzak dur, Raidou."
+      },
+      {
+        "msgID": "JMS_TALK_L0108",
+        "msgStr": "Siz ikiniz benim en iyi haber kaynağımsınız! Kapatmak zorunda kalsaydınız ne yapardım bilmiyorum."
+      },
+      {
+        "msgID": "jms_talk_TAE_EP02_06_043",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_TALK_L0109",
+        "msgStr": "Engelsiz aşk çok romantik... ama herkesin başına gelmiyor işte."
+      },
+      {
+        "msgID": "JMS_TALK_L0110",
+        "msgStr": "Sevgiliyle kaçmak, ha...? Tıpkı filmlerdeki gibi! Çok duygusal..."
+      },
+      {
+        "msgID": "jms_talk_KONNO_EP04_01_044",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_TALK_L0111",
+        "msgStr": "Sana güveniyorum, evlat."
+      },
+      {
+        "msgID": "JMS_TALK_L0112",
+        "msgStr": "Ben hayattayken Konnou-ya'nın kapanmasına izin vermem."
+      },
+      {
+        "msgID": "jms_talk_KAYA_EP06_01_045",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_TALK_L0113",
+        "msgStr": "Ben de seninle geleceğim. İki kişi tek başına olmandan daha şanslı olacaktır."
+      },
+      {
+        "msgID": "jms_talk_RASU_EP10_01_046",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "JMS_TALK_L0114",
+        "msgStr": "Kasumidai'nin kuzeyinde yeraltı tersanesine giden gizli bir giriş var."
+      },
+      {
+        "msgID": "JMS_TALK_L0115",
+        "msgStr": "Munakata'yı durdurabileceğini mi sanıyorsun? Eh, ben sadece arkama yaslanıp gösterinin tadını çıkaracağım."
+      },
+      {
+        "msgID": "jms_talk_NARUMI_EP02_12_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_TALK_L0116",
+        "msgStr": "> Narumi şu anda telefonla meşgul ve konuşamıyor."
+      },
+      {
+        "msgID": "jms_talk_JMS_ENTER_05_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_TALK_L0117",
+        "msgStr": "> Narumi yeraltı tersanesinde..."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:40:52"
+}

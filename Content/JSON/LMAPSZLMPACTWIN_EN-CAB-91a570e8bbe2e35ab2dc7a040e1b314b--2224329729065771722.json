@@ -1,0 +1,49 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "LMAPSZLMPACTWIN_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "LMAPSZLMPACTWIN_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMAPSZLMPACTWIN_L0001",
+        "msgStr": "Sor"
+      },
+      {
+        "msgID": "LMAPSZLMPACTWIN_L0002",
+        "msgStr": "Kontrol et"
+      },
+      {
+        "msgID": "LMAPSZLMPACTWIN_L0003",
+        "msgStr": "Gir"
+      },
+      {
+        "msgID": "LMAPSZLMPACTWIN_L0004",
+        "msgStr": "Tramvaya bin"
+      },
+      {
+        "msgID": "LMAPSZLMPACTWIN_L0005",
+        "msgStr": "Tarrasque'ı çağır"
+      },
+      {
+        "msgID": "LMAPSZLMPACTWIN_L0006",
+        "msgStr": "Tarrasque'tan in"
+      },
+      {
+        "msgID": "LMAPSZLMPACTWIN_L0007",
+        "msgStr": "Tünele gir"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:29"
+}

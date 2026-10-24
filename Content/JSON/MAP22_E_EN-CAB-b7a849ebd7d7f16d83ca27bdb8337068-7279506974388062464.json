@@ -1,0 +1,265 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP22_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map22_e_EPI02_SCENE21_02_000",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "MAP22_E_L0000",
+        "msgStr": "ÇoK iLeRi GiTTiN! ŞiMdİ gErÇeEeEeKteN çOk KıZdıM!"
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE21_02_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_E_L0000_01",
+        "msgStr": "Oboroguruma mı?"
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE21_03_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_E_L0001",
+        "msgStr": "Shizu'nun kocasına saldıran bu muydu?"
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE21_04_002",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_E_L0002",
+        "msgStr": "Belki dolunay yüzündendir ama konuşarak anlaşmak pek mümkün görünmüyor."
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE21_05_003",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "MAP22_E_L0003",
+        "msgStr": "DoLuNaY aDıNa, SeNi Ezİp GeÇeCeĞiM!"
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE22_01_004",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "MAP22_E_L0004",
+        "msgStr": "YaNLıŞ aDaM mIyMıŞsIn!? BaŞtAn SöYLeSeNe O zAmAn! HeR yErİm GöÇtÜ şİmDi..."
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE22_02_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_E_L0005",
+        "msgStr": "Son zamanlarda bu bölgede birinin taksilere saldırdığını duyduk."
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE22_03_006",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "MAP22_E_L0006",
+        "msgStr": "BeN sALdIrMaM! ÖncE bAnA sALdIrDıLaR!"
+      },
+      {
+        "msgID": "MAP22_E_L0007",
+        "msgStr": "o KıRmIzI pELeRiNLİ aDaM! HeM bAnA hEm De TaKsiLeRe SaLdIrDı!"
+      },
+      {
+        "msgID": "MAP22_E_L0008",
+        "msgStr": "SeNiNkİ gİbİ pELeRiNi VaRdI aMa KıRmIzIyDı! BuNu DüŞüRdÜ!"
+      },
+      {
+        "msgID": "MAP22_E_L0009",
+        "msgStr": "GeÇeN gÜn OnU gÖrDüM! İntİkAm İçİn PeŞiNe DüŞtÜm!"
+      },
+      {
+        "msgID": "MAP22_E_L0010",
+        "msgStr": "AmA kAçTı... DüZ yOLdA oNa YeTiŞeMeDiM..."
+      },
+      {
+        "msgID": "MAP22_E_L0011",
+        "msgStr": "AaAh! NaRiN kALbİm PaRçA pİnÇiK oLdU!"
+      },
+      {
+        "msgID": "MAP22_E_L0012",
+        "msgStr": "Al ŞuNu ŞiMdİ. SaDeCe YaLnIz KaLmAk İsTiYoRuM..."
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE22_08_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_E_L0013",
+        "msgStr": "> Raidou bir <ITM_04><COLOR 4>Çekçek Topuzu<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE27_01_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_E_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_e_EPI02_SCENE27_02_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_E_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_01_TUIKA02_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_E_L0016",
+        "msgStr": "> Havada gür bir ses yankılandı."
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_01_TUIKA03_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_E_L0017",
+        "msgStr": "> Ses yavaşça kayboldu."
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_01_TUIKA04_012",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_E_L0018",
+        "msgStr": "O ses muhafıza ait olabilir."
+      },
+      {
+        "msgID": "MAP22_E_L0019",
+        "msgStr": "Görünüşe göre kasabada bir yerde bizi bekliyor."
+      },
+      {
+        "msgID": "MAP22_E_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_01_TUIKA01_013",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP22_E_L0021",
+        "msgStr": "Hey, gelmişsin! Birinin prizma için geleceğini biliyordum!"
+      },
+      {
+        "msgID": "MAP22_E_L0022",
+        "msgStr": "Ama onu gerçekten istiyorsan önce mekanıma kadar gelmen gerek!"
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_01_TUIKA05_014",
+        "msgStr": "Gizemli Ses"
+      },
+      {
+        "msgID": "MAP22_E_L0023",
+        "msgStr": "Demek başardın. Heh, fena değil. Ben Susano-o, Alev Prizması'nın muhafızıyım."
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_01_015",
+        "msgStr": "Susano-o"
+      },
+      {
+        "msgID": "MAP22_E_L0024",
+        "msgStr": "Genç olmak, tutkuyla yanıp tutuşmak demektir..."
+      },
+      {
+        "msgID": "MAP22_E_L0025",
+        "msgStr": "Buraya Yatagarasu söyledi diye mi geldin? İraden bunun için yanıp tutuşuyor mu?"
+      },
+      {
+        "msgID": "MAP22_E_L0026",
+        "msgStr": "Eh, sana kötü bir haberim var. Ben de onu koruma arzusuyla yanıp tutuşuyorum!"
+      },
+      {
+        "msgID": "MAP22_E_L0027",
+        "msgStr": "Sözlerle aram pek iyi değildir; o yüzden onu bu kadar çok istiyorsan gel de al bakalım!"
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_05_016",
+        "msgStr": "Susano-o"
+      },
+      {
+        "msgID": "MAP22_E_L0028",
+        "msgStr": "Heh, iyi gizliyorsun ama İraden gerçekten de pırıl pırıl yanıyor, ha?"
+      },
+      {
+        "msgID": "MAP22_E_L0029",
+        "msgStr": "Pekâlâ, al öyleyse. Beni yendin, artık senindir."
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_01_TUIKA06_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_E_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_07_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_E_L0031",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Alev Prizması<COLOR 0>'nı elde etti."
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_08_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_E_L0032",
+        "msgStr": "> Asil bir ses çınladı."
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_09_020",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP22_E_L0033",
+        "msgStr": "Alev Prizması'nı başarıyla elde ettin."
+      },
+      {
+        "msgID": "MAP22_E_L0034",
+        "msgStr": "Ancak kutlama yapacak vakit yok. Yanıma dön."
+      },
+      {
+        "msgID": "map22_e_EPI09_SCENE06_11_021",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP22_E_L0035",
+        "msgStr": "Üç prizmayı da elde etmeyi başardın."
+      },
+      {
+        "msgID": "MAP22_E_L0036",
+        "msgStr": "Söz verdiğim gibi, kendi zaman çizgine dönmende sana yardım edeceğim."
+      },
+      {
+        "msgID": "MAP22_E_L0037",
+        "msgStr": "Yanıma dön."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:46:25"
+}

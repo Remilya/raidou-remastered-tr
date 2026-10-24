@@ -1,0 +1,77 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_CTRLTEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_CTRLTEXT_L0000",
+        "msgStr": "<BTN_AL> veya <BTN_D> İmleci hareket ettir\n<BTN_A> Onayla/Metni ilerlet\n<BTN_B> İptal/Geri"
+      },
+      {
+        "msgID": "DBOOK_CTRLTEXT_L0004",
+        "msgStr": "Temel Bilgiler 1\n\n<INS_IMG 011>\n\n1) Mevcut seviye\n2) İblisin YP'si\n3) Raidou'nun YP'si\n4) Raidou'nun MAG'ı\n5) İblis işareti (iblis müttefikleri gösterir)\n6) İblisin mevcut eylemi\n7) İblis müttefik tepkisi\n8) Kombo sayısı ve Ruh Gücü göstergesi birikim oranı\n9) Raidou'nun mevcut eylemi (değiştirmek için <BTN_R2>)\n10) Ruh Gücü göstergesi\n11) Eşya kullanımı ve iblis davranışı\n12) Ekran dışı saldırı göstergesi\n\n\nTemel Bilgiler 2\n\n<INS_IMG 024>\n\n1) Durum rahatsızlığı ve güçlendirme/zayıflatma simgesi\n2) Düşmanın YP'si\n3) Boss'un YP'si\n4) Kalan sersemleme süresi\n5) Zayıflık kalkanı\n6) Raidou tehlike göstergesi\n7) Ruh Darbesi (<BTN_X>+<BTN_A> düğme gösterimi)\n\n\nSavaş menüsü görüntülendiğinde (<BTN_OP2>)\n\n<INS_IMG 012>\n\n1) Savaş menüsü\n\n\nTüpe alma sırasında\n\n<INS_IMG 013>\n\n1) Tüpe alma göstergesi"
+      },
+      {
+        "msgID": "DBOOK_CTRLTEXT_L0001",
+        "msgStr": "<BTN_AL> Raidou'yu hareket ettir\n<BTN_AR> Kamerayı hareket ettir\n<BTN_OP2> Savaş menüsü\n\n<BTN_Y> Hafif kılıç saldırısı\n<BTN_X> Ağır kılıç saldırısı\n<BTN_L2> Silahı hazırla (basılı tut)\n<BTN_R2> Silahı ateşle (kilitlenme sırasında doldurulan mermileri ateşler)\n\n<BTN_R2>+<BTN_X> Savaş Yeteneği 1\n<BTN_R2>+<BTN_Y> Savaş Yeteneği 2\n<BTN_R2>+<BTN_B> Savaş Yeteneği 3\n<BTN_R2>+<BTN_A> Tüpe alma sanatı (düşmanın yakınındayken)\n\n<BTN_R3> Kilitlenmeyi aç/kapat\n<BTN_R1> Kilitlenilen hedefi değiştir\n<BTN_R1>+<BTN_ARL>/<BTN_ARR> Soldaki veya sağdaki kilitlenilmiş hedefler arasında geçiş yap\n<BTN_R1>+<BTN_ARU> Ekrandaki en uzak kilitlenilmiş hedefe geç\n<BTN_R1>+<BTN_ARD> Ekrandaki en yakın kilitlenilmiş hedefe geç\n\n<BTN_A> Geriye kaçınma\n<BTN_AL>+<BTN_A> Yuvarlanarak kaçınma (hareket yönünde)\n<BTN_AL>(düşman yönünde)+<BTN_A>(kaçınma) İblis Aldatmacası\n<BTN_B> Zıpla\n<BTN_L1> Savunma\n\n<BTN_DU> Eşya\n<BTN_OP1> Mistik Göz\n\n<BTN_Y>+<BTN_B> İblis Felaketi (komut belirdiğinde)*\n\n<BTN_X>+<BTN_A> Ruh Darbesi (Ruh Gücü göstergesi dolduğunda)*\n\n*Yalnızca belirli koşullar altında mümkündür"
+      },
+      {
+        "msgID": "DBOOK_CTRLTEXT_L0002",
+        "msgStr": "Temel iblis kontrolleri\n<BTN_DL> İblis 1 yetenek kullanım davranışı\n<BTN_DR> İblis 2 yetenek kullanım davranışı\n<BTN_L3> Korumaya almayı aç/kapat\n<BTN_OP2> <COLOR 1>Komut<COLOR 0>\n<BTN_DD> İblis çağır/geri döndür"
+      },
+      {
+        "msgID": "DBOOK_CTRLTEXT_L0005",
+        "msgStr": "Temel Bilgiler\n\n<INS_IMG 014>\n\n1) Mevcut ay evresi\n2) Mevcut konum adı\n3) Mini harita (sonraki hedef)\n4) Eylem penceresi\n5) Konuşma işareti\n\nSoruşturma menüsü (<BTN_OP2>)\n\n<INS_IMG 015>\n\n1) Sonraki hedef\n2) Soruşturma menüsü"
+      },
+      {
+        "msgID": "DBOOK_CTRLTEXT_L0003",
+        "msgStr": "<BTN_AL> Raidou'yu hareket ettir/iblisi hareket ettir (tekil soruşturma)\n<BTN_R2> Koş (hareket ederken basılı tut)\n<BTN_L3> Koş (hareket ederken bir kez bas)\n\n<BTN_AR> Kamerayı hareket ettir (yalnızca belirli bölgelerde)\n\n<BTN_A> Bağlamsal eylemi gerçekleştir\n<BTN_B> Bağlamsal Soruşturma Yeteneğini gerçekleştir\n\n<BTN_OP2> Soruşturma menüsü\n<BTN_X> Ana menü\n\n<BTN_R3> Kayıt\n<BTN_OP1> Harita*\n<BTN_L1> Ekspres tramvay*\n\n*Yalnızca belirli koşullar altında mümkündür"
+      },
+      {
+        "msgID": "DBOOK_CTRLTEXT_L0006",
+        "msgStr": "Raidou\n\n<INS_IMG 016>\n\n1) Unvan\n2) Gerçek isim\n3) Mevcut seviye\n4) Mevcut YP/Maks. YP\n5) Mevcut MAG/Maks. MAG\n6) Sonraki seviyeye kalan TP\n7) Kazanılan toplam Sadakat\n8) Element yakınlıkları [Normal, Zayıf (sersemletmesiz),\nZayıf (sersemletmeli), Dirençli, Yok Sayar, Emer]\n  (Soldan sağa)\n  Fiziksel saldırılara karşı yakınlık\n  Silah saldırılarına karşı yakınlık\n  Ateş saldırılarına karşı yakınlık\n  Buz saldırılarına karşı yakınlık\n  Elektrik saldırılarına karşı yakınlık\n  Güç saldırılarına karşı yakınlık\n  Ölüm saldırılarına karşı yakınlık\n  Zihin saldırılarına karşı yakınlık\n  Mutlak saldırılara karşı yakınlık\n9) İstatistikler\n  Kuvvet: Kılıç saldırıları, iblislerin temel saldırıları ve bazı yetenekler dahil fiziksel saldırıların hasarını etkiler\n  Büyü: Büyü saldırılarının hasarını ve büyü savunmasını etkiler, ayrıca Raidou'nun iblislerinin niteliklerini güçlendirir\n  Canlılık: Maks. YP'yi ve fiziksel savunmayı etkiler\n  Şans: Kritik vuruş oranı ve durum rahatsızlıklarına yakalanma ihtimali dahil çeşitli faktörleri etkiler\n10) Kuşanılan kılıç/Savaş Yetenekleri/Kılıç Yetenekleri (geçiş yapmak için <BTN_R1> veya <BTN_L1>)\n11) Görüntüleme Modu (<BTN_R3>)\n\n\nİblisler\n\n<INS_IMG 017>\n\n1) Düzen\n2) İsim\n3) Mevcut Sadakat\n4) Savaş Yetenekleri/Pasif Yetenekler/Soruşturma Yetenekleri (geçiş yapmak için <BTN_R1> veya <BTN_L1>)\n5) Seviye atlandığında öğrenilecek Savaş Yeteneği\n\nDiğer tüm bilgiler Raidou ile aynı şekilde gösterilir."
+      },
+      {
+        "msgID": "DBOOK_CTRLTEXT_L0007",
+        "msgStr": "<BST_06>\nÖlüm. Bir müttefikin YP'sinin 0'a ulaştığını gösterir. Ölü iblisler çağrılamaz ve Raidou'nun ölümü oyunun sona ermesiyle sonuçlanır. Savaştan sonra da devam eder. Goumaden, Narumi Dedektiflik Bürosu veya Nakisawame'de tedavi edilebilir. Ayrıca Jin Dan veya Yaşam Merhemi gibi eşyalarla ya da Recarm gibi Savaş Yetenekleriyle tedavi edilebilir.\n\n<BST_09>\nMühür. İblis çağırmayı engeller. Bir iblis mühürlendiğinde bir süreliğine çağrılamaz. Raidou mühürlendiğinde hiçbir iblisi çağıramaz. Savaş bitene kadar etkisi geçmez.\n\n<BST_07>\nTaşlaşma. Fiziksel saldırılarla vurulduğunda parçalanarak ölme ihtimali vardır. Taşlaşma Karşıtı veya Savaş Yeteneği Patra ile tedavi edilebilir. Savaştan sonra kendiliğinden geçer.\n\n<BST_08>\nBüyülenme. Birinin düşman tarafından büyülendiğini gösterir. İblislerin öngörülemez bir eylemde bulunma ihtimali vardır. Raidou'nun ise hareket edememe ihtimali vardır. Zihin Karşıtı veya Savaş Yeteneği Patra ile tedavi edilebilir. Savaştan sonra kendiliğinden geçer.\n\n<BST_10>\nKafa Karışıklığı. İblislerin öngörülemez bir eylemde bulunma ihtimali vardır. Raidou'nun hareket yönleri geçici olarak tersine döner. Zihin Karşıtı veya Savaş Yeteneği Patra ile tedavi edilebilir. Savaştan sonra kendiliğinden geçer.\n\n<BST_11>\nÖfke. Kontrol edilemeyen bir hiddeti gösterir. Verilen hasarı 1,5 kat artırır ancak alınan hasarı ikiye katlar. Zihin Karşıtı veya Savaş Yeteneği Patra ile tedavi edilebilir. Savaştan sonra kendiliğinden geçer.\n\n<BST_04>\nSusturma. Büyü kullanılamayacağını gösterir. Savaş Yetenekleri geçici olarak kullanılamaz hale gelir. Raidou ayrıca geçici olarak iblislerine komut veremez veya Ruh Darbesi kullanamaz. Susturma Karşıtı veya Savaş Yeteneği Patra ile tedavi edilebilir. Savaştan sonra kendiliğinden geçer.\n\n<BST_02>\nZehir. Belirli aralıklarla hasar alınır. Zehir Karşıtı veya Savaş Yeteneği Patra ile tedavi edilebilir. Savaştan sonra kendiliğinden geçer.\n\n<BST_01>\nUyku. Geçici olarak eylemde bulunmayı engeller. Belirli aralıklarla az miktarda YP yeniler. Uyurken saldırı almak kesin kritik vuruşla sonuçlanır. Zihin Karşıtı veya Savaş Yeteneği Patra ile tedavi edilebilir. Savaştan sonra kendiliğinden geçer.\n\n<BST_05>\nSersemleme. Geçici olarak hareket edilemez. Zihin Karşıtı veya Savaş Yeteneği Patra ile tedavi edilebilir. Savaştan sonra kendiliğinden geçer.\n\n<BST_14>\nBağlanma. Zayıf noktaya vurulduğunda geçici olarak sersemletir.\n\n<BST_18>\nYanma. Bir müttefikin alev aldığını gösterir. Zayıf noktaya vurulduğunda geçici olarak sersemletir.\n\n<BST_15>\nDonma. Bir müttefikin donduğunu gösterir. Zayıf noktaya vurulduğunda geçici olarak sersemletir.\n\n<BST_16>\nŞok. Bir müttefikin elektrik şokuna kapıldığını gösterir. Zayıf noktaya vurulduğunda geçici olarak sersemletir.\n\n<BST_17>\nEngelleme. Bir müttefikin rüzgâr basıncıyla kıstırıldığını gösterir. Zayıf noktaya vurulduğunda geçici olarak sersemletir.\n\n<BST_19>\nŞevk. Verilen hasar artar ve alınan hasar azalır. Raidou'nun Çağırıcı Yeteneklerinden biriyle etkinleştirilir. Etkisi sürerken bazı istisnalar dışında diğer durum rahatsızlıklarını geçersiz kılar."
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/24 21:33:42"
+}

@@ -1,0 +1,197 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_DITECT04_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_DITECT04_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0002",
+        "msgStr": "Kökleri Meiji Restorasyonu öncesine dayanan varlıklı bir aile. Malikâneleri Yarai-ku tepelerinde yer alır ve tüm Başkent manzarasına hâkimdir. Mülkte ayrıca pek çok hizmetkâr çalışmaktadır.\n\nDaidouji ailesi çeşitli ticari faaliyetler yürütür ve o kadar olağanüstü bir öngörüye sahiptir ki rakiplerinin onlara yetişme şansı bile olmamıştır. Emsallerinin boy ölçüşemediği ileri teknolojiler geliştirmeleri sayesinde pazar ve servet üzerinde tekel kurmuşlardır. Ailenin \"lanetli\" olduğuna dair bir söylenti dolaşmaktadır; gerçi bu sadece onların servetini kıskanan eski ailelerin çıkardığı bir propaganda da olabilir.\n\nAile armaları kırlangıçkuyruk kelebeğidir. Evin şu anki reisi, Kaya Daidouji'nin babası olan Takeshi Daidouji'dir. Bu sıfatla ailenin temel ticari faaliyetlerini yürütür. Şu anda hastadır ve durumunun oldukça vahim olduğu bildirilmektedir.\n\nDaidouji ailesinde nesilden nesile aktarıldığı söylenen bir şarkı vardır: \"Anne, baba—aralarında toprak. İblisin kanı yeniden bütünlenecek. Uçurumda kanı katledilecek.\"\n\n<U_COLOR 1>Söylenenlere göre Daidouji ailesinin tüm kızları on altı yaşına girdiklerinde \"bir iblis tarafından ele geçirilir.\" Kızlar \"ele geçirildikten\" sonra görünüşe göre yeraltındaki bir hapishanede tutuluyor ve sonunda öldürülüyorlar.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0003",
+        "msgStr": "Doğum yılı: 1915 / Yaş: 15 / Meslek: Ouran Lisesi dördüncü sınıf öğrencisi / Boy: Yaklaşık 155cm / Kilo: Yaklaşık 42kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Kâhya Nakamura'nın hazırladığı özel puding\n\nİblisler tarafından kaçırılmadan önce ardında \"Beni öldürmenizi istiyorum\" sözlerini bırakan bir kız. Mevcut davamızın merkezindeki isim ve bir o kadar da gizemli biri.\n\nBaşkent'teki varlıklı Daidouji ailesine mensuptur ve ailenin reisi Takeshi Daidouji'nin tek kızıdır.\n\nSaf kalpli bir kıza benziyor. Ne yazık ki bir şeyden dolayı büyük bir sıkıntı içinde olduğu anlaşılıyor. Kaçırılmadan hemen önce tuhaf bir şey daha söyledi: \"Neredeyse on altı yaşıma girdim.\"\n\nKaya'nın esrarengiz sözlerinin arkasındaki anlamı çözdük. Sınıf arkadaşı Rin'e göre (ki bu bilgiyi daha önce bizzat Kaya'dan öğrenmiş), Daidouji ailesinin kızları on altı yaşına girdiklerinde bir iblis tarafından ele geçirildikleri bir lanetten muzdaripmiş.\n\nBununla bağlantılı olarak Kaya görünüşe göre kendi kendine şu şarkıyı söylüyormuş: \"Anne, baba—aralarında toprak. İblisin kanı yeniden bütünlenecek. Uçurumda kanı katledilecek.\" Rin, şarkıda bahsedilen \"uçurumun\" Daidouji Malikânesi'nin bodrum katını ifade ettiğinden şüpheleniyor.\n\n<U_COLOR 1>Görünüşe göre Rin'in şüpheleri haklıymış—anlaşılan Kaya, Daidouji Malikânesi'nin altındaki bir hapishanede tutuluyormuş. Geride bıraktığı günlüğe göre amcası Kiyoshi Daidouji ve malikâne çalışanları onun hapsedilmesinde rol oynamış.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0005",
+        "msgStr": "Doğum yılı: 1888 / Yaş: 42 / Meslek: İş insanı / Boy: 169cm / Kilo: 75kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Beyaz balık tempurası / İdeal partner: (şimdi bunu araştırmanın sırası değil) / İlgi alanları: Aileye ait fabrikanın zor durumu, yeğeni Kaya (onun hakkında belli ettiğinden daha fazlasını biliyor olabilir)\n\nŞu anda kayıp olan Kaya Daidouji'nin amcası ve Daidouji ailesinin reisi Takeshi'nin küçük kardeşi. Daidouji Tekstil fabrikasını işletiyor. Yeterince iyi huylu görünüyor ama tamamen güvenilir olmayabilir.\n\nFabrikayla ilgili giderek artan bir borç batağına saplanıyor gibi görünüyor. Ve Kaya'nın günlüğü olduğuna inandığımız deftere göre son zamanlarda her zamanki iyi huylu halinden eser yokmuş; telefonda sesini yükseltip duruyormuş.\n\nAyrıca Kiyoshi'nin Kaya'nın kaçırılmasında parmağı olduğu da aşikâr görünüyor. Buna ek olarak Kiyoshi ordudan biriyle bağlantılı gibi duruyor.\n\nKiyoshi genç yaşlardan beri her zaman kendisinden daha yetenekli olan ağabeyiyle kıyaslanmış. Sonuç olarak, bugün bile yakasını bırakmadığı belli olan bir aşağılık kompleksi geliştirmiş.\n\nKendini kanıtlama çabasıyla fabrikayı ağabeyinin yardımı olmadan işletmeye çalıştı. Ancak o dönemdeki makineleşme ve seri üretim dalgasına kapıldı ve fabrika sonunda kapanmak zorunda kaldı.\n\nKiyoshi'ye arkasından sık sık \"beceriksiz Daidouji\" deniyor. Nazik ve düşünceli biri olmasına rağmen başkaları onu sadece kararsız biri olarak görme eğiliminde. Bu kadar acı çekmesine şaşmamalı. (Kültürümüzün dürüst insanları aptal yerine koymakta ısrar eden yönlerinden nefret ediyorum.)\n\n<U_COLOR 1>İçinde bulunduğu duruma daha fazla dayanamayan Kiyoshi bir Kırmızı Pelerin'e dönüştü. Ancak Raidou'nun yardımı ve fabrikasındaki işçilerin cesaretlendirmesiyle Ruh Gücü'nü geri kazandı ve insan formuna döndü.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0010",
+        "msgStr": "Doğum yılı: 1870 civarı, ancak detaylar belirsiz / Yaş: Bilinmiyor (söylenenlere göre birkaç yıl önce 47 yaşında ölmüş) / Meslek: Karanlık Çağırıcı / Boy: 187cm / Kilo: 230kg (bir makine olduğunu öğrendikten sonra şimdi daha mantıklı geliyor) / İkamet: Bilinmiyor / En sevdiği yemek: Votka / İdeal partner: Herhangi bir güzel kadın (ne çapkın ama...) / İlgi alanları: \"Dünyevi\" zevkler (...ve aşağılık biri) / Özel not: Geçmişte birkaç kez suikasta uğradığı ve her seferinde hayata döndüğü söyleniyor (bu da şimdi daha mantıklı geliyor).\n\n1916 yılında suikasta kurban gittiği bildirilen yabancı bir keşiş. Kendisi bir Karanlık Çağırıcıdır; bu nedenle belirli bir örgüte mensup olmak yerine yeteneklerini kiralık Çağırıcı olarak sunar.\n\nTüp kullanmak yerine iblisleri Matryoshka (Ölüm Matryoshkaları olarak da bilinir) adlı büyülü araçlarla hapseder ve çağırır. Ayrıca Qi Men Dun Jia'ya dayanan ve başa çıkması tam bir baş belası olan Matris Labirenti adlı bir illüzyon yaratmıştır. Dikkat çeken özellikleri arasında kendine has konuşma tarzı ve sığ, yozlaşmış doğası yer alır.\n\n<U_COLOR 1>Başlangıçta Başkent'te o zamanki işvereni Munakata'nın emriyle faaliyet gösteriyordu ve dolayısıyla Süper Asker Projesi ile bağlantılıydı.\n\nİnsan gibi görünse de aslında gelecekteki sözde bir otorite tarafından geçmişe (Taisho 20) gönderilmiş bir androiddir (yalnızca insan gibi görünen bir makine). Rasputin'in birden fazla suikast girişiminin ardından defalarca dirildiğinin söylenmesinin nedeni, en baştan beri hiç insan olmamasıydı. Kısacası Rasputin, otomatik bir iblis çağırma tertibatıdır.\n\nRasputin, bir \"tarihsel anomaliyi\" düzeltme göreviyle geçmişe gönderilmiştir. Gelecekte otoritelerin kendi yönetimlerini korumak adına geçmişe ve diğer zaman çizgilerine müdahale etmesi yaygın bir durumdur (insanlığın doymak bilmez güç açlığı düşünülürse işin o noktaya varacağını hep tahmin etmiştim). Ancak gelecek dünyanın bakış açısından Taisho 20'nin varlığı, beklenen sonuçtan sapan bir durumdur—başka bir deyişle, bir anomalinin ürünüdür. Gelecekteki insanlar için bu, düzeltilmesi gereken istenmeyen bir durum olarak kabul edilir. Görünüşe göre bu spesifik anomalinin kaynağı, kendisi de gelecekten gelen ve Kaya Daidouji'yi ele geçiren iblistir.\n\nKonudan sapmamız bir yana, Rasputin daha önce kabul ettiği talepleri (bu vakada kendi orijinal zaman çizgisindeki müşterisinden gelen talep gibi) yerine getirmek de dahil olmak üzere ilgisini çekmeyen her türlü faaliyeti yarıda bırakmaktadır. Bu da neden artık Munakata ile bağlantılı görünmediğini açıklıyor. Şu an itibarıyla sadece Başkent'te tatilinin keyfini çıkarıyor.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0011",
+        "msgStr": "*Bilgiler kısmen Sadakichi'nin dosyalarından alınmıştır\nDoğum yılı: 1884 / Yaş: 46 / Meslek: İmparatorluk Ordusu Tümgenerali / Boy: 172cm / Kilo: 73kg / İkamet: Orduyla bağlantılı bir tesiste kaldığı bildiriliyor ancak doğrulanmadı / En sevdiği yemek: Eşinin ev yemekleri / İdeal partner: Zaten evli (ayrı bir ideal partner hayal etmesi aile hayatına zarar verirdi) / İlgi alanları: Ulusu güçlendirmek olmalı\n\nMesafeli ama kararlı bir tavra sahip Ordu Tümgenerali.\n\nDünya genelinde artan gerilimler anavatanı için duyduğu endişeyi körükledi ve bu nedenle süper savaş gemileri, süper tanklar ve süper lazerler gibi şüphesiz \"süper\" olan pek çok teçhizatın üretilmesini öngören Süper Asker ordusunu kurma planlarını tasarladı.\n\nAdam pek çok söylentinin merkezinde yer alıyor. Bunlar arasında sözde büyü bilgisi, tehditkâr bir asker birliği üzerindeki görünürdeki komutası ve Süper Asker Projesi'nin gerçekleşmesini engelleyebilecek herkesi gizlice ortadan kaldırma niyeti yer alıyor.\n\nMunakata'yı tanıyan pek çok kişi, onun eskisine kıyasla çarpıcı biçimde farklı bir insan olduğu konusunda hemfikir görünüyor. Görünüşe göre eskiden adamlarına değer veren güvenilir biriymiş. Ancak bir gün kişiliği aniden değişmiş. Ayrıca konuşurken ağzını eliyle kapatmak gibi alışılmadık bir huy edinmiş.\n\n<U_COLOR 1>Görünüşe göre Süper Asker Projesi \"süper\" teknolojinin gücünü gerektirdiği için Kaya Daidouji'yi kaçırtmış. Detaylar şu anda soruşturuluyor.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0027",
+        "msgStr": "Bu davanın arkasındaki gerçek suçlu.\n\nKuzunoha klanından bir İblis Çağırıcısı olduğuna ve Raidou XL adını aldığına dair bizzat tanıklık etti (hatta On Dördüncü'ye \"büyük selefim\" diye hitap etti. Ne kadar sefilce...).\n\nMotivasyonu, Kırkıncı'nın yaşadığı gelecek dünyayı nihai olarak değiştirmek (veya nereden baktığınıza bağlı olarak yok etmek) amacıyla geçmişi değiştirmek gibi görünüyor. Akarana Koridoru aracılığıyla Raidou XL'in anıları Kaya Daidouji'ye kopyalandı. Sonuç olarak Kırkıncı, Taisho dönemine \"kopyalandı\" ve Munakata'nın Süper Asker Projesi bu gizli gündeme hizmet edecek şekilde ele geçirilip değiştirildi.\n\nŞimdilik sana savaşa odaklanmanı tavsiye ederim, Raidou. Dikkat dağıtıcı unsurları en aza indirmek için bu günlüğü sık sık gözden geçirmemeye çalışacağım.\n\nAma endişelenme—Raidou Kuzunoha XL ile ilgili bu meselenin net bir kaydını tutacağımdan emin olabilirsin. Bu dava çözüldüğünde kaydettiğim bilgiler kontrol etmen (hatta belki bizzat gözden geçirmen, gerçi şimdilik bunu bir kenara bırakalım) için burada olmaya devam edecek.\n\nNot: 21. yüzyılda bir Tanrı ve hizmetkârları Başkent'i ele geçirir. İnsanlar kasıtlı bir cehalete sürüklenir ve görünüşe göre tek çözüm o \"bugünü\" yok etmektir.\n\nAnıları başkalarına kopyalama tekniği, Daidouji ailesinin tüm nesillerindeki kızlar üzerinde eşzamanlı olarak uygulandı. Zamana yapılan bu müdahalenin sonucu, Taisho döneminin yirminci yılına kadar devam etmesi de dahil olmak üzere tarihin çarpıtılması oldu.\n\n<U_COLOR 1>Sukuna-Hikona, Kırkıncı'nın iblislerinden biridir. Süper Asker Projesi'ni harekete geçirmek üzere Munakata'yı ele geçirmesi ve Kırkıncı'nın anılarının Kaya'ya kopyalanmasını tamamlamak amacıyla onu kaçırması için gönderilmiştir.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0028",
+        "msgStr": "Yarai-ku, Tsukudo-cho'da bulunan bir köprü.\n\nKendisiyle bağlantılı anormal olayların sıklığı nedeniyle sürekli dedikodu konusudur. Özellikle kadim zamanlardan beri köprüyü ziyaret eden insanların aniden ortadan kaybolduğuna ve kayıp insanların yeniden ortaya çıktığına dair raporlar vardır. Aynı zamanda o gizemli kızın kırmızı Özel Muhafızlar tarafından kaçırıldığı yerdir.\n\nDaha sonra Raidou ve ben Rasputin'in saldırısına yakalandık ve alternatif bir zaman çizgisine gönderildik; orada gözümüzü Ushigome-Gaeri Köprüsü'nde açtık (gerçi başka bir zaman çizgisinde olduğu için teknik olarak farklı bir köprüydü). Aynı zamanda eve döndüğümüzde kendimizi bulduğumuz yer de burasıydı (yani kendimizi orijinal zaman çizgimizin Ushigome-Gaeri Köprüsü'nde bulduk).\n\nDiğer zaman çizgisindeki Yatagarasu Elçisi'ne göre Ushigome-Gaeri Köprüsü, gerçek dünya ile Karanlık Diyar arasında bir tür sınır görevi gördüğü için büyü yapmak adına uygun bir mekandır.\n\nAyrıca Ushigome-Gaeri Köprüsü, Kaya Daidouji'yi ele geçiren kişiyi (Raidou Kuzunoha XL) Akarana Koridoru (bkz. Akarana Koridoru maddesi) boyunca takip etmek için Amatsu Kanagi'yi kullandığımız yer olarak da işlev gördü. Amatsu Kanagi, Karanlık Diyar'ın Ushigome-Gaeri Köprüsü'nde gerçekleşen Ruh Gönderme Ritüeli'ni (bkz. Ruh Gönderme Ritüeli maddesi) yapmak için kullanıldı. Sanırım köprünün Karanlık Diyar'daki versiyonu bile insanların ortadan kaybolmasına ve yeniden ortaya çıkmasına neden olma şöhretini koruyor.\n\n<U_COLOR 1>Küçük bir not olarak, Goto kendi zaman çizgisinden bizimkine geçmişti; ancak Süper Asker davası çözüldükten sonra Raidou (yani benim Raidou'm) onu orijinal zaman çizgisine geri döndürmek için (her zamanki gibi Ushigome-Gaeri Köprüsü'nde) Ruh Gönderme Ritüeli'ni gerçekleştirdi. İtiraf etmeliyim ki onsuz burası şaşırtıcı derecede ıssız geliyor.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT04_L0044",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:27:46"
+}

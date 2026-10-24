@@ -1,0 +1,109 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "NWD_SYS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "NWD_SYS_L0000",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "NWD_SYS_L0001",
+        "msgStr": "Hayır."
+      },
+      {
+        "msgID": "NWD_SYS_L0002",
+        "msgStr": "Hoş geldiniz Bay Kuzunoha. İşler nasıl?"
+      },
+      {
+        "msgID": "NWD_SYS_L0003",
+        "msgStr": "Hoş geldiniz Bay Kuzunoha."
+      },
+      {
+        "msgID": "NWD_SYS_L0004",
+        "msgStr": "Hakkınızda pek çok şey duydum. Görünüşe göre harika iş çıkarıyorsunuz."
+      },
+      {
+        "msgID": "NWD_SYS_L0005",
+        "msgStr": "Hoş geldiniz Bay Kuzunoha."
+      },
+      {
+        "msgID": "NWD_SYS_L0006",
+        "msgStr": "Sizi misafirimiz olarak ağırlamaktan onur duyarım. Lütfen buyurun, oturun."
+      },
+      {
+        "msgID": "NWD_SYS_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0009",
+        "msgStr": "Başka bir arzunuz var mıydı?"
+      },
+      {
+        "msgID": "NWD_SYS_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_SYS_L0018",
+        "msgStr": "İhtiyacınız olduğunda her zaman bekleriz!"
+      },
+      {
+        "msgID": "NWD_SYS_L0019",
+        "msgStr": "Shin-Sekai, Başkent'te Çağırıcılara hizmet veren tek dükkândır."
+      },
+      {
+        "msgID": "NWD_SYS_L0020",
+        "msgStr": "Bizi tercih etmeye devam ettiğiniz için teşekkür ederiz Bay Kuzunoha."
+      },
+      {
+        "msgID": "NWD_SYS_L0021",
+        "msgStr": "Çok teşekkür ederiz."
+      },
+      {
+        "msgID": "NWD_SYS_L0022",
+        "msgStr": "Minnettarlığımı göstermek için yeni bir gazoz hazırladım. Denemeye ne dersiniz?"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:41:34"
+}

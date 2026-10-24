@@ -1,0 +1,105 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_RENKEN_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_RENKEN_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0003",
+        "msgStr": "Mevcut"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0004",
+        "msgStr": "Malzemeler"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0005",
+        "msgStr": "Gerekli"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0007",
+        "msgStr": "Yeni"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0008",
+        "msgStr": "Maliyet"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0009",
+        "msgStr": "Önizleme"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0010",
+        "msgStr": "Öğrenilen Kılıç Yetenekleri: <V 0>"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0011",
+        "msgStr": "Gereksinimler"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0012",
+        "msgStr": "Kılıç Bilgisi"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0013",
+        "msgStr": "Yetenek"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0014",
+        "msgStr": "Bilinmiyor"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0015",
+        "msgStr": "Kılıçlar"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0016",
+        "msgStr": "Mızraklar"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0017",
+        "msgStr": "Baltalar"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0018",
+        "msgStr": "Özel"
+      },
+      {
+        "msgID": "GOH_RENKEN_L0019",
+        "msgStr": "[Öğrenilen Savaş Yeteneği: <V 0>]  "
+      },
+      {
+        "msgID": "GOH_RENKEN_L0020",
+        "msgStr": "[Savaş Yeteneği]  "
+      },
+      {
+        "msgID": "GOH_RENKEN_L0021",
+        "msgStr": "[Kılıç Yeteneği]  "
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:25"
+}

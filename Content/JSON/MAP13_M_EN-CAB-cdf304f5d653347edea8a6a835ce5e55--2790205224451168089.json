@@ -1,0 +1,3409 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP13_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map13_m_mplan_ep13_modoru_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0000",
+        "msgStr": "> Karanlık Tsukudo-cho'ya dönülsün mü?"
+      },
+      {
+        "msgID": "MAP13_M_L0001",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP13_M_L0002",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_all_OK_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0003",
+        "msgStr": "> Uzamsal çarpıklık zayıflıyor..."
+      },
+      {
+        "msgID": "MAP13_M_L0004",
+        "msgStr": "> İlerlensin mi?"
+      },
+      {
+        "msgID": "MAP13_M_L0005",
+        "msgStr": "İçeri göz at"
+      },
+      {
+        "msgID": "MAP13_M_L0006",
+        "msgStr": "İncele"
+      },
+      {
+        "msgID": "MAP13_M_L0007",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_all_siraberu00_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0008",
+        "msgStr": "> Hiçlikten geliyor gibi görünen bir ses duyuluyor..."
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_all_siraberu_koe_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_all_siraberu_koe2_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_all_siraberu_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_all_kari_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_all_kari2_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_all_siraberu02_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_A_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_A_02_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_A_03_011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_A_nakama_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_A_nakamadame_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_A_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_B_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_B_02_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_B_03_017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_B_nakama_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_B_nakamadame_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_B_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_C_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_C_02_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_C_03_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_C_nakama_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_C_nakamadame_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_C_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_D_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_D_02_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_D_03_029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_D_nakama_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_D_nakamadame_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_D_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_E_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_E_02_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_E_03_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_E_nakama_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_E_nakamadame_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_E_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_F_039",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_F_02_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_F_03_041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_F_nakama_042",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_F_nakamadame_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_F_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_G_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_G_02_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_G_03_047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_G_nakama_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_G_nakamadame_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_G_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_H_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_H_02_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_H_03_053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_H_nakama_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_H_nakamadame_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_H_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_I_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_I_02_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_I_03_059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_I_nakama_060",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_yugami_I_nakamadame_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_uzu_I_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_tsuuro_dame_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_tsuuro_dame2_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_tsuuro_OK_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_tsuuro_OK2_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_tsuuro_kari_067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_tsuuro_modoru_068",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_akuma_dame_069",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_hito_dame_070",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0138",
+        "msgStr": "> İnsanların içinden geçemeyeceği bir duvar."
+      },
+      {
+        "msgID": "MAP13_M_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_otakara_kari_071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc_kari_072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_SAVE_073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_GOAL_074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_akumakairou01_075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_akumakairou02_12_076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_akumakairou02_13_077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_akumakairou02_14_078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_akumakairou02_15_079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_akumakairou03_080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_houmotuko_kari_081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc01_082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc01_02_083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc01_03_084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc02_085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc02_02_086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc02_03_087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc03_088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc03_02_089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc04_090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc04_02_091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc04_03_092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc04_04_093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc05_094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc05_00_095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_npc05_02_096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_HINT_097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_exit_dame_098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_exit_ok_099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0221",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0222",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_exit_dame_a_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0223",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_hairu_101",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_r_01_102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0226",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_l_01_103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0227",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_l_02_104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0228",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_l_03_105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0229",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_c_01_106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0230",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_EN_01_107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0231",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_SUI_01_108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_RAI_01_109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_other_01_110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_nakama_01_111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_raidou_01_112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0236",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_ok_113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0237",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_ok_01_114",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_ox_115",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0239",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0240",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_x_116",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0241",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_xx_117",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0242",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_xxx_118",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0243",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou_gole_119",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0244",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou2_gole_120",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0245",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_kairou3_gole_121",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0246",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_houmotuko_01_122",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0247",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0248",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0252",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_houmotu_a_01_123",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0253",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0254",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_houmotu_a_02_124",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0255",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0256",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_houmotu_b_01_125",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0257",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0258",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_houmotu_b_02_126",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0259",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0260",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_houmotu_b_03_127",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0261",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0262",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_houmotu_c_01_128",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0263",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0264",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_houmotu_c_02_129",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0265",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0266",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_msg_ep12_boss_win_130",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0267",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_hinto_13f_131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0268",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0269",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0270",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_hinto_15f_132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0271",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0272",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0273",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_01_133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0274",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_01_01_134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0275",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_02_135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_02_01_136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0277",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_03_137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0278",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_04_138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0279",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0280",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0281",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_04_01_139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0282",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_05_140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0283",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_05_01_141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0284",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_05_02_142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0285",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_05_03_143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0286",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0287",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0288",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0289",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_05_04_144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0290",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_06_145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0291",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0292",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0293",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0294",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0295",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0296",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_06_01_146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0297",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0298",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_mplan_ep13_a_kaiwa_07_147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0299",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0300",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_NotMove01_148",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0301",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP13_M_L0302",
+        "msgStr": "> Hiçbir şey olmadı..."
+      },
+      {
+        "msgID": "map13_m_m_Loop_Astkari01_149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0303",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_Astkari02_150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0304",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_Astkari03_151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0305",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_Ast01_01_152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0306",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_Ast01_02_153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0307",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_Ast01_02s SEL_154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0308",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0309",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0310",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0311",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_Ast01_01a_155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0312",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0313",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0314",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0315",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0316",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_Ast01_01b_156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0317",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_Ast01_01c_157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0318",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0319",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0320",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_AstHint01_01_158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0321",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0322",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0323",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0324",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0325",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0326",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_AstHint01_02_159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0327",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0328",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_AstHint02_01_160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0329",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0330",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0331",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0332",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_AstHint02_02_161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0333",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0334",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_AstHint03_01_162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0335",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0336",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0337",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0338",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0339",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0340",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0341",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_AstHint03_02_163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0342",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0343",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0344",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0345",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_SpeHint01_164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0346",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_SpeHint01s SEL_165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0347",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0348",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0349",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_SpeHint01a_166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0350",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_SpeHint01b_167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0351",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_Loop_SpeHint01c_168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP13_M_L0352",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_SavPoiWarp01_169",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0353",
+        "msgStr": "> Çatlaktan tuhaf bir ışık görünüyor..."
+      },
+      {
+        "msgID": "map13_m_m_SavPoiWarp01s SEL_170",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0354",
+        "msgStr": "Dokun"
+      },
+      {
+        "msgID": "MAP13_M_L0355",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "map13_m_m_DevilWarp01_171",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0356",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP13_M_L0357",
+        "msgStr": "> Raidou onu tetikleyemedi."
+      },
+      {
+        "msgID": "map13_m_m_PastBoss01_172",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0358",
+        "msgStr": "> Kum saati şeklinde büyük bir cihaz."
+      },
+      {
+        "msgID": "map13_m_m_PastBoss01s SEL_173",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0359",
+        "msgStr": "Dokun"
+      },
+      {
+        "msgID": "MAP13_M_L0360",
+        "msgStr": "Yok et"
+      },
+      {
+        "msgID": "MAP13_M_L0361",
+        "msgStr": "Görmezden gel"
+      },
+      {
+        "msgID": "map13_m_m_PastBoss01a_174",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0362",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_PastBoss01b_175",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0363",
+        "msgStr": "> Mevcut davaya dair anılar Raidou'nun zihninde canlandı..."
+      },
+      {
+        "msgID": "map13_m_m_PastBossA02_176",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0364",
+        "msgStr": "> Raidou 1940'lara ait görüntüler gördü..."
+      },
+      {
+        "msgID": "MAP13_M_L0365",
+        "msgStr": "> Alevler içinde bir şehir... Metalik kartallardan oluşan bir filo... Çaresizlik... Ama aynı zamanda büyük bir değişim..."
+      },
+      {
+        "msgID": "map13_m_m_PastBossB02_177",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0366",
+        "msgStr": "> Raidou 1970'lere ait görüntüler gördü..."
+      },
+      {
+        "msgID": "MAP13_M_L0367",
+        "msgStr": "> Tuvalet kâğıdı peşinde çılgına dönmüş müşteriler... Bir futbol efsanesinin emekliliği... Bir kadın başbakan..."
+      },
+      {
+        "msgID": "map13_m_m_PastBossC02_178",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0368",
+        "msgStr": "> Raidou 1960'lara ait görüntüler gördü..."
+      },
+      {
+        "msgID": "MAP13_M_L0369",
+        "msgStr": "> Ormandaki askerler... El sallarken vurulan bir adam... Gri toprakta bırakılan postal izleri..."
+      },
+      {
+        "msgID": "map13_m_m_PastBossD02_179",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0370",
+        "msgStr": "> Raidou 2020'lere ait görüntüler gördü..."
+      },
+      {
+        "msgID": "MAP13_M_L0371",
+        "msgStr": "> Aşırı kalabalık hastaneler... Yüzlerini kumaşla kapatan insanlar... Geleceğe dair büyük bir belirsizlik..."
+      },
+      {
+        "msgID": "map13_m_m_PastBossE02_180",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0372",
+        "msgStr": "> Raidou 2040'lara ait görüntüler gördü..."
+      },
+      {
+        "msgID": "MAP13_M_L0373",
+        "msgStr": "> Melekler ve iblisler arasında bir savaş... İblislere hükmetmek için makineler kullanan insanlar..."
+      },
+      {
+        "msgID": "map13_m_m_PastBossF02_181",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0374",
+        "msgStr": "> Raidou 2010'lara ait görüntüler gördü..."
+      },
+      {
+        "msgID": "MAP13_M_L0375",
+        "msgStr": "> Dalgalanan bir kalabalık... Kıkırdayan bir iblis... Geleceğe dair büyük bir belirsizlik..."
+      },
+      {
+        "msgID": "map13_m_m_PastBoss03_182",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0376",
+        "msgStr": "> Uğursuz bir varlık hissediliyor..."
+      },
+      {
+        "msgID": "map13_m_m_PastBoss03s SEL_183",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0377",
+        "msgStr": "Daha ileri uzan"
+      },
+      {
+        "msgID": "MAP13_M_L0378",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "map13_m_m_PastBoss04_184",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0379",
+        "msgStr": "> Raidou'nun bilinci içeri çekildi!"
+      },
+      {
+        "msgID": "map13_m_m_DistBlock01_185",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0380",
+        "msgStr": "> Uzamsal çarpıklık buraya çıkardı."
+      },
+      {
+        "msgID": "map13_m_m_Return01_01_186",
+        "msgStr": "Geleceği Reddeden"
+      },
+      {
+        "msgID": "MAP13_M_L0381",
+        "msgStr": "Kendi zamanından bayağı uzağa kaymışsın. Burası 1980 yılı."
+      },
+      {
+        "msgID": "MAP13_M_L0382",
+        "msgStr": "Eski günlere dönme isteği mi bastı?"
+      },
+      {
+        "msgID": "MAP13_M_L0383",
+        "msgStr": "Hiç dert değil. Akarana Koridoru'nda iki pikosaniyede oraya geri kayabilirsin."
+      },
+      {
+        "msgID": "map13_m_m_Return01_01s SEL_187",
+        "msgStr": "Geleceği Reddeden"
+      },
+      {
+        "msgID": "MAP13_M_L0384",
+        "msgStr": "İlerlemeye devam edeceğim."
+      },
+      {
+        "msgID": "MAP13_M_L0385",
+        "msgStr": "Geçmişe dönmek istiyorum."
+      },
+      {
+        "msgID": "map13_m_m_Return01_01a_188",
+        "msgStr": "Geleceği Reddeden"
+      },
+      {
+        "msgID": "MAP13_M_L0386",
+        "msgStr": "Çaktım. Eh, bol şans. Yine de şunu söyleyeyim..."
+      },
+      {
+        "msgID": "MAP13_M_L0387",
+        "msgStr": "Gelecek olabilir ama orada bir umut bulacağının garantisi yok, bilirsin? Bunu iyi belle."
+      },
+      {
+        "msgID": "map13_m_m_Return01_02_189",
+        "msgStr": "Geleceği Reddeden"
+      },
+      {
+        "msgID": "MAP13_M_L0388",
+        "msgStr": "Seni doğru çaktığımdan emin olayım: Kendi zamanına geri mi kaymak istiyorsun?"
+      },
+      {
+        "msgID": "map13_m_m_Return01_02s SEL_190",
+        "msgStr": "Geleceği Reddeden"
+      },
+      {
+        "msgID": "MAP13_M_L0389",
+        "msgStr": "Hayır, boş ver."
+      },
+      {
+        "msgID": "MAP13_M_L0390",
+        "msgStr": "Evet, istiyorum."
+      },
+      {
+        "msgID": "map13_m_m_Return01_03_191",
+        "msgStr": "Geleceği Reddeden"
+      },
+      {
+        "msgID": "MAP13_M_L0391",
+        "msgStr": "Canına yandığım, evet! Altın geçmişi ziyaret etmek... siz elemanlar nasıl diyordunuz... \"fevkaladenin fevkinde\"!"
+      },
+      {
+        "msgID": "map13_m_m_Return01_01dev_192",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0392",
+        "msgStr": "> <devil 0> astral bedene dik dik bakıyor."
+      },
+      {
+        "msgID": "map13_m_m_Return02_01_193",
+        "msgStr": "Geçmişe Bakan"
+      },
+      {
+        "msgID": "MAP13_M_L0393",
+        "msgStr": "Burası 2030 yılı. Kendi zamanından çok uzaktasın."
+      },
+      {
+        "msgID": "MAP13_M_L0394",
+        "msgStr": "Çok uzağa kaymışsın... Eski günlerin özlemini çekmiyor musun?"
+      },
+      {
+        "msgID": "map13_m_m_Return02_01s SEL_194",
+        "msgStr": "Geçmişe Bakan"
+      },
+      {
+        "msgID": "MAP13_M_L0395",
+        "msgStr": "İlerlemeye devam edeceğim."
+      },
+      {
+        "msgID": "MAP13_M_L0396",
+        "msgStr": "Geçmişe dönmek istiyorum."
+      },
+      {
+        "msgID": "map13_m_m_Return02_01a_195",
+        "msgStr": "Geçmişe Bakan"
+      },
+      {
+        "msgID": "MAP13_M_L0397",
+        "msgStr": "Eh, seni durduracak değilim."
+      },
+      {
+        "msgID": "MAP13_M_L0398",
+        "msgStr": "Ben geleceği gördüm. Ne bekliyorsun bilmiyorum ama..."
+      },
+      {
+        "msgID": "map13_m_m_Return02_02_196",
+        "msgStr": "Geçmişe Bakan"
+      },
+      {
+        "msgID": "MAP13_M_L0399",
+        "msgStr": "Seni doğru çaktığımdan emin olayım. Eski günlere kaymak istiyorsun, değil mi?"
+      },
+      {
+        "msgID": "map13_m_m_Return02_02s SEL_197",
+        "msgStr": "Geçmişe Bakan"
+      },
+      {
+        "msgID": "MAP13_M_L0400",
+        "msgStr": "Tekrar düşündüm de, hayır."
+      },
+      {
+        "msgID": "MAP13_M_L0401",
+        "msgStr": "Evet, geri dönmek istiyorum."
+      },
+      {
+        "msgID": "map13_m_m_Return02_01b_198",
+        "msgStr": "Geçmişe Bakan"
+      },
+      {
+        "msgID": "MAP13_M_L0402",
+        "msgStr": "Eski günler böyledir işte. Her zaman öyle parlak ve huzur verici..."
+      },
+      {
+        "msgID": "map13_m_m_Return02_01dev_199",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0403",
+        "msgStr": "> <devil 0> astral bedene dik dik bakıyor."
+      },
+      {
+        "msgID": "map13_m_m_DevilF01_01_200",
+        "msgStr": "Throne"
+      },
+      {
+        "msgID": "MAP13_M_L0404",
+        "msgStr": "Arkamdaki düzeneği görüyor musun? Buna \"Kum Saati\" denir."
+      },
+      {
+        "msgID": "MAP13_M_L0405",
+        "msgStr": "Anılara hükmettiği ve <COLOR 3>uzay ile zamanda çarpıklıklar yarattığı<COLOR 0> söylenir."
+      },
+      {
+        "msgID": "MAP13_M_L0406",
+        "msgStr": "Gerçek adını ya da nasıl inşa edildiğini kimse bilmez."
+      },
+      {
+        "msgID": "MAP13_M_L0407",
+        "msgStr": "Gerçekten de tuhaf bir düzenek. Mesafeni korumanı öneririm."
+      },
+      {
+        "msgID": "map13_m_m_DevilF02_01_01_201",
+        "msgStr": "Parvati"
+      },
+      {
+        "msgID": "MAP13_M_L0408",
+        "msgStr": "Buraya pek çok şey vurur. İblisler, astral bedenler, hatta eşyalar bile."
+      },
+      {
+        "msgID": "MAP13_M_L0409",
+        "msgStr": "Ama o eşyalar uzay-zaman sürekliliğinin dört bir yanına dağılmış hâlde."
+      },
+      {
+        "msgID": "MAP13_M_L0410",
+        "msgStr": "O kadar kararsızlar ki normal bir şekilde bakarak onları göremezsin."
+      },
+      {
+        "msgID": "MAP13_M_L0411",
+        "msgStr": "<COLOR 3>Yeterince dikkatli bakarsam onları görebilmeliyim<COLOR 0> ama işin püf noktasını bilmiyorum..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF02_01_02_202",
+        "msgStr": "Parvati"
+      },
+      {
+        "msgID": "MAP13_M_L0412",
+        "msgStr": "Aman Tanrım, demek bölgeyi incelemem gerekiyor."
+      },
+      {
+        "msgID": "MAP13_M_L0413",
+        "msgStr": "Vay canına! O zaman belki ben de etrafa bir göz atarım."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_01_01_203",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP13_M_L0414",
+        "msgStr": "Kusura bakma ahbap ama yanımdan geçip gidemezsin."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_01_02_204",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP13_M_L0415",
+        "msgStr": "Denizci üniformalı bir çıtır mı? Buradan geçti ve sola doğru devam etti."
+      },
+      {
+        "msgID": "MAP13_M_L0416",
+        "msgStr": "Fena ters bir bakışı vardı. Şimdiki çocuklar pek çetin ceviz, ha?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_02_01_205",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP13_M_L0417",
+        "msgStr": "Dünyayı dolaştık ve sonunda tam buraya yerleştik."
+      },
+      {
+        "msgID": "MAP13_M_L0418",
+        "msgStr": "Teklifin, hatta rüşvetin ne olursa olsun kesinlikle kıpırdamayacağız."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_02_02_206",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP13_M_L0419",
+        "msgStr": "Söylentilere göre sağdaki yolun aşağısında gizli bir zula varmış."
+      },
+      {
+        "msgID": "MAP13_M_L0420",
+        "msgStr": "Bulursan hepsi senindir."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm01_207",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0421",
+        "msgStr": "> <devil 0> iki iblisi etkilemeye çalıştı."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm02_208",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP13_M_L0422",
+        "msgStr": "Hey, bilirsin... Bu bayağı iyi hissettiriyor, değil mi?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm03_209",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP13_M_L0423",
+        "msgStr": "Gerçekten de öyle. Eski İrademi epey hatırlattı..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm04_210",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP13_M_L0424",
+        "msgStr": "90'lar harikaydı be dostum."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm05_211",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP13_M_L0425",
+        "msgStr": "Çok haklısın. Ah, geçmiş günleri yâd etmek..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm06_212",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0426",
+        "msgStr": "> Raidou onlardan çekilmelerini istedi."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm07_213",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP13_M_L0427",
+        "msgStr": "Sorun değil. Bir saniye..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm08_214",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP13_M_L0428",
+        "msgStr": "Bir anlığına nostaljinin tadını çıkarmamıza izin ver."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm09_215",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP13_M_L0429",
+        "msgStr": "Oh be... Kendimi böyle canlı hissetmeyeli epey olmuştu!"
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm10_216",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP13_M_L0430",
+        "msgStr": "Hiçbir şey insanın kendi zamanının yerini tutamaz."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm11_217",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP13_M_L0431",
+        "msgStr": "Pekâlâ, tamam, söz verdik."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm12_218",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "MAP13_M_L0432",
+        "msgStr": "Rahatça geçip gidebilirsin."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07Charm_Dev01_219",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0433",
+        "msgStr": "> Oni ve Yomotsu-Ikusa öldürücü bir bakış attı!"
+      },
+      {
+        "msgID": "MAP13_M_L0434",
+        "msgStr": "> <devil 0>, tek başına devam etmenin tehlikeli olduğunu sezerek geri çekildi."
+      },
+      {
+        "msgID": "map13_m_m_DevilF08_01_220",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "MAP13_M_L0435",
+        "msgStr": "Son zamanlarda etrafta pek çok utanmaz yeniyetme türedi. Yolu kapatan şu iki serseri gibi."
+      },
+      {
+        "msgID": "MAP13_M_L0436",
+        "msgStr": "Buraya geldiklerinde büyüklük taslamaya çalışıyorlar ama benim gibi gözü açık bir ihtiyarı kandıramazlar."
+      },
+      {
+        "msgID": "MAP13_M_L0437",
+        "msgStr": "Böyle gençlerin aklında tek bir şey vardır: <COLOR 3>eski usul, güzel bir sevgi gösterisi<COLOR 0>."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_01_01_01_221",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "MAP13_M_L0438",
+        "msgStr": "Kahretsin! Kahretsin! Allah kahretsin!!"
+      },
+      {
+        "msgID": "MAP13_M_L0439",
+        "msgStr": "Neden daha ileri gidemiyorum!?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_01_01_02_222",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0440",
+        "msgStr": "> Ukobach o kadar öfkeli ki kimseyi duyamıyor..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_01_02_01_223",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0441",
+        "msgStr": "> Ukobach'ın öfkesi yatışmaya başlıyor..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_01_02_02_224",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "MAP13_M_L0442",
+        "msgStr": "Gehehahaha... Az önceki hâlim için kusura bakma. Biraz tez canlı olabiliyorum."
+      },
+      {
+        "msgID": "MAP13_M_L0443",
+        "msgStr": "Burayı nasıl geçeceğime dair bir tüyo duydum ama işler pek iyi gitmiyor."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_01_03_01_225",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "MAP13_M_L0444",
+        "msgStr": "Tüyo mu? Sadece <COLOR 3>\"sol, sol, sağ\"<COLOR 0>, hepsi bu."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_02_01_01_226",
+        "msgStr": "Okuninushi"
+      },
+      {
+        "msgID": "MAP13_M_L0445",
+        "msgStr": "Ah... Neden ilerleyemiyorum?"
+      },
+      {
+        "msgID": "MAP13_M_L0446",
+        "msgStr": "Gerçekten bu kadar güçsüz müyüm...?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_02_01_02_227",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0447",
+        "msgStr": "> Okuninushi başkalarını fark edemeyecek kadar kederli."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_02_02_01_228",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0448",
+        "msgStr": "> Okuninushi'nin yüreği yeniden alevlendi."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_02_02_02_229",
+        "msgStr": "Okuninushi"
+      },
+      {
+        "msgID": "MAP13_M_L0449",
+        "msgStr": "Teşekkür ederim. Sana borçluyum."
+      },
+      {
+        "msgID": "MAP13_M_L0450",
+        "msgStr": "İlerlemek için bir ipucu öğrendim, ancak henüz başarıya ulaşamadım."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_02_03_01_230",
+        "msgStr": "Okuninushi"
+      },
+      {
+        "msgID": "MAP13_M_L0451",
+        "msgStr": "<COLOR 3>\"Birlikte çalışın. Arkadaşın en son gitsin.\"<COLOR 0> Bu ne anlama geliyor olabilir...?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_01_01_01_231",
+        "msgStr": "Nekomata"
+      },
+      {
+        "msgID": "MAP13_M_L0452",
+        "msgStr": "Burası özel bir yer. Sol ve sağ yollar sonsuz bir döngüyle birbirine bağlıdır."
+      },
+      {
+        "msgID": "MAP13_M_L0453",
+        "msgStr": "Doğru yollardan gitmezsen asla ilerleyemezsin."
+      },
+      {
+        "msgID": "MAP13_M_L0454",
+        "msgStr": "Ben doğru yolu çoktan biliyorum."
+      },
+      {
+        "msgID": "MAP13_M_L0455",
+        "msgStr": "Peki <IT_S>sen<IT_E> hangisi olduğunu biliyor musun?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_01_01_01s SEL_232",
+        "msgStr": "Nekomata"
+      },
+      {
+        "msgID": "MAP13_M_L0456",
+        "msgStr": "Hayır, söyle bana."
+      },
+      {
+        "msgID": "MAP13_M_L0457",
+        "msgStr": "Evet, biliyorum."
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_01_01_01a_233",
+        "msgStr": "Nekomata"
+      },
+      {
+        "msgID": "MAP13_M_L0458",
+        "msgStr": "Tamam, sana söyleyeceğim... ama sesli değil!"
+      },
+      {
+        "msgID": "MAP13_M_L0459",
+        "msgStr": "Hehehe..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_01_01_01b_234",
+        "msgStr": "Nekomata"
+      },
+      {
+        "msgID": "MAP13_M_L0460",
+        "msgStr": "Hehehe... Senin gibi bir insan için bu imkânsız olmalı."
+      },
+      {
+        "msgID": "MAP13_M_L0461",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_01_02_01_235",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0462",
+        "msgStr": "> Nekomata'nın düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_01_02_02_236",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP13_M_L0463",
+        "msgStr": "<COLOR 2>Ooo, zihnimin içine mi bakıyorsun? Seni yaramaz!<COLOR 0>"
+      },
+      {
+        "msgID": "MAP13_M_L0464",
+        "msgStr": "<COLOR 2>Pekâlâ, doğru yol \"sol, sağ, sağ.\"<COLOR 0>"
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_01_01_237",
+        "msgStr": "Turdak"
+      },
+      {
+        "msgID": "MAP13_M_L0465",
+        "msgStr": "BuRAnIıIınN öTEsİ! BüYÜk! EŞyA! BöÖöÖÖöÖööLGeSİiiİİ!!"
+      },
+      {
+        "msgID": "MAP13_M_L0466",
+        "msgStr": "NeEee iÇİn bİLmİYorUM... AmA üÇ şARt vARrrRrRrr!"
+      },
+      {
+        "msgID": "MAP13_M_L0467",
+        "msgStr": "NoRRrRrmaAaAAL! Siİiİnsİiİiii! SoNuNCuYu uUUuNuTTuUuUuumM!"
+      },
+      {
+        "msgID": "MAP13_M_L0468",
+        "msgStr": "HeEeeEepsİNİiiİİi tOPlaYaBİiİiiiİR mİSİn!?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_01_01_238",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0469",
+        "msgStr": "Sen de mi bir şeyler arıyorsun? Bulmaca bayağııııı bir zor."
+      },
+      {
+        "msgID": "MAP13_M_L0470",
+        "msgStr": "Ama buradaki ahbabımdan bir ipucu aldım."
+      },
+      {
+        "msgID": "MAP13_M_L0471",
+        "msgStr": "Gelgelelim bir türlü başını sonunu çözemedim. İster misin?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_01_01s SEL_239",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0472",
+        "msgStr": "Evet, alırım."
+      },
+      {
+        "msgID": "MAP13_M_L0473",
+        "msgStr": "Hayır, ihtiyacım yok."
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_01_01b_240",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0474",
+        "msgStr": "Tabii, öyle olsun. Yine de bir tür ipucu olmadan imkânsız derim ben."
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_01_02_241",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0475",
+        "msgStr": "Pekâlâ, 30.000 yen eder."
+      },
+      {
+        "msgID": "MAP13_M_L0476",
+        "msgStr": "Bana öyle bakma. Dünya paranın etrafında dönüyor, bilmiyor musun?"
+      },
+      {
+        "msgID": "MAP13_M_L0477",
+        "msgStr": "Bu devirde mangır olmadan geçinemezsin. İşlerin nasıl yürüdüğünü bilirsin."
+      },
+      {
+        "msgID": "MAP13_M_L0478",
+        "msgStr": "Yani, 30.000 yen lütfen."
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_01_02s SEL_242",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0479",
+        "msgStr": "Satın al"
+      },
+      {
+        "msgID": "MAP13_M_L0480",
+        "msgStr": "Satın alma"
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_01_02a_243",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0481",
+        "msgStr": "İyi hamle. Akıllıca bir alışveriş yaptın. Pişman olmayacaksın. Ha, sanırım şifreyi sana vermeliyim."
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_01_02NotHave_244",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0482",
+        "msgStr": "Görünüşe göre züğürdün tekisin. Kusura bakma ama bu şifre sadece parası olanlar için. Anlarsın ya."
+      },
+      {
+        "msgID": "MAP13_M_L0483",
+        "msgStr": "Harçlığını aldığında tekrar gel."
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_02_01_245",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0484",
+        "msgStr": "Ooo, sensin demek. Nasıl gidiyor?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_02_01s SEL_246",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0485",
+        "msgStr": "Şifreyi sor"
+      },
+      {
+        "msgID": "MAP13_M_L0486",
+        "msgStr": "Uzaklaş"
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_02_code_247",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "MAP13_M_L0487",
+        "msgStr": "<COLOR 3>\"Buz Isırığı, Elektrik Sayacı, Vahşi Öfke, Neo Pagan.\"<COLOR 0> İşin özü bu."
+      },
+      {
+        "msgID": "MAP13_M_L0488",
+        "msgStr": "Bir de benden sana ufak bir kıyak olsun..."
+      },
+      {
+        "msgID": "MAP13_M_L0489",
+        "msgStr": "İpuçlarının <COLOR 3>\"düzeni\"<COLOR 0> çok ama çok önemli. Çaktın mı? Güzel, güzel..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF15_03_01_248",
+        "msgStr": "Muu Shuwuu"
+      },
+      {
+        "msgID": "MAP13_M_L0490",
+        "msgStr": "Harika. Diğer herkesin eline dandik bir eşya geçti ama benimki bayağı havalı çıktı."
+      },
+      {
+        "msgID": "MAP13_M_L0491",
+        "msgStr": "Acaba neden... Belki de ışınlanmayı hangi iblisin yaptığına bağlıdır?"
+      },
+      {
+        "msgID": "MAP13_M_L0492",
+        "msgStr": "<COLOR 3>Ben uçmakta bayağı iyiyimdir<COLOR 0> ama buradaki başka kimsenin uçabildiğini sanmıyorum."
+      },
+      {
+        "msgID": "map13_m_m_LoopClear01_249",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0493",
+        "msgStr": "> Atmosfer değişti..."
+      },
+      {
+        "msgID": "map13_m_m_DreamBack01_250",
+        "msgStr": "Kayıp Ruh"
+      },
+      {
+        "msgID": "MAP13_M_L0494",
+        "msgStr": "Geri dönmek istiyor musun?"
+      },
+      {
+        "msgID": "map13_m_m_DreamBack01s SEL_251",
+        "msgStr": "Astral Beden"
+      },
+      {
+        "msgID": "MAP13_M_L0495",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP13_M_L0496",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map13_m_m_DreamBack02_252",
+        "msgStr": "Astral Beden"
+      },
+      {
+        "msgID": "MAP13_M_L0497",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map13_m_m_Last01_253",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0498",
+        "msgStr": "> Işığın ötesindeki uzay-zaman dokusundan akılalmaz boyutlarda yoğun bir güç yayılıyor..."
+      },
+      {
+        "msgID": "MAP13_M_L0499",
+        "msgStr": "> Son düşmanla yüzleşilsin mi?"
+      },
+      {
+        "msgID": "map13_m_m_Last01s SEL_254",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0500",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP13_M_L0501",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map13_m_m_ItemF02_01_255",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0502",
+        "msgStr": "> <ITM_08><COLOR 4>Soma Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF02_01dev_256",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0503",
+        "msgStr": "> <ITM_08><COLOR 4>Soma Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF02_02_257",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0504",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF02_02dev_258",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0505",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF02_03_259",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0506",
+        "msgStr": "> <ITM_08><COLOR 4>Hayat Boncuğu<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF02_03dev_260",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0507",
+        "msgStr": "> <ITM_08><COLOR 4>Hayat Boncuğu<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF02_04_261",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0508",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF02_04dev_262",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0509",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_01_263",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0510",
+        "msgStr": "> <ITM_14><COLOR 4>Asuka Aynası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_01dev_264",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0511",
+        "msgStr": "> <ITM_14><COLOR 4>Asuka Aynası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_02_265",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0512",
+        "msgStr": "> <ITM_14><COLOR 4>Rakuyou Kadehi<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_02dev_266",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0513",
+        "msgStr": "> <ITM_14><COLOR 4>Rakuyou Kadehi<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_03_267",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0514",
+        "msgStr": "> <ITM_14><COLOR 4>Cava Heykelciği<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_03dev_268",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0515",
+        "msgStr": "> <ITM_14><COLOR 4>Cava Heykelciği<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_04_269",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0516",
+        "msgStr": "> <ITM_14><COLOR 4>Roma Sikkesi<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_04dev_270",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0517",
+        "msgStr": "> <ITM_14><COLOR 4>Roma Sikkesi<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_05_271",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0518",
+        "msgStr": "> <ITM_14><COLOR 4>Pers Vazosu<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF19_05dev_272",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0519",
+        "msgStr": "> <ITM_14><COLOR 4>Pers Vazosu<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF07_01_273",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0520",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF07_01dev_274",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0521",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF07_02_275",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0522",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Küpü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF07_02dev_276",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0523",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Küpü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF07_03_277",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0524",
+        "msgStr": "> <ITM_08><COLOR 4>Büyük Çakra<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_ItemF07_03dev_278",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0525",
+        "msgStr": "> <ITM_08><COLOR 4>Büyük Çakra<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map13_m_m_Common_Item_279",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0526",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map13_m_m_Common_ItemSelect SEL_280",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0527",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP13_M_L0528",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map13_m_m_Common_GetItem_Raidou_281",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0529",
+        "msgStr": "> Raidou <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map13_m_m_Common_GetItem_Devil_282",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0530",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map13_m_m_Common_GetEveItem_Raidou_283",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0531",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map13_m_m_Common_GetEveItem_Devil_284",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP13_M_L0532",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_Add01_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP13_M_L0533",
+        "msgStr": "Anlıyorum. Raidou, bu—"
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_Add01_02",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP13_M_L0534",
+        "msgStr": "Dur bir dakika, bunca zamandır Raidou'ya cevapları sen mi veriyordun?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_Add01_03",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP13_M_L0535",
+        "msgStr": "Efendim!?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_Add01_04",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP13_M_L0536",
+        "msgStr": "Raidou Kuzunoha adını miras aldığına göre elbet kendisi de yeteneklidir."
+      },
+      {
+        "msgID": "MAP13_M_L0537",
+        "msgStr": "Bir dedektif olduğundan bahsetmiyorum bile. Şüphesiz çözümü kendi başına çıkarabilecek kadar beceriklidir, değil mi?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_Add01_05",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP13_M_L0538",
+        "msgStr": "Ben... Ben de tam öyle diyecektim zaten!"
+      },
+      {
+        "msgID": "MAP13_M_L0539",
+        "msgStr": "Pekâlâ, göster kendini, Raidou!"
+      },
+      {
+        "msgID": "map13_m_m_DevilF07_Add01_06",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP13_M_L0540",
+        "msgStr": "Ne kadar da baskıcı."
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_Add01_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP13_M_L0541",
+        "msgStr": "Raidou, bu yeterli değil."
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_Add01_02",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP13_M_L0542",
+        "msgStr": "Hmmmmm?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF13_Add01_03",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP13_M_L0543",
+        "msgStr": "Nngh... Yapabilirsin..."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_Add01_01",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP13_M_L0544",
+        "msgStr": "\"Arkadaş\" derken, sanırım asıl kastettiği şey—"
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_Add01_02",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP13_M_L0545",
+        "msgStr": "Dur bakalım! Sen de en az benim kadar baskıcısın!"
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_Add01_03",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP13_M_L0546",
+        "msgStr": "Köyün genç halefinin yardıma ihtiyacı var. Nasıl reddedebilirim?"
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_Add01_04",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP13_M_L0547",
+        "msgStr": "Bu boşboğazın zaman çizgisine ait olmadığın için şükretmelisin, Raidou."
+      },
+      {
+        "msgID": "map13_m_m_DevilF12_Add01_05",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP13_M_L0548",
+        "msgStr": "<COLOR 3>\"Birlikte çalışın. Arkadaşın en son gitsin.\"<COLOR 0> O hâlde \"birlikte çalışalım\", ne dersin?"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/29 17:48:11"
+}

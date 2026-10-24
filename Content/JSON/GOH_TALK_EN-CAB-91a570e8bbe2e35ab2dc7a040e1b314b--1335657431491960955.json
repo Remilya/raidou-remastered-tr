@@ -1,0 +1,561 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_TALK_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "goh_talk_GOH_ENTER_000",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0000",
+        "msgStr": "Gouma-Den'e hoş geldin."
+      },
+      {
+        "msgID": "goh_talk_GOH_LEAVE_001",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0001",
+        "msgStr": "Bana daha fazla iblis getirmeye devam et, Kuzunoha."
+      },
+      {
+        "msgID": "goh_talk_GOH_CUSTOM_002",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_TALK_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_TALK_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_TALK_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_TALK_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_TALK_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_talk_GOH_KEN_003",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0008",
+        "msgStr": "Görünüşe göre Yatagarasu, Kılıç Simyası'nı kullanmana izin vermiş."
+      },
+      {
+        "msgID": "GOH_TALK_L0009",
+        "msgStr": "Bu anı bekliyordum!"
+      },
+      {
+        "msgID": "GOH_TALK_L0010",
+        "msgStr": "Kılıç Simyası, kılıçları güçlendirmeye olanak tanıyan kendi geliştirdiğim bir tekniktir."
+      },
+      {
+        "msgID": "GOH_TALK_L0011",
+        "msgStr": "Kılıcını güçlendir, Kuzunoha; böylece pek çok pasif yetenek elde edebilirsin."
+      },
+      {
+        "msgID": "GOH_TALK_L0012",
+        "msgStr": "Kılıç Simyası'nı öğrenmenin en iyi yolu bizzat denemektir."
+      },
+      {
+        "msgID": "GOH_TALK_L0013",
+        "msgStr": "Fakat elbette, herhangi bir sorun olursa sorman yeterli."
+      },
+      {
+        "msgID": "GOH_TALK_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_TALK_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_TALK_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_talk_EP01_VIC_01_004",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0017",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0018",
+        "msgStr": "İblis füzyonu, ortaçağ simyasını modern teknolojiyle harmanlayan yasaklı bir bilimdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0019",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0020",
+        "msgStr": "Çalışmalarıma tanık olmak istersen iblislerini istediğin zaman buraya getir.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP02_VIC_01_005",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0021",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0022",
+        "msgStr": "Şu Kırmızı Pelerin hakkındaki söylentileri duydum ama gerçek bir canavar olduğunu mu söylüyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0023",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0024",
+        "msgStr": "Simya kullanmadan insan bedenini mutasyona uğratmak... Çok ilginç.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0025",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0026",
+        "msgStr": "Onu teşrih edebilseydim, bulguların araştırmalarıma yardımcı olacağından eminim.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP03_VIC_01_006",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0027",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0028",
+        "msgStr": "Kuzunoha'lar iblisleri hapsetmek için \"tüp\" denen bu aletleri kullanıyorlar, öyle mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0029",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0030",
+        "msgStr": "Basit çelik tüpler gibi görünüyorlar. İşin içinde bir tür efsun olmalı...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0031",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0032",
+        "msgStr": "Sakıncası yoksa... çalışmalarım için bir tanesini ödünç alabilir miyim acaba?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP04_VIC_01_007",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0033",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0034",
+        "msgStr": "Daha önce hiç gemiye bindin mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0035",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0036",
+        "msgStr": "İnsanın ruhuna bir okyanus yolculuğu kadar iyi gelen hiçbir şey yoktur.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0037",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0038",
+        "msgStr": "Bir ara denemeni öneririm. Demir alma vakti!<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP05_VIC_01_008",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0039",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0040",
+        "msgStr": "Karanlık Diyar, gerçek dünya ile öteki dünya arasında bir kavşak gibidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0041",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0042",
+        "msgStr": "Siz Çağırıcılar oraya istediğiniz gibi girip çıkabiliyorsunuz...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0043",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0044",
+        "msgStr": "Kara bilimlerin bir araştırmacısı olarak sizi epey kıskanıyorum!\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP06_VIC_01_009",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0045",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0046",
+        "msgStr": "Yardımların sayesinde araştırmalarım için yığınla veri topladım.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0047",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0048",
+        "msgStr": "Daha fazla deneye başlamak isterim ama bu bodrum katı bunun için fazla küçük.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0049",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0050",
+        "msgStr": "Çok daha büyük, ancak hiçbir şüphe uyandırmayacak bir tesise ihtiyacım var...\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP06_VIC_04_010",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0051",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0052",
+        "msgStr": "Bir zamanlar Başkent'i koruması için Solgun Muhafız'a tapınılırdı.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0053",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0054",
+        "msgStr": "Söylenenlere göre bu muhafız, kötülükleri uzak tutan bir kristalle donatılmıştı.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0055",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0056",
+        "msgStr": "Aynı zamanda Koy Muhafızı olarak da biliniyordu. Belki bu bir ipucudur...?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP07_VIC_01_011",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0057",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0058",
+        "msgStr": "Bu da ne? Başka birinin lanetini üstlenmeye yarayan bir teknik mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0059",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0060",
+        "msgStr": "Ahh, Japon büyüsü gerçekten çok ilgi çekici!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0061",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0062",
+        "msgStr": "Buna bizzat tanık olmak isterim. Neden gönüllü olmuyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP07_VIC_04_012",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0063",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0064",
+        "msgStr": "Ahh, Kuzunoha. Görünüşe göre lanetlenmişsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0065",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0066",
+        "msgStr": "Canlı bir numuneyi incelemek... Ne muazzam bir fırsat!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0067",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0068",
+        "msgStr": "Bu, araştırmalarım için çok faydalı olabilir. Sık sık uğra, olur mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP08_VIC_01_013",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0069",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0070",
+        "msgStr": "Birinin insan bedenini etkilemek için radyo dalgalarını kullandığını duydum.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0071",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0072",
+        "msgStr": "Gördüğün üzere, iblis füzyonuyla ilgili çalışmalarımda elektrik büyük bir rol oynuyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0073",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0074",
+        "msgStr": "Radyo dalgaları ve elektriğin kökenleri benzerdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0075",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0076",
+        "msgStr": "Kafa dengi bu şahısla tanışmak isterdim doğrusu.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP09_VIC_01_014",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0077",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0078",
+        "msgStr": "Auran bugün farklı görünüyor... Sen gerçekten Kuzunoha mısın?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0079",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0080",
+        "msgStr": "Eh, fark etmez. Kim olduğun beni hiç ilgilendirmiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0081",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0082",
+        "msgStr": "İblis füzyonlamak isteyen her Çağırıcıya Gouma-Den'in kapısı açıktır.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP10_VIC_01_015",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0083",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0084",
+        "msgStr": "Rasputin'in soruşturmana müdahale ettiğini mi söylüyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0085",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0086",
+        "msgStr": "Şu kötü şöhretli Deli Keşiş Rasputin mi? Bundan emin misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0087",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0088",
+        "msgStr": "Hm... Belki de tıpkı benim gibi o da ölümden kurtulup Başkent'e kaçmıştır...\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP11_VIC_01_016",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0089",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0090",
+        "msgStr": "Yukarıda bu kadar gürültü koparacak neler oluyor? \n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0091",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0092",
+        "msgStr": "Ne!? Devasa, mekanik bir canavar ortalığı birbirine mi katıyor!?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0093",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0094",
+        "msgStr": "Kendi gözlerimle görmek isterdim ama korkarım bedenimi güneş ışığına maruz bırakamam...\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP11_VIC_04_017",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0095",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0096",
+        "msgStr": "Ah, üstün zekâlı yapay insansımı bir tamamlayabilseydim...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0097",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0098",
+        "msgStr": "Belki o uyduya bir roket göndermek mümkün olurdu.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0099",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0100",
+        "msgStr": "Ama bitirmesi onlarca yıl sürer! Ne büyük talihsizlik...\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP11_VIC_07_018",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0101",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0102",
+        "msgStr": "Söz verdiğim gibi mekanik adamı yeniden birleştirip serbest bıraktım.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0103",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0104",
+        "msgStr": "Gerçi... birkaç parçasını ödünç aldım ama bu onun işlevselliğini engellemeyecektir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0105",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0106",
+        "msgStr": "Bunlar sayesinde araştırmalarım önemli ölçüde ilerledi!\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_EP12_VIC_01_019",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0107",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0108",
+        "msgStr": "İnsan benim kadar uzun yaşayınca pişmanlıklar kaçınılmaz oluyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_TALK_L0109",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_TALK_L0110",
+        "msgStr": "Ancak belki de hayat, insana yalnızca tek bir şans verildiği için bu kadar değerlidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_talk_goh_talk_comb_cnt_zero_020",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_TALK_L0111",
+        "msgStr": "Şu ana kadar gerçekleştirdiğin iblis füzyonu sayısı..."
+      },
+      {
+        "msgID": "GOH_TALK_L0112",
+        "msgStr": "Sıfır. Tek bir tane bile yok."
+      },
+      {
+        "msgID": "GOH_TALK_L0113",
+        "msgStr": "Şu ana kadar gerçekleştirdiğin iblis füzyonu sayısı..."
+      },
+      {
+        "msgID": "GOH_TALK_L0114",
+        "msgStr": "<V 0>. Toplam sayı bu."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:41:14"
+}

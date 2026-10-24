@@ -1,0 +1,197 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_DITECT05_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_DITECT05_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0002",
+        "msgStr": "Kökleri Meiji Restorasyonu öncesine dayanan varlıklı bir aile. Malikâneleri Yarai-ku tepelerinde yer alır ve tüm Başkent manzarasına hâkimdir. Mülkte ayrıca pek çok hizmetkâr çalışmaktadır.\n\nDaidouji ailesi çeşitli ticari faaliyetler yürütür ve o kadar olağanüstü bir öngörüye sahiptir ki rakiplerinin onlara yetişme şansı bile olmamıştır. Emsallerinin boy ölçüşemediği ileri teknolojiler geliştirmeleri sayesinde pazar ve servet üzerinde tekel kurmuşlardır. Ailenin \"lanetli\" olduğuna dair bir söylenti dolaşmaktadır; gerçi bu sadece onların servetini kıskanan eski ailelerin çıkardığı bir propaganda da olabilir.\n\nAile armaları kırlangıçkuyruk kelebeğidir. Evin şu anki reisi, Kaya Daidouji'nin babası olan Takeshi Daidouji'dir. Bu sıfatla ailenin temel ticari faaliyetlerini yürütür. Şu anda hastadır ve durumunun oldukça vahim olduğu bildirilmektedir.\n\nDaidouji ailesinde nesilden nesile aktarıldığı söylenen bir şarkı vardır: \"Anne, baba—aralarında toprak. İblisin kanı yeniden bütünlenecek. Uçurumda kanı katledilecek.\"\n\n<U_COLOR 1>Daidouji ailesinin \"gelenekleri\" hakkındaki gerçek şu şekilde ortaya çıktı (önceki açıklamalar gözden geçirildi):\nDaidouji ailesinin tüm kızları on altı yaşına girdiklerinde alışılmadık şeyler söylemeye başlar. Sözde \"iblis tarafından ele geçirilme\" olayı budur. Bahsedilen şeyler arasında mevcut çağın standartlarını çok aşan bilimsel ve teknolojik düzeyler yer alır. Daidouji işletmelerinin sürekli gelişip serpildiği şey bu \"kehanetler\" olmuştur.\n\nGerçekte bu \"ele geçirilmeler\", gelecekteki bir insanın Daidouji kızlarına aktarılmış anılarıdır ve beraberindeki kehanetler de zihinsel zaman yolcusunun kendi çağına (yaşam tarzları, teknolojik gelişmeler vb. dahil) dair hatıralarından ibarettir.\n\nGerçek doğası ne olursa olsun, geçmişteki insanlar bu \"kehanetleri\" iyi talihin anahtarı olarak memnuniyetle kabul ederler. (Bir kişinin anılarını zamanın ötesinden bir başkasına aktarmanın, o anıları alıcının (bu durumda Kaya'nın) mevcut çağdaki bilincine eklemek anlamına geleceğini tahmin ediyorum. Bu da Kaya'yı \"ele geçiren\" kişinin (zaman yolcusunun) Taisho dönemine uygun gelenek ve davranışları nasıl sergileyebildiğini açıklar. Kaya'nın kendi bilincinin hâlâ sağlam olup olmadığı yoksa tamamen üzerine mi yazıldığı ise henüz belli değil.)\n\nDar görüşlü toplumumuzda şu ya da bu nedenle \"anormal\" görülenler genellikle şeytanlaştırılır—bu vakada kelimenin tam anlamıyla. Daidouji ailesi uzun zamandır \"ele geçirilmiş\" kızlarını yeraltına hapsetmeyi adet edinmiş ve değerli kehanetlerini aldıktan sonra kızları gizlice idam etmiştir. Gerçekten iğrenç bir gelenek.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0003",
+        "msgStr": "Doğum yılı: 1915 / Yaş: <U_COLOR 1>16<U_COLOR 0> / Meslek: Ouran Lisesi dördüncü sınıf öğrencisi / Boy: Yaklaşık 155cm / Kilo: Yaklaşık 42kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Kâhya Nakamura'nın hazırladığı özel puding / <U_COLOR 1>Özel not: Bu kızın içinde zaman zaman başka bir varlığın izlerine rastlanıyor (belki de çoklu kişilik bozukluğu vardır?).<U_COLOR 0>\n\nİblisler tarafından kaçırılmadan önce ardında \"Beni öldürmenizi istiyorum\" sözlerini bırakan bir kız. Mevcut davamızın merkezindeki isim ve bir o kadar da gizemli biri.\n\nBaşkent'teki varlıklı Daidouji ailesine mensuptur ve ailenin reisi Takeshi Daidouji'nin tek kızıdır.\n\nSaf kalpli bir kıza benziyor. Ne yazık ki bir şeyden dolayı büyük bir sıkıntı içinde olduğu anlaşılıyor. Kaçırılmadan hemen önce tuhaf bir şey daha söyledi: \"Neredeyse on altı yaşıma girdim.\"\n\nKaya'nın esrarengiz sözlerinin arkasındaki anlamı çözdük. Sınıf arkadaşı Rin'e göre (ki bu bilgiyi daha önce bizzat Kaya'dan öğrenmiş), Daidouji ailesinin kızları on altı yaşına girdiklerinde bir iblis tarafından ele geçirildikleri bir lanetten muzdaripmiş.\n\nBununla bağlantılı olarak Kaya görünüşe göre kendi kendine şu şarkıyı söylüyormuş: \"Anne, baba—aralarında toprak. İblisin kanı yeniden bütünlenecek. Uçurumda kanı katledilecek.\" Rin, şarkıda bahsedilen \"uçurumun\" Daidouji Malikânesi'nin bodrum katını ifade ettiğinden şüpheleniyor.\n\nGörünüşe göre Rin'in şüpheleri haklıymış—anlaşılan Kaya, Daidouji Malikânesi'nin altındaki bir hapishanede tutuluyormuş. Geride bıraktığı günlüğe göre amcası Kiyoshi Daidouji ve malikâne çalışanları onun hapsedilmesinde rol oynamış.\n\n<U_COLOR 1>Daha sonra Kaya'yı 4 Nolu Topçu Bataryası'nın altındaki yeraltı tersanesinde bulduk ve Raidou onu Tümgeneral Munakata'nın elinden kurtarmayı başardı.\n\nŞu anda bizim korumamız altında. Gidecek başka yeri olmadığından (Daidouji ailesinin sözde ele geçirilmiş kızlarını öldürme geleneği yüzünden eve dönerse öldürülecek, başka bir yerde ise Munakata tarafından yeniden yakalanma tehlikesi altında olacaktı), Narumi'nin tavsiyesiyle Narumi Dedektiflik Bürosu'nda çalışmaya başladı (şahsen ben bundan memnunum—mekana çok ihtiyaç duyulan bir canlılık katıyor).\n\nEn başta onu pek iyi tanımadığımız düşünülürse fazla kuruntu yapıyor olabilirim ama Raidou Kaya'yı kurtardığından beri bir şekilde farklı görünüyor. Belki de Munakata ve iblisleri tarafından kaçırılmanın yarattığı travmatik deneyim sonucunda kişiliği değişmiştir.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0011",
+        "msgStr": "*Bilgiler kısmen Sadakichi'nin dosyalarından alınmıştır\nDoğum yılı: 1884 / Yaş: <U_COLOR 1>Öldüğünde<U_COLOR 0> 46 / Meslek: İmparatorluk Ordusu Tümgenerali / Boy: 172cm / Kilo: 73kg / İkamet: Orduyla bağlantılı bir tesiste kaldığı bildiriliyor ancak doğrulanmadı / En sevdiği yemek: Eşinin ev yemekleri / İdeal partner: Zaten evli (ayrı bir ideal partner hayal etmiş olması pek olası değil, zira bu aile hayatına zarar verirdi) / İlgi alanları: Hayattayken ulusu güçlendirmekti / <U_COLOR 1>Özel not: Bedeni iblis Sukuna-Hikona tarafından ele geçirildi. Bu nedenle artık insan olarak kabul edilemez.<U_COLOR 0>\n\nMesafeli ama kararlı bir tavra sahip Ordu Tümgenerali.\n\nDünya genelinde artan gerilimler anavatanı için duyduğu endişeyi körükledi ve bu nedenle süper savaş gemileri, süper tanklar ve süper lazerler gibi şüphesiz \"süper\" olan pek çok teçhizatın üretilmesini öngören Süper Asker ordusunu kurma planlarını tasarladı.\n\nAdam pek çok söylentinin merkezinde yer alıyor. Bunlar arasında sözde büyü bilgisi, tehditkâr bir asker birliği üzerindeki görünürdeki komutası ve Süper Asker Projesi'nin gerçekleşmesini engelleyebilecek herkesi gizlice ortadan kaldırma niyeti yer alıyor.\n\nMunakata'yı tanıyan pek çok kişi, onun eskisine kıyasla çarpıcı biçimde farklı bir insan olduğu konusunda hemfikir görünüyor. Görünüşe göre eskiden adamlarına değer veren güvenilir biriymiş. Ancak bir gün kişiliği aniden değişmiş. Ayrıca konuşurken ağzını eliyle kapatmak gibi alışılmadık bir huy edinmiş.\n\nGörünüşe göre Süper Asker Projesi \"süper\" teknolojinin gücünü gerektirdiği için Kaya Daidouji'yi kaçırtmış. Detaylar şu anda soruşturuluyor.\n\n<U_COLOR 1>Amatsukamiler ve Kunitsukamiler arasında süregelen husumetin bir parçası olarak Sukuna-Hikona, Süper Asker Projesi'ni kendi amaçlarına uyarlamak niyetiyle Munakata'nın bedenini ele geçirdi.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0027",
+        "msgStr": "Bu davanın arkasındaki gerçek suçlu.\n\nKuzunoha klanından bir İblis Çağırıcısı olduğuna ve Raidou XL adını aldığına dair bizzat tanıklık etti (hatta On Dördüncü'ye \"büyük selefim\" diye hitap etti. Ne kadar sefilce...).\n\nMotivasyonu, Kırkıncı'nın yaşadığı gelecek dünyayı nihai olarak değiştirmek (veya nereden baktığınıza bağlı olarak yok etmek) amacıyla geçmişi değiştirmek gibi görünüyor. Akarana Koridoru aracılığıyla Raidou XL'in anıları Kaya Daidouji'ye kopyalandı. Sonuç olarak Kırkıncı, Taisho dönemine \"kopyalandı\" ve Munakata'nın Süper Asker Projesi bu gizli gündeme hizmet edecek şekilde ele geçirilip değiştirildi.\n\nŞimdilik sana savaşa odaklanmanı tavsiye ederim, Raidou. Dikkat dağıtıcı unsurları en aza indirmek için bu günlüğü sık sık gözden geçirmemeye çalışacağım.\n\nAma endişelenme—Raidou Kuzunoha XL ile ilgili bu meselenin net bir kaydını tutacağımdan emin olabilirsin. Bu dava çözüldüğünde kaydettiğim bilgiler kontrol etmen (hatta belki bizzat gözden geçirmen, gerçi şimdilik bunu bir kenara bırakalım) için burada olmaya devam edecek.\n\nNot: 21. yüzyılda bir Tanrı ve hizmetkârları Başkent'i ele geçirir. İnsanlar kasıtlı bir cehalete sürüklenir ve görünüşe göre tek çözüm o \"bugünü\" yok etmektir.\n\nAnıları başkalarına kopyalama tekniği, Daidouji ailesinin tüm nesillerindeki kızlar üzerinde eşzamanlı olarak uygulandı. Zamana yapılan bu müdahalenin sonucu, Taisho döneminin yirminci yılına kadar devam etmesi de dahil olmak üzere tarihin çarpıtılması oldu.\n\nSukuna-Hikona, Kırkıncı'nın iblislerinden biridir. Süper Asker Projesi'ni harekete geçirmek üzere Munakata'yı ele geçirmesi ve Kırkıncı'nın anılarının Kaya'ya kopyalanmasını tamamlamak amacıyla onu kaçırması için gönderilmiştir.\n\n<U_COLOR 1>21. yüzyılda bu Raidou, bir \"kurbanlık piyon\" olarak asi unsurları (detayları bilinmiyor) boyunduruk altına almak üzere cepheye gönderildi. Bu dönemde Raidou adını alanlar bir yıldan fazla hayatta kalabilirlerse şanslı sayılıyorlar—bazıları yalnızca birkaç gün dayanabildi. Ayrıca Yatagarasu çoktan dağıtıldı ve Kuzunoha klanı da bunun sonucunda sıradan bir askeri unsura indirgendi.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT05_L0044",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:27:50"
+}

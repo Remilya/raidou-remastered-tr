@@ -1,0 +1,101 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MJN_AGARIMSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MJN_AGARIMSG_L0000",
+        "msgStr": "Tsumo"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0001",
+        "msgStr": "Ron"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0002",
+        "msgStr": " Fu"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0003",
+        "msgStr": " Han"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0004",
+        "msgStr": "Mangan"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0005",
+        "msgStr": "Haneman"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0006",
+        "msgStr": "Baiman"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0007",
+        "msgStr": "Sanbaiman"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0008",
+        "msgStr": "Yakuman"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0009",
+        "msgStr": "Çifte Yakuman"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0010",
+        "msgStr": "Sanbai Yakuman"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0011",
+        "msgStr": "Yonbai Yakuman"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0012",
+        "msgStr": "Furiten"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0013",
+        "msgStr": "Yaku Yok"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0014",
+        "msgStr": "Berabere"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0015",
+        "msgStr": "Kyuushu Kyuuhai"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0016",
+        "msgStr": "Suufuu Renda"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0017",
+        "msgStr": "Suucha Riichi"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0018",
+        "msgStr": "Suukai Kan"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0019",
+        "msgStr": "Atılan Kazanan Taş"
+      },
+      {
+        "msgID": "MJN_AGARIMSG_L0020",
+        "msgStr": "Noten Riichi"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:03:04"
+}

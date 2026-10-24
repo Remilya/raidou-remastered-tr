@@ -1,0 +1,89 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E66X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e660_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E660_001_L0000",
+        "msgStr": "Ortaya çık!"
+      },
+      {
+        "msgID": "E660_001_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E660_001_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E660_001_L0004",
+        "msgStr": "Hnnnnngh!"
+      },
+      {
+        "msgID": "E660_001_L0005",
+        "msgStr": "Hadi gidelim, Yasomagatsu!"
+      },
+      {
+        "msgID": "e660_003_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E660_003_L0001",
+        "msgStr": "Hıh!"
+      },
+      {
+        "msgID": "e661_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E661_001_L0000",
+        "msgStr": "Ha?"
+      },
+      {
+        "msgID": "E661_001_L0001",
+        "msgStr": "Neeeeeee!?"
+      },
+      {
+        "msgID": "E661_001_L0002",
+        "msgStr": "Ah..."
+      },
+      {
+        "msgID": "e661_002_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E661_002_L0001",
+        "msgStr": "Hıh..."
+      },
+      {
+        "msgID": "e662_001_e659_01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E662_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e663_001_JMS_ENTER_01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E663_001_L0000",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:49:48"
+}

@@ -1,0 +1,669 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "BASYONAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "BASYONAME_L0000",
+        "msgStr": "Tsukudo-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0001",
+        "msgStr": "Ginza-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0002",
+        "msgStr": "Ryugu Ön Girişi"
+      },
+      {
+        "msgID": "BASYONAME_L0003",
+        "msgStr": "Geçici Üst Geçit"
+      },
+      {
+        "msgID": "BASYONAME_L0004",
+        "msgStr": "Shin-Sekai Ön Kapısı"
+      },
+      {
+        "msgID": "BASYONAME_L0005",
+        "msgStr": "Kırmızı Fener Mahallesi"
+      },
+      {
+        "msgID": "BASYONAME_L0006",
+        "msgStr": "Fukagawa-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0007",
+        "msgStr": "Daikoku-yu"
+      },
+      {
+        "msgID": "BASYONAME_L0008",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0009",
+        "msgStr": "Katolik Kilisesi"
+      },
+      {
+        "msgID": "BASYONAME_L0010",
+        "msgStr": "Yabancılar Mezarlığı"
+      },
+      {
+        "msgID": "BASYONAME_L0011",
+        "msgStr": "Sakuradayama"
+      },
+      {
+        "msgID": "BASYONAME_L0012",
+        "msgStr": "İsimsiz Tapınak"
+      },
+      {
+        "msgID": "BASYONAME_L0013",
+        "msgStr": "Kasumidai"
+      },
+      {
+        "msgID": "BASYONAME_L0014",
+        "msgStr": "Daidouji Konağı 1. Kat"
+      },
+      {
+        "msgID": "BASYONAME_L0015",
+        "msgStr": "Daidouji Konağı 2. Kat"
+      },
+      {
+        "msgID": "BASYONAME_L0016",
+        "msgStr": "Daidouji Konağı Bodrum Katı"
+      },
+      {
+        "msgID": "BASYONAME_L0017",
+        "msgStr": "Kiler"
+      },
+      {
+        "msgID": "BASYONAME_L0018",
+        "msgStr": "Fabrika İçi"
+      },
+      {
+        "msgID": "BASYONAME_L0019",
+        "msgStr": "Matris Labirenti"
+      },
+      {
+        "msgID": "BASYONAME_L0020",
+        "msgStr": "Tersane B1"
+      },
+      {
+        "msgID": "BASYONAME_L0021",
+        "msgStr": "Tersane B2"
+      },
+      {
+        "msgID": "BASYONAME_L0022",
+        "msgStr": "Tersane B3"
+      },
+      {
+        "msgID": "BASYONAME_L0023",
+        "msgStr": "Tersane B4"
+      },
+      {
+        "msgID": "BASYONAME_L0024",
+        "msgStr": "Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "BASYONAME_L0025",
+        "msgStr": "1930"
+      },
+      {
+        "msgID": "BASYONAME_L0026",
+        "msgStr": "1940"
+      },
+      {
+        "msgID": "BASYONAME_L0027",
+        "msgStr": "1950"
+      },
+      {
+        "msgID": "BASYONAME_L0028",
+        "msgStr": "1960"
+      },
+      {
+        "msgID": "BASYONAME_L0029",
+        "msgStr": "1960"
+      },
+      {
+        "msgID": "BASYONAME_L0030",
+        "msgStr": "1970"
+      },
+      {
+        "msgID": "BASYONAME_L0031",
+        "msgStr": "1980"
+      },
+      {
+        "msgID": "BASYONAME_L0032",
+        "msgStr": "1990"
+      },
+      {
+        "msgID": "BASYONAME_L0033",
+        "msgStr": "2000"
+      },
+      {
+        "msgID": "BASYONAME_L0034",
+        "msgStr": "2030"
+      },
+      {
+        "msgID": "BASYONAME_L0035",
+        "msgStr": "2020"
+      },
+      {
+        "msgID": "BASYONAME_L0036",
+        "msgStr": "2050"
+      },
+      {
+        "msgID": "BASYONAME_L0037",
+        "msgStr": "2010"
+      },
+      {
+        "msgID": "BASYONAME_L0038",
+        "msgStr": "2040"
+      },
+      {
+        "msgID": "BASYONAME_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0040",
+        "msgStr": "20XX"
+      },
+      {
+        "msgID": "BASYONAME_L0041",
+        "msgStr": "20XX"
+      },
+      {
+        "msgID": "BASYONAME_L0042",
+        "msgStr": "20XX"
+      },
+      {
+        "msgID": "BASYONAME_L0043",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "BASYONAME_L0044",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "BASYONAME_L0045",
+        "msgStr": "Boyutsal Yarık - 199X"
+      },
+      {
+        "msgID": "BASYONAME_L0046",
+        "msgStr": "Boyutsal Yarık"
+      },
+      {
+        "msgID": "BASYONAME_L0047",
+        "msgStr": "Kullanılmayan"
+      },
+      {
+        "msgID": "BASYONAME_L0048",
+        "msgStr": "Kullanılmayan"
+      },
+      {
+        "msgID": "BASYONAME_L0049",
+        "msgStr": "Eğitim Salonu B1"
+      },
+      {
+        "msgID": "BASYONAME_L0050",
+        "msgStr": "Eğitim Salonu B2"
+      },
+      {
+        "msgID": "BASYONAME_L0051",
+        "msgStr": "Eğitim Salonu B3"
+      },
+      {
+        "msgID": "BASYONAME_L0052",
+        "msgStr": "Eğitim Salonu B4"
+      },
+      {
+        "msgID": "BASYONAME_L0053",
+        "msgStr": "Eğitim Salonu B5"
+      },
+      {
+        "msgID": "BASYONAME_L0054",
+        "msgStr": "Eğitim Salonu B6"
+      },
+      {
+        "msgID": "BASYONAME_L0055",
+        "msgStr": "Eğitim Salonu B7"
+      },
+      {
+        "msgID": "BASYONAME_L0056",
+        "msgStr": "Eğitim Salonu B8"
+      },
+      {
+        "msgID": "BASYONAME_L0057",
+        "msgStr": "Eğitim Salonu B9"
+      },
+      {
+        "msgID": "BASYONAME_L0058",
+        "msgStr": "Eğitim Salonu B10"
+      },
+      {
+        "msgID": "BASYONAME_L0059",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "BASYONAME_L0060",
+        "msgStr": "Kuzunoha Eğitim Salonu"
+      },
+      {
+        "msgID": "BASYONAME_L0061",
+        "msgStr": "Eğitim Salonu - Doğu"
+      },
+      {
+        "msgID": "BASYONAME_L0062",
+        "msgStr": "Eğitim Salonu - Batı"
+      },
+      {
+        "msgID": "BASYONAME_L0063",
+        "msgStr": "Eğitim Salonu - Güney"
+      },
+      {
+        "msgID": "BASYONAME_L0064",
+        "msgStr": "Eğitim Salonu - Kuzey"
+      },
+      {
+        "msgID": "BASYONAME_L0065",
+        "msgStr": "Karanlık Tsukudo-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0066",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0067",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0068",
+        "msgStr": "Karanlık Kırmızı Fener Mahallesi"
+      },
+      {
+        "msgID": "BASYONAME_L0069",
+        "msgStr": "Karanlık Fukagawa-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0070",
+        "msgStr": "Karanlık Harumi-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0071",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "BASYONAME_L0072",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "BASYONAME_L0073",
+        "msgStr": "Karanlık Kasumidai"
+      },
+      {
+        "msgID": "BASYONAME_L0074",
+        "msgStr": "Waden One - Alt"
+      },
+      {
+        "msgID": "BASYONAME_L0075",
+        "msgStr": "Waden One - Orta"
+      },
+      {
+        "msgID": "BASYONAME_L0076",
+        "msgStr": "Waden One - Üst"
+      },
+      {
+        "msgID": "BASYONAME_L0077",
+        "msgStr": "Kubbe İçi"
+      },
+      {
+        "msgID": "BASYONAME_L0078",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "BASYONAME_L0079",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "BASYONAME_L0080",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "BASYONAME_L0081",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "BASYONAME_L0082",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "BASYONAME_L0083",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "BASYONAME_L0084",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "BASYONAME_L0085",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "BASYONAME_L0086",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "BASYONAME_L0087",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0088",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "BASYONAME_L0089",
+        "msgStr": "Tersane Rıhtımı"
+      },
+      {
+        "msgID": "BASYONAME_L0090",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "BASYONAME_L0091",
+        "msgStr": "Konnou-ya"
+      },
+      {
+        "msgID": "BASYONAME_L0092",
+        "msgStr": "Ushigome-Gaeri Köprüsü"
+      },
+      {
+        "msgID": "BASYONAME_L0093",
+        "msgStr": "Karukogawa Alışveriş Bölgesi"
+      },
+      {
+        "msgID": "BASYONAME_L0094",
+        "msgStr": "Kamishiro-zaka"
+      },
+      {
+        "msgID": "BASYONAME_L0095",
+        "msgStr": "Tamonten Tapınağı"
+      },
+      {
+        "msgID": "BASYONAME_L0096",
+        "msgStr": "Tsukudo-cho İskelesi"
+      },
+      {
+        "msgID": "BASYONAME_L0097",
+        "msgStr": "Kurisu-zaka"
+      },
+      {
+        "msgID": "BASYONAME_L0098",
+        "msgStr": "Shirorenga Yolu"
+      },
+      {
+        "msgID": "BASYONAME_L0099",
+        "msgStr": "İnşaat Alanı"
+      },
+      {
+        "msgID": "BASYONAME_L0100",
+        "msgStr": "Ryugu Restoranı"
+      },
+      {
+        "msgID": "BASYONAME_L0101",
+        "msgStr": "Daikoku-yu Ön Kapısı"
+      },
+      {
+        "msgID": "BASYONAME_L0102",
+        "msgStr": "Daikoku Köprüsü"
+      },
+      {
+        "msgID": "BASYONAME_L0103",
+        "msgStr": "Fukagawa 6. Bölge"
+      },
+      {
+        "msgID": "BASYONAME_L0104",
+        "msgStr": "Sergi Salonu"
+      },
+      {
+        "msgID": "BASYONAME_L0105",
+        "msgStr": "Boş Arsa"
+      },
+      {
+        "msgID": "BASYONAME_L0106",
+        "msgStr": "Fukagawa-cho Rıhtımı"
+      },
+      {
+        "msgID": "BASYONAME_L0107",
+        "msgStr": "Geceboyu Lambası Önü"
+      },
+      {
+        "msgID": "BASYONAME_L0108",
+        "msgStr": "Hakurai Alışveriş Bölgesi"
+      },
+      {
+        "msgID": "BASYONAME_L0109",
+        "msgStr": "Yabancı Yerleşim Bölgesi"
+      },
+      {
+        "msgID": "BASYONAME_L0110",
+        "msgStr": "Harumi-cho Savak Kapısı"
+      },
+      {
+        "msgID": "BASYONAME_L0111",
+        "msgStr": "Su Deposu"
+      },
+      {
+        "msgID": "BASYONAME_L0112",
+        "msgStr": "Donanma Karargâhı"
+      },
+      {
+        "msgID": "BASYONAME_L0113",
+        "msgStr": "Katolik Kilisesi Önü"
+      },
+      {
+        "msgID": "BASYONAME_L0114",
+        "msgStr": "Harumi-cho Limanı"
+      },
+      {
+        "msgID": "BASYONAME_L0115",
+        "msgStr": "Omitsu Tapınağı"
+      },
+      {
+        "msgID": "BASYONAME_L0116",
+        "msgStr": "Waden One Önü"
+      },
+      {
+        "msgID": "BASYONAME_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0118",
+        "msgStr": "Meclis Binası"
+      },
+      {
+        "msgID": "BASYONAME_L0119",
+        "msgStr": "Ordu Karargâhı"
+      },
+      {
+        "msgID": "BASYONAME_L0120",
+        "msgStr": "Yüce Mahkeme"
+      },
+      {
+        "msgID": "BASYONAME_L0121",
+        "msgStr": "Nöbetçi Kulübesi"
+      },
+      {
+        "msgID": "BASYONAME_L0122",
+        "msgStr": "Kiler"
+      },
+      {
+        "msgID": "BASYONAME_L0123",
+        "msgStr": "Hücre"
+      },
+      {
+        "msgID": "BASYONAME_L0124",
+        "msgStr": "İpekböcekçiliği Odası"
+      },
+      {
+        "msgID": "BASYONAME_L0125",
+        "msgStr": "Depo Odası"
+      },
+      {
+        "msgID": "BASYONAME_L0126",
+        "msgStr": "Ambar"
+      },
+      {
+        "msgID": "BASYONAME_L0127",
+        "msgStr": "Sunak Önü"
+      },
+      {
+        "msgID": "BASYONAME_L0128",
+        "msgStr": "Sunak"
+      },
+      {
+        "msgID": "BASYONAME_L0129",
+        "msgStr": "Tsukudo-cho Rıhtımı"
+      },
+      {
+        "msgID": "BASYONAME_L0130",
+        "msgStr": "Harumi-cho Rıhtımı"
+      },
+      {
+        "msgID": "BASYONAME_L0131",
+        "msgStr": "Harumi-cho Rıhtımı"
+      },
+      {
+        "msgID": "BASYONAME_L0132",
+        "msgStr": "Katolik Kilisesi Önü"
+      },
+      {
+        "msgID": "BASYONAME_L0133",
+        "msgStr": "Harumi-cho Rıhtımı"
+      },
+      {
+        "msgID": "BASYONAME_L0134",
+        "msgStr": "Katolik Kilisesi Önü"
+      },
+      {
+        "msgID": "BASYONAME_L0135",
+        "msgStr": "Harumi-cho Rıhtımı"
+      },
+      {
+        "msgID": "BASYONAME_L0136",
+        "msgStr": "Sunak Önü"
+      },
+      {
+        "msgID": "BASYONAME_L0137",
+        "msgStr": "Sunak"
+      },
+      {
+        "msgID": "BASYONAME_L0138",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "BASYONAME_L0139",
+        "msgStr": "Karanlık Daidouji Konağı"
+      },
+      {
+        "msgID": "BASYONAME_L0140",
+        "msgStr": "Geçici Üst Geçit"
+      },
+      {
+        "msgID": "BASYONAME_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BASYONAME_L0160",
+        "msgStr": "İsimsiz Tapınak: Tilki (Sol)"
+      },
+      {
+        "msgID": "BASYONAME_L0161",
+        "msgStr": "İsimsiz Tapınak: Tilki (Sağ)"
+      },
+      {
+        "msgID": "BASYONAME_L0162",
+        "msgStr": "Veri Yok"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/24 21:35:11"
+}

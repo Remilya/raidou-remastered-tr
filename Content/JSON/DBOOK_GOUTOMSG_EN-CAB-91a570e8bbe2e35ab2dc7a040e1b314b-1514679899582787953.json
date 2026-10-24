@@ -1,0 +1,673 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_GOUTOMSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L00_00",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_01",
+        "msgStr": "Kazama (ya da daha doğrusu polis) kızın kaçırılması hakkında bir şeyler biliyor gibi görünüyor. Raidou, git ve iblisinin yeteneklerini kullanarak ne sakladığını öğren."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_02",
+        "msgStr": "Kız, Daidouji ailesinin bir üyesi olabilir. Daidouji Malikânesi'ne gidelim ve neler öğrenebileceğimize bakalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_03",
+        "msgStr": "Kâhya bizi pek hoş karşılamadı. Gerçi dedektifler nadiren hoş karşılanan misafirlerdir. Ancak sır saklayanların olduğu yerde, gerçeği ortaya çıkarmaya çalışanlar da olacaktır. Daidouji Malikânesi'nde neler öğrenebileceğimize bakalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_04",
+        "msgStr": "İnsan doğası, girilmesi yasak olan bölgelere karşı içsel bir merak uyandırır. Burada bir şeylerin izini bulduğumuzdan şüpheleniyorum, Raidou. Neden İblis Çağırıcısı yeteneklerini kullanıp soruşturmamıza yardım etmesi için bir iblise komut vermiyorsun? Herhangi biri iş görür."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_05",
+        "msgStr": "Kaya'nın bir fotoğrafını elde ettik; etrafa soruştururken şüphesiz çok işimize yarayacaktır. Özellikle Ouran Lisesi öğrencilerini aramaya özen göstermeliyiz. Bu arada, Fujiko Salonu'nun kız öğrenciler arasında popüler bir buluşma noktası olduğunu duydum."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_06",
+        "msgStr": "Kaya Daidouji'yi şahsen tanıyan birini öğrendik: Okuldan Rin adında bir arkadaşı. Onunla temasa geçmeye çalışalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_07",
+        "msgStr": "Kaya'nın okul arkadaşı Rin, Karanlık Diyar'a sürüklendi. Bu büyük ihtimalle bir iblisin işidir. İblislerin Başkent halkını avlamasına izin veremeyiz. Acele et, Raidou—bu çıkmaz bir İblis Çağırıcısı gerektiriyor."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_08",
+        "msgStr": "Kaya'nın okul arkadaşı Rin, Karanlık Diyar'a sürüklendi. Bu büyük ihtimalle bir iblisin işidir. İblislerin Başkent halkını avlamasına izin veremeyiz. Acele et, Raidou—bu çıkmaz bir İblis Çağırıcısı gerektiriyor."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_09",
+        "msgStr": "O iblis Tsuchigumo bizimle alay ediyor ve onu yakında kurtarmazsak Rin'i yiyeceğini söylüyor. Ne küstahlık. Raidou, Başkent'i koruyan İblis Çağırıcısı olma gururun adına Rin'i kurtarmalısın."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_10",
+        "msgStr": "Rin burnu bile kanamadan kurtarıldı. Ne büyük bir rahatlama. İyi iş çıkardın, Raidou—yeteneklerin açıkça gelişiyor. Şimdi ona Kaya'yı soralım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_11",
+        "msgStr": "Daidouji ailesi içinde nesilden nesile aktarılan şarkı bir \"uçurumdan\" bahsediyor. Gerçeği öğrenmek için Daidouji Malikânesi'ne geri dönmeliyiz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_12",
+        "msgStr": "Gerçekten de Daidouji Malikânesi'nin altında bir bodrum katı var, ancak pek çok şey hâlâ belirsiz. \"İblisin kanı\" ve bu \"uçurumda\" \"katledilmesi gerektiği\"...\n\nHer halükârda bölge tehditlerle kaynıyor. Yalnızca bu tür işlerde uzmanlaşmış biri bu tehlikeye göğüs germeyi umabilir. Yeraltında bizi tam olarak neyin beklediğini merak ediyorum."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_13",
+        "msgStr": "Daidouji Malikânesi'nin altında \"iblisin kanı\" ile ilgili somut bir bilgi bulamadık ama büyük bir kaplumbağayı andıran Büyük Tarrasque adında bir iblis bulduk. Bizi kendisine şarap bulmamız için bir ayak işine gönderdi."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_14",
+        "msgStr": "Hizmetkârlardan biri başkâhya Nakamura'dan epey azar işitti. Onun söylediğine göre aradığımız şarap Tsukudo-cho'daki bir dükkânda bulunabilirmiş. Elimiz çabuk tutalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_15",
+        "msgStr": "Lanet olası Tarrasque... Al şarabını da yolumuza gidelim!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_16",
+        "msgStr": "Daidouji evinin altındaki bu \"uçurumu\" keşfetmeye devam etmemizin vakti geldi."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_17",
+        "msgStr": "Daidouji Malikânesi'nin içindeki \"uçurumun\" derinliklerinde, Kaya'nın bir süre hapsedildiğinden şüphelendiğimiz bir hapishane bulduk. Görünüşe göre bu saygın ailenin dolabında birkaç karanlık sır saklı.\n\nKaya'nın kaçırılmasında Kiyoshi Daidouji'nin parmağı var gibi görünüyor. Gidip bu konuda ne söyleyeceğine bakalım, Raidou."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_18",
+        "msgStr": "Kiyoshi oturma odasında ama şu anda bir konukla meşgul ve Nakamura yaklaşmamıza izin vermiyor. Şansımıza, bir İblis Çağırıcısı olarak Kiyoshi'nin konuşmasını gizlice dinlemek üzere bir iblisi tekil soruşturmaya gönderebilirsin."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_19",
+        "msgStr": "İblisinin dinlediği konuşmadan, Kaya'nın kaçırılmasının gerçekten de kısmen amcası Kiyoshi tarafından tezgâhlandığını öğrendik. Kiyoshi'nin gizemli konuğu tarafından yönlendirilmiş olması da mümkün. Bu ziyaretçi her kimse Kuzunoha'yı biliyordu ve hatta bizim için iblislerden oluşan bir pusu kurdu. Bu iş sıradan bir davadan çok daha fazlası gibi görünmeye başladı.\n\nRaidou, dedektiflik bürosuna dönmeli ve bundan sonra bu soruşturmayı nasıl yürüteceğimizi Narumi ile tartışmalıyız. Arada bir kafasını kullansa fena olmaz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_20",
+        "msgStr": "Narumi soruşturmaya nasıl devam etmemiz gerektiği konusunda şaşırtıcı derecede iyi fikirler üretti. Kiyoshi'nin gizemli konuğunun kimliği hâlâ bilinmiyor ama iblisler hakkında bilgiliydi, bu yüzden onu tehlikeli kabul etmeliyiz. Şimdilik bizzat Kiyoshi'yi soruşturmaya odaklanacağız—zaten konuğu hakkında bize daha fazla bilgiyi de o verebilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_21",
+        "msgStr": "İblisler tarafından kaçırıldıktan sonra Kaya'yı arayarak işe başladık. Şimdi de amcası Kiyoshi kaçmadan önce kendisi bir tür iblise dönüştü. Ondan cevap alma umudumuz da böylece suya düştü. İblisleri içeren bir dava için bile tüm bunlar fazlasıyla sıra dışı hissettiriyor."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_01",
+        "msgStr": "Başkent Günlüğü'nün kendine göre yıldız muhabiri Tae Asakura, Ginza-cho'daki Ryugu'da Kırmızı Pelerin canavarının bir fotoğrafını çekmeyi başarmış. Kiyoshi'nin dönüştüğü yaratığa çarpıcı bir benzerlik gösteriyor. Bilgi toplamak için Ryugu'ya gitsek iyi olur."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_02",
+        "msgStr": "Başkent Günlüğü'nün kendine göre yıldız muhabiri Tae Asakura, Ginza-cho'daki Ryugu'da Kırmızı Pelerin canavarının bir fotoğrafını çekmeyi başarmış. Kiyoshi'nin dönüştüğü yaratığa çarpıcı bir benzerlik gösteriyor. Bilgi toplamak için Ryugu'ya gitsek iyi olur."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_03",
+        "msgStr": "Başkent Günlüğü'nün kendine göre yıldız muhabiri Tae Asakura, Ginza-cho'daki Ryugu'da Kırmızı Pelerin canavarının bir fotoğrafını çekmeyi başarmış. Kiyoshi'nin dönüştüğü yaratığa çarpıcı bir benzerlik gösteriyor. Bilgi toplamak için Ryugu'ya gitsek iyi olur."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_04",
+        "msgStr": "Ryugu'nun sahibine göre Kiyoshi'nin, görünüşe göre Fukagawa-cho'da yaşayan Denpachi adında bir çekçekçiyle bazı işleri olmuş. Bu Denpachi'yi bir ziyaret edelim. Belki bize Kiyoshi'nin nerede olduğuna dair bir ipucu verebilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_05",
+        "msgStr": "Ryugu'nun sahibine göre Kiyoshi'nin, görünüşe göre Fukagawa-cho'da yaşayan Denpachi adında bir çekçekçiyle bazı işleri olmuş. Bu Denpachi'yi bir ziyaret edelim. Belki bize Kiyoshi'nin nerede olduğuna dair bir ipucu verebilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_06",
+        "msgStr": "Birkaç yakuza serserisi, Fukagawa-cho'da dedektiflik işi yapabilmemiz için önce Kanto Haguro Ailesi'nin patronu Satake'den izin almamız gerektiğini söyledi. Eh, Raidou, görünüşe göre Satake ile hamamı Daikoku-yu'da yüzleşmekten başka seçeneğin yok. Yalnızca ona eşlik edebilecek yalakalarına dikkat et ve iş o noktaya gelirse onlara hadlerini bildirmekten çekinme."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_07",
+        "msgStr": "Satake'nin onayını ve Fukagawa-cho'da soruşturma yapma iznini aldıktan sonra, bize Daikoku-yu'dan çıkıp köprüyü geçersek Denpachi'nin yerini bulabileceğimizi söyledi. Ancak rahatsız edici bir şeyden de bahsetti: \"Kırmızılı tuhaf askerler oradan geçip duruyormuş.\" Eğer bu tahmin ettiğim anlama geliyorsa tetikte olsak iyi olur."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_08",
+        "msgStr": "Denpachi'nin evine vardığımızda kırmızı giyimli bazı Özel Muhafızlarla karşılaştık—Kaya'yı kaçıranların aynısı. Ne tesadüf ama. Amaçlarını anlamaya çalışmak adına yakalanmamıza izin verdik ve bizi Karanlık Fukagawa-cho'ya götürdüler. Görünüşe göre bu muhafızlar insanları buraya hapsediyor. Acaba neden...\n\nHer neyse, o Özel Muhafızlar gittiğine göre bu fırsatı değerlendirip diğer mahkûmları kontrol edelim ve kaçalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_09",
+        "msgStr": "Karanlık Fukagawa-cho'da hapsedilmiş yalnızca bir adam vardı. Görünüşüne bakılırsa büyük ihtimalle aradığımız çekçekçi Denpachi'dir. Onu kurtarmak için belirli bir alete ihtiyacımız var ve bu iş için doğru aleti bulmak adına Konnou-ya'dan daha iyi bir yer olabilir mi?"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_10",
+        "msgStr": "Karanlık Fukagawa-cho'da hapsedilmiş yalnızca bir adam vardı. Görünüşüne bakılırsa büyük ihtimalle aradığımız çekçekçi Denpachi'dir. Onu kurtarmak için belirli bir alete ihtiyacımız var ve bu iş için doğru aleti bulmak adına Konnou-ya'dan daha iyi bir yer olabilir mi?"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_11",
+        "msgStr": "Konnou-ya'dan Karanlık Fukagawa-cho'daki hapishaneyi açabilecek bir alet aldık. Narumi bunun parasını bize geri ödemeli ama şimdilik başka önceliklerimiz var. Karanlık Fukagawa-cho'ya dönmeli ve o adamı kurtarmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_12",
+        "msgStr": "Elimizde maymuncukla Karanlık Fukagawa-cho'ya yeniden girdik. Görünüşe göre o Özel Muhafızlar devriyelerini sıklaştırmış—kaçtığımızı fark etmiş olabilirler. Dikkatli olmazsak Denpachi olabilecek o adama ulaşamayız. Raidou, fark edilmeden geçmenin bir yolunu bulmaya çalışalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_13",
+        "msgStr": "Kurtardığımız adam gerçekten de Denpachi Iida idi. Kiyoshi Daidouji'yi tanıyor gibi görünüyor ama konuşmasını istiyorsak önce kız kardeşi Shizu'yu bulmamız gerektiğini söylüyor. Elimizde pek bir ipucu yok ama sanırım Satake insanları bulma konusundaki yeteneğine güvendiğinden bahsetmişti."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_14",
+        "msgStr": "Satake bize Shizu'nun Fukagawa-cho'daki Kırmızı Fener Mahallesi'nde çalıştığını söyledi. Gidip onunla görüşelim ve ona Denpachi'den bahsedelim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_15",
+        "msgStr": "Kırmızı Fener Mahallesi'nde Shizu ile görüştük ve ona ağabeyi Denpachi'nin kendisini aradığını söyledik ama kocasının saldırganı yakalanana kadar eve dönmeyeceğini söyledi. Yani şimdi de bir başkasının izini sürmemiz gerekiyor. Ağabeyi neyse kız kardeşi de o, sanırım. Bütün bu sapmalarla birlikte tekrar asıl işimize dönüp Kiyoshi'yi ne zaman bulabileceğimizi merak etmeden edemiyorum. Neyse, dedektiflik bürosuna dönelim ve bir plan yapalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_16",
+        "msgStr": "Ginza-cho'daki Kurisu-zaka üst geçidinin altında yaşanan kazayla ilgili Shizu'nun davası üzerinde çalışırken, Tae'nin bizim için bazı bilgileri olduğunu duyduk. Gel, Raidou. Shin-Sekai'da onunla buluşalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_17",
+        "msgStr": "Tae'ye göre Kırmızı Pelerin dolunay zamanlarında defalarca görülmüş ve en sık Ginza-cho'daki Kurisu-zaka üst geçidinin altında tespit edilmiş. Orası aynı zamanda Shizu'nun kocasının saldırıya uğradığı yer. Bölgeyi araştırmalıyız, Raidou."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_18",
+        "msgStr": "Dolunay sırasında Kurisu-zaka üst geçidine geldik ama Kırmızı Pelerin yerine iblis Oboroguruma'yı bulduk. Tamamen yanılmışız.\n\nAncak şaşırtıcı bir şekilde Oboroguruma da Kırmızı Pelerin'in saldırısının bir kurbanıymış. Görünüşe göre Kırmızı Pelerin otomobilleri hedef alıyormuş. Oboroguruma bize Kırmızı Pelerin'in daha önce düşürdüğü bir çekçek topuzu verdi. Soruşturmamızın gidişatını Shizu'ya bildirmeliyiz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_19",
+        "msgStr": "Shizu, çekçek topuzunu ve tesadüfen yerden aldığımız uğur tılsımını görünce tuhaf davranmaya başladı. Bir şeyler biliyor olabilir.\n\nSakinleştikten sonra uğur tılsımını kendisinde tutmak istedi. Tılsımı ona verdiğimizde işine dönmeden önce onu özenle tuttu.\n\nÇekçek topuzuna gelince, bunu Denpachi'ye sormak en iyisi olabilir. Bakalım onunla Ryugu'da görüşebilecek miyiz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_20",
+        "msgStr": "Denpachi, Ryugu'daki işine gelmemiş. Ayrıca mekanın sahibi bize Ginza-cho'da bir taksinin daha saldırıya uğradığını söyledi. İçimde buna dair kötü bir his var."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_21",
+        "msgStr": "Sonunda Ginza-cho'daki Kurisu-zaka üst geçidinde Kırmızı Pelerin ile karşılaştık. Ancak korkak herif çok hızlıydı ve Karanlık Diyar'a kaçtı. Peşinden, Raidou! Giriş Ritüeli'ni gerçekleştir ve onu kovala!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_22",
+        "msgStr": "Görünüşe göre Kırmızı Pelerin, Ginza-cho'nun inşaat alanlarından birinde bir yerlerde. Onun izini bulalım, Raidou."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_23",
+        "msgStr": "Kırmızı Pelerin, Ginza-cho'daki Ana Cadde'de."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_24",
+        "msgStr": "Kırmızı Pelerin'i Ginza-cho inşaat alanının üst geçidinin altında hissettik. Hiç durmadan hareket ediyor. Farketmez. Onu yakalamalıyız, bu yüzden takibimize devam edelim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_25",
+        "msgStr": "Kırmızı Pelerin şimdi de Lamia'nın yakınlarında bir yerde gibi görünüyor. Kelimenin tam anlamıyla bir hız iblisi, değil mi? Ama şimdi pes etmeyelim, Raidou. Peşinden!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_26",
+        "msgStr": "Kırmızı Pelerin'i Ginza-cho'daki inşaat alanının alt katlarında bir yerde hissettik. Lanet olası Kırmızı Pelerin, vazgeç artık! Neyse, peşinden gitmeye devam edelim, Raidou.\n\nNot: O otomobili hareket ettirmeyi planlıyorsak, onu kenara itmeye yetecek kadar kuvvet kullanabilen bir iblise ihtiyacımız olacak."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_27",
+        "msgStr": "Kırmızı Pelerin, Ginza-cho inşaat alanının üst geçidinin altında görünüyor. Bütün bu güncellemeleri yazmak epey yorucu olmaya başladı. Yine de ısrarla devam edeceğiz. Değil mi, Raidou?"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_28",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L02_29",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_01",
+        "msgStr": "Kiyoshi Daidouji'nin fabrikası Daidouji Tekstil söylenenlere göre yakında kapatılacakmış. Görünüşe göre burası Kiyoshi'nin \"en değer verdiği yer.\" Raidou, Daidouji Tekstil'e doğru yola çıkalım.\n\nNarumi'nin bize verdiği kol düğmesini de merak ediyorum. Belki de önce Daidouji Malikânesi'ne uğrayıp bunu Nakamura'ya sormalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_02",
+        "msgStr": "Kiyoshi'nin burada, Daidouji Tekstil'de saklanıyor olma ihtimali yüksek. Etrafa bir göz atalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_03",
+        "msgStr": "Kiyoshi'nin burada, Daidouji Tekstil'de saklanıyor olma ihtimali yüksek. Etrafa bir göz atalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_04",
+        "msgStr": "Daha önce Daidouji Malikânesi'nde gizemli bir İblis Çağırıcısı bize saldırması için iblis Ichimokuren'i göndermiş ve bu da Kiyoshi'nin kaçmasını sağlamıştı. Şimdi görünüşe göre aynı İblis Çağırıcısı yine iş başında. Bu sefer ilerlememizi engellemek için fabrikanın içine bir mühür yerleştirmiş. Mührü kırmak için onun Matris Labirenti'nin içindeki üç parçayı bulmamız gerekecek.\n\n(Bu arada, Tae'nin birden fazla Kırmızı Pelerin olduğuna dair söyledikleri merakımı cezbediyor.)"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_05",
+        "msgStr": "Daidouji Malikânesi'ndeki gizemli İblis Çağırıcısı yine iş başında. Bu sefer ilerlememizi engellemek için fabrikanın içine bir mühür yerleştirmiş. Mührü kırmak için onun Matris Labirenti'nin içindeki üç parçayı bulmamız gerekecek. Birini bulduk, yani hâlâ iki taneye daha ihtiyacımız var."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_06",
+        "msgStr": "Daidouji Malikânesi'ndeki gizemli İblis Çağırıcısı yine iş başında. Bu sefer ilerlememizi engellemek için fabrikanın içine bir mühür yerleştirmiş. Mührü kırmak için onun Matris Labirenti'nin içindeki üç parçayı bulmamız gerekecek. İki tanesini bulduk—geriye yalnızca bir tane kaldı."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_07",
+        "msgStr": "O İblis Çağırıcısı'nın Matris Labirenti'ndeki tüm parçaları topladık. Artık fabrikadaki mührü nihayet kırabilirsin, Raidou."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_08",
+        "msgStr": "Bir fabrika işçisine göre Bay Daidouji depodaymış. O baş belası Matris Labirenti yüzünden fabrika Karanlık Diyar'a çekildiğinde muhtemelen hâlâ içerideydi.\n\nDikkatli ol, Raidou. O İblis Çağırıcısı yakınlarda pusuda bekliyor olabilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_01",
+        "msgStr": "Görünüşe göre Konnou-ya'nın malları Harumi-cho'da demirlemiş gemilerden kayboluyor.\n\nHarumi-cho'ya pek çok yabancı gemi ve insan gelip gider. Bu, o Karanlık Çağırıcı Rasputin'i araştırmak için iyi bir fırsat olabilir.\n\nBunu aklımızda tutarak Harumi-cho'ya doğru yola çıkalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_02",
+        "msgStr": "Görünüşe göre Konnou-ya'nın malları Harumi-cho'da demirlemiş gemilerden kayboluyor.\n\nHarumi-cho'ya pek çok yabancı gemi ve insan gelip gider. Bu, o Karanlık Çağırıcı Rasputin'i araştırmak için iyi bir fırsat olabilir.\n\nBunu aklımızda tutarak Harumi-cho'ya doğru yola çıkalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_03",
+        "msgStr": "Rasputin hakkında herhangi bir ipucu bulamadık ama Ryugu'nun sahibinden Konnou-ya'nın durumunu öğrendik (polis bu meseleyi pek ciddiye almıyor gibi görünüyor). Bir plan yapmak için dedektiflik bürosuna dönsek iyi olur."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_04",
+        "msgStr": "Ülkeye \"Rasputin\" adında birinin girdiğine dair hiçbir resmi kayıt yok. Bir tür arka kapı yöntemi kullanmış olmalı. Satake muhtemelen bu tür taktiklere aşinadır."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_05",
+        "msgStr": "Bu yabancı Elfman'ın Harumi-cho'daki liman faaliyetlerinin çoğunu kontrol ettiği düşünülürse, Rasputin'in onun aracılığıyla ülkeye yasa dışı yollardan sızması kolay olmuştur. En iyi hareket tarzımız, Elfman hakkında daha fazla bilgi edinmek için Harumi-cho'da tekrar etrafa soruşturmak olacaktır."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_06",
+        "msgStr": "Harumi-cho'daki limandan kargolar ve denizciler kayboluyor gibi görünüyor. Gerçek dünyada böyle olağan dışı olaylar yaşandığına göre, Karanlık Diyar'daki karşılığının bir şekilde işin içinde olması mümkündür. Cevaplar için oraya bakmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_07",
+        "msgStr": "Harumi-cho'daki limandan kargolar ve denizciler kayboluyor gibi görünüyor. Gerçek dünyada böyle olağan dışı olaylar yaşandığına göre, Karanlık Diyar'daki karşılığının bir şekilde işin içinde olması mümkündür. Cevaplar için oraya bakmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_08",
+        "msgStr": "Gerçek dünyadan kaybolan bir denizci, Karanlık Harumi-cho'da iblislerin saldırısı altındaydı. Neyse ki onu sağ salim kurtarmayı başardık (iyi iş çıkardın, Raidou—yeteneklerin gelişmiş). Bize söylediklerine bakılırsa diğer birkaç denizci de Karanlık Diyar'da tehdit altında gibi görünüyor. Acele edip onlara yardım edelim, Raidou!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_09",
+        "msgStr": "Gerçek dünyadan kaybolan bir denizci, Karanlık Harumi-cho'da iblislerin saldırısı altındaydı. Neyse ki onu sağ salim kurtarmayı başardık (iyi iş çıkardın, Raidou—yeteneklerin gelişmiş). Bize söylediklerine bakılırsa diğer birkaç denizci de Karanlık Diyar'da tehdit altında gibi görünüyor. Acele edip onlara yardım edelim, Raidou!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_10",
+        "msgStr": "Karanlık Harumi-cho'ya sürüklenen denizcilerin tamamı artık güvende. Tıpkı daha önceki Rin vakasında olduğu gibi, büyük ihtimalle Karanlık Diyar'da bundan sorumlu olan bir iblis var. O iblisi bulup ona bir ders verelim, Raidou."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_11",
+        "msgStr": "Raidou, denizcilerin güvende olduğunu Ryugu'nun sahibine bildirmeliyiz. İyi haberlerden haberdar edilmeyi hak ediyor. Onu tanıdığım kadarıyla hâlâ Harumi-cho'da olduğundan şüpheleniyorum."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_12",
+        "msgStr": "Elfman söylenenlere göre Harumi-cho'daki Katolik kilisesine kapanmış. Ne yazık ki bölgeye ulaşmak için deniz yolculuğu gerekiyor ama tekne trafiği şu anda yasaklanmış durumda. Yine de İblis Çağırıcıları için başka seçenekler her zaman mümkündür—gerçi denizci bir iblisin yardımına başvurmamız gerekebilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_13",
+        "msgStr": "Daidouji Malikânesi'nin altındaki Büyük Tarrasque ile pazarlık yapmayı başardık ve bize Rhone Flütü'nü verdi. Artık denizi geçebilir ve Elfman'ın olduğu söylenen Katolik kilisesine ulaşabiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_14",
+        "msgStr": "Bilinmeyen bir ruhun sesi bizi Harumi-cho'daki Yabancılar Mezarlığı'na yönlendirdi. Konuşma tarzına bakılırsa bir yabancı olduğunu varsaymak yanlış olmaz, ancak tam olarak kim olduğu gizemini koruyor."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_15",
+        "msgStr": "Elfman ölmüş. Hayaletinin söylediğine göre cinayete kurban gitmiş ve katil onun kimliğine bürünmüş. Sanırım ikimiz de bu taklitçinin kim olduğunu biliyoruz, Raidou. Katolik kilisesine gidelim ve şüphelerimizi doğrulayalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L04_16",
+        "msgStr": "Kilise terk edilmiş görünüyor ama hâlâ bir varlık hissedebiliyorum. Burada biri saklanıyor, Raidou. Taklit edilen adamın aksine, fazlasıyla hayatta olan biri."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_01",
+        "msgStr": "Tae'nin iş yeri olan Başkent Günlüğü, görünüşe göre orduda olduğunu iddia eden ve geliştirilmekte olan bir tür \"korkunç proje\" hakkında bilgi paylaşmayı teklif eden birinden telefon almış.\n\nTae'ye eşlik edelim ve Kasumidai'da bu muhbirle buluşalım. Bir şeyler öğrenebiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_02",
+        "msgStr": "Tae'nin iş yeri olan Başkent Günlüğü, görünüşe göre orduda olduğunu iddia eden ve geliştirilmekte olan bir tür \"korkunç proje\" hakkında bilgi paylaşmayı teklif eden birinden telefon almış.\n\nTae'ye eşlik edelim ve Kasumidai'da bu muhbirle buluşalım. Bir şeyler öğrenebiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_03",
+        "msgStr": "Tae'nin iş yeri olan Başkent Günlüğü, görünüşe göre orduda olduğunu iddia eden ve geliştirilmekte olan bir tür \"korkunç proje\" hakkında bilgi paylaşmayı teklif eden birinden telefon almış.\n\nTae'ye eşlik edelim ve Kasumidai'da bu muhbirle buluşalım. Bir şeyler öğrenebiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_04",
+        "msgStr": "Tae'nin bağlantısı gelmedi ama yine de her ihtimale karşı etrafa bir göz atmamızı istiyor (açıkçası bu tür ayak işlerinin bir İblis Çağırıcısı şöyle dursun, bir dedektifin yetenekleri için bile biraz israf olduğunu düşünmeden edemiyorum)."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_05",
+        "msgStr": "Kulak misafiri olduğumuz konuşmalara bakılırsa, yüzünde büyük bir ben olan bir Ordu firarisi bölgede bir yerlerdeymiş. Bu tarif tesadüfen Tae'nin bağlantısının eşkâliyle uyuşuyor. Görünüşe göre firari nöbetçi kulübesindeymiş, gidip bir bakalım, Raidou."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_06",
+        "msgStr": "Yüzünde ben olan firariyi bulma umuduyla nöbetçi kulübesine vardık ama bir gözcü yolumuzu kapatıyor. Onu oradan uzaklaştırmanın bir yolunu bulmamız gerekecek. Raidou, bakalım bölgedeki diğer askerlerin ağzından işe yarar bir şey alabilecek miyiz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_07",
+        "msgStr": "Kasumidai'daki top görünüşe göre muhafızlara nöbet değişimini bildirmek için kullanılıyormuş ve söylenenlere göre geçmişte yanlışlıkla ateşlenmesi görev yerlerini terk etmelerine neden olmuş. Gözcüyle ilgili sorunumuzun çözümü bu olabilir, Raidou."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_08",
+        "msgStr": "Top, tam da umduğumuz gibi muhafızları kandırıp oradan ayrılmalarını sağladı. Şimdi nöbetçi kulübesinde yüzünde ben olan askeri bulabilecek miyiz bir bakalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_09",
+        "msgStr": "Kasumidai o firariye karşı duyulan öfkeyle çalkalanıyor. Eğer bu kişi Başkent Günlüğü ile temasa geçen ordudaki köstebekle aynı kişiyse, Tae'nin onun kaçışına yardım etmekten tutuklanma ihtimali var. Durumu ona açıklamalı ve bugünlük buradan ayrılmalıyız (gerçi işbirliği yapacağından şüpheliyim). Kasumidai'ın girişinin yakınlarında bizi bekliyor olmalı."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_10",
+        "msgStr": "Tae kayıp. Ve elimizdeki tek ipucu geride bıraktığı fotoğraf makinesi. İçindeki bir şey ona ne olduğuna dair bize fikir verebilir ama fotoğraf makinelerinden anlayan birine ihtiyacımız olacak. Konnou-ya burada en iyi şansımız olabilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_11",
+        "msgStr": "Fotoğraf makinesinde Tae'nin bir askerle—muhtemelen muhbiriyle—birlikte Karanlık Diyar'a çekilirken çekilmiş bir fotoğrafı vardı. Bu bizim uzmanlık alanımız, Raidou. Karanlık Kasumidai'a acele edelim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_12",
+        "msgStr": "Fotoğraf makinesinde Tae'nin bir askerle—muhtemelen muhbiriyle—birlikte Karanlık Diyar'a çekilirken çekilmiş bir fotoğrafı vardı. Bu bizim uzmanlık alanımız, Raidou. Karanlık Kasumidai'ı araştıralım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_13",
+        "msgStr": "Karanlık Kasumidai'da Tae'yi kurtarmayı başardık. Neyse ki yara almamış (gerçi hâlâ bilinci kapalı). Ayrıca Başkent Günlüğü ile temasa geçen ve kendine Sadakichi diyen Ordu firarisini de kurtarmayı başardık. Ordunun gizlice şüpheli bir proje yürüttüğünü ve bunu kanıtlayan bazı dosyalar aldığını iddia etti. Ne yazık ki burada, bu \"çılgın yerde\" (yani Karanlık Kasumidai'da) kaçarken dosyaları kaybettiğini söylüyor.\n\nEh, yapılacak tek bir şey var, Raidou—Sadakichi'nin düşürdüğü dosyaları geri alalım ve bizi gerçeğe yaklaştırmalarını umalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_14",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_15",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_16",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_17",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_18",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_19",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_20",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_21",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_22",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_23",
+        "msgStr": "İblislere bölgeleri inceletmek bir şeyleri bulmak için faydalıdır ama Kasumidai'da taranacak bu kadar geniş bir alan varken körlemesine aramak anlamsız olur. Buradaki, yani Karanlık Kasumidai'daki Zombi Subaylar sürekli devriye gezdikleri düşünülürse bölgeyi iyi biliyor olmalılar; bu yüzden onlardan daha fazla bilgi istersek arama alanımızı daraltabiliriz. Ve Raidou, her birinin neler bilebileceğini görmek için her iki Zombi Subayla da konuştuğumuzdan emin olmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_24",
+        "msgStr": "Sonunda Sadakichi'nin tüm dosyalarını geri aldık. Gerçekten de zorlu bir sınavdı. Acele edelim ve Sadakichi'ye durumu bildirelim.\n\n(Bir İblis Çağırıcısı olarak yeteneklerin muazzam ölçüde gelişti, Raidou. İblislerini etkili bir şekilde kullanmadan tüm o dosyaları geri almak imkânsız olurdu. Ortağın olarak bunu görmek içimi rahatlatıyor.)"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_25",
+        "msgStr": "Sadakichi'ye göre Kaya'yı Ordu tarafından işletilen bir yeraltı tersanesinde bulabilirmişiz. Doğal olarak burası Süper Asker Projesi'nin tasarımcısı Tümgeneral Munakata'nın harekât üssü.\n\nGiriş, Harumi-cho'dan denizi geçerek ulaşılabilen 4 Nolu Topçu Bataryası'ndaki bir telefon kulübesi olarak gizlenmiş. Kulübeye vardığımızda 49399221 kodunu girerek yeraltı tersanesine erişim sağlayabiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_26",
+        "msgStr": "Yeraltı tersanesine başarıyla sızdık. Şimdi Kaya Daidouji için yerleşkeyi arama vakti."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_27",
+        "msgStr": "Yıkıldıktan sonra kendini yenileyen alışılmadık bir Yeraltı Kapısı ile karşılaştık. Yeraltı Kapıları, Karanlık Diyar'a sızan ve ardından katılaşarak duvarlara dönüşen olumsuz insan duygularından oluşur. Parçalandıktan sonra bile o olumsuz enerjinin yeniden şekillenmesi için iş başında olan bir tür özel güç olmalı. Bu gücü kullanan kişiyi arayalım ve bakalım onu bu deliliği durdurmaya ikna edebilecek miyiz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_28",
+        "msgStr": "Kendini yenileyen Yeraltı Kapısı'ndan sorumlu olan Ippon-Datara ile başarıyla pazarlık yaptık. Aferin, Raidou. Artık ilerleyebiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L05_29",
+        "msgStr": "Sonunda Kaya Daidouji tam karşımızda duruyor! Ne yapacağını biliyorsun, Raidou!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_01",
+        "msgStr": "Geçen gün Kaya'yı kurtarma zaferimizin keyfini sürerken akşam saatlerinde Konnou-ya'dan bir telefon aldık. Narumi'nin siparişi gelmiş ve onun yokluğunda gidip teslim almak bize düştü. Bunun sorumluluk alanımızın dışında kaldığı tartışılır ama sanırım şu anda yapacak daha iyi bir işimiz yok."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_02",
+        "msgStr": "Narumi'nin acil siparişini teslim aldık ve bunun bir kutu tabanca mermisi olduğu ortaya çıktı. Böyle bir şeye ne demeye ihtiyaç duyuyor olabilir ki?"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_03",
+        "msgStr": "Kaya bize Munakata'nın, söylenenlere göre milyonlarca Başkent vatandaşını yok etmek için kullanılabilecek ruhsal güce sahip bir kristal küreyi aradığını söyledi. Kristal kürenin şu anki yeri bilinmiyor ancak Kaya onu önce bizim bulmamızı ve böylece Munakata'nın planını bozmamızı önerdi. Pekâlâ, Raidou, planımız hazır. Mermi kutusunu Narumi'ye teslim etme işini daha sonra düşünebiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_04",
+        "msgStr": "Bu kristal kürenin izini sürmek için bir ipucuna ihtiyacımız var. Konnou-ya'nın sahibinin bu tür ufak tefek ve tuhaf eşyalara dair görünürdeki bilgisi göz önüne alındığında, şansımızı üçüncü kez orada deneyebiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_05",
+        "msgStr": "Ne yazık ki Konnou-ya'nın sahibi kristal küre hakkında hiçbir şey bilmiyordu. Ancak onu Victor'a sormamızı önerdi. Böylesi doğaüstü bir nesneye dair bilgilerin kısmen onun uzmanlık alanına girdiği doğru."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_06",
+        "msgStr": "Victor bize Işıltılı Muhafızlardan ve ayrıca Solgun Muhafız'dan bahsetti. Solgun Muhafız, bir kristal küre taşıdığı söylenen Koy Muhafızı olarak da biliniyor. Ancak bu Koy Muhafızı hakkında hâlâ daha fazla bilgiye ihtiyacımız var. Sıradaki adım olarak neden Daikoku-yu'daki Satake'ye sormayı denemiyoruz?"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_07",
+        "msgStr": "Victor bize Işıltılı Muhafızlardan ve ayrıca Solgun Muhafız'dan bahsetti. Solgun Muhafız, bir kristal küre taşıdığı söylenen Koy Muhafızı olarak da biliniyor. Ancak bu Koy Muhafızı hakkında hâlâ daha fazla bilgiye ihtiyacımız var. Sıradaki adım olarak neden Daikoku-yu'daki Satake'ye sormayı denemiyoruz?"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_08",
+        "msgStr": "Satake bize Senju-ku'da Muhteşem Bilim Laboratuvarı adındaki bir yerde aradığımız şeyi bilebilecek birinin olduğunu bildirdi. Gidip onu ziyaret edelim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_09",
+        "msgStr": "Muhteşem Bilim Laboratuvarı'nda Dr. Tsukumo ile görüştük ve bize kendisi çocukken Koy Muhafızı'nın bugünkü Ginza-cho civarında bulunduğunu söyledi. Bu durum Başkent'in yerel tarihiyle bağlantılı görünüyor, o yüzden bakalım Tae bir şey biliyor mu."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_10",
+        "msgStr": "Muhteşem Bilim Laboratuvarı'nda Dr. Tsukumo ile görüştük ve bize kendisi çocukken Koy Muhafızı'nın bugünkü Ginza-cho civarında bulunduğunu söyledi. Bu durum Başkent'in yerel tarihiyle bağlantılı görünüyor, o yüzden bakalım Tae bir şey biliyor mu."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_11",
+        "msgStr": "Geçmişte bugünkü Ginza-cho'nun bulunduğu yerde Hibiya koyu adında bir bölge varmış. Koy, Edo döneminde kurutularak bugünkü haline getirilmiş. O dönemde oraya kökeni bilinmeyen bir heykel yerleştirilmiş ve yerel halk görünüşe göre ona Koy Muhafızı olarak saygı duymaya başlamış. Bugün Ginza-cho, Başkent'in büyümesi ve kalkınması kapsamında inşaat halinde ve şantiyelerden birinde benzer şekilde kökeni bilinmeyen, inşaat çalışmalarını engelleyen bir heykel keşfedilmiş. Bunun Koy Muhafızı olması mümkün."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L06_12",
+        "msgStr": "Kaya Daidouji aniden değişti. Kristal küreyi çaldı ve ardından ortadan kayboldu. Hatta kendisinden \"saf iblis\" olarak bahsetti. Bu büyük ihtimalle hepimizin korktuğu \"iblis tarafından ele geçirilme\" olayıdır. Şimdilik dedektiflik bürosuna çekilmeli ve bu işi çözmeliyiz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L07_01",
+        "msgStr": "Raidou... Yatagarasu düşemez. Başkent'in güvenliği buna bağlı. Ama şu anda her şeyden çok senin iyiliğin için endişeleniyorum. Bir kez Fuchikoma olduğunda bir süre özgürce hareket edemeyeceksin. En azından tamamen hazır olduğundan kesinlikle emin ol."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L07_02",
+        "msgStr": "Utai-Gaikotsuların bize büyük bir nezaketle bildirdiği üzere, Lord Takagi'nin lanetinin kaynağı Hitokotonushi adında bir iblis gibi görünüyor. Ancak bu Hitokotonushi'ye ulaşmadan önce o Utai-Gaikotsuların kurduğu lanet olası mührü aşmamız gerekecek."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L07_03",
+        "msgStr": "O ağzı gevşek Utai-Gaikotsuların bize söylediklerinin doğru olduğunu varsayarsak, artık mührün bir tılsımdan güç aldığını biliyoruz. Acele edip onu yok edelim, Raidou."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L07_04",
+        "msgStr": "O geveze Utai-Gaikotsulara göre mühür tılsımı kırmızı bir posta kutusunun yakınındaymış. Raidou, bölgeyi incelemek ve yerini tespit etmek için İblis Çağırıcısı yeteneklerini kullan."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L07_05",
+        "msgStr": "Sonunda bu sinir bozucu çile bitti ve mühür kaldırıldı. Artık nihayet Lord Takagi'nin lanetinin kaynağı olan Hitokotonushi ile yüzleşme vakti geldi. Yakında o Fuchikoma'dan kurtulacaksın, Raidou!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L08_01",
+        "msgStr": "Meğer Sadakichi hiç de bir Ordu firarisi değilmiş—aksine Donanmada gizli görevdeki bir subaymış.\n\nSakuradayama'daki Waden One radyo kulesini araştırmamızı talep etti. Oraya ulaşmak zor olursa bizi götürmesi için her zaman Büyük Tarrasque'a başvurabiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L08_02",
+        "msgStr": "Meğer Sadakichi hiç de bir Ordu firarisi değilmiş—aksine Donanmada gizli görevdeki bir subaymış. Tamamen kandırılmışız.\n\nSakuradayama'daki Waden One radyo kulesini araştırmamızı talep etti. Oraya ulaşmak zor olursa bizi götürmesi için her zaman Büyük Tarrasque'a başvurabiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L08_03",
+        "msgStr": "Doğru hatırlıyorsam Sakuradayama'ya Harumi-cho'nun batı yakasındaki donanma karargâhından geçilerek ulaşılabiliyor. Eğer durum gerçekten böyleyse bizi oraya götürmesi için Büyük Tarrasque'a bel bağlamamız gerekebilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L08_04",
+        "msgStr": "Waden One'a sızmadan önce daha fazla bilgi toplamak daha iyi olur. Sakuradayama'da etrafa soruşturmayı deneyelim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L08_05",
+        "msgStr": "Sakuradayama'daki gözcüden duyduklarımıza (sanırım düşüncelerinden \"duyduklarımıza\" demeliyim) dayanarak, Munakata Waden One'ın en üst katındaymış. Güvenlik muhtemelen sıkı olacaktır. Masumları tehlikeye atabilecek doğrudan bir çatışma yerine Karanlık Diyar'dan girmek avantajlı olacaktır."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L08_06",
+        "msgStr": "Waden One'a başarıyla girdik. Süper Asker Projesi'ni durdurmamıza yardımcı olacak bilgiler toplamamız gerekiyor.\n\nBütün bu Hirukoları görmek, Rasputin'in projenin bir sonraki aşamasında Hirukoların bir rolü olduğundan bahsederken tam olarak neyi kastettiğini merak etmeme neden oluyor..."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_01",
+        "msgStr": "Lanet olası Rasputin!\n\nMunakata karşımıza iblis Mishaguji'yi çıkardı ve biz savaşı tam bitirmişken Rasputin \"gizli silahıyla\" bizi hazırlıksız yakalayıp tuhaf bir yerden (başka nasıl tarif edeceğimi bilemiyorum) geçirdi. Tekrar Tsukudo-cho'ya çıktık ama bir şeyler yolunda değil gibiydi. Tam olarak neredeyiz biz, Raidou? Her neyse, dedektiflik bürosuna gidelim ve bakalım bazı cevaplar bulabilecek miyiz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_02",
+        "msgStr": "Rasputin'in saldırısıyla tamamen şaşkına döndükten sonra, bizi görünce aynı derecede şaşkına dönen gizemli bir siyah kediyle karşılaştık. O gösterişli kürk, o muhteşem yeşim gözler... Bana olan benzerliği inanılmaz. Onu görmek içimde kelimelere dökemediğim bir his uyandırıyor. Bir tür bağlantımız olmalı."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_03",
+        "msgStr": "Görünüşe göre var olmamamız gereken alternatif bir zaman çizgisine düştük—ve yine de buradayız. Oldukça şaşırtıcı bir olaylar silsilesi.\n\nBu dünyadaki Yatagarasu Elçisi'ne göre Amatsu Kanagi orijinal zaman çizgimize dönmemize yardımcı olabilirmiş. Ancak onu kullanabilmek için önce toprak, ateş ve sudan oluşan üç prizmayı toplamamız gerekiyor. Prizmalar Başkent'in dört bir yanına gizlenmiş durumda ve onları elde etmek için güçlerimizi muhafızlarına kanıtlamamız gerekecek.\n\nAcele edelim de bu huzursuz edici yerden bir an önce kurtulalım, Raidou!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_04",
+        "msgStr": "Görünüşe göre var olmamamız gereken alternatif bir zaman çizgisine düştük—ve yine de buradayız. Oldukça şaşırtıcı bir olaylar silsilesi.\n\nBu dünyadaki Yatagarasu Elçisi'ne göre Amatsu Kanagi orijinal zaman çizgimize dönmemize yardımcı olabilirmiş. Ancak onu kullanabilmek için önce toprak, ateş ve sudan oluşan üç prizmayı toplamamız gerekiyor. Prizmalar Başkent'in dört bir yanına gizlenmiş durumda ve onları elde etmek için güçlerimizi muhafızlarına kanıtlamamız gerekecek.\n\nAcele edelim de bu huzursuz edici yerden bir an önce kurtulalım, Raidou!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_05",
+        "msgStr": "Bu zaman çizgisinin Karanlık Sakuradayama'sında, Toprak Prizması'nı geri almak için kutsal taşların arkasındaki sırrı çözmemiz gerekiyor. Tüm taşların aynı anda yankılanması şart, ama bunu tek başına başarman mümkün mü ki, Raidou?"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_06",
+        "msgStr": "Görünüşe göre var olmamamız gereken alternatif bir zaman çizgisine düştük—ve yine de buradayız. Oldukça şaşırtıcı bir olaylar silsilesi.\n\nBu dünyadaki Yatagarasu Elçisi'ne göre Amatsu Kanagi orijinal zaman çizgimize dönmemize yardımcı olabilirmiş. Ancak onu kullanabilmek için önce toprak, ateş ve sudan oluşan üç prizmayı toplamamız gerekiyor. Prizmalar Başkent'in dört bir yanına gizlenmiş durumda ve onları elde etmek için güçlerimizi muhafızlarına kanıtlamamız gerekecek.\n\nAcele edelim de bu huzursuz edici yerden bir an önce kurtulalım, Raidou!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_07",
+        "msgStr": "Prizma muhafızlarından biri Karanlık Ginza-cho'da bir yerlerde. Onun izini bulabileceğini düşünüyor musun, Raidou?"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_08",
+        "msgStr": "Görünüşe göre var olmamamız gereken alternatif bir zaman çizgisine düştük—ve yine de buradayız. Oldukça şaşırtıcı bir olaylar silsilesi.\n\nBu dünyadaki Yatagarasu Elçisi'ne göre Amatsu Kanagi orijinal zaman çizgimize dönmemize yardımcı olabilirmiş. Ancak onu kullanabilmek için önce toprak, ateş ve sudan oluşan üç prizmayı toplamamız gerekiyor. Prizmalar Başkent'in dört bir yanına gizlenmiş durumda ve onları elde etmek için güçlerimizi muhafızlarına kanıtlamamız gerekecek.\n\nAcele edelim de bu huzursuz edici yerden bir an önce kurtulalım, Raidou!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_09",
+        "msgStr": "Görünüşe göre Su Prizması, Karanlık Harumi-cho'daki Yamata-no-Orochi'nin elindeymiş ve Orochi'ye ulaşmak için iblis Shouten'in yardımına ihtiyacımız olacak gibi duruyor. Shouten bizden önce kardeşlerinden sekiz Saflık Tılsımı toplayarak gücümüzü kanıtlamamızı istedi. Görünüşe göre her bir Shouten'i savaşta yenerek bunu başarabilirsin."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_10",
+        "msgStr": "Kolay olduğunu söyleyemem ama sonunda sekiz Saflık Tılsımı'nı elde etmeyi başardık. Şimdi bunları Shouten'e teslim edelim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_01",
+        "msgStr": "Alternatif zaman çizgisinden sağ salim dönmeyi başardık. O lanet olası Rasputin bizi epey uğraştırdı. (Gerçi kendimizin alternatif versiyonlarıyla tanıştığımıza şaşırdığımı söylemeliyim. Hatta koşullar elverirse onları tekrar görmekten çekinmem.)\n\nBunu bir kenara bırakırsak, Tsukudo-cho tuhaf bir şekilde sessiz görünüyor. Biz yokken bir şey mi oldu acaba? Burasının bir başka alternatif zaman çizgisi çıkmasından iyidir... Raidou, gidip Narumi'yi görelim ve durumu öğrenelim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_02",
+        "msgStr": "Narumi, seni aptal... Tabii ki ona ihtiyacımız olduğunda burada değil; bir mektup bırakıp gitmiş. Eğer amacı Munakata'yı durdurmaksa, Sadakichi'nin Munakata'nın hareketlerini izlediği düşünülürse belki Donanma bir şeyler biliyordur.\n\nDüşmanımız çok zorlu, Raidou. Narumi'yi öylece kendi başına bırakamayız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_03",
+        "msgStr": "Sadakichi'nin söylediklerine bakılırsa Narumi tek başına Munakata'nın peşinden gitmiş. Ne pervasız bir aptal! Ne yazık ki tam olarak nerede olduğunu anlamanın net bir yolu yok.\n\nRaidou, dedektiflik bürosunun her köşesini didik didik arayalım. Orada bir şeyler olmalı."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_04",
+        "msgStr": "Dedektiflik bürosuna döndük ama orada bizi bekleyen Rasputin'i bulduk. Ne kaypak ve kurnaz bir otomat.\n\nRasputin'e göre Munakata yeraltı tersanesine geri dönmüş, ancak telefon kulübesi girişi artık kullanılamadığı için Kasumidai'ın kuzeyindeki gizli bir rotayı kullanmamız gerekecek. Rasputin bize geçidi açabildiği söylenen Chigaeshi Küresi ve Shiomitsu Küresi'ni verdi. Bu kürelerin üzerindeki koku bana bir şekilde deniz kıyısını hatırlatıyor... Bir kez daha Büyük Tarrasque'ın yardımına başvurmamız gerekebilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_05",
+        "msgStr": "Kasumi Kayranı'nda dikkat çeken iki nokta var.\n\nİlk olarak, göz çukurlarında girintiler bulunan heykeller var. Belki de oraya bir şey yerleştirmemiz gerekiyordur. (Ayrıca bir şekilde kuyuyla bağlantılı görünüyorlar. Burada kuvvet kullanılması gerekebileceğinden şüpheleniyorum.)\n\nİkinci olarak, yerde basıldığında bir şeyi etkinleştirecekmiş gibi duran iki panel var (dolayısıyla bunlara basacak iki ayrı kişiye ihtiyacımız olabilir).\n\nEh, Raidou, bakalım bu bulmacaları çözebilecek miyiz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_06",
+        "msgStr": "Yeraltı tersanesine başarıyla geri döndük (gerçi yeraltı demiryolunun pek keyifli olduğunu söyleyemem). Şimdi içeriyi arayıp Narumi'yi fevri bir şey yapmadan önce durdurma ve Munakata'nın deliliğine bir son verme vakti."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_07",
+        "msgStr": "Görünüşe göre o Ippon-Datara'nın yardımına tekrar ihtiyacımız olacak—bizim için bir duvarı yıkması gerekiyor. Şansımıza küselim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_08",
+        "msgStr": "Neyse ki Narumi iyi (itiraf etmeliyim ki onsuz bir şeyler eksik hissettirirdi). Artık Munakata'yı bulmak için birlikte çalışabiliriz. Gerçi pek uzağa bakmamız gerekeceğini sanmıyorum. Bir yüzleşmenin eşiğinde olduğumuzu hissediyorum, Raidou. Tamamen hazır olduğundan emin ol."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_09",
+        "msgStr": "Eğer Munakata'nın (ya da daha doğrusu Sukuna-Hikona'nın) bize gösterdiği şey gerçekse, o Ruhsuz Tanrı canavarı biz konuşurken yüzeyde yıkım saçıyor demektir.\n\nBaşkent'in bize ihtiyacı var, Raidou! Derhal yüzeye çıkmalıyız!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L11_01",
+        "msgStr": "Ruhsuz Tanrı ortalığı kasıp kavuruyor. Bir şey yapmazsak Başkent'in işi bitti!\n\nBiraz düşündükten sonra Ruhsuz Tanrı'nın kendisini değil, enerji kaynağı olan Tai-itsu Uydusu'nu yok etmeye yönelik cüretkâr bir öneri geliştirdik. Bu amaçla Dr. Tsukumo'nun roketini kullanmamız gerekecek. Senju-ku'daki Muhteşem Bilim Laboratuvarı'na doğru yola çıkalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L11_02",
+        "msgStr": "Ne zor bir durum. Dr. Tsukumo'ya göre uyduyu bir roketle vurmak son derece karmaşık bir girişim olacak gibi görünüyor. Mevcut durumda roketi fırlatmayacağını söylüyor ve daha fazla veri gerektiğinde ısrar ediyor.\n\nEğer roketler silah olarak kabul edilebilirse, belki ordudan biri daha fazla bilgi sağlayabilir. Donanma karargâhında Sadakichi ile görüşmeli ve bir şey bilip bilmediğine bakmalıyız."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L11_03",
+        "msgStr": "Sadakichi bize Donanma casuslarının topladığı tüm ilgili verileri içeren SS Projesi Raporu'nu verdi. Bu mükemmel. İçinde Tai-itsu Uydusu'nun yapısına ve kapasitesine dair bilgiler bile var. Dr. Tsukumo'nun buna bir göz atmasını sağlayalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L11_04",
+        "msgStr": "SS Projesi Raporu'nun roket teknolojisini açıklayan bölümü yabancı bir dilde yazıldığı için Dr. Tsukumo onu okuyamıyor.\n\nVictor'un dünyayı gezdiğini hatırlıyor gibiyim. Yabancı diller hakkında bir iki şey biliyor olabilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L11_05",
+        "msgStr": "Victor raporu bizim için çevirmeyi başardı, ancak roketin uçuş rotasının son derece hassas hesaplamalar gerektireceği ortaya çıktı. Ne yazık ki mevcut çağın teknolojisini kullanarak bu tür hesaplamaları yapmanın bir yolu olmadığını söylüyor. Görünüşe göre roketi fırlatmak boş bir hayalden ibaretmiş.\n\nAma mevcut çağı boş verin—tesadüfen gelecekten gelen bir makineyle tanışıklığımız var. Belki bu hesaplamaları yapmak onun için mümkündür. Rasputin'i aramaya gidelim, Raidou. Bir İblis Çağırıcısı olarak Ginza-cho'da tam da onun gibiler için yapılmış bir yer bildiğine eminim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L11_06",
+        "msgStr": "Tatilinde olduğu düşünülürse Rasputin için biraz üzüldüğümü itiraf etmeliyim (gerçi Tae'yi taciz etmekte epey ısrarcı görünüyordu, bu yüzden sempatim ancak bir yere kadar uzanabiliyor). Her halükârda Victor, Rasputin'i roketin uçuşunu hesaplamaya (parçalara ayırma yoluyla) ikna etmeyi başardı. Roketin uyduya başarıyla ulaşması için bugün tam 15:00'te (yani öğleden sonra üçte) fırlatılması gerekecek. Raidou, acele edip Dr. Tsukumo'yu bilgilendirelim!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L11_07",
+        "msgStr": "İnsanlar uzayda hayatta kalamaz ve bu nedenle rokete binmeleri yasaktır (bir bakıma Karanlık Diyar'dan bile daha tehlikelidir). Bu yüzden biz de bunun yerine rokete, özünde uzun mesafeli bir tekil soruşturma için bir iblis göndermeyi seçtik.\n\nYalnızca tek bir iblis gönderilecek. Bu iblisin uyduyu yok edebilmesini istiyorsak, bir savaşta tek başına ayakta kalabilecek kadar güçlü olması ve uzayın koşullarına dayanabilmesi gerekecek. Fiziksel, Buz ve Güç yeteneklerine karşı dayanıklı ve savaşta hiçbir yoldaşı olmadan dövüşebilecek kadar güçlü bir iblis göndermeni tavsiye ederim.\n\nDiğer hazırlıkların yanı sıra, her ihtimale karşı iblislerini İblis Rehberi'ne kaydetmek isteyebilirsin. Hazır olduğunda Dr. Tsukumo'ya haber verdiğinden emin ol."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L11_08",
+        "msgStr": "Raidou, rokete binmene izin veremem, bu yüzden senin yerine ben gideceğim. Endişelenme, iblis yoldaşımıza destek olmaya ve planımızın başarılı olmasını sağlamaya niyetliyim. Uzun mesafeli tekil soruşturma boyunca iblisini yönlendirmek ve uydunun çekirdeğini yok etmek sana kalacak. Ancak önce çekirdeğin savunma sisteminin yok edilmesi gerekebilir."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L12_01",
+        "msgStr": "(Uzayda biraz duygusallaştığım için özür dilerim ama endişelenme, ölmedim.)\n\nRuhsuz Tanrı'yı durdurduğumuza göre artık nihayet Kaya Daidouji ve onu ele geçiren kişiye odaklanabiliriz."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L12_02",
+        "msgStr": "Amatsu Kanagi yeterince duyguyla dolduruldu. Bu kez Ruh Gönderme Ritüeli kendi zaman çizgimizin Raidou'su tarafından gerçekleştirilecek. Hazır olduğunda Karanlık Tsukudo-cho'daki Ushigome-Gaeri Köprüsü'ne git!"
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L12_03",
+        "msgStr": "Ruh Gönderme Ritüeli'ni başarıyla gerçekleştirdikten sonra Akarana Koridoru'na vardık (söylemeliyim ki Raidou, gerçekten muhteşem bir İblis Çağırıcısı olarak olgunlaştın).\nKaya'yı ele geçiren kişinin gerçek kimliği Raidou Kuzunoha XL. Bu işin bizden birine karşı verilen bir savaşa dönüşmesi ne büyük bir ironi. Her halükârda Raidou XL, Akarana Koridoru'nda bir yerlerde olmalı. Buna tamamen bir son vermenin vakti geldi."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_11",
+        "msgStr": "Tüm prizmaları topladığımıza göre, bu zaman çizgisinin İsimsiz Tapınağı'ndaki alternatif Yatagarasu Elçisi ile yeniden buluşalım ve kendi dünyamıza dönelim (az önce ne kadar da saçma bir cümle yazdım öyle)."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L09_12",
+        "msgStr": "Sekiz Saflık Tılsımı'nı teslim ettik. Hazırlıklarını tamamladığında Shouten'den seni Yamata-no-Orochi'ye götürmesini iste."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L07_06",
+        "msgStr": "Görünüşe göre lanet Karanlık Fukagawa-cho'dan kaynaklanmış. Raidou, bundan sorumlu olan kötüyü çabucak bulalım. Çok uzun süre Fuchikoma olarak kalmak şüphesiz üzerinde olumsuz etkiler yaratacaktır."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L01_22",
+        "msgStr": "Narumi'nin bize hatırlatmasına gerek yoktu ama soruşturmanın temellerinden biri bilgi toplamaktır. Önce kızın kaçırıldığı yer olan burada, Tsukudo-cho'da etrafa bir göz atmalıyız. Ve bir İblis Çağırıcısı olarak iblislerin gücünden yararlanabileceğini aklından çıkarma."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L10_10",
+        "msgStr": "O Ippon-Datara yolumuzu kapatan duvarı yıktı. Ona karşı tuhaf bir aşinalık hissediyorum... Her neyse, Narumi ve Munakata'yı bulmaya çalışmaya devam edelim."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L12_04",
+        "msgStr": "Kaya'ya ve onu ele geçiren kişiye ulaşabilmek için uzay-zamanı aşabilmeliyiz; bu yüzden bir kez daha Amatsu Kanagi'ye ihtiyacımız olacak. Şaşırtıcıdır ki bu fikri ortaya atan kişi, diğer zaman çizgisindeki diğer benliğim olan Goto idi! Bütün olanlardan sonra bizim zaman çizgimize sızmayı başarmış (burada benden iki tane olması oldukça huzursuz edici).\n\nAmatsu Kanagi'nin gücünü ortaya çıkarmak için saf, ham duyguların gücüne ihtiyacımız olacak. Bu yüzden böylesine güçlü bir Ruh Gücü'nden yararlanmak adına Dr. Tsukumo, Satake ve Tae ile görüşmek üzere yola çıkalım."
+      },
+      {
+        "msgID": "DBOOK_GOUTOMSG_DEST_L03_09",
+        "msgStr": "Masum insanları geride bırakmamalıyız. Gerekirse Matris Labirenti'nin tamamını arayalım."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:28:13"
+}

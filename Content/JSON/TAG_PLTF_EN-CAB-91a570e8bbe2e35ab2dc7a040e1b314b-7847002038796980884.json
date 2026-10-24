@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "TAG_PLTF_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "TAG_PLTF_L0000",
+        "msgStr": "Kaydet"
+      },
+      {
+        "msgID": "TAG_PLTF_L0001",
+        "msgStr": "Hızlı Kayıt"
+      },
+      {
+        "msgID": "TAG_PLTF_L0002",
+        "msgStr": "Otomatik Kayıt"
+      },
+      {
+        "msgID": "TAG_PLTF_L0003",
+        "msgStr": "Kayıt Verisi"
+      },
+      {
+        "msgID": "TAG_PLTF_L0004",
+        "msgStr": "Hızlı Kayıt Verisi"
+      },
+      {
+        "msgID": "TAG_PLTF_L0005",
+        "msgStr": "Otomatik Kayıt Verisi"
+      },
+      {
+        "msgID": "TAG_PLTF_L0006",
+        "msgStr": "Yükle"
+      },
+      {
+        "msgID": "TAG_PLTF_L0007",
+        "msgStr": "Düğme"
+      },
+      {
+        "msgID": "TAG_PLTF_L0008",
+        "msgStr": "Tuş"
+      },
+      {
+        "msgID": "TAG_PLTF_L0009",
+        "msgStr": "Kontrolcü"
+      },
+      {
+        "msgID": "TAG_PLTF_L0010",
+        "msgStr": "İndirilebilir İçerik"
+      },
+      {
+        "msgID": "TAG_PLTF_L0011",
+        "msgStr": "Kontrol çubuğu"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:51:25"
+}

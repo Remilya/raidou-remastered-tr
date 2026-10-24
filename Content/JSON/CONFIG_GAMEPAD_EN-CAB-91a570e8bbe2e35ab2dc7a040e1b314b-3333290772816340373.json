@@ -1,0 +1,985 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONFIG_GAMEPAD_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONFIG_GAMEPAD_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0030",
+        "msgStr": "Tip A"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0031",
+        "msgStr": "Tip B"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0032",
+        "msgStr": "Tip C"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0033",
+        "msgStr": "Tip D"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0034",
+        "msgStr": "Tip E"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0100",
+        "msgStr": "Temel Kontroller"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0101",
+        "msgStr": "Saha"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0103",
+        "msgStr": "Savaş"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0104",
+        "msgStr": "Savaş: Silah eylemi"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0105",
+        "msgStr": "Savaş: İblislere komut ver"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0106",
+        "msgStr": "Savaş: Alt eylem"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0107",
+        "msgStr": "Etkinlik"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0108",
+        "msgStr": "İleri git (harita) / yukarı (imleç)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0109",
+        "msgStr": "Geri git (harita) / aşağı (imleç)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0110",
+        "msgStr": "Sola git (harita / imleç)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0111",
+        "msgStr": "Sağa git (harita / imleç)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0112",
+        "msgStr": "İleri git (savaş) / yukarı (imleç)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0113",
+        "msgStr": "Geri git (savaş) / aşağı (imleç)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0114",
+        "msgStr": "Sola git (savaş / imleç)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0115",
+        "msgStr": "Sağa git (savaş / imleç)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0116",
+        "msgStr": "Kamerayı yukarı kaydır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0117",
+        "msgStr": "Kamerayı aşağı kaydır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0118",
+        "msgStr": "Kamerayı sola kaydır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0119",
+        "msgStr": "Kamerayı sağa kaydır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0120",
+        "msgStr": "Onayla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0121",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0122",
+        "msgStr": "Arayüz görünümü"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0123",
+        "msgStr": "Soruşturma menüsü"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0124",
+        "msgStr": "Ana menü"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0125",
+        "msgStr": "Haritayı göster"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0126",
+        "msgStr": "Ekspres tramvay"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0127",
+        "msgStr": "Koş"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0128",
+        "msgStr": "Eylem değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0130",
+        "msgStr": "Hafif kılıç saldırısı"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0131",
+        "msgStr": "Ağır kılıç saldırısı"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0133",
+        "msgStr": "Zıpla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0135",
+        "msgStr": "Kaçın"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0136",
+        "msgStr": "Savunma yap"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0138",
+        "msgStr": "Savaş menüsünü aç/kapat"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0139",
+        "msgStr": "Silahı hazırla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0140",
+        "msgStr": "Silahı ateşle"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0142",
+        "msgStr": "İblis 1'e komut ver"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0143",
+        "msgStr": "İblis 2'ye komut ver"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0144",
+        "msgStr": "İblis korumayı aç/kapat"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0145",
+        "msgStr": "Eylem değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0146",
+        "msgStr": "Tüpe alma sanatı"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0154",
+        "msgStr": "Hızlı ileri sar"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0155",
+        "msgStr": "Atla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0156",
+        "msgStr": "Otomatik ilerletmeyi aç/kapat"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0157",
+        "msgStr": "Kayıt geçmişi"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0158",
+        "msgStr": "Hazır düzenler"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0159",
+        "msgStr": "<BTN_AL><BTN_AR> hassasiyeti"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0160",
+        "msgStr": "Savaş: Tekil soruşturma"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0161",
+        "msgStr": "Temel saldırı"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0162",
+        "msgStr": "Savaş Yetenekleri"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0163",
+        "msgStr": "Savaş Yeteneği değiştir (yukarı)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0164",
+        "msgStr": "Savaş Yeteneği değiştir (aşağı)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0165",
+        "msgStr": "Ani Hücum"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0166",
+        "msgStr": "Savunma yap"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0167",
+        "msgStr": "Hedef kilitlemeyi aç/kapat"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0168",
+        "msgStr": "Kontroller"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0169",
+        "msgStr": "Tip F"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0170",
+        "msgStr": "Tip G"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0171",
+        "msgStr": "Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0172",
+        "msgStr": "Kilitlenilen hedefi değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0173",
+        "msgStr": "Kilitlenilen hedefi değiştir (sol)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0174",
+        "msgStr": "Kilitlenilen hedefi değiştir (sağ)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0175",
+        "msgStr": "Ekrandaki en uzak hedefe kilitlen"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0176",
+        "msgStr": "Ekrandaki en yakın hedefe kilitlen"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0177",
+        "msgStr": "İblis 1 yetenek kullanım davranışını değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0178",
+        "msgStr": "İblis 2 yetenek kullanım davranışını değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0179",
+        "msgStr": "İblisleri değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0180",
+        "msgStr": "Savaş Yeteneği 1 (<V 0>)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0181",
+        "msgStr": "Savaş Yeteneği 2 (<V 1>)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0182",
+        "msgStr": "Savaş Yeteneği 3 (<V 2>)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0183",
+        "msgStr": "Mistik Göz"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0184",
+        "msgStr": "Eşya kullan"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0185",
+        "msgStr": "İblis Kıran"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0186",
+        "msgStr": "Ruh Kesişi"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0187",
+        "msgStr": "Gizli Saldırı"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0188",
+        "msgStr": "Gizli Saldırı hedefini değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0189",
+        "msgStr": "Koşmayı Aç/Kapat"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0190",
+        "msgStr": "Soruşturma menüsü"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0191",
+        "msgStr": "Ana menü"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0192",
+        "msgStr": "Durum"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0193",
+        "msgStr": "Dava dosyaları"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0194",
+        "msgStr": "Harita"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0195",
+        "msgStr": "Savaş menüsü"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0196",
+        "msgStr": "Goumaden: İblis füzyonu ve Kılıç Simyası"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0197",
+        "msgStr": "Goumaden: İblis Rehberi ve Özel İblis Rehberi"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0198",
+        "msgStr": "Mahjong"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0200",
+        "msgStr": "Kategoriyi sağa kaydır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0201",
+        "msgStr": "Kategoriyi sola kaydır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0202",
+        "msgStr": "Sayfayı yukarı kaydır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0203",
+        "msgStr": "Sayfayı aşağı kaydır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0204",
+        "msgStr": "Sırala"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0205",
+        "msgStr": "Soruşturma Yeteneklerini kontrol et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0206",
+        "msgStr": "Yukarı kaydır (eğitimde/dedektif günlüğünde)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0207",
+        "msgStr": "Aşağı kaydır (eğitimde/dedektif günlüğünde)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0208",
+        "msgStr": "İblisi geri çağır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0209",
+        "msgStr": "İblisi serbest bırak"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0210",
+        "msgStr": "Durumu kontrol et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0211",
+        "msgStr": "Çağırıcı Yeteneğini çıkar"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0212",
+        "msgStr": "Kontrolleri yeniden ata"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0213",
+        "msgStr": "Varsayılanları geri yükle"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0214",
+        "msgStr": "Üstteki grup üyesine geç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0215",
+        "msgStr": "Alttaki grup üyesine geç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0216",
+        "msgStr": "Yetenekleri kontrol et/sırala"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0217",
+        "msgStr": "Unvanı değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0218",
+        "msgStr": "Kılıç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0219",
+        "msgStr": "Kılıç Yeteneği geçmişi"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0220",
+        "msgStr": "Pasif Yetenekleri değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0221",
+        "msgStr": "Pasif Yetenek geçmişi"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0222",
+        "msgStr": "Modeli görüntüle"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0223",
+        "msgStr": "Modeli sola döndür"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0224",
+        "msgStr": "Modeli sağa döndür"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0225",
+        "msgStr": "Model konumunu sıfırla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0226",
+        "msgStr": "Yukarı kaydır (dava dosyalarında)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0227",
+        "msgStr": "Aşağı kaydır (dava dosyalarında)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0228",
+        "msgStr": "Dava dosyası başlangıç noktasını kontrol et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0229",
+        "msgStr": "Dava dosyası ödüllerini al"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0230",
+        "msgStr": "Yukarı git (haritada)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0231",
+        "msgStr": "Aşağı git (haritada)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0232",
+        "msgStr": "Sola git (haritada)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0233",
+        "msgStr": "Sağa git (haritada)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0234",
+        "msgStr": "Yakınlaştır (haritada)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0235",
+        "msgStr": "Uzaklaştır (haritada)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0236",
+        "msgStr": "Konumu sıfırla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0237",
+        "msgStr": "Üst kata geç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0238",
+        "msgStr": "Alt kata geç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0239",
+        "msgStr": "Haritayı değiştir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0240",
+        "msgStr": "Dava dosyası ayrıntıları"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0241",
+        "msgStr": "Harita işaretleri"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0242",
+        "msgStr": "Savaşa devam et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0243",
+        "msgStr": "Yetenekleri kontrol et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0244",
+        "msgStr": "Videoları duraklat/devam ettir"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0245",
+        "msgStr": "Üstteki iblise geç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0246",
+        "msgStr": "Alttaki iblise geç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0247",
+        "msgStr": "Simge açıklamaları"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0248",
+        "msgStr": "Durumu kontrol et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0249",
+        "msgStr": "Yetenekleri kontrol et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0250",
+        "msgStr": "Arama koşullarını sıfırla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0251",
+        "msgStr": "Ara"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0252",
+        "msgStr": "Yetenek aktarımı"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0253",
+        "msgStr": "Rastgele yetenek seç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0254",
+        "msgStr": "Yetenek aktarımını tamamla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0255",
+        "msgStr": "Kaydet"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0256",
+        "msgStr": "Tümünü kaydet"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0257",
+        "msgStr": "Seviye atlayan iblisleri kaydet"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0258",
+        "msgStr": "Yetenekleri kontrol et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0259",
+        "msgStr": "Kilitle/kilidi aç"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0260",
+        "msgStr": "Favorilere ekle/çıkar"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0261",
+        "msgStr": "Açıklama"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0262",
+        "msgStr": "Yeniden çağır"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0263",
+        "msgStr": "Modeli görüntüle"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0264",
+        "msgStr": "Puanları göster/gizle"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0265",
+        "msgStr": "Atla"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0266",
+        "msgStr": "Kuralları kontrol et"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0267",
+        "msgStr": "Yukarı kaydır (kurallarda)"
+      },
+      {
+        "msgID": "CONFIG_GAMEPAD_L0268",
+        "msgStr": "Aşağı kaydır (kurallarda)"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/13 19:24:01"
+}

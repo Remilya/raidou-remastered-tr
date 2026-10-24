@@ -1,0 +1,341 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_CAPTION_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_CAPTION_L0000",
+        "msgStr": "1. iblisi seçin."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0001",
+        "msgStr": "2. iblisi seçin."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0002",
+        "msgStr": "3. iblisi seçin."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0004",
+        "msgStr": "Güçlendirilecek bir iblis seçin."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0005",
+        "msgStr": "Temel oluşturacak bir kılıç seçin."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0006",
+        "msgStr": "Üretilecek bir kılıç seçin."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0007",
+        "msgStr": "Belirtilen iblisin füzyonlara dahil edilmesini sağlayın."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0008",
+        "msgStr": "Belirtilen iblisin füzyonlara dahil edilmemesini sağlayın."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0009",
+        "msgStr": "Yalnızca İblis Rehberi'ne kaydedilmemiş iblisleri göster."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0010",
+        "msgStr": "Yalnızca belirli bir seviyedeki iblisleri göster."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0011",
+        "msgStr": "Yalnızca belirli bir Düzen için füzyonları göster."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0012",
+        "msgStr": "Yalnızca belirli bir iblis için füzyonları göster."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0013",
+        "msgStr": "Yalnızca belirtilen yatkınlığa sahip yetenekleri taşıyabilen iblisleri göster."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0014",
+        "msgStr": "Yalnızca belirtilen yeteneği taşıyabilen iblisleri göster."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0015",
+        "msgStr": "Yalnızca belirtilen yatkınlığa karşı güçlü olan (Direnç/Yok/Emen) iblisleri göster."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0016",
+        "msgStr": "İblis Rehberi'ne kayıtlı iblisleri olası füzyonlara dahil et."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0017",
+        "msgStr": "Element Düzeni iblislerini füzyonlara dahil etme."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0018",
+        "msgStr": "Mitama Düzeni iblislerini füzyonlara dahil etme."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0019",
+        "msgStr": "Füzyonlanacak bir iblis seçin."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0021",
+        "msgStr": "Seviyeye göre sırala (şu anda standart sırada)."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0022",
+        "msgStr": "Seviyeye göre sırala (şu anda ters sırada)."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0023",
+        "msgStr": "Maksimum Can değerine göre sırala."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0024",
+        "msgStr": "İblis Düzeni'ne göre sırala."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0025",
+        "msgStr": "İblis Rehberi'ne kayıtlı olmayan iblislere göre sırala."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0026",
+        "msgStr": "Şu anda füzyonlanabilen iblislere göre sırala."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0027",
+        "msgStr": "Alfabetik sıraya göre sırala."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0028",
+        "msgStr": "Füzyonlamak için bir iblis kombinasyonu seçin."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0030",
+        "msgStr": "+"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0031",
+        "msgStr": "-"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0034",
+        "msgStr": "Para"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0035",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0036",
+        "msgStr": "Füzyon Seviyesi"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0037",
+        "msgStr": "TP"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0038",
+        "msgStr": "Sadakat"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0039",
+        "msgStr": "Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0040",
+        "msgStr": "Düzen"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0041",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0042",
+        "msgStr": "Sadakat"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0043",
+        "msgStr": "SV"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0044",
+        "msgStr": "Gü"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0045",
+        "msgStr": "Bü"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0046",
+        "msgStr": "Da"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0047",
+        "msgStr": "Şa"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0048",
+        "msgStr": "1."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0049",
+        "msgStr": "2."
+      },
+      {
+        "msgID": "GOH_CAPTION_L0050",
+        "msgStr": "Kayıtlı Veri"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0051",
+        "msgStr": "Mevcut Durum"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0052",
+        "msgStr": "Sonuç"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0053",
+        "msgStr": "Füzyon Sonuçları"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0054",
+        "msgStr": "Tümünü Kaydet"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0057",
+        "msgStr": "yen"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0058",
+        "msgStr": "CP"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0059",
+        "msgStr": "Savaş Yetenekleri"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0060",
+        "msgStr": "Pasif Yetenekler"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0061",
+        "msgStr": "SONRAKİ"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0062",
+        "msgStr": "SV"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0063",
+        "msgStr": "İsim"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0064",
+        "msgStr": "Maks. Can"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0065",
+        "msgStr": "Maliyet"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0066",
+        "msgStr": "Sld"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0067",
+        "msgStr": "CP"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0068",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0069",
+        "msgStr": "Sonuç"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0070",
+        "msgStr": "-1.-"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0071",
+        "msgStr": "Maliyet"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0072",
+        "msgStr": "Durum"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0073",
+        "msgStr": "-2.-"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0074",
+        "msgStr": "-Sonuç-"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0075",
+        "msgStr": "Füzyonlanabilir"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0076",
+        "msgStr": "Füzyonlanamaz"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0077",
+        "msgStr": "Aynı Düzen füzyonu, rütbe artış/düşüş"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0078",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0079",
+        "msgStr": "Element füzyonu"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0080",
+        "msgStr": "Nitelik Artış füzyonu"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0081",
+        "msgStr": "Tamamlanma"
+      },
+      {
+        "msgID": "GOH_CAPTION_L0082",
+        "msgStr": "%"
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/22 17:01:43"
+}

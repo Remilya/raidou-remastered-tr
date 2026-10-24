@@ -1,0 +1,61 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "AISYO_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "AISYO_L0000",
+        "msgStr": "Fiziksel"
+      },
+      {
+        "msgID": "AISYO_L0001",
+        "msgStr": "Silah"
+      },
+      {
+        "msgID": "AISYO_L0002",
+        "msgStr": "Ateş"
+      },
+      {
+        "msgID": "AISYO_L0003",
+        "msgStr": "Buz"
+      },
+      {
+        "msgID": "AISYO_L0004",
+        "msgStr": "Elektrik"
+      },
+      {
+        "msgID": "AISYO_L0005",
+        "msgStr": "Güç"
+      },
+      {
+        "msgID": "AISYO_L0006",
+        "msgStr": "Ölüm"
+      },
+      {
+        "msgID": "AISYO_L0007",
+        "msgStr": "Zihin"
+      },
+      {
+        "msgID": "AISYO_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AISYO_L0009",
+        "msgStr": "İyileştirme"
+      },
+      {
+        "msgID": "AISYO_L0010",
+        "msgStr": "Kılıç"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/17 10:38:14"
+}

@@ -1,0 +1,137 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MJN_TIPSTITLE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MJN_TIPSTITLE_L0000",
+        "msgStr": "Kurallar"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0001",
+        "msgStr": "Mahjong Nasıl Oynanır"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0002",
+        "msgStr": "El Oluşturma"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0003",
+        "msgStr": "Yaku Türleri"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0004",
+        "msgStr": "Gelişmiş Kurallar"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0005",
+        "msgStr": "Mahjong Nedir?"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0006",
+        "msgStr": "Oyunun Akışı"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0007",
+        "msgStr": "Kazanma Koşulları"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0008",
+        "msgStr": "Taş Çağırma"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0009",
+        "msgStr": "Chombo (Cezalar)"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0010",
+        "msgStr": "Önerilen Stratejiler: Riichi"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0011",
+        "msgStr": "Önerilen Stratejiler: Değerli Onur Taşları"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0012",
+        "msgStr": "Önerilen Stratejiler: Dora"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0013",
+        "msgStr": "Önerilen Stratejiler: Yarım Renk"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0014",
+        "msgStr": "Taşlar Nedir?"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0015",
+        "msgStr": "Seri Taşları"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0016",
+        "msgStr": "Onur Taşları"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0017",
+        "msgStr": "Yaku"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0018",
+        "msgStr": "1-Han Yaku"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0019",
+        "msgStr": "2-Han Yaku"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0020",
+        "msgStr": "3-Han ve 6-Han Yaku"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0021",
+        "msgStr": "Yakuman"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0022",
+        "msgStr": "Çifte Yakuman ve Özel Yaku"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0023",
+        "msgStr": "Kural Terminolojisi"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0024",
+        "msgStr": "Tur ve Sıra Terminolojisi"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0025",
+        "msgStr": "Oyun Akışı Terminolojisi"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0026",
+        "msgStr": "Taş ve El Terminolojisi"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0027",
+        "msgStr": "Puanlama Terminolojisi"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0028",
+        "msgStr": "Kurallar / Nasıl Oynanır"
+      },
+      {
+        "msgID": "MJN_TIPSTITLE_L0029",
+        "msgStr": "Kurallara Göz At"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:04:00"
+}

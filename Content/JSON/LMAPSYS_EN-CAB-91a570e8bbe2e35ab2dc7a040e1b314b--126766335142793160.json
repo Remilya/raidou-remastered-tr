@@ -1,0 +1,29 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "LMAPSYS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "LMAPSYS_L0000",
+        "msgStr": "Nereye?"
+      },
+      {
+        "msgID": "LMAPSYS_L0001",
+        "msgStr": "Varış Noktası"
+      },
+      {
+        "msgID": "LMAPSYS_L0002",
+        "msgStr": "Ücret"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:50:15"
+}

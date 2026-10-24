@@ -1,0 +1,177 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SHP_CMDHELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SHP_CMDHELP_0000",
+        "msgStr": "Eşya satın al."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0001",
+        "msgStr": "Eşya sat."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0002",
+        "msgStr": "Dükkân sahibiyle konuş."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0003",
+        "msgStr": "Gouma-Den'e git."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0004",
+        "msgStr": "Konnou-ya'dan ayrıl."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_CMDHELP_0006",
+        "msgStr": "Eşya satın al."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_CMDHELP_0008",
+        "msgStr": "Mekânın içeceklerinden birini satın al. (Gazoz etkileri birikmez.)"
+      },
+      {
+        "msgID": "SHP_CMDHELP_0009",
+        "msgStr": "Mekândaki diğer kişilerle konuş."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0010",
+        "msgStr": "Gazetenin son sayısını oku."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0011",
+        "msgStr": "Dışarı çık."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0012",
+        "msgStr": "Kiminle konuşacağını seç."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0013",
+        "msgStr": "İblis füzyonu gerçekleştir."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0014",
+        "msgStr": "Raidou ve iblislerini iyileştir."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0015",
+        "msgStr": "İblisleri kaydet, ara ve yeniden çağır."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0015_01",
+        "msgStr": "Aynı iblisin birden fazla versiyonunun aynı anda kaydedilmesine olanak tanıyan gelişmiş bir İblis Rehberi."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0015_02",
+        "msgStr": "Özel İblis Rehberi'ndeki mevcut yuva sayısını artır."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0016",
+        "msgStr": "İblis füzyonu hakkında bilgi al veya Victor ile konuş."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0017",
+        "msgStr": "Gouma-Den'den çık."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0017_01",
+        "msgStr": "Konnou-ya'ya git."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0018",
+        "msgStr": "Yeni bir iblis oluşturmak için iki iblisi birleştir."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0019",
+        "msgStr": "Yeni bir silah oluşturmak için bir kılıcı malzemelerle birleştir."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0020",
+        "msgStr": "İblisleri mevcut nitelikleriyle İblis Rehberi'ne kaydet."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0020_01",
+        "msgStr": "İblisleri mevcut nitelikleriyle Özel İblis Rehberi'ne kaydet."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0021",
+        "msgStr": "İblis Rehberi'nde kayıtlı iblisleri ara ve yeniden çağır."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0021_01",
+        "msgStr": "Özel İblis Rehberi'nde kayıtlı iblisleri ara ve yeniden çağır."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0022",
+        "msgStr": "Victor ile konuş."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0023",
+        "msgStr": "İblis füzyonu hakkında daha fazla bilgi iste."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0024",
+        "msgStr": "Şimdiye kadar kaç iblis füzyonu gerçekleştirildiğini sor."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0025",
+        "msgStr": "Dedektiflik bürosundaki diğer kişilerle konuş."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0026",
+        "msgStr": "Dinlen ve sağlığını geri kazan."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0027",
+        "msgStr": "Mevcut ilerlemeyi kaydet."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0028",
+        "msgStr": "Narumi'nin soruşturma raporlarını incele."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0029",
+        "msgStr": "Mahjong oynamak için ortaya para koy."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0030",
+        "msgStr": "Dışarı çık."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0031",
+        "msgStr": "Kiminle konuşacağını seç."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0032",
+        "msgStr": "Belirli koşullar belirleyerek olası füzyonları ara."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0033",
+        "msgStr": "İstenen sonucu belirterek olası füzyonları ara."
+      },
+      {
+        "msgID": "SHP_CMDHELP_0034",
+        "msgStr": "İndirilebilir içerik aracılığıyla satın alınan eşyaları teslim al. Herhangi birinin miktarı maksimum kapasiteyi aşarsa, fazlası burada tutulur."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:24:45"
+}

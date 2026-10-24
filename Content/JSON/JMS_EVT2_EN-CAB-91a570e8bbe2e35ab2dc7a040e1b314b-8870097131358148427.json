@@ -1,0 +1,5685 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMS_EVT2_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_09_001",
+        "msgStr": "Adam"
+      },
+      {
+        "msgID": "JMS_EVT2_L0009",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0010",
+        "msgStr": "Buyurun, burası <COLOR 1>Narumi Dedektiflik Bürosu<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_10_002",
+        "msgStr": "Kız Sesi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0011",
+        "msgStr": "Alo? Alo! Şey, siz dedektifsiniz, değil mi?"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_11_003",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0012",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0013",
+        "msgStr": "Evet, az önce söyledim ya.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_12_004",
+        "msgStr": "Kız Sesi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0014",
+        "msgStr": "Her türlü davaya bakan dedektiflerdensiniz, değil mi?"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_13_005",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0015",
+        "msgStr": "<lips 23 5>\nÇok şirin. Ama biz sadece, şey, <IT_S>özel davalara<IT_E> bakıyoruz, ne demek istediğimi anlıyorsan.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_14_006",
+        "msgStr": "Kız Sesi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0016",
+        "msgStr": "B-Benim bir sorunum var. Ne yapacağımı gerçekten bilmiyorum ve bu konuda sizinle konuşmak istiyorum."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_16_007",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0017",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0018",
+        "msgStr": "Hı hı...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_17_008",
+        "msgStr": "Kız Sesi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0019",
+        "msgStr": "Lütfen, hemen <COLOR 1>Ushigome-Gaeri Köprüsü<COLOR 0>'nde benimle buluşabilir misiniz?"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_18_009",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0020",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0021",
+        "msgStr": "Dinle ufaklık, eminim tatlı bir kızsındır ama telefon şakası kaldıracak havada değilim. Annen baban nerede senin?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_19_010",
+        "msgStr": "Kız Sesi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0022",
+        "msgStr": "Hayır, ciddiyim! Doğruyu söylüyorum! Lütfen beyefendi! Lütfen yardım edin!"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_20_011",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0023",
+        "msgStr": "<lips 23 6>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0024",
+        "msgStr": "H-Hey, şey... Alo?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0025",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0026",
+        "msgStr": "Kapattı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0027",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0028",
+        "msgStr": "Demek bize ihtiyacı var, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_01_01_012",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0031",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0032",
+        "msgStr": "Hmm, dünkü olayla ilgili tek bir çıt bile çıkmadı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0033",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0034",
+        "msgStr": "Ama o köprü hakkında bir sürü tuhaf söylenti <IT_S>duymuştum<IT_E>.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0035",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0036",
+        "msgStr": "Mesela insanların ortadan kaybolup sonra durup dururken tekrar ortaya çıkması gibi.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_02_013",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0037",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0038",
+        "msgStr": "Belki dünkü o kız gerçekten de bizim uğraştığımız türden işlere bulaşmıştır...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_03_014",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0039",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0040",
+        "msgStr": "Hele bizden kendisini öldürmemizi istemesi... Hiç ama hiç hoşuma gitmedi. \n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0041",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0042",
+        "msgStr": "O kırmızı asker kılıklı heriflerden bahsetmiyorum bile.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_04_015",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0043",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0044",
+        "msgStr": "Hey Raidou, dünkü şu meseleyi biraz araştırabilir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_05_016",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0045",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0046",
+        "msgStr": "Bir müvekkil burnumuzun dibinde sırra kadem bastı. Öylece oturup elimiz kolumuz bağlı bekleyemeyiz, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_06_017",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0047",
+        "msgStr": "Sen de fark ettin, değil mi Raidou? O Kırmızı Özel Muhafızlar birer iblisti."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_07_018",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0048",
+        "msgStr": "O yaratıklar Başkent'te kol gezerken Kuzunoha'lar buna seyirci kalamaz."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_08_019",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0049",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0050",
+        "msgStr": "Harika, o zaman anlaştıysak soruşturma işini sana bırakıyorum, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_09_020",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0051",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0052",
+        "msgStr": "Ben de giderdim ama senin için daha kolay olur zaten. Malum, şu iblislerin falan var.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_09_020_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0051_01",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0052_01",
+        "msgStr": "İş o kadar basit değil, seni ahmak..."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_09_020_02",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0051_02",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0052_02",
+        "msgStr": "Bak gördün mü? Gouto da \"Mırrr, çok zekisin!\" diyor. Gerçi kedi dilinden anladığım falan yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_02_09_020_03",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0051_03",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0052_03",
+        "msgStr": "Boş ver şunu, Raidou. Biz işimize bakalım..."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE17_01_021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE17_02_022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE17_03_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE17_07_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE17_09_025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE19_01_026",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0083",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0084",
+        "msgStr": "Hey, Raidou. Soruşturma nasıl gidiyor?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE19_02_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0085",
+        "msgStr": "> Raidou, şu ana kadarki gelişmeleri Narumi'ye anlattı."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE19_03_028",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0086",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "JMS_EVT2_L0087",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0088",
+        "msgStr": "Demek şu Rin denen kızdan duyduğun şarkıda Daidouji Malikânesi'nin altındaki bir \"uçurumdan\" bahsediliyordu...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0089",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0090",
+        "msgStr": "Ve adı neydi... Ha, doğru ya, Kaya. Sözde \"ele geçirildiği\" için oraya kilitlenmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0090_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0090_02",
+        "msgStr": "Sonra Kaya'nın amcası Kiyoshi onu serbest bırakmış ama o Kırmızı Özel Muhafızlar kızı alıp götürmüş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0090_03",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0090_04",
+        "msgStr": "Üstüne üstlük ailenin büyük patronu Takeshi Daidouji hastalanınca aile mirası yüzünden kıyamet kopmuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0091",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0092",
+        "msgStr": "Eh, fabrikasının o devasa borcu düşünüldüğünde bütün bu işteki en bariz şüpheli Kiyoshi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0093",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0094",
+        "msgStr": "Ama bir tür suç ortağı olmalı. Oturma odasında konuştuğu şu \"misafir\" olsa gerek.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0095",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0096",
+        "msgStr": "Bu suç ortağı sadece iblisleri kullanmakla kalmıyor, senin kim olduğunu da biliyor, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0097",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0098",
+        "msgStr": "Kim olursa olsun, bahse girerim kızın şu an nerede olduğunu bize söyleyebilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0099",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0100",
+        "msgStr": "Hatta Kiyoshi şu an yalnız—belki de kendisiyle temas kurmak için iyi bir zamandır?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0101",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0102",
+        "msgStr": "Görünüşe bakılırsa bu suç ortağı tehlikeli biri. Kiyoshi ile işin bittikten sonra onun icabına bakarız.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE19_03_028_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0102_01",
+        "msgStr": "Bak sen. Mantıklı bir tavsiye, Narumi."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE19_03_028_02",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0102_02",
+        "msgStr": "Ona katılıyorum, Raidou. Önce Kiyoshi'nin ne bildiğini öğrenelim."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE19_03_028_03",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0102_03",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0102_04",
+        "msgStr": "Pekâlâ, ben de ordudaki şüpheli hareketlilikleri araştırıp o misafirin kim olduğunu bulmaya çalışacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_01_029",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0103",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0104",
+        "msgStr": "Kazdıkça işin ucu daha da derinlere gidiyor. Bu hiç hoşuma gitmiyor, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0105",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0106",
+        "msgStr": "Basit bir kaçırılma vakası olarak başlayan şey kadim bir aile sırrına dönüştü... Ha, tabii bir de iblisler var.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0107",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0108",
+        "msgStr": "Kızın amcasının canavara dönüşüp kaçmasından bahsetmiyorum bile... Yahu, Sherlock Holmes olsa bütün bunlara ne derdi acaba?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0109",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0110",
+        "msgStr": "Neler dönüyor yahu? O telefon geldiğinden beri sanki bütün şehir dağılıyor gibi hissediyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0111",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0112",
+        "msgStr": "Ve işin içinde iblisler varsa polis hiçbir halt edemez. Öf, görünüşe göre işler bir süre daha zararda gidecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_06_030",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0113",
+        "msgStr": "Bu, yalnızca biz İblis Çağırıcılarının çözebileceği bir davaya benziyor."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_07_031",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0114",
+        "msgStr": "Korkarım bu soruşturmanın henüz sadece kapağını araladık. Kendini hazırlasan iyi olur, Raidou."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_08_032",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0115",
+        "msgStr": "Çok geçmeden patilerimizde daha büyük sorunlar olacak."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_09_033",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0116",
+        "msgStr": "Sana güveniyoruz, Ondördüncü Raidou Kuzunoha."
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_10_034",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_11_035",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_12_036",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_13_037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_14_038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE23_15_039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_01_040",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0123",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0124",
+        "msgStr": "Ee, Başkent Günlüğü'nün yıldız muhabirini bugün buraya hangi rüzgâr attı bakalım?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0125",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0126",
+        "msgStr": "Yapacak bir sürü işimiz var, o yüzden sırf takılmaya geldiysen git başka yerde takıl.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_03_041",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0127",
+        "msgStr": "<lips 7 6>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0128",
+        "msgStr": "\"Takılmak\" mı? Pardon ama! Bugün buraya bir müvekkil olarak geldim!\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_04_042",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0129",
+        "msgStr": "<lips 2 6>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0130",
+        "msgStr": "Ooooh hayır! Asla olmaz, mümkün değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0131",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0132",
+        "msgStr": "Git kafa ütüleyecek başka bir yer bul. Dediğim gibi, başımızı kaşıyacak vaktimiz yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_06_043",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0133",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0134",
+        "msgStr": "Oho? \"Başınızı kaşıyacak vaktiniz yok,\" öyle mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_07_044",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0135",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0136",
+        "msgStr": "Sandalyene öylece yayılmış olmasan inanacaktım. Bence bana bir dakikanı ayırabilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0137",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0138",
+        "msgStr": "Beni dinleyeceksin, değil mi Raidou?<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0139",
+        "msgStr": "Başını salla"
+      },
+      {
+        "msgID": "JMS_EVT2_L0140",
+        "msgStr": "Başını çevir"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_09_045",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0141",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0142",
+        "msgStr": "Sen de mi ya! Ne yaptığını gördün mü, Bay Narumi? Kötü örnek oluyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0143",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0144",
+        "msgStr": "Bırakın da diyeceğimi diyeyim—uzun sürmeyecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_10_046",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0145",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0146",
+        "msgStr": "Gördün mü? Senin aksine Raidou'da biraz nezaket var, Bay Narumi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0147",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0148",
+        "msgStr": "Şimdi çeneni kapat ve bir dakika beni dinle, tamam mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_11_047",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0149",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0150",
+        "msgStr": "Tamam, peki, mesaj alındı güzelim. Dinliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0151",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0152",
+        "msgStr": "Ee, mevzu ne bakalım? Cüzdanını falan mı düşürdün bir yerde?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_12_048",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0153",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0154",
+        "msgStr": "Geçen gün bir röportaj için Ginza-cho'daki <COLOR 1>Ryugu<COLOR 0>'ya gitmiştim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0155",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0156",
+        "msgStr": "Sonra, hemen ardından restoranın önünde büyük bir kalabalık fark ettim...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0157",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0158",
+        "msgStr": "Neler döndüğünü sordum, adamın teki bana <COLOR 1>Kırmızı Pelerin<COLOR 0>'in ortaya çıktığını söyledi.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_13_049",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0159",
+        "msgStr": "<lips 2 6>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0160",
+        "msgStr": "Kırmızı Pelerin mi!?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_14_050",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0161",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0162",
+        "msgStr": "Aynen öyle. Onu muhtemelen duymuş olacağını tahmin etmiştim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0163",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0164",
+        "msgStr": "Başkent'in dört bir yanında görülen tuhaf bir tip.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_15_051",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0165",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0166",
+        "msgStr": "Çocukları falan kaçıran bir ucube hakkındaki şu söylentiyi mi diyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_16_052",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0167",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0168",
+        "msgStr": "Ondan önce, onun bir tür şehir efsanesi olduğunu sanıyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0169",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0170",
+        "msgStr": "Taisho dönemindeki bütün bu huzursuzluğun ürünü olan basit bir söylenti yani.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_17_053",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0171",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0172",
+        "msgStr": "Ama... sonra tam restorandan çıkarken şu fotoğrafı çektim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0173",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0174",
+        "msgStr": "Buna ne diyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_18_054",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0175",
+        "msgStr": "Şey... Bu kesinlikle Kiyoshi Daidouji'ye benziyor."
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_19_055",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0176",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0177",
+        "msgStr": "Bu herkesin fikrini değiştirmeye yeter.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0178",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0179",
+        "msgStr": "Kırmızı Pelerin bir söylenti değilmiş. Gerçekten de var—gün gibi ortada.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_20_056",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0180",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0181",
+        "msgStr": "Peki bizden tam olarak ne istiyorsun? Bu ucubeyi yakalamamızı beklemiyorsun herhalde, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_21_057",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0182",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0183",
+        "msgStr": "Çok yaşa dedektif! Tam olarak bunu istiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_22_058",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0186",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0187",
+        "msgStr": "Orada bir dur bakalım, Tae. Öyle bir şey için kendimi tehlikeye atmamın imkânı yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_23_059",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0188",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0189",
+        "msgStr": "Bundan emin misin, Bay Narumi? Çünkü Ryugu'nun sahibi röportajımız sırasında oldukça ilginç şeyler söyledi...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0190",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0191",
+        "msgStr": "Bütün o faturaları nasıl ödemeyi planlıyorsun? Epey birikmediler mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_24_060",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0192",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_25_061",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0193",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0194",
+        "msgStr": "Eğer işi kabul ederseniz, peşin ödeme yapmaya karşı değilim.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_26_062",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0195",
+        "msgStr": "<lips 2 6>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0196",
+        "msgStr": "Başka söze gerek yok!\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0197",
+        "msgStr": "<lips 2 6>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0198",
+        "msgStr": "Eşi benzeri olmayan Kichou Asakura'dan bir iş kabul etmek bizim için en içten onurdur! \n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_27_063",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0199",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0200",
+        "msgStr": "...Çok incesin doğrusu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0201",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0202",
+        "msgStr": "Her neyse, soruşturma için bu fotoğrafın sizde kalmasını isteyeceğinizi düşündüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_28_064",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0203",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0204",
+        "msgStr": "Mükemmel! Al bakalım, Raidou. Kırmızı Pelerin hakkında biraz bilgi toplama vakti.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_29_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0205",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Kırmızı Pelerin Fotoğrafı<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_30_066",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0206",
+        "msgStr": "Bunun Kiyoshi Daidouji olma ihtimali çok yüksek."
+      },
+      {
+        "msgID": "JMS_EVT2_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0209",
+        "msgStr": "Onu bulursak, Kaya'yı bulmaya bir adım daha yaklaşmış oluruz."
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_32_tuika_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0210",
+        "msgStr": "> <COLOR 3>Ginza-cho<COLOR 0>'ya artık Dünya Haritası üzerinden ulaşılabilir."
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_33_068",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0211",
+        "msgStr": "<lips 2 6>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0212",
+        "msgStr": "Ee, Tae, bebeğim! Hani şu peşin ödeme nerede?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_34_069",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0213",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0214",
+        "msgStr": "Hmm... Düşünüyorum da, üzerimde hiç nakit yokmuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0215",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0216",
+        "msgStr": "Kusura bakma ama sonra ödeşiriz, olur mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0217",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0218",
+        "msgStr": "Raidou bu soruşturmayı tamamlamadan önce parayı sana ulaştıracağımdan eminim.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE01_35_070",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0219",
+        "msgStr": "<lips 2 6>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0220",
+        "msgStr": "Hadi ama ya!\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_01_071",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0221",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0222",
+        "msgStr": "Tekrar hoş geldin, Raidou. Soruşturmada bir ilerleme var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_02_072",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0223",
+        "msgStr": "> Raidou, dava hakkındaki son gelişmeleri Narumi'ye aktardı."
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_03_073",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0224",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0225",
+        "msgStr": "Demek kızın amcası Kiyoshi'yi ararken şimdi de Kurisu-zaka'daki araba kazasının arkasındaki suçlunun peşine düştün...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0226",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0227",
+        "msgStr": "Ve bütün bunlar Tae'nin Kırmızı Pelerin'i bulma isteğiyle bağlantılı, ha...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0228",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0229",
+        "msgStr": "Eh, kazayı araştırıyorsan muhtemelen olay yerinin etrafındakilere sormalısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0230",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0231",
+        "msgStr": "Kırmızı Pelerin'in görüldüğü Ryugu'ya da epey yakın, o yüzden bir göz atmaya değer.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0236",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0237",
+        "msgStr": "Hem hey, şu Kırmızı Pelerin'i enseler enselemez Tae bize ödememizi yapacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0238",
+        "msgStr": "<lips 2 5>\nHa, doğru ya! Aklıma gelmişken—daha önce Tae aradı.<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0239",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0240",
+        "msgStr": "Soruşturmayla ilgili son durumu öğrenmek istedi! Bu durum pek hoşuma gitmiyor. O bizim müvekkilimiz, patronumuz değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0241",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0242",
+        "msgStr": "Ama ben zaten burada işlere gömülmüş durumdayım, o yüzden şu işle sen ilgilenebilir misin, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0243",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0244",
+        "msgStr": "Sanırım önemli bir şey bulduğunu ve bizimle o konuda konuşmak istediğini söyledi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0245",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0246",
+        "msgStr": "Şahsen kendi başımıza gayet iyi gittiğimizi düşünüyorum—ama müvekkilimizle arayı hoş tutmamız lazım, bilirsin?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0247",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0248",
+        "msgStr": "Tae, Ginza'daki gazozcuda yazısını hazırlıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_14_074",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_15_075",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0252",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0253",
+        "msgStr": "Buyurun, Narumi Dedektiflik Bürosu."
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_16_076",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0254",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0255",
+        "msgStr": "Son zamanlarda buralarda pek görünmüyorsunuz, Bay Narumi. Benim, Ryugu'dan.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_17_077",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0256",
+        "msgStr": "Gah...!"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_18_078",
+        "msgStr": "Ryugu Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0257",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0258",
+        "msgStr": "Acaba şu kabarık veresiye hesabınızı konuşabilir miyiz diyecektim...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE17_19_079",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0259",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0260",
+        "msgStr": "Eh, görünüşe göre Narumi şimdi gerçekten işlere gömülecek. Biz gidip Tae ile buluşalım.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE29_01_080",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0261",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0262",
+        "msgStr": "Gerçekten <IT_S>iki<IT_E> tane Kırmızı Pelerin çıkacağını hiç beklemiyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0263",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0264",
+        "msgStr": "Elimizde Kaya Daidouji'nin kayıp amcası Kiyoshi ve Ryugu'nun çekçekçisi Denpachi var...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0265",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0266",
+        "msgStr": "İkisini birden Kırmızı Pelerin'e dönüştüren şey ne olabilir ki?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0267",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0268",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0269",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0270",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0271",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0272",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0273",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0274",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0275",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0277",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0278",
+        "msgStr": "Bu arada Tae, Kırmızı Pelerin gizemini tamamen çözene kadar bize tek kuruş ödemeyeceğini söyledi!\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0279",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0280",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0281",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0282",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0283",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0284",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0285",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0286",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0287",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0288",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0289",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0290",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0291",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0292",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0293",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0294",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0295",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0296",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0297",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0298",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0299",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0300",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0301",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0302",
+        "msgStr": "Bu Kiyoshi Daidouji cehennemin hangi dibinde yahu...?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0303",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0304",
+        "msgStr": "Onu parmağında oynatan şu asker de kim?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0305",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0306",
+        "msgStr": "Ve Kaya nerede olabilir?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0307",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0308",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0309",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0310",
+        "msgStr": "Denpachi'nin bahsettiği Senju-ku'daki şu fabrikayı araştıracağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0311",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0312",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0313",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0314",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0315",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0316",
+        "msgStr": "Denpachi'nin omuzlarında ağır bir yük vardı. Elbette bazı hatalar yaptı ama o da bir kurbandı...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI02_SCENE29_02",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0317",
+        "msgStr": "Denpachi içinde bulunduğumuz devire öfke duyuyor ve toplumun gidişatına çok üzülüyordu."
+      },
+      {
+        "msgID": "JMS_EVT2_L0318",
+        "msgStr": "Eğer bu duyguların Kırmızı Pelerinlerle bir ilgisi varsa buna seyirci kalamayız. Başkent'i korumalıyız, Raidou."
+      },
+      {
+        "msgID": "JMS_EVT2_L0319",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0320",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0321",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0322",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE01_01_081",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0323",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0324",
+        "msgStr": "Senju-ku'daki şu fabrika hakkında biraz bilgi topladım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0325",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0326",
+        "msgStr": "Resmi adı Daidouji Dokuma. Fukagawa-cho'nun kuzeydoğu kesiminde oldukça büyük bir fabrika.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0327",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0328",
+        "msgStr": "Mekânın sahibi Kiyoshi Daidouji, o yüzden orada saklanıyor olma ihtimali oldukça yüksek.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0329",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0330",
+        "msgStr": "Görünüşe göre fabrikanın işleri bir süre tıkırındaymış ama otomatik makinelerin yükselişiyle geride kalmış.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0331",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0332",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0333",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0334",
+        "msgStr": "Şimdi fabrika kapanmanın eşiğinde ve borcu ödemek için arazisi satışa çıkarılmış.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0335",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0336",
+        "msgStr": "Kaybedecek olsa bile... son ana kadar fabrikasına tutunmak istediğini tahmin edebiliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0336_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0336_02",
+        "msgStr": "Bunu kâhya Nakamura'dan aldım. Daidouji ailesinin reisi Bay Takeshi'ye ait bir kol düğmesi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0336_03",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0336_04",
+        "msgStr": "Görünüşe göre Bay Takeshi kendi hastalığından ziyade kardeşinin durumu için endişeleniyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0336_05",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0336_06",
+        "msgStr": "Denpachi'ye olanları düşünürsek Bay Kiyoshi'yi bir an önce durdurmalıyız.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0337",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0338",
+        "msgStr": "Kol düğmesini alıp Daidouji Dokuma'ya bir göz atabilir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE01_07D",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0338_01",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Kol Düğmesi<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "JMS_EVT2_L0339",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0340",
+        "msgStr": "Yine de orada dikkatli ol.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0341",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0342",
+        "msgStr": "Tae'ye göre, fabrikanın çevresindeki bölgede görülenler olmuş...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0343",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0344",
+        "msgStr": "Görünüşe göre birden fazla Kırmızı Pelerin varmış.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0345",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0346",
+        "msgStr": "Manşeti kapmak için oraya gideceğim diye heyecandan yerinde duramıyordu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0347",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0348",
+        "msgStr": "Bunu sana yıktığım için kusura bakma Raidou ama gitmişken Tae'yi de beladan uzak tutabilir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0349",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0350",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0351",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0352",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE14_01_082",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0353",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0354",
+        "msgStr": "Hastanede Bay Kiyoshi'yi görmeye gittim ve bana her şeyi anlattı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0355",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0356",
+        "msgStr": "Görünüşe göre ordudan kendisine \"M\" diyen biri onunla irtibata geçmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0357",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0358",
+        "msgStr": "Bu M, kızı teslim etmesi karşılığında Kiyoshi'ye yüklü miktarda para ödemeyi vaat etmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0359",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0360",
+        "msgStr": "Paranın miktarı fabrikanın borcunu kapatmaya yettiği için Kiyoshi kabul etmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0361",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0362",
+        "msgStr": "Ancak daha sonra M, Kiyoshi'yi tehdit ederek Daidouji ailesinin reisi Bay Takeshi'yi zehirletmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0363",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0364",
+        "msgStr": "Kendisinin karşısına çıkan herkesin sonunun böyle olacağını söylemiş...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0365",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0366",
+        "msgStr": "Böylece Kiyoshi sonunda kızı M'ye teslim etmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0367",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0368",
+        "msgStr": "Paraya ihtiyacı varmış ama aynı zamanda yeğenini aile gelenekleri yüzünden öldürülmekten de kurtarmak istemiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0368_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0368_02",
+        "msgStr": "Kiyoshi Daidouji'den nefret edemiyorum. Onun yerinde başka hangi insan olsa aynı şeyi yapardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0368_03",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0368_04",
+        "msgStr": "Ama bu M denen adam hakkında bildiklerimize dayanarak, orduda yüksek rütbeli bir subay olduğunu varsayabiliriz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0369",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0370",
+        "msgStr": "Adının baş harfi \"M\" olan biri... Bir tahminim var ama... olamaz herhalde...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE14_08_083",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0371",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0372",
+        "msgStr": "Ondördüncü Raidou Kuzunoha için mühim bir mesajla geldim.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE14_09_084",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0373",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0374",
+        "msgStr": "...Ya?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0375",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0376",
+        "msgStr": "Heeeey, görüşmeyeli nasılsın? Bir içki alır mıydın? Ya da belki bir sigara?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE14_11_085",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0377",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0378",
+        "msgStr": "Lütfen laubaliliği bırakın. Bu acil bir mesele.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0379",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0380",
+        "msgStr": "Raidou, karşılaştığın İblis Çağırıcısı hakkında bazı bilgiler getirdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0381",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0382",
+        "msgStr": "Rasputin, kayıtlara göre on beş yıl önce hayatını kaybetmiş yabancı bir keşiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0383",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0384",
+        "msgStr": "Gerçekte ise kendisi bir Karanlık Çağırıcı—etki alanımızın dışında kalan biri.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE14_12_086",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0385",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0386",
+        "msgStr": "Peki... bu ne anlama geliyor?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE14_13_087",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0387",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0388",
+        "msgStr": "Bizler, huzuru korumak adına İblis Çağırıcılarının gücünü kullanarak çaba gösteririz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0389",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0390",
+        "msgStr": "Hem de yalnızca Japonya'da değil. Dünyanın diğer ülkelerinde de benzer sistemler mevcuttur.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0391",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0392",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0393",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0394",
+        "msgStr": "Ancak... güçlerini başka amaçlar uğruna kullanmayı seçen bazı kişiler de vardır.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0395",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0396",
+        "msgStr": "Bu tür Çağırıcıların amaçlarını bilmiyoruz ama değer yargıları bizimkilerle uyuşmuyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0397",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0398",
+        "msgStr": "Onlara Karanlık Çağırıcılar diyoruz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0399",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0400",
+        "msgStr": "Yetenekleri eşsizdir ve hiçbir kurala ya da kısıtlamaya bağlı değillerdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0401",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0402",
+        "msgStr": "Eğer böylesi bir şahıs düşmanımızsa, azami dikkat göstermelisin.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE14_18_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0403",
+        "msgStr": "<lips 8 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0404",
+        "msgStr": "> Yatagarasu Elçisi ayrıldı.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI03_SCENE14_19_089",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0405",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0406",
+        "msgStr": "Yani başka bir deyişle, M için çalışan bu Rasputin denen tip gerçekten çok tehlikeli.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0407",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0408",
+        "msgStr": "Her halükârda...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0409",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0410",
+        "msgStr": "Görünüşe göre şu noktada Rasputin'in peşine düşmek tek seçeneğin, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0411",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0412",
+        "msgStr": "Ben de ordudaki bağlantılarımla temasa geçmeye odaklanacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0413",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0414",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0415",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0416",
+        "msgStr": "Ayrıntıları daha sonra çözeriz. Şimdilik biraz dinlenmeye bak.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_01_090",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0417",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0418",
+        "msgStr": "Tamam... Hı hı... Pekâlâ, teşekkürler. Sonra konuşuruz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0419",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0420",
+        "msgStr": "...Başka ipuçları bulmanın kolay olmayacağını biliyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0421",
+        "msgStr": "<lips 23 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0422",
+        "msgStr": "Şu M konusunda içimde kötü bir his var...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_04_091",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0423",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0424",
+        "msgStr": "Seni görmek güzel, Bay Narumi. Sen nasılsın bakalım, evlat?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_05_092",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0425",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0426",
+        "msgStr": "Dükkânı pek bırakmazdın sen. Bir sorun mu var?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_06_093",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0427",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0428",
+        "msgStr": "Şey, aslında bir nevi sorunum var...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0429",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0430",
+        "msgStr": "Son sevkiyatımı alalı epey zaman oldu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0431",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0432",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_09_094",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0433",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0434",
+        "msgStr": "Ha, hepsi bu mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_10_095",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0435",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0436",
+        "msgStr": "Şey... mesele kulağa geldiği kadar basit değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0437",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0438",
+        "msgStr": "Mallarımı her zaman <COLOR 1>Harumi-cho<COLOR 0>'daki <COLOR 1>Bay Harada<COLOR 0>'dan sipariş ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0439",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0440",
+        "msgStr": "Ancak son zamanlarda Harada'dan gelen sevkiyatlarım ortadan kayboluyor!\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0441",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0442",
+        "msgStr": "Neler döndüğünü sordum ve görünüşe göre Bay Harada yakın zamanda vefat etmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_14_096",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0443",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0444",
+        "msgStr": "Hay aksi, bunu duyduğuma üzüldüm... Eh, korkarım daha fazla sohbet edemeyeceğim. Benim de başımda bir sürü iş var, bilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0445",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0446",
+        "msgStr": "Umarım iş sıkıntılarını yoluna koyarsın, komşu. Hadi, kendine iyi bak.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_16_097",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0447",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0448",
+        "msgStr": "Buraya sohbet etmeye mi geldiğimi sanıyorsun? Hizmetlerinizden faydalanmak için buraya geldim, Bay Narumi!\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_17_098",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0449",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0450",
+        "msgStr": "Ha? Hizmetlerim mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_18_099",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0451",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0452",
+        "msgStr": "Aynen öyle. Bay Harada'nın vefatı, ortadan kaybolan kargoları açıklamıyor, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0453",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0454",
+        "msgStr": "Bana sevkiyatlarımı her zamanki gibi göndermeye devam edebilirlerdi, haksız mıyım?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0455",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0456",
+        "msgStr": "Gelgelelim elimde hiç mal yok! Bu sana da tuhaf gelmiyor mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0457",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0458",
+        "msgStr": "Ve işin en ilginç kısmı da şu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0459",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0460",
+        "msgStr": "Yalnızca Harada Şirketi'nin kargoları ortadan kayboluyor. İş ortaklarımın hiçbirinde böyle bir sorun yaşanmadı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0461",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0462",
+        "msgStr": "Kargo gemiden indiriliyor ve sonra... puf! İz bırakmadan sırra kadem basıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0463",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0464",
+        "msgStr": "Ee? Ne düşünüyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_22_100",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0465",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0466",
+        "msgStr": "Sıradan bir hırsızlık vakası gibi duruyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_23_101",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0467",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0468",
+        "msgStr": "Ben de aynı şeyi düşünmüştüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0469",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0470",
+        "msgStr": "Bu yüzden... köstebeği yakalamak için sevkiyatın başında nöbet tutacak daha fazla denizci tuttum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0471",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0472",
+        "msgStr": "Ta ki her şey sırra kadem basana kadar. Sanki hırsız görünmezmiş gibi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0473",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0474",
+        "msgStr": "Üstelik sadece kargo da değil. Denizcilerden birkaçı da ortadan kayboldu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0475",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0476",
+        "msgStr": "Hem de diğer denizci arkadaşlarının gözleri önünde! İlgini çekti, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_27_102",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0477",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0478",
+        "msgStr": "Gözlerinin önünde demek, ha...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_28_103",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0479",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0480",
+        "msgStr": "Bu tür işlerin senin hobin olduğunu biliyorum, üstelik işime de yardımcı olmuş olacaksın.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0481",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0482",
+        "msgStr": "Ee... bu konuda bir şeyler yapacak mısın?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_30_104",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0483",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0484",
+        "msgStr": "\"Hobim\" derken neyi kastediyorsun? Hem benim ne yapmamı bekliyorsun ki!?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_31_105",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0485",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0486",
+        "msgStr": "<IT_S>Ne<IT_E> yaptığın umurumda bile değil. Bana sadece sevkiyatlarımın teslim edilmesi lazım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0487",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0488",
+        "msgStr": "Aksi takdirde Konnou-ya'yı kapatmak zorunda kalacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0489",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0490",
+        "msgStr": "Ve bu durum sizi de etkiler, öyle değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_32_106",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0491",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0492",
+        "msgStr": "Eh, sanırım...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_33_107",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0493",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0494",
+        "msgStr": "O halde anlaştık! İkinize güveniyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_34_108",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0495",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0496",
+        "msgStr": "Tamam, tamam— Hm... Dur bir dakika, <COLOR 1>Harumi-cho<COLOR 0> dedin, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_35_109",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0497",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0498",
+        "msgStr": "Evet, ne olmuş ki?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_36_110",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0499",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0500",
+        "msgStr": "Sadece birkaç taş yerine oturdu. Harumi-cho, Başkent'in en büyük limanıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0501",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0502",
+        "msgStr": "Raidou, Harumi-cho'yu araştırmanı ve şu Konnou-ya kargo meselesini çözmeye çalışmanı istiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0503",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0504",
+        "msgStr": "Ve oradayken şu yabancı dostumuz hakkında da etrafa bir soruştur, olur mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0505",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0506",
+        "msgStr": "Belki birileri \"Rasputin\" adını duymuştur.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE01_38_111",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0507",
+        "msgStr": "> <COLOR 3>Harumi-cho<COLOR 0>'ya artık Dünya Haritası üzerinden ulaşılabilir."
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE04_01_112",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0508",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0509",
+        "msgStr": "Tekrar hoş geldin, Raidou. Harumi-cho'dan ne haberler var?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE04_02_113",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0510",
+        "msgStr": "> Raidou, Narumi'ye ayrıntıları anlattı."
+      },
+      {
+        "msgID": "JMS_EVT2_L0511",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0512",
+        "msgStr": "Demek... Rasputin hakkında hâlâ bir iz yok, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0513",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0514",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0515",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0516",
+        "msgStr": "Konnou-ya davasına gelince, her şey bir sonraki gemiye ne olacağına bağlı. Harada zor durumda.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0517",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0518",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0519",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0520",
+        "msgStr": "Öte yandan, Rasputin hakkında İçişleri Bakanlığı'na danıştım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0521",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0522",
+        "msgStr": "Ülkeye Rasputin adında yabancı birinin giriş yaptığına dair hiçbir kayıt yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0523",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0524",
+        "msgStr": "Yani ya yasadışı yollardan girdi ya da sahte bir isim kullanıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0525",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0526",
+        "msgStr": "Her halükârda, yasal yollardan onu bulmamız pek mümkün görünmüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0527",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0528",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0529",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0530",
+        "msgStr": "Çivi çiviyi söker. Kanto Haguro Ailesi'nin istihbarat ağından faydalanmaya ne dersin?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0531",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0532",
+        "msgStr": "Satake, Başkent'in... karanlık yüzünü avucunun içi gibi bilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0533",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0534",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0535",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0536",
+        "msgStr": "Bakalım bu konuda ne diyecek, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI04_SCENE20_01_114",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0537",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0538",
+        "msgStr": "Bir gizem diğerini doğuruyor ve bu dava giderek daha da büyüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0539",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0540",
+        "msgStr": "Yanlış anlama—Konnou-ya'nın sahibine yardım etmek harikaydı.<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0541",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0542",
+        "msgStr": "Ama kayıp kızımız hakkında hâlâ tek bir ipucu bile yakalayamadık.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0543",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0544",
+        "msgStr": "Sonra mekanik bir Karanlık Çağırıcı yolumuza çıkıyor ama bizim Raidou Kuzunoha onu yere seriyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0545",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0546",
+        "msgStr": "Ve eğer o Karanlık Çağırıcının söylediklerinden yola çıkarsak...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0547",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0548",
+        "msgStr": "Ortada \"Süper Asker Projesi\" diye bir şey var...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0549",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0550",
+        "msgStr": "Ve kız bir şekilde o proje için kullanılıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0551",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0552",
+        "msgStr": "Bir Süper Asker ordusu...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0553",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0554",
+        "msgStr": "Bütün bunlar zengin bir kızın kaçırılmasıyla başladı—şimdiyse etrafta bir sürü Kırmızı Pelerin ve Hiruko cirit atıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0555",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0556",
+        "msgStr": "Neler dönüyorsa artık, bütün Başkent bu işin içine çekiliyor. Bütün bunlarla ilgili içimde kötü bir his olduğunu biliyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_01_115",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0557",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0558",
+        "msgStr": "Rasputin'in bize anlattığı onca şeye inanıyor muyuz?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0559",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0560",
+        "msgStr": "Kızın Kasumidai'de olduğunu söyledi ama orası askeri varlığın en güçlü olduğu yer. \n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_03_116",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0561",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0562",
+        "msgStr": "Vay, kimleri görüyorum, Raidou ve dedektif. Beni özlediniz mi çocuklar?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0563",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0564",
+        "msgStr": "Vaktiniz varsa sizden bir iyilik daha isteyeceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_05_117",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0565",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0566",
+        "msgStr": "Yine mi, Tae? Önce şu Kırmızı Pelerin meselesinin parasını ödeseydin bari.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_05_117_01",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0566_01",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0566_02",
+        "msgStr": "Bildiğim kadarıyla henüz tüm gizemi çözmediniz, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_05_117_02",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0566_03",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0566_04",
+        "msgStr": "Seninle laf yarışına girilmez... Bütün bunlar bittiğinde kabarık bir faturaya hazır ol.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_06_118",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0567",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0568",
+        "msgStr": "Pekâlâ, mesele şu; bugün gazeteye tuhaf bir telefon geldi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0569",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0570",
+        "msgStr": "İster inanın ister inanmayın, arayan ordudan biriydi.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_08_119",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0571",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0572",
+        "msgStr": "Ordudan biri basını mı aradı?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_09_120",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0573",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0574",
+        "msgStr": "Aynen öyle ve Ordu'nun üzerinde çalıştığı korkunç bir projeyi halka açıklamak istiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_10_121",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0575",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0576",
+        "msgStr": "\"Korkunç bir proje\" ha... Bana pek tekin gelmedi.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_11_122",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0577",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0578",
+        "msgStr": "Patronum da aynı şeyi söyledi ama bir düşünsenize.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0579",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0580",
+        "msgStr": "Çok çılgın bir dönemde yaşıyoruz. Belki de birileri artık sesini çıkarıp doğru bir şey yapmak istiyordur.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0581",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0582",
+        "msgStr": "Askeri personelin çok gizli bilgileri sızdırması mı? Sırf şaka olsun diye yapılmayacak kadar büyük bir risk bu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0583",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0584",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0585",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0586",
+        "msgStr": "Bence adamı dinlemeye değer, sizce de öyle değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_16_123",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0587",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0588",
+        "msgStr": "Dinlemek mi? Cidden gidip bu herifi <IT_S>görecek<IT_E> misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_17_124",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0589",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0590",
+        "msgStr": "Tabii ki göreceğim. Bu öğleden sonra Kasumidai'de buluşmak için sözleştik bile.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0591",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0592",
+        "msgStr": "İşte isteyeceğim iyilik de tam burada devreye giriyor... Benimle gelebilir misiniz?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0593",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0594",
+        "msgStr": "Askeri sırlardan bahsediyoruz. Ne olacağı hiç belli olmaz, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0595",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0596",
+        "msgStr": "Benim gibi kendi halinde birinin tek başına gitmesi için çok tehlikeli bir yer.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_21_125",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0597",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0598",
+        "msgStr": "Ancak işine geldiğinde böyle konuşursun zaten.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0599",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0600",
+        "msgStr": "Ama Kasumidai, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0601",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0602",
+        "msgStr": "Raidou, dostumuz Tae'ye randevusunda eşlik etmeye ne dersin?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0603",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0604",
+        "msgStr": "Doğrudan ordudan gelen bilgi mi? Tam da aradığımız şey olabilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0605",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0606",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0607",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0608",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0609",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0610",
+        "msgStr": "Şu Süper Asker Projesi'nin neyin nesi olduğunu öğrenmemiz lazım.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_28_126",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "JMS_EVT2_L0611",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0612",
+        "msgStr": "Benimle geliyorsun demek, Raidou? Teşekkür ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0613",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0614",
+        "msgStr": "Hadi şu mızmız Narumi'yi ekip tüzelim, ne dersin?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_30_127",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0615",
+        "msgStr": "> Raidou ve Tae dedektiflik bürosundan ayrıldı."
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_31_128",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0616",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0617",
+        "msgStr": "Bu M denen adam... ve bir \"Süper\" Asker Projesi... Olamaz... O iş yıllar önceydi.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE01_32_129",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0618",
+        "msgStr": "> <COLOR 3>Kasumidai<COLOR 0> artık Dünya Haritası üzerinden erişilebilir."
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_01_130",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0619",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0620",
+        "msgStr": "Orada harika iş çıkardın, Raidou. Sağ ol.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0621",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0622",
+        "msgStr": "O yağmurlu geceden beri kızı arıyorduk, sonunda sağ salim döndü.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0623",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0624",
+        "msgStr": "Demek yeraltı tersanesinde bir çeşit hokkabazlık çeviriyorlarmış, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0625",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0626",
+        "msgStr": "Kız iyi olduktan sonra gerisi mühim değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_05_131",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0627",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0628",
+        "msgStr": "Ş-Şey... Neredeyim ben...?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_06_132",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0629",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0630",
+        "msgStr": "Görünüşe göre bizim küçük hanım uyanıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_07_133",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0631",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0632",
+        "msgStr": "Ah, siz... şu dedektifsiniz.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_08_134",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0633",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0634",
+        "msgStr": "Gayet iyi görünüyorsun, ufaklık. İyi olmana sevindim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0635",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0636",
+        "msgStr": "Seni kurtaran kişi buradaki iyi eğitimli astım, Raidou Kuzunoha.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_10_135",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0637",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0638",
+        "msgStr": "Raidou...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_11_136",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0639",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0640",
+        "msgStr": "Tabii beni de unutma, onu bu göreve veren benim.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_12_137",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0641",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0642",
+        "msgStr": "Ah, öyle mi... O zaman ikinize de çok teşekkür ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_13_138",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0643",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0644",
+        "msgStr": "Ee, şey... şu \"beni öldürün\" laflarını hatırlıyor musun? Bize açıklamaya ne dersin?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_14_139",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0645",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0646",
+        "msgStr": "Şey... Ailemde nesilden nesile aktarılan korkunç bir lanet var—\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_15_140",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0647",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0648",
+        "msgStr": "İblis musallatı, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_16_141",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0649",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0650",
+        "msgStr": "Evet... Ailemdeki tüm kızlar on altı yaşına bastıklarında öldürülür.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_17_142",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0651",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0652",
+        "msgStr": "Ne korkunç.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_18_143",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0653",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0654",
+        "msgStr": "D-Doğum günüm yaklaştıkça babam bana farklı gözle bakmaya başladı...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0655",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0656",
+        "msgStr": "Sonra bir gün beni yeraltındaki bir hücreye kapattı.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_20_144",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0657",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0658",
+        "msgStr": "Raidou'nun bulduğu zindan olmalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_21_145",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0659",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0660",
+        "msgStr": "Evet, doğru. Eğer iblis bedenimi ele geçirirse kimseye zarar vermek istemiyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0661",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0662",
+        "msgStr": "Fakat kendi canıma kıyacak cesaretim de yoktu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0663",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0664",
+        "msgStr": "İşte o sırada amcam bana kurtulmamın bir yolu olduğunu söyledi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0665",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0666",
+        "msgStr": "İblisi kovarsak normal bir hayat sürmeye devam edebileceğimi söyledi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0667",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0668",
+        "msgStr": "Eğer bu gerçekten mümkünse, hayatta başka hiçbir şey istemezdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0669",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0670",
+        "msgStr": "Bu yüzden amcamın talimatlarına uydum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0671",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0672",
+        "msgStr": "Babam fark etmeden evden gizlice sıvıştım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0673",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "JMS_EVT2_L0674",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0675",
+        "msgStr": "Tam o sırada o subay, yani Munakata tarafından yakalanıp götürüldüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_30_146",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0676",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0677",
+        "msgStr": "Demek M dediğin kişi Munakata çıktı, ha...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_31_147",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0678",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0679",
+        "msgStr": "İblisi kovma laflarının hepsi koca bir yalanmış.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0680",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0681",
+        "msgStr": "Asıl istedikleri şey, o iblisin gücünü kendileri için ele geçirmekmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0682",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0683",
+        "msgStr": "Sonunda amcam tekrar ortaya çıktı ve kaçmama yardım etti.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0684",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0685",
+        "msgStr": "Ama eve dönseydim babam yine de beni öldürürdü.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0686",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0687",
+        "msgStr": "Gidecek hiçbir yerim yoktu... Ne yapacağımı bilmiyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_36_148",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0688",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0689",
+        "msgStr": "Sen de bizi aradın.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_37_149",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0690",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0691",
+        "msgStr": "Doğru. Sadece... öyle çaresizdim ki, başvurabileceğim başka kimsem yoktu.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_38_150",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0692",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0693",
+        "msgStr": "Seni anlıyorum. Peki bundan sonra nereye gitmeyi planlıyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_39_151",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0694",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0695",
+        "msgStr": "Şey...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_40_152",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0696",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0697",
+        "msgStr": "Evine dönemezsin ve Munakata hâlâ dışarıda bir yerlerde.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0698",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0699",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0700",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0701",
+        "msgStr": "O zaman şuna ne dersin; neden burada kalıp dedektiflik bürosunda bizimle çalışmıyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0702",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0703",
+        "msgStr": "Zaten beni şu evrak işlerinden kurtaracak bir sekreter arıyorduk. Değil mi, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0704",
+        "msgStr": "Elbette."
+      },
+      {
+        "msgID": "JMS_EVT2_L0705",
+        "msgStr": "Neden bahsediyorsun sen?"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_44_153",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0706",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0707",
+        "msgStr": "Gördün mü? Raidou bile öyle düşünüyor. Aramıza hoş geldin, Kaya.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_45_154",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0708",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0709",
+        "msgStr": "Aa, sana söylemeyi unuttum mu, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0710",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0711",
+        "msgStr": "Neyse, artık biliyorsun, değil mi? Her neyse, aramıza hoş geldin, Kaya.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_47_155",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0712",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0713",
+        "msgStr": "...Sorun olmayacağına emin misiniz?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_48_156",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0714",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0715",
+        "msgStr": "Tabii ki. Buraya biraz canlılık katmak için ikinize de güveniyorum!\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_49_157",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0716",
+        "msgStr": "<lips 3 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0717",
+        "msgStr": "Şey, eğer gerçekten sizce de bir sakıncası yoksa teklifinizi kabul etmek isterim.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_50_158",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0718",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0719",
+        "msgStr": "Bunu duyduğuma sevindim. Kutlama yapmak için harika bir sebep!\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_51_159",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0720",
+        "msgStr": "> Ve böylece, bir zamanlar kayıp olan Kaya Daidouji, İblis Çağırıcısı Raidou Kuzunoha tarafından kurtarıldı."
+      },
+      {
+        "msgID": "jms_evt2_EPI05_SCENE14_52_160",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0721",
+        "msgStr": "> Ancak bu bir son değildi. Aslında çok daha büyük bir davanın yalnızca başlangıcıydı..."
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE01_01_160",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0722_01",
+        "msgStr": "> Ertesi akşam..."
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE01_01_161",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0722",
+        "msgStr": "Hm... Raidou."
+      },
+      {
+        "msgID": "JMS_EVT2_L0723",
+        "msgStr": "Narumi çoktan çıkmış bile. Kimden bahsettiğimizi düşünürsek biraz şaşırtıcı doğrusu."
+      },
+      {
+        "msgID": "JMS_EVT2_L0724",
+        "msgStr": "Belki de Kaya buraya gelince nihayet biraz iş yapmak istemiştir."
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE01_04_162",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0725",
+        "msgStr": "Ben Konnou-ya'nın sahibiyim. Bay Narumi orada mı?"
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE01_05_163",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0726",
+        "msgStr": "> Raidou, Narumi'nin ofisten çıktığını açıkladı."
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE01_06_164",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0727",
+        "msgStr": "Ah, hm, orada değil mi? Siparişi geldi de. Bana acil olduğunu söylemişti."
+      },
+      {
+        "msgID": "JMS_EVT2_L0728",
+        "msgStr": "Gelip onun yerine sen teslim alsan nasıl olur?"
+      },
+      {
+        "msgID": "JMS_EVT2_L0729",
+        "msgStr": "Ödemeyi çoktan aldım ve alışverişleri hemen kapatmayı tercih ederim."
+      },
+      {
+        "msgID": "JMS_EVT2_L0730",
+        "msgStr": "Vakit nakittir, o yüzden çabuk buraya gel!"
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE01_09_165",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0731",
+        "msgStr": "> Konnou-ya'nın sahibi telefonu kapattı."
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE01_10_166",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0732",
+        "msgStr": "Narumi'nin siparişi, hm..."
+      },
+      {
+        "msgID": "JMS_EVT2_L0733",
+        "msgStr": "Eh, kendisi şu an burada değil, Kaya da dışarıda gibi görünüyor."
+      },
+      {
+        "msgID": "JMS_EVT2_L0734",
+        "msgStr": "Sanırım vakit geçirmek için Konnou-ya'ya uğrayabiliriz."
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE03_01_167",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0735",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0736",
+        "msgStr": "Ah, Raidou. Dönmüşsün.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0737",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0738",
+        "msgStr": "Ben mi? Ah, sadece biraz temiz hava almak için dışarı çıkmıştım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0739",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0740",
+        "msgStr": "Neyin var? Çok gergin görünüyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0741",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0742",
+        "msgStr": "Ah, saçım yüzünden, değil mi? Şey... Nasıl görünüyorum?<lips_stop><WAIT>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0743",
+        "msgStr": "Gülümse ve ona iltifat et"
+      },
+      {
+        "msgID": "JMS_EVT2_L0744",
+        "msgStr": "Gözlerini kaçır"
+      },
+      {
+        "msgID": "JMS_EVT2_L0745",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0746",
+        "msgStr": "Ah, ne güzel! Tuhaf bulacağından endişelenmiştim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0747",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0748",
+        "msgStr": "Son zamanlarda çok fazla şey yaşandı, biraz değişikliğin bana iyi gelebileceğini düşündüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0749",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0750",
+        "msgStr": "Beğenmediğini duymadığıma çok sevindim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0751",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0752",
+        "msgStr": "A-Ah, şey, tuhaf mı görünüyorum?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0753",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0754",
+        "msgStr": "Son zamanlarda çok fazla şey yaşandı, bir değişikliğin bana iyi gelebileceğini düşündüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0755",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0756",
+        "msgStr": "Gerçi öyle düşünüyorsan, belki de kestirmemeliydim...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE03_05_168",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0757",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "JMS_EVT2_L0758",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0759",
+        "msgStr": "Şey, Raidou? Bay Narumi'den bir ismin daha olduğunu duydum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0760",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0761",
+        "msgStr": "Acaba bana ne olduğunu söyler misin? Sana gerçek isminle hitap etmek isterim.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE03_08_169",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0762",
+        "msgStr": "> Raidou tereddüt etse de sonunda Kaya'ya gerçek ismini söyledi."
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE03_09_170",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0763",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0764",
+        "msgStr": "<NAME2N 0>... Çok güzel bir isimmiş. Bazen sana böyle seslenebilir miyim?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0765",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0766",
+        "msgStr": "Benim de seninle paylaşmak istediğim bir şey var, <NAME2N 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0767",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0768",
+        "msgStr": "Bir dakikanı ayırabilir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0769",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0770",
+        "msgStr": "Munakata tarafından esir tutulduğum sırada kulak misafiri olduğum bir şey vardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0771",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0772",
+        "msgStr": "Süper Asker Projesi hakkındaydı...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0773",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0774",
+        "msgStr": "Projenin başarılı olması için bir tür nesneye ihtiyacı olduğunu söyledi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0775",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0776",
+        "msgStr": "Eğer onu ele geçirirse, bir çırpıda milyonlarca Başkent sakinini ortadan kaldırabilirmiş...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0777",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0778",
+        "msgStr": "Planı hakkında söylediklerinden duyduklarım bu kadar.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0779",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0780",
+        "msgStr": "Çok korkutucu... Bunun olmasına öylece göz yumamayız, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0781",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0782",
+        "msgStr": "Neden aradıkları şey her neyse onu biz bulmaya çalışmıyoruz, <NAME2N 0>?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0783",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0784",
+        "msgStr": "Eğer onlardan önce ele geçirebilirsek, onları durdurabiliriz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0785",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0786",
+        "msgStr": "Şey, onu \"ruhsal güçle dolu bir kristal küre\" olarak tarif ettiler.<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0787",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0788",
+        "msgStr": "Sanırım erdemli bir rahip çok uzun zaman önce Başkent'i korumak için onu bir tapınağa yerleştirmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0789",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0790",
+        "msgStr": "Ama görünüşe göre artık kimse nerede olduğunu bilmiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0791",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0792",
+        "msgStr": "Yine de eminim biz onu bulabiliriz, değil mi, <NAME2N 0>?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0793",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0794",
+        "msgStr": "Yarın aramaya başlayalım!\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE03_TUIKA02_171",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "JMS_EVT2_L0795",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0796",
+        "msgStr": "Uyan bakalım, <NAME2N 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0797",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0798",
+        "msgStr": "Pekâlâ, hadi şu kristal küreyi aramaya başlayalım. Ben de seninle geliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0798_01",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0798_02",
+        "msgStr": "Ah, ama merak etme, sana ayak bağı olmamak için elimden geleni yapacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI06_SCENE03_TUIKA04_172",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0799",
+        "msgStr": "Kaya'ya ne oldu böyle? Öncekinden çok farklı görünüyor."
+      },
+      {
+        "msgID": "JMS_EVT2_L0800",
+        "msgStr": "Bu devasa şehirde minicik bir kristal küreyi bulmamızı mı bekliyor gerçekten?"
+      },
+      {
+        "msgID": "JMS_EVT2_L0801",
+        "msgStr": "Gerçi Munakata Başkent halkına zarar vermeyi planlıyorsa bunu görmezden gelemeyiz."
+      },
+      {
+        "msgID": "JMS_EVT2_L0802",
+        "msgStr": "Bakalım ne yapabileceğiz, Raidou."
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE01_01_173",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0803",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0804",
+        "msgStr": "Açıklamama izin ver, dedektif... Ya da belki İblis Çağırıcısı Raidou Kuzunoha dememi tercih edersin.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE01_02_174",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0805",
+        "msgStr": "Ne? Bu Sadakichi!"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE01_03_175",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0806",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0807",
+        "msgStr": "Şaşırdın mı? Seni suçlamıyorum. Bu arada, geçen gün için teşekkür ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0808",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0809",
+        "msgStr": "Aslına bakarsan Deniz Kuvvetleri için çalışıyorum. Sana daha önce söyleyemediğim için üzgünüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0810",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0811",
+        "msgStr": "Munakata'nın hareketlerini gözetlemek üzere çok gizli bir görevdeydim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0812",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0813",
+        "msgStr": "Ancak düşmanlarımız akıl almaz bir sınırı aştı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0814",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0815",
+        "msgStr": "Raidou, sen iblislerin ve lanetlerin doğasına oldukça hâkimsin, değil mi? Senden bir ricam var.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0816",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0817",
+        "msgStr": "Benimle gelir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0818",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0819",
+        "msgStr": "Bay Narumi için endişelenme. Sadece burnunu sokmaması gereken bir yere soktu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0820",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0821",
+        "msgStr": "İşbirliği yaptığın sürece bu meseleyi geride bırakabiliriz ve kendisi daha fazla zarar görmez.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE01_11_176",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0822",
+        "msgStr": "Görünüşe göre Narumi soruşturmasında açık vermiş. Burada pek bir seçeneğimiz olduğunu sanmıyorum, Raidou."
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE01_12_177",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0823",
+        "msgStr": "<lips 29 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0824",
+        "msgStr": "Bay Narumi'yi dinlenmeye bırakacağız. Lütfen beni takip et, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_01_178",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0825",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0826",
+        "msgStr": "Deniz Kuvvetleri'ndeki ahbapların her şeyi anlattı, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0827",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0828",
+        "msgStr": "Önce bir laneti kendi üzerine alıyorsun, sonra büyüyü yapanı alt ediyorsun ve şimdi de bir radyo kulesine mi sızıyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0829",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0830",
+        "msgStr": "Böyle kullanılmakla fena oyuna gelmişsin doğrusu.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0831",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0832",
+        "msgStr": "Gerçi bir adalet kahramanının bir işi geri çevirdiğini de daha önce hiç duymadım.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_04_179",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0833",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0834",
+        "msgStr": "Demek... Waden One, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0835",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0836",
+        "msgStr": "Şu Kırmızı Pelerin canavarlarından biri yakındayken radyo paraziti duyulduğuna dair bazı raporlar duymuştum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0836_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0836_02",
+        "msgStr": "Orasının bir şekilde Süper Asker Projesi ile bağlantılı olduğuna şüphe yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_05_180",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0837",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0838",
+        "msgStr": "Lafı açılmışken... Konnou-ya'dan siparişimi aldın mı, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0839",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0840",
+        "msgStr": "Bana verebilir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_06_181",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0841",
+        "msgStr": "> Raidou mühimmat kutusunu Narumi'ye verdi."
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_07_182",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0842",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0843",
+        "msgStr": "İşte bu, aradığım şey tam olarak buydu.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_08_183",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0844",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0845",
+        "msgStr": "Bu şeyleri kullanma fikri pek hoşuma gitmiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_09_184",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0846",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0847",
+        "msgStr": "Ama bazen bundan kaçış olmuyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_10_185",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0848",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0849",
+        "msgStr": "Deniz Kuvvetleri'nin bana çektiği muameleden sonra şimdi daha iyi hissediyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0850",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0851",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_11_186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0852",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI07_SCENE06_12_187",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0853",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0854",
+        "msgStr": "Biliyorsun, ben de kendimce bir adalet kahramanı olmaya çalışıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0855",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0856",
+        "msgStr": "Sen Waden One'a gidiyorsan, ben de o sırada kendi işimin icabına bakacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI08_SCENE01_01_188",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0857",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0858",
+        "msgStr": "Raidou... Gitmeden önce tek bir şey söylemek istiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0859",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0860",
+        "msgStr": "Doğru, Süper Asker Projesi'ne bir son vermeliyiz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0861",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0862",
+        "msgStr": "Ama yine de...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0863",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0864",
+        "msgStr": "Bu dünyada yalnızca belli sayıda hakikat vardır.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0864_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0864_02",
+        "msgStr": "Senden tek istediğim, o hakikatlerin hiçbirini göründüğü gibi kabul etmemen.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0865",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0866",
+        "msgStr": "Tanıdığım—daha doğrusu eskiden tanıdığım biri var. Ülkesi için savaşan iyi kalpli bir adamdı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0867",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0868",
+        "msgStr": "Munakata... Evet, onunla biraz geçmişimiz var.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0869",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0870",
+        "msgStr": "Bu dava hakkında, o kızda neyin değiştiği de dahil, hâlâ bilmediğimiz çok şey var.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI08_SCENE01_09_189",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0871",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0872",
+        "msgStr": "Yapman gereken ilk şey tüm gerçeği öğrenmek, Raidou. Kimin haklı kimin haksız olduğuna ondan sonra karar ver.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI08_SCENE01_08_190",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0873",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0874",
+        "msgStr": "Bir dedektifin yapacağı şey budur.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0875",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0876",
+        "msgStr": "Yollarımızı ayırma vakti geldi. Orada adımlarına dikkat et, anlaşıldı mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE02_01_191",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0877",
+        "msgStr": "Öf, Narumi burada değil. Tam da onunla konuşmamız gereken tek anda..."
+      },
+      {
+        "msgID": "JMS_EVT2_L0878",
+        "msgStr": "Hm? Raidou, masanın üzerinde bir şey var."
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE02_03_192",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0879",
+        "msgStr": "> Raidou masanın üzerinde bir mektup buldu."
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE02_04_193",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0880",
+        "msgStr": "\"Hey Raidou.\""
+      },
+      {
+        "msgID": "JMS_EVT2_L0881",
+        "msgStr": "\"Bunu okuyorsan, Waden One'daki görevinden dönmüşsün demektir. Başardığından eminim.\""
+      },
+      {
+        "msgID": "JMS_EVT2_L0882",
+        "msgStr": "\"Süper Asker Projesi ve Munakata'nın planına gelince...\""
+      },
+      {
+        "msgID": "JMS_EVT2_L0883",
+        "msgStr": "\"O işi bana bırak. Senin bulaşmana gerek yok, Raidou.\""
+      },
+      {
+        "msgID": "JMS_EVT2_L0884",
+        "msgStr": "\"Düşünmen gereken koca bir geleceğin var önünde. Bu dava senin sorunun değil.\""
+      },
+      {
+        "msgID": "JMS_EVT2_L0885",
+        "msgStr": "\"Sen sadece olduğun yerde kal ve beni bekle.\""
+      },
+      {
+        "msgID": "JMS_EVT2_L0886",
+        "msgStr": "\"Döndüğümde sana her şeyi anlatacağım.\""
+      },
+      {
+        "msgID": "JMS_EVT2_L0887",
+        "msgStr": "\"Narumi.\""
+      },
+      {
+        "msgID": "JMS_EVT2_L0888",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0889",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE02_14_194",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0890",
+        "msgStr": "Seni aptal... Narumi sadece sıradan bir insan. Tek başına ne yapabileceğini sanıyor ki?"
+      },
+      {
+        "msgID": "JMS_EVT2_L0891",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0892",
+        "msgStr": "Hadi, Raidou. Onu bulmalıyız."
+      },
+      {
+        "msgID": "JMS_EVT2_L0893",
+        "msgStr": "Munakata'nın iblislerine karşı hiç şansı yok. Onu paramparça ederler."
+      },
+      {
+        "msgID": "JMS_EVT2_L0894",
+        "msgStr": "Bekle. Eğer Munakata'nın peşinden gittiyse, Sadakichi bir şeyler biliyor olabilir."
+      },
+      {
+        "msgID": "JMS_EVT2_L0895",
+        "msgStr": "Harumi-cho'daki Deniz Kuvvetleri Karargâhı'nı deneyelim."
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE05_01_195",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "JMS_EVT2_L0896",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0897",
+        "msgStr": "Sağ salim dönmene herhalde bu kadar şaşırmamalıydım.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0898",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0899",
+        "msgStr": "Ama bir insan her gün boyutsal bir yarıktan geri dönmüyor, da?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0900",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0901",
+        "msgStr": "Rahatlayabilirsin; artık sana saldırmak için hiçbir nedenim yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0902",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0903",
+        "msgStr": "İlla bilmek istiyorsan söyleyeyim, çünkü buradaki işim bitti.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0904",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0905",
+        "msgStr": "Süper Asker Projesi başlayana kadar zaman kazanmak için tutulmuştum. Munakata'nın artık bana ihtiyacı kalmadı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0906",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0907",
+        "msgStr": "Kaya, o ölüler ordusu ve Ruhsuz Tanrı'sı elindeyken...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0908",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0909",
+        "msgStr": "Artık dünyada onu durdurabilecek hiçbir askeri güç yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0910",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0911",
+        "msgStr": "Geçen sefer uzaya çıkacak bir uydudan bahsettiğimi hatırlıyorsun, da?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0912",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0913",
+        "msgStr": "Munakata ile olan sözleşmem bitti. Paramı çoktan aldım. Artık sana anlatmamda bir sakınca yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0914",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0915",
+        "msgStr": "Hadi, bir göz at.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE05_11_196",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "JMS_EVT2_L0916",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0917",
+        "msgStr": "İşte bu Tai-itsu Uydusu. Uzayda asılı kalmak üzere inşa edilmiş insan yapımı bir makine.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0918",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0919",
+        "msgStr": "Elde etmemize yardım ettiğin EL 200'ü kullanarak sınırsız miktarda enerji sağlayabiliyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0920",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0921",
+        "msgStr": "Uydudan gelen enerji Waden One'a aktarılacak ve oradan da Ruhsuz Tanrı'ya gönderilecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0922",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0923",
+        "msgStr": "Bu da Ruhsuz Tanrı'nın süresiz olarak çalışmasını sağlayacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0924",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0925",
+        "msgStr": "Belki de bu çağdan biri için biraz fazla karmaşık oldu?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE05_16_197",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0926",
+        "msgStr": "Bu çağ mı...?"
+      },
+      {
+        "msgID": "JMS_EVT2_L0927",
+        "msgStr": "Raidou, burada bir tuhaflık var. Neden bütün bunları bize anlatıyor?"
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE05_18_198",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "JMS_EVT2_L0928",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0929",
+        "msgStr": "Tıpkı benim gibi oldukça konuşkan bir kedi... Eh, bana inanıp inanmamak senin seçimin.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0930",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0931",
+        "msgStr": "Ama Munakata kendi haline bırakılırsa Başkent yok edilecek. Seni bu konuda temin edebilirim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0932",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0933",
+        "msgStr": "Ve onu durdurabilecek tek kişi sen olabilirsin, Ondördüncü Raidou Kuzunoha.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0934",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0935",
+        "msgStr": "Gerçek şu ki ben çok daha uzak bir gelecekten geliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0936",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0937",
+        "msgStr": "Bir \"tarihsel anomaliyi\" düzeltme göreviyle geçmişe gönderilmiş bir androidim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0938",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0939",
+        "msgStr": "Gelecekte, güç sahiplerinin kendilerini korumak adına geçmişe ve diğer zaman çizgilerine müdahale etmesi sıradan bir durumdur.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0940",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0941",
+        "msgStr": "Başkaları için çalışmaktan nefret ettiğimi de belirtmeliyim. Kendi arzularıma sadık kalmaya gönülden inanan biriyim.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0942",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0943",
+        "msgStr": "Pek çok farklı zaman dilimine seyahat edip gönlümce yaşamak istiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0944",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0945",
+        "msgStr": "İşim için çaba harcamak umurumda değil, o tarihsel anomaliyi de zerre kadar umursamıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0946",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0947",
+        "msgStr": "Bu Taisho dönemi oldukça hoşuma gitti. Burada küçük bir tatil yapmayı düşünüyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0948",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0949",
+        "msgStr": "Bu yüzden sana yardım edeceğim, o kadar.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0950",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0951",
+        "msgStr": "Eğer Munakata'yı arıyorsan yeraltı tersanesini ziyaret etmeni öneririm.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0952",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0953",
+        "msgStr": "Bu iki küreyi kullanırsan içeri girebilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE05_29_TUIKA02_199",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L0954",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Chigaeshi Küresi<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "JMS_EVT2_L0955",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Shiomitsu Küresi<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE05_29_TUIKA03_200",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "JMS_EVT2_L0956",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0957",
+        "msgStr": "Onları nasıl kullanacağını kendi başına çözeceğinden eminim, dedektif.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0958",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0959",
+        "msgStr": "Onları doğru şekilde kullanmak senin için <COLOR 3>Kasumidai'nin kuzeyindeki gizli geçidi<COLOR 0> açacaktır.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI10_SCENE05_30_201",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "JMS_EVT2_L0960",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0961",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0962",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0963",
+        "msgStr": "Bu zaman çizgisindeki anomalinin kaynağı hem Munakata hem de Kaya'nın bedenini ele geçiren zaman yolcusudur.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0964",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0965",
+        "msgStr": "Raidou'ya karşı Munakata... Taisho'daki tatilim sırasında Başkent'in kaderini kimin belirleyeceğini izliyor olacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_01_202",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0966_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0966",
+        "msgStr": "Oh be, nihayet döndün. Ayağın pek çabukmuş, Raidou...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0967",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0968",
+        "msgStr": "Şimdi, şu Ruhsuz Tanrı meselesine gelirsek...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0969",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0970",
+        "msgStr": "Munakata—şey, yani Sukuna-Hikona Başkent'i yerle bir edeceğini söyledi.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0971",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0972",
+        "msgStr": "Yani bir şey yapmazsak o canavar şehri dümdüz edecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0973",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0974",
+        "msgStr": "Ama o şeye karşı ne yapabiliriz ki?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0975",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0976",
+        "msgStr": "Bunu enine boyuna düşünelim, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0976_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0976_02",
+        "msgStr": "Öncelikle şu ana kadar yaşananların üzerinden geçmeliyiz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0976_03",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0976_04",
+        "msgStr": "Aralarında Ruhsuz Tanrı'yı durdurmamıza yardım edecek gizli bir ipucu mutlaka vardır.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_07_203",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L0977",
+        "msgStr": "Hmm, Narumi'nin içinde bir ateş tutuşmuş, değil mi?"
+      },
+      {
+        "msgID": "JMS_EVT2_L0978",
+        "msgStr": "Hadi suyuna gidelim, Raidou."
+      },
+      {
+        "msgID": "JMS_EVT2_L0979",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0980",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L0981",
+        "msgStr": "Kaya Daidouji hakkında konuş"
+      },
+      {
+        "msgID": "JMS_EVT2_L0982",
+        "msgStr": "Kırmızı Pelerinler hakkında konuş"
+      },
+      {
+        "msgID": "JMS_EVT2_L0983",
+        "msgStr": "Sukuna-Hikona hakkında konuş"
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_11_204",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0984",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0985",
+        "msgStr": "Kırmızı Pelerinler, ha... Geriye dönüp bakınca, bu işin arkasındaki beyin her şeyi en başından beri planlamış olmalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0986",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0987",
+        "msgStr": "Kiyoshi Daidouji, Denpachi Iida...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0988",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989",
+        "msgStr": "İkisinin de yüksek Ruh Gücü vardı ama bunu yönlendirecek bir yerleri olmadığı için Kırmızı Pelerin'e dönüştüler.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_02",
+        "msgStr": "O zamandan beri pek çok Başkent sakini Kırmızı Pelerin'e dönüştü.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_03",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_04",
+        "msgStr": "Bunun sebebi Waden One'dan gönderilen o radyo sinyali.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_05",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_06",
+        "msgStr": "İnsanların korkusunu körüklüyor, içlerindeki Hiruko unsurlarını uyandırıp onları Kırmızı Pelerin'e dönüştürüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_07",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_08",
+        "msgStr": "Tüm bunların asıl amacı da Ruhsuz Tanrı'yı tamamlamak için bir Hiruko yığını toplamaktı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_09",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0989_10",
+        "msgStr": "Başka bir deyişle Ruhsuz Tanrı, insanların bastırılmış duygularının vücut bulmuş hali... Devasa bir hali.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_14_205",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L0990",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0991",
+        "msgStr": "Doğru ya... Bütün bu olay Kaya Daidouji'nin kaçırılmasıyla başlamıştı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0992",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0993",
+        "msgStr": "Sözde Daidouji laneti aslında ailenin kızlarının bedenini ele geçiren bir \"zaman yolcusunun\" eseriymiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0994",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0995",
+        "msgStr": "Bu zaman yolcusu gelecekten teknoloji bilgisi getirmiş, Sukuna-Hikona da bunu Ruhsuz Tanrı'yı yaratmak için kullanmış.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0996",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0997",
+        "msgStr": "Kalıbımı basarım ki bu kişi her kimse tüm bu davanın arkasındaki asıl beyin de odur.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0998",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0999",
+        "msgStr": "O zaman yolcusu dışarıda olduğu sürece bu mesele asla çözülmeyebilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0999_01",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L0999_02",
+        "msgStr": "Ve korkarım şu an takip edebileceğimiz hiçbir ipucumuz yok..."
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_19_206",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01000",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01001",
+        "msgStr": "Sukuna-Hikona... Munakata'nın kontrolünü ele geçiren iblis o.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01002",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01003",
+        "msgStr": "Yüksek rütbeli bir subayın aslında bir iblis olduğuna kimse inanmaz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01004",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01005",
+        "msgStr": "Bir tür ipucu, yaptığı bir şey olmalı...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01006",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01007",
+        "msgStr": "Sukuna-Hikona... Munakata... Ordu...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01008",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01009",
+        "msgStr": "...Tai-itsu Uydusu'nun fırlatılması mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01010",
+        "msgStr": "Kaya Daidouji hakkında konuş"
+      },
+      {
+        "msgID": "JMS_EVT2_L01011",
+        "msgStr": "Kırmızı Pelerin hakkında konuş"
+      },
+      {
+        "msgID": "JMS_EVT2_L01012",
+        "msgStr": "Sukuna-Hikona hakkında konuş"
+      },
+      {
+        "msgID": "JMS_EVT2_L01013",
+        "msgStr": "Tai-itsu Uydusu hakkında konuş"
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_24_207",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01014",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01015",
+        "msgStr": "Tai-itsu Uydusu, ha...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01016",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01017",
+        "msgStr": "Rasputin'in söylediklerine inanacak olursak kilit nokta bu olmalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01018",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01019",
+        "msgStr": "Onu Ruhsuz Tanrı'ya enerji sağlamak amacıyla fırlattılar.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01020",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01021",
+        "msgStr": "Eğer o uyduyu havaya uçurabilirsek canavarın gücünü de kesmiş oluruz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01022",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01023",
+        "msgStr": "Nasıl çalıştığına dair hiçbir fikrim yok ama... bir seçenek olabilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01024",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01025",
+        "msgStr": "Tek bir sorun var.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01026",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01027",
+        "msgStr": "O kadar yüksekteki bir şeyi nasıl yok edeceğiz?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01028",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01029",
+        "msgStr": "Parlak bir fikrin var mı, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01030",
+        "msgStr": "Yukarı uçup onu yok edeceğiz."
+      },
+      {
+        "msgID": "JMS_EVT2_L01031",
+        "msgStr": "Ruhsuz Tanrı'yı alt edeceğiz."
+      },
+      {
+        "msgID": "JMS_EVT2_L01032",
+        "msgStr": "Onu yok etmek imkânsız."
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_32_208",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01033",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01034",
+        "msgStr": "Yukarı uçmak, ha... Eh, akla gelen ilk cevap bu olurdu.<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01035",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01036",
+        "msgStr": "Ama sanırım bu bir uçak çalmak... ya da iblislerinden birini kullanmak anlamına gelir.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01037",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01038",
+        "msgStr": "...Ah!\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01039",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01040",
+        "msgStr": "Dur bir dakika, Raidou! Sen uçmaya falan meraklı bir adamla tanışmamış mıydın?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01041",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01042",
+        "msgStr": "Hani Senju-ku'daki şu sözde bilim laboratuvarımsı yerde. Bir roket yaptığını söylememiş miydi?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01043",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01044",
+        "msgStr": "Oraya gidip şu uyduyu yok etme konusunu ona sorabilir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01045",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01046",
+        "msgStr": "Ben de o sırada şehirde biraz bilgi toplayacağım. Merak etme, bir daha öyle delice işlere kalkışmam.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_39_209",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "JMS_EVT2_L01047",
+        "msgStr": "Bir roket, hm?"
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_40_210",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01048",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01049",
+        "msgStr": "Vay canına, etkileyici. Gerçekten de bu büronun gururusun.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01052",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01053",
+        "msgStr": "Ama doğrudan saldırıyı son çare olarak saklayalım. Şimdilik başka bir fikrin var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01056",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01057",
+        "msgStr": "Bir şey olmalı...\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI11_SCENE01_45_211",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01058",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01059",
+        "msgStr": "Senin de aklına bir şey gelmedi, ha, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01060",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01061",
+        "msgStr": "Eh, öylece kıçımızın üstünde oturup hiçbir şey yapmadan bekleyemeyiz.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01062",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01063",
+        "msgStr": "Güç kaynağını kesme konusunda doğru yolda olduğumuzu hissediyorum amaaa...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01064",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01065",
+        "msgStr": "Hadi ama, Raidou. Aklına hiçbir şey gelmediğine emin misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01066",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01067",
+        "msgStr": "Gözden kaçırdığımız bir şey olmalı. Aklına bir şey geliyor mu, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_01_212",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01068",
+        "msgStr": "<lips 2 5>\n...Pekâlâ, sindirmesi gereken çok şey var ama bakalım bir mantığa oturtabilecek miyim.\n\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01069",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01070",
+        "msgStr": "Tamam, şimdi... Raido, Rasputin ve Sukuna-Hikona'nın söylediklerine dayanarak...\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01071",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01072",
+        "msgStr": "Kızın bedenini ele geçiren zaman yolcusu, gelecekten gelen bir Raidou Kuzunoha.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01073",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01074",
+        "msgStr": "Bu Raidou'nun amacı geleceği değiştirmek için geçmişi değiştirmek ve bu yüzden de bu zaman çizgisi sapıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01075",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01076",
+        "msgStr": "Yani bu davanın özü şu: Gelecekteki bir Raidou tarihi yeniden yazmak istiyor... Artık duymadığım şey kalmadı.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01076_01",
+        "msgStr": "<lips 2 5>\nVe bu diğer Raidou seni yüzleşmeye davet etti, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01077",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01078",
+        "msgStr": "Bir Ruhsuz Tanrı daha olduğuna inanamıyorum. Zavallı Gouto huzur içinde uyuyamayacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_07_213",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01079",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01080",
+        "msgStr": "...Ha? Seni rahatsız eden ne?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_08_214",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "JMS_EVT2_L01081",
+        "msgStr": "...dou. Raidou, sesimi duyabiliyor musun? Benim, Gouto."
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_09_215",
+        "msgStr": "Gouto'nun Sesi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01082",
+        "msgStr": "Kahrolası Narumi, beni hemen gözden çıkarmış. Ölmedim ben; sadece geçici bedenimi kaybettim!"
+      },
+      {
+        "msgID": "JMS_EVT2_L01083",
+        "msgStr": "Bununla birlikte, şu anda dünyadan uzakta olduğum düşünülürse bir süreliğine sana katılamayacağım gibi görünüyor."
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_09_215_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L01084",
+        "msgStr": "> Gouto'nun dedektif günlüğü kendiliğinden güncellendi!"
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_09_215_02",
+        "msgStr": "Gouto'nun Sesi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01085",
+        "msgStr": "Eh, şimdilik sadece bir sesten ibaret kalsam da hâlâ senin ortağınım."
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_13_216",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01086",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01087",
+        "msgStr": "Alooo, Raidou. Bir anlığına dalıp gittin galiba?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01088",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01089",
+        "msgStr": "Gerçi anlıyorum. Son savaşa neredeyse geldiğimiz için, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01090",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "JMS_EVT2_L01091",
+        "msgStr": "Hayır."
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_15_217",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01092",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01093",
+        "msgStr": "Bu sefer kızı kurtardığından emin ol.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01094",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01095",
+        "msgStr": "Benim gibi sıradan bir sivilin pek bir şey yapamayacağı noktadayız.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01096",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01097",
+        "msgStr": "Üzgünüm ama yapabileceğim tek şey sana güvenmek.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01097_01",
+        "msgStr": "<lips 2 5>\nYolun açık olsun, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI12_SCENE03_18_218",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01098",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "JMS_EVT2_L01099",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01100",
+        "msgStr": "Eh, hâlâ şaka yapabildiğine göre muhtemelen iyisindir.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01101",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01102",
+        "msgStr": "Bu sefer kızı kurtardığından emin ol. Yolun açık olsun, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_TGS_EVE02_01_219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_TGS_EVE02_06_220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMS_EVT2_L01116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jms_evt2_MAH_EVE_01_221",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "JMS_EVT2_L01117",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01118",
+        "msgStr": "Vay vay! Görüyorum ki elinde güzel bir şey var, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01119",
+        "msgStr": "<lips 2 5>"
+      },
+      {
+        "msgID": "JMS_EVT2_L01120",
+        "msgStr": "Kafayı dağıtmak için bir iki el oynamaya ne dersin?\n<lips_stop>"
+      },
+      {
+        "msgID": "jms_evt2_EPI01_SCENE01_ADD_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMS_EVT2_L01121",
+        "msgStr": "> Ve böylece Raidou Kuzunoha, Başkent'teki yeni görevlerine başladı."
+      },
+      {
+        "msgID": "JMS_EVT2_L01122",
+        "msgStr": "> Okul dersleri ve dedektif çıraklığı arasında iblislere karşı savaştı..."
+      },
+      {
+        "msgID": "JMS_EVT2_L01123",
+        "msgStr": "> Ve halka yardım etmek için elinden gelen her şeyi yaptı."
+      },
+      {
+        "msgID": "JMS_EVT2_L01124",
+        "msgStr": "> Başkent'te geçirdiği yoğun günler işte böyleydi."
+      },
+      {
+        "msgID": "JMS_EVT2_L01125",
+        "msgStr": "> Ve şimdi..."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:08:42"
+}

@@ -1,0 +1,433 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP05_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map05_e_dammy_05_01_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map05_m_m_mes_dummy_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP05_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP05_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP05_M_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP05_M_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP05_M_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map05_m_m_mes_sel sel 0_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0005",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP05_M_L0006",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map05_m_m_Common_Item_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0007",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map05_m_m_Common_ItemSelect SEL_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0008",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP05_M_L0009",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map05_m_m_Common_GetItem_Raidou_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0010",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "map05_m_m_Common_GetItem_Devil_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0011",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map05_m_m_Common_GetMAKA_Raidou_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0012",
+        "msgStr": ">  <COLOR 4><V 0> yen<COLOR 0> elde edildi."
+      },
+      {
+        "msgID": "map05_m_m_Common_GetMAKA_Devil_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0013",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0> yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA01_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0014",
+        "msgStr": "> Eski bir tapınak..."
+      },
+      {
+        "msgID": "MAP05_M_L0015",
+        "msgStr": "> Adak bırakılsın mı?"
+      },
+      {
+        "msgID": "map05_m_m_TERA01_02_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0016",
+        "msgStr": "> Ne kadar?"
+      },
+      {
+        "msgID": "map05_m_m_TERA_SEL SEL 0_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0017",
+        "msgStr": "1 yen"
+      },
+      {
+        "msgID": "MAP05_M_L0018",
+        "msgStr": "5 yen"
+      },
+      {
+        "msgID": "MAP05_M_L0019",
+        "msgStr": "10 yen"
+      },
+      {
+        "msgID": "MAP05_M_L0020",
+        "msgStr": "Boş ver"
+      },
+      {
+        "msgID": "map05_m_m_TERA_NOMONEY_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0021",
+        "msgStr": "> Raidou'nun yeterli parası yoktu."
+      },
+      {
+        "msgID": "map05_m_m_TERA02_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0022",
+        "msgStr": "> Raidou, Başkent'in huzuru için dua etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA03_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0023",
+        "msgStr": "> Raidou, Kaya'nın güvenliği için dua etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA04_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0024",
+        "msgStr": "> Raidou, Narumi'nin daha fazla borca batmaması için dua etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA05_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0025",
+        "msgStr": "> Raidou hayali için dua etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA06_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0026",
+        "msgStr": "> Raidou büyük bir İblis Çağırıcısı olmaya ant içti."
+      },
+      {
+        "msgID": "map05_m_m_TERA07_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0027",
+        "msgStr": "> Raidou halkın huzuru için dua etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA08_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0028",
+        "msgStr": "> Raidou şapkasının başında sağlam durması için dua etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA09_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0029",
+        "msgStr": "> Raidou daha iyi bir insan olmak için dua etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA10_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0030",
+        "msgStr": "> Raidou halkın mutluluğu için dua etti."
+      },
+      {
+        "msgID": "map05_m_m_TERA_NO_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0031",
+        "msgStr": "> Raidou adak bırakmamaya karar verdi."
+      },
+      {
+        "msgID": "map05_m_M_INARI_HAJIKI_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0032",
+        "msgStr": "> Burada birkaç kutsal taş özenle dizilmiş."
+      },
+      {
+        "msgID": "map05_m_M_INARI_HAJIKI_dev_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0033",
+        "msgStr": "> Burada birkaç kutsal taş özenle dizilmiş."
+      },
+      {
+        "msgID": "MAP05_M_L0034",
+        "msgStr": "> <devil 0>, taşlardan yayılan ruhani enerjiyi hissetti."
+      },
+      {
+        "msgID": "map05_m_m_JIZOU01_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0035",
+        "msgStr": "> Sevimli bir jizo heykeli."
+      },
+      {
+        "msgID": "MAP05_M_L0036",
+        "msgStr": "> İnsanlar adak olarak çiçek ve dango bırakmış."
+      },
+      {
+        "msgID": "map05_m_m_JIZOU01_dev_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0037",
+        "msgStr": "> Sevimli bir jizo heykeli."
+      },
+      {
+        "msgID": "MAP05_M_L0038",
+        "msgStr": "> <devil 0>, adak olarak bırakılan dangoyu kokluyor."
+      },
+      {
+        "msgID": "map05_m_M_OOINARI_HAJIKI_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0039",
+        "msgStr": "> Eski bir tapınak..."
+      },
+      {
+        "msgID": "MAP05_M_L0040",
+        "msgStr": "> Adak bırakılsın mı?"
+      },
+      {
+        "msgID": "map05_m_M_OOINARI_HAJIKI_SEL SEL 0_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0041",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP05_M_L0042",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map05_m_M_OOINARI_HAJIKI_YES_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0043",
+        "msgStr": "> Raidou kutsanmış hissetti."
+      },
+      {
+        "msgID": "map05_m_M_OOINARI_HAJIKI_NO_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0044",
+        "msgStr": "> Raidou oradan ayrıldı."
+      },
+      {
+        "msgID": "map05_m_M_INARI_SUMI_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0045",
+        "msgStr": "> Kutsal taşlar buraya özenle dizilmiş."
+      },
+      {
+        "msgID": "map05_m_M_INARI_SUMI_dev_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0046",
+        "msgStr": "> Kutsal taşlar buraya özenle dizilmiş."
+      },
+      {
+        "msgID": "MAP05_M_L0047",
+        "msgStr": "> <devil 0>, taşlardan yayılan ruhani enerjiyi hissetti."
+      },
+      {
+        "msgID": "map05_m_M_OOINARI_SUMI_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map05_m_INARI_TEST_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map05_m_INARI_TEST_SEL SEL 0_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP05_M_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map05_m_INARI_TEST_YES_035",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map05_m_INARI_TEST_NO_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map05_m_M_EXITWARP_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0054",
+        "msgStr": "> Bölgeden çıkılsın mı?"
+      },
+      {
+        "msgID": "MAP05_M_L0055",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP05_M_L0056",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "MAP05_M_L0057",
+        "msgStr": "> Raidou oradan ayrıldı."
+      },
+      {
+        "msgID": "MAP05_M_L0058",
+        "msgStr": "> Raidou kalmaya karar verdi."
+      },
+      {
+        "msgID": "map05_m_m_Saisen01_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0059",
+        "msgStr": "> Eski bir bağış kutusu."
+      },
+      {
+        "msgID": "MAP05_M_L0060",
+        "msgStr": "> İçinde biraz bağış var."
+      },
+      {
+        "msgID": "map05_m_m_Saisen01_dev_039",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP05_M_L0061",
+        "msgStr": "> Eski bir bağış kutusu."
+      },
+      {
+        "msgID": "MAP05_M_L0062",
+        "msgStr": "> <devil 0>, kutunun beslenmek istercesine ağzını açmış gibi göründüğünü düşündü."
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/04 17:01:28"
+}

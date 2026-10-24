@@ -1,0 +1,37 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MJN_MENTSU_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MJN_MENTSU_0000",
+        "msgStr": "Mahjong"
+      },
+      {
+        "msgID": "MJN_MENTSU_0001",
+        "msgStr": "Oyuncular"
+      },
+      {
+        "msgID": "MJN_MENTSU_0002",
+        "msgStr": "Kolay"
+      },
+      {
+        "msgID": "MJN_MENTSU_0003",
+        "msgStr": "Normal"
+      },
+      {
+        "msgID": "MJN_MENTSU_0004",
+        "msgStr": "Zor"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:03:09"
+}

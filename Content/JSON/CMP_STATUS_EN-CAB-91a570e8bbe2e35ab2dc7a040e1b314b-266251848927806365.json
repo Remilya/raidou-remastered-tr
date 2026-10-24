@@ -1,0 +1,197 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_STATUS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CMP_STATUS_L0000",
+        "msgStr": "TP"
+      },
+      {
+        "msgID": "CMP_STATUS_L0001",
+        "msgStr": "Toplam Sadakat"
+      },
+      {
+        "msgID": "CMP_STATUS_L0002",
+        "msgStr": "SV"
+      },
+      {
+        "msgID": "CMP_STATUS_L0003",
+        "msgStr": "CP"
+      },
+      {
+        "msgID": "CMP_STATUS_L0004",
+        "msgStr": "MAG"
+      },
+      {
+        "msgID": "CMP_STATUS_L0005",
+        "msgStr": "Gü"
+      },
+      {
+        "msgID": "CMP_STATUS_L0006",
+        "msgStr": "Bü"
+      },
+      {
+        "msgID": "CMP_STATUS_L0007",
+        "msgStr": "Da"
+      },
+      {
+        "msgID": "CMP_STATUS_L0008",
+        "msgStr": "Şa"
+      },
+      {
+        "msgID": "CMP_STATUS_L0009",
+        "msgStr": "Savaş Yetenekleri"
+      },
+      {
+        "msgID": "CMP_STATUS_L0010",
+        "msgStr": "Pasif Yetenekler"
+      },
+      {
+        "msgID": "CMP_STATUS_L0011",
+        "msgStr": "Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "CMP_STATUS_L0012",
+        "msgStr": "Para"
+      },
+      {
+        "msgID": "CMP_STATUS_L0013",
+        "msgStr": "Raidou Kuzunoha"
+      },
+      {
+        "msgID": "CMP_STATUS_L0014",
+        "msgStr": "XIV"
+      },
+      {
+        "msgID": "CMP_STATUS_L0015",
+        "msgStr": "SONRAKİ"
+      },
+      {
+        "msgID": "CMP_STATUS_L0016",
+        "msgStr": "Bitir"
+      },
+      {
+        "msgID": "CMP_STATUS_L0017",
+        "msgStr": "Sadakat"
+      },
+      {
+        "msgID": "CMP_STATUS_L0018",
+        "msgStr": "---"
+      },
+      {
+        "msgID": "CMP_STATUS_L0019",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "CMP_STATUS_L0020",
+        "msgStr": "Kılıç Yetenekleri"
+      },
+      {
+        "msgID": "CMP_STATUS_L0021",
+        "msgStr": "Kılıç"
+      },
+      {
+        "msgID": "CMP_STATUS_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_STATUS_L0023",
+        "msgStr": "Sld"
+      },
+      {
+        "msgID": "CMP_STATUS_L0024",
+        "msgStr": "+"
+      },
+      {
+        "msgID": "CMP_STATUS_L0025",
+        "msgStr": "-"
+      },
+      {
+        "msgID": "CMP_STATUS_L0026",
+        "msgStr": "Komut"
+      },
+      {
+        "msgID": "CMP_STATUS_L0027",
+        "msgStr": "Çağır"
+      },
+      {
+        "msgID": "CMP_STATUS_L0028",
+        "msgStr": "Geri dön"
+      },
+      {
+        "msgID": "CMP_STATUS_L0029",
+        "msgStr": "Eşya"
+      },
+      {
+        "msgID": "CMP_STATUS_L0030",
+        "msgStr": "Analiz Et"
+      },
+      {
+        "msgID": "CMP_STATUS_L0031",
+        "msgStr": "Kaç"
+      },
+      {
+        "msgID": "CMP_STATUS_L0032",
+        "msgStr": ":"
+      },
+      {
+        "msgID": "CMP_STATUS_L0033",
+        "msgStr": "Zyf"
+      },
+      {
+        "msgID": "CMP_STATUS_L0034",
+        "msgStr": "Em"
+      },
+      {
+        "msgID": "CMP_STATUS_L0035",
+        "msgStr": "Yk"
+      },
+      {
+        "msgID": "CMP_STATUS_L0036",
+        "msgStr": "Yns"
+      },
+      {
+        "msgID": "CMP_STATUS_L0037",
+        "msgStr": "Drn"
+      },
+      {
+        "msgID": "CMP_STATUS_L0038",
+        "msgStr": "Öğrenilen Yetenek"
+      },
+      {
+        "msgID": "CMP_STATUS_L0039",
+        "msgStr": "Aday"
+      },
+      {
+        "msgID": "CMP_STATUS_L0040",
+        "msgStr": "Puan:"
+      },
+      {
+        "msgID": "CMP_STATUS_L0041",
+        "msgStr": "kaldı"
+      },
+      {
+        "msgID": "CMP_STATUS_L0042",
+        "msgStr": "Sonraki Yetenekler"
+      },
+      {
+        "msgID": "CMP_STATUS_L0043",
+        "msgStr": "Bekleme Süresi:"
+      },
+      {
+        "msgID": "CMP_STATUS_L0044",
+        "msgStr": "saniye"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:36:56"
+}

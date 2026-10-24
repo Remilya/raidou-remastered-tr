@@ -1,0 +1,1041 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP10_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map10_e_EPI05_SCENE12_01_000",
+        "msgStr": "Askerî Üniformalı Adam"
+      },
+      {
+        "msgID": "MAP10_E_L0000",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0001",
+        "msgStr": "Seni bekliyordum, Ondördüncü Raidou Kuzunoha.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0002",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0003",
+        "msgStr": "Ben Süper Asker Projesi'nin tasarımcısı Munakata'yım.\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI05_SCENE12_03_001",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "MAP10_E_L0004",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0005",
+        "msgStr": "Seni Rasputin'in raporunda okudum—planıma nasıl burnunu soktuğunu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0006",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0007",
+        "msgStr": "Vizyonumu anlayamayanlar ortadan kaldırılmalıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0008",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0009",
+        "msgStr": "Fakat sen... Senin hâlâ bir geleceğin var. İşbirliği yapmandan memnuniyet duyarım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0010",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0011",
+        "msgStr": "Bu yüzden bakış açımı açıklamama izin ver.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_E_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_E_L0014",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0015",
+        "msgStr": "Bu ülkenin içinde bulunduğu durumu bir düşün.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0016",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0017",
+        "msgStr": "Seçkin bir azınlık sefa sürerken kitleler yoksulluk içinde yaşama mücadelesi veriyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0018",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0019",
+        "msgStr": "Güçsüzleri ezen ve zenginlere hizmet eden politikalar üretiyoruz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0020",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0021",
+        "msgStr": "Bunu tuhaf bulmuyor musun?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0022",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0023",
+        "msgStr": "Bir ulus talihsizleri desteklemelidir, oysa biz tam tersini yapıyoruz!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0024",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0025",
+        "msgStr": "Bunun sorumlusu Amatsu'nun o kibirli tanrıları ve onların rejimidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0026",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0027",
+        "msgStr": "Böyle devam ederse ülkenin tamamen kendi kendini yok etmesi pek uzak olmayacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0028",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0029",
+        "msgStr": "Hepimizi geçmişin hatalı ideolojilerinden kurtarmak istiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0030",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0031",
+        "msgStr": "Bu amaç doğrultusunda tek geçerli seçenek Süper Asker Projesi'dir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0032",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0033",
+        "msgStr": "Ve projenin başarılı olması için belirli bir kişiye ihtiyacım var... Kaya Daidouji'ye.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0034",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0035",
+        "msgStr": "Yatagarasu ile bağlarını kopar, Kuzunoha.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0036",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0037",
+        "msgStr": "Bu ülkeyi yeniden şekillendirme çabalarımda bana katılmaz mısın?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0038",
+        "msgStr": "Tamam, katılacağım."
+      },
+      {
+        "msgID": "MAP10_E_L0039",
+        "msgStr": "Asla."
+      },
+      {
+        "msgID": "map10_e_EPI05_SCENE12_19_002",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "MAP10_E_L0040",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0041",
+        "msgStr": "Böyle yalanlara kanmam.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0042",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0043",
+        "msgStr": "Bana katılmayacaksan başka seçeneğim yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0044",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0045",
+        "msgStr": "Öyle olsun..."
+      },
+      {
+        "msgID": "map10_e_HELP_PASSWORD_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_E_L0046",
+        "msgStr": "<COLOR 4>Sayıları değiştirmek için <BTN_ALU>/<BTN_ALD> veya <BTN_DU>/<BTN_DD>, konumu değiştirmek için <BTN_ALL>/<BTN_ALR> veya <BTN_DL>/<BTN_DR> ve onaylamak için <BTN_A> düğmesini kullanın.<COLOR 0>"
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_01_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_E_L0047",
+        "msgStr": "> Bir telefon kulübesi sessizce nöbet tutuyor."
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_02_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_E_L0048",
+        "msgStr": "Burası Sadakichi'nin bahsettiği yeraltı tersanesinin girişi olmalı."
+      },
+      {
+        "msgID": "MAP10_E_L0049",
+        "msgStr": "Raidou, şifreyi girmeyi dene."
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_03_006",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_E_L0050",
+        "msgStr": "Burası şüpheli ama burada bir işimiz yok."
+      },
+      {
+        "msgID": "MAP10_E_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_04_007",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_E_L0052",
+        "msgStr": "Hadi gidelim, Raidou. Kaya Daidouji'yi kurtarma vakti geldi!"
+      },
+      {
+        "msgID": "MAP10_E_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_05_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_E_L0054",
+        "msgStr": "> Artık burada durmanın bir anlamı yok."
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_OK_01_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_E_L0055",
+        "msgStr": "> Telefon kulübesi etkinleştirildi."
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_OK_02_010",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_E_L0056",
+        "msgStr": "Hadi gidelim, Raidou. Kaya Daidouji'yi kurtarma vakti geldi!"
+      },
+      {
+        "msgID": "MAP10_E_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_NG_01_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_E_L0058",
+        "msgStr": "> Hiçbir şey olmadı."
+      },
+      {
+        "msgID": "map10_e_ABOUT_AUTO_TEL_NG_02_012",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_E_L0059",
+        "msgStr": "Yanlış numara, Raidou."
+      },
+      {
+        "msgID": "MAP10_E_L0060",
+        "msgStr": "Şifreyi unuttuysan kolaylık olsun diye dedektif günlüğünde \"Hedef\" başlığı altına not ettim."
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE07_01_013",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0061",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0062",
+        "msgStr": "Kim var orada!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0063",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0064",
+        "msgStr": "Ha, Raidou! İyi olduğunu görmek güzel!\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE07_03_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_E_L0065",
+        "msgStr": "> Raidou olan biten her şeyi anlattı."
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE07_04_015",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0066",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0067",
+        "msgStr": "Vay be, tek parça halinde dönmene şaşırdım. Ama neden buradasın?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0068",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0069",
+        "msgStr": "Büroda beklemeni söyleyen bir not bırakmıştım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0070",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0071",
+        "msgStr": "Bu işi ben halledeceğim. Sen geri dön.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0072",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0073",
+        "msgStr": "Süper Asker Projesi'ni durduracak kişi ben olmalıyım. Ve Munakata'yı da.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0074",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0075",
+        "msgStr": "Şu an kulağa biraz kaçık gibi mi geliyorum?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0076",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP10_E_L0077",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0078",
+        "msgStr": "Eskiden Ordu'da casusluk yapıyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0079",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0080",
+        "msgStr": "Ordunun iç hizip savaşlarına karışmıştım ve Munakata'yı \"ifşa\" etmiştim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0081",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0082",
+        "msgStr": "Tüm projesini ülkenin çıkarlarını düşünerek tasarlamıştı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0083",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0084",
+        "msgStr": "Tasarımlar henüz erken aşamadaydı ama aldığım emirler vardı ve onları komutanıma teslim ettim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0085",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0086",
+        "msgStr": "O planları Munakata'ya karşı kullandılar ve onu fonları zimmetine geçirmekle suçladılar. Sonunda mevkiini kaybetti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0087",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0088",
+        "msgStr": "Ondan sonra işler daha da çirkinleşti. Dayanamayıp ayrıldım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0089",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0090",
+        "msgStr": "Eski komutanım aniden öldükten sonra Munakata'nın tekrar yükseldiğini duydum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0091",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0092",
+        "msgStr": "Ama Munakata o zamandan beri farklı görünüyordu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0093",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0094",
+        "msgStr": "Ve benim yüzümden değiştiğini düşünmeden edemiyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0095",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0096",
+        "msgStr": "Eski Munakata ülkeye ya da vatandaşlarına zarar vermeyi aklının ucundan bile geçirmezdi...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0097",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0098",
+        "msgStr": "Her neyse, bu işi bana bırak, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0099",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0100",
+        "msgStr": "Biz yaşlıların geçmişi telafi etmesi gerekiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0101",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0102",
+        "msgStr": "<IT_S>Gelecek<IT_E> ise siz gençlerin elinde. Yani ikimizin de kendine göre işi var.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0103",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0104",
+        "msgStr": "Ne demek istediğimi anlıyorsun, değil mi Raidou?<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0105",
+        "msgStr": "Evet, gitmene izin vereceğim."
+      },
+      {
+        "msgID": "MAP10_E_L0106",
+        "msgStr": "Yine de yardım etmek istiyorum."
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE07_24_016",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_E_L0107",
+        "msgStr": "Hayır, Raidou!"
+      },
+      {
+        "msgID": "MAP10_E_L0108",
+        "msgStr": "Narumi tek başına giderse hiçbir iblise karşı şansı olmaz."
+      },
+      {
+        "msgID": "MAP10_E_L0109",
+        "msgStr": "Ona eşlik etmen konusunda ısrar etmeliyim."
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE07_27_017",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0110",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0111",
+        "msgStr": "Hey Gouto, sen ne diye burnunu sokuyorsun? Raidou, bana katılıyorsun, değil mi?<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE07_28_018",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0112",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0113",
+        "msgStr": "Evet, böyle söyleyeceğini tahmin etmiştim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0114",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0115",
+        "msgStr": "Sanırım bu bir bakıma senin görevin, ne de olsa. Değil mi, Ondördüncü Raidou Kuzunoha? \n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0116",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0117",
+        "msgStr": "Pekâlâ, pekâlâ, sen kazandın. O zaman gidip Munakata'yı birlikte durduralım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0117_01",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0117_02",
+        "msgStr": "Görünüşe göre senin yardımına gerçekten ihtiyacım var, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_01_019",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0118",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0119",
+        "msgStr": "Munakata... Sana özür dilediğimi söylemeliyim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0120",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0121",
+        "msgStr": "Ama şunu da bilmem gerekiyor... Sen asla sivillere zarar vermeyi düşünecek biri değildin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0122",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0123",
+        "msgStr": "Öyleyse neden!? Bunu neden yapıyorsun!?\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_04_020",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "MAP10_E_L0124",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0125",
+        "msgStr": "Bu, uzun zaman önce sözü verilmiş bir intikam. Amatsu'nun köleleri ölmeli.\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_05_021",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0126",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0127",
+        "msgStr": "Ne...?\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_06_022",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "MAP10_E_L0128",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0129",
+        "msgStr": "Başkent halkının benim için hiçbir önemi yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0130",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0131",
+        "msgStr": "Bu bizim arzumuz... Bizim vizyonumuz...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0132",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0133",
+        "msgStr": "Kan ve utanca bulanmış, düşmüş kardeşlerimizin sesini duyabiliyorum...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0134",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0135",
+        "msgStr": "Siz aptal insanların tamamının kökünün kazınması için haykırıyorlar!\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_10_023",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0136",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0137",
+        "msgStr": "Buradaki tek \"aptal insan\" sensin, Munakata.\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_11_024",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "MAP10_E_L0138",
+        "msgStr": "<lips 5 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0139",
+        "msgStr": "Demek bir \"insanım\", öyle mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_12_025",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "MAP10_E_L0140",
+        "msgStr": "<lips 30 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0141",
+        "msgStr": "Ruhsuz Tanrı, Başkent'teki milyonları yok edecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0142",
+        "msgStr": "<lips 30 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0143",
+        "msgStr": "Hepsi ıstırap içinde günahlarını düşünerek helak olacak!\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_14_026",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0144",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0145",
+        "msgStr": "Binlerce yıl öncesinden kalma bir kinin bugünün dünyasıyla hiçbir ilgisi yok!\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_15_027",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "MAP10_E_L0146",
+        "msgStr": "<lips 30 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0147",
+        "msgStr": "Sırf o iblislerin soyundan gelmek bile başlı başına bir günahtır!\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_16_028",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0148",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0149",
+        "msgStr": "Sen delirmişsin...\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE08_17_029",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "MAP10_E_L0150",
+        "msgStr": "<lips 30 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0151",
+        "msgStr": "Siz insanlar çağlar süren ezilmişliğimizi anlamayı umamazsınız bile!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0152",
+        "msgStr": "<lips 30 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0153",
+        "msgStr": "Şimdi... değerli Başkent'iniz yerle bir olurken geberin!\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE09_01_030",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0154",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0155",
+        "msgStr": "Demek Munakata bir iblis tarafından ele geçirilmişti?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0156",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0157",
+        "msgStr": "Bu nasıl oldu? Gerçekten istediği şey bu muydu?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0158",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0159",
+        "msgStr": "Ya da belki o iblis sadece ondan faydalandı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0160",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0161",
+        "msgStr": "Her iki durumda da... Ne büyük bir trajedi...\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE09_05_031",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0162",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0163",
+        "msgStr": "Casusluk yaptığım dönemde pek çok gizli bilgiyle temasım oldu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0164",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0165",
+        "msgStr": "Meğer dünya birbirleriyle kıyasıya kapışan uluslarüstü gruplarla doluymuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0166",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0167",
+        "msgStr": "Gücü elinde bulunduranlar, yetkilerini tarihi kendi çıkarlarına göre yeniden yazmak için kullanıyorlar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0168",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0169",
+        "msgStr": "Ve bizler de onların oyununda sadece birer piyonuz...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0170",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0171",
+        "msgStr": "Böyle bir dünyada tek bir insanın adaleti okyanusta bir damla bile değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0172",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0173",
+        "msgStr": "Orduda çalışmak anlamsız gelmeye başladı. Ordunun kendisi de öyle.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_E_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_E_L0176",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0177",
+        "msgStr": "Açıkçası, sonumun tıpkı Munakata gibi olması işten bile değildi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0178",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0179",
+        "msgStr": "Ama... öyle olmadı. Ve bu senin sayende, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_01",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_02",
+        "msgStr": "Seninle tanışmak bir şeyi fark etmemi sağladı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_03",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_04",
+        "msgStr": "Eskiden bu acımasız gerçekliğin dünyadaki tek hakikat olduğunu düşünürdüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_05",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_06",
+        "msgStr": "Ama senin ne olursa olsun yılmadan ilerlediğini görmek... Dışarıda senin gibi insanların olduğunu bilmek bile gözlerimi açtı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_07",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_08",
+        "msgStr": "Tek bir hakikatten fazlası var. Herkesin <IT_S>kendi<IT_E> hakikati var.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_09",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0179_10",
+        "msgStr": "Zaten en başında dedektif olmamın sebebi de buydu—insanların <IT_S>kendi hakikatlerini<IT_E> bulmalarına yardım etmek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0180",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE09_15_032",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0181",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0182",
+        "msgStr": "Dışarıdaki o canavar mı dersin? Hadi, gidip bir bakalım!\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_NARUMI_01_033",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0183",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0184",
+        "msgStr": "Dürüst olmak gerekirse, burada olduğuna bayağı sevindim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0185",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0186",
+        "msgStr": "Bu silahla muhtemelen o zombilerle bile zar zor başa çıkabilirdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_NARUMI_03_034",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0187",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0188",
+        "msgStr": "İster kin uğruna olsun, ister \"düzen\" uğruna ya da her neyse...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0189",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0190",
+        "msgStr": "Ordu canının istediğini öylece yapamaz!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0191",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0192",
+        "msgStr": "Munakata... Yakında huzur içinde uyuyabileceksin.\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_MUNAKATA_01_035",
+        "msgStr": "Munakata'nın Kabuğu"
+      },
+      {
+        "msgID": "MAP10_E_L0193",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0194",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map10_e_EPI10_MUNAKATA_02_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_E_L0195",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0196",
+        "msgStr": "> Munakata öldü..."
+      },
+      {
+        "msgID": "map10_e_EPI10_MUNAKATA_03_037",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP10_E_L0197",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0198",
+        "msgStr": "Hem Munakata hem de Sukuna-Hikona sonuna kadar inançlarına tutundular.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0199",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0200",
+        "msgStr": "Ama sonuçlarını hiçe sayarak öfkeyle hareket etmek, bir çocuğun öfke nöbeti geçirmesine benzer.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP10_E_L0201",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP10_E_L0202",
+        "msgStr": "Sebepleri ne olursa olsun, gerçek bir canavarı serbest bıraktılar.\n<lips_stop>"
+      },
+      {
+        "msgID": "map10_e_EPI10_SCENE10_01_038",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_E_L0203",
+        "msgStr": "Bekle, Raidou. O canavar okyanusun kenarında olmalı."
+      },
+      {
+        "msgID": "MAP10_E_L0204",
+        "msgStr": "Diğer taraftaki merdivenleri kullanıp Harumi-cho'ya gidelim."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:38"
+}

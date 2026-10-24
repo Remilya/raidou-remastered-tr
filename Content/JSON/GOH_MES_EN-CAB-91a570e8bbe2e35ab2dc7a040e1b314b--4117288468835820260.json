@@ -1,0 +1,237 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_MES_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "goh_mes_msg_question_000",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_MES_L0000",
+        "msgStr": "Senin için ne yapabilirim, Kuzunoha?"
+      },
+      {
+        "msgID": "GOH_MES_L0001",
+        "msgStr": "Onları füzyonlamak istediğinden emin misin?"
+      },
+      {
+        "msgID": "GOH_MES_L0002",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "GOH_MES_L0003",
+        "msgStr": "Hayır."
+      },
+      {
+        "msgID": "GOH_MES_L0004",
+        "msgStr": "Bunun için daha fazla iblise ihtiyacın olacak."
+      },
+      {
+        "msgID": "GOH_MES_L0005",
+        "msgStr": "Korkarım o iblis için henüz hazır değilsin."
+      },
+      {
+        "msgID": "GOH_MES_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_MES_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_MES_L0008",
+        "msgStr": "Oho, beklenmedik bir iblisin ortaya çıktığını görüyorum!"
+      },
+      {
+        "msgID": "GOH_MES_L0009",
+        "msgStr": "Ah, bu iblis tahmin ettiğimden daha güçlü çıktı!"
+      },
+      {
+        "msgID": "goh_mes_omoide_skill_setup_info_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_MES_L0010",
+        "msgStr": "> Hangi Pasif Yeteneklerin kullanılacağını seçin."
+      },
+      {
+        "msgID": "goh_mes_msg_confirm_omoideskill_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_MES_L0011",
+        "msgStr": "> Pasif Yetenekleri ayarlama işlemi tamamlansın mı?"
+      },
+      {
+        "msgID": "goh_mes_msg_confirm_omoideskill_mitama_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_MES_L0012",
+        "msgStr": "> Pasif Yetenekler yeniden seçilsin mi?"
+      },
+      {
+        "msgID": "GOH_MES_L0013",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "GOH_MES_L0014",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "GOH_MES_L0015",
+        "msgStr": "Görünüşe göre rehberim şu konularda güncel değil."
+      },
+      {
+        "msgID": "GOH_MES_L0016",
+        "msgStr": "Rehbere kaydedelim mi?"
+      },
+      {
+        "msgID": "GOH_MES_L0017",
+        "msgStr": "Bu zaten rehberimde kayıtlı. Belki de bir güncelleme gerekiyordur?"
+      },
+      {
+        "msgID": "GOH_MES_L0018",
+        "msgStr": "Pekâlâ. Mevcut bilgileri kaydettim."
+      },
+      {
+        "msgID": "GOH_MES_L0019",
+        "msgStr": "Mmm. Hepsi bu kadar."
+      },
+      {
+        "msgID": "GOH_MES_L0020",
+        "msgStr": "<V 0> yen ödeyebileceksin, değil mi?"
+      },
+      {
+        "msgID": "GOH_MES_L0021",
+        "msgStr": "<V 1> çağrıldı."
+      },
+      {
+        "msgID": "GOH_MES_L0022",
+        "msgStr": "<COLOR 4><V 0> yen<COLOR 0> ödeyebilecek misin? Hmm... Görünüşe göre hayır."
+      },
+      {
+        "msgID": "GOH_MES_L0023",
+        "msgStr": "O iblis zaten tüpünde bulunuyor."
+      },
+      {
+        "msgID": "GOH_MES_L0024",
+        "msgStr": "Tüplerinin hepsi dolu."
+      },
+      {
+        "msgID": "GOH_MES_L0025",
+        "msgStr": "Korkarım o iblis için henüz hazır değilsin."
+      },
+      {
+        "msgID": "GOH_MES_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_MES_L0027",
+        "msgStr": "Daha önce kontrol etmediğin bir iblisi çağıramazsın."
+      },
+      {
+        "msgID": "GOH_MES_L0028",
+        "msgStr": "Hepsini kaydedeyim mi?"
+      },
+      {
+        "msgID": "GOH_MES_L0029",
+        "msgStr": "Hepsini kaydettim."
+      },
+      {
+        "msgID": "GOH_MES_L0030",
+        "msgStr": "Sen ve iblislerin gayet iyi durumdasınız."
+      },
+      {
+        "msgID": "GOH_MES_L0031",
+        "msgStr": "Öğrenmek istediğin bir şey mi var, evlat?"
+      },
+      {
+        "msgID": "GOH_MES_L0032",
+        "msgStr": "Tarifine uyan çok fazla iblis var."
+      },
+      {
+        "msgID": "GOH_MES_L0033",
+        "msgStr": "> Hangi Kılıç Yeteneklerinin kullanılacağını seçin."
+      },
+      {
+        "msgID": "GOH_MES_L0034",
+        "msgStr": "İşte oldu, daha fazla yuva ekledim."
+      },
+      {
+        "msgID": "GOH_MES_L0035",
+        "msgStr": "Korkarım daha fazla yuva ekleyemezsin."
+      },
+      {
+        "msgID": "goh_mes_msg_karte_pro_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_MES_L0036",
+        "msgStr": "> Bu yuva kilitli olduğundan üzerine yazılamaz."
+      },
+      {
+        "msgID": "GOH_MES_L0037",
+        "msgStr": "> Bazı yuvalar kilitli olduğundan üzerlerine yazılamadı."
+      },
+      {
+        "msgID": "GOH_MES_L0038",
+        "msgStr": "> Özel İblis Rehberi'nde boş yuva yok. Üzerine yazmak için bir yuva seçin."
+      },
+      {
+        "msgID": "GOH_MES_L0039",
+        "msgStr": "> Yeterli boş yuva yok. İblisleri tek tek kaydedin veya daha fazla boş yuva ekleyin."
+      },
+      {
+        "msgID": "goh_mes_msg_karte_pro_001",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_MES_L0040",
+        "msgStr": "Belki de bir güncelleme gerekiyordur?"
+      },
+      {
+        "msgID": "goh_mes_msg_karte_pro_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_MES_L0041",
+        "msgStr": "> Bu yuvanın üzerine yazılsın mı?"
+      },
+      {
+        "msgID": "GOH_MES_L0042",
+        "msgStr": "> Tüm iblisleri kaydetmek için Özel İblis Rehberi'nde yeterli boş yuva yoktu."
+      },
+      {
+        "msgID": "GOH_MES_L0043",
+        "msgStr": "Füzyonla"
+      },
+      {
+        "msgID": "GOH_MES_L0044",
+        "msgStr": "Vazgeç"
+      },
+      {
+        "msgID": "GOH_MES_L0045",
+        "msgStr": "> Emin misiniz?\n(Bu işlem geri alınamaz.)"
+      },
+      {
+        "msgID": "GOH_MES_L0046",
+        "msgStr": "> Bu yuva kilitli olduğundan temizlenemez."
+      },
+      {
+        "msgID": "GOH_MES_L0047",
+        "msgStr": "> Bu füzyon sırasında miras alınabilecek hiçbir yetenek yok."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:41:06"
+}

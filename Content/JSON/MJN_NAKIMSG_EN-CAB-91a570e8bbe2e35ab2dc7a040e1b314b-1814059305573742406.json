@@ -1,0 +1,69 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MJN_NAKIMSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MJN_NAKIMSG_L0000",
+        "msgStr": "Pas Geç"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0001",
+        "msgStr": "Tsumo"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0002",
+        "msgStr": "Riichi"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0003",
+        "msgStr": "Kan"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0004",
+        "msgStr": "Kan"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0005",
+        "msgStr": "Ron"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0006",
+        "msgStr": "Pon"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0007",
+        "msgStr": "Kan"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0011",
+        "msgStr": "Kyuushu Kyuuhai"
+      },
+      {
+        "msgID": "MJN_NAKIMSG_L0012",
+        "msgStr": "Chii"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:03:01"
+}

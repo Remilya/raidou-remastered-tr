@@ -1,0 +1,245 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "RST_SYS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "RST_SYS_L0000",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "RST_SYS_L0001",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "RST_SYS_L0002",
+        "msgStr": "> <V 0>, <V 1> seviye atladı!"
+      },
+      {
+        "msgID": "RST_SYS_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_SYS_L0004",
+        "msgStr": "> Nitelikleri dağıtın."
+      },
+      {
+        "msgID": "RST_SYS_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_SYS_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_SYS_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_SYS_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_SYS_L0009",
+        "msgStr": "> Bu şekilde uygun mu?"
+      },
+      {
+        "msgID": "RST_SYS_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_SYS_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_SYS_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_SYS_L0013",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> öğrenildi!"
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_RANKUP_A_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0014",
+        "msgStr": "> İblis Sadakati arttı ve Raidou'nun rütbesini yükseltti!"
+      },
+      {
+        "msgID": "RST_SYS_L0014_01",
+        "msgStr": "> Yatagarasu Elçisi, Raidou'ya yeni bir unvan bahşetti!"
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_RANKUP_B_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0015",
+        "msgStr": "> Raidou artık <V 0> tüp taşıyabilir!"
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_RANKUP_B00_002",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "RST_SYS_L0016",
+        "msgStr": "Görünüşe göre kendini geliştirmişsin, Raidou."
+      },
+      {
+        "msgID": "RST_SYS_L0017",
+        "msgStr": "Yatagarasu daha fazla tüp gönderdi."
+      },
+      {
+        "msgID": "RST_SYS_L0018",
+        "msgStr": "Bu sayede daha fazla iblise hükmedebileceksin."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_GIFT_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0019",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_CYUUSEIMAX_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0020",
+        "msgStr": "> <V 0> Sadakati maksimuma ulaştı."
+      },
+      {
+        "msgID": "RST_SYS_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_CYUUSEIMAX_BONUS01_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0022",
+        "msgStr": "> Raidou tüm YP'sini geri kazandı."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_CYUUSEIMAX_BONUS02_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0023",
+        "msgStr": "> Raidou ve grubu tüm YP'sini geri kazandı."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_CYUUSEIMAX_BONUS03_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0024",
+        "msgStr": "> <V 0> tüm YP'sini geri kazandı."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_CYUUSEIMAX_BONUS04_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0025",
+        "msgStr": "> Raidou MAG değerinin yarısını geri kazandı."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_CYUUSEIMAX_BONUS05_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_LEARN_MEMSKL_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_LEARN_MEMSKL_OVER_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0028",
+        "msgStr": "> Daha fazla Pasif Yetenek için yer yok. Hangi yetenekleri aktif tutacağınızı ve hangilerini değiştireceğinizi seçin."
+      },
+      {
+        "msgID": "RST_SYS_L0029",
+        "msgStr": "> Kaldırılan Pasif Yetenekler kaybolmaz. Ana menüde veya iblis füzyonu sırasında değiştirilebilirler."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_LEARN_MEMSKL_WASURE_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0030",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> kaldırılsın mı?"
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_LEARN_MEMSKL_CHANGE_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0031",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 1><COLOR 0> olarak değişti."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_NEWRANKUP_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "RST_SYS_L0032",
+        "msgStr": "Raidou, Yatagarasu'dan bir mektup var."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_NEWRANKUP_02",
+        "msgStr": "Mektup"
+      },
+      {
+        "msgID": "RST_SYS_L0033",
+        "msgStr": "\"Ondördüncü Raidou Kuzunoha,\nİblisleri idare etme konusundaki artan yeteneğinin bir nişanesi olarak, unvanını uygun gördüğün şekilde düzenlemene izin verilmiştir.\""
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_NEWRANKUP_03",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0034",
+        "msgStr": "> Raidou'nun unvanı artık menüden düzenlenebilir. \"Yapılandırma\"yı, ardından \"Raidou\"yu seçin, nitelikleri görüntülemek için <BTN_Y> tuşuna basın ve son olarak unvanları değiştirmek için <BTN_X> tuşuna basın."
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_OFFICIAL",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0035",
+        "msgStr": "> <V 1>, <COLOR 4><V 0><COLOR 0> yeteneğini tamamen öğrendi!"
+      },
+      {
+        "msgID": "rst_sys_RST_SYS_MSG_RANKUP_C_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "RST_SYS_L0036",
+        "msgStr": "> İblisleriniz artık savaşta tüplerinin içinden size destek olabilir!"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 16:01:15"
+}

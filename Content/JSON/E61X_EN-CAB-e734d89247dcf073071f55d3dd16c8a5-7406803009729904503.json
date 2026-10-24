@@ -1,0 +1,721 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E61X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e610_001_e610_001_000",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E610_001_L0000",
+        "msgStr": "İblisvari bir varlık sezdiğimi biliyordum. Karşımda kendi gölgem duruyor.\n<mw 180>"
+      },
+      {
+        "msgID": "e610_001_e610_002_001",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "E610_001_L0001",
+        "msgStr": "...Bekle.\n<mw 70>"
+      },
+      {
+        "msgID": "e610_001_e610_003_002",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "E610_001_L0002",
+        "msgStr": "Durumun öyle olduğunu sanmıyorum.\n<mw 100>"
+      },
+      {
+        "msgID": "e611_001_e611_NAL01_000",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E611_001_L0000",
+        "msgStr": "Süper Asker Projesi...<mw 90>\nBaştan beri kafamı kurcalayıp duruyordu.\n<mw 180>"
+      },
+      {
+        "msgID": "e611_001_e611_NAL02_001",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E611_001_L0001",
+        "msgStr": "Munakata... Baştan beri sendin demek.\n<mw 240>"
+      },
+      {
+        "msgID": "e611_001_e611_MUN01_002",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "E611_001_L0002",
+        "msgStr": "...Görünüşe göre hâlâ planlarımıza engel olmaya niyetlisin.\n<mw 180>"
+      },
+      {
+        "msgID": "e611_002_e611_SUK01_000",
+        "msgStr": "Tuhaf Ses"
+      },
+      {
+        "msgID": "E611_002_L0000",
+        "msgStr": "Ben insan değilim.\n<mw 120>"
+      },
+      {
+        "msgID": "e611_002_e611_SUK02_001",
+        "msgStr": "Tuhaf Ses"
+      },
+      {
+        "msgID": "E611_002_L0001",
+        "msgStr": "Ben nefret feryatlarıyla uykusundan\nsarsılarak uyanmış bir tanrıyım... <COLOR 1>Sukuna-Hikona<COLOR 0>!\n<mw 180>"
+      },
+      {
+        "msgID": "e611_002_e611_NAL03_002",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E611_002_L0002",
+        "msgStr": "Munakata...? <mw 130>Sen...\n<mw 120>"
+      },
+      {
+        "msgID": "e611_002_e611_SUK03_003",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "E611_002_L0003",
+        "msgStr": "Bir zamanlar Munakata dediğiniz kişi artık yok.\n<mw 180>"
+      },
+      {
+        "msgID": "e611_002_e611_SUK04_004",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "E611_002_L0004",
+        "msgStr": "Ancak onun görkemli Süper Asker ordusunu tamamladım.\n<mw 180>"
+      },
+      {
+        "msgID": "e611_002_e611_SUK05_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E611_002_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e611_002_e611_SUK06_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E611_002_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e611_002_e611_SUK07_007",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "E611_002_L0007",
+        "msgStr": "İşte karşınızda!\n<mw 120>"
+      },
+      {
+        "msgID": "e611_003_e611_NEKO_01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "E611_003_L0000",
+        "msgStr": "Dikkat et, Raidou!\n<mw 70>"
+      },
+      {
+        "msgID": "e611_004_e611_004_SUK01_000",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "E611_004_L0000",
+        "msgStr": "Nasıl kaybederim...<mw 90> bir insana...!?\n<mw 160>"
+      },
+      {
+        "msgID": "e611_004_e611_004_SUK02_001",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "E611_004_L0001",
+        "msgStr": "Öyle bile olsa... Ruhsuz Tanrı'yı durdurma umudunuz yok...\n<mw 160>"
+      },
+      {
+        "msgID": "e611_004_e611_004_SUK03_002",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "E611_004_L0002",
+        "msgStr": "Bize zulmedenlere duyduğumuz...\nnefretle...<mw 60> hepiniz acı çekeceksiniz!\n<mw 170>"
+      },
+      {
+        "msgID": "e612_001_e612_001_01_000",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0000",
+        "msgStr": "Tohokami emitama... Tohokami emitama...\n<mw 180>"
+      },
+      {
+        "msgID": "e612_001_e612_001_02_001",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0001",
+        "msgStr": "Ahariya asobasutomausanu asakurani...\n<mw 120>"
+      },
+      {
+        "msgID": "e612_001_e612_001_03_002",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0002",
+        "msgStr": "Ibukidonushitoihukami orimashimase...\n<mw 120>"
+      },
+      {
+        "msgID": "e612_001_e612_001_04_003",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0003",
+        "msgStr": "Hihumiyoimunaya kotomochirarone...\n<mw 120>"
+      },
+      {
+        "msgID": "e612_001_e612_001_05_004",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0004",
+        "msgStr": "Hikomihikoto... Kashikomi kaikomimo hakusu...\n<mw 180>"
+      },
+      {
+        "msgID": "e612_001_e612_001_06_005",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0005",
+        "msgStr": "Hurube yurayurato hurube...\n<mw 120>"
+      },
+      {
+        "msgID": "e612_001_e612_001_07_006",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0006",
+        "msgStr": "Yashihojinoshihono yahoahinimasu...\nHayaakitsuhimetoihukamimochikaka no mitemu...\n<mw 180>"
+      },
+      {
+        "msgID": "e612_001_e612_001_08_007",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0007",
+        "msgStr": "Kakukakanomiteha ibukidonushitoihukami...\n<mw 120>"
+      },
+      {
+        "msgID": "e612_001_e612_001_09_008",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0008",
+        "msgStr": "Nenokuni sokonokunini ibukihanachitemu...\n<mw 120>"
+      },
+      {
+        "msgID": "e612_001_e612_001_10_009",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "E612_001_L0009",
+        "msgStr": "Haraheyare... Haraheyare...!\n<mw 120>"
+      },
+      {
+        "msgID": "e612_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E612_001_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E612_001_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E612_001_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e612_002_e612_002_01_000",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E612_002_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e612_002_e612_002_02_001",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E612_002_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e612_002_e612_002_03_002",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E612_002_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e612_002_e612_002_04_003",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E612_002_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e612_003_e612_003_01_000",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E612_003_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e612_003_e612_003_02_001",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E612_003_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e612_003_e612_003_03_002",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E612_003_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e613_001_e613_001_01_000",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_001_L0000",
+        "msgStr": "...Hayır, ciddiyim. Sen, ben ve muhteşem bir gece.\n<mw 180>"
+      },
+      {
+        "msgID": "e613_001_e613_001_02_001",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_001_L0001",
+        "msgStr": "Ne kadar harika olduğumu görecek—\n<mw 180>"
+      },
+      {
+        "msgID": "e613_001_e613_001_03_002",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_001_L0002",
+        "msgStr": "...Hm? Şimdi olmaz, meşgulüm.\n<mw 180>"
+      },
+      {
+        "msgID": "e613_001_e613_001_04_003",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_001_L0003",
+        "msgStr": "Khuy! <mw 40>Kaç kere söylemem gere— <mw 20>Gah!?\n<mw 120>"
+      },
+      {
+        "msgID": "e613_001_e613_001_05_004",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_001_L0004",
+        "msgStr": "Kusura bakma. <mw 20>Nerede kalmıştım—\n<mw 100>"
+      },
+      {
+        "msgID": "e613_002_e613_002_01_000",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "E613_002_L0000",
+        "msgStr": "Muazzam! Tıpkı rüyalarımdaki gibi!\n<mw 180>"
+      },
+      {
+        "msgID": "e613_002_e613_002_02_001",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_002_L0001",
+        "msgStr": "Hm... Hey! Ne halt ettiğini sanıyorsun sen!?\n<mw 180>"
+      },
+      {
+        "msgID": "e613_002_e613_002_03_002",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "E613_002_L0002",
+        "msgStr": "İhtişamının tadını çıkarıyorum.\n<mw 180>"
+      },
+      {
+        "msgID": "e613_002_e613_002_04_003",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "E613_002_L0003",
+        "msgStr": "Ne kadar da nadide bir sanat eseri.\n<mw 180>"
+      },
+      {
+        "msgID": "e613_002_e613_002_05_004",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_002_L0004",
+        "msgStr": "...Hey!\n<mw 180>"
+      },
+      {
+        "msgID": "e613_002_e613_002_06_005",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_002_L0005",
+        "msgStr": "Orada bana dokunma! Yeter! Hey, çekil geri!\n<mw 150>"
+      },
+      {
+        "msgID": "e613_002_e613_002_07_006",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "E613_002_L0006",
+        "msgStr": "İkinizin işi bitti mi artık?\n<mw 120>"
+      },
+      {
+        "msgID": "e613_002_e613_002_08_007",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "E613_002_L0007",
+        "msgStr": "...Afedersiniz. Kendimi biraz fazla kaptırmış olabilirim.\n<mw 140>"
+      },
+      {
+        "msgID": "e613_002_e613_002_09_008",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E613_002_L0008",
+        "msgStr": "İlahi, hiç mi utanman yok senin!?\n<mw 150>"
+      },
+      {
+        "msgID": "e614_001_e614_001_01_000",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "E614_001_L0000",
+        "msgStr": "Tanıştığımıza memnun oldum... gerçi\no şerefe daha önce erişmiştik.\n<mw 120>"
+      },
+      {
+        "msgID": "e614_001_e614_001_02_001",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "E614_001_L0001",
+        "msgStr": "Söyle bakalım, zamanda yolculuğun nasıl geçti?\n<mw 180>"
+      },
+      {
+        "msgID": "e614_001_e614_001_03_002",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "E614_001_L0002",
+        "msgStr": "İnsanoğlunun aptallığına kendi gözlerinle tanık oldun mu?\n<mw 180>"
+      },
+      {
+        "msgID": "e614_002_e614_002_01_000",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "E614_002_L0000",
+        "msgStr": "Benim zamanımda toplum çoktan mahvolmuş durumda.\n<mw 180>"
+      },
+      {
+        "msgID": "e614_002_e614_002_02_001",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "E614_002_L0001",
+        "msgStr": "Bir umutsuzluk döngüsüne hapsolmuş...\n<mw 120>"
+      },
+      {
+        "msgID": "e614_002_e614_002_03_002",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "E614_002_L0002",
+        "msgStr": "Ve geri dönüşü olmayan noktayı çoktan geçtik.\n<mw 180>"
+      },
+      {
+        "msgID": "e614_002_e614_002_04_003",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "E614_002_L0003",
+        "msgStr": "Her şeyi silip sıfırdan başlamaktan başka çarem yok.\n<mw 180>"
+      },
+      {
+        "msgID": "e614_002_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E614_002_L0004",
+        "msgStr": "Hm!"
+      },
+      {
+        "msgID": "E614_002_L0005",
+        "msgStr": "Haaah!"
+      },
+      {
+        "msgID": "E615_001_L0000",
+        "msgStr": "Raidou...\n<mw 120>"
+      },
+      {
+        "msgID": "e615_001_E615_001_02_000",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E615_001_L0001",
+        "msgStr": "Başımız... <mw 105>Başımız belada...\n<mw 120>"
+      },
+      {
+        "msgID": "e615_001_E615_001_03_001",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E615_001_L0002",
+        "msgStr": "Başımız belada..."
+      },
+      {
+        "msgID": "e616_001_e616_001_01_000",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "E616_001_L0000",
+        "msgStr": "Neredeyim ben...?\n<mw 90>"
+      },
+      {
+        "msgID": "e616_001_e616_001_02_001",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "E616_001_L0001",
+        "msgStr": "Ha? Saçım... Saçlarım...\n<mw 120>"
+      },
+      {
+        "msgID": "e616_001_e616_001_03_002",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "E616_001_L0002",
+        "msgStr": "Ah... Demek rüya değilmiş.\n<mw 180>"
+      },
+      {
+        "msgID": "e616_001_e616_001_04_003",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "E616_001_L0003",
+        "msgStr": "Ama... rüya olmasını gerçekten çok isterdim.\n<mw 180>"
+      },
+      {
+        "msgID": "e616_001_e616_001_05_004",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "E616_001_L0004",
+        "msgStr": "Tamamen... karanlığın içindeydim. Çok korkunçtu.\n<mw 120>"
+      },
+      {
+        "msgID": "e616_001_e616_001_06_005",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "E616_001_L0005",
+        "msgStr": "Ama... <mw 30>Beni kurtaracağını biliyordum, Raidou. <mw 80>İçten içe biliyordum.\n<mw 180>"
+      },
+      {
+        "msgID": "e616_001_e616_001_07_006",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "E616_001_L0006",
+        "msgStr": "Ve kurtardın da. <mw 120>Gerçekten beni kurtardın.\n<mw 120>"
+      },
+      {
+        "msgID": "e616_001_e616_001_08_007",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "E616_001_L0007",
+        "msgStr": "Teşekkür ederim, <mw 60><NAME2N 0>... Çok teşekkür ederim.\n<mw 120>"
+      },
+      {
+        "msgID": "e616_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E616_001_L0008",
+        "msgStr": "Ah...!"
+      },
+      {
+        "msgID": "E616_001_L0009",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "e617_001_e617_001_000",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0000",
+        "msgStr": "\"Felaket Kanto'yu Vurdu, <mw 40><mw 60>Gözler Yeniden İnşaya Çevrildi\"... Hm.\n<mw 180>"
+      },
+      {
+        "msgID": "e617_001_e617_002_001",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0001",
+        "msgStr": "Vay be! Demek Yatagarasu'nun uydurduğu hikâye <IT_S>bu<IT_E>, ha?\n<mw 200>"
+      },
+      {
+        "msgID": "e617_001_e617_003_002",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0002",
+        "msgStr": "Hey gidi, örtbas diye buna derim.\n<mw 140>"
+      },
+      {
+        "msgID": "e617_001_e617_004_003",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0003",
+        "msgStr": "Düşünsene, bütün bunlar bir kızın bizden kendisini öldürmemizi istemesiyle başladı...\n<mw 180>"
+      },
+      {
+        "msgID": "e617_001_e617_005_004",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0004",
+        "msgStr": "Ve bütün mesele bir zaman yolcusunun verdiği nutukla sona eriyor.\n<mw 180>"
+      },
+      {
+        "msgID": "e617_001_e617_006_005",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0005",
+        "msgStr": "Sanırım uğruna savaşmaya değer bazı davalar gerçekten varmış.\n<mw 180>"
+      },
+      {
+        "msgID": "e617_001_e617_007_006",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0006",
+        "msgStr": "Gelecek için hâlâ biraz umut olabilir.\n<mw 180>"
+      },
+      {
+        "msgID": "e617_001_e617_008_007",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0007",
+        "msgStr": "Özetle durum bu, değil mi Raidou...?<mw 230>\nAh be dostum, anın içine ettin resmen.\n<mw 140>"
+      },
+      {
+        "msgID": "e617_001_e617_009_008",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0008",
+        "msgStr": "Ah be dostum, anın içine ettin resmen.\n<mw 120>"
+      },
+      {
+        "msgID": "e617_001_e617_010_009",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0009",
+        "msgStr": "Alo, Narumi Dedektiflik Bürosu.\n<mw 120>"
+      },
+      {
+        "msgID": "e617_001_e617_011_010",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0010",
+        "msgStr": "Evet... <mw 40>Hı hı... <mw 40>Bilginiz olsun,\nbiz sadece özel davaları alıyoruz...\n<mw 180>"
+      },
+      {
+        "msgID": "e617_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E617_001_L0010_01",
+        "msgStr": "Ha!?"
+      },
+      {
+        "msgID": "e617_001_e617_012_011",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E617_001_L0011",
+        "msgStr": "Raidou, yeni bir dava var! Hadi gidelim!\n<mw 120>"
+      },
+      {
+        "msgID": "e617_002_e617_001_000",
+        "msgStr": "Karasu"
+      },
+      {
+        "msgID": "E617_002_L0000",
+        "msgStr": "Oh be... Sonunda döndüm."
+      },
+      {
+        "msgID": "E617_002_L0001",
+        "msgStr": "Pekâlâ—kendime yeni bir beden bulma vakti."
+      },
+      {
+        "msgID": "e619_001_e619_001_000",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "E619_001_L0000",
+        "msgStr": "Ha!? Ne oluyo—!?<mw 120>"
+      },
+      {
+        "msgID": "e619_001_e619_002_001",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "E619_001_L0001",
+        "msgStr": "Aaaaahhhh! İmdaaaat!\n<mw 100>"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:49:37"
+}

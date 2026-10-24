@@ -1,0 +1,53 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONFIG_AUDIO_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONFIG_AUDIO_L0000",
+        "msgStr": "Müzik Sesi"
+      },
+      {
+        "msgID": "CONFIG_AUDIO_L0001",
+        "msgStr": "Efekt Sesi"
+      },
+      {
+        "msgID": "CONFIG_AUDIO_L0002",
+        "msgStr": "Video Sesi"
+      },
+      {
+        "msgID": "CONFIG_AUDIO_L0003",
+        "msgStr": "Seslendirmeyi Aç/Kapat"
+      },
+      {
+        "msgID": "CONFIG_AUDIO_L0004",
+        "msgStr": "Seslendirme Düzeyi"
+      },
+      {
+        "msgID": "CONFIG_AUDIO_L0005",
+        "msgStr": "Seslendirme Dili"
+      },
+      {
+        "msgID": "CONFIG_AUDIO_L0006",
+        "msgStr": "Japonca"
+      },
+      {
+        "msgID": "CONFIG_AUDIO_L0007",
+        "msgStr": "İngilizce"
+      },
+      {
+        "msgID": "CONFIG_AUDIO_L0008",
+        "msgStr": "Otomatik İlerletme"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:37:45"
+}

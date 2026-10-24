@@ -1,0 +1,77 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SORT_HELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SORT_HELP_L0000",
+        "msgStr": "Türe göre sırala."
+      },
+      {
+        "msgID": "SORT_HELP_L0001",
+        "msgStr": "Tüketilen MAG miktarına göre sırala.<V 0>"
+      },
+      {
+        "msgID": "SORT_HELP_L0002",
+        "msgStr": "Bir yeteneğe sahip olma durumuna göre sırala."
+      },
+      {
+        "msgID": "SORT_HELP_L0003",
+        "msgStr": "Elde edilme sırasına göre sırala<V 0>."
+      },
+      {
+        "msgID": "SORT_HELP_L0004",
+        "msgStr": "Saldırı gücüne göre sırala<V 0>."
+      },
+      {
+        "msgID": "SORT_HELP_L0005",
+        "msgStr": "Gruba katılma sırasına göre sırala<V 0>."
+      },
+      {
+        "msgID": "SORT_HELP_L0006",
+        "msgStr": "Seviyeye göre sırala<V 0>."
+      },
+      {
+        "msgID": "SORT_HELP_L0007",
+        "msgStr": "İblis Düzeni'ne göre sırala."
+      },
+      {
+        "msgID": "SORT_HELP_L0008",
+        "msgStr": "Mevcut HP miktarına göre sırala<V 0>."
+      },
+      {
+        "msgID": "SORT_HELP_L0009",
+        "msgStr": "Sıralamayı elle belirleyin. Sıralamanız kaydedilecektir."
+      },
+      {
+        "msgID": "SORT_HELP_L0010",
+        "msgStr": "Fiyata göre sırala<V 0>."
+      },
+      {
+        "msgID": "SORT_HELP_L0011",
+        "msgStr": "Stoktaki en yeni eşyalara göre sırala."
+      },
+      {
+        "msgID": "SORT_HELP_L0012",
+        "msgStr": "Eldeki mevcut miktara göre sırala<V 0>."
+      },
+      {
+        "msgID": "SORT_HELP_L0013",
+        "msgStr": "(şu anda standart sırada)"
+      },
+      {
+        "msgID": "SORT_HELP_L0014",
+        "msgStr": "(şu anda ters sırada)"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 16:02:06"
+}

@@ -1,0 +1,81 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SORT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SORT_L0000",
+        "msgStr": "Kimliğe Göre"
+      },
+      {
+        "msgID": "SORT_L0001",
+        "msgStr": "Sıralama Kimliğine Göre"
+      },
+      {
+        "msgID": "SORT_L0002",
+        "msgStr": "Türe Göre"
+      },
+      {
+        "msgID": "SORT_L0003",
+        "msgStr": "Uygunluğa Göre"
+      },
+      {
+        "msgID": "SORT_L0004",
+        "msgStr": "MAG Tüketimine Göre"
+      },
+      {
+        "msgID": "SORT_L0005",
+        "msgStr": "Yetenek Sahipliğine Göre"
+      },
+      {
+        "msgID": "SORT_L0006",
+        "msgStr": "Elde Edilmeye Göre"
+      },
+      {
+        "msgID": "SORT_L0007",
+        "msgStr": "Saldırıya Göre"
+      },
+      {
+        "msgID": "SORT_L0008",
+        "msgStr": "Katılıma Göre"
+      },
+      {
+        "msgID": "SORT_L0009",
+        "msgStr": "Seviyeye Göre"
+      },
+      {
+        "msgID": "SORT_L0010",
+        "msgStr": "Düzene Göre"
+      },
+      {
+        "msgID": "SORT_L0011",
+        "msgStr": "HP'ye Göre"
+      },
+      {
+        "msgID": "SORT_L0012",
+        "msgStr": "Elle Sırala"
+      },
+      {
+        "msgID": "SORT_L0013",
+        "msgStr": "Fiyata Göre"
+      },
+      {
+        "msgID": "SORT_L0014",
+        "msgStr": "Yeni Stoğa Göre"
+      },
+      {
+        "msgID": "SORT_L0015",
+        "msgStr": "Sahip Olunan Miktara Göre"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:51:31"
+}

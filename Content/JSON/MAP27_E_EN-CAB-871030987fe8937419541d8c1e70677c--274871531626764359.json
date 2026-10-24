@@ -1,0 +1,461 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP27_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map26_e_dammy_26_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE07_01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_E_L0000",
+        "msgStr": "İşte oradalar Raidou! Şurada!"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE07_02_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_E_L0001",
+        "msgStr": "Raidou, şu zombilerin ıstırabına son ver!"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE07_03_002",
+        "msgStr": "Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_E_L0002",
+        "msgStr": "Burası senin için <IT_S>ölüm<IT_E> çıkmazı!"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE08_01_003",
+        "msgStr": "Asker"
+      },
+      {
+        "msgID": "MAP27_E_L0003",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0004",
+        "msgStr": "Vay be, ucuz atlattık. Paçayı sayende kurtardık...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0005",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0006",
+        "msgStr": "Saldırıya uğradık ve kendimizi burada bulduk. Ne cehennem dönüyor burada?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0007",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0008",
+        "msgStr": "Şansıma tüküreyim, değil mi? Bebek gibi bir muhabirle tanışıyorum ve birden canavarlar peyda oluyor...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE08_05_004",
+        "msgStr": "Asker"
+      },
+      {
+        "msgID": "MAP27_E_L0011",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0012",
+        "msgStr": "Onun arkadaşı mısın? Hemen şurada, yerde yatıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0013",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0014",
+        "msgStr": "Ah, ben <COLOR 1>Sadakichi<COLOR 0>. Sanırım herkesin hakkında konuştuğu o firari asker benim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE08_07_005",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP27_E_L0015",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0016",
+        "msgStr": "Burada yaptıkları şeyler korkunç... Artık daha fazla katlanamadım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0019",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0020",
+        "msgStr": "Bu yüzden buradan kaçıp dünyaya neler döndüğünü anlatmak istedim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0021",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0022",
+        "msgStr": "<COLOR 1>Tümgeneral Munakata<COLOR 0>, burada, Kasumidai'de gizlice çok şüpheli bir projeyi yönetiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0025",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0026",
+        "msgStr": "Projede çalıştığım süre uzadıkça dehşetim daha da arttı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0029",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0030",
+        "msgStr": "O şeyleri <IT_S>gördün<IT_E> mü? İnsan bile değiller!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0031",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0032",
+        "msgStr": "O kırmızılı Özel Muhafızlar ve az önce bize saldıran o yaşayan ölüler...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0033",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0034",
+        "msgStr": "Bu cehennem çukurunda bir saniye bile geçirmek insanı çıldırtmaya yeter!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0035",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0036",
+        "msgStr": "Her neyse... Kaçarken birkaç dosyayı kapmayı başardım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0037",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0038",
+        "msgStr": "Başkent Günlüğü onlara iyi para verir diye düşündüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0039",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0040",
+        "msgStr": "Sen de onlara bir göz atmak ister miydin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0041",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0042",
+        "msgStr": "Paylaşmaktan memnuniyet duyardım ama...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0043",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0044",
+        "msgStr": "Bu... çılgın yerde canımı kurtarmak için koşarken hepsini düşürdüm.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0045",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0046",
+        "msgStr": "Geri dönüp onları aramaya ne dersin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0047",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0048",
+        "msgStr": "Yani madem o canavarlarla başa çıkabiliyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0049",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0050",
+        "msgStr": "O dosyalara gerçekten ihtiyacım var. Lütfen, gidip onları kendim alamam.\n<lips_stop>"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_01_006",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP27_E_L0051",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0052",
+        "msgStr": "Başardın! Harika! Sana güvenebileceğimi biliyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0053",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0054",
+        "msgStr": "Artık bildiğim her şeyi sana anlatmaktan büyük memnuniyet duyarım.\n<lips_stop>"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_03_007",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP27_E_L0055",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0056",
+        "msgStr": "Bakalım... Ah, doğru. Bu proje tam burada, Kasumidai'de yürütülüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0057",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0058",
+        "msgStr": "Adı Süper Asker Projesi. Başında Tümgeneral Munakata var.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0059",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0060",
+        "msgStr": "Hizmet dışı bırakılmış bir savaş gemisini <COLOR 1>yaşayan, batmaz bir savaş gemisine<COLOR 0> dönüştürecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0061",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0062",
+        "msgStr": "İçini \"süper askerler\" olan <COLOR 1>Cehennem Piyonları<COLOR 0> ile doldurup düşmanlarımızın üzerine salacaklar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0063",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0064",
+        "msgStr": "Munakata o Özel Muhafızlara \"Cehennem Piyonları\" diyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0065",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0066",
+        "msgStr": "Görünüşe göre hepsi başlangıçta Kırmızı Pelerin'e dönüşmüş insanlarmış.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0067",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0068",
+        "msgStr": "Saçmalıyormuşum gibi geldiğini biliyorum ama doğru! Her bir kelimesi doğru.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0069",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0070",
+        "msgStr": "İnan bana, yeraltı tesislerini bir görsen bana hak verirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0071",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0072",
+        "msgStr": "İblisler, cesetler ve... doğaya aykırı her türlü şeyle dolu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0073",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0074",
+        "msgStr": "İşin içindeki tek insanlar Munakata ve yanında tuttuğu o kız.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_12_008",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_E_L0077",
+        "msgStr": "Raidou, ona Kaya'nın fotoğrafını göster."
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_13_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_E_L0078",
+        "msgStr": "> Raidou, Sadakichi'ye Kaya'nın fotoğrafını gösterdi."
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_14_010",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP27_E_L0079",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0080",
+        "msgStr": "İşte o kız! Bilmene şaşırdım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0081",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0082",
+        "msgStr": "Her zaman Munakata'nın yanında, kim bilir neler konuşuyorlar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0083",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0084",
+        "msgStr": "O ikisi... Hm?\n<lips_stop>"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_17_011",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP27_E_L0085",
+        "msgStr": "Korkağın peşinden gelmiştim ama karşıma başka bir hasım çıktı."
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_18_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_E_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_19_013",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP27_E_L0087",
+        "msgStr": "Artık planlarımıza burnunu sokamayacaksın."
+      },
+      {
+        "msgID": "MAP27_E_L0088",
+        "msgStr": "Şimdi yaşayan ölülerden biri ol!"
+      },
+      {
+        "msgID": "map27_e_EPI05_SCENE09_21_014",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP27_E_L0089",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0090",
+        "msgStr": "Düşürdüğüm tüm dosyaları topladığında daha fazlasını açıklayacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP27_E_L0091",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP27_E_L0092",
+        "msgStr": "Sana güveniyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "map27_e_EPI05_TAE_01_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_E_L0093",
+        "msgStr": "> Tae'nin bilinci kapalı."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:46:48"
+}

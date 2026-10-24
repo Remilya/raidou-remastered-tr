@@ -1,0 +1,93 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "NWD_DRINK_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "nwd_drink_NWD_DRINK_MSG_DRINK_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_DRINK_L0000",
+        "msgStr": "> Raidou, <V 1> içti."
+      },
+      {
+        "msgID": "NWD_DRINK_L0001",
+        "msgStr": "> Kuvvet 3 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0002",
+        "msgStr": "> Büyü 3 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0003",
+        "msgStr": "> Dayanıklılık 3 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0004",
+        "msgStr": "> Şans 3 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0005",
+        "msgStr": "> HP yenilendi."
+      },
+      {
+        "msgID": "NWD_DRINK_L0006",
+        "msgStr": "> Kuvvet 3 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0007",
+        "msgStr": "> Dayanıklılık 3 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0008",
+        "msgStr": "> Büyü 3 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0009",
+        "msgStr": "> Şans 3 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0010",
+        "msgStr": "> Kuvvet 5 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0011",
+        "msgStr": "> Büyü 5 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0012",
+        "msgStr": "> Dayanıklılık 5 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0013",
+        "msgStr": "> Şans 5 arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0014",
+        "msgStr": "> Tüm HP yenilendi."
+      },
+      {
+        "msgID": "NWD_DRINK_L0015",
+        "msgStr": "> Para bulma şansı arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0016",
+        "msgStr": "> Eşya bulma şansı arttı."
+      },
+      {
+        "msgID": "NWD_DRINK_L0017",
+        "msgStr": "> Tüm nitelikler 5 arttı."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:41:25"
+}

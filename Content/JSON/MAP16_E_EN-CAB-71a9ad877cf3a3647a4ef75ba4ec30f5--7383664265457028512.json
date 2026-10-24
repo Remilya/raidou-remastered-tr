@@ -1,0 +1,389 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP16_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map16_e_map16_004_000",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_E_L0000",
+        "msgStr": "<NAME 0>, iblis çağırmana izin verildi."
+      },
+      {
+        "msgID": "MAP16_E_L0000_01",
+        "msgStr": "Tüpe aldığın Ukobach'ı çağır ve savaşta onun yardımından faydalan."
+      },
+      {
+        "msgID": "MAP16_E_L0001",
+        "msgStr": "Gerçek sınav başlamak üzere. Herhangi bir tereddüdün var mı?"
+      },
+      {
+        "msgID": "MAP16_E_L0002",
+        "msgStr": "Öyle mi? Dürüstlüğünü takdir ediyorum. Ancak tüm korkular zamanla dinecektir."
+      },
+      {
+        "msgID": "MAP16_E_L0003",
+        "msgStr": "O hâlde Kuzunoha'nın gizli sanatlarını sergile. Bize iblislere nasıl hükmettiğini göster!"
+      },
+      {
+        "msgID": "MAP16_E_L0004",
+        "msgStr": "Ah, demek şu anda bile soğukkanlılığını koruyorsun. Böylesi bir cesaret iblislere hükmedenlere yaraşır."
+      },
+      {
+        "msgID": "MAP16_E_L0005",
+        "msgStr": "O hâlde Kuzunoha'nın gizli sanatlarını sergile. Bize iblislere nasıl hükmettiğini göster!"
+      },
+      {
+        "msgID": "MAP16_E_L0006",
+        "msgStr": "Hayır, değilim."
+      },
+      {
+        "msgID": "MAP16_E_L0007",
+        "msgStr": "Evet, öyleyim."
+      },
+      {
+        "msgID": "map16_e_map16_004_TUIKA01_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_004_TUIKA02_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_004_TUIKA03_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0012",
+        "msgStr": "<COLOR 3>\n> Açıklamayı bitir?\n<COLOR 0>"
+      },
+      {
+        "msgID": "map16_e_map16_004_TUIKA04_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS_005",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_E_L0016",
+        "msgStr": "<COLOR 0>\nTebrikler, <NAME 0>. Yeteneklerin gerçekten de son derece etkileyici."
+      },
+      {
+        "msgID": "MAP16_E_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0018",
+        "msgStr": "Ünlü Kuzunoha unvanı \"Raidou\"ya layık olduğunu kanıtlayacağına inanıyorum."
+      },
+      {
+        "msgID": "MAP16_E_L0018_01",
+        "msgStr": "Bu senin son sınavın olacak. İlerle ve zafere ulaş!"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS_TUIKA01_006",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP16_E_L0019",
+        "msgStr": "<COLOR 0>\nDoksan yedi... Doksan sekiz... Doksan dokuz..."
+      },
+      {
+        "msgID": "map16_e_map16_BOSS_TUIKA02_007",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP16_E_L0020",
+        "msgStr": "Ahh, tekrar tekrar sayıyorum ama her seferinde bir kişi eksik çıkıyor!"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS_TUIKA03_008",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP16_E_L0021",
+        "msgStr": "Yüz İblis Çağırıcısını katletmeden özgür kalamam!"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS_TUIKA04_009",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP16_E_L0022",
+        "msgStr": "Ama yüzüncüsü <IT_S>sen<IT_E> olacaksın, değil mi?"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS03_010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS04_011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS05_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS06_013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_BOSS02_014",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_E_L0036",
+        "msgStr": "Beklenmedik derecede çetin bir düşmanı alt ederek iyi iş çıkardın."
+      },
+      {
+        "msgID": "MAP16_E_L0036_01",
+        "msgStr": "Sınav artık sona erdi."
+      },
+      {
+        "msgID": "MAP16_E_L0036_02",
+        "msgStr": "<NAME 0>, galip geldiğine hiç şüphe yok!"
+      },
+      {
+        "msgID": "MAP16_E_L0036_03",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0036_04",
+        "msgStr": "Sana yeni bir isim bahşedecek ve seni resmen Kuzunoha'lardan biri olarak tanıyacağız."
+      },
+      {
+        "msgID": "map16_e_map16_BOSS02_TUIKA01_015",
+        "msgStr": "Kraliçe Okiku-Mushi"
+      },
+      {
+        "msgID": "MAP16_E_L0037",
+        "msgStr": "Ah, ne güzel bir his. Sonunda huzur..."
+      },
+      {
+        "msgID": "MAP16_E_L0038",
+        "msgStr": "Sanırım başından beri gerçek bir İblis Çağırıcısıydın..."
+      },
+      {
+        "msgID": "map16_e_map16_BOSS02_TUIKA02_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_NAKAMA01_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_NAKAMA01b_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_NAKAMA02_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_NAKAMA03_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_npc_HARDMODE_0101_021",
+        "msgStr": "Sert Ses"
+      },
+      {
+        "msgID": "MAP16_E_L0044",
+        "msgStr": "Demek seçtiğin yol bu... Ya gerçek bir savaşçısın ya da kendi yıkımına doğru yürüyen bir ahmak."
+      },
+      {
+        "msgID": "MAP16_E_L0045",
+        "msgStr": "Bil ki seni muazzam zorluklar bekliyor. Seleflerini hayal kırıklığına uğratma."
+      },
+      {
+        "msgID": "map16_e_map16_005_TUIKA001_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_E_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_005_TUIKA002_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_005_TUIKA003_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_005_TUIKA004_025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_e_map16_005_TUIKA005_026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_E_L0059",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:45:37"
+}

@@ -1,0 +1,97 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "NAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "NAME_L0000",
+        "msgStr": "Soyadı"
+      },
+      {
+        "msgID": "NAME_L0001",
+        "msgStr": "Adı"
+      },
+      {
+        "msgID": "NAME_L0002",
+        "msgStr": "Soyadınızı girin. "
+      },
+      {
+        "msgID": "NAME_L0003",
+        "msgStr": "Adınızı girin. "
+      },
+      {
+        "msgID": "NAME_L0004",
+        "msgStr": "Metin girişini tamamla."
+      },
+      {
+        "msgID": "NAME_L0005",
+        "msgStr": "> Bu şekilde uygun mu?"
+      },
+      {
+        "msgID": "NAME_L0006",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "NAME_L0007",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "NAME_L0008",
+        "msgStr": "Hayalin nedir?"
+      },
+      {
+        "msgID": "NAME_L0009",
+        "msgStr": "Hayalin"
+      },
+      {
+        "msgID": "NAME_L0010",
+        "msgStr": "Hayalin"
+      },
+      {
+        "msgID": "NAME_L0011",
+        "msgStr": "(Maks. 4 karakter)"
+      },
+      {
+        "msgID": "NAME_L0012",
+        "msgStr": "(Maks. 12 karakter)"
+      },
+      {
+        "msgID": "NAME_L0013",
+        "msgStr": "(Maks. 10 karakter)"
+      },
+      {
+        "msgID": "NAME_L0014",
+        "msgStr": "(Maks. 20 karakter)"
+      },
+      {
+        "msgID": "NAME_L0015",
+        "msgStr": "İsim"
+      },
+      {
+        "msgID": "NAME_L0016",
+        "msgStr": "Bitir"
+      },
+      {
+        "msgID": "NAME_L0017",
+        "msgStr": "> Boş bir isim kullanamazsınız."
+      },
+      {
+        "msgID": "NAME_L0018",
+        "msgStr": "> Hayalinizi zaten <V 0> olarak girdiniz. Lütfen tekrar <V 0> seçeneğine dönün."
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/17 10:38:26"
+}

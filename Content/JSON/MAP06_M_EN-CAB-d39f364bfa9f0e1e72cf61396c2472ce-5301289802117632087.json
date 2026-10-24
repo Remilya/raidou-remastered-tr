@@ -1,0 +1,1777 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP06_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map06_m_m_mes_01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0002",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP06_M_L0003",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "MAP06_M_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0006",
+        "msgStr": "> Devasa bir ağaç."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi2_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0007",
+        "msgStr": "> Ağacın her yerinde sürünen böcekler var."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi2_NAKAMA_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0008",
+        "msgStr": "> Ağacın her yerinde sürünen böcekler var."
+      },
+      {
+        "msgID": "MAP06_M_L0009",
+        "msgStr": "> <devil 0> böceklere katılmayı denedi."
+      },
+      {
+        "msgID": "MAP06_M_L0010",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP06_M_L0011",
+        "msgStr": "> <devil 0> bunun gerçekten eğlenceli olup olmadığını sorguluyor."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_NAKAMA_004",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0012",
+        "msgStr": "Sen Ondördüncü Raidou'nun yoldaş ruhusun..."
+      },
+      {
+        "msgID": "MAP06_M_L0013",
+        "msgStr": "Görünüşe göre iblislerini oldukça iyi idare ediyor."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_1_005",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0014",
+        "msgStr": "Muazzam bir özveri gösteriyorsun, Ondördüncü."
+      },
+      {
+        "msgID": "MAP06_M_L0015",
+        "msgStr": "Eğitim Salonu'na girmek ister misin?"
+      },
+      {
+        "msgID": "MAP06_M_L0016",
+        "msgStr": "Maalesef Eğitim Salonu şu anda kapalı."
+      },
+      {
+        "msgID": "MAP06_M_L0017",
+        "msgStr": "Yeniden açıldığında buradan istediğin zaman girebileceksin."
+      },
+      {
+        "msgID": "MAP06_M_L0018",
+        "msgStr": "Gönlünce antrenman yap."
+      },
+      {
+        "msgID": "MAP06_M_L0019",
+        "msgStr": "Anlıyorum."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_NAKAMA_006",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0020",
+        "msgStr": "Hey, sen Ondördüncü ile takılan iblissin."
+      },
+      {
+        "msgID": "MAP06_M_L0021",
+        "msgStr": "Raidou'ya iyi bak, duydun mu?"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_1_007",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0022",
+        "msgStr": "Bakıyorum da epey meşgulsün, Ondördüncü."
+      },
+      {
+        "msgID": "MAP06_M_L0023",
+        "msgStr": "Bana sormak istediğin bir şey var mı?"
+      },
+      {
+        "msgID": "MAP06_M_L0024",
+        "msgStr": "Eğitim Salonu hakkında sor"
+      },
+      {
+        "msgID": "MAP06_M_L0025",
+        "msgStr": "Eğitim Salonu'nun sırları hakkında sor"
+      },
+      {
+        "msgID": "MAP06_M_L0026",
+        "msgStr": "Soru yok"
+      },
+      {
+        "msgID": "MAP06_M_L0027",
+        "msgStr": "Anlıyorum, anlıyorum. Aman dikkatsiz davranma."
+      },
+      {
+        "msgID": "MAP06_M_L0028",
+        "msgStr": "Üzerine nasıl geleceklerini asla bilemezsin."
+      },
+      {
+        "msgID": "MAP06_M_L0029",
+        "msgStr": "Özellikle de Karanlık Diyar'da..."
+      },
+      {
+        "msgID": "MAP06_M_L0030",
+        "msgStr": "Tapınağın iki yanındaki biz ikimiz yardım etmek için buradayız."
+      },
+      {
+        "msgID": "MAP06_M_L0031",
+        "msgStr": "Bilmen gereken her şeyi bize sormaktan çekinme."
+      },
+      {
+        "msgID": "MAP06_M_L0032",
+        "msgStr": "Senin için buradayız, Raidou."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_NO_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0033",
+        "msgStr": "> Tilki hüzünlü bir ciyaklama çıkardı."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_NO2_009",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0034",
+        "msgStr": "Anlıyorum..."
+      },
+      {
+        "msgID": "MAP06_M_L0035",
+        "msgStr": "Eh, bana sorarsan Eğitim Salonu'nda biraz ter atmanın hiçbir zararı olmaz."
+      },
+      {
+        "msgID": "MAP06_M_L0036",
+        "msgStr": "Eğer istersen diğer taraftakiyle konuş. Seni Eğitim Salonu'na götürecektir."
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_1_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0037",
+        "msgStr": "> Bir el yıkama yeri."
+      },
+      {
+        "msgID": "MAP06_M_L0038",
+        "msgStr": "> Ne yapacağını seç."
+      },
+      {
+        "msgID": "MAP06_M_L0039",
+        "msgStr": "Ellerini yıka"
+      },
+      {
+        "msgID": "MAP06_M_L0040",
+        "msgStr": "Yüzünü yıka"
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_2_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0041",
+        "msgStr": "> Raidou ferahladığını hissetti."
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_3_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0042",
+        "msgStr": "> Raidou temizlendiğini hissetti."
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_NAKAMA_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0043",
+        "msgStr": "> Bir el yıkama yeri."
+      },
+      {
+        "msgID": "MAP06_M_L0044",
+        "msgStr": "> <devil 0> yıkanmak için suya atladı!"
+      },
+      {
+        "msgID": "MAP06_M_L0045",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP06_M_L0046",
+        "msgStr": "> <devil 0> rahatlamış görünüyor."
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_LV01_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0047",
+        "msgStr": "> Derin bir el yıkama yeri. Dibi görünmüyor..."
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_LV02_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0048",
+        "msgStr": "> Ne yapacağını seç."
+      },
+      {
+        "msgID": "MAP06_M_L0049",
+        "msgStr": "Gir"
+      },
+      {
+        "msgID": "MAP06_M_L0050",
+        "msgStr": "Girme"
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_LV_YES_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0051",
+        "msgStr": "> Raidou karanlığın içine çekildi..."
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_LV_NO_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0052",
+        "msgStr": "> Raidou ayrıldı."
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_LV03_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0053",
+        "msgStr": "> Kimsenin kullanmadığı bir el yıkama yerine benziyor."
+      },
+      {
+        "msgID": "MAP06_M_L0054",
+        "msgStr": "> Haznedeki su neredeyse tamamen kurumuş."
+      },
+      {
+        "msgID": "map06_m_m_mes_TYOUZU_LV04_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0055",
+        "msgStr": "> Haznedeki su çekilmiş ve içindeki dipsiz karanlığı ortaya çıkarmış..."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_1_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0056",
+        "msgStr": "> Ağaçtaki tatlı bir şey böcekleri çekebilir..."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_2_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0057",
+        "msgStr": "> Ne yapacağını seç."
+      },
+      {
+        "msgID": "map06_m_m_MUSI_A SEL_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0058",
+        "msgStr": "Dondurmayı sür"
+      },
+      {
+        "msgID": "MAP06_M_L0059",
+        "msgStr": "Şurubu sür"
+      },
+      {
+        "msgID": "MAP06_M_L0060",
+        "msgStr": "Hiçbir şey sürme"
+      },
+      {
+        "msgID": "map06_m_m_MUSI_B SEL_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0061",
+        "msgStr": "Dondurmayı sür"
+      },
+      {
+        "msgID": "MAP06_M_L0062",
+        "msgStr": "Hiçbir şey sürme"
+      },
+      {
+        "msgID": "map06_m_m_MUSI_C SEL_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0063",
+        "msgStr": "Şurubu sür"
+      },
+      {
+        "msgID": "MAP06_M_L0064",
+        "msgStr": "Hiçbir şey sürme"
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_3_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0065",
+        "msgStr": "> Raidou büyük ağaca dondurmayı sürdü ve bekledi."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_4_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0066",
+        "msgStr": "> Raidou büyük ağaca şurubu sürdü ve bekledi."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_no_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0067",
+        "msgStr": "> Raidou hiçbir şey yapmadı."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_5_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0068",
+        "msgStr": "> Ağaç kısmen dondurmayla kaplı."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_6_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0069",
+        "msgStr": "> Ağaç kısmen şurupla kaplı."
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_GET1_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0070",
+        "msgStr": "> Raidou devasa ağacı kontrol etti."
+      },
+      {
+        "msgID": "MAP06_M_L0071",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP06_M_L0072",
+        "msgStr": "> Her yeri karınca kaynıyor!"
+      },
+      {
+        "msgID": "map06_m_m_mes_musi1_GET2_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0073",
+        "msgStr": "> Raidou devasa ağacı kontrol etti."
+      },
+      {
+        "msgID": "MAP06_M_L0074",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP06_M_L0075",
+        "msgStr": "> Nadir görünen bir böcek şurubu emiyor."
+      },
+      {
+        "msgID": "MAP06_M_L0076",
+        "msgStr": "> Raidou, <ITM_14><COLOR 4>Böcek<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE__R_KOUBUTU_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_ABURA0_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0079",
+        "msgStr": "> Inari heykelleri sanki gözlerini dikmiş sana bakıyormuş gibi duruyor."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_DAME_034",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0080",
+        "msgStr": "Nasıl gidiyor, Ondördüncü Raidou Kuzunoha?"
+      },
+      {
+        "msgID": "MAP06_M_L0081",
+        "msgStr": "Bak sana ne diyeceğim. Bu işte biraz daha ustalaşırsan..."
+      },
+      {
+        "msgID": "MAP06_M_L0082",
+        "msgStr": "Sana küçük bir sır vereceğim. <COLOR 3>Daha sonra tekrar gel<COLOR 0>, tamam mı?"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_ABURA1_035",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0083",
+        "msgStr": "> Kızarmış tofu sun?"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_ABURA_YES_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0084",
+        "msgStr": "> Raidou kızarmış tofuyu ikiye böldü ve her bir heykele birer parça verdi."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_ABURA_NO_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0085",
+        "msgStr": "> Raidou kızarmış tofuyu sunmamaya karar verdi."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_ABURA2_038",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0086",
+        "msgStr": "Oo! Bu harika hediye için teşekkürler, Ondördüncü."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_ABURA2_1_039",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0087",
+        "msgStr": "Karşılığında..."
+      },
+      {
+        "msgID": "MAP06_M_L0088",
+        "msgStr": "Sana küçük bir sır vereceğim."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_ABURA2_2_040",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0089",
+        "msgStr": "Başkent'in etrafında başka Eğitim Salonları da var."
+      },
+      {
+        "msgID": "MAP06_M_L0090",
+        "msgStr": "Tıpkı burası gibi, onlar da kendini ve iblislerini eğitmek için iyi yerlerdir..."
+      },
+      {
+        "msgID": "MAP06_M_L0091",
+        "msgStr": "Ama her birinin bir sırrı vardır."
+      },
+      {
+        "msgID": "MAP06_M_L0092",
+        "msgStr": "Her Eğitim Salonu'nda seni güçlendirecek özel eşyalar bulunur."
+      },
+      {
+        "msgID": "MAP06_M_L0093",
+        "msgStr": "Keskin gözlü bir iblis getirirsen onları fark edebilirsin."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_SYUGEN_041",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0094",
+        "msgStr": "Harika gidiyorsun, Ondördüncü."
+      },
+      {
+        "msgID": "MAP06_M_L0095",
+        "msgStr": "Bence bir ödülü hak ettin."
+      },
+      {
+        "msgID": "MAP06_M_L0096",
+        "msgStr": "İşine yarayabilecek bir yere davete ne dersin?"
+      },
+      {
+        "msgID": "MAP06_M_L0097",
+        "msgStr": "<COLOR 1>Eğitim Salonu<COLOR 0>!"
+      },
+      {
+        "msgID": "MAP06_M_L0098",
+        "msgStr": "Burası Kuzunoha klanının yıllara meydan okuyan eğitim alanıdır."
+      },
+      {
+        "msgID": "MAP06_M_L0099",
+        "msgStr": "Etrafta pek çok iblis vardır, bu yüzden aradığın hemen her iblisi bulabilirsin."
+      },
+      {
+        "msgID": "MAP06_M_L0100",
+        "msgStr": "Göz atmak istersen ön taraftaki el yıkama yerine git."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_SYUGEN_R_042",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0101",
+        "msgStr": "Eğitim Salonu, Kuzunoha klanının form tutmak için gittiği yerdir."
+      },
+      {
+        "msgID": "MAP06_M_L0102",
+        "msgStr": "Etrafta pek çok iblis vardır, bu yüzden aradığın hemen her iblisi bulabilirsin."
+      },
+      {
+        "msgID": "MAP06_M_L0103",
+        "msgStr": "Göz atmak istersen ön taraftaki el yıkama yerine git."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_SYUGEN_043",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0104",
+        "msgStr": "Muazzam bir özveri gösteriyorsun, Ondördüncü."
+      },
+      {
+        "msgID": "MAP06_M_L0105",
+        "msgStr": "Ödüle gelince..."
+      },
+      {
+        "msgID": "MAP06_M_L0106",
+        "msgStr": "Lütfen işine yarayabilecek bir yere olan bu daveti kabul et."
+      },
+      {
+        "msgID": "MAP06_M_L0107",
+        "msgStr": "Eğitim Salonu..."
+      },
+      {
+        "msgID": "MAP06_M_L0108",
+        "msgStr": "Kuzunoha klanı üyelerinin güçlerini geliştirdiği kadim bir mekândır."
+      },
+      {
+        "msgID": "MAP06_M_L0109",
+        "msgStr": "Duvarlarının içinde iblisler kaynar ve belirli bir iblisi arıyorsan onu orada bulabilirsin."
+      },
+      {
+        "msgID": "MAP06_M_L0110",
+        "msgStr": "Eğitim Salonu'na girmek istersen binanın önündeki el yıkama yerini incele."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_DAME_044",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0111",
+        "msgStr": "Muazzam bir özveri gösteriyorsun, Ondördüncü."
+      },
+      {
+        "msgID": "MAP06_M_L0112",
+        "msgStr": "Biz Inari heykelleri Kuzunoha klanını destekleriz."
+      },
+      {
+        "msgID": "MAP06_M_L0113",
+        "msgStr": "Bizler Uka-no-Mitama ruhunun parçalarıyız."
+      },
+      {
+        "msgID": "MAP06_M_L0114",
+        "msgStr": "Bir Kuzunoha olarak daha da güçlenirsen..."
+      },
+      {
+        "msgID": "MAP06_M_L0115",
+        "msgStr": "Sana <COLOR 3>Eğitim Salonu<COLOR 0>'na erişim izni vereceğim. Sıkı çalışmaya devam et."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ABURA2_045",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0116",
+        "msgStr": "Bu sunu için minnettarım, Ondördüncü."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ABURA2_1_046",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0117",
+        "msgStr": "Minnettarlığımı göstermek için..."
+      },
+      {
+        "msgID": "MAP06_M_L0118",
+        "msgStr": "Sana faydalı bulacağın bazı bilgiler vereceğim."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ABURA2_2_047",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0119",
+        "msgStr": "Başkent başka Eğitim Salonlarına da ev sahipliği yapar."
+      },
+      {
+        "msgID": "MAP06_M_L0120",
+        "msgStr": "Duvarlarının içinde yapabileceğin normal eğitime ek olarak..."
+      },
+      {
+        "msgID": "MAP06_M_L0121",
+        "msgStr": "Güçlü sırlar barındırırlar."
+      },
+      {
+        "msgID": "MAP06_M_L0122",
+        "msgStr": "Her Eğitim Salonu, bir İblis Çağırıcısı olarak hünerini artıracak özel eşyalar içerir."
+      },
+      {
+        "msgID": "MAP06_M_L0123",
+        "msgStr": "Keskin gözlü iblisler onları fark edebilir."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_TALK_START_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0124",
+        "msgStr": "> Inari heykelleri seninle konuşuyor."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_OSARAI_01_049",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0125",
+        "msgStr": "Muazzam bir özveri gösteriyorsun, Ondördüncü."
+      },
+      {
+        "msgID": "MAP06_M_L0126",
+        "msgStr": "Biz Inari heykelleri Kuzunoha klanını destekleriz."
+      },
+      {
+        "msgID": "MAP06_M_L0127",
+        "msgStr": "Bizler Uka-no-Mitama ruhunun parçalarıyız."
+      },
+      {
+        "msgID": "MAP06_M_L0128",
+        "msgStr": "Emin olmadığın bir şey varsa, zihnindeki şüpheleri gidermek için bize sor."
+      },
+      {
+        "msgID": "MAP06_M_L0129",
+        "msgStr": "Görevimiz, bir İblis Çağırıcısı'na ihtiyaç duyduğu her an yardım sağlamaktır."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_OSARAI_02_050",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0130",
+        "msgStr": "Muazzam bir özveri gösteriyorsun, Ondördüncü."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_OSARAI_03_051",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0131",
+        "msgStr": "Ne hakkında bilgi edinmek istiyorsun?"
+      },
+      {
+        "msgID": "MAP06_M_L0132",
+        "msgStr": "Özel eşyalar"
+      },
+      {
+        "msgID": "MAP06_M_L0133",
+        "msgStr": "ER200"
+      },
+      {
+        "msgID": "MAP06_M_L0134",
+        "msgStr": "Aril Yarıkları"
+      },
+      {
+        "msgID": "MAP06_M_L0135",
+        "msgStr": "Aril Yarığı Devriyesi ilerlemesi"
+      },
+      {
+        "msgID": "MAP06_M_L0136",
+        "msgStr": "Vazgeç"
+      },
+      {
+        "msgID": "MAP06_M_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_00_000",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0145",
+        "msgStr": "Bu dünya, iblis terbiyecilerinin işine yarayacak tuhaf ve sıradışı şeylerle doludur."
+      },
+      {
+        "msgID": "MAP06_M_L0146",
+        "msgStr": "Bunlardan herhangi biri hakkında daha fazla şey öğrenmek ister misin?"
+      },
+      {
+        "msgID": "MAP06_M_L0147",
+        "msgStr": "Sormak istediğin başka bir şey var mı?"
+      },
+      {
+        "msgID": "MAP06_M_L0147_01",
+        "msgStr": "Büyü kitapları"
+      },
+      {
+        "msgID": "MAP06_M_L0147_02",
+        "msgStr": "Tütsüler"
+      },
+      {
+        "msgID": "MAP06_M_L0147_03",
+        "msgStr": "Sake"
+      },
+      {
+        "msgID": "MAP06_M_L0147_04",
+        "msgStr": "Yetenek kitapları"
+      },
+      {
+        "msgID": "MAP06_M_L0147_05",
+        "msgStr": "Vazgeç"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_01_000",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0245",
+        "msgStr": "Büyü kitapları, seni veya iblislerini <COLOR 1>deneyimle<COLOR 0> dolduracak gizemli bir yeteneğe sahiptir."
+      },
+      {
+        "msgID": "MAP06_M_L0246",
+        "msgStr": "İki türü vardır: <COLOR 1>İnce Büyü Kitapları<COLOR 0> ve <COLOR 1>Kalın Büyü Kitapları<COLOR 0>. İnce Büyü Kitapları bir seviyenin %25'i kadar, Kalın Büyü Kitapları ise tam bir seviye yetecek kadar deneyim kazandırır."
+      },
+      {
+        "msgID": "MAP06_M_L0247",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0248",
+        "msgStr": "Seviye atlamak, niteliklerini yükseltmek ve yeni yetenekler öğrenmek için çok önemlidir. Başka bir deyişle, büyü kitaplarını akıllıca kullandığından emin ol."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_01_001",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0249",
+        "msgStr": "Al, bunları kabul et. Dinlediğin için minnettarlığımın küçük bir göstergesi."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_01_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0250",
+        "msgStr": "> Raidou, <ITM_10><COLOR 4>İnce Büyü Kitabı<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "MAP06_M_L0251",
+        "msgStr": "> <ITM_10><COLOR 4>Kalın Büyü Kitabı<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_01_003",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0252",
+        "msgStr": "Onları denemek için iyi bir zaman olabilir."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_02_000",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0253",
+        "msgStr": "Tütsüler, senin veya iblislerinin niteliklerini güçlendirerek <COLOR 1>onları 1 artıran<COLOR 0> ilginç bir yeteneğe sahiptir."
+      },
+      {
+        "msgID": "MAP06_M_L0254",
+        "msgStr": "Dört farklı türü vardır: <COLOR 1>Güç Tütsüsü<COLOR 0>, <COLOR 1>Büyü Tütsüsü<COLOR 0>, <COLOR 1>Dayanıklılık Tütsüsü<COLOR 0> ve <COLOR 1>Şans Tütsüsü<COLOR 0>. Her biri farklı bir niteliği artırır."
+      },
+      {
+        "msgID": "MAP06_M_L0255",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0256",
+        "msgStr": "Tütsüler, seviye atlamadan veya iblis füzyonundan güç kazanmadan niteliklerini istediğin gibi artırmana olanak tanır. O yüzden onları iyi değerlendir."
+      },
+      {
+        "msgID": "MAP06_M_L0257",
+        "msgStr": "Duyduğuma göre farklı Eğitim Salonu şubelerine <COLOR 1>eşya toplama yeteneğine sahip<COLOR 0> bir iblis götürürsen, güzel şeyler bulabilirlermiş..."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_02_001",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0258",
+        "msgStr": "Dinlediğin için teşekkürler; al, bunları kabul et."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_02_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0259",
+        "msgStr": "> Raidou, <ITM_09><COLOR 4>Güç Tütsüsü<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "MAP06_M_L0260",
+        "msgStr": "> <ITM_09><COLOR 4>Büyü Tütsüsü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "MAP06_M_L0261",
+        "msgStr": "> <ITM_09><COLOR 4>Dayanıklılık Tütsüsü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "MAP06_M_L0262",
+        "msgStr": "> <ITM_09><COLOR 4>Şans Tütsüsü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_02_003",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0263",
+        "msgStr": "Hadi bakalım. Zihnini sakinleştirmek ve içindeki yetenekleri ortaya çıkarmak için biraz tütsü yak."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_03_000",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0264",
+        "msgStr": "Sake, <COLOR 1>bir iblisin Sadakatini artıran<COLOR 0> kendine has bir özelliğe sahiptir. Ama senin yaşın tutmuyor Ondördüncü, o yüzden sana tek bir damla bile yok, anlaştık mı?"
+      },
+      {
+        "msgID": "MAP06_M_L0265",
+        "msgStr": "Pek çok farklı sake türü vardır ama temelde ya <COLOR 1>sadece belirli bir iblis Düzeni'ne uygundurlar<COLOR 0> ya da <COLOR 1>herhangi bir iblis Düzeni tarafından keyifle içilebilirler<COLOR 0>."
+      },
+      {
+        "msgID": "MAP06_M_L0266",
+        "msgStr": "Sadakatlerini artırmak için iblislere içki ısmarlamak ha... Sanırım iblislerin bile arada sırada oyuncu bir yanı olabiliyor."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_03_001",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0267",
+        "msgStr": "Çok iyi bir dinleyici olduğun için işte sana küçük bir hediye."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_03_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0268",
+        "msgStr": "> Raidou, <ITM_11><COLOR 4>\"Mansaku\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "MAP06_M_L0269",
+        "msgStr": "> <ITM_11><COLOR 4>\"Homura\" Sakesi<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_03_003",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0270",
+        "msgStr": "Öğrenmenin uygulayarak görmekten daha iyi bir yolu yoktur. İkimiz de daha iyisi için gelişmeye devam edelim!"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_04_000",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0271",
+        "msgStr": "Yetenek kitapları, <COLOR 1>iblislerine yetenek öğretmek<COLOR 0> gibi mistik bir güce sahiptir."
+      },
+      {
+        "msgID": "MAP06_M_L0272",
+        "msgStr": "Her kitap öğrettiği yeteneğin adını taşır. \"Agi Kitabı\" Agi öğretir, \"Bufu Kitabı\" Bufu öğretir ve bu böyle devam eder."
+      },
+      {
+        "msgID": "MAP06_M_L0273",
+        "msgStr": "Ancak iblislerin bir yeteneği öğrenmeden önce bu kitapları tam olarak nasıl kullandığına dair küçük bir incelik vardır."
+      },
+      {
+        "msgID": "MAP06_M_L0274",
+        "msgStr": "Genel bir kural olarak, <COLOR 1>1 yetenek kitabı okumak o yeteneği kullanmak için yeterlidir<COLOR 0>."
+      },
+      {
+        "msgID": "MAP06_M_L0275",
+        "msgStr": "Fakat iblisin bu yeteneği iblis füzyonu yoluyla aktarabilmesi için tamamen öğrenmesi bambaşka bir konudur."
+      },
+      {
+        "msgID": "MAP06_M_L0276",
+        "msgStr": "Çünkü <COLOR 1>bir yeteneği tamamen öğrenmek için bazı yetenek kitaplarının diğerlerinden daha fazla okunması gerekir<COLOR 0>."
+      },
+      {
+        "msgID": "MAP06_M_L0277",
+        "msgStr": "Bazı yetenek kitaplarının sadece 1 kez okunması yeterliyken, bazılarının diyelim ki 3 kez okunması gerekebilir. Bu kitaba bağlıdır. Ve o zamana kadar yetenek yalnızca kısmen öğrenilmiş olur."
+      },
+      {
+        "msgID": "MAP06_M_L0278",
+        "msgStr": "Sanırım söylenenler doğru; hayatta hiçbir şey kolay değil."
+      },
+      {
+        "msgID": "MAP06_M_L0279",
+        "msgStr": "Her halükârda, yetenek kitaplarını kullanmak biraz zahmetli olabilir ama buna değer. Hatta <COLOR 1>iblislere normalde öğrenmeleri imkânsız olan yetenekleri bile öğretebilirler<COLOR 0>."
+      },
+      {
+        "msgID": "MAP06_M_L0280",
+        "msgStr": "Duyduğuma göre yetenek kitaplarına denk gelmenin en güvenilir yolları, <COLOR 1>onları hapsedilme sanatını kullanarak düşmanlardan almak<COLOR 0> ve <COLOR 1>iblis müttefiklerini yoklamaktır<COLOR 0>."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_04_001",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0281",
+        "msgStr": "İyi bir dinleyicisin. Al, bunlardan birkaç tane kabul et."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_04_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0282",
+        "msgStr": "> Raidou, <ITM_13><COLOR 4>Agi Kitabı<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "MAP06_M_L0283",
+        "msgStr": "> <ITM_13><COLOR 4>Patra Kitabı<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ITEM_04_003",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0284",
+        "msgStr": "Şimdi git ve yetenek kitaplarının neler yapabildiğini kendi gözlerinle gör!"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_SATO_01_000",
+        "msgStr": "ER300"
+      },
+      {
+        "msgID": "MAP06_M_L0148",
+        "msgStr": "ER300"
+      },
+      {
+        "msgID": "MAP06_M_L0149",
+        "msgStr": "ER300"
+      },
+      {
+        "msgID": "MAP06_M_L0150",
+        "msgStr": "ER300"
+      },
+      {
+        "msgID": "MAP06_M_L0151",
+        "msgStr": "ER300"
+      },
+      {
+        "msgID": "MAP06_M_L0152",
+        "msgStr": "ER300"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_000",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0153",
+        "msgStr": "Aril Yarığı, gerçek dünyada ortaya çıkan ve Karanlık Diyar'a bağlantı oluşturan bir uzay-zaman çatlağıdır."
+      },
+      {
+        "msgID": "MAP06_M_L0154",
+        "msgStr": "En kötü senaryoda, Karanlık Diyar'daki iblisler gerçek dünyaya geçebilir ve her türlü kaosa yol açabilir."
+      },
+      {
+        "msgID": "MAP06_M_L0155",
+        "msgStr": "Daha fazlasını öğrenmek istiyorsan, Gouto-Douji'nin dedektif günlüğüne yazdığı kaydı okumayı dene."
+      },
+      {
+        "msgID": "MAP06_M_L0156",
+        "msgStr": "Ondördüncü, senin yeteneklerine sahip biri Aril Yarıklarını temizleyebilir. Tek yapman gereken <COLOR 1>içeride barınan iblisleri alt etmektir<COLOR 0>."
+      },
+      {
+        "msgID": "MAP06_M_L0157",
+        "msgStr": "Yatagarasu da Aril Yarıklarının temizlenmesini tavsiye ediyor. Üstelik bunu yapmak <COLOR 1>dört kat deneyim<COLOR 0> ve <COLOR 1>sekiz kat para<COLOR 0> kazandırır."
+      },
+      {
+        "msgID": "MAP06_M_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0159",
+        "msgStr": "<COLOR 1>Aril Yarıkları ayın evreleri geçtikçe yeniden ortaya çıkar<COLOR 0>, bu yüzden fırsat buldukça onları temizlemeye çalış, Ondördüncü."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_001",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0160",
+        "msgStr": "Başkent genelindeki Aril Yarıklarını temizleyeceğin için zahmetinin karşılığını sana vermeyi düşünüyorum."
+      },
+      {
+        "msgID": "MAP06_M_L0161",
+        "msgStr": "Buna daha resmi duyulması için <COLOR 1>Aril Yarığı Devriyesi<COLOR 0> adını verdiğim küçük bir sistem diyebiliriz."
+      },
+      {
+        "msgID": "MAP06_M_L0162",
+        "msgStr": "Sen yeni Aril Yarıkları keşfettikçe, kaç tanesini temizlediğinin <COLOR 1>kaydını tutacağım<COLOR 0>."
+      },
+      {
+        "msgID": "MAP06_M_L0163",
+        "msgStr": "Sadece bir kez yeterlidir. Aynı yarığı tekrar tekrar temizlemene gerek yok."
+      },
+      {
+        "msgID": "MAP06_M_L0164",
+        "msgStr": "Temizlediğin <COLOR 1>her 5 Aril Yarığı için<COLOR 0> sana küçük bir ödül vereceğim."
+      },
+      {
+        "msgID": "MAP06_M_L0165",
+        "msgStr": "İlerleme kaydettikçe gelip benimle konuşman yeterli."
+      },
+      {
+        "msgID": "MAP06_M_L0166",
+        "msgStr": "Lafı açılmışken, bakalım şimdiye kadar kaç tanesini temizlemişsin..."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_002",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0167",
+        "msgStr": "Ooo! Ondördüncü, yeni Aril Yarıkları temizlemişsin! Tam olarak <COLOR 1><V 0><COLOR 0> tane."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_003",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0285",
+        "msgStr": "Hım. Görünüşe göre henüz yeni bir Aril Yarığı temizlememişsin, Ondördüncü."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_004",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0286",
+        "msgStr": "...İnanılmaz! Ondördüncü, Aril Yarıklarının <COLOR 1>tamamını<COLOR 0> temizlemişsin!"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_005",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0287",
+        "msgStr": "Oooh... Ondördüncü, <COLOR 1><V 0>. döngüdesin<COLOR 0> ve yeni Aril Yarıkları temizlemişsin; hem de <COLOR 1><V 1><COLOR 0> tane!"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_006",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0288",
+        "msgStr": "İnanılmaz! Ondördüncü, <COLOR 1><V 0>. döngüdesin<COLOR 0> ve Aril Yarıklarının <COLOR 1>tamamını<COLOR 0> temizlemişsin!"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_007",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0168",
+        "msgStr": "Harika gidiyorsun. Al bakalım, bu senin için."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0289",
+        "msgStr": "> Raidou <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "MAP06_M_L0290",
+        "msgStr": "> Raidou <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "MAP06_M_L0290_01",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_009",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0291",
+        "msgStr": "Unutma, temizlediğin <COLOR 1>her 5 yarık<COLOR 0> için sana bir ödül vereceğim."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_010",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0292",
+        "msgStr": "Kaç tane yeni Aril Yarığı temizlediğinin kaydını tutacağım. Her 5 tanesinde bir ödül kazanacaksın."
+      },
+      {
+        "msgID": "MAP06_M_L0293",
+        "msgStr": "Sadece bir kez yeterlidir. Aynı yarığı tekrar tekrar temizlemene gerek yok."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_011",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0294",
+        "msgStr": "Böyle devam et."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_012",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0295",
+        "msgStr": "Öncelikle, bu anı kutlamak için işte sana küçük bir şey."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0296",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_014",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0297",
+        "msgStr": "Şimdi, bu <V 2>. döngünün başlangıcı oluyor. Bu noktaya kadar olan ilerlemeni tekrar 0'a sıfırlayacağım."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_015",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0298",
+        "msgStr": "Bu sefer ödülleri artıracağım."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_016",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0299",
+        "msgStr": "Ödüller aynı olacak ama yine de iyi iş çıkarmaya devam et."
+      },
+      {
+        "msgID": "map06_m_m_MATA_059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_EP09_060",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0170",
+        "msgStr": "Başka bir zaman ve mekânın Ondördüncü Raidou'su..."
+      },
+      {
+        "msgID": "MAP06_M_L0171",
+        "msgStr": "Görünüşe göre senin dünyanda çok ciddi bir terslik var."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_EP09_061",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0172",
+        "msgStr": "Hey, \"doppelganger\" kelimesinin Almanca olduğunu biliyor muydun?"
+      },
+      {
+        "msgID": "MAP06_M_L0173",
+        "msgStr": "İnsan her gün yeni bir şey öğreniyor."
+      },
+      {
+        "msgID": "map06_m_m_mes_01_yes_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai1_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai1_yes_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai1_no_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai1_hajiki_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai1_on_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai1_kari_068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai1_help_069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test01_070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes01_071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes03_072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes03_SEL SEL 0_073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes04_074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes_tukudo_075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes_ginza_076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes_senju_077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes_sokaiti_078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes_kasumi_079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_yes_atago_080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_no_081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_no02_082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test00_083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_mes_ikai_test_help_084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP06_M_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map06_m_m_Bug01_01_01_085",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0211",
+        "msgStr": "> Devasa bir ağaç."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_01_02_086",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0212",
+        "msgStr": "> Devasa bir ağaç. Ağaçtaki tatlı bir şey böcekleri çekebilir..."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_01_02s01 SEL_087",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0213",
+        "msgStr": "Dondurmayı sür"
+      },
+      {
+        "msgID": "MAP06_M_L0214",
+        "msgStr": "Hiçbir şey sürme"
+      },
+      {
+        "msgID": "map06_m_m_Bug01_01_02s02 SEL_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0215",
+        "msgStr": "Şurubu sür"
+      },
+      {
+        "msgID": "MAP06_M_L0216",
+        "msgStr": "Hiçbir şey sürme"
+      },
+      {
+        "msgID": "map06_m_m_Bug01_01_02s03 SEL_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0217",
+        "msgStr": "Dondurmayı sür"
+      },
+      {
+        "msgID": "MAP06_M_L0218",
+        "msgStr": "Şurubu sür"
+      },
+      {
+        "msgID": "MAP06_M_L0219",
+        "msgStr": "Hiçbir şey sürme"
+      },
+      {
+        "msgID": "map06_m_m_Bug01_01_02a_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0220",
+        "msgStr": "> Raidou ağaç gövdesine Dondurmayı sürdü."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_01_02b_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0221",
+        "msgStr": "> Raidou ağaç gövdesine Şurubu sürdü."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_02_01_092",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0222",
+        "msgStr": "> Devasa bir ağaç. Gövdesi kısmen Dondurma ile kaplı."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_02_02_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0223",
+        "msgStr": "> ...Aa!"
+      },
+      {
+        "msgID": "MAP06_M_L0224",
+        "msgStr": "> Bir böcek erimiş Dondurmayı yalıyor!"
+      },
+      {
+        "msgID": "map06_m_m_Bug01_02_03_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0225",
+        "msgStr": "> Raidou, <ITM_14><COLOR 4>Böcek<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_02_04_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0226",
+        "msgStr": "> <devil 0>, <ITM_14><COLOR 4>Böcek<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_03_01_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0227",
+        "msgStr": "> Devasa bir ağaç. Gövdesi kısmen Şurup ile kaplı."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_03_02_097",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0228",
+        "msgStr": "> ...Aa!"
+      },
+      {
+        "msgID": "MAP06_M_L0229",
+        "msgStr": "> Bir Geyik Böceği şurubu emiyor!"
+      },
+      {
+        "msgID": "map06_m_m_Bug01_03_03_098",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0230",
+        "msgStr": "> Raidou, <ITM_14><COLOR 4>Geyik Böceği<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map06_m_m_Bug01_03_04_099",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0231",
+        "msgStr": "> <devil 0>, <ITM_14><COLOR 4>Geyik Böceği<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_ZAKURO_017",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0300",
+        "msgStr": "Aferin! Tüm Aril Yarıklarını temizledin."
+      },
+      {
+        "msgID": "MAP06_M_L0301",
+        "msgStr": "Ahh... Ondördüncü, şu anda <COLOR 1><V 0>. döngüdesin<COLOR 0>, ancak görünüşe göre henüz temizlemediğin bazı Aril Yarıkları var."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_BEKKEN_001",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0302",
+        "msgStr": "Cevabını ver"
+      },
+      {
+        "msgID": "MAP06_M_L0303",
+        "msgStr": "Ah, demek vakti geldi! Hadi bakalım, söyle cevabını!"
+      },
+      {
+        "msgID": "MAP06_M_L0304",
+        "msgStr": "Ne yazık... Yanlış sayı."
+      },
+      {
+        "msgID": "MAP06_M_L0305",
+        "msgStr": "Doğru! Aferin sana, Ondördüncü!"
+      },
+      {
+        "msgID": "MAP06_M_L0306",
+        "msgStr": "Al bakalım, senin için bir ödül."
+      },
+      {
+        "msgID": "MAP06_M_L0307",
+        "msgStr": "Başkent'i kollamaya devam et."
+      },
+      {
+        "msgID": "map06_m_HELP_PASSWORD_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP06_M_L0308",
+        "msgStr": "<COLOR 4>Sayıları değiştirmek için <BTN_ALU>/<BTN_ALD> veya <BTN_DU>/<BTN_DD>, konumu değiştirmek için <BTN_ALL>/<BTN_ALR> veya <BTN_DL>/<BTN_DR> ve onaylamak için <BTN_A> düğmesini kullanın.<COLOR 0>"
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_L_OTHER_001",
+        "msgStr": "Tilki (Sol)"
+      },
+      {
+        "msgID": "MAP06_M_L0309",
+        "msgStr": "Demek başka bir zaman çizgisinden gelen bir Raidou Kuzunoha'sın... Gerçi bu bizim sorun edeceğimiz bir şey değil."
+      },
+      {
+        "msgID": "MAP06_M_L0310",
+        "msgStr": "Şansımıza, bu zaman çizgisinde şu anda hiç Aril Yarığı yok."
+      },
+      {
+        "msgID": "MAP06_M_L0311",
+        "msgStr": "Herhangi birini temizlemek istiyorsan, kendi dünyana döndüğünde bulma şansın muhtemelen daha yüksek olacaktır."
+      },
+      {
+        "msgID": "map06_m_m_mes_KITUNE_R_OTHER_001",
+        "msgStr": "Tilki (Sağ)"
+      },
+      {
+        "msgID": "MAP06_M_L0312",
+        "msgStr": "Ah, diğer Raidou."
+      },
+      {
+        "msgID": "MAP06_M_L0313",
+        "msgStr": "İçin rahat olsun, hangi zaman çizgisinden gelirsen gel seni Eğitim Salonu'na yönlendirebiliriz."
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/04 17:01:31"
+}

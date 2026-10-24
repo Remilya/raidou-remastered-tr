@@ -1,0 +1,521 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DVLTKMES_008_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DVLTKMES_008_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0001",
+        "msgStr": "OoOh EeeVEtTtttTtTTtttT!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0002",
+        "msgStr": "O kAdAr İyİ kİ ÖleEeEeceEeEEEEğim!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0003",
+        "msgStr": "YeNİ bİR OlİMPiYat RrrekorRrrru!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0004",
+        "msgStr": "BeEEeN mODeRn dEdekTifFfiM!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0005",
+        "msgStr": "E... EtKİsİz! HaYııIIıır!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0006",
+        "msgStr": "B-BaŞaRaMaDıM! A-ANaNaS!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0007",
+        "msgStr": "BaNA bAK! hAyIR, O gÖZlErle DeĞİl!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0008",
+        "msgStr": "dE... DE... De... deMOkRasİ?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0009",
+        "msgStr": "RaIDoooOOouUuu! bU ÇoK eĞlENceLiiiİ!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0010",
+        "msgStr": "RuH gÜcÜMüN yaNışInI HİsSEtT!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0011",
+        "msgStr": "RiTMimİ bOZmAaaA!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0012",
+        "msgStr": "SeN bİR OsuRUk bÖcEğİsİnNnN!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0013",
+        "msgStr": "ÇoK tUhaAaaaAAafFffF hİsSedİyORuM!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0014",
+        "msgStr": "SaÇlArIıIım dÖkÜlüYorRrrR!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0015",
+        "msgStr": "bU-bU hİçBİr ŞeY dEğİl!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0016",
+        "msgStr": "İşteEeEEee GgEelİyOoorUuuM!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0017",
+        "msgStr": "bU-bU-bU çOk AcIttIıIıı!!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0018",
+        "msgStr": "bEEeeniiiİ mİ çaĞıRRRdıNnnN!?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0019",
+        "msgStr": "bU BeNİ kUstURaCaK!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0020",
+        "msgStr": "biR kErE yETerLİyDİ! Bİr dAhA sÖyLe!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0021",
+        "msgStr": "rAidoUuuUu, gÜlÜmSe BaKaLıM!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0022",
+        "msgStr": "YİnE gELecEğİmMmMmmmMMMmmM!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0023",
+        "msgStr": "RaiDoUuUUuu İLe İkİlİ tAkIM!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0024",
+        "msgStr": "AaGH! kORkuYoruM, çOK KOooOooRkuYorUm!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0025",
+        "msgStr": "PooOooOOOooOOoOoooOoOoOon!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0026",
+        "msgStr": "CHiIIIIiIiiiiIiiiiiIiiiiIiii!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0027",
+        "msgStr": "KaAaaaAAAaaaaaaAaAAaAAAaan!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0028",
+        "msgStr": "RiIIiiiIiChIIii iÇİn uZaNIyorUm!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0029",
+        "msgStr": "ROnNnnNNNnnnnn!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0030",
+        "msgStr": "vER bAnA Şu tAtLı MAaaAaAAaAg'ı!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0031",
+        "msgStr": "rAidoUuuUU!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0032",
+        "msgStr": "HAdİ gİdEliİiİiİİ!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0033",
+        "msgStr": "ooOoOOHhHHhhHh, RUH gÜcÜmMMmMmm!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0035",
+        "msgStr": "F-f-F-f-f-F-f-F-F-F-f-F-f-f-f..."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0036",
+        "msgStr": "FüZYon paRÇasI, BeNİ dE KaaAatT!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0037",
+        "msgStr": "E-E-e-E-e-e-e-E-e-e-E-e-e..."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0038",
+        "msgStr": "BeNİ mÜtTeFİkİn Mi YaPaCaksIıIınNn!?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0039",
+        "msgStr": "eVeT. EVeT. eVET. EveEEeEeEEEeEt!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0040",
+        "msgStr": "RAidoU kUZunOhA! sENi sEViYooOooORuM!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0050",
+        "msgStr": "sEN KİmsİiİiİNnnNN!?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0051",
+        "msgStr": "14. Raidou Kuzunoha."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0052",
+        "msgStr": "<NAME 0>."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0053",
+        "msgStr": "Söylemem."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0054",
+        "msgStr": "bEN iNSaNlaRı dİNlEmeM! bELkİ dE bENi öLDüüÜüüÜrMeLİsİn!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0055",
+        "msgStr": "Öyle olsun."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0056",
+        "msgStr": "Bunu yapmayacağım."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0057",
+        "msgStr": "Sakin ol biraz."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0058",
+        "msgStr": "bENiMle bAŞa çIKabİLeCeĞinİ mİ sANıYorSuuUuUUn!?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0059",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0060",
+        "msgStr": "Sanırım hayır."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0061",
+        "msgStr": "Senin benimle başa çıkmanı tercih ederim."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0062",
+        "msgStr": "bENiMle nE YApaCaKsIıIınN!?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0063",
+        "msgStr": "Omuz omuza savaşacağız."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0064",
+        "msgStr": "Evcil hayvanım olacaksın."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0065",
+        "msgStr": "Seni füzyon için kullanacağım."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0066",
+        "msgStr": "sOruUuuUUUuuU! İNsaNLaR vE ibLİsleR aRKaDaaaAş oLaBİlİr mİ?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0067",
+        "msgStr": "Elbette olabiliriz."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0068",
+        "msgStr": "Hayır, olamayız."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0069",
+        "msgStr": "Arkadaştan öte olabiliriz."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0070",
+        "msgStr": "SOruUuUuUUuu! sİZ İNsAnLArIn bİR GeLeEeEEeceĞi oLDuğUNu dÜŞünÜYor mUSuN?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0071",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0072",
+        "msgStr": "İnanmıyorum."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0073",
+        "msgStr": "Emin değilim."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0074",
+        "msgStr": "soRUuUUuuuUuU! neDEn YAşıYorSuN?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0075",
+        "msgStr": "Ölmemek için."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0076",
+        "msgStr": "Yapmam gereken bir şey var."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0077",
+        "msgStr": "Hayatın kanunu bu."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0078",
+        "msgStr": "eN SEvDiğİn şEyyYyY nE!? WRyyYyyYYYY!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0079",
+        "msgStr": "Para."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0080",
+        "msgStr": "Şefkat."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0081",
+        "msgStr": "Kendim."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0082",
+        "msgStr": "bENi mUtLu eDebİliR MiSiiİiıııİİn?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0083",
+        "msgStr": "Sanırım evet."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0084",
+        "msgStr": "Pek sanmıyorum."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0085",
+        "msgStr": "Şimdiden mutlu olmalısın."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0086",
+        "msgStr": "SOruUuuUUuUU! yaTAgAraSU iYİiİiİ Mİ yOKsA köTÜüÜü mÜ?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0087",
+        "msgStr": "İyilerdir."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0088",
+        "msgStr": "Kötülerdir."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0089",
+        "msgStr": "Ben sadece işimi yapıyorum..."
+      },
+      {
+        "msgID": "DVLTKMES_008_L0090",
+        "msgStr": "çoK HAvAlıSıN! aL sAnA bİR ŞEkeR!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0091",
+        "msgStr": "SEn eN İyisİSin... İŞtE bU bEnİ aTeŞlİyOr!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0092",
+        "msgStr": "sEn bİR KÜltÜr aDAmIsIN! yeNİlİK! kURumSAlCılıKkkKKk!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0093",
+        "msgStr": "SeN haRBİdEn bİR HarİkAsIıIıIIIın! BİzE kATıLllLLlLlLLL!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0094",
+        "msgStr": "ÖöÖööööÖöfF! bEYnİn kARtONdAn mI sEnİıIıİn!?"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0095",
+        "msgStr": "sENi aNLamIyOoooOrUUM! tIpkI İZaFiYeT tEOrİsİ gİbİiiİiİiİİ!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0096",
+        "msgStr": "sENi dUYaMıyOOoOorUUm! bEn bİR İBliS oPeRA SAnAtçIsIyIM! LA la LaAaaAAaA!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0097",
+        "msgStr": "aAAaHhHHhHhh! cİDdi mİsİnNNnnNN!? çOK kORkuUuUUUuuYorUm!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0098",
+        "msgStr": "kARboNAt kAdAr aCıSıNnnNnn!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0099",
+        "msgStr": "BU sEnİ bİR saBUn kÖpÜüÜÜüÜüğÜ kAdAR yOnTulMAmıŞ yApaR!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0100",
+        "msgStr": "hYaHAhAHAha! hADi o ZAMaN! bAnA bENi sEViyOrmUŞ gİbİ bAaaAaaAk!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0101",
+        "msgStr": "tURşU kAVanoZUnuN kAPağI sIkIşmIŞkEn oLAmAm! aSLa aÇıLmAyAcAK! sANA tUrŞU mUrŞu yOK!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0102",
+        "msgStr": "SEni tOPluMUuUUUuun kÖLesİ!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0123",
+        "msgStr": "İbLİslerİ aVLayAn İBliSleEEeEEEr!"
+      },
+      {
+        "msgID": "DVLTKMES_008_L0124",
+        "msgStr": "MAG mI? MAG dEğİl mİ? mUSkAt mI?"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:48:53"
+}

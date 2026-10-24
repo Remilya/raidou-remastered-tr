@@ -1,0 +1,129 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MSKHELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MSKHELP_L0000",
+        "msgStr": "Hedefi tutuşturur."
+      },
+      {
+        "msgID": "MSKHELP_L0001",
+        "msgStr": "Beklendiği üzere hedefi kelimenin tam anlamıyla soğutur; çoğu zaman tamamen dondurur."
+      },
+      {
+        "msgID": "MSKHELP_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0004",
+        "msgStr": "Soruşturmada kaba kuvvet kullanır."
+      },
+      {
+        "msgID": "MSKHELP_L0005",
+        "msgStr": "Hedefin düşüncelerini duymanızı sağlar."
+      },
+      {
+        "msgID": "MSKHELP_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0008",
+        "msgStr": "Yerden havalanıp uçarak hareket eder."
+      },
+      {
+        "msgID": "MSKHELP_L0009",
+        "msgStr": "Kendi başınıza giremeyeceğiniz kadar dar alanlara girmenizi sağlar."
+      },
+      {
+        "msgID": "MSKHELP_L0010",
+        "msgStr": "Bir şimşek çakmasıyla gizli nesneleri ortaya çıkarır."
+      },
+      {
+        "msgID": "MSKHELP_L0011",
+        "msgStr": "Bölgedeki iblisleri ve kalan eşyaları tespit eder."
+      },
+      {
+        "msgID": "MSKHELP_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0013",
+        "msgStr": "Çağrıldıktan sonra belirli sayıda ay evresi geçtiğinde etkinleşir. Sonucu tahmin edilemez."
+      },
+      {
+        "msgID": "MSKHELP_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0016",
+        "msgStr": "Hedefi büyüler."
+      },
+      {
+        "msgID": "MSKHELP_L0017",
+        "msgStr": "Yürürken ara sıra para bulma şansı verir."
+      },
+      {
+        "msgID": "MSKHELP_L0018",
+        "msgStr": "Yürürken ara sıra eşya bulma şansı verir."
+      },
+      {
+        "msgID": "MSKHELP_L0019",
+        "msgStr": "Bir sonraki yeni aya kadar iblis karşılaşmalarını artırır."
+      },
+      {
+        "msgID": "MSKHELP_L0020",
+        "msgStr": "Bir sonraki yeni aya kadar iblis karşılaşmalarını azaltır."
+      },
+      {
+        "msgID": "MSKHELP_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MSKHELP_L0027",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:36:54"
+}

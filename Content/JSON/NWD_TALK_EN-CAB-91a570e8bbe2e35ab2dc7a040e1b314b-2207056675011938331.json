@@ -1,0 +1,1917 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "NWD_TALK_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK01_000",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0000",
+        "msgStr": "<lips 14 5>\nBurada pek çok söylentinin dolaştığını göreceksiniz.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK01_002_001",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0001",
+        "msgStr": "<lips 14 5>\nKulak misafiri olduğunuz şeyler işinize yarayabilir, Bay Kuzunoha.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK02_002",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0002",
+        "msgStr": "<lips 14 5>\nYeni bir gazozumuz geldi. Buyurun, biraz deneyin!\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK03_003",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0003",
+        "msgStr": "<lips 14 5>\nAa, kedileri bu kadar sevdiğinizi bilmiyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK03_002_004",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0004",
+        "msgStr": "<lips 14 5>\nKediler harikadır. Bir kediyi okşadığımda tüm dertlerim eriyip gider.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK04_005",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0005",
+        "msgStr": "<lips 14 5>\nPek çok insan kedilerine Paslı ya da Prenses gibi isimler verir.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK04_002_006",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0006",
+        "msgStr": "<lips 14 5>\nBen bir kediye asla bu kadar sıradan bir isim vermezdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK05_007",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0007",
+        "msgStr": "<lips 14 5>\nGeçen gün bir sokak kedisi sahiplendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK05_002_008",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0008",
+        "msgStr": "<lips 14 5>\nZavallıcık dükkânın önünde açlıktan miyavlıyordu...\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK05_003_009",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0009",
+        "msgStr": "<lips 14 5>\nÇok kıymetli bir şey. Ona bir isim bulmaya çalışıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK06_010",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0010",
+        "msgStr": "<lips 14 5>\nİlk kedinin yanına bir sokak kedisi daha aldım.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK06_002_011",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0011",
+        "msgStr": "<lips 14 5>\nBu seferki benekli. Diğeri kadar da sevimli!\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK07_012",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0012",
+        "msgStr": "<lips 14 5>\nAcaba kedilerin de bizimki gibi bir istihbarat ağı olabilir mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK07_002_013",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0013",
+        "msgStr": "<lips 14 5>\nSoruyorum çünkü burada daha fazla sokak kedisi toplanmaya başladı.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK07_003_014",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0014",
+        "msgStr": "<lips 14 5>\nSevimliler ama... hepsini doyurmak pahalıya patlıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK08_015",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0015",
+        "msgStr": "<lips 14 5>\nBay Kuzunoha, sizinle konuşabilir miyim?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK08_002_016",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0016",
+        "msgStr": "<lips 14 5>\nO kedilerin her birini çok seviyorum ama başa çıkamayacağım kadar çoğaldılar.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK08_003_017",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0017",
+        "msgStr": "<lips 14 5>\nBu yüzden birkaçını sahiplendirmeyi düşünüyordum.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK08_004_018",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0018",
+        "msgStr": "<lips 14 5>\nYa siz? Bir kedi daha ister miydiniz?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK09_019",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0019",
+        "msgStr": "<lips 14 5>\nSokak kedilerinden birini almaya gönüllü birini buldum.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK09_002_020",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0020",
+        "msgStr": "<lips 14 5>\nAma... kediyi tam ona verirken kediye baktım ve zihnim bulanıklaştı...\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK09_003_021",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0021",
+        "msgStr": "<lips 14 5>\nNe olduğunu anlamadan kadına fikrimi değiştirdiğimi söyledim.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK09_004_022",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0022",
+        "msgStr": "<lips 14 5>\nBedenim ele geçirilmiş gibi tuhaf hissettim.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK10_023",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0023",
+        "msgStr": "<lips 14 5>\nBay Kuzunoha... Son zamanlarda kendimi tuhaf hissediyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK10_002_024",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0024",
+        "msgStr": "<lips 14 5>\nGülmeyin ama... kedileri insan olarak görmeye başladım.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK10_003_025",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0025",
+        "msgStr": "<lips 14 5>\nÖzellikle de yeni gelen şu kediyi. O kadar... güzel ki...\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_MASTER_RANK10_004_026",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_TALK_L0026",
+        "msgStr": "<lips 14 5>\nN-Ne diyorum ben? Siz bana aldırmayın!\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_01_027",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0027",
+        "msgStr": "Demek yeni Kuzunoha sensin ha?"
+      },
+      {
+        "msgID": "NWD_TALK_L0028",
+        "msgStr": "İblisleri katletmek istiyorsan kas gücünden fazlası gerekir; kafanın da çalışması lazım."
+      },
+      {
+        "msgID": "NWD_TALK_L0029",
+        "msgStr": "Bilmek istediğin bir şey varsa sorman yeterli."
+      },
+      {
+        "msgID": "NWD_TALK_L0030",
+        "msgStr": "Temel savaş"
+      },
+      {
+        "msgID": "NWD_TALK_L0031",
+        "msgStr": "Silahlar ve kılıçlar"
+      },
+      {
+        "msgID": "NWD_TALK_L0032",
+        "msgStr": "Yetenekler ve Ruh Gücü"
+      },
+      {
+        "msgID": "NWD_TALK_L0033",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_02_028",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0034",
+        "msgStr": "Dersimiz: savaşın en temel ilkesi, yani düşmanının <COLOR 3>zayıflığından<COLOR 0> faydalanmak."
+      },
+      {
+        "msgID": "NWD_TALK_L0035",
+        "msgStr": "Ateş, Buz, Güç, Elektrik, Fiziksel, Ölüm... Tüm iblislerin mutlaka bir tür zayıflığı vardır."
+      },
+      {
+        "msgID": "NWD_TALK_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0037",
+        "msgStr": "Yatagarasu sana düşman zayıflıklarını tespit etmeni sağlayan <COLOR 3>Mistik Göz<COLOR 0>'ü verdi, değil mi? Bunu nereden bildiğimi boş ver. Önemli olan şu ki..."
+      },
+      {
+        "msgID": "NWD_TALK_L0038",
+        "msgStr": "Zayıflıkları hedef almak istiyorsan, <COLOR 3>MAG Sömürüsü<COLOR 0> ile kaynaklarını biriktirmeli ve ardından <COLOR 3>iblislerinin yeteneklerini kullanmalısın<COLOR 0>."
+      },
+      {
+        "msgID": "NWD_TALK_L0039",
+        "msgStr": "Bir zayıflığa başarıyla vurduğunda düşman hareketsiz kalır ve bu da sana devasa hasar vermek için bir açıklık yaratır."
+      },
+      {
+        "msgID": "NWD_TALK_L0040",
+        "msgStr": "Ve eğer zayıflıklarını kalkanla korumaya çalışırlarsa... Hiçbir kalkan <COLOR 1>söz konusu zayıflığa yapılan tekrarlı saldırılara<COLOR 0> dayanamaz!"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_03_029",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0041",
+        "msgStr": "Görüyorum ki hem silah hem de kılıç kullanan bir savaşçısın."
+      },
+      {
+        "msgID": "NWD_TALK_L0042",
+        "msgStr": "Dersimiz: silah ve kılıcı bir arada kullanarak etkili bir şekilde savaşmak."
+      },
+      {
+        "msgID": "NWD_TALK_L0043",
+        "msgStr": "Silahın çok fazla hasar vermeyebilir ama <COLOR 3>düşman hareketlerini engellemekte<COLOR 0> çok etkilidir."
+      },
+      {
+        "msgID": "NWD_TALK_L0044",
+        "msgStr": "Bunu, kıstırması zor olan veya kontrol altında tutulmadığında tehdit oluşturan düşmanlara karşı oldukça faydalı bulacaksın."
+      },
+      {
+        "msgID": "NWD_TALK_L0045",
+        "msgStr": "Şimdi de ana saldırı yöntemin olan kılıcına gelelim."
+      },
+      {
+        "msgID": "NWD_TALK_L0046",
+        "msgStr": "Kılıçla savaşırken, <COLOR 3>düşmanla aranda uygun mesafeyi korumanın<COLOR 0> yanı sıra <COLOR 3>ne zaman saldırıp ne zaman savunma yapacağının<COLOR 0> da her zaman farkında olmalısın."
+      },
+      {
+        "msgID": "NWD_TALK_L0047",
+        "msgStr": "Sadece saldırıya odaklanmak, yıkıcı bir düşman karşı saldırısının hedefi olmanın en garantili yoludur."
+      },
+      {
+        "msgID": "NWD_TALK_L0048",
+        "msgStr": "Saldırını yarıda kesmen gerektiğinde, gelen saldırılardan kaçınmak için <COLOR 3>yuvarlanarak kaçın<COLOR 0> ya da <COLOR 3>geriye kaçın<COLOR 0>."
+      },
+      {
+        "msgID": "NWD_TALK_L0049",
+        "msgStr": "Ve karşılık vermek için bir açıklık gördüğünde, <COLOR 3>Kaplan Saplaması<COLOR 0> ile saldırına kaldığın yerden devam et."
+      },
+      {
+        "msgID": "NWD_TALK_L0050",
+        "msgStr": "Düşman saldırmaya devam ederse arana mesafe koy, ardından silahınla ya da <COLOR 3>Yıldırım Darbesi<COLOR 0> ile bir açıklık yaratmaya çalış."
+      },
+      {
+        "msgID": "NWD_TALK_L0050_01",
+        "msgStr": "Etrafın düşmanlarla sarılırsa, <COLOR 3>Sağanak Darbesi<COLOR 0> veya <COLOR 3>Titan Kesişi<COLOR 0> çevrendeki alanı temizlemene yardımcı olur."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_04_030",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0051",
+        "msgStr": "Dersimiz: yeteneklerini sonuna kadar kullan ve Ruh Gücünü serbest bırak. Seni gerçek bir İblis Çağırıcısı yapacak olan şey budur."
+      },
+      {
+        "msgID": "NWD_TALK_L0052",
+        "msgStr": "Sana bahşedilen Çağırıcı Yetenekleri arasında <COLOR 3>Savaş Yetenekleri<COLOR 0> olarak bilinen yetenekler vardır."
+      },
+      {
+        "msgID": "NWD_TALK_L0053",
+        "msgStr": "Bu Savaş Yetenekleri sıradan kılıç saldırılarından daha güçlüdür, ancak birini kullandıktan sonra tekrar kullanabilmek için <COLOR 3>biraz beklemen<COLOR 0> gerekir."
+      },
+      {
+        "msgID": "NWD_TALK_L0054",
+        "msgStr": "Doğru anı bul ve onlarla darbeni indir!"
+      },
+      {
+        "msgID": "NWD_TALK_L0055",
+        "msgStr": "İstediğin zaman hangi Savaş Yeteneklerini kuşanacağını seçebilirsin; bu yüzden <COLOR 3>savaştığın düşman türlerine ve kendi artan gücüne göre onları değiştirdiğinden<COLOR 0> emin ol."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_04_030_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_TALK_L0056",
+        "msgStr": "<COLOR 3>Savaş Yeteneklerini değiştirmek için ana menüye gidin ve <BTN_X> ile Çağırıcı Yetenekleri'ni seçin. Savaş sırasında savaş menüsünü açın ve <BTN_OP2> ile Çağırıcı Yetenekleri'ni seçin.<COLOR 0>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_04_030_02",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0057",
+        "msgStr": "Ayrıca güçlü bir <COLOR 3>Ruh Kesişi<COLOR 0> gerçekleştirerek Ruh Gücünden faydalanabilirsin."
+      },
+      {
+        "msgID": "NWD_TALK_L0058",
+        "msgStr": "Ruh Kesişi <COLOR 3>tüm düşmanlara isabet eder<COLOR 0> ve <COLOR 3>element uyumunu otomatik olarak en çok hasar verecek olana dönüştürür<COLOR 0>. En üstün saldırı yöntemidir!"
+      },
+      {
+        "msgID": "NWD_TALK_L0059",
+        "msgStr": "Savaşta <COLOR 3>Ruh Gücü<COLOR 0> biriktirirsin ve yalnızca tamamen dolduğunda bir Ruh Kesişi gerçekleştirebilirsin."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_04_030_03",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_TALK_L0059_01",
+        "msgStr": "<COLOR 3>Ruh Kesişi gerçekleştirmek için Ruh Gücü göstergesi doluyken <BTN_X>+<BTN_A> tuşlarına basın.<COLOR 0>"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_04_030_04",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0059_02",
+        "msgStr": "Ruh Gücünü tam olarak nasıl toplayacağına gelince, kedinin tuttuğu şu <COLOR 3>dedektif günlüğüne<COLOR 0> bir göz at."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_05_031",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0060",
+        "msgStr": "Dur bakalım. Gitmeden önce sana bir tavsiyem daha var."
+      },
+      {
+        "msgID": "NWD_TALK_L0061",
+        "msgStr": "Savaşta <COLOR 3>İblis Felaketi<COLOR 0>'ni serbest bırakmak için her fırsatı kolla."
+      },
+      {
+        "msgID": "NWD_TALK_L0062",
+        "msgStr": "İblis Felaketi'ni gerçekleştirmek için önce <COLOR 3>tekrarlı saldırılarla düşmanın dengesini bozman<COLOR 0> ya da <COLOR 3>kusursuz zamanlamayla bir saldırıdan kaçınman<COLOR 0> gerekir."
+      },
+      {
+        "msgID": "NWD_TALK_L0063",
+        "msgStr": "Başarıyla uygularsan yalnızca <COLOR 3>ağır hasar vermekle<COLOR 0> kalmaz, aynı zamanda düşmandan <COLOR 3>MAG çalarsın<COLOR 0>!"
+      },
+      {
+        "msgID": "NWD_TALK_L0064",
+        "msgStr": "Koşullar uygunsa <COLOR 3>önünde bir ışık parladığını göreceksin<COLOR 0>. Bu olduğunda fırsatını kaçırma. Yıkıcı bir darbe indirmek için <BTN_Y>+<BTN_B> tuşlarını kullan!"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep02_06_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_TALK_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep05_01_033",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0066",
+        "msgStr": "Oo, sen misin Kuzunoha. Görünüşe göre dünyada yükseliştesin."
+      },
+      {
+        "msgID": "NWD_TALK_L0067",
+        "msgStr": "Benim gözümde her zaman bir çaylak olacaksın ama daha az şanslı olanlara yardım etmekten mutluluk duyarım."
+      },
+      {
+        "msgID": "NWD_TALK_L0068",
+        "msgStr": "Ne dersin? İblis katletme uzmanından bir ders daha ister misin?"
+      },
+      {
+        "msgID": "NWD_TALK_L0069",
+        "msgStr": "Bir Çağırıcının nitelikleri"
+      },
+      {
+        "msgID": "NWD_TALK_L0070",
+        "msgStr": "Savaş erzakları"
+      },
+      {
+        "msgID": "NWD_TALK_L0071",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep05_02_034",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0072",
+        "msgStr": "Dersimiz: <COLOR 1>Büyü<COLOR 0> ve <COLOR 1>Şans<COLOR 0> nitelikleri düşündüğünden daha önemlidir."
+      },
+      {
+        "msgID": "NWD_TALK_L0073",
+        "msgStr": "Daha yüksek Büyü, <COLOR 1>büyü tabanlı Savaş Yeteneklerinin<COLOR 0> arkasında daha büyük bir güç demektir. Ayrıca Büyü niteliğin ne kadar yüksekse, düşmanların büyü saldırılarından o kadar az hasar alırsın."
+      },
+      {
+        "msgID": "NWD_TALK_L0074",
+        "msgStr": "Ve Büyü niteliğin belirli seviyelere ulaştığında, iblislerin senin gücüne <COLOR 3>kendi nitelik artışlarıyla<COLOR 0> karşılık verir!"
+      },
+      {
+        "msgID": "NWD_TALK_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0076",
+        "msgStr": "Bir İblis Çağırıcısı yalnızca fiziksel güçle savaşları etkili bir şekilde kazanamaz. Bunu unutma."
+      },
+      {
+        "msgID": "NWD_TALK_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0079",
+        "msgStr": "Sırada Şans var!"
+      },
+      {
+        "msgID": "NWD_TALK_L0080",
+        "msgStr": "Savaşta Şans, <COLOR 3>kritik vuruş oranını<COLOR 0> ve <COLOR 3>durum rahatsızlıklarına ne kadar açık olduğunu<COLOR 0> etkiler."
+      },
+      {
+        "msgID": "NWD_TALK_L0081",
+        "msgStr": "Ayrıca iblislerinin Soruşturma Yeteneklerini, özellikle de <COLOR 3>eşya bulmak ve üretmek<COLOR 0> için kullandıkları yetenekleri etkiler!"
+      },
+      {
+        "msgID": "NWD_TALK_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0083",
+        "msgStr": "İlk bakışta Büyü ve Şansın nasıl bir rol oynadığını anlamak kolay olmayabilir ama her ikisi de kendi çapında vazgeçilmezdir."
+      },
+      {
+        "msgID": "NWD_TALK_L0084",
+        "msgStr": "Gelişimini neye odaklamak istediğin konusunda dikkatlice düşün."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC01_ep05_03_035",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0085",
+        "msgStr": "Dersimiz: bir İblis Çağırıcısının her zaman yanında bulundurması gereken şeyler."
+      },
+      {
+        "msgID": "NWD_TALK_L0086",
+        "msgStr": "Bunların en önemlisi Zihin İksirleridir."
+      },
+      {
+        "msgID": "NWD_TALK_L0087",
+        "msgStr": "İblislerinin yakalanabileceği çeşitli durum rahatsızlıklarını iyileştirebilirler, bu yüzden yanında her zaman birkaç yedek bulundur."
+      },
+      {
+        "msgID": "NWD_TALK_L0088",
+        "msgStr": "Stokun azalıyorsa Konnou-ya'dan daha fazlasını satın alabilirsin."
+      },
+      {
+        "msgID": "NWD_TALK_L0089",
+        "msgStr": "Savaşta Patra yeteneğini kullanmak da faydalıdır. Hatta Patra çok daha geniş bir rahatsızlık yelpazesini iyileştirebilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0090",
+        "msgStr": "Her halükârda bir İblis Çağırıcısı hayatta kalmak için kaynaklarını iyi yönetmelidir. Dersimiz burada biter."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep02_01_036",
+        "msgStr": "Güzel Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0091",
+        "msgStr": "<COLOR 0>\nAa, demek Raidou XIV unvanını alan çocuk sensin?"
+      },
+      {
+        "msgID": "NWD_TALK_L0092",
+        "msgStr": "Başlarken herhangi bir yardıma ihtiyacın var mı tatlım?"
+      },
+      {
+        "msgID": "NWD_TALK_L0093",
+        "msgStr": "Konu iblisler olduğunda kimse işi benim kadar iyi bilemez."
+      },
+      {
+        "msgID": "NWD_TALK_L0094",
+        "msgStr": "Bu ufaklıkları araştırmadan edemiyorum. Fazla sevimliler!"
+      },
+      {
+        "msgID": "NWD_TALK_L0095",
+        "msgStr": "<COLOR 0>\nEe, ne bilmek istiyorsun?"
+      },
+      {
+        "msgID": "NWD_TALK_L0096",
+        "msgStr": "İblisler nasıl tüpe alınır"
+      },
+      {
+        "msgID": "NWD_TALK_L0097",
+        "msgStr": "İblislerle ne yapılır"
+      },
+      {
+        "msgID": "NWD_TALK_L0098",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep02_02_037",
+        "msgStr": "Güzel Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0099",
+        "msgStr": "<COLOR 0>\nBir iblisle savaşa başladıktan sonra tek yapman gereken ona yaklaşıp <COLOR 1>tüpe alma sanatını<COLOR 0> kullanmaktır. Önce zayıflığına vurmana bile gerek yoktur."
+      },
+      {
+        "msgID": "NWD_TALK_L0100",
+        "msgStr": "Ama bu dünyadaki diğer her şey gibi bu da kulağa geldiği kadar kolay değildir."
+      },
+      {
+        "msgID": "NWD_TALK_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0102",
+        "msgStr": "Öncelikle kendi seviyeni göz önünde bulundurmalısın."
+      },
+      {
+        "msgID": "NWD_TALK_L0103",
+        "msgStr": "Seviyen iblisin seviyesinden düşükse tüpe alma işlemi başarılı olmaz."
+      },
+      {
+        "msgID": "NWD_TALK_L0104",
+        "msgStr": "Böyle bir durumda tek seçeneğin gidip güçlenmek ve daha sonra tekrar denemektir."
+      },
+      {
+        "msgID": "NWD_TALK_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0110",
+        "msgStr": "Biliyor musun? Sana bir ipucu daha vereyim: çevrene dikkat et."
+      },
+      {
+        "msgID": "NWD_TALK_L0110_01",
+        "msgStr": "Tüpe alma sanatını kullanmaya hazırlanırken önce diğer tüm iblisleri yenmeyi düşün. Böylece dikkatini dağıtan bir şey olmadan hedefini yakalayabilirsin."
+      },
+      {
+        "msgID": "NWD_TALK_L0111",
+        "msgStr": "Hepsini anladın mı?"
+      },
+      {
+        "msgID": "NWD_TALK_L0112",
+        "msgStr": "Ha, <COLOR 1>aynı iblisi tekrar tekrar arana katabileceğini<COLOR 0> de unutma, yani istediğin kadarını tüpe alabilirsin."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep02_03_038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep02_04_039",
+        "msgStr": "Güzel Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0120",
+        "msgStr": "<COLOR 0>\nOnları tüpe aldıktan sonrasını mı soruyorsun? Tabii, sana anlatayım."
+      },
+      {
+        "msgID": "NWD_TALK_L0121",
+        "msgStr": "Elbette iblislerini yetiştirebilir ve savaşlarda yanında getirebilirsin."
+      },
+      {
+        "msgID": "NWD_TALK_L0122",
+        "msgStr": "Ama Başkentin hizmetindeki İblis Çağırıcısı olarak onları soruşturmalarında da kullanmak isteyeceksin."
+      },
+      {
+        "msgID": "NWD_TALK_L0123",
+        "msgStr": "Tüm iblislerin kendi Düzenlerine göre belirlenen bir Soruşturma Yeteneği vardır."
+      },
+      {
+        "msgID": "NWD_TALK_L0124",
+        "msgStr": "Sahadayken tek yapman gereken seçtiğin iblisi çağırmaktır, sonrasında hazırsın demektir."
+      },
+      {
+        "msgID": "NWD_TALK_L0125",
+        "msgStr": "İblislerin Çağırıcılarını arkadan hevesle takip etmelerine bayılıyorum..."
+      },
+      {
+        "msgID": "NWD_TALK_L0126",
+        "msgStr": "Ve tabii ki <COLOR 3>tek başına soruşturmaları<COLOR 0> da unutamayız."
+      },
+      {
+        "msgID": "NWD_TALK_L0127",
+        "msgStr": "Sonuçta iblisler, insanların giremediği her türlü yeri araştırabilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0128",
+        "msgStr": "Uçan bir iblis nehirlerin üzerinden veya yüksek yerlere uçabilir, küçük bir iblis ise dar alanlara sığabilir. Ve Yozlaşmış Geçitlerden yalnızca iblisler geçebilir."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep02_05_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_TALK_L0129",
+        "msgStr": "<COLOR 3>> İblislerin Soruşturma Yetenekleri kendi Düzenlerine bağlıdır.<COLOR 0>"
+      },
+      {
+        "msgID": "NWD_TALK_L0130",
+        "msgStr": "> Bazı yetenekler <COLOR 1>yalnızca belirli kişiler veya yerler üzerinde kullanılabilir<COLOR 0>. Ateş Düzeni'nin Tutuşturma yeteneği ve Pagan Düzeni'nin Zihin Okuma yeteneği buna örnektir."
+      },
+      {
+        "msgID": "NWD_TALK_L0131",
+        "msgStr": "> Bu tür Soruşturma Yetenekleri, yeteneği bilen bir iblisi çağırarak veya yanınızda bulundurarak, ardından yeteneğin kullanılacağı kişiye veya yere yaklaşarak kullanılabilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0132",
+        "msgStr": "> Sonrasında, Elektrik Düzeni'nin İnceleme yeteneği ve Rüzgâr Düzeni'nin Keşif yeteneği gibi <COLOR 1>istenildiği zaman kullanılabilen<COLOR 0> yetenekler vardır."
+      },
+      {
+        "msgID": "NWD_TALK_L0133",
+        "msgStr": "> Bu yetenekleri kullanmak için soruşturma menüsünden yeteneği seçin ya da doğrudan <BTN_L2> tuşuna basın."
+      },
+      {
+        "msgID": "NWD_TALK_L0134",
+        "msgStr": "> Son olarak, <COLOR 1>etrafta dolaşırken otomatik olarak etkisini gösteren<COLOR 0> yetenekler vardır. Bunlar arasında Hüner Düzeni'nin Gösteri yeteneği ve bir iblis Düzenine bağlı olmayan Toplayıcı yeteneği bulunur."
+      },
+      {
+        "msgID": "NWD_TALK_L0135",
+        "msgStr": "> Çeşitli iblisler bulundurmak, soruşturmalar sırasında en yüksek esnekliği sağlayacaktır."
+      },
+      {
+        "msgID": "NWD_TALK_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep02_06_041",
+        "msgStr": "Güzel Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0140",
+        "msgStr": "<COLOR 0>\nPekâlâ, bol şans tatlım Raidou."
+      },
+      {
+        "msgID": "NWD_TALK_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep05_01_042",
+        "msgStr": "Güzel Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0145",
+        "msgStr": "İşler nasıl gidiyor tatlım Raidou?"
+      },
+      {
+        "msgID": "NWD_TALK_L0146",
+        "msgStr": "Sevimli küçük iblislerine iyi bakıyor musun?"
+      },
+      {
+        "msgID": "NWD_TALK_L0147",
+        "msgStr": "İblis bakımı hakkında herhangi bir sorun varsa yardımcı olmaktan mutluluk duyarım!"
+      },
+      {
+        "msgID": "NWD_TALK_L0148",
+        "msgStr": "Ne hakkında bilgi almak istiyorsun?"
+      },
+      {
+        "msgID": "NWD_TALK_L0149",
+        "msgStr": "Savaşta iblislerin yeteneklerini kullanmak"
+      },
+      {
+        "msgID": "NWD_TALK_L0150",
+        "msgStr": "Kırmızı kristaller"
+      },
+      {
+        "msgID": "NWD_TALK_L0151",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep05_02_043",
+        "msgStr": "Güzel Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0152",
+        "msgStr": "İblislerinin Savaş Yeteneklerinden faydalanmak basittir. Onlara <COLOR 3>Yetenek Kullan<COLOR 0> emri vermen yeterlidir."
+      },
+      {
+        "msgID": "NWD_TALK_L0153",
+        "msgStr": "İblislerine \"Yetenek Kullan\" emri verdiğinde <COLOR 3>otomatik olarak düşman zayıflıklarını hedef alırlar ve ayrıca iyileştirme yeteneklerini kullanırlar<COLOR 0>."
+      },
+      {
+        "msgID": "NWD_TALK_L0154",
+        "msgStr": "<COLOR 3>Tüm iblislerini güçlü tutmaya<COLOR 0> özen göster. Böylece <COLOR 3>her türlü farklı durumda kullanabileceğin iblislerin olur<COLOR 0>."
+      },
+      {
+        "msgID": "NWD_TALK_L0155",
+        "msgStr": "Ayrıca <BTN_DL> veya <BTN_DR> tuşlarını kullanarak bir iblisinin yetenek kullanıp kullanmayacağını belirleyebileceğini unutma."
+      },
+      {
+        "msgID": "NWD_TALK_L0155_01",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0155_02",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC02_ep05_03_044",
+        "msgStr": "Güzel Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0156",
+        "msgStr": "Karanlık Diyar'da bazen kırmızı kristaller bulursun."
+      },
+      {
+        "msgID": "NWD_TALK_L0157",
+        "msgStr": "Hazine sandıkları gibidirler, tek farkı insanların onları açamamasıdır."
+      },
+      {
+        "msgID": "NWD_TALK_L0158",
+        "msgStr": "Öte yandan iblisler onları kırıp açabilir ve içindekileri alabilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0159",
+        "msgStr": "İçinden ne çıkacağı iblisin kişiliğine bağlıdır, bu yüzden hangi iblisi kullandığına dikkat et."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC03_ep02_01_045",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0160",
+        "msgStr": "Ooo, tam zamanında geldin evlat! Az önce iyi bir şey hatırladım."
+      },
+      {
+        "msgID": "NWD_TALK_L0161",
+        "msgStr": "Senin gibi genç bir Çağırıcının işine yarayabilir. Duymak ister misin?"
+      },
+      {
+        "msgID": "NWD_TALK_L0162",
+        "msgStr": "Anladım."
+      },
+      {
+        "msgID": "NWD_TALK_L0163",
+        "msgStr": "Anlamadım."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC03_ep02_02_046",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0164",
+        "msgStr": "O zaman otur bakalım evlat. Bunu duyduğuna memnun olacaksın."
+      },
+      {
+        "msgID": "NWD_TALK_L0165",
+        "msgStr": "Şimdi dikkatlice dinle..."
+      },
+      {
+        "msgID": "NWD_TALK_L0166",
+        "msgStr": "Kedinin yazıp durduğu şu dedektif günlüğünü biliyorsun, değil mi? Onu baştan sona dikkatlice okuduğundan emin ol."
+      },
+      {
+        "msgID": "NWD_TALK_L0167",
+        "msgStr": "Tüm genç Çağırıcıların bilmesi gereken bilgilerle dolu. İnsanı o kedinin bütün bunları nereden öğrendiği konusunda gerçekten düşündürüyor."
+      },
+      {
+        "msgID": "NWD_TALK_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC03_ep02_03_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_TALK_L0172",
+        "msgStr": "<COLOR 3>> Dedektif günlüğüne ana menüden veya savaş menüsünden ya da soruşturma menüsünden Dedektif Günlüğü'nü seçerek erişilebilir.<COLOR 0>"
+      },
+      {
+        "msgID": "NWD_TALK_L0173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC03_ep05_01_048",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0177",
+        "msgStr": "Ooo, tam zamanında geldin evlat! Az önce iyi bir şey hatırladım."
+      },
+      {
+        "msgID": "NWD_TALK_L0178",
+        "msgStr": "Aklıma birkaç şey geliyor. Hangisini öğrenmek istersin?"
+      },
+      {
+        "msgID": "NWD_TALK_L0179",
+        "msgStr": "Yeraltı Geçitleri"
+      },
+      {
+        "msgID": "NWD_TALK_L0180",
+        "msgStr": "Kırmızı Pelerinler"
+      },
+      {
+        "msgID": "NWD_TALK_L0181",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC03_ep05_02_049",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0182",
+        "msgStr": "Yeraltı Geçitleri... Her birinin farklı bir zayıflığı vardır, bu yüzden buna dikkat et."
+      },
+      {
+        "msgID": "NWD_TALK_L0183",
+        "msgStr": "Zayıflığına vurmazsan tuğla duvara yumruk atmaktan farkı olmaz. İşe yaramaz."
+      },
+      {
+        "msgID": "NWD_TALK_L0184",
+        "msgStr": "Çeşitli Yeraltı Geçitleriyle başa çıkmak için yanında farklı türde iblisler ve mermiler bulundurduğundan emin ol."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC03_ep05_03_050",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0185",
+        "msgStr": "Kimse Kırmızı Pelerinler hakkında pek bir şey bilmiyor. Kimdirler? Ne için buradalar? Hepsi muamma."
+      },
+      {
+        "msgID": "NWD_TALK_L0186",
+        "msgStr": "Ama Başkentin dört bir yanında ortaya çıktıklarına göre bir işler çevirdikleri kesin."
+      },
+      {
+        "msgID": "NWD_TALK_L0187",
+        "msgStr": "Dikkatli ol evlat, sonunda sen de bir Kırmızı Pelerin'e dönüşme."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC03_ep10_01_051",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0188",
+        "msgStr": "Ooo, tam zamanında geldin evlat! Az önce iyi bir şey hatırladım."
+      },
+      {
+        "msgID": "NWD_TALK_L0189",
+        "msgStr": "Kasumidai'nin hemen kuzeyinde Kasumi Açıklığı adında küçük bir orman var."
+      },
+      {
+        "msgID": "NWD_TALK_L0190",
+        "msgStr": "Duyduğuma göre orada yalnızca seçkin birkaç kişinin bildiği, yeraltına inen gizli bir geçit varmış."
+      },
+      {
+        "msgID": "NWD_TALK_L0191",
+        "msgStr": "Gerçi oraya tramvayla gidemezsin. Deniz yoluyla gitmen gerekir, bunu aklında bulundur."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC03_ep11_01_052",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "NWD_TALK_L0192",
+        "msgStr": "Ooo, tam zamanında geldin evlat! Az önce iyi bir şey hatırladım."
+      },
+      {
+        "msgID": "NWD_TALK_L0193",
+        "msgStr": "İblisini tek başına gönderdikten sonra bir kavgaya tutuştuğunda onun Düzenine dikkat et."
+      },
+      {
+        "msgID": "NWD_TALK_L0194",
+        "msgStr": "İblisin kazanamayacağı bir kavgaya bulaşırsa her şey biter."
+      },
+      {
+        "msgID": "NWD_TALK_L0195",
+        "msgStr": "İblisinin zayıflığı <COLOR 1>Güç<COLOR 0> veya <COLOR 1>Buz<COLOR 0> gibi bir şeyse işler çirkinleşebilir."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep02_01_053",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0196",
+        "msgStr": "Aa! Japon bir Çağırıcı mısınız?"
+      },
+      {
+        "msgID": "NWD_TALK_L0197",
+        "msgStr": "Ben de bir Çağırıcıyım. Daha fazlasını öğrenmek için Japonya'ya geldim."
+      },
+      {
+        "msgID": "NWD_TALK_L0198",
+        "msgStr": "Size öğrendiklerimi anlatabilirim."
+      },
+      {
+        "msgID": "NWD_TALK_L0199",
+        "msgStr": "Duyduğum söylentileri bilmek ister misiniz?"
+      },
+      {
+        "msgID": "NWD_TALK_L0200",
+        "msgStr": "Konnou-ya söylentisi"
+      },
+      {
+        "msgID": "NWD_TALK_L0201",
+        "msgStr": "Gazozcu söylentisi"
+      },
+      {
+        "msgID": "NWD_TALK_L0202",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep02_02_054",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0203",
+        "msgStr": "Ah, Konnou-ya mı? Sahibi çok... nasıl diyorsunuz... inatçı mı?"
+      },
+      {
+        "msgID": "NWD_TALK_L0204",
+        "msgStr": "<COLOR 3>Fiyatları düşürür<COLOR 0> ve <COLOR 3>yeni şeyler satar<COLOR 0>, ama yalnızca çok alışveriş yapan en sevdiği müşterileri için."
+      },
+      {
+        "msgID": "NWD_TALK_L0205",
+        "msgStr": "Bu çok kötü! Onun dükkânından uzak durmak için not aldım."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep02_03_055",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0206",
+        "msgStr": "Aa, burası mı? Shin-Sekai çok güzel bir yer."
+      },
+      {
+        "msgID": "NWD_TALK_L0207",
+        "msgStr": "Buraya sık gelirseniz <COLOR 3>size daha fazla çeşit gazoz sunarlar<COLOR 0>."
+      },
+      {
+        "msgID": "NWD_TALK_L0208",
+        "msgStr": "Ama görünüşe göre buraya daha yeni gelmeye başlamışsınız, yani bu henüz sizin için geçerli değil."
+      },
+      {
+        "msgID": "NWD_TALK_L0209",
+        "msgStr": "Japon yeraltı dünyasının insanları gazozların üzerlerinde bıraktığı etkiler için buraya gelirler."
+      },
+      {
+        "msgID": "NWD_TALK_L0210",
+        "msgStr": "Ama unutmayın, etkileri yalnızca yeni aya kadar sürer. Bunu mutlaka not ettim."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep04_01_056",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0211",
+        "msgStr": "Ah, Bay Çağırıcı! Görüşmeyeli uzun zaman oldu! Çok daha fazla şey öğrendim."
+      },
+      {
+        "msgID": "NWD_TALK_L0212",
+        "msgStr": "Duyduğum söylentileri bilmek ister misiniz?"
+      },
+      {
+        "msgID": "NWD_TALK_L0213",
+        "msgStr": "Dükkân söylentileri"
+      },
+      {
+        "msgID": "NWD_TALK_L0214",
+        "msgStr": "Gizli hazine söylentisi"
+      },
+      {
+        "msgID": "NWD_TALK_L0215",
+        "msgStr": "Cengiz Han söylentisi"
+      },
+      {
+        "msgID": "NWD_TALK_L0216",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep04_02_057",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0217",
+        "msgStr": "Ah, efsanevi oyun taşlarından bahsediyorsunuz!"
+      },
+      {
+        "msgID": "NWD_TALK_L0218",
+        "msgStr": "Dört takım taş var ve duyduğuma göre hepsi Başkentin bir yerlerindeymiş."
+      },
+      {
+        "msgID": "NWD_TALK_L0219",
+        "msgStr": "Duyduğuma göre ait oldukları oyun çok güzelmiş ve hem insanlar hem de iblisler oynamayı çok seviyormuş."
+      },
+      {
+        "msgID": "NWD_TALK_L0220",
+        "msgStr": "Taş takımlarının bir <COLOR 3>fabrikada<COLOR 0>, <COLOR 3>deniz kenarındaki bir mahallede<COLOR 0> ve <COLOR 3>tuhaf bir laboratuvarda<COLOR 0> olduğu söyleniyor."
+      },
+      {
+        "msgID": "NWD_TALK_L0221",
+        "msgStr": "Ha, bir takımın da yalnızca Çağırıcıların ulaşabileceği bir <COLOR 3>eğitim alanında<COLOR 0> olduğu söyleniyor."
+      },
+      {
+        "msgID": "NWD_TALK_L0222",
+        "msgStr": "Ama oraya öylece gitmek yetmez. Ayrıca bölgeyi <COLOR 3>incelemeniz<COLOR 0> gerekir."
+      },
+      {
+        "msgID": "NWD_TALK_L0223",
+        "msgStr": "Bunların hepsini bir yere yazmalısınız. Benim yaptığım gibi not alın."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep04_03_058",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0224",
+        "msgStr": "Ah, ünlü fatih Cengiz Han."
+      },
+      {
+        "msgID": "NWD_TALK_L0225",
+        "msgStr": "Duyduğuma göre birisi tıpkı ona benzeyen bir adam görmüş."
+      },
+      {
+        "msgID": "NWD_TALK_L0226",
+        "msgStr": "Sadece ki-su-ne'nin bildiği bir yerdeymiş... \"Ki-su-ne\" mi? Hayır... Sadece tilkinin bildiği bir yerdeymiş."
+      },
+      {
+        "msgID": "NWD_TALK_L0227",
+        "msgStr": "Nasıl diyorsunuz...? Ki-su-ne... Hayır, durun! Kitsune! Buldum!"
+      },
+      {
+        "msgID": "NWD_TALK_L0228",
+        "msgStr": "Her neyse, unutmadan bunu bir yere not edin."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep07_01_059",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0229",
+        "msgStr": "Merhaba! Sizi tekrar görmek çok güzel, Bay Çağırıcı!"
+      },
+      {
+        "msgID": "NWD_TALK_L0230",
+        "msgStr": "Üzerinizde lanet mi var? Bu çok kötü."
+      },
+      {
+        "msgID": "NWD_TALK_L0231",
+        "msgStr": "Lanetinizin geçmesi için dua edeceğim."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep08_01_060",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0232",
+        "msgStr": "Ah, Bay Çağırıcı! Görüşmeyeli uzun zaman oldu! Çok daha fazla şey öğrendim."
+      },
+      {
+        "msgID": "NWD_TALK_L0233",
+        "msgStr": "Duyduğum söylentileri bilmek ister misiniz?"
+      },
+      {
+        "msgID": "NWD_TALK_L0234",
+        "msgStr": "Dükkân söylentileri"
+      },
+      {
+        "msgID": "NWD_TALK_L0235",
+        "msgStr": "Eski söylentiler"
+      },
+      {
+        "msgID": "NWD_TALK_L0236",
+        "msgStr": "Yeni söylentiler"
+      },
+      {
+        "msgID": "NWD_TALK_L0237",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep08_02_061",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0238",
+        "msgStr": "Bu söylentileri Başkentte dolaşırken duydum."
+      },
+      {
+        "msgID": "NWD_TALK_L0239",
+        "msgStr": "Telefoncu kız söylentisi"
+      },
+      {
+        "msgID": "NWD_TALK_L0240",
+        "msgStr": "Eğitim Salonu söylentisi 1"
+      },
+      {
+        "msgID": "NWD_TALK_L0241",
+        "msgStr": "Eğitim Salonu söylentisi 2"
+      },
+      {
+        "msgID": "NWD_TALK_L0242",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep08_03_062",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0243",
+        "msgStr": "Telefoncu kızı duymadınız mı? Kendisi çok... nasıl diyorsunuz... gizemli?"
+      },
+      {
+        "msgID": "NWD_TALK_L0244",
+        "msgStr": "Duyduğuma göre <COLOR 3>kız ölmüş<COLOR 0>. Çok üzücü..."
+      },
+      {
+        "msgID": "NWD_TALK_L0245",
+        "msgStr": "Her neyse, Başkenti inşa ederken bir sürü de telefon kulübesi inşa etmişler."
+      },
+      {
+        "msgID": "NWD_TALK_L0246",
+        "msgStr": "Bazı insanlar bazen telefonun çaldığını duyduklarını ama açtıklarında kimsenin olmadığını söylüyor."
+      },
+      {
+        "msgID": "NWD_TALK_L0247",
+        "msgStr": "Ama... arayanın kim olduğunu duyamayanlar yalnızca insanlar."
+      },
+      {
+        "msgID": "NWD_TALK_L0248",
+        "msgStr": "Yalnızca <COLOR 3>kızı çok iyi tanıyan iblisler<COLOR 0> konuşanın kim olduğunu duyabilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0249",
+        "msgStr": "Bu önemli! Bununla ilgili bir not almalısınız."
+      },
+      {
+        "msgID": "NWD_TALK_L0250",
+        "msgStr": "Ama hangi iblisin kızı tanıdığını nasıl bilebilirsiniz ki? Test etmesi zor bir söylenti..."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep08_04_063",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0251",
+        "msgStr": "Eğitim Salonu mu? Her Çağırıcının bunu bildiğini sanıyordum."
+      },
+      {
+        "msgID": "NWD_TALK_L0252",
+        "msgStr": "Yeteneklerinizi geliştirmek için çok iyi bir yerdir."
+      },
+      {
+        "msgID": "NWD_TALK_L0253",
+        "msgStr": "Ayrıca pek çok sırrı barındırdığını duydum."
+      },
+      {
+        "msgID": "NWD_TALK_L0254",
+        "msgStr": "Eğitim Salonu'nun dört şubesi vardır."
+      },
+      {
+        "msgID": "NWD_TALK_L0255",
+        "msgStr": "Ama onlara ulaşmak için denizi geçmeniz gerekir. Bunu bir yere not etmelisiniz."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep08_05_064",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0256",
+        "msgStr": "Eğitim Salonu'nun dört şubesi vardır."
+      },
+      {
+        "msgID": "NWD_TALK_L0257",
+        "msgStr": "Onlarla ilgili farklı şeyler var. Size anlatayım."
+      },
+      {
+        "msgID": "NWD_TALK_L0258",
+        "msgStr": "İblis Çağırıcıları... ne diyorsunuz... hazine elde etmek için Eğitim Salonlarına meydan okurlar."
+      },
+      {
+        "msgID": "NWD_TALK_L0259",
+        "msgStr": "Ama sınavlara Çağırıcılar girmez; onların yerine iblisleri girer."
+      },
+      {
+        "msgID": "NWD_TALK_L0260",
+        "msgStr": "Bunu not etmeyi unutmayın. Çok önemli!"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep08_06_065",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0261",
+        "msgStr": "Ha, bir şey daha var. İnanması güç ama bilmelisiniz."
+      },
+      {
+        "msgID": "NWD_TALK_L0262",
+        "msgStr": "Bazı insanların Karanlık Diyar'da insan yüzlü bir inek gördüğünü duydum."
+      },
+      {
+        "msgID": "NWD_TALK_L0263",
+        "msgStr": "Bulması kolay değilmiş ve onu görürseniz kaçıp gittiğini söylüyorlar."
+      },
+      {
+        "msgID": "NWD_TALK_L0264",
+        "msgStr": "Eğer onu bulursanız lütfen bana da anlatın!"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC04_ep11_01_066",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "NWD_TALK_L0265",
+        "msgStr": "Merhaba! Sizi tekrar görmek çok güzel, Bay Çağırıcı!"
+      },
+      {
+        "msgID": "NWD_TALK_L0266",
+        "msgStr": "Yanınızdaki kedi şimdi daha farklı görünüyor."
+      },
+      {
+        "msgID": "NWD_TALK_L0267",
+        "msgStr": "Hâlâ sevimli... ama bugün sanki daha olgun görünüyor?"
+      },
+      {
+        "msgID": "NWD_TALK_L0268",
+        "msgStr": "Lütfen bir ara onu tekrar sevmeme izin verin."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_ep02_01_067",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0269",
+        "msgStr": "Demek Raidou adını alan velet sensin ha?"
+      },
+      {
+        "msgID": "NWD_TALK_L0270",
+        "msgStr": "Valla bana sorarsan füzyonla dışkıyı bile ayırt edemeyen çelimsiz bir çocuğa benziyorsun."
+      },
+      {
+        "msgID": "NWD_TALK_L0271",
+        "msgStr": "Büyük ligde bir Çağırıcı olmak istiyorsan tavsiyelerime kulak versen iyi olur."
+      },
+      {
+        "msgID": "NWD_TALK_L0272",
+        "msgStr": "Goumaden'e düzenli olarak gidiyor musun?"
+      },
+      {
+        "msgID": "NWD_TALK_L0273",
+        "msgStr": "Victor her zaman yeni bir deney peşindedir. Adam iblisler hakkındaki bilgiye aç."
+      },
+      {
+        "msgID": "NWD_TALK_L0274",
+        "msgStr": "Onu ziyaret etmeli ve iblis füzyonunu deneyimlemelisin. Bana güven, zahmetine değecek."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_ep03_01_068",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0275",
+        "msgStr": "Kılıç Simyası'ndan faydalanıyor musun? Hani Goumaden'de iblis malzemelerini kılıçlarınla birleştirmeni sağlayan şu işlem."
+      },
+      {
+        "msgID": "NWD_TALK_L0276",
+        "msgStr": "İblis füzyonunun aksine bir ücret ödemen gerekir ama yeni bir kılıç dövdüğünde kendine yeni <COLOR 1>Çağırıcı Yetenekleri<COLOR 0> kazandırırsın."
+      },
+      {
+        "msgID": "NWD_TALK_L0277",
+        "msgStr": "Bunlar seni güçlendirecek ve dövüş tarzını değiştirmene olanak tanıyacak her türlü faydayı sağlar."
+      },
+      {
+        "msgID": "NWD_TALK_L0278",
+        "msgStr": "Kılıç Simyası olmadan bir Çağırıcı olarak pek ileri gidemezsin. Bunu unutma."
+      },
+      {
+        "msgID": "NWD_TALK_L0279",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_ep04_01_069",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0280",
+        "msgStr": "Aynı Düzen'den iki iblisi birleştirdiğinde <COLOR 1>Element Düzeni<COLOR 0>'nden bir iblis elde edersin."
+      },
+      {
+        "msgID": "NWD_TALK_L0281",
+        "msgStr": "Burası önemli: Element Düzeni, aklında füzyonla elde etmek istediğin belirli bir iblis olduğunda işine yarar."
+      },
+      {
+        "msgID": "NWD_TALK_L0282",
+        "msgStr": "Daha fazlasını öğrenmek istiyorsan git Victor'a sor."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_ep05_01_070",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0283",
+        "msgStr": "Element Düzeni'nden iki iblisi birbiriyle birleştirdiğinde <COLOR 1>Mitama Düzeni<COLOR 0>'nden bir iblis elde edebilirsin."
+      },
+      {
+        "msgID": "NWD_TALK_L0284",
+        "msgStr": "Burası önemli: Mitama Düzeni, diğer iblislerini güçlendirmek istediğinde işine yarar."
+      },
+      {
+        "msgID": "NWD_TALK_L0285",
+        "msgStr": "Daha fazlasını öğrenmek istiyorsan git Victor'a sor."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_ep06_01_071",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0286",
+        "msgStr": "Goumaden'deki İblis Rehberi'ni kullanıyor musun?"
+      },
+      {
+        "msgID": "NWD_TALK_L0287",
+        "msgStr": "Şimdi bir de Özel İblis Rehberi çıktığını duydum. Kahrolası Victor... İşini gerçekten biliyor."
+      },
+      {
+        "msgID": "NWD_TALK_L0288",
+        "msgStr": "İblis Rehberi yalnızca iblislerin niteliklerini kaydetmek için değildir. Bir iblisi füzyonda kullanmak üzere yeniden çağırmak için de kullanabilirsin."
+      },
+      {
+        "msgID": "NWD_TALK_L0289",
+        "msgStr": "Ancak iblisleri yeniden çağırmak için bir ücret ödemen gerekir, bu yüzden buna karar vermeden önce cüzdanına bir göz at."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_ep07_01_072",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0290",
+        "msgStr": "Belirli bir iblisin yeteneklerinin ne kadar gelişebileceğinin bir sınırı vardır."
+      },
+      {
+        "msgID": "NWD_TALK_L0291",
+        "msgStr": "Zirvesine ulaşmış iblisleri her zaman füzyonda kullanabilirsin ama..."
+      },
+      {
+        "msgID": "NWD_TALK_L0292",
+        "msgStr": "<COLOR 1>Tütsü<COLOR 0> kullanırsan bir iblisin temel niteliklerini artırarak sınırını yükseltebilirsin."
+      },
+      {
+        "msgID": "NWD_TALK_L0293",
+        "msgStr": "Bir iblise doğrudan belirli bir yetenek kazandırmak için <COLOR 1>yetenek kitapları<COLOR 0> kullanmayı da düşünebilirsin."
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_ep08_01_073",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0294",
+        "msgStr": "Bir sürü güçlü iblisi patakladığını duydum. Fena değil evlat."
+      },
+      {
+        "msgID": "NWD_TALK_L0295",
+        "msgStr": "Asıl soru şu: büyükbaşları da kontrol edebileceğini biliyor muydun?"
+      },
+      {
+        "msgID": "NWD_TALK_L0296",
+        "msgStr": "Goumaden'deki iblis füzyonunu iyi kullanırsan daha önce savaştığın güçlü düşmanlar senin safına geçebilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0297",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_ep09_01_074",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0298",
+        "msgStr": "Victor sana ne söylerse söylesin, iblis füzyonu kesin bir bilim değildir. Kazalar olur."
+      },
+      {
+        "msgID": "NWD_TALK_L0299",
+        "msgStr": "Ama bu her zaman kötü bir şey olmak zorunda değildir."
+      },
+      {
+        "msgID": "NWD_TALK_L0300",
+        "msgStr": "İblis Rehberi'nde iyi kayıtlar tutmak isteyebilirsin. Kazaların tam olarak nasıl işlediğini çözmene yardımcı olabilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0301",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_TALK_L0302",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_EP10_01_075",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0303",
+        "msgStr": "Görünüşe göre füzyon kazalarından doğan iblisler <COLOR 1>daha yüksek temel niteliklere<COLOR 0> sahip olma eğilimindedir."
+      },
+      {
+        "msgID": "NWD_TALK_L0304",
+        "msgStr": "Ve sanırım kazalar belirli \"kuralları\" takip ediyor ama ayrıntılarını bilmiyorum."
+      },
+      {
+        "msgID": "NWD_TALK_L0305",
+        "msgStr": "Söylentilere göre ayın evreleriyle ilgisi varmış."
+      },
+      {
+        "msgID": "NWD_TALK_L0306",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_EP11_01_076",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0307",
+        "msgStr": "Bazen füzyon kazaları sana <COLOR 1>tamamen beklenmedik bir iblis<COLOR 0> verebilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0308",
+        "msgStr": "Ama bu bazen iyi bir şey olabilir."
+      },
+      {
+        "msgID": "NWD_TALK_L0309",
+        "msgStr": "Yalnızca füzyon kazalarından elde edilebilen özel Pasif Yetenekler olduğunu bile duydum."
+      },
+      {
+        "msgID": "NWD_TALK_L0310",
+        "msgStr": "Böyle bir şeyi kendi gözlerimle görmeyi çok isterdim doğrusu."
+      },
+      {
+        "msgID": "NWD_TALK_L0311",
+        "msgStr": "Söylentiye göre ayın evreleri ve Çağırıcının durumu bir kazanın meydana gelme ihtimalini etkileyebilirmiş."
+      },
+      {
+        "msgID": "NWD_TALK_L0312",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_talk_NWD_NPC05_EP12_01_077",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "NWD_TALK_L0313",
+        "msgStr": "Hâlâ çaylak rolü mü oynuyorsun evlat? Bu numara artık kimseyi kandıramaz."
+      },
+      {
+        "msgID": "NWD_TALK_L0314",
+        "msgStr": "Füzyon hakkında sana anlatacak hiçbir şeyim kalmadı."
+      },
+      {
+        "msgID": "NWD_TALK_L0315",
+        "msgStr": "Senin gibi kıdemli bir Çağırıcı benim tavsiyeme ihtiyaç duymayacak kadar keskin zekâlıdır."
+      },
+      {
+        "msgID": "NWD_TALK_L0316",
+        "msgStr": "Dışarıda bol şans dostum."
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP02_01_0_078",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0317",
+        "msgStr": "<lips 7 5>\nDolunayda Kurisu-zaka'da Kırmızı Pelerin'i yakalarsan bana haber ver.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP02_01_1_079",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0318",
+        "msgStr": "<lips 7 5>\nEski dostun Kichou Asakura'ya özel haberi versen iyi olur!\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP02_01_2_080",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0319",
+        "msgStr": "<lips 7 5>\nSana güveniyorum, Raidou!\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP02_02_0_081",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0320",
+        "msgStr": "<lips 7 5>\nAa, Raidou. Kırmızı Pelerin'i buldun mu?<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0321",
+        "msgStr": "Evet, buldum."
+      },
+      {
+        "msgID": "NWD_TALK_L0322",
+        "msgStr": "Hayır, henüz değil."
+      },
+      {
+        "msgID": "NWD_TALK_L0323",
+        "msgStr": "<lips 7 5>\nG-Gerçekten mi!? Göster bakalım nerede! Bir fotoğraf çekmem lazım ve...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0324",
+        "msgStr": "<lips 7 5>\nHım? Kaçtı mı!?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0325",
+        "msgStr": "<lips 7 5>\nNe biçim bir dedektif Kırmızı Pelerin gibi bir suçlunun elini kolunu sallayarak kaçmasına izin verir!?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0326",
+        "msgStr": "<lips 7 5>\nSanırım şu süzme Narumi'nin huyu sana da bulaşmaya başlıyor, Raidou...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0327",
+        "msgStr": "<lips 7 5>\nTuhaf... Bilgiyi güvenilir bir kaynaktan almıştım...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0328",
+        "msgStr": "<lips 7 5>\nKusura bakma Raidou ama görünüşe göre soruşturmaya devam etmen gerekecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0329",
+        "msgStr": "<lips 7 5>\nBelki Narumi'ye söylemeden sana fazladan küçük bir cep harçlığı sıkıştırırım...\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP04_01_0_082",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0330",
+        "msgStr": "<lips 7 5>\nHey, Raidou...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0331",
+        "msgStr": "<lips 7 5>\nGeçen gün Daidouji Tekstil'de... tuhaf bir şey gördün mü?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0332",
+        "msgStr": "Kesinlikle gördüm."
+      },
+      {
+        "msgID": "NWD_TALK_L0333",
+        "msgStr": "Hayır, görmedim."
+      },
+      {
+        "msgID": "NWD_TALK_L0334",
+        "msgStr": "<lips 7 5>\nBir şey <IT_S>gördün<IT_E> mü gerçekten!?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0335",
+        "msgStr": "<lips 7 5>\nGördüğün şey... havada süzülen bebekler değildi, değil mi...?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0336",
+        "msgStr": "<lips 7 5>\nB-Boş ver! Söylediklerimi unut gitsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0337",
+        "msgStr": "<lips 7 5>\nDüşününce bile ürperiyorum...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0338",
+        "msgStr": "<lips 7 5>\nA-Anlıyorum. Pekâlâ... sorun değil. Söylediklerimi unut gitsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0339",
+        "msgStr": "<lips 7 5>\nBelki de rüyaydı. Ben de gerçeğe çok yaklaştığımı sanmıştım...\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP04_04_0_083",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0340",
+        "msgStr": "<lips 7 5>\nMinik bir kuş bana şu sıralar Harumi-cho'yu araştırdığını söyledi, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0341",
+        "msgStr": "<lips 7 5>\nSözü geçmişken, görünüşe göre Japon bayrağı taşıyan her tüccar saldırıya uğruyormuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0342",
+        "msgStr": "<lips 7 5>\nBazıları bunu canavarların yaptığını söylüyor... ama gerçek hikayenin bu olduğundan pek emin değilim.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0343",
+        "msgStr": "<lips 7 5>\nTam saldırılar başladığında güç kazanan şu yabancı tüccar—Elfman...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0344",
+        "msgStr": "<lips 7 5>\nBence buralarda araştırılması gereken biri varsa o da odur.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP06_01_0_084",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0345",
+        "msgStr": "<lips 7 5>\nGinza-cho'daki bir şantiyede çalışan bazı inşaat işçileri bir jizo heykeli bulmuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0346",
+        "msgStr": "<lips 7 5>\nBana sorarsan bir gidip bakmaya değer. Neden hemen el atmıyorsun, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP07_01_0_085",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0347",
+        "msgStr": "<lips 7 5>\nBir sorun mu var, Raidou? Yüzün biraz solgun görünüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0348",
+        "msgStr": "<lips 7 5>\nNarumi seni canın çıkana kadar koşturuyor, değil mi?<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0349",
+        "msgStr": "Evet, gerçekten öyle."
+      },
+      {
+        "msgID": "NWD_TALK_L0350",
+        "msgStr": "Hayır, öyle değil."
+      },
+      {
+        "msgID": "NWD_TALK_L0351",
+        "msgStr": "<lips 7 5>\nBiliyordum!\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0352",
+        "msgStr": "<lips 7 5>\nO tembel beleşçi her zaman bütün işi sana yıkıyor! Ne yüzsüzlük ama!\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0353",
+        "msgStr": "<lips 7 5>\nDaha iyi bir maaş ya da en azından biraz izin için greve gitmelisin.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0354",
+        "msgStr": "<lips 7 5>\nSen öyle diyorsan...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0355",
+        "msgStr": "<lips 7 5>\nGerçi arada sırada dinlensen daha verimli olursun diye düşünüyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0356",
+        "msgStr": "<lips 7 5>\nGel, neden yanıma oturup bir gazoz içmiyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP08_01_0_086",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0357",
+        "msgStr": "<lips 7 5>\nTam zamanında geldin, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0358",
+        "msgStr": "<lips 7 5>\nAz önce çok sağlam bir tüyo aldım. Duymak ister misin?<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0359",
+        "msgStr": "Elbette."
+      },
+      {
+        "msgID": "NWD_TALK_L0360",
+        "msgStr": "Pek sayılmaz."
+      },
+      {
+        "msgID": "NWD_TALK_L0361",
+        "msgStr": "<lips 7 5>\nKırmızı Pelerin'in kirli çamaşırlarını karıştırıyordum ve bil bakalım ne buldum.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0362",
+        "msgStr": "<lips 7 5>\nGörülme vakaları Başkent genelinde beş noktada yoğunlaşmış durumda...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0363",
+        "msgStr": "<lips 7 5>\nVe beşinin de yeri Kara Kuvvetleri'nin inşa ettiği şu radyo kuleleriyle örtüşüyor!\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0364",
+        "msgStr": "<lips 7 5>\nTesadüf olamayacak kadar kusursuz, değil mi? Bence de öyle. Benim için şu işi bir araştır, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0365",
+        "msgStr": "<lips 7 5>\nSen kaybedersin. Fikrini değiştirirsen yine gel.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP10_01_0_087",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0366",
+        "msgStr": "<lips 7 5>\nKısa süre önce Narumi buraya uğradı...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0367",
+        "msgStr": "<lips 7 5>\nKırk yılda bir ciddi görünüyordu. \"Soruşturmanı gizli tut,\" dedi.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0368",
+        "msgStr": "<lips 7 5>\nHah! Sanki Narumi gibi biri Kichou Asakura'yı böyle korkutup kaçırabilirmiş gibi!\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0369",
+        "msgStr": "<lips 7 5>\nGerçi bir şey beni endişelendiriyor. Benim için onu bir kontrol edebilir misin, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP11_01_088",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0370",
+        "msgStr": "<lips 7 5>\nOh be! Hayatımı kurtardın, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0371",
+        "msgStr": "<lips 7 5>\nTam Harumi-cho hakkındaki notlarımı düzenliyordum ki o baş belası araya girdi!\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0372",
+        "msgStr": "<lips 7 5>\nBazen güzel olmak insana bayağı yük oluyor...\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_talk_TAE_EP12_01_089",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_TALK_L0373",
+        "msgStr": "<lips 7 5>\nSen sadece doğru olduğuna inandığın şeyi yap ve İradene sadık kal.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_TALK_L0374",
+        "msgStr": "<lips 7 5>\nSeni destekliyorum, Raidou.\n<lips_stop>"
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/19 14:29:15"
+}

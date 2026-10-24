@@ -1,0 +1,917 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_EVT2_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "goh_evt2_EPI06_SCENE06_01_000",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0000",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0001",
+        "msgStr": "Ah, Kuzunoha. Görünüşe göre bugün yanında bir misafir getirmişsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI06_SCENE06_01_TUIKA01_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_EVT2_L0002",
+        "msgStr": "> Raidou, Victor'a kristal küreyi sordu."
+      },
+      {
+        "msgID": "goh_evt2_EPI06_SCENE06_01_TUIKA01_002",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0003",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0004",
+        "msgStr": "Burada, Başkent'te ruhani güce sahip bir kristal küre mi bulmak istiyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0005",
+        "msgStr": "Hm..."
+      },
+      {
+        "msgID": "GOH_EVT2_L0006",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0007",
+        "msgStr": "Bu ülkeye geldiğimden beri pek çok farklı alanda araştırmalar yürüttüm...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0008",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0009",
+        "msgStr": "Yakın geçmişte Başkent'i inşa eden bir keşişle ilgili bazı belgeler gördüğümü hatırlıyorum.<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0010",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0011",
+        "msgStr": "Başkent'i ruhani tehditlerden korumak için pek çok noktaya muhafız heykelleri yerleştirmiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0012",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0013",
+        "msgStr": "Bu beş heykelin her birinin bir rengi vardı ve <COLOR 1>Parlak Muhafızlar<COLOR 0> olarak biliniyorlardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0014",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0015",
+        "msgStr": "Ancak... yazılanlar gizli bir altıncı muhafızın varlığına işaret ediyordu.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0016",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0017",
+        "msgStr": "Bu altıncı heykelin diğerleri gibi bir rengi yoktu, bu yüzden Solgun Muhafız olarak anılmaya başlandı.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0018",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0019",
+        "msgStr": "Söylenenlere göre ruhani güç barındıran bir <COLOR 1>kristal<COLOR 0> ile donatılmış olan muhafız da işte buydu.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0020",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0021",
+        "msgStr": "Gerçi bu yazılar oldukça eskiydi. Daha yeni kayıtlar olduğundan şüpheliyim.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0022",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0023",
+        "msgStr": "O heykelin aradığın şey olup olmadığını kesin olarak bilmenin bir yolu yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0024",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0025",
+        "msgStr": "Eğer istersen gidip onu arayabilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0026",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0027",
+        "msgStr": "Doğru hatırlıyorsam, Solgun Muhafız Başkent'teki bir koyun yakınına yerleştirilmişti.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0028",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0029",
+        "msgStr": "Hatta <COLOR 1>Koy Muhafızı<COLOR 0> olarak da biliniyordu. Belki bu bir ipucu işlevi görür.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI06_SCENE06_16_002",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "GOH_EVT2_L0030",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0031",
+        "msgStr": "Solgun Muhafız... Daha önce böyle bir şeyi hiç duymamıştım.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0032",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0033",
+        "msgStr": "Etrafa bir soralım bakalım, belki bir duyan vardır, <NAME2N 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EPI06_SCENE06_18_TUIKA01_003",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "GOH_EVT2_L0036",
+        "msgStr": "Yolumuzun biraz dışında kalabilir ama belki Satake bizi Koy Muhafızı hakkında ayrıntılı bilgi sahibi birine yönlendirebilir."
+      },
+      {
+        "msgID": "GOH_EVT2_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_01_004",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0038",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0039",
+        "msgStr": "Yukarıda neler oluyor, Kuzunoha? Ciddi bir duruma benziyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0040",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0041",
+        "msgStr": "Ah, incelemem için bir şey mi getirdin?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_03_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_EVT2_L0042",
+        "msgStr": "> Raidou, Victor'a SS Proje Raporu'ndaki denklemi gösterdi."
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_04_006",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0043",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0044",
+        "msgStr": "...Bu da ne? Uzay yolculuğu üzerine bir tür kuram mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0045",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0046",
+        "msgStr": "Hmm, evet, bunu okuyabiliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_04_006_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "GOH_EVT2_L0046_01",
+        "msgStr": "Ya, okuyabiliyor musun!?"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_06_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_EVT2_L0047",
+        "msgStr": "> Raidou durumu Victor'a açıkladı."
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_07_008",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0048",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0049",
+        "msgStr": "Anlıyorum. Demek roketinizi fırlatmak için bu rapordaki bilgilere ihtiyacınız var.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0050",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0051",
+        "msgStr": "Eh, bu denklemle bir roket fırlatmak kesinlikle mümkün olur.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0052",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0053",
+        "msgStr": "Ancak Tai-itsu Uydusu'na ulaşıp ulaşamayacağı bambaşka bir mesele.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0054",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0055",
+        "msgStr": "Dünya'nın dönüşünü, atmosferik nemi, rüzgâr hızını, yerçekimini hesaba katmanız gerekir... Uydunun hızını ve irtifasını da unutmayalım.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0056",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0057",
+        "msgStr": "Tüm bu karmaşık değişkenleri göz önünde bulundurmadan roketinizin hedefine ulaşma şansı yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0058",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0059",
+        "msgStr": "Dahası, bu devirde hiçbir cihaz böylesine hassas hesaplamalar yapabilecek kapasitede değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_13_009",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "GOH_EVT2_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0061",
+        "msgStr": "Hesaplamaları senin yapmanın bir yolu yok mu, Victor?"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_15_010",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0062",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0063",
+        "msgStr": "Belki daha fazla zamanım olsaydı bir şeyler bulabilirdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0064",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0065",
+        "msgStr": "Şu sıralar bu karmaşıklıktaki hesaplamaları yapabilecek insansı bir otomat üzerinde çalışıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0066",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0067",
+        "msgStr": "Esasen düşünme kapasitesi insan beynini katbekat aşan yapay bir yaşam formu.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0068",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0069",
+        "msgStr": "Araştırmamı tamamlayabilseydim roketiniz için gereken hesaplamaları yapabilirdik.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE05_19_011",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "GOH_EVT2_L0070",
+        "msgStr": "Yapay bir yaşam formu mu? Dur bir dakika."
+      },
+      {
+        "msgID": "GOH_EVT2_L0071",
+        "msgStr": "Raidou, bu sana birini hatırlatmıyor mu?"
+      },
+      {
+        "msgID": "GOH_EVT2_L0072",
+        "msgStr": "Gelecekten gelen şu mekanik Karanlık Çağırıcıyı mesela?"
+      },
+      {
+        "msgID": "GOH_EVT2_L0073",
+        "msgStr": "Başkent'te tatil yapacağını falan söylememiş miydi?"
+      },
+      {
+        "msgID": "GOH_EVT2_L0073_01",
+        "msgStr": "Muhtemelen İblis Çağırıcılarının rahatça toplanabildiği bir yerdedir, değil mi?"
+      },
+      {
+        "msgID": "GOH_EVT2_L0074",
+        "msgStr": "Hadi, Raidou. Gidip Rasputin'i bulalım."
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_01_012",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0075",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0076",
+        "msgStr": "Gelecekte böylesine gelişmiş yapay yaşam formlarının var olacağını mı söylüyorsun bana!?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_02_013",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "GOH_EVT2_L0077",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0078",
+        "msgStr": "Hey, yeter artık kaba saba dikizlediğin! Beni derhâl tekrar birleştir!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0079",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0080",
+        "msgStr": "Bu muhteşem yüzü kusursuz bedenimden nasıl ayırırsın!?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_04_014",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0081",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0082",
+        "msgStr": "Böyle olmasını çok daha fazla tercih ederim. Kaçma riskin yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0083",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0084",
+        "msgStr": "Buyur bakalım, Kuzunoha. Ona ne istersen çekinmeden sorabilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0085",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0086",
+        "msgStr": "Sana gelince, benim sentetik, zaman yolcusu dostum... Sorularını yanıtlarsan bedenini yerine takarım.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_07_015",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "GOH_EVT2_L0087",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0088",
+        "msgStr": "Ah, şimdi anlaşıldı. O hesaplamalar için beynime ihtiyacınız var, da?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0089",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0090",
+        "msgStr": "Acele et de şu raporu bana tekrar göster!\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_09_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_EVT2_L0091",
+        "msgStr": "> Raidou, Rasputin'e SS Proje Raporu'nu gösterdi ve hangi hesaplamaların gerektiğini açıkladı."
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_10_017",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "GOH_EVT2_L0092",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0093",
+        "msgStr": "İlginç. Bir roketle Tai-itsu Uydusu'nu yok etmek istiyorsunuz demek...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0094",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0095",
+        "msgStr": "Şu Tsukumo'nun gerçekten etkileyici bir roketi var ama korkarım bu yeterli değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0096",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0097",
+        "msgStr": "Yakıt ve ağırlık bakımından matematiksel olarak imkânsız.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_14_018",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0100",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0101",
+        "msgStr": "O zaman bunu nasıl mümkün kılarız?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_15_019",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "GOH_EVT2_L0102",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0103",
+        "msgStr": "Eh, bana kalsaydı... Öncelikle güç çıkışını artırırdım.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0104",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0105",
+        "msgStr": "İdeal şartlarda, katı yakıtlı bir roket kadar gücümüz olurdu.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0106",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0107",
+        "msgStr": "Gelgelelim bu çağda bunun imkânsız olduğu ortada.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0108",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0109",
+        "msgStr": "Bu durumda, fırlatmadan sonra ağırlığını azaltan çok kademeli bir roket işe yarayabilir...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0110",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0111",
+        "msgStr": "Da, da ve sonra... Kuvvet çarpı kütle... Diferansiyeli al... Standart yerçekimini hesaba kat...\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_20_020",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "GOH_EVT2_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0116",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0117",
+        "msgStr": "Ve eğer yörüngesindeki Tai-itsu Uydusu ile temas kurmak istiyorsanız...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0118",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0119",
+        "msgStr": "Kusursuz fırlatma zamanı... bugün tam olarak saat 15:00 çıkıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0120",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0121",
+        "msgStr": "Simülasyonlarıma göre, elinizdeki kaynaklarla en iyi seçenek bu.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_25_021",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_EVT2_L0122",
+        "msgStr": "<lips 12 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0123",
+        "msgStr": "Yani bunu yaparlarsa roket uyduya ulaşabilecek mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_26_022",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "GOH_EVT2_L0124",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0125",
+        "msgStr": "Uyduya kesinlikle <IT_S>ulaşabilir<IT_E>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0125_01",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0125_02",
+        "msgStr": "Ancak bu onu yok etmeye yetmeyecektir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0126",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0127",
+        "msgStr": "Şemalara göre, içeride merkezi bir çekirdek bulunuyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0128",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0129",
+        "msgStr": "Onu yok etmeye niyetliyseniz, en iyi şansınız uyduya çıkıp o çekirdeği devre dışı bırakmak olur.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0130",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0131",
+        "msgStr": "Her halükârda, roketlerinizi nasıl fırlatacağınızı size söyledim.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0132",
+        "msgStr": "<lips 33 5>"
+      },
+      {
+        "msgID": "GOH_EVT2_L0133",
+        "msgStr": "Uyduyu nasıl yok edeceğinizi kendi başınıza çözebileceğinize inanıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_evt2_EPI11_SCENE07_31_023",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "GOH_EVT2_L0134",
+        "msgStr": "Demek bunu başarmak için hâlâ ufak da olsa bir umut ışığımız var..."
+      },
+      {
+        "msgID": "GOH_EVT2_L0135",
+        "msgStr": "Raidou, saat 15:00'e fazla vaktimiz kalmadı. Planı bir an önce Dr. Tsukumo'ya anlatsak iyi olur."
+      },
+      {
+        "msgID": "GOH_EVT2_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC13_01_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC13_04_025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC13_05_026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC13_06_027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC13_07_028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC18_01_029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC18_02_030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC18_07_031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC18_07_01_032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC18_08_033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC18_09_01_034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_evt2_EP05_SC18_09_02_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_EVT2_L0182",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:41:09"
+}

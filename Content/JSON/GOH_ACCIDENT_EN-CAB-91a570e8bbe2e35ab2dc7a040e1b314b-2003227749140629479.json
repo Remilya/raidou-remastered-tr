@@ -1,0 +1,781 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_ACCIDENT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_START_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_ZOROME_START_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_CONFIRM_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_CONFIRM_NO_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_CONFIRM_NO_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT1_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT1_01_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT1_PRESENT_ITEM_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT1_PRESENT_NOITEM_008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT1_NOPRESENT_ITEM_009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT2_010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT2_PRESENT_ITEM_011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT2_PRESENT_NOITEM_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT2_NOPRESENT_ITEM_013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT3_014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT3_01_015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT3_PRESENT_ITEM_016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT3_PRESENT_NOITEM_017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT3_NOPRESENT_ITEM_018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_PRESENT_ITEM_SYSTEM_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0044",
+        "msgStr": "> Raidou bir adet <COLOR 4><V 0><COLOR 0> verdi."
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_PRESENT_NOITEM_SYSTEM_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0045",
+        "msgStr": "> Raidou'da tek bir <COLOR 4><V 0><COLOR 0> bile yoktu..."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0046",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0047",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_FEVER_RESULT_021",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0048",
+        "msgStr": "Şey, ımm... Ne düşünüyorsun? Benim... iblis füzyonu teknolojim, şey...\n<mw 180>"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0049",
+        "msgStr": "Ba... Başarısız oldu...\n<mw 180>"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_RESULT_DEVIL_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0050",
+        "msgStr": "> Öngörülen sonuçtan farklı bir iblis doğdu."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0050_01",
+        "msgStr": "> Yeniden doğuşla birlikte nitelikler arttı!"
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_RESULT_PARAM_STR_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0051",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0>, <COLOR 1>+2<COLOR 0> Güç ile doğdu."
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_RESULT_PARAM_VIT_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0052",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0>, <COLOR 1>+2<COLOR 0> Dayanıklılık ile doğdu."
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_RESULT_PARAM_TEC_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0053",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0>, <COLOR 1>+2<COLOR 0> Büyü ile doğdu."
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_RESULT_PARAM_LUCK_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0054",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0>, <COLOR 1>+2<COLOR 0> Şans ile doğdu."
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_RESULT_OMOIDE_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0055",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 1><COLOR 0> Pasif Yeteneği ile doğdu."
+      },
+      {
+        "msgID": "goh_accident_GOH_ACCIDENT_RESULT_OMOIDE_WAKU_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0056",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0>, <COLOR 1>1<COLOR 0> fazladan Pasif Yetenek yuvası ile doğdu."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0057",
+        "msgStr": "Yani o kılıcı ve bu malzemeleri mi kullanacağız?"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0058",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0059",
+        "msgStr": "Hayır."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0060",
+        "msgStr": "O kılıca sahip değilsin."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0061",
+        "msgStr": "Gerekli malzemelere sahip değilsin."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0062",
+        "msgStr": "Görünüşe göre paran yetmiyor."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0063",
+        "msgStr": "O kılıçtan zaten yeterince yok mu?"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0064",
+        "msgStr": "O kılıçtan iki tane olması yeterli."
+      },
+      {
+        "msgID": "goh_accident_GOH_GIFT_MES_029",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0065",
+        "msgStr": "Ha, evet... İblisin füzyondan önce sana bir mektup bıraktı."
+      },
+      {
+        "msgID": "goh_accident_GOH_GIFT_MES_ITEM_030",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0066",
+        "msgStr": "Ha, evet... İblisin füzyondan önce sana bir mektup ve bir hediye bıraktı."
+      },
+      {
+        "msgID": "goh_accident_GOH_GIFT_GET_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0067",
+        "msgStr": "> Raidou mektupla birlikte <COLOR 4><V 0><COLOR 0> x<V 1> aldı."
+      },
+      {
+        "msgID": "goh_accident_GOH_GIFT_MES2_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0068",
+        "msgStr": "> Raidou mektubu açtı."
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0069",
+        "msgStr": "> Mektup <COLOR 3><V 0><COLOR 0> tarafından yazılmıştı."
+      },
+      {
+        "msgID": "goh_accident_GOH_GIFT_MES3_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0070",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG01_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0071",
+        "msgStr": "> İçinde Raidou'ya yönelik minnet dolu sözler yer alıyordu."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG02_035",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0072",
+        "msgStr": "> Etkileyici veda sözleri insanın içine işliyordu."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG03_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0073",
+        "msgStr": "> Gözyaşlarıyla ıslandığı için okunaksız hale gelmişti..."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG04_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0074",
+        "msgStr": "> İçinde Raidou hakkında uzun süredir birikmiş şikâyetler vardı."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG05_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0075",
+        "msgStr": "> Mektup yarım kalmıştı!"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG06_039",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0076",
+        "msgStr": "> Kanla yazılmıştı!"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG07_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0077",
+        "msgStr": "> Bu bir aşk itirafıydı!"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG08_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0078",
+        "msgStr": "> Berbat şakalarla doluydu..."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG09_042",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0079",
+        "msgStr": "> Başka birine hitaben yazılmıştı!"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG10_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0080",
+        "msgStr": "> İçine ürkütücü bir resim karalanmıştı..."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG11_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0081",
+        "msgStr": "> Karalamalarla doluydu."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG12_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0082",
+        "msgStr": "> Katlanıp kâğıttan uçak yapılmıştı!"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG13_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0083",
+        "msgStr": "> İndirim tarihlerini listeleyen ticari bir broşürdü!"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG14_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0084",
+        "msgStr": "> Raidou için duyulan endişelerle ve buna uygun hayat tavsiyeleriyle doluydu."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG15_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0085",
+        "msgStr": "> Herhangi bir insan dilinde yazılmış gibi görünmüyordu."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG16_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0086",
+        "msgStr": "> Salya bulaştığı için yazılar okunaksız hale gelmişti..."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG17_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0087",
+        "msgStr": "> Yazıya iblisin kendine has konuşma tarzı bile yansımıştı."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG18_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0088",
+        "msgStr": "> Kâğıt bomboştu!"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG19_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0089",
+        "msgStr": "> Raidou, temiz fırça darbelerinde yazarın içten duygularını hissedebiliyordu..."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG20_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0090",
+        "msgStr": "> Hayatı sorgulayan bir şiirdi!"
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG21_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0091",
+        "msgStr": "> Nedense içinde iblisin otobiyografisi yer alıyordu."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG22_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0092",
+        "msgStr": "> İçinde tek bir ifadeden başka hiçbir şey yoktu: \"Teşekkür ederim.\""
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG23_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0093",
+        "msgStr": "> İçinde tek bir ifadeden başka hiçbir şey yoktu: \"Elveda.\""
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG24_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0094",
+        "msgStr": "> Kâğıdın hoş bir kokusu vardı."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG25_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0095",
+        "msgStr": "> Mektup, iblisin dokunuşuyla hâlâ sıcaktı."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG26_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0096",
+        "msgStr": "> Üzerinde çok eski bir tarih vardı."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG27_060",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0097",
+        "msgStr": "> Tanrılara yönelik yoğun bir küçümsemeyle doluydu."
+      },
+      {
+        "msgID": "goh_accident_GOH_HITOKOTO_MSG28_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0098",
+        "msgStr": "> İnsanlara yönelik yoğun bir kıskançlıkla doluydu."
+      },
+      {
+        "msgID": "goh_accident_give_card0_062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_give_card1_063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_give_card2_064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_give_card3_065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_give_card4_066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_give_card5_067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_give_card7_068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_give_card8_069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_given_card_070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_accident_GOH_OMOIDESKILL_COMPLETE1_071",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0108",
+        "msgStr": "Oho!"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0109",
+        "msgStr": "Görünüşe göre <COLOR 4><V 0><COLOR 0> yaratmadan önce iblislerine çok iyi bakmışsın!"
+      },
+      {
+        "msgID": "goh_accident_GOH_OMOIDESKILL_COMPLETE2_072",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0110",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> tüm Pasif Yetenekleri kazandı!"
+      },
+      {
+        "msgID": "goh_accident_GOH_OMOIDESKILL_COMPLETE3_073",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0111",
+        "msgStr": "İblislerine duyduğun sevgi hepimize örnek oluyor."
+      },
+      {
+        "msgID": "goh_accident_GOH_DEVIL_KARTE_ERROR_074",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0112",
+        "msgStr": "Onu çağırmak için daha fazla bilgiye ihtiyacım olacak."
+      },
+      {
+        "msgID": "goh_accident_GOH_GIFT_DVLREPORT_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_ACCIDENT_L0113",
+        "msgStr": "> Ayrıca Raidou için geride bir şey daha bırakılmıştı."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:40:58"
+}

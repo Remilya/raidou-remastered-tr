@@ -1,0 +1,197 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONFIG_KEYMOU_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONFIG_KEYMOU_L0000",
+        "msgStr": "Hazır düzenler"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0002",
+        "msgStr": "İleri git (karakter) / yukarı (imleç)"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0003",
+        "msgStr": "Geri git (karakter) / aşağı (imleç)"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0004",
+        "msgStr": "Sola git (karakter / imleç)"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0005",
+        "msgStr": "Sağa git (karakter / imleç)"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0006",
+        "msgStr": "Onayla"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0007",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0008",
+        "msgStr": "Arayüz görünümü"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0009",
+        "msgStr": "Soruşturma menüsü"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0010",
+        "msgStr": "Ana menü"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0011",
+        "msgStr": "Kamera hareketi: yukarı"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0012",
+        "msgStr": "Kamera hareketi: aşağı"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0013",
+        "msgStr": "Kamera hareketi: sol"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0014",
+        "msgStr": "Kamera hareketi: sağ"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0016",
+        "msgStr": "Haritayı göster"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0018",
+        "msgStr": "Hafif kılıç saldırısı"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0019",
+        "msgStr": "Ağır kılıç saldırısı"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0022",
+        "msgStr": "Kaçın"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0023",
+        "msgStr": "Savunma yap"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0026",
+        "msgStr": "Savaş menüsü"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0027",
+        "msgStr": "Hızlı ileri sar"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0028",
+        "msgStr": "Atla"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0029",
+        "msgStr": "Kayıt geçmişi"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0030",
+        "msgStr": "Tip A"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0031",
+        "msgStr": "Tip B"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0032",
+        "msgStr": "Tip C"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0033",
+        "msgStr": "Tip D"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0034",
+        "msgStr": "Tip E"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0035",
+        "msgStr": "Klavye"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0036",
+        "msgStr": "Fare"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0100",
+        "msgStr": "Fare hassasiyeti"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0101",
+        "msgStr": "Tip A"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0102",
+        "msgStr": "Tip B"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0103",
+        "msgStr": "Tip C"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0104",
+        "msgStr": "Tip D"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0105",
+        "msgStr": "Tip E"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0106",
+        "msgStr": "Klavye"
+      },
+      {
+        "msgID": "CONFIG_KEYMOU_L0107",
+        "msgStr": "Fare"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:38:11"
+}

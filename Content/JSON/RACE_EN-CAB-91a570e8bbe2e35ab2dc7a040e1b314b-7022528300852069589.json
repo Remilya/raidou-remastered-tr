@@ -1,0 +1,425 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "RACE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "RACE_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0001",
+        "msgStr": "Ateş"
+      },
+      {
+        "msgID": "RACE_L0002",
+        "msgStr": "Buz"
+      },
+      {
+        "msgID": "RACE_L0003",
+        "msgStr": "Elektrik"
+      },
+      {
+        "msgID": "RACE_L0004",
+        "msgStr": "Rüzgâr"
+      },
+      {
+        "msgID": "RACE_L0005",
+        "msgStr": "Öfke"
+      },
+      {
+        "msgID": "RACE_L0006",
+        "msgStr": "Pagan"
+      },
+      {
+        "msgID": "RACE_L0007",
+        "msgStr": "Yetenek"
+      },
+      {
+        "msgID": "RACE_L0008",
+        "msgStr": "Element"
+      },
+      {
+        "msgID": "RACE_L0009",
+        "msgStr": "Mitama"
+      },
+      {
+        "msgID": "RACE_L0010",
+        "msgStr": "Fiend"
+      },
+      {
+        "msgID": "RACE_L0011",
+        "msgStr": "Kötülük"
+      },
+      {
+        "msgID": "RACE_L0012",
+        "msgStr": "Hortlak"
+      },
+      {
+        "msgID": "RACE_L0013",
+        "msgStr": "Süper Asker"
+      },
+      {
+        "msgID": "RACE_L0014",
+        "msgStr": "Yakuza"
+      },
+      {
+        "msgID": "RACE_L0015",
+        "msgStr": "Canavar"
+      },
+      {
+        "msgID": "RACE_L0016",
+        "msgStr": "Krizalit"
+      },
+      {
+        "msgID": "RACE_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0018",
+        "msgStr": "Keşiş"
+      },
+      {
+        "msgID": "RACE_L0019",
+        "msgStr": "Tokoyogami"
+      },
+      {
+        "msgID": "RACE_L0020",
+        "msgStr": "Uydu"
+      },
+      {
+        "msgID": "RACE_L0021",
+        "msgStr": "Savaş Gemisi"
+      },
+      {
+        "msgID": "RACE_L0022",
+        "msgStr": "Ruhsuz Tanrı"
+      },
+      {
+        "msgID": "RACE_L0023",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "RACE_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0035",
+        "msgStr": "Ateş"
+      },
+      {
+        "msgID": "RACE_L0036",
+        "msgStr": "Buz"
+      },
+      {
+        "msgID": "RACE_L0037",
+        "msgStr": "Elektrik"
+      },
+      {
+        "msgID": "RACE_L0038",
+        "msgStr": "Rüzgâr"
+      },
+      {
+        "msgID": "RACE_L0039",
+        "msgStr": "Öfke"
+      },
+      {
+        "msgID": "RACE_L0040",
+        "msgStr": "Pagan"
+      },
+      {
+        "msgID": "RACE_L0041",
+        "msgStr": "Yetenek"
+      },
+      {
+        "msgID": "RACE_L0042",
+        "msgStr": "Element"
+      },
+      {
+        "msgID": "RACE_L0043",
+        "msgStr": "Mitama"
+      },
+      {
+        "msgID": "RACE_L0044",
+        "msgStr": "Fiend"
+      },
+      {
+        "msgID": "RACE_L0045",
+        "msgStr": "Kötülük"
+      },
+      {
+        "msgID": "RACE_L0046",
+        "msgStr": "Hortlak"
+      },
+      {
+        "msgID": "RACE_L0047",
+        "msgStr": "Süper Asker"
+      },
+      {
+        "msgID": "RACE_L0048",
+        "msgStr": "Yakuza"
+      },
+      {
+        "msgID": "RACE_L0049",
+        "msgStr": "Canavar"
+      },
+      {
+        "msgID": "RACE_L0050",
+        "msgStr": "Krizalit"
+      },
+      {
+        "msgID": "RACE_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0052",
+        "msgStr": "Keşiş"
+      },
+      {
+        "msgID": "RACE_L0053",
+        "msgStr": "Tokoyogami"
+      },
+      {
+        "msgID": "RACE_L0054",
+        "msgStr": "Uydu"
+      },
+      {
+        "msgID": "RACE_L0055",
+        "msgStr": "Savaş Gemisi"
+      },
+      {
+        "msgID": "RACE_L0056",
+        "msgStr": "Ruhsuz Tanrı"
+      },
+      {
+        "msgID": "RACE_L0057",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "RACE_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0069",
+        "msgStr": "Ateş"
+      },
+      {
+        "msgID": "RACE_L0070",
+        "msgStr": "Buz"
+      },
+      {
+        "msgID": "RACE_L0071",
+        "msgStr": "Elektrik"
+      },
+      {
+        "msgID": "RACE_L0072",
+        "msgStr": "Rüzgâr"
+      },
+      {
+        "msgID": "RACE_L0073",
+        "msgStr": "Öfke"
+      },
+      {
+        "msgID": "RACE_L0074",
+        "msgStr": "Pagan"
+      },
+      {
+        "msgID": "RACE_L0075",
+        "msgStr": "Yetenek"
+      },
+      {
+        "msgID": "RACE_L0076",
+        "msgStr": "Element"
+      },
+      {
+        "msgID": "RACE_L0077",
+        "msgStr": "Mitama"
+      },
+      {
+        "msgID": "RACE_L0078",
+        "msgStr": "Fiend"
+      },
+      {
+        "msgID": "RACE_L0079",
+        "msgStr": "Kötülük"
+      },
+      {
+        "msgID": "RACE_L0080",
+        "msgStr": "Hortlak"
+      },
+      {
+        "msgID": "RACE_L0081",
+        "msgStr": "Süper Asker"
+      },
+      {
+        "msgID": "RACE_L0082",
+        "msgStr": "Yakuza"
+      },
+      {
+        "msgID": "RACE_L0083",
+        "msgStr": "Canavar"
+      },
+      {
+        "msgID": "RACE_L0084",
+        "msgStr": "Krizalit"
+      },
+      {
+        "msgID": "RACE_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0086",
+        "msgStr": "Keşiş"
+      },
+      {
+        "msgID": "RACE_L0087",
+        "msgStr": "Tokoyogami"
+      },
+      {
+        "msgID": "RACE_L0088",
+        "msgStr": "Uydu"
+      },
+      {
+        "msgID": "RACE_L0089",
+        "msgStr": "Savaş Gemisi"
+      },
+      {
+        "msgID": "RACE_L0090",
+        "msgStr": "Ruhsuz Tanrı"
+      },
+      {
+        "msgID": "RACE_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RACE_L0101",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:49:18"
+}

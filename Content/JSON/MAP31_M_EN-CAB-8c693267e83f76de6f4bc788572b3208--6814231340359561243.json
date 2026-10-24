@@ -1,0 +1,485 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP31_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map31_m_m_Exit01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0000",
+        "msgStr": "> Karanlık Sakuradayama'ya dönülsün mü?"
+      },
+      {
+        "msgID": "map31_m_m_Exit01s SEL_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0001",
+        "msgStr": "Dön"
+      },
+      {
+        "msgID": "MAP31_M_L0002",
+        "msgStr": "Burada kal"
+      },
+      {
+        "msgID": "map31_m_m_EP08_HIRUKO_01_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0003",
+        "msgStr": "> Hiruko'lar yolu kapatıyor."
+      },
+      {
+        "msgID": "map31_m_m_EP08_HIRUKO_02_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0004",
+        "msgStr": "> Onları ortadan kaldır?"
+      },
+      {
+        "msgID": "map31_m_m_akuma01_004",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP31_M_L0005",
+        "msgStr": "Vuhuu, çok eğlenceliydi! Süzülen Hiruko'lara binmeye bayılıyorum!"
+      },
+      {
+        "msgID": "MAP31_M_L0006",
+        "msgStr": "Ama insanlar bunca Hiruko ile ne yapmak istiyor ki? Harbiden çok tuhaf tipler."
+      },
+      {
+        "msgID": "map31_m_m_akuma02_005",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP31_M_L0007",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP31_M_L0008",
+        "msgStr": "Onun için de \"Vay anasını be\" demeli miyim?"
+      },
+      {
+        "msgID": "MAP31_M_L0009",
+        "msgStr": "Bilmiyorum ki. Yani... sonuçta o bir böcek, değil mi?"
+      },
+      {
+        "msgID": "map31_m_m_akuma02_01_006",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "MAP31_M_L0010",
+        "msgStr": "Hiruko'ların da duyguları vardır tatlım."
+      },
+      {
+        "msgID": "MAP31_M_L0011",
+        "msgStr": "Bu yüzden gelenin sen mi yoksa iblislerin mi olduğuna bağlı olarak <COLOR 3>farklı yerlere götürülürsün<COLOR 0>."
+      },
+      {
+        "msgID": "map31_m_m_akuma02_02_007",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "MAP31_M_L0012",
+        "msgStr": "Şuradaki hazineyi görüyor musun? Onu tek başına alabileceğinden pek emin değilim."
+      },
+      {
+        "msgID": "map31_m_m_akuma02_03_008",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "MAP31_M_L0013",
+        "msgStr": "Ah, ama merak etme şekerim, sen halledersin. Hiruko'ların duygularından anlıyorsun."
+      },
+      {
+        "msgID": "MAP31_M_L0014",
+        "msgStr": "Tek yapman gereken suyuna gitmek; o zaman seni sırtlarında taşırlar."
+      },
+      {
+        "msgID": "map31_m_m_akuma03_01_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0015",
+        "msgStr": "> İblis uzaklara dalıp gitmiş..."
+      },
+      {
+        "msgID": "map31_m_m_akuma03_02_010",
+        "msgStr": "Thoth"
+      },
+      {
+        "msgID": "MAP31_M_L0016",
+        "msgStr": "Gece gündüz durmadan düşüp duruyorum. Ne yorucu bir numara ama..."
+      },
+      {
+        "msgID": "MAP31_M_L0017",
+        "msgStr": "Üstelik arkadaşımı da bulamıyorum! Her şey çok iç karartıcı değil mi? Ühü..."
+      },
+      {
+        "msgID": "map31_m_m_akuma03_03_011",
+        "msgStr": "Thoth"
+      },
+      {
+        "msgID": "MAP31_M_L0018",
+        "msgStr": "Memleket hasreti çekiyor olmalıyım. Mısır'daki hayatımı düşünmeden edemiyorum."
+      },
+      {
+        "msgID": "map31_m_m_akuma04_01_012",
+        "msgStr": "Muu Shuwuu"
+      },
+      {
+        "msgID": "MAP31_M_L0019",
+        "msgStr": "Kih kih kih!"
+      },
+      {
+        "msgID": "MAP31_M_L0020",
+        "msgStr": "Bu Hiruko'nun üstüne atladığımda beni her yere götürüyor!"
+      },
+      {
+        "msgID": "map31_m_m_akuma04_02_013",
+        "msgStr": "Muu Shuwuu"
+      },
+      {
+        "msgID": "MAP31_M_L0021",
+        "msgStr": "Gerçi bu Hiruko..."
+      },
+      {
+        "msgID": "MAP31_M_L0022",
+        "msgStr": "<COLOR 3>İnsanlardan pek hoşlanmaz<COLOR 0>, o yüzden bir insan binmeye çalışırsa başka bir yere gider."
+      },
+      {
+        "msgID": "map31_m_m_akuma05_01_014",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "MAP31_M_L0023",
+        "msgStr": "Off, burası berbat bir yer..."
+      },
+      {
+        "msgID": "MAP31_M_L0024",
+        "msgStr": "Bu Hiruko'lar iblis ya da insan olmana göre seni farklı yerlere götürüyor."
+      },
+      {
+        "msgID": "map31_m_m_akuma05_02_015",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "MAP31_M_L0025",
+        "msgStr": "Ahbabım yukarı çıkmak istedi, ben de onu oraya fırlattım ama hâlâ dönmedi!"
+      },
+      {
+        "msgID": "MAP31_M_L0026",
+        "msgStr": "Off, bu iş cidden çok can sıkıcı..."
+      },
+      {
+        "msgID": "map31_m_m_takara01_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_kabe01_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_yuka01_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_de01_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_de01s SEL_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_de02s SEL_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_bosu01_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_1f_00_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_save_3f_01_024",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP31_M_L0046",
+        "msgStr": "Bekle, Raidou."
+      },
+      {
+        "msgID": "MAP31_M_L0047",
+        "msgStr": "Güçlü bir varlık hissediyorum... Hazırlıklı olduğundan emin ol."
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_01_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0048",
+        "msgStr": "> <devil 0> güçlü bir darbe için gerildi..."
+      },
+      {
+        "msgID": "MAP31_M_L0049",
+        "msgStr": "> İblis tüm gücüyle Hiruko'ya vurdu!"
+      },
+      {
+        "msgID": "MAP31_M_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_01_01_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0052",
+        "msgStr": "> <devil 0> güçlü bir darbe için gerildi..."
+      },
+      {
+        "msgID": "MAP31_M_L0053",
+        "msgStr": "> İblis tüm gücüyle Hiruko'ya vurdu!"
+      },
+      {
+        "msgID": "MAP31_M_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_02_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_03_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_04_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_05_030",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP31_M_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_06_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_sel_hiruko_01 SEL_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0061",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP31_M_L0062",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_07_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_08_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_09_035",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_10_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_11_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_12_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_sel_hiruko_02 SEL_039",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_sel_hiruko_03 SEL_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP31_M_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map31_m_m_msg_hiruko_d_13_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP31_M_L0074",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:15:04"
+}

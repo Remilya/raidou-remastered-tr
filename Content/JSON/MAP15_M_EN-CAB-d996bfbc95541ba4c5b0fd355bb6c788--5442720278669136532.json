@@ -1,0 +1,385 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP15_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map15_m_m_test_01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_13_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_14_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_03_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_04_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_05_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_15_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_06_008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_16_009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_22_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_17_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_08_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_10_013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_19_014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_20_015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_12_016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_23_017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_24_018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_test_25_019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_m_m_Common_Item_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0045",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map15_m_m_Common_ItemSelect SEL_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0046",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP15_M_L0047",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map15_m_m_Common_GetItem_Raidou_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0048",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Common_GetItem_Devil_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0049",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Common_GetEveItem_Raidou_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0050",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Common_GetEveItem_Devil_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0051",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Mahjong01_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0052",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Ejderha Taşları<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Mahjong01dev_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0053",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Ejderha Taşları<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Item01_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0054",
+        "msgStr": "> Raidou, <ITM_08><COLOR 4>İlaç<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Item01dev_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0055",
+        "msgStr": "> <devil 0>, <ITM_08><COLOR 4>İlaç<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Item02_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0056",
+        "msgStr": "> Raidou, <ITM_08><COLOR 4>İlaç<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map15_m_m_Item02dev_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0057",
+        "msgStr": "> <devil 0>, <ITM_08><COLOR 4>İlaç<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map15_m_m_ep11_jisin_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_M_L0058",
+        "msgStr": "> Ruhsuz Tanrı'nın öfkesi depreme yol açtı!"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/29 17:48:15"
+}

@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMS_FILE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "JMS_FILE_L0000",
+        "msgStr": "<COLOR 1>Ushigome-Gaeri Köprüsü<COLOR 0>'nde bir <COLOR 1>liseli kızla<COLOR 0> (söylemeden geçmeyeyim, bence uzun siyah saçları ona çok yakışıyor) buluştuk. Nedense kendisini öldürmemizi istedi ama hemen ardından <COLOR 1>kırmızı kılıklı tuhaf Özel Muhafızlar<COLOR 0> tarafından kaçırıldı.\n\nBen de <COLOR 1>Raidou<COLOR 0>'yu kızı araştırması için görevlendirdim. Meğer Daidouji ailesinden <COLOR 1>Kaya Daidouji<COLOR 0> imiş (ve <COLOR 1>Ouran Lisesi<COLOR 0> dördüncü sınıf öğrencisiymiş) ve sanırım bir süredir kayıpmış. Soruşturmamız bizi amcası <COLOR 1>Kiyoshi<COLOR 0>'ye ve <COLOR 1>ordudan bir herife<COLOR 0> götürdü. Ayrıca ailenin reisinin durumu pek iyi görünmüyor, bu yüzden <COLOR 1>aile mirası<COLOR 0> etrafında dönen meseleler var.\n\nKiyoshi'den birkaç cevap almak istedik ama ağzından işe yarar bir laf alamadan dönüştü (bunu başka türlü ifade etmenin yolu yok) ve kaçtı. Şimdilik <COLOR 3>soruşturmamıza devam ederken ona odaklanmalıyız<COLOR 0> derim."
+      },
+      {
+        "msgID": "JMS_FILE_L0001",
+        "msgStr": "<COLOR 1>Raidou<COLOR 0>, <COLOR 1>Tae<COLOR 0>'den gelen ve <COLOR 1>Kiyoshi<COLOR 0>'nin (diğer adıyla <COLOR 1>Kırmızı Pelerin<COLOR 0>'in) görüldüğüne dair ipucunun peşinden Ginza-cho'daki <COLOR 1>Ryugu<COLOR 0>'ya gitti. Orada tesadüfen Kiyoshi'yi tanıyan <COLOR 1>Denpachi<COLOR 0> adında bir çekçekçiyle karşılaştı. Denpachi bizden (evli olan) kız kardeşi <COLOR 1>Shizu<COLOR 0>'yu bulmamızı istedi. Biz de onu Kırmızı Fener Mahallesi'nde bulduk ve tabii ki o da bizi bir başkasını, bu sefer arabalara saldıran bir zorbayı bulmaya gönderdi.\n\nSonunda her şey bir araya geldi ve Kırmızı Pelerin'i <COLOR 1>Kurisu-zaka<COLOR 0>'da bulduk. Gel gör ki bu Kiyoshi değil, Denpachi'ydi! Bu yalnızca <COLOR 3>birden fazla Kırmızı Pelerin olduğu<COLOR 0> anlamına gelebilir.\n\nBiliyor musunuz, <COLOR 3>bütün bu insanları bulduğumuz için hâlâ tek kuruş alamadık<COLOR 0>..."
+      },
+      {
+        "msgID": "JMS_FILE_L0002",
+        "msgStr": "<COLOR 1>Raidou<COLOR 0>, <COLOR 1>Denpachi<COLOR 0>'nin bahsettiği Senju-ku'daki <COLOR 1>Daidouji Tekstil<COLOR 0>'e gitti. <COLOR 1>Matris Labirenti<COLOR 0>'ni aştı ve <COLOR 1>Kiyoshi<COLOR 0>'yi bulmayı başardı ama adam tutup yine dönüştü. Ancak bu sefer sırtından tuhaf bir yaratık fırladı ve uçup gitti.\n\nArdından kendine <COLOR 1>Rasputin<COLOR 0> diyen tekinsiz bir tip ortaya çıktı ve o yaratık (görünüşe göre adı <COLOR 1>Hiruko<COLOR 0> imiş) ile Kırmızı Pelerinler hakkında bazı şeyler anlattı. Ondan sonra Raidou'yu iblislerinden biriyle dövüştürürken alçağın kendisi sıvıştı.\n\nEh, kesin olan bir şey var: Bu davaya <COLOR 3>bir Karanlık Çağırıcı<COLOR 0> karışmış durumda. Sanırım artık <COLOR 3>Kiyoshi'nin soruşturmamızın odak noktası olmadığını<COLOR 0> rahatlıkla söyleyebiliriz."
+      },
+      {
+        "msgID": "JMS_FILE_L0003",
+        "msgStr": "<COLOR 1>Konnou-ya'nın sahibi<COLOR 0> bizden <COLOR 1>Harada Şti.<COLOR 0>'deki bazı yük kayıplarını araştırmamızı istedi, bu yüzden <COLOR 1>Raidou<COLOR 0> da <COLOR 1>Harumi-cho<COLOR 0>'ya gitti. Mevcut davayla ilgisi yok gibi görünüyordu ama Konnou-ya'nın yaşayacağı sorunlar bizim için de soruna dönüşebileceğinden yardım etmenin en iyisi olacağını düşündük. Hem kim bilir? Harumi-cho'da Rasputin hakkında bir ipucuna rastlayabilirdik. Nitekim tam olarak öyle oldu.\n\nSonunda ülkeye kaçak göçmen sokan <COLOR 2>Elfman<COLOR 0> adında yabancı bir tüccarı araştırmaya başladık. Raidou onunla görüşmek için <COLOR 1>Katolik kilisesine<COLOR 0> gitti ama işe bakın ki Elfman çoktan ölmüştü! Onun yerine orada <COLOR 1>Rasputin<COLOR 0> vardı; Raidou da onunla savaştı ve onu yendi. Ardından Raidou, <COLOR 3>Rasputin'in savaşta öldüğünü<COLOR 0> doğruladı."
+      },
+      {
+        "msgID": "JMS_FILE_L0004",
+        "msgStr": "<COLOR 2>Narumi şu anda burada olmadığı için onun yerine ben, Gouto yazıyorum.<COLOR 0>\n\n<COLOR 1>Rasputin<COLOR 0> bize <COLOR 1>Kaya<COLOR 0> ile ilgili bilgi verdi, <COLOR 1>Tae<COLOR 0> ise bir asker kaçağından bahsetti—her ikisi de <COLOR 1>Kasumidai<COLOR 0> ile bağlantılıydı, bu yüzden ikisinin nasıl bir ilişkisi olabileceğini görmek için orayı ziyaret etmeye karar verdik. Karanlık Kasumidai'da Tae ile temasa geçen firari <COLOR 1>Sadakichi<COLOR 0>'yi bulduk. Bizi <COLOR 1>Süper Asker Projesi<COLOR 0>'nden ve Kaya'nın <COLOR 1>4 Nolu Topçu Bataryası<COLOR 0>'nda olduğundan haberdar etti. <COLOR 1>Yeraltı tersanesinde<COLOR 0> <COLOR 1>Munakata<COLOR 0> ile karşılaştık ve kaçmayı başarmadan önce Kaya'yı kurtardık. Döndüğümüzde <COLOR 3>Kaya'yı büronun sekreteri olarak işe alma<COLOR 0> kararı verildi."
+      },
+      {
+        "msgID": "JMS_FILE_L0005",
+        "msgStr": "<COLOR 2>*Ben (Narumi) dışarıdayken yazılmıştır.<COLOR 0>\n\n<COLOR 1>Kaya<COLOR 0> ve <COLOR 1>Raidou<COLOR 0>, <COLOR 1>Munakata<COLOR 0> onu ele geçirirse milyonlarca insanın öleceğini söylediği için <COLOR 1>Koy Muhafızı<COLOR 0>'nı aramaya çıktılar. Şans eseri onu <COLOR 1>Ginza-cho'daki bir inşaat alanında<COLOR 0> buldular ama sonra Kaya kafayı sıyırdı, <COLOR 1>kristali<COLOR 0> çaldı ve sırra kadem bastı! Kaşla göz arasında ardında hiçbir iz bırakmadan kayboldu. Ve daha da kötüsü, <COLOR 3>saçlarını kısacık kesti. Bence uzun hali çok daha güzeldi<COLOR 0>..."
+      },
+      {
+        "msgID": "JMS_FILE_L0006",
+        "msgStr": "<COLOR 2>Yine onun yerine ben, Gouto yazıyorum.<COLOR 0>\n\n<COLOR 1>Lord Takagi<COLOR 0> <COLOR 1>lanetlenmişti<COLOR 0> ancak lanet bir <COLOR 1>Arınma Ritüeli<COLOR 0> aracılığıyla <COLOR 1>Raidou<COLOR 0>'ya aktarıldı. Ardından laneti yapan kişinin izini Karanlık Fukagawa-cho'ya kadar sürdü ve orada <COLOR 1>Hitokotonushi<COLOR 0>'yi alt ederek bu süreçte laneti kırdı.\n\n<COLOR 1>Yatagarasu Elçisi<COLOR 0>'ne göre saldırı <COLOR 1>Munakata<COLOR 0> tarafından tezgâhlanmıştı. Olaylar birbirini izledi ve Sadakichi sonunda Raidou'dan <COLOR 1>Sakuradayama<COLOR 0>'daki <COLOR 1>Waden One<COLOR 0>'a sızmasını istedi. <COLOR 3>Bunun için fazla mesai ücreti talep etmenin mantıksız olduğunu hiç sanmıyorum<COLOR 0>."
+      },
+      {
+        "msgID": "JMS_FILE_L0007",
+        "msgStr": "<COLOR 2>Yine ben, Gouto.<COLOR 0>\n\n<COLOR 1>Narumi<COLOR 0> ve <COLOR 1>Raidou<COLOR 0> ayrı soruşturmalar yürütmek üzere yola çıktılar. Raidou ve ben, <COLOR 1>Waden One<COLOR 0>'ın tepesinde <COLOR 1>Munakata<COLOR 0> ile yüzleştik ve Munakata orada <COLOR 1>Mishaguji<COLOR 0>'yi çağırdı. Ardından patlak veren savaştan galip çıkmayı başardık ama ne yazık ki <COLOR 1>Rasputin<COLOR 0> bizi hazırlıksız yakaladı ve bir uzay-zaman yarığından içeri gönderdi. Sanırım <COLOR 3>onun görünürdeki ölümüne dair önceki raporu gözden geçirmem<COLOR 0> gerekecek."
+      },
+      {
+        "msgID": "JMS_FILE_L0008",
+        "msgStr": "<COLOR 2>Tekrar Gouto.<COLOR 0>\n\n<COLOR 1>Rasputin'in<COLOR 0> büyüsü bizi kendi zaman çizgimizden ufak farklarla ayrılan <COLOR 1>başka bir zaman çizgisinin<COLOR 0> <COLOR 1>Tsukudo-cho<COLOR 0>'suna gönderdi. Orada (kendimizden ayırt etmek için bu şekilde yazılan) <COLOR 1>\"Raido\"<COLOR 0> ve <COLOR 1>\"Goto\"<COLOR 0> ile tanıştık.\n\n<COLOR 1>Yatagarasu Elçisi<COLOR 0>'ne danıştıktan sonra <COLOR 1>Amatsu Kanagi<COLOR 0>'yi oluşturmak için gereken <COLOR 1>prizmaları<COLOR 0> toplamayı başardık. Raido'nun yardımıyla <COLOR 1>Ushigome-Gaeri Köprüsü<COLOR 0>'nde <COLOR 1>Ruh Gönderme Ritüeli<COLOR 0>'ni gerçekleştirdik ve olanları anlatmak üzere geri döndük.\n\nKüçük bir not: <COLOR 3>Narumi bu görevi yakında tekrar devralsa iyi olur; bu daktilo patilerimi mahvediyor<COLOR 0>."
+      },
+      {
+        "msgID": "JMS_FILE_L0009",
+        "msgStr": "Başkent'te <COLOR 1>sıkıyönetim<COLOR 0> ilan edildi ve o <COLOR 1>Cehennem Piyonları<COLOR 0> Donanma Karargâhı'nı çökertti. <COLOR 1>Rasputin<COLOR 0>'den gelen bir tüyo üzerine <COLOR 1>Raidou<COLOR 0>, <COLOR 1>Kasumi Kayranı<COLOR 0> üzerinden <COLOR 1>yeraltı tersanesine<COLOR 0> geri döndü ve beni yaralı halde buldu. Orada <COLOR 1>Munakata<COLOR 0>'nın <COLOR 1>Sukuna-Hikona<COLOR 0> tarafından ele geçirildiğini öğrendik ve ardından Raidou onu alt etti. Ama şimdi de <COLOR 1>Harumi-cho<COLOR 0>'da <COLOR 1>Ruhsuz Tanrı<COLOR 0> serbest kaldı. Savaşmak için fazla devasa (<COLOR 3>en az 400 metre boyunda<COLOR 0>), bu yüzden şimdilik geri çekildik."
+      },
+      {
+        "msgID": "JMS_FILE_L0010",
+        "msgStr": "<COLOR 1>Ruhsuz Tanrı'nın<COLOR 0> güç kaynağı olan <COLOR 1>Tai-itsu Uydusu<COLOR 0>'nu yok etme fikrini ortaya attık. <COLOR 1>Raidou<COLOR 0>, <COLOR 1>Muhteşem Bilim Laboratuvarı<COLOR 0>'na gitti ve <COLOR 1>Dr. Tsukumo<COLOR 0>'yu planımız için oradaki <COLOR 1>roketi<COLOR 0> kullanmaya ikna etti. Ardından Raidou, ihtiyacımız olan bazı hesaplamaları ağzından alana kadar <COLOR 1>Rasputin<COLOR 0>'i alıkoydu. Oradan sonra uyduya ulaşmamız ve çekirdeğini içeriden yok etmemiz gerekiyordu. <COLOR 1>Gouto<COLOR 0> ve bir <COLOR 1>iblis<COLOR 0> roketle uyduya gitti ve onu yok etti. Ruhsuz Tanrı durduruldu ama <COLOR 3>Gouto ve Raidou'nun iblisi geri dönemedi<COLOR 0>..."
+      },
+      {
+        "msgID": "JMS_FILE_L0011",
+        "msgStr": "12. Bölüm"
+      }
+    ]
+  },
+  "_convDateTime": "2025/03/26 19:16:32"
+}

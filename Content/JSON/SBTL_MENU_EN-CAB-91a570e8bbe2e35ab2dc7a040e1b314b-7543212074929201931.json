@@ -1,0 +1,137 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SBTL_MENU_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SBTL_MENU_L0000",
+        "msgStr": "Komut Menüsü"
+      },
+      {
+        "msgID": "SBTL_MENU_L0001",
+        "msgStr": "Savaşı Başlat"
+      },
+      {
+        "msgID": "SBTL_MENU_L0002",
+        "msgStr": "Komut"
+      },
+      {
+        "msgID": "SBTL_MENU_L0003",
+        "msgStr": "Çağır"
+      },
+      {
+        "msgID": "SBTL_MENU_L0004",
+        "msgStr": "Geri dön"
+      },
+      {
+        "msgID": "SBTL_MENU_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_MENU_L0006",
+        "msgStr": "Eşya"
+      },
+      {
+        "msgID": "SBTL_MENU_L0007",
+        "msgStr": "Analiz Et"
+      },
+      {
+        "msgID": "SBTL_MENU_L0008",
+        "msgStr": "Kaç"
+      },
+      {
+        "msgID": "SBTL_MENU_L0009",
+        "msgStr": "Kaçışı İptal Et"
+      },
+      {
+        "msgID": "SBTL_MENU_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_MENU_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_MENU_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_MENU_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_MENU_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_MENU_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_MENU_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_MENU_L0017",
+        "msgStr": "Otonom"
+      },
+      {
+        "msgID": "SBTL_MENU_L0018",
+        "msgStr": "Raidou'nun Hedefi"
+      },
+      {
+        "msgID": "SBTL_MENU_L0019",
+        "msgStr": "Kılıç"
+      },
+      {
+        "msgID": "SBTL_MENU_L0020",
+        "msgStr": "Kaldır"
+      },
+      {
+        "msgID": "SBTL_MENU_L0021",
+        "msgStr": "Tüpler"
+      },
+      {
+        "msgID": "SBTL_MENU_L0022",
+        "msgStr": " Vuruşluk\nKombo"
+      },
+      {
+        "msgID": "SBTL_MENU_L0023",
+        "msgStr": "Ruh Gücü"
+      },
+      {
+        "msgID": "SBTL_MENU_L0024",
+        "msgStr": "Komut"
+      },
+      {
+        "msgID": "SBTL_MENU_L0025",
+        "msgStr": "Saldır"
+      },
+      {
+        "msgID": "SBTL_MENU_L0026",
+        "msgStr": "Savaş Yetenekleri"
+      },
+      {
+        "msgID": "SBTL_MENU_L0027",
+        "msgStr": "Savaş Yeteneklerini Değiştir"
+      },
+      {
+        "msgID": "SBTL_MENU_L0028",
+        "msgStr": "Kaçın"
+      },
+      {
+        "msgID": "SBTL_MENU_L0029",
+        "msgStr": "Savunma yap"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:04:52"
+}

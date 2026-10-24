@@ -1,0 +1,57 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "JMSQUESTSCRIPT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "JMSQUESTSCRIPT_L0000",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "JMSQUESTSCRIPT_L0001",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "jmsQuestScript_JMS_KAMIN_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMSQUESTSCRIPT_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "jmsQuestScript_MAP_HEAL2_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMSQUESTSCRIPT_L0003",
+        "msgStr": "> Raidou ve iblisleri iyileşti."
+      },
+      {
+        "msgID": "jmsQuestScript_JMS_KAMIN_FIRST_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "JMSQUESTSCRIPT_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMSQUESTSCRIPT_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "JMSQUESTSCRIPT_L0006",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:40:55"
+}

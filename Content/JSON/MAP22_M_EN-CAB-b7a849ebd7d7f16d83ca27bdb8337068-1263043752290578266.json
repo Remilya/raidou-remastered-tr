@@ -1,0 +1,1441 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP22_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map22_m_m_mes_01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0002",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP22_M_L0003",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai01_001",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0004",
+        "msgStr": "Rrrgh..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai01_001_01",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0004_01",
+        "msgStr": "Gah...!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai01_001_02",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0004_02",
+        "msgStr": "Grrraaaaah!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai01_001_03",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0004_03",
+        "msgStr": "Gah...!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai02_002",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0005",
+        "msgStr": "Gggaarrghh!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai03_003",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0006",
+        "msgStr": "Grahhhh!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai03b_004",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0007",
+        "msgStr": "GRAAAARGH!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai04_005",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0008",
+        "msgStr": "Nrghh..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akaikai04_005_02",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "MAP22_M_L0008_02",
+        "msgStr": "Grrrrgh..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_kari_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0009",
+        "msgStr": "> Kırmızı Pelerin kaçtı..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_necoikai01_007",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0010",
+        "msgStr": "Peşinden git Raidou! İzi kaybettirmesine izin verme!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_necoikai02_008",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0011",
+        "msgStr": "Tüh, Oboroguruma haklıymış. Ayaklarına bayağı çabuk!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_necoikai03_009",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0012",
+        "msgStr": "Bu taraftan kaçamazsın, Kırmızı Pelerin!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_necoikai04_010",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0013",
+        "msgStr": "Bekle, Raidou."
+      },
+      {
+        "msgID": "MAP22_M_L0014",
+        "msgStr": "Bizi atlatmak için daireler çizerek koşup duruyor."
+      },
+      {
+        "msgID": "MAP22_M_L0015",
+        "msgStr": "<COLOR 3>Döngüsünü kapatabilirsek<COLOR 0> onu kıstırırız."
+      },
+      {
+        "msgID": "MAP22_M_L0016",
+        "msgStr": "Yolunu kesmenin bir çaresine bakalım."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_necoikai05_011",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0017",
+        "msgStr": "Pekâlâ, yavaşlıyor. Az daha gayret edersek onu yakalayacağız."
+      },
+      {
+        "msgID": "MAP22_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_necoikai06_012",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0019",
+        "msgStr": "İşte geliyor. Çıkardığı o tuhaf sese dikkat et."
+      },
+      {
+        "msgID": "MAP22_M_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_necoikai07_013",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0022",
+        "msgStr": "Raidou, böyle koşmaya devam ederse onu asla yakalayamayacağız."
+      },
+      {
+        "msgID": "MAP22_M_L0023",
+        "msgStr": "Yakınlarda bir <COLOR 3>otomobil<COLOR 0> vardı. Onunla yolunu kesmeyi dene."
+      },
+      {
+        "msgID": "MAP22_M_L0024",
+        "msgStr": "Bir İblis Çağırıcısı gibi düşün."
+      },
+      {
+        "msgID": "MAP22_M_L0025",
+        "msgStr": "Burada sana ben yardım edemem ama belki iblislerin edebilir."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_necoikai08_014",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0026",
+        "msgStr": "Bekle Raidou. Kırmızı Pelerin hemen ileride."
+      },
+      {
+        "msgID": "MAP22_M_L0027",
+        "msgStr": "Dövüş için tamamen hazır olduğundan emin ol."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_kari01_015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_kari_B01_016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_car_01_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0034",
+        "msgStr": "> Otomobil olduğu yerde duruyor."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_car_02_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0035",
+        "msgStr": "> Yepyeni bir model ama şimdiden bozulmuşa benziyor."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_car_03_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0036",
+        "msgStr": "> <devil 0> kaba kuvvet kullanarak otomobili hareket ettirdi."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_car_04_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0037",
+        "msgStr": "> Otomobil itilerek yolu kapattı."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_carhint_01_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0038",
+        "msgStr": "> Otomobil olduğu yerde duruyor."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_carhint_02_022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_carhint_YES_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_carhint_NO_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_carhint_03_025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_01_026",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP22_M_L0046",
+        "msgStr": "Ben Poltergeist!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_01_02_027",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0047",
+        "msgStr": "Şimdi bunu gizemli bir şekilde hareket ettirip ödünü patlatacağım!"
+      },
+      {
+        "msgID": "MAP22_M_L0048",
+        "msgStr": "İşte başlıyorum! Önce bir gaza gelmem lazım... Bir, iki, üç... Kımılda!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_01_03_028",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0049",
+        "msgStr": "Şey... Sanırım bu benim için biraz fazla ağır."
+      },
+      {
+        "msgID": "MAP22_M_L0050",
+        "msgStr": "Galiba bunu sadece <COLOR 3>gerçekten güçlü bir iblis<COLOR 0> hareket ettirebilir."
+      },
+      {
+        "msgID": "MAP22_M_L0051",
+        "msgStr": "Hıh..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_02_029",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0052",
+        "msgStr": "Vay be, harika!"
+      },
+      {
+        "msgID": "MAP22_M_L0053",
+        "msgStr": "Büyüyünce ben de onun kadar güçlü olmak istiyorum!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_03_030",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0054",
+        "msgStr": "Ben Poltergeist!"
+      },
+      {
+        "msgID": "MAP22_M_L0055",
+        "msgStr": "Bir gün büyüdüğümde insanları korkutmak için bir sürü şeyi yerinden oynatacağım."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_04_031",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0056",
+        "msgStr": "Hey, sen!"
+      },
+      {
+        "msgID": "MAP22_M_L0057",
+        "msgStr": "Çekil şuradan! O otomobili ben hareket ettiriyorum!"
+      },
+      {
+        "msgID": "MAP22_M_L0058",
+        "msgStr": "Hareket ettirmek için kendine başka otomobil bul! Bu benim!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_05_032",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0059",
+        "msgStr": "Bazen Kurisu-zaka'daki otomobiller hurdaya çevriliyor."
+      },
+      {
+        "msgID": "MAP22_M_L0060",
+        "msgStr": "Duyduğuma göre bunu Kırmızı Pelerin yapıyormuş."
+      },
+      {
+        "msgID": "MAP22_M_L0061",
+        "msgStr": "Bayağı korkutucu biri, o yüzden burada kalıp bu otomobille oynayacağım."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_06_033",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0062",
+        "msgStr": "Hey! Bu yaptığın hiç hoş değil!"
+      },
+      {
+        "msgID": "MAP22_M_L0063",
+        "msgStr": "Hıh!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_07_034",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0064",
+        "msgStr": "Bazen Kurisu-zaka'daki otomobiller hurdaya çevriliyor."
+      },
+      {
+        "msgID": "MAP22_M_L0065",
+        "msgStr": "Duyduğuma göre bunu Kırmızı Pelerin yapıyormuş."
+      },
+      {
+        "msgID": "MAP22_M_L0066",
+        "msgStr": "Bayağı korkutucu biri, o yüzden burada kalıp bu otomobille oynayacağım."
+      },
+      {
+        "msgID": "MAP22_M_L0067",
+        "msgStr": "Of ya... Bu araba o kadar ağır ki yerinden bile oynatamıyorum."
+      },
+      {
+        "msgID": "MAP22_M_L0068",
+        "msgStr": "Hıh..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_08_035",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "MAP22_M_L0069",
+        "msgStr": "Hayıııır! Canavar!"
+      },
+      {
+        "msgID": "MAP22_M_L0070",
+        "msgStr": "Ühühü! Korkuyorum! Hayalet var!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_poru_09_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0071",
+        "msgStr": "> Poltergeist kaçtı..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_ikai_exit2_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0072",
+        "msgStr": "> İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma1_01_038",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP22_M_L0073",
+        "msgStr": "Kırmızı Pelerin'i görüp görmediğimi mi bilmek istiyorsun?"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma1_02_039",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP22_M_L0074",
+        "msgStr": "Tabii, gördüm onu."
+      },
+      {
+        "msgID": "MAP22_M_L0075",
+        "msgStr": "Evet, şuradaki merdivenlerden çıktı. Köşeyi dön, görürsün."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma1_03_040",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP22_M_L0076",
+        "msgStr": "Tabii, çene çalacak biraz vaktim var, aç kulağını dinle."
+      },
+      {
+        "msgID": "MAP22_M_L0077",
+        "msgStr": "Şuradaki merdivenlerden çıktı. Köşeyi dön, görürsün."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma1_04_041",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP22_M_L0078",
+        "msgStr": "O Kırmızı Pelerin kaçtı, ha?"
+      },
+      {
+        "msgID": "MAP22_M_L0079",
+        "msgStr": "Valla bu tarafa geldiğini görmedim."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma1_05_042",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP22_M_L0080",
+        "msgStr": "Bana sorarsan tramvaylar insanların en büyük icadı."
+      },
+      {
+        "msgID": "MAP22_M_L0081",
+        "msgStr": "Ben doğduğumda böyle şeyler yoktu."
+      },
+      {
+        "msgID": "MAP22_M_L0082",
+        "msgStr": "Gerçi ben doğduğumda <IT_S>insanlar<IT_E> da yoktu ya."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma1_06_043",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP22_M_L0083",
+        "msgStr": "Tramvaylara binmek için Ginza-cho'ya geldim."
+      },
+      {
+        "msgID": "MAP22_M_L0084",
+        "msgStr": "Acaba iblislere ayrılmış koltukları var mıdır..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_01_044",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "MAP22_M_L0085",
+        "msgStr": "Aaa, merhaba delikanlı."
+      },
+      {
+        "msgID": "MAP22_M_L0086",
+        "msgStr": "Benden bir isteğin mi vardı?"
+      },
+      {
+        "msgID": "MAP22_M_L0087",
+        "msgStr": "Kırmızı Pelerin'i arıyorum."
+      },
+      {
+        "msgID": "MAP22_M_L0088",
+        "msgStr": "Gerçek bir güzellik arıyorum."
+      },
+      {
+        "msgID": "MAP22_M_L0089",
+        "msgStr": "Hayır, bir şey yok."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_02_045",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "MAP22_M_L0090",
+        "msgStr": "Ah, evet, onu gördüm."
+      },
+      {
+        "msgID": "MAP22_M_L0091",
+        "msgStr": "Ama buralarda değil."
+      },
+      {
+        "msgID": "MAP22_M_L0092",
+        "msgStr": "Oradan oraya dolaşıp duruyordu."
+      },
+      {
+        "msgID": "MAP22_M_L0093",
+        "msgStr": "Etrafa yeterince bakınırsan eminim sonunda onu bulursun."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_03_046",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "MAP22_M_L0094",
+        "msgStr": "Aman ne kadar da tatlısın! Ne terbiyeli bir delikanlı."
+      },
+      {
+        "msgID": "MAP22_M_L0095",
+        "msgStr": "Ama benim olmak istiyorsan biraz daha büyümen gerekecek."
+      },
+      {
+        "msgID": "MAP22_M_L0096",
+        "msgStr": "Merak etme... Bekleyebilirim."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_04_047",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "MAP22_M_L0097",
+        "msgStr": "Ah, anlıyorum... Ne yazık."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_05_048",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "MAP22_M_L0098",
+        "msgStr": "...!"
+      },
+      {
+        "msgID": "MAP22_M_L0099",
+        "msgStr": "Kırmızı Pelerin az önce buradaydı!"
+      },
+      {
+        "msgID": "MAP22_M_L0100",
+        "msgStr": "Hâlâ buralarda bir yerde olabilir... Belki..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_06_049",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "MAP22_M_L0101",
+        "msgStr": "Sanırım onu şantiyenin alt geçidinde gördüm."
+      },
+      {
+        "msgID": "MAP22_M_L0102",
+        "msgStr": "Ama o değilse kusura bakma. Seni yanlış yönlendirmek istemem."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_07_050",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "MAP22_M_L0103",
+        "msgStr": "Kırmızı Pelerin'i kısa bir süre önce gördüm."
+      },
+      {
+        "msgID": "MAP22_M_L0104",
+        "msgStr": "Biliyor musun, bir canavara göre çok hüzünlü gözleri vardı..."
+      },
+      {
+        "msgID": "MAP22_M_L0105",
+        "msgStr": "Ona \"Kırmızı Pelerin\" diyorlar ama bence o kırmızı bir trajedi."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_08_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0106",
+        "msgStr": "> İblis ilgisizce başını başka yöne çevirdi."
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_akuma2_09_052",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "MAP22_M_L0107",
+        "msgStr": "Başkent'e yakın zamanda taşındım."
+      },
+      {
+        "msgID": "MAP22_M_L0108",
+        "msgStr": "Buradaki havalı jargonu kapmak için elimden geleni yapıyorum..."
+      },
+      {
+        "msgID": "MAP22_M_L0109",
+        "msgStr": "Belki bu hanımefendiye— Şey, bu hatuna bir iyilik yapıp daha sonra benimle biraz laflarsın, ha?"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_debug01_053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep02_KABE01_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0115",
+        "msgStr": "> Otomobil yolu kapatıyor."
+      },
+      {
+        "msgID": "map22_m_mplan_tel01_01_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0116",
+        "msgStr": "> Bu bir telefon kulübesi."
+      },
+      {
+        "msgID": "MAP22_M_L0117",
+        "msgStr": "Ahizeyi kaldır"
+      },
+      {
+        "msgID": "MAP22_M_L0118",
+        "msgStr": "Olduğu gibi bırak"
+      },
+      {
+        "msgID": "map22_m_mplan_tel01_02_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0119",
+        "msgStr": "> Raidou ahizeyi kaldırdı."
+      },
+      {
+        "msgID": "map22_m_mplan_tel01_03_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0120",
+        "msgStr": "> Çevir sesi yoktu, sadece bir cızırtı geliyordu."
+      },
+      {
+        "msgID": "map22_m_mplan_tel02_01_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0121",
+        "msgStr": "> Aniden numara kadranı kendi kendine dönmeye başladı."
+      },
+      {
+        "msgID": "MAP22_M_L0122",
+        "msgStr": "> 5<mw 5>5<mw 5>5<mw 5><mw 5>-<mw 5>0<mw 5>1<mw 5>9<mw 5>9"
+      },
+      {
+        "msgID": "map22_m_mplan_tel02_02_059",
+        "msgStr": "Enerjik Ses"
+      },
+      {
+        "msgID": "MAP22_M_L0123",
+        "msgStr": "Aaaalooo! Aradığın için teşekkürler!"
+      },
+      {
+        "msgID": "MAP22_M_L0124",
+        "msgStr": "555-0199 \"Ucube Şovu\"na ulaştın!"
+      },
+      {
+        "msgID": "MAP22_M_L0125",
+        "msgStr": "Bir derdin varsa kulağım sende! Utai-Gaikotsu Telefonla Danışmanlık Merkezi hizmetinde!"
+      },
+      {
+        "msgID": "map22_m_mplan_tel02_02app_060",
+        "msgStr": "Utai-Gaikotsu'nun Sesi"
+      },
+      {
+        "msgID": "MAP22_M_L0126",
+        "msgStr": "Dertler üst üste mi bindi? Kafayı yemenin eşiğinde misin? O kadar acele etme!"
+      },
+      {
+        "msgID": "MAP22_M_L0127",
+        "msgStr": "Önce her şeyi <IT_S>bana<IT_E> dök! Sonrasında istediğin zaman umutsuzluğa kapılabilirsin!"
+      },
+      {
+        "msgID": "map22_m_mplan_tel02_03_061",
+        "msgStr": "Utai-Gaikotsu'nun Sesi"
+      },
+      {
+        "msgID": "MAP22_M_L0128",
+        "msgStr": "Hm? Ne dedin? Sen bir... insan öğrenci misin!?"
+      },
+      {
+        "msgID": "MAP22_M_L0129",
+        "msgStr": "Ah, Tanrı aşkına... Karanlık Diyar'da bir insan çocuk mu!?"
+      },
+      {
+        "msgID": "map22_m_mplan_tel02_04_062",
+        "msgStr": "Utai-Gaikotsu'nun Sesi"
+      },
+      {
+        "msgID": "MAP22_M_L0130",
+        "msgStr": "Sana bir şeyi netleştireyim evlat."
+      },
+      {
+        "msgID": "MAP22_M_L0131",
+        "msgStr": "Bu hat, <IT_S>yetişkin<IT_E> iblislerin ve yeni ölmüşlerin dertlerini özel olarak konuşabilecekleri bir yerdir."
+      },
+      {
+        "msgID": "MAP22_M_L0132",
+        "msgStr": "Yani serseri öğrencilerin işletme aramalarına yer yok."
+      },
+      {
+        "msgID": "MAP22_M_L0133",
+        "msgStr": "Al şunu da insan dünyasındaki derslerinin başına dön."
+      },
+      {
+        "msgID": "MAP22_M_L0134",
+        "msgStr": "Tekrar görüşürüz... bir gün!"
+      },
+      {
+        "msgID": "map22_m_mplan_tel02_05_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0135",
+        "msgStr": "> Hat kesildi."
+      },
+      {
+        "msgID": "MAP22_M_L0136",
+        "msgStr": "> Raidou elinde ahizeden başka bir şey tuttuğunu fark etti."
+      },
+      {
+        "msgID": "MAP22_M_L0137",
+        "msgStr": "> Raidou, <ITM_08><COLOR 4>Soma Damlası<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map22_m_m_Taxi01_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0138",
+        "msgStr": "> Taksi, Kırmızı Pelerin tarafından hurdaya çevrilmiş."
+      },
+      {
+        "msgID": "map22_m_m_Taxi02_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0139",
+        "msgStr": "> <devil 0> taksiyi kaldırıp fırlattı!"
+      },
+      {
+        "msgID": "map22_m_m_Taxi03_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0140",
+        "msgStr": "> Taksi havada uçtu."
+      },
+      {
+        "msgID": "map22_m_m_Taxi04_01_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0141",
+        "msgStr": "> Hurdaya dönmüş taksinin hasılatı yere saçılmış."
+      },
+      {
+        "msgID": "map22_m_m_Taxi04_02_068",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0142",
+        "msgStr": "> Raidou, <COLOR 4>500 yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map22_m_m_Taxi04_02dev_069",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0143",
+        "msgStr": "> <devil 0>, <COLOR 4>500 yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map22_m_m_Taxi04_03_070",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0144",
+        "msgStr": "> Yerde hâlâ para var."
+      },
+      {
+        "msgID": "map22_m_m_Taxi04_04_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0145",
+        "msgStr": "> Yerde başka para kalmadı..."
+      },
+      {
+        "msgID": "map22_m_m_Taxi04_05_072",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0146",
+        "msgStr": "> Raidou'nun cüzdanı ağzına kadar parayla dolu."
+      },
+      {
+        "msgID": "map22_m_m_Taxi04_05dev_073",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0147",
+        "msgStr": "> <devil 0> adlı iblisin cüzdanı ağzına kadar parayla dolu."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_m_01_074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_musu_b1_01_075",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "MAP22_M_L0150",
+        "msgStr": "Buralarda suratını göstermeye cesaret etmene şaşırdım doğrusu. Hoş geldin!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_musu_b1_02_076",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "MAP22_M_L0151",
+        "msgStr": "Şimdi ateş diyarının misafirperverliğinin tadına bak—kazıkta diri diri yanma zamanı!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_musu1_n_01_077",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "MAP22_M_L0152",
+        "msgStr": "Ha? Sen de kimsin? Defol buradan!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_musu_b2_01_078",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "MAP22_M_L0153",
+        "msgStr": "Hey, sen! Dur bakalım bir dakika!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_musu_b2_02_079",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "MAP22_M_L0154",
+        "msgStr": "Madem o üniformalı velet gitti... İşe senden başlayayım!"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_musu_b2_03_080",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "MAP22_M_L0155",
+        "msgStr": "Guh, o üniformalı velet olmadan bile kaybettim..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_musu_b_kari_081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden1_si_01_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0157",
+        "msgStr": "> Tramvay yolu kapatıyor."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden1_si_02_083",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0158",
+        "msgStr": "> Tramvay burada durmuş, yolu kapatıyor."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden1_si_03_084",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0159",
+        "msgStr": "> Bu, az önce hareket ettirilen tramvay."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden1_r_01_085",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0160",
+        "msgStr": "> <devil 0> kaba kuvvet kullanarak tramvaya yüklendi."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden1_kan_01_086",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0161",
+        "msgStr": "> <devil 0> tramvayı inceledi."
+      },
+      {
+        "msgID": "MAP22_M_L0162",
+        "msgStr": "> Yeterli kuvvet uygulanırsa hareket ettirilebilir gibi duruyor."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden1_kan_02_087",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0163",
+        "msgStr": "> <devil 0> tramvayı inceledi."
+      },
+      {
+        "msgID": "MAP22_M_L0164",
+        "msgStr": "> Hareket ettirilemez."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden2_si_01_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0165",
+        "msgStr": "> Hareket ettirilen tramvay yolu kapatıyor."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden2_r_01_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0166",
+        "msgStr": "> <devil 0> kaba kuvvet kullanarak tramvaya yüklendi."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden2_r_02_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0167",
+        "msgStr": "> <devil 0> kaba kuvvet kullanarak tramvayı itti."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden2_r_03_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0168",
+        "msgStr": "> Yerinden bile oynamadı."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden2_kan_01_092",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0169",
+        "msgStr": "> <devil 0> tramvayı inceledi."
+      },
+      {
+        "msgID": "MAP22_M_L0170",
+        "msgStr": "> Daha fazla kuvvetle biraz daha ilerleyebilir."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden2_kan_02_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0171",
+        "msgStr": "> <devil 0> tramvayı inceledi."
+      },
+      {
+        "msgID": "MAP22_M_L0172",
+        "msgStr": "> Gidebileceği son noktaya kadar gitti."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden2_kan_03_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0173",
+        "msgStr": "> <devil 0> tramvayı inceledi."
+      },
+      {
+        "msgID": "MAP22_M_L0174",
+        "msgStr": "> Bu taraftan hareket ettirilemez."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden3_r_01_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0175",
+        "msgStr": "> <devil 0> kaba kuvvet kullanarak tramvaya yüklendi."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden3_r_02_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0176",
+        "msgStr": "> Gidebileceği son noktaya kadar gitti."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden_SISA01_097",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0177",
+        "msgStr": "Bu tramvayı buraya bir iblis mi koydu?"
+      },
+      {
+        "msgID": "MAP22_M_L0178",
+        "msgStr": "Daha fazla ilerleyebilmek için önce onu çekmemiz gerekecek."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden_SISA02_098",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0179",
+        "msgStr": "Raidou, <COLOR 3>güçlü kuvvetli bir iblis<COLOR 0> çağırmayı dene."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_shiden_SISA03_099",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP22_M_L0180",
+        "msgStr": "Hm, görünüşe göre bu taraftan kımıldamayacak. Belki <COLOR 3>başka bir açıdan denersek<COLOR 0>..."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_n_01_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0181",
+        "msgStr": "> <devil 0> olağandışı bir şey sezdi."
+      },
+      {
+        "msgID": "MAP22_M_L0182",
+        "msgStr": "> Daha fazla ilerleyemediler."
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_SISA_101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_SISA02_102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_SISA_YES_103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_SISA_NO_104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_b_01_105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_b_01_1_106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_b_02_107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_ep09_susa_b_03_108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_01_109",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0192",
+        "msgStr": "GEĞİRİR..."
+      },
+      {
+        "msgID": "MAP22_M_L0193",
+        "msgStr": "BİR İNSANI TEK LOKMADA YUTTUM! AMA BİRAZI DİŞİMİN ARASINA SIKIŞTI."
+      },
+      {
+        "msgID": "MAP22_M_L0194",
+        "msgStr": "SEN, ÇAĞIRICI. BANA YARDIM EDEBİLİR MİSİN?"
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_02_110",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0195",
+        "msgStr": "> İblisin dişine sıkışan nesne çıkarılsın mı?"
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_NO_111",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0196",
+        "msgStr": "AHH... ACI ÇEKİYORUM. ÇOK ZALİMSİN, ÇAĞIRICI."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_YES_112",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0197",
+        "msgStr": "> Raidou, iblisin dişine sıkışan nesneyi çıkardı."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_03_113",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0198",
+        "msgStr": "AUUUUU! ÇOK DUYGULANDIM. ÇOK MUTLUYUM."
+      },
+      {
+        "msgID": "MAP22_M_L0199",
+        "msgStr": "ÇOK İYİ BİRİSİN, ÇAĞIRICI. AMA O BENİM."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_04_114",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0200",
+        "msgStr": "> İblis, dişlerinin arasına sıkışmış olan nesneyi kapıverdi."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_05_115",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0201",
+        "msgStr": "BUNU NEDEN İSTİYORSUN? KAFAM KARIŞTI."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_06_116",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0202",
+        "msgStr": "İNSAN KILIĞINA GİRİP TRAMVAYLARA BİNİYORUM."
+      },
+      {
+        "msgID": "MAP22_M_L0203",
+        "msgStr": "ÇOK EĞLENCELİ! EĞLENCEYİ SEVERİM!"
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_07_117",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0204",
+        "msgStr": "TRAMVAYLARDAN SIKILDIM. ÜZÜCÜ BİR GÜN."
+      },
+      {
+        "msgID": "MAP22_M_L0205",
+        "msgStr": "BUNU AL. BANA LAZIM DEĞİL."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_08_118",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0206",
+        "msgStr": "TRAMVAYLARDAN SIKILDIM. ÜZÜCÜ BİR GÜN."
+      },
+      {
+        "msgID": "MAP22_M_L0207",
+        "msgStr": "BUNU AL. BANA LAZIM DEĞİL."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_09_119",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0208",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Tramvay Pasosu<COLOR 0>'nu elde etti."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_10_120",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0209",
+        "msgStr": "ARTIK TRAMVAYLARA BİNEBİLİRSİN! ÇOK İYİYİM!"
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_11_121",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0210",
+        "msgStr": "MUTLUYUM. BUNU AL."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_12_122",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0211",
+        "msgStr": "ESKİDEN İNSANLARI TEK LOKMADA YUTAR, SONRA TRAMVAYLARA BİNERDİM."
+      },
+      {
+        "msgID": "MAP22_M_L0212",
+        "msgStr": "ÇOK BİNDİM. EĞLENCELİYDİ. BU SENİN İÇİN."
+      },
+      {
+        "msgID": "map22_m_mplan_epALL_SYASYO_dv_123",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "MAP22_M_L0213",
+        "msgStr": "SEN NEYİ TEK LOKMADA YUTACAKSIN?"
+      },
+      {
+        "msgID": "map22_m_m_Common_IkaiExit01_124",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0214",
+        "msgStr": "> Yatagarasu Elçisi, gerçek dünya ile Karanlık Diyar arasında bir bağlantı kurdu."
+      },
+      {
+        "msgID": "MAP22_M_L0215",
+        "msgStr": "> Işığın ötesinde İsimsiz Tapınak görünüyor. İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map22_m_m_Common_IkaiExit02_125",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0216",
+        "msgStr": "> Işığın ötesinde gerçek dünya görünüyor."
+      },
+      {
+        "msgID": "MAP22_M_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP22_M_L0218",
+        "msgStr": "> Gerçek dünyaya dönülsün mü?"
+      },
+      {
+        "msgID": "map22_m_m_Common_IkaiExitSelect SEL_126",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP22_M_L0219",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP22_M_L0220",
+        "msgStr": "Hayır"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:46:28"
+}

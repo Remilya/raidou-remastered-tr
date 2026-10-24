@@ -1,0 +1,325 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP17_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map17_e_dammy_17_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map17_m_m_shouki_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0000",
+        "msgStr": "> Bu bir Lekeli Geçit. Yalnızca iblisler geçebilir."
+      },
+      {
+        "msgID": "map17_m_m_start_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map17_m_m_Limit01_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0002",
+        "msgStr": "> Karanlıktan ağırbaşlı bir ses yankılanıyor."
+      },
+      {
+        "msgID": "map17_m_m_Limit02_003",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "MAP17_M_L0003",
+        "msgStr": "Burası acımasız gerçekliğin mekânıdır."
+      },
+      {
+        "msgID": "MAP17_M_L0004",
+        "msgStr": "Mevcut gücünle daha fazla ilerleyemezsin."
+      },
+      {
+        "msgID": "MAP17_M_L0005",
+        "msgStr": "Eğitim alıp daha güçlü bir hâle geldiğinde geri dön."
+      },
+      {
+        "msgID": "map17_m_m_E_Boss01_01_004",
+        "msgStr": "Zombi"
+      },
+      {
+        "msgID": "MAP17_M_L0006",
+        "msgStr": "Sen... Sen de mi efsanevi mahjong taşları için buradasın!?"
+      },
+      {
+        "msgID": "map17_m_m_E_Boss01_02_005",
+        "msgStr": "Zombi Muhafız"
+      },
+      {
+        "msgID": "MAP17_M_L0007",
+        "msgStr": "Efsanevi taşlar, bizim gibi iblislerin bile oyunun heyecanında kendinden geçmesini sağlıyor!"
+      },
+      {
+        "msgID": "MAP17_M_L0008",
+        "msgStr": "Onları almana izin vermeyeceğiz! Cesedimizi çiğnemen gerekir!"
+      },
+      {
+        "msgID": "map17_m_m_E_Boss01_03_006",
+        "msgStr": "Ghoul"
+      },
+      {
+        "msgID": "MAP17_M_L0009",
+        "msgStr": "bU dÖRt rÜZgÂr tAŞıNI o kADaR çOK mU iSTiyORsUn? o zAMaN oNLaR uĞRunA gEBeR!"
+      },
+      {
+        "msgID": "map17_m_m_E_Boss03_01_007",
+        "msgStr": "Zombi"
+      },
+      {
+        "msgID": "MAP17_M_L0010",
+        "msgStr": "Hayır... Lanet olsun sana! Bu işin bittiğini sanma!"
+      },
+      {
+        "msgID": "map17_m_m_E_Boss03_02_008",
+        "msgStr": "Zombi Muhafız"
+      },
+      {
+        "msgID": "MAP17_M_L0011",
+        "msgStr": "Efsanevi taş setlerinden yalnızca birine sahip olmak anlamsızdır. Diğer üçüne de ihtiyacın var..."
+      },
+      {
+        "msgID": "map17_m_m_E_Boss03_03_009",
+        "msgStr": "Ghoul"
+      },
+      {
+        "msgID": "MAP17_M_L0012",
+        "msgStr": "üSTeLİk bAŞkENt dEVaSa! aSLa hEPsİnİ bULaMAyACaKsIN! HahAhAHaAHaHA!"
+      },
+      {
+        "msgID": "map17_m_m_E_GetItem01_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0013",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Dört Rüzgâr Taşı<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_Boss01_01_011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map17_m_m_N_Boss_Sel SEL_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem01_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0017",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Mansaku\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem02_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0018",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Homura\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem03_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0019",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Fubuki\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem04_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0020",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Raiden\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem05_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0021",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Arashi\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem06_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0022",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Gouriki\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem07_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0023",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Yamiyo\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem08_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0024",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Takumi\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem09_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0025",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Shishiou\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_N_GetItem10_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0026",
+        "msgStr": "> <devil 0>, <ITM_11><COLOR 4>\"Kotetsu\" Sakesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_W_Boss01_01_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map17_m_m_W_Boss_Sel SEL_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map17_m_m_W_GetItem01_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0030",
+        "msgStr": "> <devil 0>, <ITM_09><COLOR 4>Güç Tütsüsü<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_W_GetItem02_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0031",
+        "msgStr": "> <devil 0>, <ITM_09><COLOR 4>Büyü Tütsüsü<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_W_GetItem03_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0032",
+        "msgStr": "> <devil 0>, <ITM_09><COLOR 4>Dayanıklılık Tütsüsü<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_W_GetItem04_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0033",
+        "msgStr": "> <devil 0>, <ITM_09><COLOR 4>Şans Tütsüsü<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_W_GetItem05_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0034",
+        "msgStr": "> <devil 0>, <ITM_08><COLOR 4>İlaç<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map17_m_m_S_Boss01_01_030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map17_m_m_S_Boss_Sel SEL_031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP17_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map17_m_m_S_GetItem01_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map17_m_m_QUEST_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP17_M_L0039",
+        "msgStr": "> Zemine kazınmış bir sayı var..."
+      },
+      {
+        "msgID": "MAP17_M_L0040",
+        "msgStr": "\"E: 220,825\""
+      },
+      {
+        "msgID": "MAP17_M_L0041",
+        "msgStr": "\"F: 8,837,912\""
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:31:42"
+}

@@ -1,0 +1,121 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SBTLMENUHELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SBTLMENUHELP_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0001",
+        "msgStr": "Bir iblise emir ver."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0002",
+        "msgStr": "Bir iblis çağır."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0003",
+        "msgStr": "Bir iblisi tüpe geri döndür."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0005",
+        "msgStr": "Bir eşya kullan."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0006",
+        "msgStr": "Bir düşmanı analiz et."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0007",
+        "msgStr": "Savaştan kaç."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0008",
+        "msgStr": "Kaçma girişimini iptal et."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0010",
+        "msgStr": "Savaşa başla."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0011",
+        "msgStr": "Bir hedef seç."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0012",
+        "msgStr": "Çağırmak için bir iblis seçin."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0013",
+        "msgStr": "Çağırmak için bir yuva seçin. Seçilen yuvada şu anda başka bir iblis varsa, o iblis değiştirilecektir."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0014",
+        "msgStr": "Tüpe geri göndermek için bir iblis seçin."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0015",
+        "msgStr": "Eşyayı üzerinde kullanmak için bir hedef seçin."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0016",
+        "msgStr": "Hangi iblisin analiz edileceğini seçin."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0018",
+        "msgStr": "Şu anda kullanılamaz! Savaş başladığında menüyü açıp seçin."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0019",
+        "msgStr": "Bir durum rahatsızlığı geri dönüşü engelliyor!"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0020",
+        "msgStr": "Arka arkaya kullanılamaz!"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0021",
+        "msgStr": "Yetersiz MAG nedeniyle kullanılamaz!"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0022",
+        "msgStr": "Mevcut kılıç türüyle kullanılamaz!"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0023",
+        "msgStr": "Bir durum rahatsızlığı nedeniyle kullanılamaz!"
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0024",
+        "msgStr": "Raidou'nun Savaş Yetenekleri ve Kılıç Yetenekleri ayarlarını değiştir."
+      },
+      {
+        "msgID": "SBTLMENUHELP_L0025",
+        "msgStr": "Çeşitli ayarları düzenle."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:48:17"
+}

@@ -1,0 +1,245 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "ICON_HELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "ICON_HELP_L0000",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "ICON_HELP_L0001",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "ICON_HELP_L0002",
+        "msgStr": "Hedef"
+      },
+      {
+        "msgID": "ICON_HELP_L0004",
+        "msgStr": "Karakter"
+      },
+      {
+        "msgID": "ICON_HELP_L0005",
+        "msgStr": "Karakter (konuşuldu)"
+      },
+      {
+        "msgID": "ICON_HELP_L0006",
+        "msgStr": "İlgi noktası"
+      },
+      {
+        "msgID": "ICON_HELP_L0007",
+        "msgStr": "Toplanabilir eşya"
+      },
+      {
+        "msgID": "ICON_HELP_L0008",
+        "msgStr": "Mavi kristal"
+      },
+      {
+        "msgID": "ICON_HELP_L0009",
+        "msgStr": "Mavi kristal (boş)"
+      },
+      {
+        "msgID": "ICON_HELP_L0010",
+        "msgStr": "Kırmızı kristal"
+      },
+      {
+        "msgID": "ICON_HELP_L0011",
+        "msgStr": "Kırmızı kristal (boş)"
+      },
+      {
+        "msgID": "ICON_HELP_L0012",
+        "msgStr": "Ejderha Pınarı"
+      },
+      {
+        "msgID": "ICON_HELP_L0013",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "ICON_HELP_L0014",
+        "msgStr": "Ejderha Yükseltisi"
+      },
+      {
+        "msgID": "ICON_HELP_L0015",
+        "msgStr": "Lekeli Geçit"
+      },
+      {
+        "msgID": "ICON_HELP_L0016",
+        "msgStr": "Yeraltı Kapısı"
+      },
+      {
+        "msgID": "ICON_HELP_L0017",
+        "msgStr": "Kat değişimi"
+      },
+      {
+        "msgID": "ICON_HELP_L0018",
+        "msgStr": "Çift yönlü ışınlanma"
+      },
+      {
+        "msgID": "ICON_HELP_L0019",
+        "msgStr": "Tek yönlü ışınlanma"
+      },
+      {
+        "msgID": "ICON_HELP_L0020",
+        "msgStr": "Geçit"
+      },
+      {
+        "msgID": "ICON_HELP_L0021",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "ICON_HELP_L0022",
+        "msgStr": "Konnou-ya/Gouma-Den"
+      },
+      {
+        "msgID": "ICON_HELP_L0100",
+        "msgStr": "Raidou'nun mevcut konumu."
+      },
+      {
+        "msgID": "ICON_HELP_L0101",
+        "msgStr": "Tek başına soruşturma sırasındaki iblisin konumu."
+      },
+      {
+        "msgID": "ICON_HELP_L0102",
+        "msgStr": "Mevcut hedef."
+      },
+      {
+        "msgID": "ICON_HELP_L0104",
+        "msgStr": "Konuşulabilen bir insan veya iblis."
+      },
+      {
+        "msgID": "ICON_HELP_L0105",
+        "msgStr": "Daha önce konuştuğunuz bir hedef."
+      },
+      {
+        "msgID": "ICON_HELP_L0106",
+        "msgStr": "Bir tür eylem gerçekleştirebileceğiniz bir yer."
+      },
+      {
+        "msgID": "ICON_HELP_L0107",
+        "msgStr": "Yerden alınabilen bir eşya."
+      },
+      {
+        "msgID": "ICON_HELP_L0108",
+        "msgStr": "İçinden eşya elde edilebilen bir nesne."
+      },
+      {
+        "msgID": "ICON_HELP_L0109",
+        "msgStr": "İçeriği halihazırda alınmış bir nesne."
+      },
+      {
+        "msgID": "ICON_HELP_L0110",
+        "msgStr": "İçeriği tek başına soruşturma yapan bir iblis tarafından alınabilen bir nesne."
+      },
+      {
+        "msgID": "ICON_HELP_L0111",
+        "msgStr": "İçeriği halihazırda alınmış bir nesne."
+      },
+      {
+        "msgID": "ICON_HELP_L0112",
+        "msgStr": "İlerlemenizi kaydedebileceğiniz ve Gouma-Den'i ziyaret edebileceğiniz bir yer."
+      },
+      {
+        "msgID": "ICON_HELP_L0113",
+        "msgStr": "Müttefikler burada iyileştirilebilir."
+      },
+      {
+        "msgID": "ICON_HELP_L0114",
+        "msgStr": "Ne Raidou'nun ne de iblislerinin geçebileceği bir duvar."
+      },
+      {
+        "msgID": "ICON_HELP_L0115",
+        "msgStr": "Yalnızca iblislerin geçebileceği bir duvar."
+      },
+      {
+        "msgID": "ICON_HELP_L0116",
+        "msgStr": "Savaşta yıkılabilen bir duvar."
+      },
+      {
+        "msgID": "ICON_HELP_L0117",
+        "msgStr": "Merdiven gibi başka bir kata çıkan bir geçit."
+      },
+      {
+        "msgID": "ICON_HELP_L0118",
+        "msgStr": "Başka bir konuma git."
+      },
+      {
+        "msgID": "ICON_HELP_L0119",
+        "msgStr": "Başka bir konuma tek yönlü git."
+      },
+      {
+        "msgID": "ICON_HELP_L0120",
+        "msgStr": "Başka bir konuma git veya Karanlık Diyar'dan gerçek dünyaya dön."
+      },
+      {
+        "msgID": "ICON_HELP_L0121",
+        "msgStr": "Dinlenmek, ilerlemeyi kaydetmek ve daha fazlası için bir yer."
+      },
+      {
+        "msgID": "ICON_HELP_L0122",
+        "msgStr": "Eşya alıp satmak ve iblis füzyonu ya da Kılıç Simyası yapmak için bir yer."
+      },
+      {
+        "msgID": "ICON_HELP_L0023",
+        "msgStr": "Aril Yarığı (arındırılmamış)"
+      },
+      {
+        "msgID": "ICON_HELP_L0024",
+        "msgStr": "Aril Yarığı (arındırılmış)"
+      },
+      {
+        "msgID": "ICON_HELP_L0123",
+        "msgStr": "Aril Yarığı (Aril Yarığı Devriyesi ile arındırılmamış)"
+      },
+      {
+        "msgID": "ICON_HELP_L0124",
+        "msgStr": "Aril Yarığı (Aril Yarığı Devriyesi ile arındırılmış)"
+      },
+      {
+        "msgID": "ICON_HELP_L0200",
+        "msgStr": "Harita işaretleri"
+      },
+      {
+        "msgID": "ICON_HELP_L0025",
+        "msgStr": "Aril Yarığı (yeniden beliren)"
+      },
+      {
+        "msgID": "ICON_HELP_L0125",
+        "msgStr": "Daha önce arındırılmış ancak yeniden ortaya çıkmış bir Aril Yarığı."
+      },
+      {
+        "msgID": "ICON_HELP_L0126",
+        "msgStr": "Dava Dosyası Hedefi"
+      },
+      {
+        "msgID": "ICON_HELP_L0127",
+        "msgStr": "Bir dava dosyası için varış noktası."
+      },
+      {
+        "msgID": "ICON_HELP_L0128",
+        "msgStr": "Aday"
+      },
+      {
+        "msgID": "ICON_HELP_L0129",
+        "msgStr": "Adayın mevcut konumu."
+      },
+      {
+        "msgID": "ICON_HELP_L0130",
+        "msgStr": "Hedef (gizli)"
+      },
+      {
+        "msgID": "ICON_HELP_L0131",
+        "msgStr": "Dava Dosyası Hedefi (gizli)"
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/22 17:00:50"
+}

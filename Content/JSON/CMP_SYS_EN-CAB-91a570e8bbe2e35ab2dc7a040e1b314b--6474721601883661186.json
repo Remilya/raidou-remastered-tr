@@ -1,0 +1,109 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_SYS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CMP_SYS_L0000",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "CMP_SYS_L0001",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "CMP_SYS_L0002",
+        "msgStr": "> Bu iblis serbest bırakılsın mı?\n(İblis Rehberi'ne kaydedilmediyse bu iblis geri alınamaz.)"
+      },
+      {
+        "msgID": "CMP_SYS_L0003",
+        "msgStr": "> Bu iblis savaşların başında otomatik olarak çağrılsın mı?"
+      },
+      {
+        "msgID": "CMP_SYS_L0004",
+        "msgStr": "> Otomatik çağırma tercihleri sıfırlansın mı?"
+      },
+      {
+        "msgID": "CMP_SYS_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_SYS_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_SYS_L0007",
+        "msgStr": "Kaydetme başarısız oldu."
+      },
+      {
+        "msgID": "CMP_SYS_L0008",
+        "msgStr": "Ayarlar değiştirildi."
+      },
+      {
+        "msgID": "CMP_SYS_L0009",
+        "msgStr": "Atamak istediğiniz tuşa basın. (Alfanümerik tuşlar, Tab, sol ve sağ Shift, Boşluk, sol ve sağ Ctrl, sol ve sağ Alt ile Backspace tuşları atanabilir.) Ayarlar ekranına dönmek için ESC tuşuna basın."
+      },
+      {
+        "msgID": "CMP_SYS_L0010",
+        "msgStr": "Bu ayarlar kaydedilsin mi?\n<V 0> saniye içinde önceki ayarlara dönülecek."
+      },
+      {
+        "msgID": "CMP_SYS_L0011",
+        "msgStr": "> Değiştirilen bir ayar başka bir ayarla çakışıyor. Diğer ayarın üzerine yazılsın mı?"
+      },
+      {
+        "msgID": "CMP_SYS_L0012",
+        "msgStr": "> Çıkmadan önce değişikliklerinizi kaydetmek ister misiniz?"
+      },
+      {
+        "msgID": "CMP_SYS_L0013",
+        "msgStr": "> Bazı ayarlar seçilmedi. Bunları uygulamadan çıkılsın mı?"
+      },
+      {
+        "msgID": "CMP_SYS_L0014",
+        "msgStr": "> <V 0> varsayılan ayara döndürülsün mü?"
+      },
+      {
+        "msgID": "CMP_SYS_L0015",
+        "msgStr": "> Ayar değişikliklerini kaydetmeden geri dönülsün mü?"
+      },
+      {
+        "msgID": "CMP_SYS_L0016",
+        "msgStr": "> <V 0> unutulup <V 1> öğrenilsin mi?"
+      },
+      {
+        "msgID": "CMP_SYS_L0017",
+        "msgStr": "> Ustalık seviyesini artırmak için <V 0> kullanılsın mı?"
+      },
+      {
+        "msgID": "CMP_SYS_L0018",
+        "msgStr": "> <V 0> öğrenilsin mi?"
+      },
+      {
+        "msgID": "CMP_SYS_L0019",
+        "msgStr": "Ana ekrana dönülsün mü? Kaydedilmemiş tüm ilerleme kaybedilecek."
+      },
+      {
+        "msgID": "CMP_SYS_L0020",
+        "msgStr": "Çıkmak istediğinizden emin misiniz? Kaydedilmemiş tüm ilerleme kaybedilecek."
+      },
+      {
+        "msgID": "CMP_SYS_L0021",
+        "msgStr": "> <V 1>, <COLOR 4><V 0><COLOR 0> yeteneğini kısmen öğrendi! (Yalnızca kısmen öğrenilen yetenekler iblis füzyonu yoluyla aktarılamaz.)"
+      },
+      {
+        "msgID": "CMP_SYS_L0022",
+        "msgStr": "> <V 1>, <COLOR 4><V 0><COLOR 0> yeteneğini tamamen öğrendi! Bu yetenek artık iblis füzyonu yoluyla aktarılabilir!"
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/04 17:04:07"
+}

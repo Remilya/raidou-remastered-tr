@@ -1,0 +1,825 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP16_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map16_e_dammy_16_01_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map16_m_m_jouken_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_m_name_entry_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_m_shuumei_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koe01_003",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0004",
+        "msgStr": "Sorun nedir? Cesaretini mi kaybettin?"
+      },
+      {
+        "msgID": "MAP16_M_L0005",
+        "msgStr": "Bir İblis Çağırıcısı olarak gücünü göstermeden buradan ayrılmana izin yok."
+      },
+      {
+        "msgID": "MAP16_M_L0006",
+        "msgStr": "Şimdi, ilerle."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koe02_004",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "MAP16_M_L0007",
+        "msgStr": "Ben Kuzunoha köyünün muhtarıyım."
+      },
+      {
+        "msgID": "MAP16_M_L0008",
+        "msgStr": "Durduğun yer Kuzunoha Eğitim Salonu."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koe02__005",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0009",
+        "msgStr": "<NAME 0>, köyün eğitimine göğüs gererek ve bu rol için aday statüsüne yükselerek iyi iş çıkardın."
+      },
+      {
+        "msgID": "MAP16_M_L0010",
+        "msgStr": "Biz, Kuzunoha klanı olarak karanlıktaki canavarlarla mücadele ettik ve 1.300 yıl boyunca oluşturdukları tehdidi bertaraf ettik."
+      },
+      {
+        "msgID": "MAP16_M_L0011",
+        "msgStr": "Birazdan gireceğin sınav, saygın saflarımıza katılmaya uygun olup olmadığını belirleyecek."
+      },
+      {
+        "msgID": "MAP16_M_L0012",
+        "msgStr": "Bu yüzden soruyorum..."
+      },
+      {
+        "msgID": "MAP16_M_L0013",
+        "msgStr": "Bir İblis Çağırıcısının hayatını sürmeye hazır mısın?"
+      },
+      {
+        "msgID": "map16_m_mmplan_ep00_Select SEL_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0013_01",
+        "msgStr": "Hazırım."
+      },
+      {
+        "msgID": "MAP16_M_L0013_02",
+        "msgStr": "İblis Çağırıcısı nedir?"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koe02__006",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0013_03",
+        "msgStr": "Savaştığımız canavarlar \"iblis\" olarak bilinir."
+      },
+      {
+        "msgID": "MAP16_M_L0013_04",
+        "msgStr": "İblisler büyük bir zekâya ve güce sahiptir. Bu özelliklerini insanlığı avlamak, hem et hem de ruhla ziyafet çekmek için kullanırlar."
+      },
+      {
+        "msgID": "MAP16_M_L0013_05",
+        "msgStr": "Toplumumuzun huzurunu tehdit eden aşağılık ucubelerdir."
+      },
+      {
+        "msgID": "MAP16_M_L0013_06",
+        "msgStr": "Kuzunoha'lar bu tehditle mücadele etmek için çivi çiviyi söker anlayışıyla bizzat iblisleri evcilleştirip onlara hükmeder."
+      },
+      {
+        "msgID": "MAP16_M_L0013_07",
+        "msgStr": "İblislerin kudretini kullanarak onların aşağılık soydaşlarını katletmek; İblis Çağırıcısı olmanın anlamı budur."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koe02__007",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0013_08",
+        "msgStr": "Çok güzel. Bu kararlılığını koruyacağına güveniyorum."
+      },
+      {
+        "msgID": "MAP16_M_L0013_09",
+        "msgStr": "Şimdi sınavı başlatacağız."
+      },
+      {
+        "msgID": "MAP16_M_L0013_10",
+        "msgStr": "Bu sınava girecek son aday sen olacaksın. Şu ana kadar kimse başarılı olamadı."
+      },
+      {
+        "msgID": "MAP16_M_L0013_11",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0013_12",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0014",
+        "msgStr": "Umarım en azından hayatta kalırsın."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei01_006",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0015",
+        "msgStr": "İlk olarak kılıç becerilerini sergile."
+      },
+      {
+        "msgID": "MAP16_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0017",
+        "msgStr": "Bu sınavda yozlaşmayla dolu kuklalar düşmanın olacak. Onları tereddüt etmeden yere ser."
+      },
+      {
+        "msgID": "MAP16_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei02_007",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0019",
+        "msgStr": "Sırada nişancılığını sergileyeceksin."
+      },
+      {
+        "msgID": "MAP16_M_L0020",
+        "msgStr": "Saf gümüşten mermiler iblislere yeterince zarar verir. Sakinliğini koru, aksi takdirde hedeflerine ulaşamamaları kaçınılmaz olur."
+      },
+      {
+        "msgID": "MAP16_M_L0021",
+        "msgStr": "Kendini topla ve mermilerinin düşmanlarını delip geçmesine izin ver."
+      },
+      {
+        "msgID": "MAP16_M_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei02b_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei03_009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei03_AFTER_010",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0031",
+        "msgStr": "Bir iblisi başarıyla evcilleştirdin. Böylece ilk adım tamamlandı."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei03_AFTER_011",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0031_01",
+        "msgStr": "Hapsedilme sanatı, bir iblisi müttefikin hâline getirebileceğin tekniktir."
+      },
+      {
+        "msgID": "MAP16_M_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei04_AFTER_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei05_013",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0038",
+        "msgStr": "Sınav için nasıl aday olabildiğini kesinlikle görebiliyorum. Kılıcını ve ateşli silahını kolaylıkla kullanıyorsun."
+      },
+      {
+        "msgID": "MAP16_M_L0039",
+        "msgStr": "Pekâlâ. Sırada silahlarını kuşan ve savaş içgüdülerini sergile."
+      },
+      {
+        "msgID": "MAP16_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koe03_014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koe04_015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koe05_016",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0047",
+        "msgStr": "Evet, aldığın eğitim kesinlikle meyvesini vermiş."
+      },
+      {
+        "msgID": "MAP16_M_L0048",
+        "msgStr": "Kendine ait bir iblisi yönetmenin vakti geldi."
+      },
+      {
+        "msgID": "MAP16_M_L0049",
+        "msgStr": "Buraya bir iblis salınacak. Köyün bariyeri içinde tehlike az olsa da yine de tetikte ol."
+      },
+      {
+        "msgID": "MAP16_M_L0049_01",
+        "msgStr": "İlk olarak <NAME 0>, hapsedilme sanatını kullanmana izin vereceğiz."
+      },
+      {
+        "msgID": "MAP16_M_L0049_02",
+        "msgStr": "Şimdi, iblisi müttefikin yap."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_akuma01_017",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP16_M_L0050",
+        "msgStr": "Hım?"
+      },
+      {
+        "msgID": "MAP16_M_L0051",
+        "msgStr": "Hey, Cehennem'in kazanlarını harlayan belalı Ukobach'ı, yani beni bu çöplüğe çağırmanın amacı ne?"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_akuma01_017_01",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "MAP16_M_L0052",
+        "msgStr": "Dur bakalım, beni müttefikin yapmaya çalışmayı düşünmüyorsun, değil mi?"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_akuma02_018",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "MAP16_M_L0053",
+        "msgStr": "Hyahahaha! İyi şakaydı evlat."
+      },
+      {
+        "msgID": "MAP16_M_L0054",
+        "msgStr": "Ama ne var biliyor musun? Yürekli olduğunu kabul edeceğim."
+      },
+      {
+        "msgID": "MAP16_M_L0055",
+        "msgStr": "Gücümü o kadar çok istiyorsan gel de al bakalım!"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_akuma03_019",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "MAP16_M_L0056",
+        "msgStr": "Hyahahaha! Elbette düşünmüyorsundur!"
+      },
+      {
+        "msgID": "MAP16_M_L0057",
+        "msgStr": "Senin gibi muhallebi çocuğu bir serseri benimle oynarken donunu kirletir."
+      },
+      {
+        "msgID": "MAP16_M_L0058",
+        "msgStr": "Ama bir iblisi boşuna çağırmadın, değil mi?"
+      },
+      {
+        "msgID": "MAP16_M_L0059",
+        "msgStr": "O zaman biraz takılıp havai fişeklerin tadını çıkarmaya ne dersin!?"
+      },
+      {
+        "msgID": "MAP16_M_L0060",
+        "msgStr": "Evet, düşünüyorum."
+      },
+      {
+        "msgID": "MAP16_M_L0061",
+        "msgStr": "Hayır, düşünmüyorum."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_kari02_020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_m_GOT_IT_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0063",
+        "msgStr": "<COLOR 3>> Hazır mısın?<COLOR 0>"
+      },
+      {
+        "msgID": "map16_m_m_NO_GOT_IT_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_m_MATA_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koeNEW_01_024",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0066",
+        "msgStr": "Gücünü tam olarak sergileyemedin. Ne acınası..."
+      },
+      {
+        "msgID": "MAP16_M_L0067",
+        "msgStr": "Sana bir şans daha tanıyacağız. Potansiyelini göster."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koeNEW_02_025",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0068",
+        "msgStr": "İblisi evcilleştirmeyi başaramadın. Ne acınası..."
+      },
+      {
+        "msgID": "MAP16_M_L0069",
+        "msgStr": "Sana bir şans daha tanıyacağız. Potansiyelini göster."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_koeNEW_03_026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_OSARAI_01_027",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0072",
+        "msgStr": "Ah, beni görebiliyor musun?"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_OSARAI_02_028",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0073",
+        "msgStr": "Gerçi bu beklenen bir şey. Ne de olsa olağanüstü ruhsal gücün sana bir İblis Çağırıcısı adayı olma ve bu sınava girme hakkı kazandırdı."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_01_029",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP16_M_L0074",
+        "msgStr": "Hehe. Selam! Ben Alp."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_02_030",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP16_M_L0075",
+        "msgStr": "Hey, birazcık konuşabilir miyiz dersin?"
+      },
+      {
+        "msgID": "MAP16_M_L0076",
+        "msgStr": "Az önce \"arkadaşınla\" birlikte savaştığını gördüm ve vay canına, sende gerçek bir potansiyel var."
+      },
+      {
+        "msgID": "MAP16_M_L0077",
+        "msgStr": "Diğer adaylar gibi değilsin. Sende kesinlikle farklı bir şeyler var."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_MOKU_031",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP16_M_L0078",
+        "msgStr": "Şeeey... Senden bir ricam olacaktı."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_DAME_032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_OK_033",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP16_M_L0081",
+        "msgStr": "İnsanlar bugünlerde çok iç karartıcı, bilirsin? Bu durum <IT_S>beni<IT_E> de biraz bunalıma sokuyor."
+      },
+      {
+        "msgID": "MAP16_M_L0082",
+        "msgStr": "Keşke biri şey yapsa... İrademi yeniden alevlendirse falan. Bunu yapabilir misin dersin?"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_03_034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_04_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_NPC_QUE_036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_NPC_01_01_037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_NPC_01_02_038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_NPC_02_01_039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_NPC_02_02_040",
+        "msgStr": "Ölülerin Sesi"
+      },
+      {
+        "msgID": "MAP16_M_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_NPC_02_03_041",
+        "msgStr": "Ölülerin Sesi"
+      },
+      {
+        "msgID": "MAP16_M_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_NPC_02_02_042",
+        "msgStr": "Ölülerin Sesi"
+      },
+      {
+        "msgID": "MAP16_M_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei01_007",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0016_01",
+        "msgStr": "Kılıcın iblis varlıklarını katletmek amacıyla dövüldü. Onu kullanmak için yeterli el becerisi gerekir."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei02_008",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0020_01",
+        "msgStr": "Saf gümüşten mermiler iblislere yeterince zarar verir. Sakinliğini koru, aksi takdirde hedeflerine ulaşamamaları kaçınılmaz olur."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei05_014",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0040_01",
+        "msgStr": "Savunma taktiklerini göz önünde bulundururken saldırını stratejik olarak planlama becerin hayati önem taşır."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_setumei06_001",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "MAP16_M_L0099",
+        "msgStr": "Hmm, <NAME 0>... Acaba sınavın tamamını geçebilecek misin?"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_ADD_01",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP16_M_L0100",
+        "msgStr": "Ee, ne diyorsun? İrademi yeniden alevlendirebilir misin dersin?"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_ADD_02",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP16_M_L0101",
+        "msgStr": "Ahahahaha! Sanki İradem şu an alev almış gibi!"
+      },
+      {
+        "msgID": "MAP16_M_L0102",
+        "msgStr": "Ahaha! Özel olduğunu biliyordum! İblislerle başa çıkmakta gerçekten yeteneklisin."
+      },
+      {
+        "msgID": "MAP16_M_L0103",
+        "msgStr": "Evet, MAG'ın çok hoş hissettiriyor..."
+      },
+      {
+        "msgID": "MAP16_M_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP16_M_L0105",
+        "msgStr": "Neyse, ben artık gideyim. Teşekkürler insan! Seni unutmayacağım!"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_CHECK_ADD_03",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0106",
+        "msgStr": "> Bu iblis düşmanca görünmüyor..."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_02_01",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0107",
+        "msgStr": "Son derece etkileyici... Eskiden olduğun o çocuğun şimdi karşımdaki bu yiğit delikanlıya dönüşeceğini hiç tahmin etmezdim."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_02_02",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0108",
+        "msgStr": "Köydeki eğitim günlerin çok çetin geçmiş olmalı."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_03_01",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0109",
+        "msgStr": "Biz kimiz diye mi soruyorsun?"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_03_02",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0110",
+        "msgStr": "Senin seleflerin..."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_03_03",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0111",
+        "msgStr": "Sınavlarımız sırasında hayatını kaybeden adaylar."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_04_01",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0112",
+        "msgStr": "Çağlar gelir geçer, insanlar ve toplum değişir..."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_04_02",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0113",
+        "msgStr": "Yine de bizim için zaman olduğu yerde duruyor."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_04_03",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0114",
+        "msgStr": "Bin yıldır durmaksızın iblis katletmekten başka hiçbir şey yapmadık."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_05_01",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0115",
+        "msgStr": "Fakat bir İblis Çağırıcısı olmaya layık olduğunu kanıtlarsan dış dünyanın özgürlüğüne kavuşabileceksin!"
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SOUL_05_02",
+        "msgStr": "Tayf"
+      },
+      {
+        "msgID": "MAP16_M_L0116",
+        "msgStr": "O çiçekler şehri, Başkent... Her zaman orayı ziyaret etmenin hayalini kurmuştum."
+      },
+      {
+        "msgID": "map16_m_mplan_ep00_SYS_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP16_M_L0117",
+        "msgStr": "> Oyun zorluğu istediğiniz zaman değiştirilebilir. Bunu yapmak oyunun hikâyesini etkilemez."
+      },
+      {
+        "msgID": "MAP16_M_L0118",
+        "msgStr": "<BTN_X> ile ana menüyü açın, ardından \"Seçenekler\", \"Oyun Ayarları\" ve \"Oyun\" adımlarını izleyerek \"Zorluk\" seçeneğini seçin."
+      }
+    ]
+  },
+  "_convDateTime": "2025/08/07 14:04:51"
+}

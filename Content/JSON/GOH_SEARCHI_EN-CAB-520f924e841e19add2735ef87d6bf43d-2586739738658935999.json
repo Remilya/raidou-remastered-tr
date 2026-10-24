@@ -1,0 +1,81 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_SEARCHI_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_SEARCHI_L0000",
+        "msgStr": "Füzyonlara dahil edilecek iblis"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0001",
+        "msgStr": "Füzyonlardan hariç tutulacak iblis"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0002",
+        "msgStr": "Yalnızca kayıtlı olmayan iblisleri göster"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0004",
+        "msgStr": "İstenen iblis Düzeni sonucu"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0005",
+        "msgStr": "İstenen iblis sonucu"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0006",
+        "msgStr": "İstenen yetenek türü"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0007",
+        "msgStr": "İstenen yetenek adı"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0008",
+        "msgStr": "Yatkınlığa karşı güçlü"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0009",
+        "msgStr": "İblis Rehberi'ndeki iblisleri füzyonlara dahil et"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0010",
+        "msgStr": "Element Düzeni iblislerini hariç tut"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0011",
+        "msgStr": "Mitama Düzeni iblislerini hariç tut"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0012",
+        "msgStr": "Mevcut Füzyonlar:"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0013",
+        "msgStr": "Filtreler"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0014",
+        "msgStr": "Belirtilen seviye ve altı"
+      },
+      {
+        "msgID": "GOH_SEARCHI_L0015",
+        "msgStr": "Belirtilen seviye ve üstü"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:14"
+}

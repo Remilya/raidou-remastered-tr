@@ -1,0 +1,933 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP02_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map02_m_m_Common_Item_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0000",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map02_m_m_Common_ItemSelect SEL_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0001",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP02_M_L0002",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map02_m_m_Common_GetItem_Raidou_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0003",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "map02_m_m_Common_GetItem_Devil_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0004",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map02_m_m_Common_GetMAKA_Raidou_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0005",
+        "msgStr": ">  <COLOR 4><V 0> yen<COLOR 0> elde edildi."
+      },
+      {
+        "msgID": "map02_m_m_Common_GetMAKA_Devil_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0006",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0> yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map02_m_m_mes_01_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0007",
+        "msgStr": "> Burada hiçbir şey yok."
+      },
+      {
+        "msgID": "MAP02_M_L0008",
+        "msgStr": "> Ayrılmak istiyor musun?"
+      },
+      {
+        "msgID": "MAP02_M_L0009",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP02_M_L0010",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "MAP02_M_L0011",
+        "msgStr": "> Raidou ayrıldı."
+      },
+      {
+        "msgID": "MAP02_M_L0012",
+        "msgStr": "> Raidou kalmaya karar verdi."
+      },
+      {
+        "msgID": "map02_m_mplan_ep02_aka00_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0013",
+        "msgStr": "> İnşaat alanı gürültülü görünüyor..."
+      },
+      {
+        "msgID": "map02_m_mplan_ep02_aka01_008",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP02_M_L0014",
+        "msgStr": "Bu bir canavar!"
+      },
+      {
+        "msgID": "map02_m_mplan_ep02_aka02_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0015",
+        "msgStr": "> Kırmızı Pelerin gözden kayboldu..."
+      },
+      {
+        "msgID": "map02_m_mplan_ep02_aka03_010",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP02_M_L0016",
+        "msgStr": "Karanlık Diyar'a kaçtı..."
+      },
+      {
+        "msgID": "MAP02_M_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0018",
+        "msgStr": "Raidou, <COLOR 3>İsimsiz Tapınak'a gidelim<COLOR 0> ve Giriş Ritüeli'ni gerçekleştirelim."
+      },
+      {
+        "msgID": "map02_m_mplan_EP02_SC007_SISA3_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0019",
+        "msgStr": "> <COLOR 3>Karanlık Ginza-cho<COLOR 0> artık erişilebilir."
+      },
+      {
+        "msgID": "map02_m_mplan_ep02_aka04_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0020",
+        "msgStr": "> Raidou yakınlarda iblis enerjisi sezdi..."
+      },
+      {
+        "msgID": "map02_m_mplan_ep02_aka05_013",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP02_M_L0021",
+        "msgStr": "Uzağa gitmiş olamaz, muhtemelen yine bu bölgenin Karanlık Diyar'ındadır."
+      },
+      {
+        "msgID": "MAP02_M_L0022",
+        "msgStr": "İsimsiz Tapınak'a gidelim ve Giriş Ritüeli'ni gerçekleştirelim."
+      },
+      {
+        "msgID": "map02_m_mplan_ep02_car_01_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0023",
+        "msgStr": "> Araba olduğu yerde durmuş."
+      },
+      {
+        "msgID": "map02_m_mplan_ep02_car_02_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0024",
+        "msgStr": "> Yepyeni bir model ama şimdiden bozulmuşa benziyor."
+      },
+      {
+        "msgID": "map02_m_m_Eiga01_016",
+        "msgStr": "Burnu Havada Kız"
+      },
+      {
+        "msgID": "MAP02_M_L0025",
+        "msgStr": "Burası Başkent Salonu sineması."
+      },
+      {
+        "msgID": "MAP02_M_L0026",
+        "msgStr": "Gerçi burada gösterilen filmler senin için fazla olgun olabilir. Hepsi aşk hikâyesi, anlarsın ya."
+      },
+      {
+        "msgID": "MAP02_M_L0027",
+        "msgStr": "Aşkın yaprakları yalnızca solup dökülmek için açar... Hepimizin paylaştığı bir kader bu."
+      },
+      {
+        "msgID": "MAP02_M_L0028",
+        "msgStr": "Ama bu günlerde istediğimiz kişiyi özgürce sevebiliyoruz. Yaşadığımız bu yeni çağı kucakla."
+      },
+      {
+        "msgID": "map02_m_m_Eiga01ext_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0029",
+        "msgStr": "> Kadın sokağa bakarken özlemle iç çekiyor."
+      },
+      {
+        "msgID": "map02_m_m_Cafe01_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0030",
+        "msgStr": "> Burası Café Sao Paulosso."
+      },
+      {
+        "msgID": "MAP02_M_L0031",
+        "msgStr": "> Her yaştan kadın ve erkek içerideki Latin ritimlerinin büyüsüne kapılmış."
+      },
+      {
+        "msgID": "MAP02_M_L0032",
+        "msgStr": "Ginza Kahvesi      20 yen"
+      },
+      {
+        "msgID": "MAP02_M_L0033",
+        "msgStr": "Harman Kahve       20 yen"
+      },
+      {
+        "msgID": "MAP02_M_L0034",
+        "msgStr": "Mayonezli Kahve  30 yen"
+      },
+      {
+        "msgID": "MAP02_M_L0035",
+        "msgStr": "Belki başka sefere"
+      },
+      {
+        "msgID": "map02_m_m_Cafe01a_019",
+        "msgStr": "Garson Kız"
+      },
+      {
+        "msgID": "MAP02_M_L0036",
+        "msgStr": "Bu kahve çekirdekleri doğrudan Brezilya'dan ithal edildi!"
+      },
+      {
+        "msgID": "MAP02_M_L0037",
+        "msgStr": "Hiçbir modern genç böyle bir fincan kahveye hayır diyemez!"
+      },
+      {
+        "msgID": "map02_m_m_Cafe01b_020",
+        "msgStr": "Garson Kız"
+      },
+      {
+        "msgID": "MAP02_M_L0038",
+        "msgStr": "Bu benim özel kavrulmuş kırmızı fasulye harmanım."
+      },
+      {
+        "msgID": "MAP02_M_L0039",
+        "msgStr": "Ha? Bu gerçek bir kahve harmanı değil mi?"
+      },
+      {
+        "msgID": "MAP02_M_L0040",
+        "msgStr": "Hımm... Eh, yine de müşterilerimiz arasında büyük sükse yapacağını düşünüyorum."
+      },
+      {
+        "msgID": "map02_m_m_Cafe01c_021",
+        "msgStr": "Garson Kız"
+      },
+      {
+        "msgID": "MAP02_M_L0041",
+        "msgStr": "Duyduğuma göre Almanya'da kahvenin üzerine biraz krema eklemeyi seviyorlarmış."
+      },
+      {
+        "msgID": "MAP02_M_L0042",
+        "msgStr": "Onların izinden gitmeye karar verdim ama küçük bir farkla—krema yerine mayonez koydum."
+      },
+      {
+        "msgID": "MAP02_M_L0043",
+        "msgStr": "Bir fincan denedin mi bir daha vazgeçemeyeceksin!"
+      },
+      {
+        "msgID": "map02_m_m_Cafe01d_022",
+        "msgStr": "Garson Kız"
+      },
+      {
+        "msgID": "MAP02_M_L0044",
+        "msgStr": "Yine bekleriz!"
+      },
+      {
+        "msgID": "map02_m_m_Cafe01e_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0045",
+        "msgStr": "> Raidou ceplerini yokladı ama yeterince parası yoktu."
+      },
+      {
+        "msgID": "map02_m_m_Cafe01ext_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0046",
+        "msgStr": "> Burası Café Sao Paulosso."
+      },
+      {
+        "msgID": "MAP02_M_L0047",
+        "msgStr": "> <devil 0>, kahve kokusuyla tamamen ayıldı..."
+      },
+      {
+        "msgID": "map02_m_m_Poster01_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0048",
+        "msgStr": "> Bu bir film afişi."
+      },
+      {
+        "msgID": "MAP02_M_L0049",
+        "msgStr": "> \"Romantik bir şölen! Yıldızlar Matsunosuke Nakamura ve Chieko Kujo'yu izleyin—hem de renkli!\""
+      },
+      {
+        "msgID": "map02_m_m_Poster01_dev_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0050",
+        "msgStr": "> Bu bir film afişi."
+      },
+      {
+        "msgID": "MAP02_M_L0051",
+        "msgStr": "> <devil 0>, iki süperstarın birleşen yeteneğini hayal edince neredeyse düşüp bayılacaktı."
+      },
+      {
+        "msgID": "map02_m_m_Poster02_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0052",
+        "msgStr": "> Bu bir film afişi."
+      },
+      {
+        "msgID": "MAP02_M_L0053",
+        "msgStr": "> \"Thomas Nomura'nın yazıp yönettiği, başrolünde Tom Nomura'nın oynadığı, müziklerini T. Nomura'nın yaptığı bir film.\""
+      },
+      {
+        "msgID": "map02_m_m_Poster02_dev_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0054",
+        "msgStr": "> Bu bir film afişi."
+      },
+      {
+        "msgID": "MAP02_M_L0055",
+        "msgStr": "> <devil 0>, binbir marifetli adam Thomas Nomura karşısında şaşkına döndü."
+      },
+      {
+        "msgID": "map02_m_m_Sake01_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0056",
+        "msgStr": "> Burası Kamado İçki Dükkânı."
+      },
+      {
+        "msgID": "MAP02_M_L0057",
+        "msgStr": "> Ön kapıya bir duyuru asılmış."
+      },
+      {
+        "msgID": "MAP02_M_L0058",
+        "msgStr": "> Sakenizi ölçülü için. Alkol 21 yaş ve üzeri içindir."
+      },
+      {
+        "msgID": "map02_m_m_Sake01_dev_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0059",
+        "msgStr": "> Burası Kamado İçki Dükkânı."
+      },
+      {
+        "msgID": "MAP02_M_L0060",
+        "msgStr": "> <devil 0> reşit olmadığı için buradan hiçbir şey satın alamaz."
+      },
+      {
+        "msgID": "map02_m_m_Sake02_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0061",
+        "msgStr": "> İçki almak için fazla genç olan Raidou dükkândan uzaklaştı."
+      },
+      {
+        "msgID": "map02_m_m_Hyakka01_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0062",
+        "msgStr": "> Burası Bujiya Çok Katlı Mağazası."
+      },
+      {
+        "msgID": "MAP02_M_L0063",
+        "msgStr": "> Cam vitrinden çeşit çeşit ürün görülüyor."
+      },
+      {
+        "msgID": "map02_m_m_Hyakka01_dev_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0064",
+        "msgStr": "> Burası Bujiya Çok Katlı Mağazası."
+      },
+      {
+        "msgID": "MAP02_M_L0065",
+        "msgStr": "> <devil 0>, hareketli merdivene büyülenmiş gibi bakakalıyor."
+      },
+      {
+        "msgID": "map02_m_m_Hyakka02_034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Hyakka03_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Tel01_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0068",
+        "msgStr": "> Bu, otomatik santralli bir umumi telefon."
+      },
+      {
+        "msgID": "MAP02_M_L0069",
+        "msgStr": "> Son birkaç yıldır Başkent'in dört bir yanında mantar gibi bitiyorlar."
+      },
+      {
+        "msgID": "map02_m_m_Tel02_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0071",
+        "msgStr": "> Burası eski, Batı tarzı bir restoran."
+      },
+      {
+        "msgID": "MAP02_M_L0072",
+        "msgStr": "> Mekân yabancı görünümlü mobilyalarla döşenmiş."
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01s SEL_039",
+        "msgStr": "Mekân Sahibi"
+      },
+      {
+        "msgID": "MAP02_M_L0073",
+        "msgStr": "Elma aromalı ramen     500 yen"
+      },
+      {
+        "msgID": "MAP02_M_L0074",
+        "msgStr": "Kızarmış pilav burger  1.000 yen"
+      },
+      {
+        "msgID": "MAP02_M_L0075",
+        "msgStr": "Çin usulü biftek       2.000 yen"
+      },
+      {
+        "msgID": "MAP02_M_L0076",
+        "msgStr": "Mekân sahibiyle konuş"
+      },
+      {
+        "msgID": "MAP02_M_L0077",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01a_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0078",
+        "msgStr": "> Raidou elma aromalı rameni yedi."
+      },
+      {
+        "msgID": "MAP02_M_L0079",
+        "msgStr": "> Çok yoğun, sulu bir tadı vardı."
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01b_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0080",
+        "msgStr": "> Raidou kızarmış pilav burgeri denedi."
+      },
+      {
+        "msgID": "MAP02_M_L0081",
+        "msgStr": "> Raidou pilav mı yoksa ekmek mi yediğini anlayamadı."
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01c_042",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0082",
+        "msgStr": "> Raidou Çin usulü biftekten bir ısırık aldı."
+      },
+      {
+        "msgID": "MAP02_M_L0083",
+        "msgStr": "> Şaşırtıcı derecede lezzetliydi."
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01d_043",
+        "msgStr": "Mekân Sahibi"
+      },
+      {
+        "msgID": "MAP02_M_L0084",
+        "msgStr": "Duydun mu?"
+      },
+      {
+        "msgID": "MAP02_M_L0085",
+        "msgStr": "Ordu pazarda her zaman tomarla para harcar, son zamanlarda siparişlerini daha da artırdılar."
+      },
+      {
+        "msgID": "MAP02_M_L0086",
+        "msgStr": "Geçen gittiğimde kuyrukta önümdeydiler ve ne var ne yok silip süpürdüler!"
+      },
+      {
+        "msgID": "MAP02_M_L0087",
+        "msgStr": "İnsanı çileden çıkarıyorlar!"
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01ext01_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0088",
+        "msgStr": "> Burası eski, Batı tarzı bir restoran."
+      },
+      {
+        "msgID": "MAP02_M_L0089",
+        "msgStr": "> <devil 0>, hayashi pilavına uzandı..."
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01ext02_045",
+        "msgStr": "Mekân Sahibi"
+      },
+      {
+        "msgID": "MAP02_M_L0090",
+        "msgStr": "Hey! Dokunma ona!"
+      },
+      {
+        "msgID": "map02_m_m_Seiyou01ext03_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0091",
+        "msgStr": "> Görünüşe göre mekân sahibi iblisleri görebiliyor."
+      },
+      {
+        "msgID": "map02_m_m_Taxi01_047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Taxi02_048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Taxi03_049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Taxi04_01_050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Taxi04_02_051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Taxi04_03_052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Taxi04_04_053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Taxi04_05_054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_mes_4_okami_item_01_055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP02_M_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map02_m_m_Alice01_01_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0104",
+        "msgStr": "> Telefon çalıyor."
+      },
+      {
+        "msgID": "map02_m_m_Alice01_02_057",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP02_M_L0105",
+        "msgStr": "Sanırım..."
+      },
+      {
+        "msgID": "map02_m_m_Alice01_03_058",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP02_M_L0106",
+        "msgStr": "Öyle görünüyor. Cevap verelim."
+      },
+      {
+        "msgID": "map02_m_m_Alice02_01_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0107",
+        "msgStr": "> Belial ve Nebiros telefona cevap verdi."
+      },
+      {
+        "msgID": "map02_m_m_Alice02_02_060",
+        "msgStr": "Telefondaki Ses"
+      },
+      {
+        "msgID": "MAP02_M_L0108",
+        "msgStr": "Alo! Benim kim olduğumu biliyor musunuz?"
+      },
+      {
+        "msgID": "MAP02_M_L0109",
+        "msgStr": "Benim! Alice!"
+      },
+      {
+        "msgID": "map02_m_m_Alice02_03_061",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP02_M_L0110",
+        "msgStr": "Tahmin ettiğim gibi! Ritüel işe yaradı!"
+      },
+      {
+        "msgID": "map02_m_m_Alice02_04_062",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP02_M_L0111",
+        "msgStr": "Gel, Alice! Lütfen bize katıl ki yeniden kavuşabilelim!"
+      },
+      {
+        "msgID": "map02_m_m_Alice02_05_063",
+        "msgStr": "Alice"
+      },
+      {
+        "msgID": "MAP02_M_L0112",
+        "msgStr": "yaa, ama çok yorgunuuum. O kadar alışveriş, bir de bu ağır çantalar..."
+      },
+      {
+        "msgID": "map02_m_m_Alice02_06_064",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP02_M_L0113",
+        "msgStr": "Belki ikimizin arasında bir yerde buluşabiliriz. Neredesin sen?"
+      },
+      {
+        "msgID": "map02_m_m_Alice02_07_065",
+        "msgStr": "Alice"
+      },
+      {
+        "msgID": "MAP02_M_L0114",
+        "msgStr": "Aslında... <mw 30>tam buradayım.<mw 60>"
+      },
+      {
+        "msgID": "map02_m_m_Alice02_08_066",
+        "msgStr": "Alice"
+      },
+      {
+        "msgID": "MAP02_M_L0115",
+        "msgStr": "Benim için bir iyilik yapar mısınız?"
+      },
+      {
+        "msgID": "MAP02_M_L0116",
+        "msgStr": "Sadece benim hatırım için..."
+      },
+      {
+        "msgID": "map02_m_m_Alice02_09_067",
+        "msgStr": "Alice"
+      },
+      {
+        "msgID": "MAP02_M_L0117",
+        "msgStr": "Benimle <mw 10>birlikte <mw 10>ölmeye <mw 10>gelir <mw 10>misiniz <mw 10>acaba?<mw 30>"
+      },
+      {
+        "msgID": "map02_m_m_Alice03_01_068",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP02_M_L0118",
+        "msgStr": "Raidou, Gouma-Den'e git."
+      },
+      {
+        "msgID": "map02_m_m_Alice03_02_069",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP02_M_L0119",
+        "msgStr": "Alice'in ruhu yatıştırıldığına göre, onunla bir kez daha buluşabiliriz."
+      },
+      {
+        "msgID": "map02_m_m_Alice03_03_070",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP02_M_L0120",
+        "msgStr": "Şimdi bana bak Raidou."
+      },
+      {
+        "msgID": "MAP02_M_L0121",
+        "msgStr": "Bu Süper Asker meselesi tamamen bittiğinde güzel ve sakin bir yere yerleşmeyi düşünüyoruz."
+      },
+      {
+        "msgID": "map02_m_m_Alice03_04_071",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP02_M_L0122",
+        "msgStr": "Kalan günlerimizi onunla huzur içinde geçireceğiz."
+      },
+      {
+        "msgID": "map02_m_m_Alice03_05_072",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP02_M_L0123",
+        "msgStr": "O kahrolası insanlar yolumuza çıkmasa iyi ederler..."
+      },
+      {
+        "msgID": "map02_m_m_Alice03_06_073",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP02_M_L0124",
+        "msgStr": "Gerçekten de insanlar bu yeryüzünde yürüyen en büyük tehdit."
+      },
+      {
+        "msgID": "MAP02_M_L0125",
+        "msgStr": "Her an Hades'in derinliklerine inip mülkümüzde hak iddia edebilirler."
+      },
+      {
+        "msgID": "map02_m_m_Alice03_07_074",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP02_M_L0126",
+        "msgStr": "Vallahi ne gerekirse gereksin umurumda değil. Yuva kurduğumuz yeri huzurlu bir yer yapacağız."
+      },
+      {
+        "msgID": "map02_m_m_Alice03_08_075",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "MAP02_M_L0127",
+        "msgStr": "Evet, bu uçsuz bucaksız, şaşırtıcı Başkent'te bir yerlerde..."
+      },
+      {
+        "msgID": "map02_m_m_Alice04_01_076",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0128",
+        "msgStr": "> <DEP_06>Pagan Düzeni'nden Alice artık Gouma-Den'de füzyonlanabilir!"
+      },
+      {
+        "msgID": "map02_m_m_Alice04_02_077",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0129",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Ölüm Asası<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map02_m_m_Shop_EP10_Basic01_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0130",
+        "msgStr": "> Burası artık eskisi kadar canlı hissettirmiyor..."
+      },
+      {
+        "msgID": "map02_m_m_Shop_EP10_Basic02_079",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0131",
+        "msgStr": "> İçeride kimse yok. Sessizlik tüm binayı sarmış..."
+      },
+      {
+        "msgID": "map02_m_m_Shop_EP10_Hyakka01_080",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0132",
+        "msgStr": "> Burası Bujiya Çok Katlı Mağazası."
+      },
+      {
+        "msgID": "MAP02_M_L0133",
+        "msgStr": "> Ürünler dört bir yana saçılmış ve içeride kimse yok."
+      },
+      {
+        "msgID": "map02_m_m_Shop_EP12_Hyakka01_081",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0134",
+        "msgStr": "> Burası Bujiya Çok Katlı Mağazası."
+      },
+      {
+        "msgID": "MAP02_M_L0135",
+        "msgStr": "> Geriye kalan birkaç çalışan mağazayı temizliyor."
+      },
+      {
+        "msgID": "map02_m_m_Shop_EP12_Sake01_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0136",
+        "msgStr": "> Burası Kamado İçki Dükkânı."
+      },
+      {
+        "msgID": "MAP02_M_L0137",
+        "msgStr": "> Mekân sahibi herkesin moralini düzeltmeye hazır bir şekilde sake dağıtıyor."
+      },
+      {
+        "msgID": "map02_m_m_Shop_EP10_Seiyou01_083",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0138",
+        "msgStr": "> Burası eski, Batı tarzı bir restoran."
+      },
+      {
+        "msgID": "MAP02_M_L0139",
+        "msgStr": "> Gösterişli mobilyalar devrilmiş ve pahalı tabaklar paramparça olmuş..."
+      },
+      {
+        "msgID": "map02_m_m_Shop_EP10_Seiyou02_084",
+        "msgStr": "Çığlık Atan Ses"
+      },
+      {
+        "msgID": "MAP02_M_L0140",
+        "msgStr": "Hiyaaah!"
+      },
+      {
+        "msgID": "MAP02_M_L0141",
+        "msgStr": "Lisanslı şefimizi asla yenemeyeceksin!"
+      },
+      {
+        "msgID": "map02_m_m_Shop_EP10_Seiyou03_085",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP02_M_L0142",
+        "msgStr": "> Bir adam elinde Çin satırı ve wok tavasıyla kapı eşiğinde duruyor..."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/13 19:29:46"
+}

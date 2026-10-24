@@ -1,0 +1,549 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GUIDE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GUIDE_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GUIDE_L0001",
+        "msgStr": "Seç"
+      },
+      {
+        "msgID": "GUIDE_L0002",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "GUIDE_L0003",
+        "msgStr": "Onayla"
+      },
+      {
+        "msgID": "GUIDE_L0004",
+        "msgStr": "Ana menü"
+      },
+      {
+        "msgID": "GUIDE_L0005",
+        "msgStr": "Harita"
+      },
+      {
+        "msgID": "GUIDE_L0006",
+        "msgStr": "Kaydır"
+      },
+      {
+        "msgID": "GUIDE_L0007",
+        "msgStr": "Yakınlaştır"
+      },
+      {
+        "msgID": "GUIDE_L0008",
+        "msgStr": "Konumu sıfırla"
+      },
+      {
+        "msgID": "GUIDE_L0011",
+        "msgStr": "Harita işaretleri"
+      },
+      {
+        "msgID": "GUIDE_L0012",
+        "msgStr": "Harita değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0013",
+        "msgStr": "Önceki kat"
+      },
+      {
+        "msgID": "GUIDE_L0014",
+        "msgStr": "Sonraki kat"
+      },
+      {
+        "msgID": "GUIDE_L0015",
+        "msgStr": "Soruşturma menüsü"
+      },
+      {
+        "msgID": "GUIDE_L0016",
+        "msgStr": "Yetenekler"
+      },
+      {
+        "msgID": "GUIDE_L0017",
+        "msgStr": "Ayrıntılar"
+      },
+      {
+        "msgID": "GUIDE_L0018",
+        "msgStr": "Sayfa değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0019",
+        "msgStr": "Konumu sıfırla"
+      },
+      {
+        "msgID": "GUIDE_L0020",
+        "msgStr": "Kapat"
+      },
+      {
+        "msgID": "GUIDE_L0021",
+        "msgStr": "Ayarları sıfırla"
+      },
+      {
+        "msgID": "GUIDE_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GUIDE_L0023",
+        "msgStr": "Ayarları değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0024",
+        "msgStr": "Hareket et"
+      },
+      {
+        "msgID": "GUIDE_L0025",
+        "msgStr": "Durum"
+      },
+      {
+        "msgID": "GUIDE_L0026",
+        "msgStr": "Simge açıklamalarını göster"
+      },
+      {
+        "msgID": "GUIDE_L0027",
+        "msgStr": "Simge açıklamalarını gizle"
+      },
+      {
+        "msgID": "GUIDE_L0028",
+        "msgStr": "Yetenek türü"
+      },
+      {
+        "msgID": "GUIDE_L0029",
+        "msgStr": "Sırala"
+      },
+      {
+        "msgID": "GUIDE_L0030",
+        "msgStr": "Sıralama yönünü ters çevir"
+      },
+      {
+        "msgID": "GUIDE_L0031",
+        "msgStr": "Uygula"
+      },
+      {
+        "msgID": "GUIDE_L0032",
+        "msgStr": "Ara"
+      },
+      {
+        "msgID": "GUIDE_L0033",
+        "msgStr": "Nitelikleri kontrol et"
+      },
+      {
+        "msgID": "GUIDE_L0034",
+        "msgStr": "Tümünü kaydet"
+      },
+      {
+        "msgID": "GUIDE_L0035",
+        "msgStr": "Kayıtlı veri"
+      },
+      {
+        "msgID": "GUIDE_L0036",
+        "msgStr": "Mevcut durum"
+      },
+      {
+        "msgID": "GUIDE_L0037",
+        "msgStr": "Sıralama türü"
+      },
+      {
+        "msgID": "GUIDE_L0038",
+        "msgStr": "Açıklama"
+      },
+      {
+        "msgID": "GUIDE_L0039",
+        "msgStr": "Pasif Yetenek geçmişi"
+      },
+      {
+        "msgID": "GUIDE_L0040",
+        "msgStr": "Rastgele seçim"
+      },
+      {
+        "msgID": "GUIDE_L0041",
+        "msgStr": "Koşulları sıfırla"
+      },
+      {
+        "msgID": "GUIDE_L0042",
+        "msgStr": "Temel bilgiler"
+      },
+      {
+        "msgID": "GUIDE_L0043",
+        "msgStr": "Kaydet"
+      },
+      {
+        "msgID": "GUIDE_L0044",
+        "msgStr": "Görüntüle"
+      },
+      {
+        "msgID": "GUIDE_L0045",
+        "msgStr": "Döndür"
+      },
+      {
+        "msgID": "GUIDE_L0046",
+        "msgStr": "Yakınlaştır"
+      },
+      {
+        "msgID": "GUIDE_L0047",
+        "msgStr": "Yetenek bilgisi 1"
+      },
+      {
+        "msgID": "GUIDE_L0048",
+        "msgStr": "Yetenek bilgisi 2"
+      },
+      {
+        "msgID": "GUIDE_L0049",
+        "msgStr": "Satın al"
+      },
+      {
+        "msgID": "GUIDE_L0050",
+        "msgStr": "Geri dön"
+      },
+      {
+        "msgID": "GUIDE_L0051",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "GUIDE_L0052",
+        "msgStr": "Sayfa değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0053",
+        "msgStr": "Miktar"
+      },
+      {
+        "msgID": "GUIDE_L0054",
+        "msgStr": "Puanları göster"
+      },
+      {
+        "msgID": "GUIDE_L0055",
+        "msgStr": "Yaku'ları göster"
+      },
+      {
+        "msgID": "GUIDE_L0056",
+        "msgStr": "Kuralları göster"
+      },
+      {
+        "msgID": "GUIDE_L0057",
+        "msgStr": "Artır/azalt"
+      },
+      {
+        "msgID": "GUIDE_L0058",
+        "msgStr": "Dağılımı sıfırla"
+      },
+      {
+        "msgID": "GUIDE_L0059",
+        "msgStr": "Ana ekrana dön"
+      },
+      {
+        "msgID": "GUIDE_L0060",
+        "msgStr": "Otomatik savaş"
+      },
+      {
+        "msgID": "GUIDE_L0061",
+        "msgStr": "Hedef seç"
+      },
+      {
+        "msgID": "GUIDE_L0062",
+        "msgStr": "Tüpe alma sanatı"
+      },
+      {
+        "msgID": "GUIDE_L0063",
+        "msgStr": "Yetenek bilgisi"
+      },
+      {
+        "msgID": "GUIDE_L0064",
+        "msgStr": "Bitir"
+      },
+      {
+        "msgID": "GUIDE_L0065",
+        "msgStr": "Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "GUIDE_L0066",
+        "msgStr": "Kategori değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0067",
+        "msgStr": "Kat değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0068",
+        "msgStr": "Bitir"
+      },
+      {
+        "msgID": "GUIDE_L0069",
+        "msgStr": "Unvanı değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0070",
+        "msgStr": "Kılıç Yeteneklerini değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0071",
+        "msgStr": "Pasif Yetenekleri değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0072",
+        "msgStr": "Atla"
+      },
+      {
+        "msgID": "GUIDE_L0073",
+        "msgStr": "Kayıt geçmişi"
+      },
+      {
+        "msgID": "GUIDE_L0074",
+        "msgStr": "Hızlı ileri sar"
+      },
+      {
+        "msgID": "GUIDE_L0075",
+        "msgStr": "Kılıç ağacı"
+      },
+      {
+        "msgID": "GUIDE_L0076",
+        "msgStr": "Kılıç Yetenekleri"
+      },
+      {
+        "msgID": "GUIDE_L0077",
+        "msgStr": "Kılıç Yeteneği geçmişi"
+      },
+      {
+        "msgID": "GUIDE_L0078",
+        "msgStr": "Savaş kısayolları"
+      },
+      {
+        "msgID": "GUIDE_L0079",
+        "msgStr": "Sesi oynat"
+      },
+      {
+        "msgID": "GUIDE_L0080",
+        "msgStr": "Yeniden çağır"
+      },
+      {
+        "msgID": "GUIDE_L0081",
+        "msgStr": "Seviye atlayan iblisleri kaydet"
+      },
+      {
+        "msgID": "GUIDE_L0082",
+        "msgStr": "Kılıcı kuşan"
+      },
+      {
+        "msgID": "GUIDE_L0083",
+        "msgStr": "Nasıl oynanır"
+      },
+      {
+        "msgID": "GUIDE_L0084",
+        "msgStr": "Favori olarak kaydet"
+      },
+      {
+        "msgID": "GUIDE_L0085",
+        "msgStr": "Favorilerden çıkar"
+      },
+      {
+        "msgID": "GUIDE_L0086",
+        "msgStr": "Kilitle"
+      },
+      {
+        "msgID": "GUIDE_L0087",
+        "msgStr": "Kilidi aç"
+      },
+      {
+        "msgID": "GUIDE_L0088",
+        "msgStr": "Pasif Yetenekleri kontrol et"
+      },
+      {
+        "msgID": "GUIDE_L0089",
+        "msgStr": "Seviye atlama ekranı"
+      },
+      {
+        "msgID": "GUIDE_L0090",
+        "msgStr": "Otomatik ilerleme açık"
+      },
+      {
+        "msgID": "GUIDE_L0091",
+        "msgStr": "Otomatik ilerleme kapalı"
+      },
+      {
+        "msgID": "GUIDE_L0092",
+        "msgStr": "Ekspres tramvay"
+      },
+      {
+        "msgID": "GUIDE_L0093",
+        "msgStr": "Koş"
+      },
+      {
+        "msgID": "GUIDE_L0094",
+        "msgStr": "Kışkırt"
+      },
+      {
+        "msgID": "GUIDE_L0095",
+        "msgStr": "Kayıt 1"
+      },
+      {
+        "msgID": "GUIDE_L0096",
+        "msgStr": "Kayıt 2"
+      },
+      {
+        "msgID": "GUIDE_L0097",
+        "msgStr": "Yetenekleri kontrol et/sırala"
+      },
+      {
+        "msgID": "GUIDE_L0098",
+        "msgStr": "Raidou'ya dön"
+      },
+      {
+        "msgID": "GUIDE_L0099",
+        "msgStr": "Saldır"
+      },
+      {
+        "msgID": "GUIDE_L0100",
+        "msgStr": "Savunma yap"
+      },
+      {
+        "msgID": "GUIDE_L0101",
+        "msgStr": "Kabiliyet"
+      },
+      {
+        "msgID": "GUIDE_L0102",
+        "msgStr": "Ani Hücum"
+      },
+      {
+        "msgID": "GUIDE_L0103",
+        "msgStr": "Tekrarla"
+      },
+      {
+        "msgID": "GUIDE_L0104",
+        "msgStr": "Sonraki sayfa"
+      },
+      {
+        "msgID": "GUIDE_L0105",
+        "msgStr": "Sil"
+      },
+      {
+        "msgID": "GUIDE_L0106",
+        "msgStr": "Bilgiyi değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0107",
+        "msgStr": "İblisleri değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0108",
+        "msgStr": "Atlamak için basılı tut"
+      },
+      {
+        "msgID": "GUIDE_L0109",
+        "msgStr": "Duraklat"
+      },
+      {
+        "msgID": "GUIDE_L0110",
+        "msgStr": "Devam et"
+      },
+      {
+        "msgID": "GUIDE_L0111",
+        "msgStr": "Kaydı iptal et"
+      },
+      {
+        "msgID": "GUIDE_L0112",
+        "msgStr": "Gereksinimler"
+      },
+      {
+        "msgID": "GUIDE_L0113",
+        "msgStr": "Sayıyı değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0114",
+        "msgStr": "Konumu değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0115",
+        "msgStr": "Hızlı ileri sarmayı durdur"
+      },
+      {
+        "msgID": "GUIDE_L0116",
+        "msgStr": "Savaşa devam et"
+      },
+      {
+        "msgID": "GUIDE_L0117",
+        "msgStr": "Serbest Bırak"
+      },
+      {
+        "msgID": "GUIDE_L0118",
+        "msgStr": "Geri dön"
+      },
+      {
+        "msgID": "GUIDE_L0119",
+        "msgStr": "Çıkar"
+      },
+      {
+        "msgID": "GUIDE_L0120",
+        "msgStr": "Çağırıcı Yeteneklerini görüntüle"
+      },
+      {
+        "msgID": "GUIDE_L0121",
+        "msgStr": "Savaş Yeteneği geçmişi"
+      },
+      {
+        "msgID": "GUIDE_L0122",
+        "msgStr": "Kaydır"
+      },
+      {
+        "msgID": "GUIDE_L0123",
+        "msgStr": "Gizli Saldırı"
+      },
+      {
+        "msgID": "GUIDE_L0124",
+        "msgStr": "Gizli Saldırı hedefini değiştir"
+      },
+      {
+        "msgID": "GUIDE_L0125",
+        "msgStr": "Yetenek miras al"
+      },
+      {
+        "msgID": "GUIDE_L0126",
+        "msgStr": "Ödülü al"
+      },
+      {
+        "msgID": "GUIDE_L0127",
+        "msgStr": "Dava dosyası ayrıntıları"
+      },
+      {
+        "msgID": "GUIDE_L0128",
+        "msgStr": "Jenerik"
+      },
+      {
+        "msgID": "GUIDE_L0129",
+        "msgStr": "Lisans Sözleşmesi"
+      },
+      {
+        "msgID": "GUIDE_L0130",
+        "msgStr": "Otomatik kullanımı aç/kapat"
+      },
+      {
+        "msgID": "GUIDE_L0131",
+        "msgStr": "Bitir"
+      },
+      {
+        "msgID": "GUIDE_L0132",
+        "msgStr": "Kilidi aç"
+      },
+      {
+        "msgID": "GUIDE_L0133",
+        "msgStr": "Savaşı mevcut zorlukta tekrar dene"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/22 17:06:30"
+}

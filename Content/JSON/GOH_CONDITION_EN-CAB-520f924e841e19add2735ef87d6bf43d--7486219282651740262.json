@@ -1,0 +1,117 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_CONDITION_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_CONDITION_L0000",
+        "msgStr": "Belirtilmemiş"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0011",
+        "msgStr": "Fiziksel"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0012",
+        "msgStr": "Silah"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0013",
+        "msgStr": "Ateş"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0014",
+        "msgStr": "Buz"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0015",
+        "msgStr": "Elektrik"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0016",
+        "msgStr": "Güç"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0017",
+        "msgStr": "Ölüm"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0018",
+        "msgStr": "Zihin"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0020",
+        "msgStr": "Destek"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0021",
+        "msgStr": "İyileştirme"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0023",
+        "msgStr": "Pasif"
+      },
+      {
+        "msgID": "GOH_CONDITION_L0024",
+        "msgStr": "Soruşturma"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:17"
+}

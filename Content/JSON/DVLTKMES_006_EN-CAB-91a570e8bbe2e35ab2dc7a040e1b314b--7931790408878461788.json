@@ -1,0 +1,517 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DVLTKMES_006_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DVLTKMES_006_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0001",
+        "msgStr": "Dikkat edin bakalım, seni serseri veletler!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0002",
+        "msgStr": "Hâlâ iş var bende!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0003",
+        "msgStr": "Bu yaşlı gözler hâlâ keskin!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0004",
+        "msgStr": "Hohoho... Kendi payıma fena iş çıkarmadım doğrusu."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0005",
+        "msgStr": "Ah! B-Belim!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0006",
+        "msgStr": "Mmf! Mmf Mmmfmmf!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0007",
+        "msgStr": "Ahhhh... Bunuyor muyum ne...?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0008",
+        "msgStr": "Gözlüğümü bir yerde unutmuşum galiba."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0009",
+        "msgStr": "Ohh, kendimi yeniden gençleşmiş hissettim!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0010",
+        "msgStr": "Açılın, Dedeniz geliyor!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0011",
+        "msgStr": "Hey! Dikkat et evlat!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0012",
+        "msgStr": "Lanet gelsin, sen Çağırıcı değil misin be!?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0013",
+        "msgStr": "Sen kimsin? Neredeyim ben!?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0014",
+        "msgStr": "Raidou! Büyüklerine hürmet et!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0015",
+        "msgStr": "Ah, eski dostum gelmiş. Geliyorum..."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0016",
+        "msgStr": "Yürüyüş vaktim geldi..."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0017",
+        "msgStr": "Öff... Gözlerim kararıyor..."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0018",
+        "msgStr": "Yaşlı bir adama biraz nefes aldır, Raidou."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0019",
+        "msgStr": "Hararet yapma evlat."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0020",
+        "msgStr": "Amma da dediğim dedik bir veletsin, ha?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0021",
+        "msgStr": "Heh! Üç yüz yıl sonra tekrar dene!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0022",
+        "msgStr": "Erkenden yatsam iyi olacak."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0023",
+        "msgStr": "Hadi kuşak farkını kapatalım!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0024",
+        "msgStr": "Kendini fazla yorma delikanlı!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0025",
+        "msgStr": "Pon..."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0026",
+        "msgStr": "Bu bir chii."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0027",
+        "msgStr": "Kan."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0028",
+        "msgStr": "Riichi."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0029",
+        "msgStr": "Hohoho... Ron!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0030",
+        "msgStr": "Şu MAG beni çağırıyor!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0031",
+        "msgStr": "Raidou!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0032",
+        "msgStr": "Canlan biraz evlat!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0033",
+        "msgStr": "Burada bekliyorum!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0035",
+        "msgStr": "Hop, yavaş ol evlat!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0036",
+        "msgStr": "Sana katılacağım, yeter ki şu kadar sert çekmeyi bırak!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0037",
+        "msgStr": "Oh be... Bayağı iyi geldi."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0038",
+        "msgStr": "Bir dahaki sefere aynısını sırtıma da uygula evlat."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0039",
+        "msgStr": "Demek yeni Raidou Kuzunoha sensin, ha?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0040",
+        "msgStr": "Eh, benden öğreneceğin bir iki şey vardır herhalde."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0049",
+        "msgStr": "Hadi ama Çağırıcı. Önce kendini tanıtmak nezaket kuralıdır. Adın ne senin?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0050",
+        "msgStr": "14. Raidou Kuzunoha."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0051",
+        "msgStr": "<NAME 0>."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0052",
+        "msgStr": "Söylemem."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0053",
+        "msgStr": "Yani gerçekten bana patronluk taslayabileceğini mi sanıyorsun evlat?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0054",
+        "msgStr": "Evet."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0055",
+        "msgStr": "Sanırım hayır."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0056",
+        "msgStr": "Senin patron olmanı tercih ederim."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0057",
+        "msgStr": "Sana katıldıktan sonra bundan benim çıkarım ne olacak evlat?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0058",
+        "msgStr": "Seni güçlendireceğim."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0059",
+        "msgStr": "Seni çalıştıracağım."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0060",
+        "msgStr": "Seni füzyon için kullanacağım."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0061",
+        "msgStr": "Çağırıcı olarak kalırsan büyük ihtimalle korkunç bir ölüm seni bulur. Senin için hava hoş mu?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0062",
+        "msgStr": "Üstesinden gelebilirim."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0063",
+        "msgStr": "Bunu istemiyorum."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0064",
+        "msgStr": "Bu hiçbir şey değil."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0065",
+        "msgStr": "Hoho, yaşama sebebin nedir bakalım?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0066",
+        "msgStr": "Ölmemek için."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0067",
+        "msgStr": "Yapmam gereken bir şey var."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0068",
+        "msgStr": "Hayatın kanunu bu."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0069",
+        "msgStr": "Ho ho, nihayet sana katılıyorum. Biraz daha beklesem tahtalı köyü boylayacaktım."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0070",
+        "msgStr": "Beklettiğim için üzgünüm."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0071",
+        "msgStr": "Gerçekten mi?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0072",
+        "msgStr": "Yalan söylüyorsun..."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0073",
+        "msgStr": "En çok istediğin şey nedir evlat?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0074",
+        "msgStr": "Sonsuz zenginlik."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0075",
+        "msgStr": "Sınırsız sevgi."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0076",
+        "msgStr": "Tek istediğim sensin."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0077",
+        "msgStr": "Yatagarasu hakkında ne düşünüyorsun?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0078",
+        "msgStr": "İyilerdir."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0079",
+        "msgStr": "Kötülerdir."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0080",
+        "msgStr": "Ben sadece işimi yapıyorum..."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0081",
+        "msgStr": "Hey, burada açlıktan ölüyorum. Ne yememi önerirsin?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0082",
+        "msgStr": "Ramen."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0083",
+        "msgStr": "Hayashi pilavı."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0084",
+        "msgStr": "Şinitzel."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0085",
+        "msgStr": "Ah, bunu duymayı bekliyordum işte!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0086",
+        "msgStr": "İşte bu kulağıma müzik gibi geldi!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0087",
+        "msgStr": "Bu yaşlı kemiklerimin içi rahatladı doğrusu."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0088",
+        "msgStr": "Ya, demek öyle..."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0089",
+        "msgStr": "Gerçekten mi? Eh, peki o zaman."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0090",
+        "msgStr": "Çık, siz gençler bugünlerde böyle mi cevap veriyorsunuz?"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0091",
+        "msgStr": "Seni aptal, iblislerin o ismi duymasına izin verme! Seni kemiğine kadar ele geçirirler!"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_006_L0123",
+        "msgStr": "Beni hayal kırıklığına uğratma, Raidou."
+      },
+      {
+        "msgID": "DVLTKMES_006_L0124",
+        "msgStr": "Onlara İblis Kıran'ını iyice bir göster!"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:27:01"
+}

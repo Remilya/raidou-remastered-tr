@@ -1,0 +1,77 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAPMENUHELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MAPMENUHELP_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPMENUHELP_L0001",
+        "msgStr": "Bir iblis çağır."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0002",
+        "msgStr": "Bir iblisi tüpe geri döndür."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0003",
+        "msgStr": "Çağrılan bir iblisin doğrudan kontrolünü üstlenin."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0004",
+        "msgStr": "Çağrılan bir iblisin yeteneklerini kullanın."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0005",
+        "msgStr": "Anında Narumi Dedektiflik Bürosu'na dönün."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0006",
+        "msgStr": "Çağırmak için bir iblis seçin."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0014",
+        "msgStr": "Daha önce ziyaret edilen herhangi bir konuma anında dönün."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0015",
+        "msgStr": "Dedektif Günlüğü'nü görüntüleyin."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0016",
+        "msgStr": "Anında Raidou'ya dönün."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0017",
+        "msgStr": "Mevcut ilerlemeyi kaydet."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0018",
+        "msgStr": "Gouma-Den'e kısa bir yolculuk yapın."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0019",
+        "msgStr": "Soruşturmaya devam edin."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0020",
+        "msgStr": "Rokete binecek bir iblis seçin."
+      },
+      {
+        "msgID": "MAPMENUHELP_L0021",
+        "msgStr": "Gouma-Den üzerinden Konnou-ya'ya erişin."
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/22 17:04:12"
+}

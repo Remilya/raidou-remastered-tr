@@ -1,0 +1,33 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "PARHELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "PARHELP_L0000",
+        "msgStr": "Kuvvet: Kılıç saldırıları, iblislerin temel saldırıları ve bazı yetenekler dahil fiziksel saldırıların hasarını etkiler."
+      },
+      {
+        "msgID": "PARHELP_L0001",
+        "msgStr": "Büyü: Büyü saldırılarının hasarını, büyü savunmasını ve müttefik iblislerin niteliklerini etkiler."
+      },
+      {
+        "msgID": "PARHELP_L0002",
+        "msgStr": "Dayanıklılık: Fiziksel savunmayı ve maks. HP'yi etkiler."
+      },
+      {
+        "msgID": "PARHELP_L0003",
+        "msgStr": "Şans: Kritik vuruş oranını, rahatsızlık direncini ve belirli yeteneklerin etkilerini belirler."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:51:01"
+}

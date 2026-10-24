@@ -1,0 +1,6417 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SKILLHELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SKILLHELP_L0000",
+        "msgStr": "Yetenek yok"
+      },
+      {
+        "msgID": "SKILLHELP_L0001",
+        "msgStr": "1 hedefe hafif Ateş saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0002",
+        "msgStr": "1 hedefe ağır Ateş saldırısı | Alan etkili | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0003",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana orta Ateş saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0004",
+        "msgStr": "Kendi etrafındaki geniş bir alana ağır Ateş saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0005",
+        "msgStr": "Üç yönlü yayılan orta Ateş saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0006",
+        "msgStr": "1 hedefe ağır Ateş saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0007",
+        "msgStr": "Hafif Ateş saldırısı | Delici etki | Çoklu vuruş | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0008",
+        "msgStr": "1 hedefe ağır Ateş saldırısı | Alan etkili | Dirençleri yok sayar | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0016",
+        "msgStr": "1 hedefe hafif Buz saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0017",
+        "msgStr": "1 hedefe ağır Buz saldırısı | Alan etkili | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0018",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana orta Buz saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0019",
+        "msgStr": "Kendi etrafındaki geniş bir alana ağır Buz saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0020",
+        "msgStr": "Üç yönlü yayılan orta Buz saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0021",
+        "msgStr": "1 hedefe ağır Buz saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0022",
+        "msgStr": "Hafif Buz saldırısı | Delici etki | Çoklu vuruş | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0023",
+        "msgStr": "1 hedefe ağır Buz saldırısı | Alan etkili | Dirençleri yok sayar | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0032",
+        "msgStr": "1 hedefe hafif Elektrik saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0033",
+        "msgStr": "1 hedefe ağır Elektrik saldırısı | Alan etkili | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0034",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana orta Elektrik saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0035",
+        "msgStr": "Kendi etrafındaki geniş bir alana ağır Elektrik saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0036",
+        "msgStr": "Üç yönlü yayılan orta Elektrik saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0037",
+        "msgStr": "1 hedefe ağır Elektrik saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0038",
+        "msgStr": "Hafif Elektrik saldırısı | Delici etki | Çoklu vuruş | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0039",
+        "msgStr": "1 hedefe ağır Elektrik saldırısı | Alan etkili | Dirençleri yok sayar | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0048",
+        "msgStr": "1 hedefe hafif Güç saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0049",
+        "msgStr": "1 hedefe ağır Güç saldırısı | Alan etkili | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0050",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana orta Güç saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0051",
+        "msgStr": "Kendi etrafındaki geniş bir alana ağır Güç saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0052",
+        "msgStr": "Üç yönlü yayılan orta Güç saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0053",
+        "msgStr": "1 hedefe ağır Güç saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0054",
+        "msgStr": "Hafif Güç saldırısı | Delici etki | Çoklu vuruş | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0055",
+        "msgStr": "1 hedefe ağır Güç saldırısı | Alan etkili | Dirençleri yok sayar | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0056",
+        "msgStr": "Üç yönlü yayılan orta Güç saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0064",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana ağır Mutlak saldırı | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0065",
+        "msgStr": "Kendi etrafındaki devasa bir alana yıkıcı Mutlak saldırı | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0080",
+        "msgStr": "1 hedefe Ölüm saldırısı | Hedefin HP'sini yarıya indirir | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0081",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana Ölüm saldırısı | Hedefin HP'sini yarıya indirir | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0082",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana Ölüm saldırısı | Orta ihtimalle anında öldürür | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0096",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Büyülenme uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0097",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Uyku uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0098",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Kafa Karışıklığı uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0099",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Susturma uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0100",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Düşük ihtimalle Taşlaşma uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0112",
+        "msgStr": "1 müttefikin HP'sini az miktarda yeniler | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0113",
+        "msgStr": "1 müttefikin HP'sini orta miktarda yeniler | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0114",
+        "msgStr": "1 müttefikin HP'sini tamamen yeniler | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0115",
+        "msgStr": "Grubun HP'sini az miktarda yeniler | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0116",
+        "msgStr": "Sersemletme ve diğer özel durumlar dışındaki rahatsızlıkları iyileştirir | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0117",
+        "msgStr": "1 müttefike geçici olarak hafif HP yenilenmesi sağlar | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0118",
+        "msgStr": "1 müttefiki az miktarda HP ile diriltir | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0119",
+        "msgStr": "1 müttefiki tam HP ile diriltir | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0120",
+        "msgStr": "1 müttefike geçici olarak orta düzeyde HP yenilenmesi sağlar | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0121",
+        "msgStr": "Grubun HP'sini orta miktarda yeniler | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0128",
+        "msgStr": "Savaş bitene dek grubun fiziksel saldırı gücünü artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0129",
+        "msgStr": "Savaş bitene dek grubun büyü saldırı gücünü artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0130",
+        "msgStr": "Savaş bitene dek grubun savunma gücünü artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0131",
+        "msgStr": "Grubun fiziksel saldırı gücünü geçici olarak büyük ölçüde artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0132",
+        "msgStr": "Grubun büyü savunma gücünü geçici olarak büyük ölçüde artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0133",
+        "msgStr": "Grubun fiziksel savunma gücünü geçici olarak büyük ölçüde artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0134",
+        "msgStr": "Tüm düşmanların nitelik güçlendirmelerini kaldırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0144",
+        "msgStr": "Raidou'nun kılıç saplaması"
+      },
+      {
+        "msgID": "SKILLHELP_L0145",
+        "msgStr": "Raidou'nun kombosu, ilk vuruş"
+      },
+      {
+        "msgID": "SKILLHELP_L0146",
+        "msgStr": "Raidou'nun kombosu, ikinci vuruş"
+      },
+      {
+        "msgID": "SKILLHELP_L0147",
+        "msgStr": "Raidou'nun kombosu, üçüncü vuruş"
+      },
+      {
+        "msgID": "SKILLHELP_L0148",
+        "msgStr": "Raidou'nun güçlü saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0149",
+        "msgStr": "1 hedefe hafif Fiziksel saldırı"
+      },
+      {
+        "msgID": "SKILLHELP_L0150",
+        "msgStr": "1 hedefe hafif Fiziksel saldırı | Çoklu vuruş | Düşük ihtimalle Sersemleme uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0151",
+        "msgStr": "1 hedefe ağır Fiziksel saldırı | Düşük ihtimalle Sersemleme uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0152",
+        "msgStr": "Kendi etrafındaki geniş bir alana orta Fiziksel saldırı | Düşük ihtimalle Sersemleme uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0153",
+        "msgStr": "1 hedefe ağır Fiziksel saldırı | Orta ihtimalle Öfke uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0154",
+        "msgStr": "1 hedefe orta Fiziksel saldırı | Orta ihtimalle Zehir uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0155",
+        "msgStr": "Kavisli bir alanda orta Fiziksel saldırı | Dirençleri yok sayar | Düşük ihtimalle Sersemleme uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0156",
+        "msgStr": "Birden fazla düz hatta orta Fiziksel saldırı | Alan etkili | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0157",
+        "msgStr": "Önündeki genişleyen bir alanda orta Fiziksel saldırı | Çoklu vuruş | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0158",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana ağır Fiziksel saldırı | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0163",
+        "msgStr": "Sınırsız menzilli yıkıcı Fiziksel saldırı | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0168",
+        "msgStr": "Hafif Fiziksel atılma saldırısı | Çoklu vuruş | Düşük ihtimalle Sersemleme uygular | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0176",
+        "msgStr": "1 hedefe hafif Silah saldırısı | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0191",
+        "msgStr": "1 hedefe ağır Silah saldırısı | <SKL_17>: <V 0>"
+      },
+      {
+        "msgID": "SKILLHELP_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0208",
+        "msgStr": "Gruba yönelik Ateş, Buz, Elektrik, Güç, Ölüm ve Zihin saldırılarını geçici olarak geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0212",
+        "msgStr": "Gruba yönelik Fiziksel saldırıları geçici olarak geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0220",
+        "msgStr": "Tüm düşmanların hareketini geçici olarak durdurur | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0221",
+        "msgStr": "Takviye kuvvet çağırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0222",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0223",
+        "msgStr": "Gruba yönelik Ölüm saldırılarını geçici olarak emer | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0226",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0227",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0228",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0229",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0230",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0231",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0236",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0237",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0239",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0240",
+        "msgStr": "Ölüm anında kendi etrafındaki bir alana yüksek ihtimalle ağır Mutlak saldırı tetikler"
+      },
+      {
+        "msgID": "SKILLHELP_L0241",
+        "msgStr": "Savaş bittiğinde Raidou'nun ve kendisinin HP'sini otomatik olarak yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L0242",
+        "msgStr": "Kendisinin ve etrafındaki alandaki müttefiklerin HP'sini kademeli olarak yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L0243",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0244",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0245",
+        "msgStr": "Savaş başına bir kez, ölünce 1 HP ile dirilir"
+      },
+      {
+        "msgID": "SKILLHELP_L0246",
+        "msgStr": "Kullanıcının katıldığı savaşlardan daha kolay kaçılmasını sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L0247",
+        "msgStr": "Kullanıcının katıldığı savaşlardan kazanılan parayı artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0248",
+        "msgStr": "Kullanıcının katıldığı savaşlardan düşen eşyaları artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0250",
+        "msgStr": "Kullanıcının katıldığı savaşlardan kazanılan Sadakati artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0251",
+        "msgStr": "Maksimum HP'yi %10 artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0252",
+        "msgStr": "Maksimum HP'yi %20 artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0253",
+        "msgStr": "Maksimum HP'yi %30 artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0254",
+        "msgStr": "Maksimum MAG miktarını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0255",
+        "msgStr": "Maksimum MAG miktarını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0256",
+        "msgStr": "Maksimum MAG miktarını büyük ölçüde artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0257",
+        "msgStr": "Fiziksel saldırı gücünü artırma ihtimali sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L0258",
+        "msgStr": "Büyü saldırı gücünü artırma ihtimali sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L0259",
+        "msgStr": "Ateş saldırı gücünü artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0260",
+        "msgStr": "Buz saldırı gücünü artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0261",
+        "msgStr": "Elektrik saldırı gücünü artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0262",
+        "msgStr": "Güç saldırı gücünü artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0263",
+        "msgStr": "İyileştirme yeteneklerinin etkinliğini artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0264",
+        "msgStr": "Zihin rahatsızlıkları uygulama ihtimalini artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0265",
+        "msgStr": "Alınan Ateş hasarını yarıya indirir | Ateş zayıflığını geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0266",
+        "msgStr": "Alınan Buz hasarını yarıya indirir | Buz zayıflığını geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0267",
+        "msgStr": "Alınan Elektrik hasarını yarıya indirir | Elektrik zayıflığını geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0268",
+        "msgStr": "Alınan Güç hasarını yarıya indirir | Güç zayıflığını geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0269",
+        "msgStr": "Alınan Fiziksel hasarı yarıya indirir | Fiziksel zayıflığı geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0270",
+        "msgStr": "Ölüm saldırılarına maruz kalma ihtimalini yarıya indirir | Ölüm zayıflığını geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0271",
+        "msgStr": "Alınan Zihin hasarını yarıya indirir | Zihin rahatsızlıklarına yakalanma ihtimalini yarıya indirir"
+      },
+      {
+        "msgID": "SKILLHELP_L0272",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0273",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0274",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0275",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0277",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0278",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0279",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0280",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0281",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0282",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0283",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0284",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0285",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0286",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0287",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0288",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0289",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0290",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0291",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0292",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0293",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0294",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0295",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0296",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0297",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0298",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0299",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0300",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0301",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0302",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0303",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0304",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0305",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0306",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0307",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0308",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0309",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0310",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0311",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0312",
+        "msgStr": "Maksimum MAG miktarının %50'sini yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L0313",
+        "msgStr": "Durum rahatsızlıklarını iyileştirir ve grup için Şevk tetikler"
+      },
+      {
+        "msgID": "SKILLHELP_L0314",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0315",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0316",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0317",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0318",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0319",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0320",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0321",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0322",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0323",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0324",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0325",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0326",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0327",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0328",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0329",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0330",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0331",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0332",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0333",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0334",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0335",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0336",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0337",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0338",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0339",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0340",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0341",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0342",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0343",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0344",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0345",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0346",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0347",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0348",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0349",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0350",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0351",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0352",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0353",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0354",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0355",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0356",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0357",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0358",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0359",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0360",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0361",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0362",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0363",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0364",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0365",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0366",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0367",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0368",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0369",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0370",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0371",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0372",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0373",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0374",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0375",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0376",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0377",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0378",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0379",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0380",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0381",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0382",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0383",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0384",
+        "msgStr": "1 hedefe hafif Ateş saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0385",
+        "msgStr": "1 hedefe ağır Ateş saldırısı | Alan etkili"
+      },
+      {
+        "msgID": "SKILLHELP_L0386",
+        "msgStr": "Üç yönlü yayılan orta Ateş saldırısı | 2-5 ek hasar vuruşu"
+      },
+      {
+        "msgID": "SKILLHELP_L0387",
+        "msgStr": "1 hedefe ağır Ateş saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0388",
+        "msgStr": "1 hedefe hafif Buz saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0389",
+        "msgStr": "1 hedefe ağır Buz saldırısı | Alan etkili"
+      },
+      {
+        "msgID": "SKILLHELP_L0390",
+        "msgStr": "Üç yönlü yayılan orta Buz saldırısı | 2-5 ek hasar vuruşu"
+      },
+      {
+        "msgID": "SKILLHELP_L0391",
+        "msgStr": "1 hedefe ağır Buz saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0392",
+        "msgStr": "1 hedefe hafif Elektrik saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0393",
+        "msgStr": "1 hedefe ağır Elektrik saldırısı | Alan etkili"
+      },
+      {
+        "msgID": "SKILLHELP_L0394",
+        "msgStr": "Üç yönlü yayılan orta Elektrik saldırısı | 2-5 ek hasar vuruşu"
+      },
+      {
+        "msgID": "SKILLHELP_L0395",
+        "msgStr": "1 hedefe ağır Elektrik saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0396",
+        "msgStr": "1 hedefe hafif Güç saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0397",
+        "msgStr": "1 hedefe ağır Güç saldırısı | Alan etkili"
+      },
+      {
+        "msgID": "SKILLHELP_L0398",
+        "msgStr": "Üç yönlü yayılan orta Güç saldırısı | 2-5 ek hasar vuruşu"
+      },
+      {
+        "msgID": "SKILLHELP_L0399",
+        "msgStr": "1 hedefe ağır Güç saldırısı | 2-5 ek hasar vuruşu | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0400",
+        "msgStr": "1 hedefe Ölüm saldırısı | Hedefin HP'sini yarıya indirir"
+      },
+      {
+        "msgID": "SKILLHELP_L0401",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Büyülenme uygular"
+      },
+      {
+        "msgID": "SKILLHELP_L0402",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Uyku uygular"
+      },
+      {
+        "msgID": "SKILLHELP_L0403",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Kafa Karışıklığı uygular"
+      },
+      {
+        "msgID": "SKILLHELP_L0404",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Orta ihtimalle Susturma uygular"
+      },
+      {
+        "msgID": "SKILLHELP_L0405",
+        "msgStr": "Kendi etrafındaki orta genişlikte bir alana hafif Zihin saldırısı | Düşük ihtimalle Taşlaşma uygular"
+      },
+      {
+        "msgID": "SKILLHELP_L0406",
+        "msgStr": "Grubun HP'sini az miktarda yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L0407",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0408",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0409",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0410",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0411",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0412",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0413",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0414",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0415",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0416",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0417",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0418",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0419",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0420",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0421",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0422",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0423",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0424",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0425",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0426",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0427",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0428",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0429",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0430",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0431",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0432",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0433",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0434",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0435",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0436",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0437",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0438",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0439",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0440",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0441",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0442",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0443",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0444",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0445",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0446",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0447",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0448",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0449",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0450",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0451",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0452",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0453",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0454",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0455",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0456",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0457",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0458",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0459",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0460",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0461",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0462",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0463",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0464",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0465",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0466",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0467",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0468",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0469",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0470",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0471",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0472",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0473",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0474",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0475",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0476",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0477",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0478",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0479",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0480",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0481",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0482",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0483",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0484",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0485",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0486",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0487",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0488",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0489",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0490",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0491",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0492",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0493",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0494",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0495",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0496",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0497",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0498",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0499",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0500",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0501",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0502",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0503",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0504",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0505",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0506",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0507",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0508",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0509",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0510",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0511",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0512",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0513",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0514",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0515",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0516",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0517",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0518",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0519",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0520",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0521",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0522",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0523",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0524",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0525",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0526",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0527",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0528",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0529",
+        "msgStr": "Üç yönlü yayılan hafif Ateş saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0530",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0531",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0532",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0533",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0534",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0535",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0536",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0537",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0538",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0539",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0540",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0541",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0542",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0543",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0544",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0545",
+        "msgStr": "Üç yönlü yayılan hafif Buz saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0546",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0547",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0548",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0549",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0550",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0551",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0552",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0553",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0554",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0555",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0556",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0557",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0558",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0559",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0560",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0561",
+        "msgStr": "Üç yönlü yayılan hafif Elektrik saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0562",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0563",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0564",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0565",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0566",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0567",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0568",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0569",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0570",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0571",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0572",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0573",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0574",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0575",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0576",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0577",
+        "msgStr": "Üç yönlü yayılan hafif Güç saldırısı | <SKL_17>: <V 0> | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0578",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0579",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0580",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0581",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0582",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0583",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0584",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0585",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0586",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0587",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0588",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0589",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0590",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0591",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0592",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0593",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0594",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0595",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0596",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0597",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0598",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0599",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0600",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0601",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0602",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0603",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0604",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0605",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0606",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0607",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0608",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0609",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0610",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0611",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0612",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0613",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0614",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0615",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0616",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0617",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0618",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0619",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0620",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0621",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0622",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0623",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0624",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0625",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0626",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0627",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0628",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0629",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0630",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0631",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0632",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0633",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0634",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0635",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0636",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0637",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0638",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0639",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0640",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0641",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0642",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0643",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0644",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0645",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0646",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0647",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0648",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0649",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0650",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0651",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0652",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0653",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0654",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0655",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0656",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0657",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0658",
+        "msgStr": "Savaş bitene dek grubun fiziksel saldırı gücünü büyük ölçüde artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0659",
+        "msgStr": "Savaş bitene dek grubun büyü saldırı gücünü büyük ölçüde artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0660",
+        "msgStr": "Savaş bitene dek grubun savunma gücünü büyük ölçüde artırır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0661",
+        "msgStr": "Gruba yönelik fiziksel saldırıları geçici olarak yansıtır | MAG: <V 1>"
+      },
+      {
+        "msgID": "SKILLHELP_L0662",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0663",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0664",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0665",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0666",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0667",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0668",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0669",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0670",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0671",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0672",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0673",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0674",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0675",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0676",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0677",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0678",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0679",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0680",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0681",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0682",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0683",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0684",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0685",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0686",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0687",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0688",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0689",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0690",
+        "msgStr": "Tüm hedeflere yıkıcı Ateş saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0691",
+        "msgStr": "Tüm hedeflere yıkıcı Elektrik saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0692",
+        "msgStr": "Tüm hedeflere yıkıcı Güç saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0693",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0694",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0695",
+        "msgStr": "Tüm hedeflere yıkıcı Elektrik saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0696",
+        "msgStr": "Tüm hedeflere yıkıcı Buz saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0697",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0698",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0699",
+        "msgStr": "Tüm hedeflere yıkıcı Elektrik saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0700",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0701",
+        "msgStr": "Tüm hedeflere yıkıcı Ölüm saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0702",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0703",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0704",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0705",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0706",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0707",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0708",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0709",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0710",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0711",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0712",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0713",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0714",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0715",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0716",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0717",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0718",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0719",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0720",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0721",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0722",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0723",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0724",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0725",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0726",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0727",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0728",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0729",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0730",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0731",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0732",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0733",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0734",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0735",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0736",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0737",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0738",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0739",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0740",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0741",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0742",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0743",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0744",
+        "msgStr": "Raidou'nun geçici olarak silahını sınırsızca ateşlemesini sağlar ve hasarını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0745",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0746",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0747",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0748",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0749",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0750",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0751",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0752",
+        "msgStr": "Kendi etrafındaki geniş bir alana ağır Ateş saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0753",
+        "msgStr": "Kendi etrafındaki geniş bir alana ağır Buz saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0754",
+        "msgStr": "Kendi etrafındaki geniş bir alana ağır Elektrik saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0755",
+        "msgStr": "Kendi etrafındaki geniş bir alana ağır Güç saldırısı"
+      },
+      {
+        "msgID": "SKILLHELP_L0756",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0757",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0758",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0759",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0760",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0761",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0762",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0763",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0764",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0765",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0766",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0767",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0768",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0769",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0770",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0771",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0772",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0773",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0774",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0775",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0776",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0777",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0778",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0779",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0780",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0781",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0782",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0783",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0784",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0785",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0786",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0787",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0788",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0789",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0790",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0791",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0792",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0793",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0794",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0795",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0796",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0797",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0798",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0799",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0800",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0801",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0802",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0803",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0804",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0805",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0806",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0807",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0808",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0809",
+        "msgStr": "Kuvveti 3 artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0810",
+        "msgStr": "Büyüyü 3 artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0811",
+        "msgStr": "Ölüm saldırılarına maruz kalma ihtimalini yarıya indirir | Ölüm zayıflığını geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L0812",
+        "msgStr": "Alınan Zihin hasarını yarıya indirir | Zihin rahatsızlıklarına yakalanma ihtimalini yarıya indirir"
+      },
+      {
+        "msgID": "SKILLHELP_L0813",
+        "msgStr": "Canlılığı 3 artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0814",
+        "msgStr": "Şansı 3 artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0815",
+        "msgStr": "Yetenek kullanırken MAG tüketimini azaltır"
+      },
+      {
+        "msgID": "SKILLHELP_L0816",
+        "msgStr": "Temel saldırıların kritik vuruş oranını büyük ölçüde artırır, ancak düşük bir ıskalama ihtimali ekler"
+      },
+      {
+        "msgID": "SKILLHELP_L0817",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0818",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0819",
+        "msgStr": "Anında ölüm saldırılarına maruz kalma ihtimalini yarıya indirir"
+      },
+      {
+        "msgID": "SKILLHELP_L0820",
+        "msgStr": "Anında ölüm saldırılarına maruz kalma ihtimalini önler"
+      },
+      {
+        "msgID": "SKILLHELP_L0821",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0822",
+        "msgStr": "Ölüm saldırılarının etkinliğini artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0823",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0824",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0825",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0826",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0827",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0828",
+        "msgStr": "Savaş başına bir kez, ölünce yarı HP ile dirilir"
+      },
+      {
+        "msgID": "SKILLHELP_L0829",
+        "msgStr": "Bir savaşı kazandıktan sonra kendisinin bir miktar HP'sini yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L0830",
+        "msgStr": "Bir savaşı kazandıktan sonra Şansa bağlı miktarda kendi HP'sini yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L0831",
+        "msgStr": "Yürürken ara sıra para bulma ihtimali sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L0832",
+        "msgStr": "Yürürken iyi miktarda para bulma ihtimali sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L0833",
+        "msgStr": "Yürürken ara sıra eşya bulma ihtimali sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L0834",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0835",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0836",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0837",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0838",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0839",
+        "msgStr": "Tüm nitelikleri 3 artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0840",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0841",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0842",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0843",
+        "msgStr": "Destek yeteneklerinin müttefikleri etkileme süresini ve sürekli iyileşme yeteneklerinin kendisini etkileme süresini uzatır"
+      },
+      {
+        "msgID": "SKILLHELP_L0844",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0845",
+        "msgStr": "MAG emme miktarını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0846",
+        "msgStr": "Temel saldırıların kritik vuruş oranını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0847",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0848",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0849",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0850",
+        "msgStr": "Kullanıcının katıldığı savaşlardan kazanılan Sadakati artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0851",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0852",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0853",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0854",
+        "msgStr": "Kullanıcının kazandığı EXP miktarını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0855",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0856",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0857",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0858",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0859",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0860",
+        "msgStr": "Savaşta çağrılmasa bile EXP kazanır"
+      },
+      {
+        "msgID": "SKILLHELP_L0861",
+        "msgStr": "Şansa bağlı olarak alınan hasarı veya durum rahatsızlığına yakalanmayı geçersiz kılma ihtimali sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L0862",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0863",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0864",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0865",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0866",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0867",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0868",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0869",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0870",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0871",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0872",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0873",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0874",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0875",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0876",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0877",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0878",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0879",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0880",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0881",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0882",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0883",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0884",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0885",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0886",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0887",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0888",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0889",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0890",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0891",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0892",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0893",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0894",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0895",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0896",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0897",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0898",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0899",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0900",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0901",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0902",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0903",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0904",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0905",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0906",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0907",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0908",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0909",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0910",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0911",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0912",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0913",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0914",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0915",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0916",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0917",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0918",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0919",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0920",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0921",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0922",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0923",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0924",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0925",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0926",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0927",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0928",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0929",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0930",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0931",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0932",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0933",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0934",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0935",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0936",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0937",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0938",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0939",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0940",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0941",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0942",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0943",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0944",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0945",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0946",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0947",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0948",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0949",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0950",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0951",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0952",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0953",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0954",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0955",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0956",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0957",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0958",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0959",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0960",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0961",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0962",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0963",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0964",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0965",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0966",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0967",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0968",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0969",
+        "msgStr": "Tüm saldırıların saldırı gücünü artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L0970",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0971",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0972",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0973",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0974",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0975",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0976",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0977",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0978",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0979",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0980",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0981",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0982",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0983",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0984",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0985",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0986",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0987",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0988",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0989",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0990",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0991",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0992",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0993",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0994",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0995",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0996",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0997",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0998",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L0999",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1044",
+        "msgStr": "Alınan Fiziksel hasarı yarıya indirir"
+      },
+      {
+        "msgID": "SKILLHELP_L1045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1049",
+        "msgStr": "Alınan Buz ve Güç hasarını yarıya indirir"
+      },
+      {
+        "msgID": "SKILLHELP_L1050",
+        "msgStr": "Alınan Ateş ve Elektrik hasarını yarıya indirir"
+      },
+      {
+        "msgID": "SKILLHELP_L1051",
+        "msgStr": "Alınan Zihin ve Ölüm hasarını yarıya indirir"
+      },
+      {
+        "msgID": "SKILLHELP_L1052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1073",
+        "msgStr": "Savaş başına bir kez, ölünce 1 HP ile dirilir"
+      },
+      {
+        "msgID": "SKILLHELP_L1074",
+        "msgStr": "Savaş başına bir kez, ölünce yarı HP ile dirilir"
+      },
+      {
+        "msgID": "SKILLHELP_L1075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1079",
+        "msgStr": "Raidou'nun ve yakındaki iblis müttefiklerin HP'sini kademeli olarak yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L1080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1084",
+        "msgStr": "Savaş başına bir kez, ölünce tam HP ile dirilir"
+      },
+      {
+        "msgID": "SKILLHELP_L1085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1221",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1222",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1223",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1226",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1227",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1228",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1229",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1230",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1231",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1236",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1237",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1239",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1240",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1241",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1242",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1243",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1244",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1245",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1246",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1247",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1248",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1252",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1253",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1254",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1255",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1256",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1257",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1258",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1259",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1260",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1261",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1262",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1263",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1264",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1265",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1266",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1267",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1268",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1269",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1270",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1271",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1272",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1273",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1274",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1275",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1277",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1278",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1279",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1280",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1281",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1282",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1283",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1284",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1285",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1286",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1287",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1288",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1289",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1290",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1291",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1292",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1293",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1294",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1295",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1296",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1297",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1298",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1299",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1300",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1301",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1302",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1303",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1304",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1305",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1306",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1307",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1308",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1309",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1310",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1311",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1312",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1313",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1314",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1315",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1316",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1317",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1318",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1319",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1320",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1321",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1322",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1323",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1324",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1325",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1326",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1327",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1328",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1329",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1330",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1331",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1332",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1333",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1334",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1335",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1336",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1337",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1338",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1339",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1340",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1341",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1342",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1343",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1344",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1345",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1346",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1347",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1348",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1349",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1350",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1351",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1352",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1353",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1354",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1355",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1356",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1357",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1358",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1359",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1360",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1361",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1362",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1363",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1364",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1365",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1366",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1367",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1368",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1369",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1370",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1371",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1372",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1373",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1374",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1375",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1376",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1377",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1378",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1379",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1380",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1381",
+        "msgStr": "Kaçınma veya İblis Çalımı sonrasında İblis Felaketi tetikleme ihtimalini artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1382",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1383",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1384",
+        "msgStr": "Savunma yaparken alınan hasarı azaltır | Ejderha Duruşu ile birikebilir"
+      },
+      {
+        "msgID": "SKILLHELP_L1385",
+        "msgStr": "Savunma yaparken alınan hasarı azaltır | Kaplan Duruşu ile birikebilir"
+      },
+      {
+        "msgID": "SKILLHELP_L1386",
+        "msgStr": "Kaçınma etkinliğini artırır | Kaplumbağa-Yılan Adımı ile birikebilir"
+      },
+      {
+        "msgID": "SKILLHELP_L1387",
+        "msgStr": "Kaçınma etkinliğini artırır | Anka Adımı ile birikebilir"
+      },
+      {
+        "msgID": "SKILLHELP_L1388",
+        "msgStr": "Tüpe alma işleminin başarısız olma ihtimalini azaltır"
+      },
+      {
+        "msgID": "SKILLHELP_L1389",
+        "msgStr": "Düşük HP'deyken ya da Zehir, Kafa Karışıklığı veya Susturma altındayken kılıç saldırılarının gücünü büyük ölçüde artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1390",
+        "msgStr": "Düşük HP'deyken ya da Zehir, Kafa Karışıklığı veya Susturma altındayken kılıç saldırılarıyla geri kazanılan MAG miktarını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1391",
+        "msgStr": "Müttefiklerin düşmanların zayıflık kalkanlarına verdiği hasarı büyük ölçüde artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1392",
+        "msgStr": "Tüm durum rahatsızlıklarını geçersiz kılar"
+      },
+      {
+        "msgID": "SKILLHELP_L1393",
+        "msgStr": "HP tamken kılıç saldırılarının daha fazla hasar vermesini sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L1394",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1395",
+        "msgStr": "İblis Felaketi ile verilen hasarı artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1396",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1397",
+        "msgStr": "Alınan hasarın %20'si kadar MAG yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L1398",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1399",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1400",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1401",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1402",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1403",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1404",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1405",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1406",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1407",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1408",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1409",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1410",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1411",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1412",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1413",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1414",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1415",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1416",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1417",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1418",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1419",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1420",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1421",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1422",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1423",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1424",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1425",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1426",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1427",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1428",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1429",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1430",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1431",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1432",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1433",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1434",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1435",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1436",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1437",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1438",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1439",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1440",
+        "msgStr": "Raidou'nun Savaş Yeteneklerinin tekrar kullanılabilmesi için gereken süreyi biraz kısaltır"
+      },
+      {
+        "msgID": "SKILLHELP_L1441",
+        "msgStr": "Ruh Kesişi ile verilen hasarı artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1442",
+        "msgStr": "Düşmanlara arkadan saldırırken kılıç saldırılarının kritik vuruş oranını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1443",
+        "msgStr": "Kombo 25 veya üzerindeyken MAG yenilenmesini artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1444",
+        "msgStr": "Bir hedefe kilitlenmişken mermi doldurma hızını artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1445",
+        "msgStr": "Ağır kılıç kombosunun veya güçlendirilmiş ağır kılıç kombosunun son vuruşu isabet ettiğinde MAG yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L1446",
+        "msgStr": "Zamanla MAG yeniler"
+      },
+      {
+        "msgID": "SKILLHELP_L1447",
+        "msgStr": "İblislerin MAG tüketimini azaltır"
+      },
+      {
+        "msgID": "SKILLHELP_L1448",
+        "msgStr": "İblislerin saldırılarının MAG tüketmeme ihtimalini sağlar"
+      },
+      {
+        "msgID": "SKILLHELP_L1449",
+        "msgStr": "Sersemlemiş düşmanlara verilen hasarı artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1450",
+        "msgStr": "İblislerin saldırılarının verdiği hasarı ve MAG bedelini büyük ölçüde artırır"
+      },
+      {
+        "msgID": "SKILLHELP_L1451",
+        "msgStr": "Bir düşmanın zayıflığına vurarak onu sersemletirken bir miktar MAG yenilenir"
+      },
+      {
+        "msgID": "SKILLHELP_L1452",
+        "msgStr": "Savaşta tüm Ruh Gücü kazanma yöntemleri Ruh Gücünü daha hızlı doldurur"
+      },
+      {
+        "msgID": "SKILLHELP_L1453",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1454",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1455",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1456",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1457",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1458",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1459",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1460",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1461",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1462",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1463",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1464",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1465",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1466",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1467",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1468",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1469",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1470",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1471",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1472",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1473",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1474",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1475",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1476",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1477",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1478",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1479",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1480",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1481",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1482",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1483",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1484",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1485",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1486",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1487",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1488",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1489",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1490",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1491",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1492",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1493",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1494",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1495",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1496",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1497",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1498",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1499",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1500",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1501",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1502",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1503",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1504",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1505",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1506",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1507",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1508",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1509",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1510",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1511",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1512",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1513",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1514",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1515",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1516",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1517",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1518",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1519",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1520",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1521",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1522",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1523",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1524",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1525",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1526",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1527",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1528",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1529",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1530",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1531",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1532",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1533",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1534",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1535",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1536",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1537",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1538",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1539",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1540",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1541",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1542",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1543",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1544",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1545",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1546",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1547",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1548",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1549",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1550",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1551",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1552",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1553",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1554",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1555",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1556",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1557",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1558",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1559",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1560",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1561",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1562",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1563",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1564",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1565",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1566",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1567",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1568",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1569",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1570",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1571",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1572",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1573",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1574",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1575",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1576",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1577",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1578",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1579",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1580",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1581",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1582",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1583",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1584",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1585",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1586",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1587",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1588",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1589",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1590",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1591",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1592",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1593",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1594",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1595",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1596",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1597",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1598",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SKILLHELP_L1599",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/03/31 17:47:09"
+}

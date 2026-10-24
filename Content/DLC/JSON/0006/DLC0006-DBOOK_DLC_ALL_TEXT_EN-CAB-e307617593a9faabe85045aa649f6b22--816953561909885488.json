@@ -1,0 +1,53 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_DLC_ALL_TEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_ALL_TEXT_L0000",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:56:43"
+}

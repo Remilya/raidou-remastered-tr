@@ -1,0 +1,193 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP21_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map18_e_dammy_18_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map19_e_dammy_19_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map20_e_dammy_20_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map21_e_map21_ep01_scene09_01_000",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "MAP21_E_L0000",
+        "msgStr": "Hey, şuna bak! Gerçekten de geldin! Geleceğini söylemişti ama yine de emin değildim..."
+      },
+      {
+        "msgID": "map21_e_map21_ep01_scene09_01_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_E_L0000_01",
+        "msgStr": "\"O\" mu...?"
+      },
+      {
+        "msgID": "map21_e_map21_ep01_scene09_02_001",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "MAP21_E_L0001",
+        "msgStr": "Har har har! Buna kandığına inanamıyorum! Kız seni buraya çekmek için sadece bir yemdi, biliyorsun değil mi!"
+      },
+      {
+        "msgID": "map21_e_map21_ep01_scene09_03_002",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "MAP21_E_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_e_map21_ep01_scene09_04_003",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "MAP21_E_L0003",
+        "msgStr": "Bugünkü ziyafetin asıl ana yemeği... <IT_S>sensin<IT_E>!"
+      },
+      {
+        "msgID": "map21_e_map21_ep01_scene10_02_004",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "MAP21_E_L0004",
+        "msgStr": "Sen... kimsin...? Kaya...?"
+      },
+      {
+        "msgID": "map21_e_map21_ep01_scene10_03_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_E_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_E_L0006",
+        "msgStr": "Endişelenme. Onu esir alanı hakladığımız için ölümlü dünyaya geri döndü."
+      },
+      {
+        "msgID": "map21_e_map21_ep01_scene10_04_006",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_E_L0007",
+        "msgStr": "<COLOR 3>Aceleyle geri dönüp o kızla konuşalım.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP21_E_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_e_EPI09_SCENE09_01_007",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "MAP21_E_L0009",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0010",
+        "msgStr": "Sen de güçlü görünüyorsun. Bir başka ben hakkında bunu söyleyebildiğime sevindim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0011",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0012",
+        "msgStr": "Yatagarasu seninle etkileşimimi en aza indirmemi tavsiye etti, bu yüzden çok şey söyleyemem ama beni dinle.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0013",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0014",
+        "msgStr": "Bu zaman çizgisinde, birkaç nesil sonraki gelecekten gelen ve bir kızın bilincini ele geçirmeye çalışan bir Raidou var.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0021",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0022",
+        "msgStr": "Görünüşe göre amacı geçmişi değiştirerek geleceği değiştirmek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0023",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0024",
+        "msgStr": "Bu sadece bir tahmin ama... <IT_S>senin<IT_E> tarafında da uğraştığın şeyin bu olması mümkün.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0025",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0026",
+        "msgStr": "Korkarım bu düşmanla senin yanında omuz omuza yüzleşemem ama Başkent'i korumak için ikimiz de elimizden geleni yapalım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0027",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0028",
+        "msgStr": "Ve son bir şey daha...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0029",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0030",
+        "msgStr": "Burada Taisho döneminde değil, Showa dönemindeyiz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0015",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0016",
+        "msgStr": "Pekâlâ, Ruh Gönderme Ritüeli'ni gerçekleştirelim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0017",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0018",
+        "msgStr": "Amatsu Kanagi'yi sıkıca tut ve odağını koru.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP21_E_L0019",
+        "msgStr": "<lips 21 5>"
+      },
+      {
+        "msgID": "MAP21_E_L0020",
+        "msgStr": "Umarım bir gün tekrar karşılaşırız.\n<lips_stop>"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:46:20"
+}

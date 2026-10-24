@@ -1,0 +1,157 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E50X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e501_e890_001_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E501_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e501_e890_002_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E501_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e501_e890_003_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E501_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e501_e890_004_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E501_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e501_e890_005_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E501_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E501_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e501_e890_006_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E501_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_001_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_002_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_003_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_004_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_005_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_006_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_007_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_008_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e502_e502_009_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E502_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E502_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E502_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E502_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E502_L0012",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/26 18:48:55"
+}

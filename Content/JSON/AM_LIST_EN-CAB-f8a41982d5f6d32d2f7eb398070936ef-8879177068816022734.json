@@ -1,0 +1,357 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "AM_LIST_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "AM_LIST_L0000",
+        "msgStr": "Harita Seçimi"
+      },
+      {
+        "msgID": "AM_LIST_L0001",
+        "msgStr": "Görüntülenen haritayı değiştir."
+      },
+      {
+        "msgID": "AM_LIST_L0100",
+        "msgStr": "Tsukudo-cho"
+      },
+      {
+        "msgID": "AM_LIST_L0200",
+        "msgStr": "Daidouji Konağı"
+      },
+      {
+        "msgID": "AM_LIST_L0300",
+        "msgStr": "Fukagawa-cho"
+      },
+      {
+        "msgID": "AM_LIST_L0400",
+        "msgStr": "Kırmızı Fener Mahallesi"
+      },
+      {
+        "msgID": "AM_LIST_L0500",
+        "msgStr": "Daidouji Tekstil"
+      },
+      {
+        "msgID": "AM_LIST_L0600",
+        "msgStr": "İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "AM_LIST_L0700",
+        "msgStr": "Ginza-cho"
+      },
+      {
+        "msgID": "AM_LIST_L0800",
+        "msgStr": "Shin-Sekai Ön Kapısı"
+      },
+      {
+        "msgID": "AM_LIST_L0900",
+        "msgStr": "Ryugu Ön Girişi"
+      },
+      {
+        "msgID": "AM_LIST_L1000",
+        "msgStr": "Katolik Kilisesi"
+      },
+      {
+        "msgID": "AM_LIST_L1100",
+        "msgStr": "Yabancılar Mezarlığı"
+      },
+      {
+        "msgID": "AM_LIST_L1200",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "AM_LIST_L1300",
+        "msgStr": "Sakuradayama"
+      },
+      {
+        "msgID": "AM_LIST_L1400",
+        "msgStr": "Yeraltı Tersanesi"
+      },
+      {
+        "msgID": "AM_LIST_L1500",
+        "msgStr": "Kasumidai"
+      },
+      {
+        "msgID": "AM_LIST_L1600",
+        "msgStr": "Kasumi Açıklığı"
+      },
+      {
+        "msgID": "AM_LIST_L1700",
+        "msgStr": "Yeraltı Tersanesi (Batı)"
+      },
+      {
+        "msgID": "AM_LIST_L1800",
+        "msgStr": "Kuzunoha Eğitim Salonu"
+      },
+      {
+        "msgID": "AM_LIST_L1900",
+        "msgStr": "İsimsiz Tapınak"
+      },
+      {
+        "msgID": "AM_LIST_L2000",
+        "msgStr": "Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "AM_LIST_L2100",
+        "msgStr": "Eğitim Salonu"
+      },
+      {
+        "msgID": "AM_LIST_L2200",
+        "msgStr": "Eğitim Salonu - Doğu"
+      },
+      {
+        "msgID": "AM_LIST_L2300",
+        "msgStr": "Eğitim Salonu - Batı"
+      },
+      {
+        "msgID": "AM_LIST_L2400",
+        "msgStr": "Eğitim Salonu - Güney"
+      },
+      {
+        "msgID": "AM_LIST_L2500",
+        "msgStr": "Eğitim Salonu - Kuzey"
+      },
+      {
+        "msgID": "AM_LIST_L2600",
+        "msgStr": "Akarana Koridoru"
+      },
+      {
+        "msgID": "AM_LIST_L2700",
+        "msgStr": "Karanlık Fukagawa-cho"
+      },
+      {
+        "msgID": "AM_LIST_L2800",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "AM_LIST_L2900",
+        "msgStr": "Karanlık Harumi-cho"
+      },
+      {
+        "msgID": "AM_LIST_L3000",
+        "msgStr": "Karanlık Kasumidai"
+      },
+      {
+        "msgID": "AM_LIST_L3100",
+        "msgStr": "Karanlık Sakuradayama"
+      },
+      {
+        "msgID": "AM_LIST_L3200",
+        "msgStr": "Waden One"
+      },
+      {
+        "msgID": "AM_LIST_L0801",
+        "msgStr": "Daidouji Konağı 2. Kat"
+      },
+      {
+        "msgID": "AM_LIST_L0802",
+        "msgStr": "Daidouji Konağı 1. Kat"
+      },
+      {
+        "msgID": "AM_LIST_L0803",
+        "msgStr": "Daidouji Konağı Bodrum Katı"
+      },
+      {
+        "msgID": "AM_LIST_L0901",
+        "msgStr": "Matris Labirenti"
+      },
+      {
+        "msgID": "AM_LIST_L0902",
+        "msgStr": "Daidouji Tekstil"
+      },
+      {
+        "msgID": "AM_LIST_L0201",
+        "msgStr": "Ginza-cho (Geçici Üst Geçit)"
+      },
+      {
+        "msgID": "AM_LIST_L0202",
+        "msgStr": "Ginza-cho"
+      },
+      {
+        "msgID": "AM_LIST_L1001",
+        "msgStr": "Yeraltı Tersanesi B1"
+      },
+      {
+        "msgID": "AM_LIST_L1002",
+        "msgStr": "Yeraltı Tersanesi B2"
+      },
+      {
+        "msgID": "AM_LIST_L1003",
+        "msgStr": "Yeraltı Tersanesi B3"
+      },
+      {
+        "msgID": "AM_LIST_L1004",
+        "msgStr": "Yeraltı Tersanesi B4"
+      },
+      {
+        "msgID": "AM_LIST_L3001",
+        "msgStr": "Yeraltı Tersanesi (Batı) B1"
+      },
+      {
+        "msgID": "AM_LIST_L3002",
+        "msgStr": "Yeraltı Tersanesi (Batı) B2"
+      },
+      {
+        "msgID": "AM_LIST_L3003",
+        "msgStr": "Yeraltı Tersanesi (Batı) B3"
+      },
+      {
+        "msgID": "AM_LIST_L3004",
+        "msgStr": "Yeraltı Tersanesi (Batı) B4"
+      },
+      {
+        "msgID": "AM_LIST_L1401",
+        "msgStr": "Eğitim Salonu B1"
+      },
+      {
+        "msgID": "AM_LIST_L1402",
+        "msgStr": "Eğitim Salonu B2"
+      },
+      {
+        "msgID": "AM_LIST_L1403",
+        "msgStr": "Eğitim Salonu B3"
+      },
+      {
+        "msgID": "AM_LIST_L1404",
+        "msgStr": "Eğitim Salonu B4"
+      },
+      {
+        "msgID": "AM_LIST_L1405",
+        "msgStr": "Eğitim Salonu B5"
+      },
+      {
+        "msgID": "AM_LIST_L1406",
+        "msgStr": "Eğitim Salonu B6"
+      },
+      {
+        "msgID": "AM_LIST_L1407",
+        "msgStr": "Eğitim Salonu B7"
+      },
+      {
+        "msgID": "AM_LIST_L1408",
+        "msgStr": "Eğitim Salonu B8"
+      },
+      {
+        "msgID": "AM_LIST_L1409",
+        "msgStr": "Eğitim Salonu B9"
+      },
+      {
+        "msgID": "AM_LIST_L1410",
+        "msgStr": "Eğitim Salonu B10"
+      },
+      {
+        "msgID": "AM_LIST_L1301",
+        "msgStr": "Akarana Koridoru - Boyutsal Yarık 4"
+      },
+      {
+        "msgID": "AM_LIST_L1302",
+        "msgStr": "Akarana Koridoru - 20XX"
+      },
+      {
+        "msgID": "AM_LIST_L1303",
+        "msgStr": "Akarana Koridoru - 2050"
+      },
+      {
+        "msgID": "AM_LIST_L1304",
+        "msgStr": "Akarana Koridoru - 2040"
+      },
+      {
+        "msgID": "AM_LIST_L1305",
+        "msgStr": "Akarana Koridoru - 2030"
+      },
+      {
+        "msgID": "AM_LIST_L1306",
+        "msgStr": "Akarana Koridoru - 20XX"
+      },
+      {
+        "msgID": "AM_LIST_L1307",
+        "msgStr": "Akarana Koridoru - Boyutsal Yarık 3"
+      },
+      {
+        "msgID": "AM_LIST_L1308",
+        "msgStr": "Akarana Koridoru - 2020"
+      },
+      {
+        "msgID": "AM_LIST_L1309",
+        "msgStr": "Akarana Koridoru - 2010"
+      },
+      {
+        "msgID": "AM_LIST_L1310",
+        "msgStr": "Akarana Koridoru - 2000"
+      },
+      {
+        "msgID": "AM_LIST_L1311",
+        "msgStr": "Akarana Koridoru - Boyutsal Yarık 2"
+      },
+      {
+        "msgID": "AM_LIST_L1312",
+        "msgStr": "Akarana Koridoru - 1990"
+      },
+      {
+        "msgID": "AM_LIST_L1313",
+        "msgStr": "Akarana Koridoru - 1980"
+      },
+      {
+        "msgID": "AM_LIST_L1314",
+        "msgStr": "Akarana Koridoru - 1970"
+      },
+      {
+        "msgID": "AM_LIST_L1315",
+        "msgStr": "Akarana Koridoru - Boyutsal Yarık 1"
+      },
+      {
+        "msgID": "AM_LIST_L1316",
+        "msgStr": "Akarana Koridoru - 1960 (Üst)"
+      },
+      {
+        "msgID": "AM_LIST_L1317",
+        "msgStr": "Akarana Koridoru - 1960 (Alt)"
+      },
+      {
+        "msgID": "AM_LIST_L1318",
+        "msgStr": "Akarana Koridoru - 1950"
+      },
+      {
+        "msgID": "AM_LIST_L1319",
+        "msgStr": "Akarana Koridoru - 1940"
+      },
+      {
+        "msgID": "AM_LIST_L1320",
+        "msgStr": "Akarana Koridoru - 1930"
+      },
+      {
+        "msgID": "AM_LIST_L2201",
+        "msgStr": "Karanlık Ginza-cho (Geçici Üst Geçit)"
+      },
+      {
+        "msgID": "AM_LIST_L2202",
+        "msgStr": "Karanlık Ginza-cho"
+      },
+      {
+        "msgID": "AM_LIST_L3101",
+        "msgStr": "Waden One - Üst"
+      },
+      {
+        "msgID": "AM_LIST_L3102",
+        "msgStr": "Waden One - Orta"
+      },
+      {
+        "msgID": "AM_LIST_L3103",
+        "msgStr": "Waden One - Alt"
+      },
+      {
+        "msgID": "AM_LIST_L3104",
+        "msgStr": "Waden One - Kubbe İçi"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/26 18:51:29"
+}

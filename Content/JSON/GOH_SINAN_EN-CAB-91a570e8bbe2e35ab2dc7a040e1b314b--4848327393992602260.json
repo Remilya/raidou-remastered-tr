@@ -1,0 +1,1301 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_SINAN_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "goh_sinan_goh_sinan_011_000",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0000",
+        "msgStr": "<lips 12 5>\nÖğrenmek istediğin bir şey mi var, evlat?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_00_01_001",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0001",
+        "msgStr": "<lips 12 5>\nÖğrenmek istediğin bir şey mi var, evlat?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_01_01_002",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0002",
+        "msgStr": "<lips 12 5>\nYatagarasu, doğrudan Gouma-Den'e gelmek için herhangi bir Ejderha Pınarı'nı kullanmana izin veriyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0003",
+        "msgStr": "<lips 12 5>\nAnında ışınlanma... Ne muazzam bir kolaylık...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0004",
+        "msgStr": "<lips 12 5>\nÖyle ki bazen nerede bulunduğumuzu bile unutuyorum!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0005",
+        "msgStr": "<lips 12 5>\nGouma-Den, <COLOR 1>Konnou-ya'nın bodrum katında<COLOR 0> yer alıyor. Sakın unutma.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_02_01_003",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0006",
+        "msgStr": "<lips 12 5>\nBir İblis Çağırıcısı olarak yanında güçlü iblislere kesinlikle ihtiyacın olacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0007",
+        "msgStr": "<lips 12 5>\nGerek savaşlar, gerekse soruşturmalar için...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_02_04_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0009",
+        "msgStr": "> Victor iblis füzyonu hakkında neyi açıklasın?"
+      },
+      {
+        "msgID": "GOH_SINAN_L0010",
+        "msgStr": "Temel bilgileri"
+      },
+      {
+        "msgID": "GOH_SINAN_L0011",
+        "msgStr": "Kuralları"
+      },
+      {
+        "msgID": "GOH_SINAN_L0012",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_02_05_005",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0013",
+        "msgStr": "<lips 12 5>\nİblis füzyonu, <COLOR 1>mevcut iki iblisi birleştirerek yeni bir iblis yaratmaya<COLOR 0> dayanan yasaklı bir bilimdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0014",
+        "msgStr": "<lips 12 5>\nBizzat benim patentli yöntemimdir!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0015",
+        "msgStr": "<lips 12 5>\nBu işlem ücretsizdir, dolayısıyla Gouma-Den'in hizmetlerinden gönlünce faydalanabilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0016",
+        "msgStr": "<lips 12 5>\nSen güçlü iblislerine kavuşursun, ben de araştırmalarım için daha fazla numune elde ederim!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0017",
+        "msgStr": "<lips 12 5>\nİkimiz için de kazançlı bir anlaşma, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_02_07_01_006",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0018",
+        "msgStr": "<lips 12 5>\n<COLOR 0>Sormak istediğin başka bir şey var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_02_08_007",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0019",
+        "msgStr": "<lips 12 5>\nBir füzyonun sonucu, birleştirilecek iblislerin <COLOR 1>Düzenlerine<COLOR 0> bağlıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0020",
+        "msgStr": "<lips 12 5>\nBen bunlara <COLOR 1>füzyon kuralları<COLOR 0> diyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0021",
+        "msgStr": "<lips 12 5>\nÖrneğin, Ateş Düzeni ve Buz Düzeni iblislerini birleştirmek Rüzgâr Düzeni bir iblis ortaya çıkarır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0022",
+        "msgStr": "<lips 12 5>\nAynı Düzen'den iki iblisi birleştirmek ise bir Element Düzeni iblisi verir. Ve onlardan ikisi birleştirilirse...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0023",
+        "msgStr": "<lips 12 5>\nAncak <COLOR 1>seviyesi seninkinden yüksek olan<COLOR 0> bir iblisi füzyonlayamazsın. İblisler insanları küçümser, bilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_02_13_008",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0024",
+        "msgStr": "<lips 12 5>\nGüzel, güzel... Şüphesiz füzyona başlamak için sabırsızlanıyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_01_009",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0025",
+        "msgStr": "<lips 12 5>\nFüzyonda iblislerinle vedalaşmanın hiç kolay olmadığına eminim...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0026",
+        "msgStr": "<lips 12 5>\nAma korkma, çünkü yeni iblis kendisinden önceki iblislerden <COLOR 1>yetenek miras alacaktır<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_04_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0028",
+        "msgStr": "> Victor yetenek mirası hakkında neyi açıklasın?"
+      },
+      {
+        "msgID": "GOH_SINAN_L0029",
+        "msgStr": "Miras alınan nitelikleri"
+      },
+      {
+        "msgID": "GOH_SINAN_L0030",
+        "msgStr": "Miras alınan Savaş Yeteneklerini"
+      },
+      {
+        "msgID": "GOH_SINAN_L0031",
+        "msgStr": "Miras alınan Soruşturma Yeteneklerini"
+      },
+      {
+        "msgID": "GOH_SINAN_L0032",
+        "msgStr": "Miras alınan Pasif Yetenekleri"
+      },
+      {
+        "msgID": "GOH_SINAN_L0033",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_05_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_05_011",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0034",
+        "msgStr": "> Bir iblisin nitelikleri, <COLOR 1>Sadakat<COLOR 0> seviyesine ek olarak <COLOR 1>Güç, Büyü, Dayanıklılık ve Çeviklik<COLOR 0> değerlerini içerir."
+      },
+      {
+        "msgID": "GOH_SINAN_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0036",
+        "msgStr": "<lips 12 5>\nİblislerin seviyeleri ne kadar yükseltilirse, <COLOR 1>aktardıkları nitelikler de o kadar iyi olur<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0038",
+        "msgStr": "<lips 12 5>\n<COLOR 0>Sormak istediğin başka bir şey var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_10_012",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0039",
+        "msgStr": "<lips 12 5>\nDiğer iblislere yalnızca iblislerin <COLOR 1>füzyon sırasında bildikleri<COLOR 0> Savaş Yetenekleri aktarılabilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0040",
+        "msgStr": "<lips 12 5>\nBunu bilerek savaşa hangi iblisleri götüreceğini her zaman hesaba katmalı ve füzyonlarını ona göre yapmalısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0041",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Belki saldırı yeteneklerinde uzmanlaşmış bir iblis istersin...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0042",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Ya da belki iyileştirme ve destek?<COLOR 0> Olasılıklar işte böyle.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0043",
+        "msgStr": "<lips 12 5>\nAncak hangi yeteneklerin miras alınabileceği <COLOR 1>ortaya çıkacak iblise ve Düzen'e<COLOR 0> bağlıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0044",
+        "msgStr": "<lips 12 5>\nBöylesi kısıtlamalar altında bir iblisin güçlü yönlerini mükemmelleştirmek... Gerçekten heyecan verici.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_17_013",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0048",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Soruşturma Yetenekleri miras alınamaz<COLOR 0>; çünkü bunlar iblisin <COLOR 1>Düzeni<COLOR 0> ile bağlantılıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0049",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Pek çok farklı Düzen'den iblis bulundurmanı<COLOR 0> öneririm. Bir dedektifin doğru araçlara ihtiyacı vardır, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0050",
+        "msgStr": "<lips 12 5>\nEğer ilerlemenin bir yolunu bulamıyorsan, <COLOR 1>aramıza yeni iblisler katmayı<COLOR 0> veya <COLOR 1>İblis Rehberi'nden eski bir iblisi çağırmayı<COLOR 0> düşünebilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_20_014",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0051",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Bir iblisin sana olan Sadakati azami seviyeye ulaştığında<COLOR 0>, o iblis bir Pasif Yetenek geliştirir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0052",
+        "msgStr": "<lips 12 5>\nYani bu, birlikte girdiğiniz sayısız savaş boyunca iblisinle aranda kurulan bağın bir sonucudur.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0053",
+        "msgStr": "<lips 12 5>\nTüm Pasif Yetenekler <COLOR 1>iblisin kabiliyetlerini otomatik olarak güçlendirir<COLOR 0>.<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0057",
+        "msgStr": "<lips 12 5>\nAyrıca bilmelisin ki belirli bir iblisi kaç kez füzyonlarsan füzyonla...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0058",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Yeni iblisler, füzyonda kullanılan iblislerin tüm Pasif Yeteneklerini miras alır<COLOR 0>; dolayısıyla <COLOR 1>Pasif Yetenekleri kaybetmezsin<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0059",
+        "msgStr": "<lips 12 5>\nZamanı geldiğinde, iblislerinin hangi Pasif Yetenekleri kullanacağını seçebileceksin.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_20_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0059_01",
+        "msgStr": "<COLOR 3>> Bir iblisin Pasif Yetenekleri <COLOR 1>iblis füzyonu sırasında<COLOR 3> veya <COLOR 1>istenildiği zaman Durum ekranından<COLOR 3> değiştirilebilir.<COLOR 0>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0059_02",
+        "msgStr": "<COLOR 3>> Durum ekranı üzerinden Pasif Yetenekleri değiştirmek için menüyü açıp \"Yapılandırma\"yı seçin, bir iblis seçin, Pasif Yetenekler kısmına geçin ve ardından <BTN_Y> \"Pasif Yetenekleri Değiştir\" düğmesine basın.<COLOR 0>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0060",
+        "msgStr": "<lips 12 5>\nSen daha güçlü bir İblis Çağırıcısı oldukça iblislerinin düzineyle yetenek öğreneceğinden eminim.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_03_30_015",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0061",
+        "msgStr": "<lips 12 5>\nHer şey ileriye doğru akar. Bu hem zaman hem de insanlar için geçerlidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0062",
+        "msgStr": "<lips 12 5>\nSevdiğin bir ortaktan ayrılmak zor olabilir; ancak yetenek mirasından faydalanıp giderek daha güçlü iblisler füzyonlamaya devam etmen senin yararına olacaktır.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_01_016",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0063",
+        "msgStr": "<lips 12 5>\nİblis Çağırıcıları neden iblislere ihtiyaç duyar?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0065",
+        "msgStr": "<lips 12 5>\nEh, onlar olmadan savaşlar ve soruşturmalar bir hayli zor olurdu.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0066",
+        "msgStr": "<lips 12 5>\nBaşka bir deyişle, iblisleri füzyonlarken <COLOR 1>hem soruşturmayı hem de savaşı göz önünde bulundurmalısın<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_05_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0067",
+        "msgStr": "> Victor iblisleri füzyonlama hakkında neyi açıklasın?"
+      },
+      {
+        "msgID": "GOH_SINAN_L0068",
+        "msgStr": "Savaş ipuçlarını"
+      },
+      {
+        "msgID": "GOH_SINAN_L0069",
+        "msgStr": "Soruşturma ipuçlarını"
+      },
+      {
+        "msgID": "GOH_SINAN_L0070",
+        "msgStr": "İleri düzey ipuçlarını"
+      },
+      {
+        "msgID": "GOH_SINAN_L0071",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_06_018",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0072",
+        "msgStr": "<lips 12 5>\nÖncelikle, <COLOR 1>düşman zayıflıklarından faydalanabilecek yetenekleri<COLOR 0> güvence altına almalısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0073",
+        "msgStr": "<lips 12 5>\nZayıflıklardan faydalanarak <COLOR 1>düşmanlarının MAG'ını emebilirsin<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0074",
+        "msgStr": "<lips 12 5>\nVe MAG emerek <COLOR 1>kendin daha fazla yetenek kullanabilirsin<COLOR 0>!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0075",
+        "msgStr": "<lips 12 5>\nArdından, zaferini garantilemeye yardımcı olması için <COLOR 1>iyileştirme ve destek yeteneklerine sahip olmalısın<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0078",
+        "msgStr": "<lips 12 5>\nBu yetenekler sırasıyla hayatta kalmana ve strateji kurmana yardımcı olacaktır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0079",
+        "msgStr": "<lips 12 5>\nDuruma bağlı olarak <COLOR 1>belirli iblislerin belirli rolleri üstlenmesini<COLOR 0> isteyeceksin, bu yüzden yeteneklerini ona göre değiştir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0083",
+        "msgStr": "<lips 12 5>\n<COLOR 0>Sormak istediğin başka bir şey var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_18_019",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0084",
+        "msgStr": "<lips 12 5>\nFarklı Soruşturma Yeteneklerine erişimi olan <COLOR 1>çeşitli iblisler<COLOR 0> bulundurmak önemlidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0088",
+        "msgStr": "<lips 12 5>\nŞahsen <COLOR 1>Ateş<COLOR 0> ve <COLOR 1>Pagan<COLOR 0> Düzenlerinden iblisler taşımanı tavsiye ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0089",
+        "msgStr": "<lips 12 5>\nBu iblisler sırasıyla <COLOR 1>Tutuşturma<COLOR 0> ve <COLOR 1>Zihin Okuma<COLOR 0> Soruşturma Yeteneklerini kullanabilirler.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0090",
+        "msgStr": "<lips 12 5>\nBu yetenekleri <COLOR 1>gittiğin her yerde elinin altında<COLOR 0> bulundurmalısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_25_020",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0091",
+        "msgStr": "<lips 12 5>\n<COLOR 1>İyi niteliklere ve Savaş Yeteneklerine<COLOR 0> sahip iblisler füzyonlamaya çalışmanı öneririm.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0092",
+        "msgStr": "<lips 12 5>\nFüzyonlarında <COLOR 1>Element<COLOR 0> veya <COLOR 1>Mitama<COLOR 0> Düzeni iblisleri kullanmayı düşünebilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0093",
+        "msgStr": "<lips 12 5>\nAyrıca <COLOR 1>ayın evrelerine<COLOR 0> de dikkat et...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_36_021",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0096",
+        "msgStr": "<lips 12 5>\nİblisleri <COLOR 1>sırf görünüşlerine veya başka herhangi bir şeye göre füzyonlamaktan<COLOR 0> çekinme.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0097",
+        "msgStr": "<lips 12 5>\nHenüz gençken hatalarını erkenden yap ve iblis füzyonu pratiği yapmaya devam et!\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_36_021_01",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0218",
+        "msgStr": "<lips 12 5>\nSorduğuna sevindim! İblis füzyonu süreci oldukça modernleştirildi!\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_36_021_02",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0219",
+        "msgStr": "> Victor neyi açıklasın?"
+      },
+      {
+        "msgID": "GOH_SINAN_L0220",
+        "msgStr": "Aramalı Füzyon"
+      },
+      {
+        "msgID": "GOH_SINAN_L0221",
+        "msgStr": "Tersine Füzyon"
+      },
+      {
+        "msgID": "GOH_SINAN_L0222",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_36_021_03",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0223",
+        "msgStr": "<lips 12 5>\nBu yöntem, <COLOR 1>belirlenen ölçütlere göre bir füzyon seçmene<COLOR 0> olanak tanır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0224",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Mevcut füzyonlar, o sırada yanında taşıdığın iblislere dayanır.<COLOR 0>\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0225",
+        "msgStr": "<lips 12 5>\nAncak bu arama koşullarını değiştirirsen, İblis Rehberi'nde kayıtlı iblisleri de dahil edebilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0226",
+        "msgStr": "<lips 12 5>\nAramanda istediğin yetenekleri ve iblis Düzeni'ni bile belirtebilirsin. Oldukça verimli bir füzyon yöntemidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0227",
+        "msgStr": "<lips 12 5>\n<COLOR 0>Sormak istediğin başka bir şey var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_36_021_04",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0228",
+        "msgStr": "<lips 12 5>\nBu, <COLOR 1>elde etmek istediğin sonuca göre bir füzyon seçtiğin<COLOR 0> bir süreçtir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0229",
+        "msgStr": "<lips 12 5>\nBu yöntemle kullanılabilen füzyonlar, o sırada tüplerinde taşıdığın iblislere dayanır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0230",
+        "msgStr": "<lips 12 5>\nYapman gereken tek şey hangi iblisi füzyonlamak istediğini seçmek. Basit, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0231",
+        "msgStr": "<lips 12 5>\nEğer iblis füzyonuna henüz alışmadıysan, bu yöntem aşinalık kazanman için faydalı olabilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_04_36_021_05",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0232",
+        "msgStr": "<lips 12 5>\nYeterince şey bildiğini mi düşünüyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_01_022",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0098",
+        "msgStr": "<lips 12 5>\nMükemmel bir soru. Görünüşe göre iblis füzyonunun inceliklerini öğreniyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_01_022_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0099",
+        "msgStr": "> Victor, İblis Rehberi hakkında neyi açıklasın?"
+      },
+      {
+        "msgID": "GOH_SINAN_L0100",
+        "msgStr": "İblis Rehberi'nin kendisini"
+      },
+      {
+        "msgID": "GOH_SINAN_L0100_01",
+        "msgStr": "Özel İblis Rehberi'ni"
+      },
+      {
+        "msgID": "GOH_SINAN_L0101",
+        "msgStr": "İblis Rehberi yuvalarını"
+      },
+      {
+        "msgID": "GOH_SINAN_L0101_01",
+        "msgStr": "Favorileri ve kilitlemeyi"
+      },
+      {
+        "msgID": "GOH_SINAN_L0102",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_03_023",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0103",
+        "msgStr": "<lips 12 5>\nNormalde İblis Rehberi <COLOR 1>her iblis için yalnızca bir kayıt<COLOR 0> tutabilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0104",
+        "msgStr": "<lips 12 5>\nAncak İblis Çağırıcısı yeteneklerin geliştikçe, iblis başına bir yuva pek yetmeyecektir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0105",
+        "msgStr": "<lips 12 5>\nBunu göz önünde bulundurarak, sana <COLOR 1>daha fazla yuva satabilirim<COLOR 0>!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_07_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0107",
+        "msgStr": "<COLOR 3>> İblis Rehberi'ne alan eklenemez; ancak <COLOR 1>Victor'dan satın alınarak<COLOR 3> Özel İblis Rehberi'ne ek yuvalar eklenebilir."
+      },
+      {
+        "msgID": "GOH_SINAN_L0108",
+        "msgStr": "<COLOR 3>> <COLOR 1>\"Özel İblis Rehberi\"ni ve ardından \"Yuva Satın Al\"ı<COLOR 3> seçerek her satın alımda <COLOR 1>5 yuva<COLOR 3> kazanırsınız."
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_07_024_01",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0108_01",
+        "msgStr": "<lips 12 5>\n<COLOR 0>Ancak kapasiteyi sonsuza dek artıramam. Konnou-ya'nın fiziksel alanıyla sınırlıyım, anlarsın ya.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_07_024_02",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0109",
+        "msgStr": "<COLOR 3>> Satın alınabilecek azami ek yuva sayısı <COLOR 1>200<COLOR 3> adettir."
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_08_025",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0110",
+        "msgStr": "<lips 12 5>\n<COLOR 0>Sormak istediğin başka bir şey var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_09_026",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0111",
+        "msgStr": "<lips 12 5>\nİblis Rehberi, hükmettiğin iblislerin <COLOR 1>seviyesini<COLOR 0>, <COLOR 1>öğrendiği yetenekleri<COLOR 0> ve diğer niteliklerini kataloglar.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0112",
+        "msgStr": "<lips 12 5>\nBir iblisi kaybetmiş olsan bile, bu rehberi kullanarak <COLOR 1>onu çağırıp bir kez daha müttefikin yapabilirsin<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0115",
+        "msgStr": "<lips 12 5>\nBu hizmet için bir <COLOR 1>ücret<COLOR 0> talep edeceğim. Benim de kendi masraflarım var, takdir edersin ki.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_14_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0116",
+        "msgStr": "<COLOR 3>> İblisler füzyon veya tüpe alma sanatıyla ilk kez elde edildiklerinde <COLOR 1>otomatik olarak İblis Rehberi'ne kaydedilirler<COLOR 3>."
+      },
+      {
+        "msgID": "GOH_SINAN_L0117",
+        "msgStr": "<COLOR 3>> Zaten kayıtlı olan bir iblisi güncellemek için, <COLOR 1>Gouma-Den'e gidip İblis Rehberi'ne ve ardından Kaydet seçeneğine girerek<COLOR 3> kaydın üzerine elle yazılması gerekir."
+      },
+      {
+        "msgID": "GOH_SINAN_L0118",
+        "msgStr": "<COLOR 3>> Eğer bir iblis son kaydedildiğinden bu yana önemli ölçüde güçlendiyse, gerektiğinde kaydını güncellemeyi unutmayın.<COLOR 0>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0119_01",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_15_028",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_19_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_05_20_030",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0127",
+        "msgStr": "<lips 12 5>\nAnlıyorum... Eh, ne kadar soracağın sana kalmış.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_01_031",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0129",
+        "msgStr": "<lips 12 5>\nHeh heh heh... Sorduğuna sevindim.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0130",
+        "msgStr": "<lips 12 5>\nBunu duyduğunda hayranlıktan bayılmamaya çalış...\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_03_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0131",
+        "msgStr": "> Victor, Kılıç Simyası hakkında neyi açıklasın?"
+      },
+      {
+        "msgID": "GOH_SINAN_L0132",
+        "msgStr": "Kılıç Simyası'nın kendisini"
+      },
+      {
+        "msgID": "GOH_SINAN_L0133",
+        "msgStr": "Nasıl çalıştığını"
+      },
+      {
+        "msgID": "GOH_SINAN_L0134",
+        "msgStr": "Kılıç türlerini"
+      },
+      {
+        "msgID": "GOH_SINAN_L0134_01",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0135",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_04_033",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0136",
+        "msgStr": "<lips 12 5>\nİşte bu! Soracağını biliyordum! Zehir gibisin, Kuzunoha. Hahaha!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0137",
+        "msgStr": "<lips 12 5>\nKılıç Simyası, silah yaratmamı sağlayan, bizzat geliştirdiğim bir tekniktir!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0139",
+        "msgStr": "<lips 12 5>\nBu işlemle doğan kılıçlar gerçek birer yaşam formudur!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0140",
+        "msgStr": "<lips 12 5>\nTıpkı konaklarına fayda sağlayan bazı bakteriler gibi, onlar da kullanan kişiye faydalar sağlarlar.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0141",
+        "msgStr": "<lips 12 5>\nBu sadece güç artışıyla sınırlı değildir. Aynı zamanda kişinin kabiliyetlerini pasif olarak güçlendiren <COLOR 1>Kılıç Yetenekleri<COLOR 0> de sağlayabilirler.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_04_033_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0142",
+        "msgStr": "> Raidou, Kılıç Simyası yoluyla silahlar üreterek <COLOR 1>Çağırıcı Yetenekleri<COLOR 0> öğrenecektir."
+      },
+      {
+        "msgID": "GOH_SINAN_L0142_01",
+        "msgStr": "> Çağırıcı Yetenekleri, <COLOR 1>Savaş Yetenekleri<COLOR 0> ve <COLOR 1>Kılıç Yetenekleri<COLOR 0> olarak ikiye ayrılabilir."
+      },
+      {
+        "msgID": "GOH_SINAN_L0142_02",
+        "msgStr": "<COLOR 3>Çağırıcı Yetenekleri; hem savaşta dövüşmek için kullanılabilen Savaş Yeteneklerini hem de kuşanıldığında pasif etkiler sağlayan Kılıç Yeteneklerini kapsar.<COLOR 0>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0142_03",
+        "msgStr": "> Öğrenilen tüm yetenekler yetenek geçmişinde görünecek ve Raidou'nun ana menüden veya savaş sırasında yetenekler arasında geçiş yapmasına olanak tanıyacaktır."
+      },
+      {
+        "msgID": "GOH_SINAN_L0142_04",
+        "msgStr": "<COLOR 3>Çağırıcı Yeteneklerini değiştirmek için ana menüyü açın ve <BTN_X> ile Çağırıcı Yetenekleri'ni seçin. Savaş sırasında savaş menüsünü açın ve <BTN_OP2> ile Çağırıcı Yetenekleri'ni seçin.<COLOR 0>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_04_033_02",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0143",
+        "msgStr": "<lips 12 5>\nKullanan kişiyle uyum içindeki ortakyaşar bir yaşam formu—Kılıç Simyası'nın özü işte budur!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0145",
+        "msgStr": "<lips 12 5>\n<COLOR 0>Sormak istediğin başka bir şey var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_14_034",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0146",
+        "msgStr": "<lips 12 5>\nKılıç Simyası iki bileşen gerektirir: bir iblisin özünden elde edilen <COLOR 1>malzemeler<COLOR 0> ve taban olarak kullanılacak bir kılıç.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0148",
+        "msgStr": "<lips 12 5>\nAncak iblis füzyonlarının aksine, korkarım bu işlem için bir <COLOR 1>ücret<COLOR 0> talep etmek zorundayım.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0149",
+        "msgStr": "<lips 12 5>\nKonnou-ya'da kira ödemiyorum. Gelgelelim faturalar bir hayli kabarık...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0150",
+        "msgStr": "<lips 12 5>\nKonnou-ya'nın sahibi ödeme konusunda çok inatçı davranıyor...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0151",
+        "msgStr": "<lips 12 5>\nYabancı mallara erişebilmesini kime borçlu olduğunu unuttu mu yoksa!?\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0152",
+        "msgStr": "<lips 12 5>\nÖhöm...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_27_035",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0160",
+        "msgStr": "<lips 12 5>\nKılıç Simyası ile üç tür kılıç dövülebilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0162",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Standart kılıç türü, saldırı ve savunma bakımından dengelidir.<COLOR 0>\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0163",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Mızrak türü, ardı arkası kesilmeyen saldırılar yapmakta ustadır.<COLOR 0>\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0164",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Balta türü ise tek ve güçlü darbeler kullanır.<COLOR 0>\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0166",
+        "msgStr": "<lips 12 5>\nBu aynı zamanda <COLOR 1>dövüş tarzını da değiştirecektir<COLOR 0>, bu yüzden sana hitap eden bir şey seç.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_27_035_01",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_27_035_02",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0236",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0237",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_06_37_036",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0170",
+        "msgStr": "<lips 12 5>\nÖyle mi? Çekinmene hiç gerek yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_07_01_037",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0171",
+        "msgStr": "<lips 12 5>\nBelki sen de fark etmişsindir, Kuzunoha; birkaç <COLOR 1>özgün füzyon türü<COLOR 0> vardır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0172",
+        "msgStr": "<lips 12 5>\nMesela <COLOR 1>Element füzyonları<COLOR 0> ve <COLOR 1>Mitama füzyonları<COLOR 0> gibi.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0173",
+        "msgStr": "<lips 12 5>\nEğer ilgini çekerse ayrıntılarını seninle paylaşmaktan memnuniyet duyarım.\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_07_04_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0174",
+        "msgStr": "> Victor özgün füzyonlar hakkında neyi açıklasın?"
+      },
+      {
+        "msgID": "GOH_SINAN_L0175",
+        "msgStr": "Element füzyonunu"
+      },
+      {
+        "msgID": "GOH_SINAN_L0176",
+        "msgStr": "Mitama füzyonunu"
+      },
+      {
+        "msgID": "GOH_SINAN_L0177",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_07_05_039",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0178",
+        "msgStr": "<lips 12 5>\nElement füzyonu, <COLOR 1>Element Düzeni iblisler yaratmak<COLOR 0> için kullanılır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0179",
+        "msgStr": "<lips 12 5>\nBu işlem, <COLOR 1>aynı Düzen'den iki iblisin füzyonlanmasını<COLOR 0> içerir.<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0180",
+        "msgStr": "<lips 12 5>\nElement Düzeni iblisler diğer füzyonlarda oldukça değerlidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0181",
+        "msgStr": "<lips 12 5>\nBir Element Düzeni iblisi kullanarak <COLOR 1>tam olarak istediğin Düzen'de bir iblis<COLOR 0> yaratabilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0182",
+        "msgStr": "<lips 12 5>\nBelki de biraz daha açıklamak gerekir...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0183",
+        "msgStr": "<lips 12 5>\nDiyelim ki <COLOR 1>bir Element Düzeni iblisi<COLOR 0> ile <COLOR 1>farklı bir Düzen'den iblisi<COLOR 0> füzyonladın.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0184",
+        "msgStr": "<lips 12 5>\nOrtaya çıkan iblis, <COLOR 1>Element Düzeni olmayan iblisle aynı Düzen'den olacaktır<COLOR 0>...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0188",
+        "msgStr": "<lips 12 5>\nVe <COLOR 1>orijinal Element dışı iblisten daha yüksek seviyeli olacaktır<COLOR 0>!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0191",
+        "msgStr": "<lips 12 5>\nAncak bazı Düzenler, belirli Element Düzeni iblislerle birleştirildiğinde <COLOR 1>daha düşük seviyeli bir iblisle sonuçlanır<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0192",
+        "msgStr": "<lips 12 5>\nGerçi bir bakıma... <COLOR 1>bu sana hangi iblisi elde edeceğin konusunda daha geniş bir kontrol sağlar<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0193",
+        "msgStr": "<lips 12 5>\n<COLOR 0>Sormak istediğin başka bir şey var mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_07_22_040",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0194",
+        "msgStr": "<lips 12 5>\nMitama füzyonu, Element füzyonları içindeki özel bir durumdur.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0195",
+        "msgStr": "<lips 12 5>\n<COLOR 1>İki Element Düzeni iblisi birbiriyle<COLOR 0> füzyonlamak, bir Mitama Düzeni iblisi ortaya çıkarır.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0196",
+        "msgStr": "<lips 12 5>Bir Mitama Düzeni iblisini başka bir iblisle füzyonlamak, <COLOR 1>Mitama olmayan o aynı iblisle sonuçlanır<COLOR 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0197",
+        "msgStr": "<lips 12 5>\nAncak o iblis <COLOR 1>nitelik güçlendirmeleriyle<COLOR 0> geri dönecektir!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0198",
+        "msgStr": "<lips 12 5>\nBaşka bir ifadeyle...\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0203",
+        "msgStr": "<lips 12 5>\n<COLOR 1>Bir iblis, bir Mitama Düzeni iblisiyle füzyonlandığında daha güçlü hale getirilebilir<COLOR 0>!\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0204",
+        "msgStr": "<lips 12 5>\nAyrıca güçlendirilen niteliğin, <COLOR 1>füzyonda kullanılan Mitama iblisine<COLOR 0> bağlı olduğunu da unutma.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_07_34_041",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0206",
+        "msgStr": "<lips 12 5>\nAh, o halde şimdiden epey bilgili olmalısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0207",
+        "msgStr": "<lips 12 5>\nElement ve Mitama füzyonları iblislerini güçlendirmek için mükemmel yöntemlerdir. Onlardan iyi faydalan.\n<lips_stop>"
+      },
+      {
+        "msgID": "GOH_SINAN_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_08_01_042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_08_08_043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_SINAN_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_09_01_044",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0239",
+        "msgStr": "<lips 12 5>\nOho... Hahaha!\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_09_02_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0240",
+        "msgStr": "<COLOR 3>> Özel İblis Rehberi, <COLOR 1>aynı iblisin birden fazla kaydının tutulmasına olanak tanır<COLOR 3>. Ek yuvalar <COLOR 1>Victor'dan satın alınabilir<COLOR 3>."
+      },
+      {
+        "msgID": "GOH_SINAN_L0241",
+        "msgStr": "<COLOR 3>> Bu sayede, örneğin Pixie'nin birden fazla farklı versiyonunu aynı anda farklı yuvalarda kayıtlı tutmak mümkündür."
+      },
+      {
+        "msgID": "GOH_SINAN_L0242",
+        "msgStr": "<COLOR 3>> Ancak birebir aynı iblis birden fazla yuvaya kaydedilemez. Yani örneğin Pixie'nin tek bir versiyonu hem birinci hem de ikinci yuvaya kaydedilemez."
+      },
+      {
+        "msgID": "GOH_SINAN_L0243",
+        "msgStr": "<COLOR 3>> Kayıtlı bir iblisi tüpe alma sanatı ve iblis füzyonu yoluyla yine müttefikiniz yapabilirsiniz. İdeal iblis ordunuzu yetiştirmek için Özel İblis Rehberi'nden iyi faydalanın."
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_10_01_046",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_SINAN_L0244",
+        "msgStr": "<lips 12 5>\nÖhöm...\n<lips_stop>"
+      },
+      {
+        "msgID": "goh_sinan_goh_sinan_10_02_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_SINAN_L0245",
+        "msgStr": "<COLOR 3>> İblis kayıtları hem İblis Rehberi'nde hem de Özel İblis Rehberi'nde <COLOR 1>favorilere eklenebilir<COLOR 3> ve <COLOR 1>kilitlenebilir<COLOR 3>."
+      },
+      {
+        "msgID": "GOH_SINAN_L0246",
+        "msgStr": "<COLOR 3>> Favorilere eklenen kayıtlar, favorilere göre sıralama yapıldığında <COLOR 1>rehberin en üstünde görünür<COLOR 3>. Bir rehberi görüntülerken bir kaydı favori olarak kaydetmek için <BTN_Y> düğmesine, favorilerden çıkarmak için tekrar <BTN_Y> düğmesine basın."
+      },
+      {
+        "msgID": "GOH_SINAN_L0247",
+        "msgStr": "<COLOR 3>> Kayıtları kilitlemek, <COLOR 1>yanlışlıkla üzerlerine yazılmasını önler<COLOR 3>. Bir rehberi görüntülerken bir kaydı kilitlemek için <BTN_X> düğmesine, kilidi açmak için tekrar <BTN_X> düğmesine basın."
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/04 17:00:19"
+}

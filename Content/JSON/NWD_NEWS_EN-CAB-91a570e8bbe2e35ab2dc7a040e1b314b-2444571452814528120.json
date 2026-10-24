@@ -1,0 +1,225 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "NWD_NEWS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "nwd_news_NWD_NEWS_MSG_SCENE00_000",
+        "msgStr": "Gazete Yazısı"
+      },
+      {
+        "msgID": "NWD_NEWS_L0000",
+        "msgStr": "KIRMIZI PELERİN BAŞKENTTE ORTAYA ÇIKTI\nKırmızı Pelerin geçenlerde Yarai-ku'daki Tsukudo-cho'da görüldü."
+      },
+      {
+        "msgID": "NWD_NEWS_L0001",
+        "msgStr": "Gizemli figürün insanlara arkadan saldırdığı ve geride kanlı bir cesetten başka bir şey bırakmadığı bildiriliyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0002",
+        "msgStr": "Başlangıçta bir aldatmaca olduğu düşünülse de, korkusuz muhabirlerimiz bu aşağılık canavarın gerçekten var olduğunu doğruladı."
+      },
+      {
+        "msgID": "NWD_NEWS_L0003",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0004",
+        "msgStr": "KIRMIZI PELERİN ÇILGINLIĞI SÜRÜYOR\nBaşkentin dört bir yanından Kırmızı Pelerin'in görüldüğüne dair ihbarlar geliyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0005",
+        "msgStr": "Bu yazarın teorisine göre, birbiriyle alakasız olaylar Kırmızı Pelerin'in üzerine yıkılıyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0006",
+        "msgStr": "Ancak polis konuyla ilgili ağzını sıkı tutmaya devam ediyor, bu yüzden gerçekler gizemini koruyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0007",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0008",
+        "msgStr": "KIRMIZI PELERİN BAŞKENTTE ORTAYA ÇIKTI\nKırmızı Pelerin geçenlerde Yarai-ku'daki Tsukudo-cho'da görüldü."
+      },
+      {
+        "msgID": "NWD_NEWS_L0009",
+        "msgStr": "Gizemli figürün insanlara arkadan saldırdığı ve geride kanlı bir cesetten başka bir şey bırakmadığı bildiriliyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0010",
+        "msgStr": "Başlangıçta bir aldatmaca olduğu düşünülse de, korkusuz muhabirlerimiz bu aşağılık canavarın gerçekten var olduğunu doğruladı."
+      },
+      {
+        "msgID": "NWD_NEWS_L0011",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0012",
+        "msgStr": "KIRMIZI PELERİN ÇILGINLIĞI SÜRÜYOR\nBaşkentin dört bir yanından Kırmızı Pelerin'in görüldüğüne dair ihbarlar geliyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0013",
+        "msgStr": "Bu yazarın teorisine göre, birbiriyle alakasız olaylar Kırmızı Pelerin'in üzerine yıkılıyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0014",
+        "msgStr": "Ancak polis konuyla ilgili ağzını sıkı tutmaya devam ediyor, bu yüzden gerçekler gizemini koruyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0015",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0016",
+        "msgStr": "SOSYETEDE TRAJEDİ\nBaşkentin en zengin ailelerinden biri talihsizliklerle boğuşuyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0017",
+        "msgStr": "Ailenin reisi hastalandı, erkek kardeşi kendi rahatsızlığıyla pençeleşiyor ve kızı kaçırıldı. Aile mirasının akıbeti bu nedenle belirsizleşti."
+      },
+      {
+        "msgID": "NWD_NEWS_L0018",
+        "msgStr": "Polis kayıp kızı için arama çalışması başlattı ancak henüz bir ilerleme kaydedilmedi."
+      },
+      {
+        "msgID": "NWD_NEWS_L0019",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0020",
+        "msgStr": "YABANCI TÜCCAR SKANDALI\nTanınmış yabancı tüccar Bay Elfman'ın bir süredir ölü olduğu yakın zamanda ortaya çıktı."
+      },
+      {
+        "msgID": "NWD_NEWS_L0021",
+        "msgStr": "Buna rağmen şirketi, görünüşe göre Elfman'ın emirleri doğrultusunda denizaşırı ülkelerden mal ithal etmeye devam ediyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0022",
+        "msgStr": "Muhabiriniz bir sahtekârdan şüpheleniyor, ancak kim olduğu ve neden yaptığı hâlâ bilinmiyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0023",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0024",
+        "msgStr": "ŞÜPHELİ ORDU PROJESİ İFŞA OLDU\nBaşkent Günlüğü, Kara Kuvvetleri hakkında şok edici bir gerçeği gün yüzüne çıkardı."
+      },
+      {
+        "msgID": "NWD_NEWS_L0025",
+        "msgStr": "Bir süredir, kontrolden çıkmış bir askerî birlik korkunç bir planı yürürlüğe koyuyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0026",
+        "msgStr": "Bu ülkenin vatandaşları olarak, Kara Kuvvetleri'ni bu projenin gerçek doğasını halka açıklamaya çağırıyoruz."
+      },
+      {
+        "msgID": "NWD_NEWS_L0027",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0028",
+        "msgStr": "LANET BAŞKENTİ VURDU\nModern bir vatandaş böyle bir manşete inanabilir mi? Okumaya devam edin..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0029",
+        "msgStr": "Ginza'daki bir inşaat alanında işçiler, orada bulunan bir heykeli taşımaya çalışırken aniden bilincini kaybetti."
+      },
+      {
+        "msgID": "NWD_NEWS_L0030",
+        "msgStr": "Kesin neden henüz belirlenemedi, ancak işçiler olayı bir lanete bağlıyor gibi görünüyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0031",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0032",
+        "msgStr": "DENİZ KUVVETLERİ'NDE PANİK\nHarumi-cho'daki Deniz Kuvvetleri Karargâhı kargaşaya sürüklendi."
+      },
+      {
+        "msgID": "NWD_NEWS_L0033",
+        "msgStr": "Kaynaklarımız, Deniz Kuvvetleri'nin tüm casusluk operasyonlarını askıya aldığını belirtiyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0034",
+        "msgStr": "Görünüşe göre daha büyük bir güç tarafından buna zorlandılar. Durum araştırılıyor, ancak şu an itibarıyla gerçekler gizemini koruyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0035",
+        "msgStr": "Deniz Kuvvetleri ile Kara Kuvvetleri arasındaki süregelen gerilim bu işte rol oynuyor olabilir. Muhabiriniz daha fazla ayrıntının peşinde koşmaya devam edecek."
+      },
+      {
+        "msgID": "NWD_NEWS_L0036",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0037",
+        "msgStr": "> Görünüşe göre bugün bu dünyada hiçbir gazete yayımlanmamış."
+      },
+      {
+        "msgID": "NWD_NEWS_L0038",
+        "msgStr": "SIKIYÖNETİM ÖFKESİ\nDaha önce bildirilen gizemli Kara Kuvvetleri projesi tüm hızıyla başladı."
+      },
+      {
+        "msgID": "NWD_NEWS_L0039",
+        "msgStr": "Kırmızılı Özel Muhafızların vatandaşları tehdit ettiğine dair raporlar Başkentin dört bir yanından akıyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0040",
+        "msgStr": "Bu kırmızı muhafızlar ile Deniz Kuvvetleri arasında birkaç ölümle sonuçlandığı söylenen çatışma henüz doğrulanmadı."
+      },
+      {
+        "msgID": "NWD_NEWS_L0041",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "NWD_NEWS_L0042",
+        "msgStr": "BAŞKENTTE KIYAMET GÜNÜ\nBaşkentin güneyindeki pek çok bölge moloz yığınına döndü."
+      },
+      {
+        "msgID": "NWD_NEWS_L0043",
+        "msgStr": "Yapısal hasar akıl almaz boyutlarda ve pek çok vatandaşın hayatına mal oldu."
+      },
+      {
+        "msgID": "NWD_NEWS_L0044",
+        "msgStr": "Çılgın teoriler havada uçuşuyor; bunların en popüleri ise dev bir canavarın görüldüğüne dair raporları içeriyor."
+      },
+      {
+        "msgID": "NWD_NEWS_L0045",
+        "msgStr": "Sebebi ne olursa olsun, Başkent hızla bir ölüm tuzağına dönüşüyor ve tüm vatandaşları tahliye olmaya çağırıyoruz."
+      },
+      {
+        "msgID": "NWD_NEWS_L0046",
+        "msgStr": "> Yazı devam ediyor..."
+      },
+      {
+        "msgID": "nwd_news_NWD_NEWS_MSG_SCENE12_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_NEWS_L0047",
+        "msgStr": "> Görünüşe göre tüm bu kargaşada gazete matbaaları baskıyı durdurmuş."
+      },
+      {
+        "msgID": "NWD_NEWS_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_news_NWD_NEWS_MSG_SCENE_ALL",
+        "msgStr": "NULL"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:08:50"
+}

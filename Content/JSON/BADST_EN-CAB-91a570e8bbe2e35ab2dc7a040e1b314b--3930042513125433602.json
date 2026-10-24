@@ -1,0 +1,93 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "BADST_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "BADST_L0000",
+        "msgStr": "Yanma"
+      },
+      {
+        "msgID": "BADST_L0001",
+        "msgStr": "Donma"
+      },
+      {
+        "msgID": "BADST_L0002",
+        "msgStr": "Şok"
+      },
+      {
+        "msgID": "BADST_L0003",
+        "msgStr": "Engelleme"
+      },
+      {
+        "msgID": "BADST_L0004",
+        "msgStr": "Sersemleme"
+      },
+      {
+        "msgID": "BADST_L0005",
+        "msgStr": "Bağlanma"
+      },
+      {
+        "msgID": "BADST_L0006",
+        "msgStr": "Zehir"
+      },
+      {
+        "msgID": "BADST_L0007",
+        "msgStr": "Uyku"
+      },
+      {
+        "msgID": "BADST_L0008",
+        "msgStr": "Taşlaşma"
+      },
+      {
+        "msgID": "BADST_L0009",
+        "msgStr": "Kafa Karışıklığı"
+      },
+      {
+        "msgID": "BADST_L0010",
+        "msgStr": "Büyülenme"
+      },
+      {
+        "msgID": "BADST_L0011",
+        "msgStr": "Susturma"
+      },
+      {
+        "msgID": "BADST_L0012",
+        "msgStr": "Öfke"
+      },
+      {
+        "msgID": "BADST_L0013",
+        "msgStr": "Lanet"
+      },
+      {
+        "msgID": "BADST_L0014",
+        "msgStr": "Mühür"
+      },
+      {
+        "msgID": "BADST_L0015",
+        "msgStr": "Ölüm"
+      },
+      {
+        "msgID": "BADST_L0016",
+        "msgStr": "Rastgele"
+      },
+      {
+        "msgID": "BADST_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "BADST_L0018",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:50:06"
+}

@@ -1,0 +1,29 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_BST_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_BST_L0000",
+        "msgStr": "Ölü"
+      },
+      {
+        "msgID": "GOH_BST_L0001",
+        "msgStr": "Susturma"
+      },
+      {
+        "msgID": "GOH_BST_L0002",
+        "msgStr": "Zehir"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:11"
+}

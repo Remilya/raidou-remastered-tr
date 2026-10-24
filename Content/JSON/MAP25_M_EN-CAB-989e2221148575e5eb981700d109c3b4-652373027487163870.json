@@ -1,0 +1,1561 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP25_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map25_m_M_MES_DUMMY_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MES_DUMMY02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MES_DUMMY03_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MES_SEL SEL 0_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0005",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP25_M_L0006",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map25_m_M_EP08_KUGUTU_004",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "MAP25_M_L0007",
+        "msgStr": "Davetsiz misafir tespit edildi. İmha işlemi başlatılıyor."
+      },
+      {
+        "msgID": "map25_m_M_EP08_GAIKAN01_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0008",
+        "msgStr": "Bak Raidou. Ne uğursuz bir manzara..."
+      },
+      {
+        "msgID": "MAP25_M_L0009",
+        "msgStr": "Hiruko'lar Kırmızı Pelerin konaklarını terk edip şu radyo kulesinde toplanmış."
+      },
+      {
+        "msgID": "MAP25_M_L0010",
+        "msgStr": "Kaç tane Kırmızı Pelerin vardı ki acaba...?"
+      },
+      {
+        "msgID": "map25_m_M_EP08_GAIKAN02_006",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_EP08_GAIKAN03_007",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0012",
+        "msgStr": "Karanlık Diyar'da masum seyircilere yer yoktur."
+      },
+      {
+        "msgID": "MAP25_M_L0013",
+        "msgStr": "Eh, manzara pek hoş olmasa da Waden Bir'i araştıralım."
+      },
+      {
+        "msgID": "MAP25_M_L0014",
+        "msgStr": "Rasputin'in projede Hiruko'ların rolüyle ilgili ne kastettiğini merak ediyorum."
+      },
+      {
+        "msgID": "map25_m_M_EP08_GAIKAN04_008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KARASU01_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0016",
+        "msgStr": "> Asil bir ses çınladı."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KARASU02_010",
+        "msgStr": "Yatagarasu Elçisinin Sesi"
+      },
+      {
+        "msgID": "MAP25_M_L0017",
+        "msgStr": "Başka bir dünyadan gelen Raidou..."
+      },
+      {
+        "msgID": "MAP25_M_L0018",
+        "msgStr": "Burada bir bilgelik sınavından geçmelisin."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KARASU02_02_011",
+        "msgStr": "Yatagarasu Elçisinin Sesi"
+      },
+      {
+        "msgID": "MAP25_M_L0019",
+        "msgStr": "Toprak Prizması'nın muhafızını uyandırmak için kutsal taşların bağladığı gücü serbest bırak."
+      },
+      {
+        "msgID": "MAP25_M_L0020",
+        "msgStr": "Tüm <COLOR 1>kutsal taşları<COLOR 0> aynı anda tınlatmalısın."
+      },
+      {
+        "msgID": "MAP25_M_L0021",
+        "msgStr": "Ancak bir taşın tınlaması diğerlerini de etkileyecek ve işi zorlaştıracaktır."
+      },
+      {
+        "msgID": "MAP25_M_L0022",
+        "msgStr": "Sınavı tamamlamak ve muhafızı çağırmak için bu kılıcı kullan."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KARASU03_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0023",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Kashima Kılıcı<COLOR 0>'nı elde etti."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KARASU04_013",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0024",
+        "msgStr": "Kısacası <COLOR 3>tüm kutsal taşları etkinleştirmemiz<COLOR 0> gerekecek."
+      },
+      {
+        "msgID": "MAP25_M_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_APPEAR_014",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0026",
+        "msgStr": "Pekâlâ, Raidou."
+      },
+      {
+        "msgID": "MAP25_M_L0027",
+        "msgStr": "Hadi <COLOR 3>şu kutsal taşları tınlatalım<COLOR 0> ve Toprak Prizması'nı alalım."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME01_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME02_016",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0030",
+        "msgStr": "Hmm..."
+      },
+      {
+        "msgID": "MAP25_M_L0031",
+        "msgStr": "O ışığın ötesine geçersek taşların tınlaması duracaktır."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME03_017",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0032",
+        "msgStr": "Bu durumda burada bir iblis kullanmayı denemeye ne dersin?"
+      },
+      {
+        "msgID": "MAP25_M_L0033",
+        "msgStr": "Diğer taşları etkinleştirmek için iblisini tek başına gönder."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME04_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0034",
+        "msgStr": "> Raidou kılıcı iblise doğru kaldırdı."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME05_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0035",
+        "msgStr": "> Buna karşılık olarak başka bir taş tınlamaya başladı."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME06_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0036",
+        "msgStr": "> Kutsal taşların tınlaması durdu."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME07_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0037",
+        "msgStr": "> Buna karşılık olarak başka bir taşın tınlaması durdu."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME08_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0038",
+        "msgStr": "> Kutsal taş tınlamaya başladı."
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_NOREACT_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0039",
+        "msgStr": "> Hiçbir şey olmadı."
+      },
+      {
+        "msgID": "map25_m_M_EP09MES_KANAME_dv_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0040",
+        "msgStr": "> Görünüşe göre Raidou kılıçla uzaklaştığında taşların tınlaması duruyor."
+      },
+      {
+        "msgID": "map25_m_m_Into01_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0041",
+        "msgStr": "> Waden Bir'e girilsin mi?"
+      },
+      {
+        "msgID": "map25_m_m_Into01s SEL_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0042",
+        "msgStr": "Gir"
+      },
+      {
+        "msgID": "MAP25_M_L0043",
+        "msgStr": "Girme"
+      },
+      {
+        "msgID": "map25_m_m_Into02_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0044",
+        "msgStr": "> Burada kayda değer bir şey yok."
+      },
+      {
+        "msgID": "map25_m_m_Into03_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0045",
+        "msgStr": "> Kulenin içinde yapılacak bir şey yok."
+      },
+      {
+        "msgID": "map25_m_m_Exit01_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_m_Exit01s SEL_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_m_Devil_A01_031",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "MAP25_M_L0049",
+        "msgStr": "RaAaaADyoOOoo! BeEeEEniİiİim leEeEEzzeTLiiiİii RAdYo DaaAAlGalaAaaArIııIımMM!"
+      },
+      {
+        "msgID": "MAP25_M_L0050",
+        "msgStr": "HiRUko'LaR yÜzÜnDeN tA-TA-tAtLarI... iĞrEeEenÇçÇç oLmUş!"
+      },
+      {
+        "msgID": "MAP25_M_L0051",
+        "msgStr": "SeEeEeen! Biİiİiİir şEyLeeEeeEer yAaAap!"
+      },
+      {
+        "msgID": "map25_m_m_Devil_A02_032",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "MAP25_M_L0052",
+        "msgStr": "LeZZeTLiiİiİiii! YeMEeeEeeEekKK!"
+      },
+      {
+        "msgID": "MAP25_M_L0053",
+        "msgStr": "SeÇkİiİin pLaTİn kOnT tArAfInDaN oNaYLaAaaAnDıIıIı!"
+      },
+      {
+        "msgID": "MAP25_M_L0054",
+        "msgStr": "RaDyO dAlGaLaRı neFiiiİiisSs! BaŞıIım eRİyOor! AğZıMdAaAn ıŞıNlaAar fIşKıRıYoOoOr!"
+      },
+      {
+        "msgID": "map25_m_m_Devil_A03_01_033",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "MAP25_M_L0055",
+        "msgStr": "HaDİiİii uZaKLaAaaAarA gİdELiİiİimMM!"
+      },
+      {
+        "msgID": "MAP25_M_L0056",
+        "msgStr": "RAdYO daAAlGalaAaaArıIıı! LezZEtLi rADyO DaaAAAaaAlgaAlaArIııIIIııI!!"
+      },
+      {
+        "msgID": "map25_m_m_Devil_A03_02_034",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "MAP25_M_L0057",
+        "msgStr": "BeEeEeniİiİim vİrAjIıIım nErEeEedEeE!?"
+      },
+      {
+        "msgID": "MAP25_M_L0058",
+        "msgStr": "BeEeEenİ dUrDUrAmAzSıIıın. DrİfT tEkNİğİmİ iZLeEeE!"
+      },
+      {
+        "msgID": "map25_m_m_Devil_A03_03_035",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0059",
+        "msgStr": "> İblis ayrıldı."
+      },
+      {
+        "msgID": "map25_m_m_Devil_B01_036",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "MAP25_M_L0060",
+        "msgStr": "Şu radyo kulesinin hali ne öyle?"
+      },
+      {
+        "msgID": "MAP25_M_L0061",
+        "msgStr": "Bayağı tehlikeli görünüyor, di mi? Hiç yönetmeliğe uygun olduğunu sanmıyorum."
+      },
+      {
+        "msgID": "map25_m_m_Devil_B02_037",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "MAP25_M_L0062",
+        "msgStr": "Şu radyo kulesi tam bir güzellik abidesi değil mi?"
+      },
+      {
+        "msgID": "MAP25_M_L0063",
+        "msgStr": "En iyi yöntem hep en basit olandır dostum. Böyle bir şeyi süsleyip püslemeye hiç gerek yok."
+      },
+      {
+        "msgID": "map25_m_m_Devil_B03_038",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "MAP25_M_L0064",
+        "msgStr": "Ne? Radyo kulesinin görünüşü mü?"
+      },
+      {
+        "msgID": "MAP25_M_L0065",
+        "msgStr": "Kafayı mı üşüttün sen? Ben onda en ufak bir tuhaflık bile görmüyorum."
+      },
+      {
+        "msgID": "map25_m_m_Devil_C01_039",
+        "msgStr": "Kurama Tengu"
+      },
+      {
+        "msgID": "MAP25_M_L0066",
+        "msgStr": "Bir sürü tuhaf yaratık ileri geri kıvranıp duruyor. Başlarında bir insan var gibi görünüyor."
+      },
+      {
+        "msgID": "MAP25_M_L0067",
+        "msgStr": "Eh, bildiklerini okuyacaklardır. Bir insanın sınırlarını kestirmek zor değildir."
+      },
+      {
+        "msgID": "map25_m_m_Devil_C02_040",
+        "msgStr": "Kurama Tengu"
+      },
+      {
+        "msgID": "MAP25_M_L0068",
+        "msgStr": "Radyo kulesinin şeklini bozan insan şu tarafta ortalığı birbirine katıyor."
+      },
+      {
+        "msgID": "MAP25_M_L0069",
+        "msgStr": "Eh, yumurta kapıya dayanınca elden ne gelir."
+      },
+      {
+        "msgID": "MAP25_M_L0070",
+        "msgStr": "Böylesi patlayıcılar ve yanıcı maddeler gerektirenler de dahil olmak üzere, insan çabalarının ölçeği..."
+      },
+      {
+        "msgID": "MAP25_M_L0071",
+        "msgStr": "Bizim hayatlarımızın fırtınasında tek bir yağmur damlasından ibarettir."
+      },
+      {
+        "msgID": "map25_m_m_Devil_C03_01_041",
+        "msgStr": "Kurama Tengu"
+      },
+      {
+        "msgID": "MAP25_M_L0072",
+        "msgStr": "İnsan dünyası son zamanlarda hızlı bir değişimden geçti."
+      },
+      {
+        "msgID": "MAP25_M_L0073",
+        "msgStr": "Yeni toplum, güçsüzlerin hayatta kalacak kadar hızlı uyum sağlayamadığı bir yer."
+      },
+      {
+        "msgID": "MAP25_M_L0074",
+        "msgStr": "Bu esnada insanların açgözlülüğü durmaksızın büyümeye devam ediyor ve birbirleriyle olan çatışmalarını körüklüyor."
+      },
+      {
+        "msgID": "MAP25_M_L0075",
+        "msgStr": "Toplum ilerleyebilir; ancak insanlık da ona ayak uydurmazsa, bulunduğu o sefil konumun üzerine asla çıkamayacaktır."
+      },
+      {
+        "msgID": "map25_m_m_Devil_D01_042",
+        "msgStr": "Jubokko"
+      },
+      {
+        "msgID": "MAP25_M_L0076",
+        "msgStr": "Hissediyor musun ufaklık? Şuradaki yaratıklar negatif dalgalar yayıyor."
+      },
+      {
+        "msgID": "MAP25_M_L0077",
+        "msgStr": "Hüzün... Melankoli... Umutsuzluk..."
+      },
+      {
+        "msgID": "MAP25_M_L0078",
+        "msgStr": "O kuleden her türlü negatif enerji oluk oluk akıyor ve ardı arkası kesilmiyor."
+      },
+      {
+        "msgID": "map25_m_m_Devil_D02_043",
+        "msgStr": "Jubokko"
+      },
+      {
+        "msgID": "MAP25_M_L0079",
+        "msgStr": "O kahrolası yaratıklar gitti ama öylece buharlaşıp uçmuş olamazlar. Asla efendim."
+      },
+      {
+        "msgID": "MAP25_M_L0080",
+        "msgStr": "Nereye gitmiş olabileceklerini veya hâlâ neler karıştırabileceklerini düşünmek bile tüylerimi diken diken ediyor."
+      },
+      {
+        "msgID": "MAP25_M_L0081",
+        "msgStr": "İnsanların karması hiç de bakılacak gibi bir şey değildir."
+      },
+      {
+        "msgID": "map25_m_m_Devil_D03_044",
+        "msgStr": "Jubokko"
+      },
+      {
+        "msgID": "MAP25_M_L0082",
+        "msgStr": "Hissediyor musun ufaklık? Negatif dalgalar birikmeye başlıyor."
+      },
+      {
+        "msgID": "MAP25_M_L0083",
+        "msgStr": "Umarım dışarıda hiçbir kimse veya hiçbir şey o enerjiyi kullanmayı planlamıyordur."
+      },
+      {
+        "msgID": "MAP25_M_L0084",
+        "msgStr": "İnsanların karması hiç de bakılacak gibi bir şey değildir."
+      },
+      {
+        "msgID": "map25_m_m_Zizou01_01_045",
+        "msgStr": "Jizo"
+      },
+      {
+        "msgID": "MAP25_M_L0085",
+        "msgStr": "Ah, ağrıyan omuzlarım! Hepsi şu radyo kulesinin suçu."
+      },
+      {
+        "msgID": "MAP25_M_L0086",
+        "msgStr": "O lanet Hiruko'lar radyo dalgalarını zehirliyor."
+      },
+      {
+        "msgID": "MAP25_M_L0087",
+        "msgStr": "Omuzlarım zaten tutulmuştu, bu da tuz biber ekti! Kaya gibi sertleştiler!"
+      },
+      {
+        "msgID": "map25_m_m_Zizou01_02_046",
+        "msgStr": "Jizo"
+      },
+      {
+        "msgID": "MAP25_M_L0088",
+        "msgStr": "Hey, sen! Bana bir iyilik yapar mısın?"
+      },
+      {
+        "msgID": "MAP25_M_L0089",
+        "msgStr": "Şu Hiruko'ların hepsini başımdan defet! Buralarda o kadar çoklar ki neredeyse kıpırdayamıyorum!"
+      },
+      {
+        "msgID": "MAP25_M_L0090",
+        "msgStr": "Al gülüm ver gülüm, değil mi?"
+      },
+      {
+        "msgID": "MAP25_M_L0091",
+        "msgStr": "Harika! Anlayacağını biliyordum."
+      },
+      {
+        "msgID": "MAP25_M_L0092",
+        "msgStr": "Sana güveniyorum!"
+      },
+      {
+        "msgID": "map25_m_m_Zizou01_03_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0093",
+        "msgStr": "> Jizo sanki konuşmuş gibiydi..."
+      },
+      {
+        "msgID": "map25_m_m_Zizou02_01_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0094",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP25_M_L0095",
+        "msgStr": "> Sessizce duran bir Jizo heykeli."
+      },
+      {
+        "msgID": "map25_m_m_Zizou02_02_049",
+        "msgStr": "Jizo"
+      },
+      {
+        "msgID": "MAP25_M_L0096",
+        "msgStr": "Of, omuzlarım ağrıyor."
+      },
+      {
+        "msgID": "map25_m_m_Zizou03_01_050",
+        "msgStr": "Jizo"
+      },
+      {
+        "msgID": "MAP25_M_L0097",
+        "msgStr": "Hey, sensin! İyi iş çıkardın!"
+      },
+      {
+        "msgID": "MAP25_M_L0098",
+        "msgStr": "Şu omuzlara bir bak! Yumuşacık oldular, değil mi? Ha?"
+      },
+      {
+        "msgID": "MAP25_M_L0099",
+        "msgStr": "Minnetimin bir göstergesi olarak bunu kabul et."
+      },
+      {
+        "msgID": "map25_m_m_Zizou03_02_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0100",
+        "msgStr": "> Raidou, <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map25_m_m_Zizou03_03_052",
+        "msgStr": "Jizo"
+      },
+      {
+        "msgID": "MAP25_M_L0101",
+        "msgStr": "Üzerine pozitif radyo dalgaları yağsın ve harika bir ömrün olsun dostum."
+      },
+      {
+        "msgID": "map25_m_m_Zizou03_04_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0102",
+        "msgStr": "> Jizo sanki konuşmuş gibiydi..."
+      },
+      {
+        "msgID": "map25_m_m_Zizou04_054",
+        "msgStr": "Jizo"
+      },
+      {
+        "msgID": "MAP25_M_L0103",
+        "msgStr": "Oh be, işte bunlar kaliteli radyo dalgaları."
+      },
+      {
+        "msgID": "map25_m_m_TERA01_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0104",
+        "msgStr": "> Eski bir tapınak..."
+      },
+      {
+        "msgID": "MAP25_M_L0105",
+        "msgStr": "> Adak bırakılsın mı?"
+      },
+      {
+        "msgID": "map25_m_m_TERA01_02_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0106",
+        "msgStr": "> Ne kadar?"
+      },
+      {
+        "msgID": "map25_m_m_TERA_SEL SEL 0_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0107",
+        "msgStr": "1 yen"
+      },
+      {
+        "msgID": "MAP25_M_L0108",
+        "msgStr": "5 yen"
+      },
+      {
+        "msgID": "MAP25_M_L0109",
+        "msgStr": "10 yen"
+      },
+      {
+        "msgID": "MAP25_M_L0110",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "map25_m_m_TERA02_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0111",
+        "msgStr": "> Raidou, Başkent'in huzuru için dua etti."
+      },
+      {
+        "msgID": "map25_m_m_TERA03_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0112",
+        "msgStr": "> Raidou, Kaya'nın güvenliği için dua etti."
+      },
+      {
+        "msgID": "map25_m_m_TERA04_060",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0113",
+        "msgStr": "> Raidou, Narumi'nin daha fazla borca batmaması için dua etti."
+      },
+      {
+        "msgID": "map25_m_m_TERA05_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0114",
+        "msgStr": "> Raidou hayali için dua etti."
+      },
+      {
+        "msgID": "map25_m_m_TERA06_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0115",
+        "msgStr": "> Raidou büyük bir İblis Çağırıcısı olmaya ant içti."
+      },
+      {
+        "msgID": "map25_m_m_TERA07_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0116",
+        "msgStr": "> Raidou insanların huzuru için dua etti."
+      },
+      {
+        "msgID": "map25_m_m_TERA08_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0117",
+        "msgStr": "> Raidou şapkasının başında sağlam durması için dua etti."
+      },
+      {
+        "msgID": "map25_m_m_TERA09_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0118",
+        "msgStr": "> Raidou daha iyi bir insan olmak için dua etti."
+      },
+      {
+        "msgID": "map25_m_m_TERA10_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0119",
+        "msgStr": "> Raidou insanların mutluluğu için dua etti."
+      },
+      {
+        "msgID": "map25_m_m_TERA_NO_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0120",
+        "msgStr": "> Raidou adak bırakmamaya karar verdi."
+      },
+      {
+        "msgID": "map25_m_m_kami01_068",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "MAP25_M_L0121",
+        "msgStr": "Beni mi çağırdın?"
+      },
+      {
+        "msgID": "map25_m_m_kami01_02_069",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0122",
+        "msgStr": "Ne... Sen de kimsin?"
+      },
+      {
+        "msgID": "map25_m_m_kami02_070",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "MAP25_M_L0123",
+        "msgStr": "Vay canına, kedi konuşabiliyor mu!?"
+      },
+      {
+        "msgID": "MAP25_M_L0124",
+        "msgStr": "Öhöm. Şey, evet, yani ben bir haya..."
+      },
+      {
+        "msgID": "MAP25_M_L0125",
+        "msgStr": "Bir tanrı! Evet, tanrı! Öyle dedim ya!"
+      },
+      {
+        "msgID": "map25_m_m_kami03_071",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0126",
+        "msgStr": "Minnettarlığımı sunmama izin ver..."
+      },
+      {
+        "msgID": "MAP25_M_L0127",
+        "msgStr": "Öhöm... Teşekkür ederim!"
+      },
+      {
+        "msgID": "map25_m_m_kami_ITEMGET_072",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0128",
+        "msgStr": "> Sözde tanrı bir şey düşürdü."
+      },
+      {
+        "msgID": "map25_m_m_kami_ITEMGET02_073",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0129",
+        "msgStr": "> Raidou, <ITM_08><COLOR 4>Kas İçeceği<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map25_m_m_kami04_074",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "MAP25_M_L0130",
+        "msgStr": "Bir tanrı! Evet, tanrı! Öyle dedim ya!"
+      },
+      {
+        "msgID": "map25_m_m_kami05_075",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0131",
+        "msgStr": "Ne? İpucu mu arıyorsun?"
+      },
+      {
+        "msgID": "map25_m_m_kami06_076",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0132",
+        "msgStr": "Eh, önce biraz pamuk eller cebe lütfen."
+      },
+      {
+        "msgID": "map25_m_m_kami07_077",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0133",
+        "msgStr": "Pekâlâ, sana söyleyeceğim."
+      },
+      {
+        "msgID": "map25_m_m_kami08_078",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0134",
+        "msgStr": "Tek yapman gereken soldaki ikisini ve sağdaki birini tınlatmak. Çaktın mı köfteyi?"
+      },
+      {
+        "msgID": "map25_m_m_kami09_079",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0135",
+        "msgStr": "Ne!? <IT_S>Bir ipucu daha<IT_E> mı istiyorsun!? İpuçlarını bayağı seviyorsun galiba, ha?"
+      },
+      {
+        "msgID": "map25_m_m_kami10_080",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0136",
+        "msgStr": "Tamam, bak şimdi solda üç tane kutsal taş var, gördün mü? İşte oradan başla."
+      },
+      {
+        "msgID": "MAP25_M_L0137",
+        "msgStr": "Gerisi çocuk oyuncağı."
+      },
+      {
+        "msgID": "map25_m_m_kami11_081",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0138",
+        "msgStr": "Şey, solda sadece bir taş tepki veriyor, değil mi? Onu bir tınlat veeee..."
+      },
+      {
+        "msgID": "map25_m_m_kami12_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0139",
+        "msgStr": "> Hiçbir şey olmadı."
+      },
+      {
+        "msgID": "map25_m_m_kami_SEL SEL 0_083",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0140",
+        "msgStr": "100 yen"
+      },
+      {
+        "msgID": "MAP25_M_L0141",
+        "msgStr": "500 yen"
+      },
+      {
+        "msgID": "MAP25_M_L0142",
+        "msgStr": "1.000 yen"
+      },
+      {
+        "msgID": "MAP25_M_L0143",
+        "msgStr": "İptal"
+      },
+      {
+        "msgID": "map25_m_m_kami13_084",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0144",
+        "msgStr": "Beni mi çağırdın?"
+      },
+      {
+        "msgID": "map25_m_m_kami13_02_085",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0145",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map25_m_m_kami14_086",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0146",
+        "msgStr": "İstediğin kadar seslen, şu an sana verebileceğim bilgi bu kadar."
+      },
+      {
+        "msgID": "map25_m_m_kami15_087",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0147",
+        "msgStr": "Şey, doğrusunu söylemek gerekirse..."
+      },
+      {
+        "msgID": "MAP25_M_L0148",
+        "msgStr": "Bir süre önce kutudan adak parası çalmaya çalışırken elim sıkıştı!"
+      },
+      {
+        "msgID": "MAP25_M_L0149",
+        "msgStr": "Ben de açlıktan öldüm. Son."
+      },
+      {
+        "msgID": "MAP25_M_L0150",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP25_M_L0151",
+        "msgStr": "Hahahahah! Şaka şaka! Cidden inandın mı buna?"
+      },
+      {
+        "msgID": "MAP25_M_L0152",
+        "msgStr": "Hahahahahahah!"
+      },
+      {
+        "msgID": "map25_m_m_kami16_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0153",
+        "msgStr": "> Adak parasının sesi boşlukta yankılandı."
+      },
+      {
+        "msgID": "map25_m_m_kami_NOMONEY_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0154",
+        "msgStr": "> Raidou'nun yeterince parası yoktu."
+      },
+      {
+        "msgID": "map25_m_m_kami17_090",
+        "msgStr": "Tanrı?"
+      },
+      {
+        "msgID": "MAP25_M_L0155",
+        "msgStr": "Aman Tanrım! <IT_S>Bundan<IT_E> sonra da çözemezsen senden umut yok demektir!"
+      },
+      {
+        "msgID": "MAP25_M_L0156",
+        "msgStr": "Soldaki birinci ve üçüncü taşları tınlat, sonra da iblisi sağa gönder! Yeterince açık oldu mu!?"
+      },
+      {
+        "msgID": "map25_m_M_INARI_HAJIKI_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0157",
+        "msgStr": "> Birkaç kutsal taş buraya düzgünce dizilmiş."
+      },
+      {
+        "msgID": "map25_m_M_INARI_SUMI_092",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0158",
+        "msgStr": "> Kutsal taş hiçbir şeye tepki vermiyor."
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_OUT_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_OOINARI_HAJIKI_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_OOINARI_SUMI_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_INARI_TEST_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_INARI_TEST_SEL SEL 0_097",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_INARI_TEST_YES_098",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_INARI_TEST_NO_099",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_m_msg_ep9_kikan_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0168",
+        "msgStr": "> Yatagarasu Elçisi'ne dönülsün mü?"
+      },
+      {
+        "msgID": "MAP25_M_L0169",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP25_M_L0170",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map25_m_m_msg_ep9_boss_omitu01_101",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP25_M_L0171",
+        "msgStr": "Hm!?"
+      },
+      {
+        "msgID": "map25_m_m_msg_ep9_boss_omitu02_102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_m_msg_ep9_boss_omitu03_103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_m_msg_ep9_boss_omitu04_104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_105",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0178",
+        "msgStr": "> Bu bir hazine sandığı. Açılsın mı?"
+      },
+      {
+        "msgID": "MAP25_M_L0179",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP25_M_L0180",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_NOGET_106",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0181",
+        "msgStr": "> Hazine sandığı kapalı kaldı."
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_EI_GET_107",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0182",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_GET_108",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0183",
+        "msgStr": "> Raidou <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_KANE_GET_109",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0184",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> yen elde etti."
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_MAGU_GET_110",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0185",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> MAG elde etti."
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_DAMAGE_111",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0186",
+        "msgStr": "> Raidou ve grubu hasar aldı."
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_DAMAGE_POISON_112",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0187",
+        "msgStr": "> Raidou ve grubu hasar aldı ve zehirlendi."
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_DAMAGE_CLOSE_113",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0188",
+        "msgStr": "> Raidou ve grubu hasar aldı ve büyüleri mühürlendi."
+      },
+      {
+        "msgID": "map25_m_M_COMMON_TAKARA_KARAGET_114",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0189",
+        "msgStr": "> Sandık boş çıktı."
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_115",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_SEL SEL 0_116",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_HIDARI_117",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_NAKA_118",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_MIGI_119",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_HIDARI_KIE_120",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_NAKA_KIE_121",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_MIGI_KIE_122",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_HIDARI_RENDOU_KIE_123",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_NAKA_RENDOU_KIE_124",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_MIGI_RENNDOU_KIE_125",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_RENDO_01_126",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_RENDO_02_127",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_RENDO_03_128",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_BACKRENDO_129",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_BACKRENDO_MIGI_130",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_BACKRENDO_NAKA_131",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0221",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_BACKRENDO_HIDARI_132",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0222",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_BACKRENDO_KIE_133",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0223",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_BACKRENDO_MIGI_KIE_134",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_BACKRENDO_NAKA_KIE_135",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_BACKRENDO_HIDARI_KIE_136",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0226",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_M_MAHOUJIN_FOLLOW_137",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0227",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_GIMMICK_END_138",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0228",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0229",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0230",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_m_Common_IkaiExit01_139",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0231",
+        "msgStr": "> Yatagarasu Elçisi, gerçek dünya ile Karanlık Diyar arasında bir bağlantı kurdu."
+      },
+      {
+        "msgID": "MAP25_M_L0232",
+        "msgStr": "> Işığın ötesinde İsimsiz Tapınak görünüyor. İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map25_m_m_Common_IkaiExit02_140",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP25_M_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map25_m_m_Common_IkaiExitSelect SEL_141",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0236",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP25_M_L0237",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map25_m_m_Saisen01_142",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0238",
+        "msgStr": "> Eski bir adak kutusu."
+      },
+      {
+        "msgID": "MAP25_M_L0239",
+        "msgStr": "> İçinde biraz bağış var."
+      },
+      {
+        "msgID": "map25_m_m_Saisen01_dev_143",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_M_L0240",
+        "msgStr": "> Eski bir adak kutusu."
+      },
+      {
+        "msgID": "MAP25_M_L0241",
+        "msgStr": "> <devil 0>, kutunun sanki beslenmek istiyormuş gibi ağzını açtığını düşündü."
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:56:42"
+}

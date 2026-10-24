@@ -1,0 +1,221 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E65X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e651_001_e651_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E651_001_L0000",
+        "msgStr": "Meiji Restorasyonu'nun üzerinden 60 yıldan fazla zaman geçti.\n<mw 180>"
+      },
+      {
+        "msgID": "e651_001_e651_02_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E651_001_L0001",
+        "msgStr": "Bir zamanlar Edo olarak bilinen Başkent...\nEh, hızla büyüdüğünü söylemek yeterli.\n<mw 180>"
+      },
+      {
+        "msgID": "e651_001_e651_03_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E651_001_L0002",
+        "msgStr": "Bugünlerde her şey modern olmakla ilgili.\nPara ve bilim kral olmuş durumda.\n<mw 180>"
+      },
+      {
+        "msgID": "e651_001_e651_04_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E651_001_L0003",
+        "msgStr": "Kimsenin kalbinde ruhlara, tanrılara\nve doğaüstü olaylara yer yok.\n<mw 180>"
+      },
+      {
+        "msgID": "e651_001_e651_05_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E651_001_L0004",
+        "msgStr": "Ama sakın yanılmayın.\n<mw 180>"
+      },
+      {
+        "msgID": "e651_001_e651_06_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E651_001_L0005",
+        "msgStr": "Bugün bile gölgelerde pusuya yatmış,\nbizi izleyip halimize gülüyorlar.\n<mw 180>"
+      },
+      {
+        "msgID": "e651_001_e651_07_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E651_001_L0006",
+        "msgStr": "Ama burada, Taisho döneminde—bu tür işlerde\nuzmanlaşmış tek dedektifler biziz.\n<mw 180>"
+      },
+      {
+        "msgID": "e651_001_e651_08_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E651_001_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e651_001_e651_08_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E651_001_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E651_001_L0009",
+        "msgStr": "Sakuradayama Radyosu'nu dinliyorsunuz.\n<mw 181>"
+      },
+      {
+        "msgID": "E651_001_L0010",
+        "msgStr": "Dün sabahın erken saatlerinde, açıklanamayan bir kayıp vakasının daha yaşandığı bildirildi.\n<mw 280>"
+      },
+      {
+        "msgID": "E651_001_L0011",
+        "msgStr": "Bu olay, süregelen tuhaf hadiseler zincirinin son halkası.\n<mw 270>"
+      },
+      {
+        "msgID": "E651_001_L0012",
+        "msgStr": "Görgü tanıkları, olay yerinde kırmızı pelerinli tuhaf bir canavar gördüklerini bildirdi.\n<mw 320>"
+      },
+      {
+        "msgID": "E651_001_L0013",
+        "msgStr": "Yerel yetkililer arama çalışmalarını sürdürürken…"
+      },
+      {
+        "msgID": "e651_002_e651_02_000",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E651_002_L0000",
+        "msgStr": "Yapacak daha iyi bir iş yok.<mw 80> Görünüşe göre bu davaya biz bakıyoruz, Raidou.\n<mw 180>"
+      },
+      {
+        "msgID": "e652_002_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E652_002_L0000",
+        "msgStr": "Hm!?"
+      },
+      {
+        "msgID": "E652_002_L0001",
+        "msgStr": "Dikkat et!"
+      },
+      {
+        "msgID": "E652_002_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E652_002_L0003",
+        "msgStr": "Ne—!?"
+      },
+      {
+        "msgID": "E652_002_L0004",
+        "msgStr": "Hop, dur dur!"
+      },
+      {
+        "msgID": "E652_002_L0005",
+        "msgStr": "Raidou!"
+      },
+      {
+        "msgID": "e652_003_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E652_003_L0000",
+        "msgStr": "Hm...?"
+      },
+      {
+        "msgID": "E652_003_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e653_001_e690_001_001_000",
+        "msgStr": "Yaşlı Ses"
+      },
+      {
+        "msgID": "E653_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e654_001_e651_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E654_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e657_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E657_001_L0000",
+        "msgStr": "O şey de ne öyle!?"
+      },
+      {
+        "msgID": "e658_001_e651_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E658_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e658_002_e651_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E658_002_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e659_001_e659_01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "E659_001_L0000",
+        "msgStr": "Öyleyse, hoşça kal...\n<mw 180>"
+      },
+      {
+        "msgID": "e659_001_e659_02_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "E659_001_L0001",
+        "msgStr": "Adımı gururla taşı... Raidou Kuzunoha!\n<mw 180>"
+      },
+      {
+        "msgID": "e652_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E652_001_L0000",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/25 15:25:26"
+}

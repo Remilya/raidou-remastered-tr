@@ -1,0 +1,117 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONFIG_GAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONFIG_GAME_L0000",
+        "msgStr": "Zorluk"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0001",
+        "msgStr": "Otomatik Kayıt"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0002",
+        "msgStr": "İmleç konumunu koru"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0003",
+        "msgStr": "Kamera Y ekseni kontrolünü ters çevir"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0004",
+        "msgStr": "Kamera X ekseni kontrolünü ters çevir"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0005",
+        "msgStr": "Özel Dedektif"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0006",
+        "msgStr": "Hakikat Arayıcısı"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0007",
+        "msgStr": "Çaylak Dedektif"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0008",
+        "msgStr": "Dedektif Efsanesi"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0010",
+        "msgStr": "Video altyazıları"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0011",
+        "msgStr": "Titreşim"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0012",
+        "msgStr": "Hafiye"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0013",
+        "msgStr": "Eylem değiştirirken duraklat"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0014",
+        "msgStr": "Arayüz (HUD) görünümü"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0015",
+        "msgStr": "Tüpe alma sanatı kontrolleri"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0016",
+        "msgStr": "Art arda bas"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0017",
+        "msgStr": "Basılı tut"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0018",
+        "msgStr": "Kılıç saldırısı kontrolleri"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0019",
+        "msgStr": "Sonraki hedefi göster"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0020",
+        "msgStr": "Sonraki hedef simgesi"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0021",
+        "msgStr": "Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0022",
+        "msgStr": "İblis Yoklamalarını Atla"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0023",
+        "msgStr": "İblis füzyonu animasyonunu atla"
+      },
+      {
+        "msgID": "CONFIG_GAME_L0024",
+        "msgStr": "Kılıç Simyası animasyonunu atla"
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/24 10:29:24"
+}

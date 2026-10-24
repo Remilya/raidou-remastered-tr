@@ -1,0 +1,401 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "ACTIVE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "ACTIVE_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0001",
+        "msgStr": "Kontrol et"
+      },
+      {
+        "msgID": "ACTIVE_L0002",
+        "msgStr": "Sor"
+      },
+      {
+        "msgID": "ACTIVE_L0003",
+        "msgStr": "İçeri gir"
+      },
+      {
+        "msgID": "ACTIVE_L0004",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "ACTIVE_L0005",
+        "msgStr": "Aç"
+      },
+      {
+        "msgID": "ACTIVE_L0006",
+        "msgStr": "Aşağı atla"
+      },
+      {
+        "msgID": "ACTIVE_L0007",
+        "msgStr": "Gir"
+      },
+      {
+        "msgID": "ACTIVE_L0008",
+        "msgStr": "Bin"
+      },
+      {
+        "msgID": "ACTIVE_L0009",
+        "msgStr": "Yukarı tırman"
+      },
+      {
+        "msgID": "ACTIVE_L0010",
+        "msgStr": "Aşağı in"
+      },
+      {
+        "msgID": "ACTIVE_L0011",
+        "msgStr": "Aç"
+      },
+      {
+        "msgID": "ACTIVE_L0012",
+        "msgStr": "Yok et"
+      },
+      {
+        "msgID": "ACTIVE_L0013",
+        "msgStr": "Rapor ver"
+      },
+      {
+        "msgID": "ACTIVE_L0014",
+        "msgStr": "Bin"
+      },
+      {
+        "msgID": "ACTIVE_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0019",
+        "msgStr": "Kaç"
+      },
+      {
+        "msgID": "ACTIVE_L0020",
+        "msgStr": "Tarrasque'ı çağır"
+      },
+      {
+        "msgID": "ACTIVE_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0033",
+        "msgStr": "Odaklan"
+      },
+      {
+        "msgID": "ACTIVE_L0034",
+        "msgStr": "Gözlemle"
+      },
+      {
+        "msgID": "ACTIVE_L0035",
+        "msgStr": "Gir"
+      },
+      {
+        "msgID": "ACTIVE_L0036",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "ACTIVE_L0037",
+        "msgStr": "Aç"
+      },
+      {
+        "msgID": "ACTIVE_L0038",
+        "msgStr": "Aşağı atla"
+      },
+      {
+        "msgID": "ACTIVE_L0039",
+        "msgStr": "Gir"
+      },
+      {
+        "msgID": "ACTIVE_L0040",
+        "msgStr": "Bin"
+      },
+      {
+        "msgID": "ACTIVE_L0041",
+        "msgStr": "Yukarı tırman"
+      },
+      {
+        "msgID": "ACTIVE_L0042",
+        "msgStr": "Aşağı in"
+      },
+      {
+        "msgID": "ACTIVE_L0043",
+        "msgStr": "Aç"
+      },
+      {
+        "msgID": "ACTIVE_L0044",
+        "msgStr": "Yok et"
+      },
+      {
+        "msgID": "ACTIVE_L0045",
+        "msgStr": "Rapor ver"
+      },
+      {
+        "msgID": "ACTIVE_L0046",
+        "msgStr": "Bin"
+      },
+      {
+        "msgID": "ACTIVE_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0051",
+        "msgStr": "Kaç"
+      },
+      {
+        "msgID": "ACTIVE_L0052",
+        "msgStr": "Tarrasque'ı çağır"
+      },
+      {
+        "msgID": "ACTIVE_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ACTIVE_L0064",
+        "msgStr": "Dedektifçilik oyna"
+      },
+      {
+        "msgID": "ACTIVE_L0065",
+        "msgStr": "İncele"
+      },
+      {
+        "msgID": "ACTIVE_L0066",
+        "msgStr": "Araştır"
+      },
+      {
+        "msgID": "ACTIVE_L0067",
+        "msgStr": "Araştır"
+      },
+      {
+        "msgID": "ACTIVE_L0068",
+        "msgStr": "İncele"
+      },
+      {
+        "msgID": "ACTIVE_L0069",
+        "msgStr": "Araştır"
+      },
+      {
+        "msgID": "ACTIVE_L0070",
+        "msgStr": "Gözlemle"
+      },
+      {
+        "msgID": "ACTIVE_L0071",
+        "msgStr": "Araştır"
+      },
+      {
+        "msgID": "ACTIVE_L0072",
+        "msgStr": "Hafiye"
+      },
+      {
+        "msgID": "ACTIVE_L0073",
+        "msgStr": "Odaklan"
+      },
+      {
+        "msgID": "ACTIVE_L0074",
+        "msgStr": "Dedektifçilik oyna"
+      },
+      {
+        "msgID": "ACTIVE_L0075",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "ACTIVE_L0076",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "ACTIVE_L0077",
+        "msgStr": "Sor"
+      },
+      {
+        "msgID": "ACTIVE_L0078",
+        "msgStr": "Sor"
+      },
+      {
+        "msgID": "ACTIVE_L0079",
+        "msgStr": "Araştır"
+      },
+      {
+        "msgID": "ACTIVE_L0080",
+        "msgStr": "Dinle"
+      },
+      {
+        "msgID": "ACTIVE_L0081",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "ACTIVE_L0082",
+        "msgStr": "Dinle"
+      },
+      {
+        "msgID": "ACTIVE_L0083",
+        "msgStr": "Kulak misafiri ol"
+      },
+      {
+        "msgID": "ACTIVE_L0084",
+        "msgStr": "Dinle"
+      },
+      {
+        "msgID": "ACTIVE_L0085",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "ACTIVE_L0086",
+        "msgStr": "?"
+      },
+      {
+        "msgID": "ACTIVE_L0087",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "ACTIVE_L0088",
+        "msgStr": "Kalk"
+      },
+      {
+        "msgID": "ACTIVE_L0089",
+        "msgStr": "Bin"
+      },
+      {
+        "msgID": "ACTIVE_L0090",
+        "msgStr": "İn"
+      },
+      {
+        "msgID": "ACTIVE_L0091",
+        "msgStr": "İlerle"
+      },
+      {
+        "msgID": "ACTIVE_L0092",
+        "msgStr": "Geri çekil"
+      },
+      {
+        "msgID": "ACTIVE_L0093",
+        "msgStr": "Geri dön"
+      },
+      {
+        "msgID": "ACTIVE_L0094",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "ACTIVE_L0095",
+        "msgStr": "<V 0> hedefini yok et"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:02"
+}

@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CYOUSA_TITLE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CYOUSA_TITLE_L0000",
+        "msgStr": "Müşteri Geçmişi Araştırması"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0001",
+        "msgStr": "Otomobil Saldırganının İzini Sürme"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0002",
+        "msgStr": "Tekstil Fabrikasına Sızma"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0003",
+        "msgStr": "Kaçak Göçmenin İzini Sürme"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0004",
+        "msgStr": "Yeraltı Tersanesine Sızma"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0005",
+        "msgStr": "Kaya Daidouji'nin Kayboluşu"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0006",
+        "msgStr": "Laneti Arındırma"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0007",
+        "msgStr": "Waden One'a Sızma"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0008",
+        "msgStr": "Ruh Gönderme Ritüelini Gerçekleştirme"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0009",
+        "msgStr": "Ruhsuz Tanrı Uyanıyor"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0010",
+        "msgStr": "Tai-itsu Uydusunu Yok Etme"
+      },
+      {
+        "msgID": "CYOUSA_TITLE_L0011",
+        "msgStr": "Son Bölüm"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:02:53"
+}

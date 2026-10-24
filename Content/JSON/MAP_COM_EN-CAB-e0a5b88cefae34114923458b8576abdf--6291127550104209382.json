@@ -1,0 +1,1353 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP_COM_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map36_e_dammy_36_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map37_e_dammy_37_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map38_e_dammy_38_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map39_e_dammy_39_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map40_e_dammy_40_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map_com_MAP_SAVE_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0000",
+        "msgStr": "> Bu bir Ejder Pınarı. İçinden gizemli bir güç akıyor..."
+      },
+      {
+        "msgID": "MAP_COM_L0001",
+        "msgStr": "> Raidou burada rahatsız edilmeden bulgularını kaydedebilir."
+      },
+      {
+        "msgID": "MAP_COM_L0002",
+        "msgStr": "> Kaydedilsin mi?"
+      },
+      {
+        "msgID": "MAP_COM_L0003",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0004",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_MAP_HEAL_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0005",
+        "msgStr": "> Can yenilensin mi?"
+      },
+      {
+        "msgID": "MAP_COM_L0006",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0007",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_MAP_HEAL2_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0008",
+        "msgStr": "> Raidou ve iblisleri iyileşti."
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL_FAST_003",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0009",
+        "msgStr": "*ühü*"
+      },
+      {
+        "msgID": "MAP_COM_L0010",
+        "msgStr": "Sen kimsin? Seni buralarda daha önce hiç görmedim..."
+      },
+      {
+        "msgID": "MAP_COM_L0011",
+        "msgStr": "Ben Nakisawame. Herkesi iyileştiririm..."
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL_2ND_004",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL_FULLMOON_005",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL_006",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP_COM_L0014_01",
+        "msgStr": "Seni iyileştirmemi ister misin?"
+      },
+      {
+        "msgID": "MAP_COM_L0015",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0016",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL2_007",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP_COM_L0018",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0019",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL3_008",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0020",
+        "msgStr": "Bu biraz yakabilir ama sadece azıcık..."
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL4_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0021",
+        "msgStr": "> Raidou ve iblisleri iyileşti."
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL4D_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0022",
+        "msgStr": "> <devil 0> iyileşti."
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL5_011",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0023",
+        "msgStr": "Sakın ölme... Lütfen..."
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL6_012",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL7_013",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP_COM_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_MAP_CHEAL8_013",
+        "msgStr": "Nakisawame"
+      },
+      {
+        "msgID": "MAP_COM_L0026_A",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_EXITWARP_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0027",
+        "msgStr": "> Çıkılsın mı?"
+      },
+      {
+        "msgID": "MAP_COM_L0028",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0029",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_ELVWARP_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0030",
+        "msgStr": "> Bu bir asansör."
+      },
+      {
+        "msgID": "map_com_HOSEKI_NG_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0031",
+        "msgStr": "> Görünüşe göre insanlar içeri uzanıp içindekileri alamıyor."
+      },
+      {
+        "msgID": "map_com_HOSEKI_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0032",
+        "msgStr": "> Parlayan, kırmızı bir kristal."
+      },
+      {
+        "msgID": "MAP_COM_L0033",
+        "msgStr": "> İçindekiler kayıp şekil değiştiriyor. Bu iblis onları alsın mı?"
+      },
+      {
+        "msgID": "MAP_COM_L0034",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0035",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_HOSEKI_NOZOKI_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0036",
+        "msgStr": "> <devil 0> içindekileri yoklayıp aradı..."
+      },
+      {
+        "msgID": "MAP_COM_L0037",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map_com_HOSEKI_GET_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0038",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map_com_TAKARA_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0039",
+        "msgStr": "> Parlayan, mavi bir kristal. İçindekiler alınsın mı?"
+      },
+      {
+        "msgID": "MAP_COM_L0040",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0041",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_TAKARA_STILLGET_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0042",
+        "msgStr": "> Boş."
+      },
+      {
+        "msgID": "map_com_TAKARA_GET_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0043",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "map_com_TAKARA_MAKA_GET_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0044",
+        "msgStr": "> <COLOR 4><V 0> yen<COLOR 0> elde edildi."
+      },
+      {
+        "msgID": "map_com_TAKARA_D_GET_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0045",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map_com_TAKARA_D_MAKA_GET_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0046",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0> yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map_com_TAKARAP_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0047",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map_com_TAKARAP_GET_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0048",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "map_com_TAKARAP_D_GET_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0049",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map_com_TAKARASAGASI_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0050",
+        "msgStr": "> <devil 0> bir şey buldu."
+      },
+      {
+        "msgID": "MAP_COM_L0051",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP_COM_L0052",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "map_com_ZENISAGASI_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0053",
+        "msgStr": "> <devil 0> bir şey buldu."
+      },
+      {
+        "msgID": "MAP_COM_L0054",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP_COM_L0055",
+        "msgStr": "> <COLOR 4><V 0> yen<COLOR 0> elde edildi."
+      },
+      {
+        "msgID": "map_com_MWALL_DEAD_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0056",
+        "msgStr": "> Yeraltı Kapısı yok edildi. İlerideki yol açıldı."
+      },
+      {
+        "msgID": "map_com_MWALL_DEVILONLY_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0057",
+        "msgStr": "> Bu bir Lekeli Kapı. Bir iblis içinden geçebilir."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0058",
+        "msgStr": "> Raidou tramvay ücreti olarak <V 0> yen ödedi."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_NOP_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0059",
+        "msgStr": "> Raidou varış noktasına ulaştı."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_NG1_035",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0060",
+        "msgStr": "> Raidou'nun tramvay ücreti için <V 0> yeni yoktu."
+      },
+      {
+        "msgID": "MAP_COM_L0061",
+        "msgStr": "> Kalanını Gouto karşıladı."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_NG2_036",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0062",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_NG3_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0063",
+        "msgStr": "> Raidou'nun tramvay ücreti için <V 0> yeni yoktu."
+      },
+      {
+        "msgID": "MAP_COM_L0064",
+        "msgStr": "> Kalanını Gouto karşıladı."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_PASS_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0065",
+        "msgStr": "> Raidou tramvaya ücretsiz binmek için <COLOR 4>Tramvay Pasosu<COLOR 0>'nu kullandı."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_REPAY1_039",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0066",
+        "msgStr": "Dinle, Raidou."
+      },
+      {
+        "msgID": "MAP_COM_L0067",
+        "msgStr": "Tramvay yolculuklarını finanse ettiğim onca seferin borcunu ödeme vaktin geldi."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_REPAY2_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0068",
+        "msgStr": "> Raidou, yol ücretini ödemek için ödünç aldığı tüm parayı Gouto'ya geri ödedi."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_RETRN_REPAY3_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0069",
+        "msgStr": "> Gouto'nun Raidou'ya ödünç verdiği tüm para Gouto'nun cüzdanına geri döndü."
+      },
+      {
+        "msgID": "map_com_JIMUSYO_HAJIKI1_042",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0070",
+        "msgStr": "> Buradan kaçmak o kadar kolay değil!"
+      },
+      {
+        "msgID": "map_com_JIMUSYO_HAJIKI2_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0071",
+        "msgStr": "> Hâlâ araştırılacak şeyler var."
+      },
+      {
+        "msgID": "map_com_BAD_MAFU_HAJIKI_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0072",
+        "msgStr": "> Bir mühür yolu kapatıyor."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_HAJIKI_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0073",
+        "msgStr": "> Daha ileri gitmeden önce Raidou burada olmalı."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_HAJIKI2_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0074",
+        "msgStr": "> Raidou'ya geri dönüp rapor vermek iyi bir fikir olabilir."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_HAJIKI3_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0075",
+        "msgStr": "> Bunun için Raidou'nun burada olması daha iyi olabilir."
+      },
+      {
+        "msgID": "map_com_COMP_OPENERROR_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0076",
+        "msgStr": "> Bu burada kullanılamaz."
+      },
+      {
+        "msgID": "map_com_BUNRI_START_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0077",
+        "msgStr": "> <devil 0> tek başına soruşturmaya başladı."
+      },
+      {
+        "msgID": "map_com_HOUKOKU_START_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0078",
+        "msgStr": "> <devil 0> soruşturmanın bulgularını bildirdi."
+      },
+      {
+        "msgID": "map_com_HOUKOKU_START2_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0079",
+        "msgStr": "> <devil 0> soruşturmayı heyecanlı bir şekilde anlattı."
+      },
+      {
+        "msgID": "map_com_HOUKOKU_START3_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0080",
+        "msgStr": "> <devil 0> aşırı yorgun olmasına rağmen Raidou'ya rapor verdi."
+      },
+      {
+        "msgID": "map_com_COMP_INNENSTART_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0081",
+        "msgStr": "> <devil 0> kavga çıkarmaya can atıyor."
+      },
+      {
+        "msgID": "MAP_COM_L0082",
+        "msgStr": "> Karşılaşma oranı arttı."
+      },
+      {
+        "msgID": "map_com_COMP_TAKANESTART_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0083",
+        "msgStr": "> <devil 0> son derece yanına yaklaşılmaz bir hal aldı."
+      },
+      {
+        "msgID": "MAP_COM_L0084",
+        "msgStr": "> Karşılaşma oranı düştü."
+      },
+      {
+        "msgID": "map_com_COMP_INNENEND_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0085",
+        "msgStr": "> Kışkırtma etkisi geçti."
+      },
+      {
+        "msgID": "map_com_COMP_TAKANEEND_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0086",
+        "msgStr": "> Gözdağı etkisi geçti."
+      },
+      {
+        "msgID": "map_com_COMP_ESTOMAEND_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0087",
+        "msgStr": "> Kovucu Su etkisi geçti."
+      },
+      {
+        "msgID": "map_com_COMP_REBERAMAEND_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0088",
+        "msgStr": "> Çekici Su etkisi geçti."
+      },
+      {
+        "msgID": "map_com_COMP_DRINKEND_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0089",
+        "msgStr": "> Gazoz etkisi geçti."
+      },
+      {
+        "msgID": "map_com_COMP_MOUDOKUEND_060",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0090",
+        "msgStr": "> Zehir etkisi geçti."
+      },
+      {
+        "msgID": "map_com_MSK00_START_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0091",
+        "msgStr": "> <devil 0>, Tutuşturma kullanmayı denedi."
+      },
+      {
+        "msgID": "map_com_MSK01_START_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0092",
+        "msgStr": "> <devil 0>, Soğutma kullanmayı denedi."
+      },
+      {
+        "msgID": "map_com_MSK02_START_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0093",
+        "msgStr": "> <devil 0> ruhsal enerjiye sahip bölgeleri aramayı denedi."
+      },
+      {
+        "msgID": "map_com_MSK03_START_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0094",
+        "msgStr": "> <devil 0> bölgede keşfe çıktı."
+      },
+      {
+        "msgID": "map_com_MSK03_END_0_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0095",
+        "msgStr": "> <devil 0> keşif görevinden döndü."
+      },
+      {
+        "msgID": "map_com_MSK03_DV0_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0096",
+        "msgStr": "> Bu bölgede..."
+      },
+      {
+        "msgID": "map_com_MSK03_DV1_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0097",
+        "msgStr": "> ...<COLOR 3><V 0> <v 1><COLOR 0>…"
+      },
+      {
+        "msgID": "map_com_MSK03_DV2_068",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0098",
+        "msgStr": "> ...yakınlarda bulunabilir."
+      },
+      {
+        "msgID": "map_com_MSK03_DV3_069",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0099",
+        "msgStr": "> ...Hiçbir iblis görülmedi."
+      },
+      {
+        "msgID": "map_com_MSK03_TAKARA0_070",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0100",
+        "msgStr": "> Bölgede kalan eşyalara gelince..."
+      },
+      {
+        "msgID": "map_com_MSK03_TAKARA1_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0101",
+        "msgStr": "> Buralarda <COLOR 3><V 0><COLOR 0> bulunabilir."
+      },
+      {
+        "msgID": "MAP_COM_L0102",
+        "msgStr": "> <devil 0>, Raidou'ya gizli eşyaları kendisinin bulması gerektiğini söyledi."
+      },
+      {
+        "msgID": "map_com_MSK03_TAKARA_NOT_072",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0103",
+        "msgStr": "> ...Hiçbir şey görülmedi."
+      },
+      {
+        "msgID": "map_com_MSK03_ITEM_073",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0104",
+        "msgStr": "> <devil 0> ayrıca keşif sırasında <v 0> x<v 1> buldu."
+      },
+      {
+        "msgID": "MAP_COM_L0105",
+        "msgStr": "> Raidou, <COLOR 4><v 0><COLOR 0> x<v 1> elde etti."
+      },
+      {
+        "msgID": "map_com_MSK04_START_074",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0106",
+        "msgStr": "> <devil 0> sağlam ve sert bir darbe indirmeyi denedi."
+      },
+      {
+        "msgID": "map_com_MSK05_START_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0107",
+        "msgStr": "> <devil 0> zihin okuma sanatını kullanmayı denedi."
+      },
+      {
+        "msgID": "map_com_MSK10_START_076",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0108",
+        "msgStr": "> <devil 0> havayı feromonlarla doldurdu."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK01_077",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0109",
+        "msgStr": "> <devil 0> dalıp gitti."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK02_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0110",
+        "msgStr": "> <devil 0> insana baktı ve şaşırdı."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK03_079",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0111",
+        "msgStr": "> Faydası yok!"
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK04_080",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0112",
+        "msgStr": "> <devil 0> memleketini yâd ediyor."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK05_081",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0113",
+        "msgStr": "> Görünüşe göre insanlar <devil 0> için yabancı."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK06_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0114",
+        "msgStr": "> <devil 0> sohbet başlatmak için çok uğraştı."
+      },
+      {
+        "msgID": "MAP_COM_L0115",
+        "msgStr": "> Ne yazık ki iblis, insanın gözüne görünmezdi."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK07_083",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0116",
+        "msgStr": "> <devil 0> utangaç bir tavırla geride durdu."
+      },
+      {
+        "msgID": "MAP_COM_L0117",
+        "msgStr": "> İnsan onu fark etmedi."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK08_084",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0118",
+        "msgStr": "> <devil 0> göz kırptı!"
+      },
+      {
+        "msgID": "MAP_COM_L0119",
+        "msgStr": "> İnsan onu fark etmedi."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK09_085",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0120",
+        "msgStr": "> <devil 0> gözdağı vermeye çalıştı!"
+      },
+      {
+        "msgID": "MAP_COM_L0121",
+        "msgStr": "> Ancak sonunda gözü korkan taraf <devil 0> oldu."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK10_086",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0122",
+        "msgStr": "> <devil 0> bir şarkı söylemeyi denedi."
+      },
+      {
+        "msgID": "MAP_COM_L0123",
+        "msgStr": "> Sonunda sıkılıp bıraktı."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK11_087",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0124",
+        "msgStr": "> <devil 0> ilk darbeyi indirmeyi denedi."
+      },
+      {
+        "msgID": "MAP_COM_L0125",
+        "msgStr": "> Beyhude bir çabaydı."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK12_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0126",
+        "msgStr": "> <devil 0> MAG istedi."
+      },
+      {
+        "msgID": "MAP_COM_L0127",
+        "msgStr": "> Ne yazık ki iblis, insanın gözüne görünmezdi."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK13_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0128",
+        "msgStr": "> <devil 0> para istedi."
+      },
+      {
+        "msgID": "MAP_COM_L0129",
+        "msgStr": "> Ne yazık ki iblis, insanın gözüne görünmezdi."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK14_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0130",
+        "msgStr": "> <devil 0> irkildi."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK15_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0131",
+        "msgStr": "> <devil 0> sohbet başlatmaya çalışırken insan bu tarafa döndü."
+      },
+      {
+        "msgID": "MAP_COM_L0132",
+        "msgStr": "> ...Ama bu sadece bir tesadüftü. İblis, insanın gözüne görünmezdi."
+      },
+      {
+        "msgID": "map_com_NAKAMA_MODE_TALK16_092",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0133",
+        "msgStr": "> <devil 0>, Raidou'dan gördüğü kaba muameleden yakındı."
+      },
+      {
+        "msgID": "map_com_DEAD_CONTINUE_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0134",
+        "msgStr": "> İblis öldü ve tüpe geri döndü..."
+      },
+      {
+        "msgID": "map_com_M31CONTINUE_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0135",
+        "msgStr": "> Raidou daha sonra geri dönüp tekrar denemeye karar verdi."
+      },
+      {
+        "msgID": "map_com_TAKUMI_0_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0136",
+        "msgStr": "> <devil 0> uzmanlığını sergilemeye çalışıyor..."
+      },
+      {
+        "msgID": "MAP_COM_L0137",
+        "msgStr": "> Gösteri izlensin mi?"
+      },
+      {
+        "msgID": "MAP_COM_L0138",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0139",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_A_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0140",
+        "msgStr": "> <v 0>, <devil 0> tarafından uygulanan muhteşem akupunktur teknikleri sayesinde tüm HP'sini geri kazandı."
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_B_097",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0141",
+        "msgStr": "> <v 0>, <devil 0> tarafından uygulanan muhteşem canlandırma teknikleri sayesinde HP'sinin yarısını geri kazandı."
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_C_098",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0142",
+        "msgStr": "> <v 0>, <devil 0> tarafından uygulanan muhteşem akupunktur teknikleri sayesinde bir miktar HP geri kazandı."
+      },
+      {
+        "msgID": "MAP_COM_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_D_1_099",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0144",
+        "msgStr": "> <devil 0> mucizevi bir basınç noktasına bastı!"
+      },
+      {
+        "msgID": "MAP_COM_L0145",
+        "msgStr": "> <v 0> Güç değerini 1 artırdı."
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_D_2_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0146",
+        "msgStr": "> <devil 0> mucizevi bir basınç noktasına bastı!"
+      },
+      {
+        "msgID": "MAP_COM_L0147",
+        "msgStr": "> <v 0> Büyü değerini 1 artırdı."
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_D_3_101",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0148",
+        "msgStr": "> <devil 0> mucizevi bir basınç noktasına bastı!"
+      },
+      {
+        "msgID": "MAP_COM_L0149",
+        "msgStr": "> <v 0> Dayanıklılık değerini 1 artırdı."
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_D_4_102",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0150",
+        "msgStr": "> <devil 0> mucizevi bir basınç noktasına bastı!"
+      },
+      {
+        "msgID": "MAP_COM_L0151",
+        "msgStr": "> <v 0> Şans değerini 1 artırdı."
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_E_103",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0152",
+        "msgStr": "> <devil 0> tarafından uygulanan muhteşem canlandırma teknikleri sayesinde Raidou, MAG değerinin yarısını geri kazandı."
+      },
+      {
+        "msgID": "MAP_COM_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_F_104",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0154",
+        "msgStr": "> <devil 0> tarafından uygulanan muhteşem canlandırma teknikleri sayesinde Raidou tüm MAG değerini geri kazandı."
+      },
+      {
+        "msgID": "MAP_COM_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_TAKUMI_KOUKA_G_105",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0156",
+        "msgStr": "> <devil 0> yaratıcı bir ilhamla doldu."
+      },
+      {
+        "msgID": "MAP_COM_L0157",
+        "msgStr": "> <devil 0>, <v 0> eşyasını <v 1> eşyasına dönüştürdü."
+      },
+      {
+        "msgID": "map_com_TAKUMI_SEL_NO_106",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_TAKUMI_CANCEL_107",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP_COM_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_BUNRI_REIGAI_1_108",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0161",
+        "msgStr": "> <devil 0> ağzının suyunu akıttı..."
+      },
+      {
+        "msgID": "MAP_COM_L0162",
+        "msgStr": "> ...Ancak nefisine hâkim oldu."
+      },
+      {
+        "msgID": "map_com_BUNRI_REIGAI_2_109",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0163",
+        "msgStr": "> <devil 0> hor görülmemek için burnu havada davranmaya çalıştı."
+      },
+      {
+        "msgID": "map_com_BUNRI_REIGAI_3_110",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0164",
+        "msgStr": "> <devil 0> baskıya yenik düştü ve konuşamadı."
+      },
+      {
+        "msgID": "map_com_BUNRI_REIGAI_4A_111",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0165",
+        "msgStr": "> <devil 0> bu işten hiç iyi şeyler sezmedi."
+      },
+      {
+        "msgID": "map_com_BUNRI_REIGAI_4B_112",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0166",
+        "msgStr": "> <devil 0> kıpırdamayan bir insana dik dik baktı..."
+      },
+      {
+        "msgID": "map_com_BUNRI_REIGAI_5_113",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0167",
+        "msgStr": "> <devil 0> kıpırdamayan bir insana dik dik baktı..."
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0168",
+        "msgStr": "> Aril Yarığı temizlensin mi?"
+      },
+      {
+        "msgID": "MAP_COM_L0169",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP_COM_L0170",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_002",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0171",
+        "msgStr": "Raidou, Aril Yarığı'nın ötesinde gücü seninkini katbekat aşan bir iblis seziyorum. Yine de onu temizlemek istiyor musun?"
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_003",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0172",
+        "msgStr": "O halde sana engel olmayacağım. Tetikte ol."
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0173",
+        "msgStr": "Raidou, bu çatlak Karanlık Diyar'a bağlanıyor. İblis Çağırıcıları tarafından Aril Yarığı olarak bilinen bir ucubeliktir."
+      },
+      {
+        "msgID": "MAP_COM_L0174",
+        "msgStr": "İçeride pusuya yatmış iblisleri alt edersen Aril Yarığı'nı temizleyebilirsin."
+      },
+      {
+        "msgID": "MAP_COM_L0175",
+        "msgStr": "Ancak bu temizlik yalnızca geçicidir. Birkaç gün sonra yarık tekrar ortaya çıkacaktır."
+      },
+      {
+        "msgID": "MAP_COM_L0176",
+        "msgStr": "Başkent'i korumaya ant içmiş bir Kuzunoha olarak onları başıboş bırakmamak en iyisidir. Vakit buldukça icaplarına bakmayı unutma."
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_004_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP_COM_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_004_02",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0179",
+        "msgStr": "Aril Yarıklarının nasıl işlediğini şimdi anladın mı?"
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0180",
+        "msgStr": "Güzel, o halde gidelim."
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_006",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0181",
+        "msgStr": "Bu bilgi İblis Çağırıcıları için hayati önem taşır. Dikkatle dinle."
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0182",
+        "msgStr": "> Raidou, eşsiz Aril Yarıklarından <V 0> tanesini temizledi!"
+      },
+      {
+        "msgID": "MAP_COM_L0183",
+        "msgStr": "> İsimsiz Tapınak'taki sol tilki heykeli bir ödül hazırladı."
+      },
+      {
+        "msgID": "MAP_COM_L0184",
+        "msgStr": "> Raidou, Başkent'teki tüm eşsiz Aril Yarıklarını temizledi!"
+      },
+      {
+        "msgID": "MAP_COM_L0185",
+        "msgStr": "> İsimsiz Tapınak'taki sol tilki heykeli bir ödül hazırladı."
+      },
+      {
+        "msgID": "map_com_MAP_KIRETSU_008",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP_COM_L0186",
+        "msgStr": "Mmm, İblis Çağırıcısı ve Başkent'in koruyucusu Raidou Kuzunoha'dan da beklediğim buydu."
+      },
+      {
+        "msgID": "MAP_COM_L0187",
+        "msgStr": "Kuzunoha klanına mensup bir diğeri olarak çıkardığın işle gurur duyuyorum."
+      },
+      {
+        "msgID": "MAP_COM_L0188",
+        "msgStr": "Oh? Yine başardın demek, öyle mi?"
+      },
+      {
+        "msgID": "MAP_COM_L0189",
+        "msgStr": "Bununla birlikte sayısız Başkent sakinini bitmek bilmeyen iblis tehdidinden kurtardığına şüphe yok."
+      },
+      {
+        "msgID": "MAP_COM_L0190",
+        "msgStr": "Halkı koruma çabalarına devam edeceğini umuyorum, Ondördüncü."
+      },
+      {
+        "msgID": "map_com_NAKAMA_HAJIKI1",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0191",
+        "msgStr": "> Raidou'ya dönülsün mü?"
+      },
+      {
+        "msgID": "MAP_COM_L0192",
+        "msgStr": "> Buradan dönmek o kadar kolay değil!"
+      },
+      {
+        "msgID": "MAP_COM_L0193",
+        "msgStr": "<V 0> EXP kazanıldı!"
+      },
+      {
+        "msgID": "MAP_COM_L0194",
+        "msgStr": "<V 0> Sadakat kazanıldı!"
+      },
+      {
+        "msgID": "MAP_COM_L0195",
+        "msgStr": "<COLOR 4><V 0><COLOR 0> x<V 1> alındı!"
+      },
+      {
+        "msgID": "MAP_COM_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map_com_GOUMA_HAJIKI1",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0197",
+        "msgStr": "> Görünüşe göre Victor şu an dışarıda..."
+      },
+      {
+        "msgID": "map_com_KUDAN",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP_COM_L0198",
+        "msgStr": "> <DEP_07>Hüner Düzeni'nden Kudan artık Goumaden'de füzyonlanabilir!"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:31:50"
+}

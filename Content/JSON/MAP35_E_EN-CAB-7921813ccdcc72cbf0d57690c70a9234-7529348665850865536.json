@@ -1,0 +1,1773 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP35_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map32_e_dammy_32_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map33_e_dammy_33_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map34_e_dammy_34_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map35_e_map01_EP06_lmap_STOP_01_000",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP35_E_L0000",
+        "msgStr": "<lips 4 5>\nBekle, <NAME2N 0>.\n<lips_stop>"
+      },
+      {
+        "msgID": "map35_e_map01_EP06_lmap_STOP_02_001",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP35_E_L0001",
+        "msgStr": "<lips 4 5>\nİçeri girersem beni öldüreceklerini biliyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "map35_e_map01_EP06_lmap_STOP_03_002",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP35_E_L0002",
+        "msgStr": "<lips 4 5>\nSen önden git. Ben burada bekleyeceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map35_e_EP01_lmap_mes01_003",
+        "msgStr": "Hayalperest Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0003",
+        "msgStr": "Şapkandaki o amblem <COLOR 1>Yumizuki Lisesi arması<COLOR 0>, değil mi?"
+      },
+      {
+        "msgID": "MAP35_E_L0004",
+        "msgStr": "Vay canına, söylentiler doğruymuş. Oradaki erkekler bizim okuldaki zavallı oğlanlardan çok daha iyi."
+      },
+      {
+        "msgID": "map35_e_EP01_lmap_EP09_01_004",
+        "msgStr": "Hayalperest Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0005",
+        "msgStr": "Allah Allah, bugün her yerde Yumizuki'li çocuklara rastlıyorum."
+      },
+      {
+        "msgID": "MAP35_E_L0006",
+        "msgStr": "Bir dakika... İkiz kardeşin falan mı var?"
+      },
+      {
+        "msgID": "MAP35_E_L0007",
+        "msgStr": "Bildiğim kadarıyla yok."
+      },
+      {
+        "msgID": "MAP35_E_L0008",
+        "msgStr": "Ben yalnız bir kurdum, bacım."
+      },
+      {
+        "msgID": "MAP35_E_L0009",
+        "msgStr": "Çok tuhaf... Az önce Tsukudo-cho'da tıpkı sana benzeyen birini gördüm."
+      },
+      {
+        "msgID": "MAP35_E_L0010",
+        "msgStr": "Yani, neredeyse tıpkı sen. Sana benziyordu ama vahşi bir havası vardı."
+      },
+      {
+        "msgID": "MAP35_E_L0011",
+        "msgStr": "Karşımda duranı tercih ederim. Diğerinin yılışıkça davranacak bir hali vardı."
+      },
+      {
+        "msgID": "MAP35_E_L0012",
+        "msgStr": "Aaa! Çok... cüretkârsın!"
+      },
+      {
+        "msgID": "MAP35_E_L0013",
+        "msgStr": "Ama sana yakışıyor. Bir anlığına etrafımızda müzik çalıyormuş gibi hissettim."
+      },
+      {
+        "msgID": "map35_e_EP01_lmap_JIJO_01_005",
+        "msgStr": "Bilgili Beyefendi"
+      },
+      {
+        "msgID": "MAP35_E_L0014",
+        "msgStr": "Hiçbir şey sonsuza dek sürmez, Daidouji soyu da bir istisna değil."
+      },
+      {
+        "msgID": "MAP35_E_L0015",
+        "msgStr": "Ailenin reisi neredeyse tamamen ortadan kaybolunca, o seçkin isim de lekelendi."
+      },
+      {
+        "msgID": "map35_e_EP01_lmap_JIJO_02_006",
+        "msgStr": "Bilgili Beyefendi"
+      },
+      {
+        "msgID": "MAP35_E_L0016",
+        "msgStr": "Zengin bir ailenin tek kızını düşündüğünde şımarık olacağını sanırsın, değil mi?"
+      },
+      {
+        "msgID": "MAP35_E_L0017",
+        "msgStr": "Kaya öyle değil. Terbiyeli, okulda notları mükemmel, zeki olduğu kadar güzel de... Altın gibi bir kız."
+      },
+      {
+        "msgID": "map35_e_EP01_lmap_JIJO_03_007",
+        "msgStr": "Bilgili Beyefendi"
+      },
+      {
+        "msgID": "MAP35_E_L0018",
+        "msgStr": "Eskiden Kaya'yı arkadaşıyla birlikte sürekli bu yoldan yürürken görürdüm."
+      },
+      {
+        "msgID": "MAP35_E_L0019",
+        "msgStr": "Diğer kız, kısa saçlı ve gözlüklü, kibar görünümlü genç bir hanımdı."
+      },
+      {
+        "msgID": "map35_e_EP01_lmap_JIJO_04_008",
+        "msgStr": "Bilgili Beyefendi"
+      },
+      {
+        "msgID": "MAP35_E_L0020",
+        "msgStr": "Böyle bir zamanda birinin Daidouji Konağı'nı ziyaret etmesi tuhaf."
+      },
+      {
+        "msgID": "MAP35_E_L0021",
+        "msgStr": "Gelenlerin çoğu para koparma peşinde ama şu sıralar maddi durumları pek iyi değil..."
+      },
+      {
+        "msgID": "map35_e_EP01_lmap_JIJO_05_009",
+        "msgStr": "Bilgili Beyefendi"
+      },
+      {
+        "msgID": "MAP35_E_L0022",
+        "msgStr": "Doğum günü yaklaşan birine göre Kaya pek mutlu görünmüyordu."
+      },
+      {
+        "msgID": "MAP35_E_L0023",
+        "msgStr": "Sanırım ailenin içinde bulunduğu durum kutlama hevesini kaçırıyor."
+      },
+      {
+        "msgID": "map35_e_EP01_lmap_JIJO_06_010",
+        "msgStr": "Bilgili Beyefendi"
+      },
+      {
+        "msgID": "MAP35_E_L0024",
+        "msgStr": "Bir iki gün önce Kiyoshi'yle karşılaştım."
+      },
+      {
+        "msgID": "MAP35_E_L0025",
+        "msgStr": "Çantasını düşürdü, yere çarpınca içini gördüm. Altın, mücevher ve antikalarla doluydu."
+      },
+      {
+        "msgID": "MAP35_E_L0026",
+        "msgStr": "Muhtemelen onları rehin bırakmaya gidiyordu. Duyduğuma göre alacaklılarla başı dertteymiş."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_mes01_011",
+        "msgStr": "Nasırlaşmış İşçi"
+      },
+      {
+        "msgID": "MAP35_E_L0027",
+        "msgStr": "Burası Kırmızı Fener Mahallesi evlat. <IT_S>Çok<IT_E> çabuk büyümek istemezsin, değil mi?"
+      },
+      {
+        "msgID": "MAP35_E_L0028",
+        "msgStr": "Senin gibi bir okul çocuğuna göre bir yer değil, ne demek istediğimi anlıyorsan."
+      },
+      {
+        "msgID": "MAP35_E_L0029",
+        "msgStr": "Tabii burada olmak için Patron'dan izin almadıysan."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_mes02a_012",
+        "msgStr": "Dikkatle İnceleyen Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0030",
+        "msgStr": "Şuradaki fabrikayı Kırmızı Fener Mahallesi müşterileri için otoparka çevirmeyi planlıyoruz."
+      },
+      {
+        "msgID": "MAP35_E_L0031",
+        "msgStr": "Bittiğinde sen de kullanabilirsin ama şimdilik oraya girmesen iyi olur bence."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_mes02b_013",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP35_E_L0032",
+        "msgStr": "Görünüşe göre geçmemize izin vermeyecek."
+      },
+      {
+        "msgID": "MAP35_E_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_MLK_01_014",
+        "msgStr": "Donuk Bakışlı Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0034",
+        "msgStr": "Tsukudo-cho çıkışlı 14 numaralı Kuzunoha, Ginza İstasyonu'na ulaştı."
+      },
+      {
+        "msgID": "MAP35_E_L0035",
+        "msgStr": "İstasyonun önünden kuzeye dönüp <COLOR 1>Shin-Sekai<COLOR 0>'ye ilerleme olasılığı yüksek."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_MLK_02_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_E_L0036",
+        "msgStr": "> Kız aynı donuk ifadeyle uzaklaştı..."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_MLK_03_016",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP35_E_L0037",
+        "msgStr": "O da kimdi? Shin-Sekai hakkında ne dedi öyle?"
+      },
+      {
+        "msgID": "MAP35_E_L0038",
+        "msgStr": "Sözü geçmişken... Acaba Shin-Sekai'nin sahibi ne yapıyor?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_01_017",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0039",
+        "msgStr": "Kırmızı Pelerin mi? Ha, gazetelerdeki şu gizemli adamı diyorsun."
+      },
+      {
+        "msgID": "MAP35_E_L0040",
+        "msgStr": "Cidden vızır vızır koşturuyor, değil mi? Keşke ben de yapabilsem. O zaman tren bileti almama gerek kalmazdı."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_02_018",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0041",
+        "msgStr": "Kırmızı Pelerin mi? Ha, gazetelerdeki şu gizemli adamı diyorsun."
+      },
+      {
+        "msgID": "MAP35_E_L0042",
+        "msgStr": "Cidden vızır vızır koşturuyor, değil mi? Keşke ben de yapabilsem. O zaman çekçeklere binmeme gerek kalmazdı."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_03_019",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0043",
+        "msgStr": "Kırmızı Pelerin mi? Ha, gazetelerdeki şu gizemli adamı diyorsun."
+      },
+      {
+        "msgID": "MAP35_E_L0044",
+        "msgStr": "Cidden vızır vızır koşturuyor, değil mi? Keşke ben de yapabilsem. O zaman yanımda taksi parası taşımama gerek kalmazdı."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_04_020",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0045",
+        "msgStr": "Kırmızı Pelerin mi? Ha, gazetelerdeki şu gizemli adamı diyorsun."
+      },
+      {
+        "msgID": "MAP35_E_L0046",
+        "msgStr": "Cidden vızır vızır koşturuyor, değil mi? Acaba yarışsalar kim kazanır, o mu yoksa taksi mi?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_05_021",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0047",
+        "msgStr": "Kırmızı Pelerin mi? Ha, gazetelerdeki şu gizemli adamı diyorsun."
+      },
+      {
+        "msgID": "MAP35_E_L0048",
+        "msgStr": "Cidden vızır vızır koşturuyor, değil mi? Bacakları bayağı güçlü olmalı."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP03_01_022",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0049",
+        "msgStr": "Kırmızı Pelerin'in Ginza-cho'da tekrar görüldüğüne dair bir söylenti var."
+      },
+      {
+        "msgID": "MAP35_E_L0050",
+        "msgStr": "Aynı anda kaç yerde birden olabiliyor bu adam?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP04_01_023",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0051",
+        "msgStr": "Harumi-cho ha? Oraya her gittiğimde kendimi küçücük hissediyorum."
+      },
+      {
+        "msgID": "MAP35_E_L0052",
+        "msgStr": "O kadar savaş gemisi beni Japonya'nın geleceği hakkında düşündürüyor."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP04_02_024",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0053",
+        "msgStr": "Hey, sence de bir yabancıya benzemiyor..."
+      },
+      {
+        "msgID": "MAP35_E_L0054",
+        "msgStr": "Yok ya, sanırım benzemiyorum. Japon'dan başka bir şey olamam."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP04_03_025",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0055",
+        "msgStr": "Hey, sence de bir yabancıya benzemiyor..."
+      },
+      {
+        "msgID": "MAP35_E_L0056",
+        "msgStr": "Yok ya, sanırım benzemiyorum. Kesinlikle Japon gibi görünüyorum."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP05_01_026",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0057",
+        "msgStr": "Kasumidai ha? Oraya her gittiğimde çok boğucu bir havası oluyor."
+      },
+      {
+        "msgID": "MAP35_E_L0058",
+        "msgStr": "Gidersen ne demek istediğimi anlarsın."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP05_02_027",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0059",
+        "msgStr": "Kasumidai'de silahları öylece ortalıkta bıraktıklarını gördün mü?"
+      },
+      {
+        "msgID": "MAP35_E_L0060",
+        "msgStr": "Başkenti koruduklarını biliyorum ama bu biraz ürkütücü değil mi?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP05_03_028",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0061",
+        "msgStr": "Hükümetin Washington Deniz Antlaşması'ndan pek memnun olduğunu sanmıyorum."
+      },
+      {
+        "msgID": "MAP35_E_L0062",
+        "msgStr": "Kongo'nun ve hatta ondan sonraki savaş gemisinin bile neredeyse tamamlandığını okumuştum."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP06_01_029",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0063",
+        "msgStr": "Arkadaşım geçenlerde düzenli bir ilişkiye başladı. Kız için deli oluyor."
+      },
+      {
+        "msgID": "MAP35_E_L0064",
+        "msgStr": "Ama hâlâ ailesiyle yaşıyor, o yüzden nasıl bir gelecekleri olur bilemiyorum."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP06_02_030",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0065",
+        "msgStr": "Ouran üniformalı şu kız senin kız arkadaşın mı? Sevimliymiş ama..."
+      },
+      {
+        "msgID": "MAP35_E_L0066",
+        "msgStr": "Derslerine daha çok odaklanman gerekmez mi? Sonuçta bir öğrencisin."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP06_03_031",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0067",
+        "msgStr": "Belki ben de nasıl kız arkadaş edineceğimi düşünmeliyim..."
+      },
+      {
+        "msgID": "MAP35_E_L0068",
+        "msgStr": "K-Kendim yapacağımdan değil ha! Sadece süreci incelemek anlamında diyorum!"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP07_01_032",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0069",
+        "msgStr": "Ş-Şu deniz subayı, yüzünde ben olan..."
+      },
+      {
+        "msgID": "MAP35_E_L0070",
+        "msgStr": "Yanımdan geçerken çok sert görünüyordu... Gülümsemeyi biliyor mu acaba?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP08_01_033",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0071",
+        "msgStr": "Cızzz... Burası Sakuradayama yayın istasyonu. Cızzz..."
+      },
+      {
+        "msgID": "MAP35_E_L0072",
+        "msgStr": "Radyo taklidim nasıl? Geçen gün dinlerken bir anda aklıma geldi."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP10_01_034",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0073",
+        "msgStr": "Az önce buradan geçen şapkalı adam senin patronun değil mi?"
+      },
+      {
+        "msgID": "MAP35_E_L0074",
+        "msgStr": "Oldukça asık suratlı görünüyordu. Şakalara hiç gülmeyecek biri gibi duruyor."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP10_02_035",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0075",
+        "msgStr": "Sakallı bir adamın Narumi Dedektiflik Bürosu'na girdiğini gördüm."
+      },
+      {
+        "msgID": "MAP35_E_L0076",
+        "msgStr": "Potansiyel bir müşteriyse diye birinin gidip onunla konuşması gerekmez mi?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP10_03_036",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0077",
+        "msgStr": "O-O da neydi öyle? Az önce yükselen şu ışık topu?"
+      },
+      {
+        "msgID": "MAP35_E_L0078",
+        "msgStr": "Çok devasa ve parlaktı... ama tuhaf bir şekilde uğursuzdu da."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP11_01_037",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0079",
+        "msgStr": "Ben burada olduğum ve canavar Koutou-ku'da olduğu için güvende olduğumu sanıyordum."
+      },
+      {
+        "msgID": "MAP35_E_L0080",
+        "msgStr": "Ama yürüyebiliyor, o yüzden pek bir farkı yok sanırım..."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP11_02_038",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0081",
+        "msgStr": "Baştan aşağı siyahlar giymiş bir yabancı yanıma gelip benimle konuşmaya başladı."
+      },
+      {
+        "msgID": "MAP35_E_L0082",
+        "msgStr": "\"Buralarda iyi bir bar var mı? Biraz votka fena olmazdı,\" dedi."
+      },
+      {
+        "msgID": "MAP35_E_L0083",
+        "msgStr": "Ben de onu Ginza-cho yakınlarındaki gazozcuya yönlendirdim."
+      },
+      {
+        "msgID": "MAP35_E_L0084",
+        "msgStr": "Ama kim reşit olmayan birine barların yerini sorar ki? O kadar büyük mü görünüyorum?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP11_03_039",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0085",
+        "msgStr": "Yanındaki o yabancı, yoldan geçen her kadına asılmaya çalıştı."
+      },
+      {
+        "msgID": "MAP35_E_L0086",
+        "msgStr": "Gerçi hepsi onu görmezden geldi. Böyle bir zamanda ne bekliyordu ki?"
+      },
+      {
+        "msgID": "MAP35_E_L0087",
+        "msgStr": "Sanırım birine fazla sırnaşınca birisi ona yumruğu çaktı."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc04_EP12_01_040",
+        "msgStr": "Aylak Erkek Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0088",
+        "msgStr": "Siyahlar içindeki şu yabancı arkadaşın..."
+      },
+      {
+        "msgID": "MAP35_E_L0089",
+        "msgStr": "Az önce boynunu kütletip buradan geçti."
+      },
+      {
+        "msgID": "MAP35_E_L0090",
+        "msgStr": "Acaba nereye gidiyor."
+      },
+      {
+        "msgID": "MAP35_E_L0091",
+        "msgStr": "Gerçi yüzündeki o sinsi ifadeye bakılırsa tahmin edebiliyorum..."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_01_041",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0092",
+        "msgStr": "Kırmızı Pelerin buralarda dolaştığı için buraya tek başıma gelmememi söylediler."
+      },
+      {
+        "msgID": "MAP35_E_L0093",
+        "msgStr": "Kanımı içeceğini söylediler. Ama Kırmızı Pelerin diye bir şey olmadığını biliyorum."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_02_042",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0094",
+        "msgStr": "Kırmızı Pelerin'in tehlikeli olduğunu ve buraya tekrar yalnız gelirsem beni tutuklayacaklarını söylediler."
+      },
+      {
+        "msgID": "MAP35_E_L0095",
+        "msgStr": "Kanımı içeceğini söylediler. Ama bir insan neden kan içsin ki? Tadı iğrenç."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_03_043",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0096",
+        "msgStr": "Kırmızı Pelerin buralarda dolaştığı için buraya tek başıma gelmememi söylediler."
+      },
+      {
+        "msgID": "MAP35_E_L0097",
+        "msgStr": "Kanımı içip beni Kırmızı Fener Mahallesi'ne götüreceğini söylediler."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_04_044",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0098",
+        "msgStr": "Kırmızı Pelerin buralarda dolaştığı için buraya tek başıma gelmememi söylediler."
+      },
+      {
+        "msgID": "MAP35_E_L0099",
+        "msgStr": "Ama bunun çocukları korkutup söz dinletmek için uydurulmuş bir yalan olduğunu biliyorum... değil mi?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_05_045",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0100",
+        "msgStr": "Kırmızı Pelerin'i gördüm! Gerçekmiş! Ginza-cho'ya gidiyordu!"
+      },
+      {
+        "msgID": "MAP35_E_L0101",
+        "msgStr": "Annemin sözünü dinlemeyip buraya yalnız geldiğim için beni cezalandırmaya gelmiş olmalı!"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP03_01_046",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0102",
+        "msgStr": "Kırmızı Pelerin Ginza-cho'dayken gözlerimin içine baktı..."
+      },
+      {
+        "msgID": "MAP35_E_L0103",
+        "msgStr": "Korkmuş... görünüyordu. Ağlayacak sandım."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP04_01_047",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0104",
+        "msgStr": "Öğretmenim yabancıların pirinçten çok ekmek yedikleri için bağırsaklarının daha kısa olduğunu söyledi."
+      },
+      {
+        "msgID": "MAP35_E_L0105",
+        "msgStr": "Bu yüzden gövdeleri daha kısa, bacakları ise daha uzun görünüyormuş."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP04_02_048",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0106",
+        "msgStr": "Öğretmenim yabancıların çoğunlukla et yedikleri için bolca protein aldıklarını söyledi."
+      },
+      {
+        "msgID": "MAP35_E_L0107",
+        "msgStr": "Bu yüzden uzun boylu ve çok kaslı oluyorlarmış!"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP04_03_049",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0108",
+        "msgStr": "Öğretmenim bir erkeğin bir kadına yüzük vermesinin denizaşırı bir gelenek olduğunu söyledi."
+      },
+      {
+        "msgID": "MAP35_E_L0109",
+        "msgStr": "Birbirlerini çok sevdikleri anlamına geliyormuş."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP05_01_050",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0110",
+        "msgStr": "Amcam ordudan ayrılıp eve döneceğini söyledi."
+      },
+      {
+        "msgID": "MAP35_E_L0111",
+        "msgStr": "\"Sonunda ailemi görebileceğim!\" diyerek küçük bir çocuk gibi heyecanlanmıştı."
+      },
+      {
+        "msgID": "MAP35_E_L0112",
+        "msgStr": "Amcam ordudan ayrılıp eve döneceğini söyledi."
+      },
+      {
+        "msgID": "MAP35_E_L0113",
+        "msgStr": "Barış zamanında yapacak bir şey olmadığı için pek çok askerin ayrıldığını söyledi."
+      },
+      {
+        "msgID": "MAP35_E_L0114",
+        "msgStr": "Amcam ordudan ayrılıp eve döneceğini söyledi."
+      },
+      {
+        "msgID": "MAP35_E_L0115",
+        "msgStr": "\"Silahsızlanma\" iyi bir şey, değil mi? Gerçi amcam bazı askerlerin buna üzüldüğünü söyledi."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP06_01_051",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0116",
+        "msgStr": "Abi, senin kız arkadaşın var mı?"
+      },
+      {
+        "msgID": "MAP35_E_L0117",
+        "msgStr": "Eminim vardır. Yüzün çok güzel... Bahse girerim bir sürü kalp kırmışsındır."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP06_02_052",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0118",
+        "msgStr": "Aa! Yanındaki şu kız senin kız arkadaşın, değil mi!?"
+      },
+      {
+        "msgID": "MAP35_E_L0119",
+        "msgStr": "Kız arkadaşın, değil mi!? Şimdiye kadar kaç kız arkadaşın oldu? Kaç tane!?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP06_03_053",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0120",
+        "msgStr": "Annem çapkın erkeklerin kadınları ağlatan kötü kalpli canavarlar olduğunu söylemişti."
+      },
+      {
+        "msgID": "MAP35_E_L0121",
+        "msgStr": "Abi, sen çapkın mısın? O kızı ağlatacak mısın!?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP07_01_054",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0122",
+        "msgStr": "Ne? L-Lanet mi!? Hayır, öyle şeyler söyleme!"
+      },
+      {
+        "msgID": "MAP35_E_L0123",
+        "msgStr": "Bana o korkunç Kırmızı Pelerin'i gördüğüm zamanı hatırlatıyor..."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP08_01_055",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0124",
+        "msgStr": "Geçen gün evde yalnızken hiçliğin ortasından gelen bir ses duydum."
+      },
+      {
+        "msgID": "MAP35_E_L0125",
+        "msgStr": "Meğer sadece radyoymuş ama çok korktum."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP10_01_056",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0126",
+        "msgStr": "Askerler iyi maaş ve emekli aylığı alıyor."
+      },
+      {
+        "msgID": "MAP35_E_L0127",
+        "msgStr": "Ama ben bir askerle çıkmazdım. Uzak bir yere tayini çıksa onu bir daha hiç göremezdim."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP10_02_057",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0128",
+        "msgStr": "Askerler iyi maaş ve emekli aylığı alıyor."
+      },
+      {
+        "msgID": "MAP35_E_L0129",
+        "msgStr": "Ama ben bir askerle çıkmazdım. Öyle havai fişek fırlatmak çok çocukça."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP11_01_058",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0130",
+        "msgStr": "Gökyüzünden devasa kırmızı bir şey indi!"
+      },
+      {
+        "msgID": "MAP35_E_L0131",
+        "msgStr": "Sonra denizden bir canavar çıktı! Neler oluyor!?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP11_02_059",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0132",
+        "msgStr": "Az önce simsiyah giyinmiş tuhaf bir adam benimle konuşuyordu."
+      },
+      {
+        "msgID": "MAP35_E_L0133",
+        "msgStr": "\"Yaklaşık on yıl içinde oldukça hoş bir devushku olacaksın,\" dedi."
+      },
+      {
+        "msgID": "MAP35_E_L0134",
+        "msgStr": "Onu duymazdan geldim, o da gazozcuya girdi. Devushku ne demek ki...?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP11_03_060",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0135",
+        "msgStr": "Yanındaki o adam gördüğü bütün kızlarla flört ediyordu."
+      },
+      {
+        "msgID": "MAP35_E_L0136",
+        "msgStr": "Ama hiçbiri ona yüz vermedi. Ne bekliyordu ki? Şu sıralar kimsenin öyle şeylere havası yok."
+      },
+      {
+        "msgID": "MAP35_E_L0137",
+        "msgStr": "Fazla yılışık davrandığı için bir kız ona tokat atınca onu eve sırtında taşımak zorunda kaldığını gördüm."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc05_EP12_01_061",
+        "msgStr": "Bilmiş Kız"
+      },
+      {
+        "msgID": "MAP35_E_L0138",
+        "msgStr": "Canavar düşmeden hemen önce gökyüzünde parlak kırmızı bir parıltı oldu."
+      },
+      {
+        "msgID": "MAP35_E_L0139",
+        "msgStr": "Bir anlığına... bir kedi miyavlaması duyduğumu sandım."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc06_01_062",
+        "msgStr": "Gözleri Dolmuş Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0140",
+        "msgStr": "On üç gün içinde Kırmızı Pelerin'i unutamazsan öleceğini söylüyorlar!"
+      },
+      {
+        "msgID": "MAP35_E_L0141",
+        "msgStr": "Ama bütün manşetlerde o varken onu nasıl unutabilirim ki!?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc06_02_063",
+        "msgStr": "Gözleri Dolmuş Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0142",
+        "msgStr": "On üç gün içinde Kırmızı Pelerin'i unutamazsan öleceğini söylüyorlar!"
+      },
+      {
+        "msgID": "MAP35_E_L0143",
+        "msgStr": "Ama arkadaşlarım sürekli bunu anlatıp dururken onu nasıl unutabilirim ki!?"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc06_03_064",
+        "msgStr": "Gözleri Dolmuş Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0144",
+        "msgStr": "On üç gün içinde Kırmızı Pelerin'i unutamazsan öleceğini söylüyorlar!"
+      },
+      {
+        "msgID": "MAP35_E_L0145",
+        "msgStr": "B-Bunu dört kişiye daha anlatmazsam bir sonraki dolunayda ölecekmişim!"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc06_04_065",
+        "msgStr": "Gözleri Dolmuş Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0146",
+        "msgStr": "On üç gün içinde Kırmızı Pelerin'i unutamazsan öleceğini söylüyorlar!"
+      },
+      {
+        "msgID": "MAP35_E_L0147",
+        "msgStr": "B-Bunu dört kişiye daha anlatmazsam bir sonraki dolunayda ölecekmişim!"
+      },
+      {
+        "msgID": "MAP35_E_L0148",
+        "msgStr": "Ama sadece iki arkadaşım var, yani hiç şansım yok... Kırmızı Pelerin beni öldürecek!"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc06_05_066",
+        "msgStr": "Gözleri Dolmuş Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0149",
+        "msgStr": "Kırmızı Pelerin Ginza-cho'da ortaya çıktı, değil mi?"
+      },
+      {
+        "msgID": "MAP35_E_L0150",
+        "msgStr": "On üç gün geçti ve onu hâlâ unutamadım... Beni öldürecek!"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc06_EP03_01_067",
+        "msgStr": "Gözleri Dolmuş Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0151",
+        "msgStr": "Anlamıyorum. On üç gün boyunca Kırmızı Pelerin'den başka bir şey düşünemedim ama hâlâ hayattayım."
+      },
+      {
+        "msgID": "MAP35_E_L0152",
+        "msgStr": "Sanırım şu \"arkadaşımın arkadaşı\" hikayelerinden biriydi. Ayrıntılar zaten biraz bulanıktı..."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc07_01_068",
+        "msgStr": "Kaba Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0153",
+        "msgStr": "Sert birine benziyorsun delikanlı. Birkaç kavgaya karıştın galiba, ha?"
+      },
+      {
+        "msgID": "MAP35_E_L0154",
+        "msgStr": "Belki de burada, Fukagawa-cho'da bir süre ortalarda görünmesen iyi olur."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc07_02_069",
+        "msgStr": "Kaba Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0155",
+        "msgStr": "Daikoku-yu tam olarak Kanto Haguro Ailesi'ne ait değil ama mekan Satake'ye kiralanmış durumda."
+      },
+      {
+        "msgID": "MAP35_E_L0156",
+        "msgStr": "Daikoku-yu'nun bu sayede sağlam kâr ettiğine bahse girebilirsin."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc07_03_070",
+        "msgStr": "Kaba Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0157",
+        "msgStr": "Satake tam bir ustadır. Hem Kırmızı Fener Mahallesi'yle hem de genç serserilerle iş tutar."
+      },
+      {
+        "msgID": "MAP35_E_L0158",
+        "msgStr": "Hem kibardır hem de güçlü! Adam gibi adamdır!"
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc07_04_071",
+        "msgStr": "Kaba Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0159",
+        "msgStr": "Duyduğuma göre Kırmızı Pelerin önüne gelene saldırıyormuş."
+      },
+      {
+        "msgID": "MAP35_E_L0160",
+        "msgStr": "Kanto Haguro Ailesi öyle değildir. Serseridirler ama halkın serserisidirler."
+      },
+      {
+        "msgID": "map35_e_EP02_lmap_npc07_05_072",
+        "msgStr": "Kaba Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0161",
+        "msgStr": "Şu Kırmızı Pelerin bayağı kurnaz, Fukagawa-cho yerine Ginza-cho'ya gidiyor."
+      },
+      {
+        "msgID": "MAP35_E_L0162",
+        "msgStr": "Gerçek erkeklerle kavgada iki dakika bile dayanamayacağını biliyor tabii."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP03_01_073",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0163",
+        "msgStr": "Daidouji Tekstil ileride, sol tarafta."
+      },
+      {
+        "msgID": "MAP35_E_L0164",
+        "msgStr": "Acele etsen iyi olur, çünkü yakında insanlara <IT_S>eskiden<IT_E> nerede olduğunu tarif ediyor olacağım, ne demek istediğimi anlıyorsan."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP04_01_074",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0165",
+        "msgStr": "Polis burada ne yaşandığını araştırıyor."
+      },
+      {
+        "msgID": "MAP35_E_L0166",
+        "msgStr": "Buranın lanetli olduğunu ben bile anlayabiliyorum. Kim lanetli bir fabrikayı satın almak ister ki?"
+      },
+      {
+        "msgID": "MAP35_E_L0167",
+        "msgStr": "Görünüşe göre bu fabrikanın tuhaf olaylarla dolu bir geçmişi var..."
+      },
+      {
+        "msgID": "MAP35_E_L0168",
+        "msgStr": "Başkan Kiyoshi burayı çok severdi... Yoksa bu lanetin sebebi...? Yok canım, boş ver."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP05_01_075",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0169",
+        "msgStr": "Polis sonunda fabrikadan çekildi."
+      },
+      {
+        "msgID": "MAP35_E_L0170",
+        "msgStr": "Hemen ardından birkaç çocuk içeri sıvıştı."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP05_02_076",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0171",
+        "msgStr": "Birkaç küçük çocuk birlikte Daidouji fabrikasına girdi."
+      },
+      {
+        "msgID": "MAP35_E_L0172",
+        "msgStr": "Biri erkek biri kız, ikisi de ilkokul çağındaydı."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP06_01_077",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0173",
+        "msgStr": "Artık o fabrikanın ne bir sahibi var ne de bakanı. Tamamen sahipsiz kaldı."
+      },
+      {
+        "msgID": "MAP35_E_L0174",
+        "msgStr": "İnsansız bir bina boş bir mide gibidir; ölene kadar eriyip gider."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP07_01_078",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0175",
+        "msgStr": "O çocuk peşinde küçük kızla birlikte fabrikadan ayrıldı."
+      },
+      {
+        "msgID": "MAP35_E_L0176",
+        "msgStr": "Kızın yüzünden yaşlar süzülüyordu. Acaba ne oldu..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP08_01_079",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0177",
+        "msgStr": "Fabrikadan çıkan o çocukları biliyor musun?"
+      },
+      {
+        "msgID": "MAP35_E_L0178",
+        "msgStr": "İstasyona doğru gittiklerini gördüm. Trenle nereye gitmeyi planlıyorlar acaba...?"
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP10_01_080",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0179",
+        "msgStr": "Acaba fabrikada oynayan o çocuklar iyi mi..."
+      },
+      {
+        "msgID": "MAP35_E_L0180",
+        "msgStr": "Şu kahrolası sıkıyönetim yüzünden, kendi iyilikleri için o trenle doğruca evlerine gitmiş olmalarını umuyorum."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP11_01_081",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0181",
+        "msgStr": "Acaba fabrikada oynayan o çocuklar iyi mi..."
+      },
+      {
+        "msgID": "MAP35_E_L0182",
+        "msgStr": "Canavar Koutou-ku'nun tepesine çökmüşken, umarım o trenle doğruca evlerine gitmişlerdir."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP11_02_082",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0183",
+        "msgStr": "Duyduğuma göre şu bilim laboratuvarının zımbırtısı kalkışa hazırmış. Doktor onunla bayağı uğraştı."
+      },
+      {
+        "msgID": "MAP35_E_L0184",
+        "msgStr": "Görünüşe göre sen ona yardım ettiğinden beri her şey tıkırında gidiyor."
+      },
+      {
+        "msgID": "map35_e_lmap_npc08_EP12_01_083",
+        "msgStr": "Bitkin Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0185",
+        "msgStr": "Pelerinli adamlar, depremler, canavarlar... Eskiden Daidouji fabrikasının lanetli olduğunu düşünürdüm."
+      },
+      {
+        "msgID": "MAP35_E_L0186",
+        "msgStr": "Ama bina hâlâ ayakta, o yüzden acaba başkanın sevgisiyle <IT_S>kutsanmış<IT_E> mı diye merak ediyorum."
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP04_01_084",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0187",
+        "msgStr": "Yabancı erkekler çok havalı ve kültürlü oluyor!"
+      },
+      {
+        "msgID": "MAP35_E_L0188",
+        "msgStr": "Keşke içlerinden biri gelip benimle konuşsa..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP04_02_085",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0189",
+        "msgStr": "Geçen gün sonunda yabancı bir erkek benimle konuştu!"
+      },
+      {
+        "msgID": "MAP35_E_L0190",
+        "msgStr": "Tam bir yılan gibiydi... ama yabancıydı! Çok heyecanlandım!"
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP04_03_086",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0191",
+        "msgStr": "Geçen gün sakallı ve simsiyah giyimli yabancı bir adam benimle konuştu."
+      },
+      {
+        "msgID": "MAP35_E_L0192",
+        "msgStr": "Ama saldırgan ve cidden ürkütücü görünüyordu, ben de onu görmezden geldim."
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP05_01_087",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0193",
+        "msgStr": "Kara Kuvvetleri ile Deniz Kuvvetleri pek iyi anlaşamıyor."
+      },
+      {
+        "msgID": "MAP35_E_L0194",
+        "msgStr": "Ben Deniz Kuvvetleri kızıyım! Harumi-cho'yu gerçekten çok seviyorum!"
+      },
+      {
+        "msgID": "MAP35_E_L0195",
+        "msgStr": "Kara Kuvvetleri ile Deniz Kuvvetleri pek iyi anlaşamıyor."
+      },
+      {
+        "msgID": "MAP35_E_L0196",
+        "msgStr": "Ben Deniz Kuvvetleri kızıyım! Kasumidai çok sıkıcı."
+      },
+      {
+        "msgID": "MAP35_E_L0197",
+        "msgStr": "Kara Kuvvetleri ile Deniz Kuvvetleri pek iyi anlaşamıyor."
+      },
+      {
+        "msgID": "MAP35_E_L0198",
+        "msgStr": "Ben Deniz Kuvvetleri kızıyım! Arabaya binmektense gemiye binmeyi tercih ederim."
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP06_01_088",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0199",
+        "msgStr": "Tek bir kıza göre içimde fazla enerji var. Heyecanımı paylaşacak birine ihtiyacım var!"
+      },
+      {
+        "msgID": "MAP35_E_L0200",
+        "msgStr": "Uzun boylu, kibar ve bana tam uyacak birini arıyorum!"
+      },
+      {
+        "msgID": "MAP35_E_L0201",
+        "msgStr": "Vay canına... İkiniz de çok ince yapılısınız. İnsan nasıl başa çıkacağını şaşırıyor..."
+      },
+      {
+        "msgID": "MAP35_E_L0202",
+        "msgStr": "Tek bir kıza göre içimde fazla enerji var. Heyecanımı paylaşacak birine ihtiyacım var!"
+      },
+      {
+        "msgID": "MAP35_E_L0203",
+        "msgStr": "Ha? \"Muhteşem Bilim Laboratuvarı\" mı? Ha, Senju-ku'daki şu hurdalığı diyorsun?"
+      },
+      {
+        "msgID": "MAP35_E_L0204",
+        "msgStr": "Oraya kız mı götürdün!? Oldukça... sıradışı bir buluşma mekanıymış."
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP07_01_089",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0205",
+        "msgStr": "Denizci askerlerin hepsi solgun ve dengesiz görünüyor."
+      },
+      {
+        "msgID": "MAP35_E_L0206",
+        "msgStr": "Deniz Kuvvetleri aşçısı bozuk balık falan mı yedirdi acaba?"
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP08_01_090",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0207",
+        "msgStr": "Waden Bir mi? Evet, sınıf arkadaşlarım arasında çok popüler. Radyo dalgalarının sağlığa iyi geldiğini söylüyorlar!"
+      },
+      {
+        "msgID": "MAP35_E_L0208",
+        "msgStr": "Dur bakalım, bu gerçekten doğru olabilir mi? Şey, belki de bir şeyleri yanlış anlamışımdır..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP10_01_091",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0209",
+        "msgStr": "Az önce kırmızı üniformalı bazı Özel Muhafızların Harumi-cho'ya girdiğini gördüm."
+      },
+      {
+        "msgID": "MAP35_E_L0210",
+        "msgStr": "Sonra bütün şehir çıldırdı! Ne oldu öyle!?"
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP10_02_092",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0211",
+        "msgStr": "O kırmızı Özel Muhafızlar Harumi-cho'ya gidip kargaşa çıkardılar..."
+      },
+      {
+        "msgID": "MAP35_E_L0212",
+        "msgStr": "Sonra da gökyüzüne tuhaf bir şey fırlattılar..."
+      },
+      {
+        "msgID": "MAP35_E_L0213",
+        "msgStr": "Bu kadarı da biraz fazla heyecan!"
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP11_01_093",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0214",
+        "msgStr": "Önce kırmızılı Özel Muhafızlar, şimdi de devasa bir canavar mı?"
+      },
+      {
+        "msgID": "MAP35_E_L0215",
+        "msgStr": "Başkent <IT_S>fazla<IT_E> heyecanlı olmaya başladı! İlginç zamanlarda yaşamak gibi bir lanetim var..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP11_02_094",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0216",
+        "msgStr": "O şeyle savaşacak mısın? Bunun iyi bir fikir olduğundan emin misin?"
+      },
+      {
+        "msgID": "MAP35_E_L0217",
+        "msgStr": "Çok cesurca olduğu kesin ama kendini fazla kaptırma..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc09_EP12_01_095",
+        "msgStr": "Heyecanlı Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0218",
+        "msgStr": "Acaba o canavar kalıcı olarak mı burada."
+      },
+      {
+        "msgID": "MAP35_E_L0219",
+        "msgStr": "Keşke diğeriyle birlikte evine dönseydi."
+      },
+      {
+        "msgID": "map35_e_lmap_npc10_EP04_01_096",
+        "msgStr": "Karnaval Kadını"
+      },
+      {
+        "msgID": "MAP35_E_L0220",
+        "msgStr": "Burada para kazanmak kolay."
+      },
+      {
+        "msgID": "MAP35_E_L0221",
+        "msgStr": "Kanun beni korkutmaz. Yardımcım var. Hepsi onun sayesinde."
+      },
+      {
+        "msgID": "map35_e_lmap_npc10_EP04_02_097",
+        "msgStr": "Karnaval Kadını"
+      },
+      {
+        "msgID": "MAP35_E_L0222",
+        "msgStr": "Elfman iyi adam. Onun sayesinde geçimimi sağlıyorum."
+      },
+      {
+        "msgID": "MAP35_E_L0223",
+        "msgStr": "Ama... aklı fikri fesat. Çoğu erkekten daha fesat."
+      },
+      {
+        "msgID": "map35_e_lmap_npc10_EP04_03_098",
+        "msgStr": "Karnaval Kadını"
+      },
+      {
+        "msgID": "MAP35_E_L0224",
+        "msgStr": "Elfman tıknaz, orta yaşlı adam diye duydum."
+      },
+      {
+        "msgID": "MAP35_E_L0225",
+        "msgStr": "Buluştuğumuzda bir deri bir kemikti. Çok meşgul olmalı, yemek yemeye vakti yok."
+      },
+      {
+        "msgID": "map35_e_lmap_npc11_EP04_01_099",
+        "msgStr": "Deniz Kuvvetleri Muhafızı"
+      },
+      {
+        "msgID": "MAP35_E_L0226",
+        "msgStr": "Hop, dur bakalım. İkile ufaklık. Buradan sonrası tehlikeli."
+      },
+      {
+        "msgID": "MAP35_E_L0227",
+        "msgStr": "Korkunç adamlar seni radyo dalgalarıyla çarpar. Toz olsan iyi edersin."
+      },
+      {
+        "msgID": "map35_e_lmap_npc11_EP08_01_100_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_E_L0228_01",
+        "msgStr": "> Raidou yaklaşınca Deniz Kuvvetleri muhafızı sert tavrını bıraktı."
+      },
+      {
+        "msgID": "map35_e_lmap_npc11_EP08_01_100",
+        "msgStr": "Deniz Kuvvetleri Muhafızı"
+      },
+      {
+        "msgID": "MAP35_E_L0228",
+        "msgStr": "Üstlerim senden bahsetti. Raidou Kuzunoha, değil mi?"
+      },
+      {
+        "msgID": "MAP35_E_L0229",
+        "msgStr": "Waden Bir hakkında <IT_S>biz<IT_E> bile neredeyse hiçbir şey bilmiyoruz."
+      },
+      {
+        "msgID": "MAP35_E_L0230",
+        "msgStr": "Sana güveniyoruz. Deniz Kuvvetleri'nde şansa inanmayız ama... iyi şanslar."
+      },
+      {
+        "msgID": "map35_e_lmap_npc11_EP08_02_101",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_E_L0231",
+        "msgStr": "> Deniz Kuvvetleri muhafızı selam çakıp ayrıldı."
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP05_01_102",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0232",
+        "msgStr": "Bazı Kara Kuvvetleri askerleri şunu yakalamış... Hani bilirsin! Kırmızı Pelerin! Başkent Günlüğü'nün dilinden düşürmediği."
+      },
+      {
+        "msgID": "MAP35_E_L0233",
+        "msgStr": "Onu yakaladıklarını gördüm! Sasumata ile yere mıhladılar."
+      },
+      {
+        "msgID": "MAP35_E_L0234",
+        "msgStr": "Sasumata mı?"
+      },
+      {
+        "msgID": "MAP35_E_L0235",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP35_E_L0236",
+        "msgStr": "Aa, sasumata nedir bilmiyor musun?"
+      },
+      {
+        "msgID": "MAP35_E_L0237",
+        "msgStr": "Dirgene benzer ama sadece iki ucu vardır. Suçluları yakalamak için kullanırlar."
+      },
+      {
+        "msgID": "MAP35_E_L0238",
+        "msgStr": "Zalimce görünmüş olabilir ama ordunun sivilleri koruması gerekiyor."
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP06_01_103",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0239",
+        "msgStr": "Kasumidai o casus skandalı yüzünden çalkalanıyordu ama şimdi çok daha sakin."
+      },
+      {
+        "msgID": "MAP35_E_L0240",
+        "msgStr": "İçeride neler dönüyor acaba... Neyse, uyuyan yılanı uyandırmamak en iyisi."
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP07_00_104",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0241",
+        "msgStr": "Aman Tanrım, çok karamsar görünüyorsun. Başına kötü bir şey mi geldi?"
+      },
+      {
+        "msgID": "MAP35_E_L0242",
+        "msgStr": "Eve gidip biraz uyusan iyi olur."
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP07_01_105",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0243",
+        "msgStr": "Aman Tanrım, pek iyi görünmüyorsun. Kendini iyi hissediyor musun?"
+      },
+      {
+        "msgID": "MAP35_E_L0244",
+        "msgStr": "Yerinde olsam eve gider uyurdum. Senin için aileni arayayım mı?"
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP08_01_106",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0245",
+        "msgStr": "Waden Bir'e mi gidiyorsun? Aman Tanrım, yanlış yöne gidiyorsun."
+      },
+      {
+        "msgID": "MAP35_E_L0246",
+        "msgStr": "Kule bir Kara Kuvvetleri projesi ama oraya ulaşmak için Harumi-cho'dan geçmen gerekiyor."
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP10_01_107",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0247",
+        "msgStr": "Bir sürü Özel Muhafız Koutou-ku'ya doğru gitti."
+      },
+      {
+        "msgID": "MAP35_E_L0248",
+        "msgStr": "Geçmişteki kırgınlıklar yüzünden Deniz Kuvvetleri ile barışmaya gitmiş olmalılar."
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP10_02_108",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0249",
+        "msgStr": "Ne? Kara Kuvvetleri ve Deniz Kuvvetleri birbirleriyle mi savaşıyor?"
+      },
+      {
+        "msgID": "MAP35_E_L0250",
+        "msgStr": "Aa, bu sadece ne kadar yakın olduklarının bir göstergesi. Evli çiftler bile kedi köpek gibi kavga eder."
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP11_01_109",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0251",
+        "msgStr": "Dışarıda bir canavar var ve Kara Kuvvetleri hiçbir şey yapmıyor!"
+      },
+      {
+        "msgID": "MAP35_E_L0252",
+        "msgStr": "Karargâhın onlar için önemli olduğunu biliyorum ama bizim de korunmaya ihtiyacımız var!"
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP11_02_110",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0253",
+        "msgStr": "Canavarı roketle mi yeneceksin? Sadece sen ve şu laboratuvardaki yaşlı adam ha!?"
+      },
+      {
+        "msgID": "MAP35_E_L0254",
+        "msgStr": "Bu senin işin değil! Bu ordunun meselesi. Vergilerimizi başka ne için ödüyoruz ki?"
+      },
+      {
+        "msgID": "map35_e_lmap_npc12_EP12_01_111",
+        "msgStr": "Neşeli Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0255",
+        "msgStr": "Duyduğuma göre o canavarlardan iki tane varmış! İkisi aynı anda saldıracak olursa Başkent..."
+      },
+      {
+        "msgID": "MAP35_E_L0256",
+        "msgStr": "Hım... Stratejik açıdan tam olarak öyle yapmaları daha mantıklı olurdu, değil mi?"
+      },
+      {
+        "msgID": "MAP35_E_L0257",
+        "msgStr": "O şeyleri her kim kontrol ediyorsa taktikten pek anlamıyor demektir."
+      },
+      {
+        "msgID": "map35_e_lmap_npc13_EP04_01_112",
+        "msgStr": "Nöbetçi Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0258",
+        "msgStr": "Buraya kadar <IT_S>yüzerek<IT_E> mi geldin? Dur bakalım, o zaman kıyafetlerin neden ıslak değil?"
+      },
+      {
+        "msgID": "MAP35_E_L0259",
+        "msgStr": "Her neyse, sivillerin girmesi yasak. Geriye dön! Herkes... ileri marş!"
+      },
+      {
+        "msgID": "MAP35_E_L0260",
+        "msgStr": "Casusluk olayı nedeniyle güvenliği sıkılaştırıyoruz. Kimse girip çıkamaz."
+      },
+      {
+        "msgID": "MAP35_E_L0261",
+        "msgStr": "Bu bölge güvenlik altına alındı. Geriye dön! Herkes... ileri marş!"
+      },
+      {
+        "msgID": "map35_e_lmap_npc14_EP07_01_113",
+        "msgStr": "At Üstündeki Dev Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0262",
+        "msgStr": "Görünüşe göre kuzey göğünde Büyük Ayı'nın yanında parlayan yıldızı görmüşsün."
+      },
+      {
+        "msgID": "MAP35_E_L0263",
+        "msgStr": "Ölümün gölgesi üzerinde..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc14_EP09_01_114",
+        "msgStr": "At Üstündeki Dev Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0264",
+        "msgStr": "Görünüşe göre kuzey göğünde Büyük Ayı'nın yanında parlayan yıldızı henüz görmemişsin."
+      },
+      {
+        "msgID": "MAP35_E_L0265",
+        "msgStr": "Ölümün gölgesi üzerine düştüğünde tekrar karşılaşacağız..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc15_Y_EP10_01_115",
+        "msgStr": "Yarai-ku Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0266",
+        "msgStr": "Bir sivilden korktuğuma inanamıyorum..."
+      },
+      {
+        "msgID": "MAP35_E_L0267",
+        "msgStr": "Şapkasının altındaki o bakışlar... Sıradan, kanunlara uyan bir vatandaş olmadığı kesin."
+      },
+      {
+        "msgID": "map35_e_lmap_npc15_Y_EP10_02_116",
+        "msgStr": "Yarai-ku Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0268",
+        "msgStr": "Bir sivilden korktuğuma inanamıyorum..."
+      },
+      {
+        "msgID": "MAP35_E_L0269",
+        "msgStr": "O sakallı yabancının suratı... Sıradan, kanunlara uyan bir vatandaş olmadığı kesin."
+      },
+      {
+        "msgID": "map35_e_lmap_npc16_C_EP10_01_117",
+        "msgStr": "Chujou-ku Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0270",
+        "msgStr": "Hava çok güzel ama ben burada bu çöplükte nöbet tutmaya mahkûmum."
+      },
+      {
+        "msgID": "MAP35_E_L0271",
+        "msgStr": "Böyle günlerde tek istediğim Ginza-cho'da şöyle bir yürüyüşe çıkmak."
+      },
+      {
+        "msgID": "map35_e_lmap_npc16_C_EP10_02_118",
+        "msgStr": "Chujou-ku Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0272",
+        "msgStr": "Roket fırlatma işlemi tamamlandı. Artık arkama yaslanıp rahatlamaya ve kutlama yapmaya hazırım."
+      },
+      {
+        "msgID": "MAP35_E_L0273",
+        "msgStr": "Hoş bir kızla Ginza-cho'da yürüyüşe çıkmak isterdim."
+      },
+      {
+        "msgID": "map35_e_lmap_npc17_S_EP10_01_119",
+        "msgStr": "Senju-ku Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0274",
+        "msgStr": "Kısa çöpü ben çektim, o yüzden Senju-ku'da nöbet tutmak bana kaldı."
+      },
+      {
+        "msgID": "MAP35_E_L0275",
+        "msgStr": "Devriyedeki çocuğu Kanto Haguro Ailesi hırpalamış. Umarım durumu iyidir..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc17_S_EP10_02_120",
+        "msgStr": "Senju-ku Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0276",
+        "msgStr": "Sıkıyönetim altındayız. Şehirdeki silah arkadaşım için üzülüyorum ama..."
+      },
+      {
+        "msgID": "MAP35_E_L0277",
+        "msgStr": "Fukagawa-cho'ya atanmadığım için şansıma ne kadar şükretsem az!"
+      },
+      {
+        "msgID": "map35_e_lmap_npc18_K_EP10_01_121",
+        "msgStr": "Koutou-ku Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0278",
+        "msgStr": "Şu Sıfırıncı Tümen'dekiler çok ileri gitti!"
+      },
+      {
+        "msgID": "MAP35_E_L0279",
+        "msgStr": "Deniz Kuvvetleri hakkında ne düşünürsek düşünelim..."
+      },
+      {
+        "msgID": "MAP35_E_L0280",
+        "msgStr": "B-Ben sadece burada oturdum! Hiçbir şey yapmadım! Benim suçum değil!"
+      },
+      {
+        "msgID": "map35_e_lmap_npc19_H_EP10_01_122",
+        "msgStr": "Hongo Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0281",
+        "msgStr": "Buraya kadar kimse gelmez. Açıkçası tam bir zaman kaybı."
+      },
+      {
+        "msgID": "MAP35_E_L0282",
+        "msgStr": "En azından öyle sanıyordum ama bak sen buradasın. Neyse ne, sorun çıkarmadığın sürece umurumda değil."
+      },
+      {
+        "msgID": "map35_e_lmap_npc19_H_EP10_02_123",
+        "msgStr": "Hongo Ordu Askeri"
+      },
+      {
+        "msgID": "MAP35_E_L0283",
+        "msgStr": "Hey! Çokbilmişin tekisin ha? Başkentte burnunu her yere sokup kıyıda köşede kalmış sırları mı arıyorsun?"
+      },
+      {
+        "msgID": "MAP35_E_L0284",
+        "msgStr": "Pekâlâ... sorun değil. Sen benim yoluma çıkma, ben de senin yoluna çıkmayayım."
+      },
+      {
+        "msgID": "map35_e_lmap_npc20_INARI_01_124",
+        "msgStr": "Hacca Giden Yaşlı Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0285",
+        "msgStr": "Tapınakta Inari'nin sesini duydum. Gerçekten duydum!"
+      },
+      {
+        "msgID": "MAP35_E_L0286",
+        "msgStr": "Inari'ye sıradan bir heykelmiş gibi davranırsan gökler bu küstahlığını cezalandırır."
+      },
+      {
+        "msgID": "map35_e_lmap_npc21_JANPAI_01_125",
+        "msgStr": "İçki Kokan Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0287",
+        "msgStr": "Şu hurda yığını ashlında bir hazine dağı. Herkesh bunu anlayacak kadar akıllı değil."
+      },
+      {
+        "msgID": "MAP35_E_L0288",
+        "msgStr": "Gözlerini dööört aç, tıpkı gerçek bir dedektif gibi..."
+      },
+      {
+        "msgID": "MAP35_E_L0289",
+        "msgStr": "Hay ağzımı... Bunu kaçırmamalıydım. <IT_S>Bana<IT_E> alacak daha az şey kalacak."
+      },
+      {
+        "msgID": "map35_e_lmap_npc22_EP10_STOP04_01_126",
+        "msgStr": "Yaralı Denizci Asker"
+      },
+      {
+        "msgID": "MAP35_E_L0290",
+        "msgStr": "Kaç... Nereye olursa... Çabuk ol... ve buradan... uzaklaş..."
+      },
+      {
+        "msgID": "MAP35_E_L0291",
+        "msgStr": "Ben... onu... tutarım... H-Harumi... Cho'ya... yaklaşma..."
+      },
+      {
+        "msgID": "map35_e_lmap_npc23_EP18_tower01_01_127",
+        "msgStr": "Kuru Ciltli Kız Öğrenci"
+      },
+      {
+        "msgID": "MAP35_E_L0292",
+        "msgStr": "Kuzeydoğudaki şu kahverengimsi binayı görüyor musun? Orası da başka bir radyo kulesi."
+      },
+      {
+        "msgID": "MAP35_E_L0293",
+        "msgStr": "Toplamda beş radyo kulesi inşa ediyorlar. Waden Bir sadece ilki."
+      },
+      {
+        "msgID": "map35_e_lmap_npc23_EP18_tower02_01_128",
+        "msgStr": "Diken Saçlı Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0294",
+        "msgStr": "En soldaki, köşenin yanındaki şu kahverengi binayı görüyor musun? Orası da başka bir radyo kulesi."
+      },
+      {
+        "msgID": "MAP35_E_L0295",
+        "msgStr": "İyi çekmesi için Başkenti çevreleyecek şekilde inşa edildiler."
+      },
+      {
+        "msgID": "MAP35_E_L0296",
+        "msgStr": "Onlar sayesinde nereye gidersem gideyim at yarışlarını dinleyebiliyorum."
+      },
+      {
+        "msgID": "map35_e_lmap_npc23_EP18_tower03_01_129",
+        "msgStr": "Yakılı Yaşlı Kadın"
+      },
+      {
+        "msgID": "MAP35_E_L0297",
+        "msgStr": "Sağdaki şu kahverengi kuleyi görüyor musun? Boyutu seni yanıltmasın. Orası bir radyo kulesi."
+      },
+      {
+        "msgID": "MAP35_E_L0298",
+        "msgStr": "Gerçi Waden Bir'in eline su dökemez. En büyüğü o, görünüşüne de bayılıyorum."
+      },
+      {
+        "msgID": "map35_e_lmap_npc23_EP18_tower04_01_130",
+        "msgStr": "Uzun Lastik Çizmeli Adam"
+      },
+      {
+        "msgID": "MAP35_E_L0299",
+        "msgStr": "Solundaki şu kahverengi binayı görüyor musun? Orası hakiki bir radyo kulesi."
+      },
+      {
+        "msgID": "MAP35_E_L0300",
+        "msgStr": "Yunan alfabesini biliyor musun tesadüfen?"
+      },
+      {
+        "msgID": "MAP35_E_L0301",
+        "msgStr": "Başta kulelere o harflerin adını vereceklerdi."
+      },
+      {
+        "msgID": "MAP35_E_L0302",
+        "msgStr": "Yani \"Alfa\", \"Beta\", \"Gama\" vesaire. Ama sonunda nedense bu fikir tutmadı."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:31:46"
+}

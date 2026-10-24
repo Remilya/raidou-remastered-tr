@@ -1,0 +1,353 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "AUTOMAP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "AUTOMAP_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0009",
+        "msgStr": "Daikoku-yu"
+      },
+      {
+        "msgID": "AUTOMAP_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0011",
+        "msgStr": "Waden One"
+      },
+      {
+        "msgID": "AUTOMAP_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AUTOMAP_L0014",
+        "msgStr": "Tamonten\nTapınağı"
+      },
+      {
+        "msgID": "AUTOMAP_L0015",
+        "msgStr": "Ushigome-Gaeri\nKöprüsü"
+      },
+      {
+        "msgID": "AUTOMAP_L0016",
+        "msgStr": "Kamishiro-zaka"
+      },
+      {
+        "msgID": "AUTOMAP_L0017",
+        "msgStr": "Tamonten\nTapınağı Önü"
+      },
+      {
+        "msgID": "AUTOMAP_L0018",
+        "msgStr": "Karukogawa\nAlışveriş\nBölgesi"
+      },
+      {
+        "msgID": "AUTOMAP_L0019",
+        "msgStr": "Inagaki\nBuz Dükkanı"
+      },
+      {
+        "msgID": "AUTOMAP_L0020",
+        "msgStr": "Tsukudo-cho\nToplantı Salonu"
+      },
+      {
+        "msgID": "AUTOMAP_L0021",
+        "msgStr": "Isakaya"
+      },
+      {
+        "msgID": "AUTOMAP_L0022",
+        "msgStr": "Kugizen"
+      },
+      {
+        "msgID": "AUTOMAP_L0023",
+        "msgStr": "Tofu\nDükkanı"
+      },
+      {
+        "msgID": "AUTOMAP_L0024",
+        "msgStr": "Fujiko Salonu"
+      },
+      {
+        "msgID": "AUTOMAP_L0025",
+        "msgStr": "Konnou-ya ve\nGoumaden"
+      },
+      {
+        "msgID": "AUTOMAP_L0026",
+        "msgStr": "Tamonten\nTapınağı"
+      },
+      {
+        "msgID": "AUTOMAP_L0027",
+        "msgStr": "Ishida Cam Dükkanı"
+      },
+      {
+        "msgID": "AUTOMAP_L0028",
+        "msgStr": "Narumi\nDedektiflik\nBürosu"
+      },
+      {
+        "msgID": "AUTOMAP_L0029",
+        "msgStr": "Tawara-ya"
+      },
+      {
+        "msgID": "AUTOMAP_L0030",
+        "msgStr": "Bekleme\nOdası"
+      },
+      {
+        "msgID": "AUTOMAP_L0031",
+        "msgStr": "Oturma Odası"
+      },
+      {
+        "msgID": "AUTOMAP_L0032",
+        "msgStr": "Depo Alanı"
+      },
+      {
+        "msgID": "AUTOMAP_L0033",
+        "msgStr": "Çalışma Odası"
+      },
+      {
+        "msgID": "AUTOMAP_L0034",
+        "msgStr": "Dinlenme Odası"
+      },
+      {
+        "msgID": "AUTOMAP_L0035",
+        "msgStr": "Kiler"
+      },
+      {
+        "msgID": "AUTOMAP_L0036",
+        "msgStr": "Misafir\nOdası"
+      },
+      {
+        "msgID": "AUTOMAP_L0037",
+        "msgStr": "Shirorenga Yolu"
+      },
+      {
+        "msgID": "AUTOMAP_L0038",
+        "msgStr": "İnşaat\nAlanı"
+      },
+      {
+        "msgID": "AUTOMAP_L0039",
+        "msgStr": "İç İnşaat Alanı"
+      },
+      {
+        "msgID": "AUTOMAP_L0040",
+        "msgStr": "Kurisu-zaka"
+      },
+      {
+        "msgID": "AUTOMAP_L0041",
+        "msgStr": "Café Sao Paulosso"
+      },
+      {
+        "msgID": "AUTOMAP_L0042",
+        "msgStr": "Bujiya Mağazası"
+      },
+      {
+        "msgID": "AUTOMAP_L0043",
+        "msgStr": "Kamado\nİçki Dükkanı"
+      },
+      {
+        "msgID": "AUTOMAP_L0044",
+        "msgStr": "Batı Tarzı\nRestoran"
+      },
+      {
+        "msgID": "AUTOMAP_L0045",
+        "msgStr": "Ryugu Restoranı"
+      },
+      {
+        "msgID": "AUTOMAP_L0046",
+        "msgStr": "Geçici Üst Geçit"
+      },
+      {
+        "msgID": "AUTOMAP_L0047",
+        "msgStr": "Shin-Sekai"
+      },
+      {
+        "msgID": "AUTOMAP_L0048",
+        "msgStr": "Geceboyu\nLambası Önü"
+      },
+      {
+        "msgID": "AUTOMAP_L0049",
+        "msgStr": "Daikoku-yu Ön Kapısı"
+      },
+      {
+        "msgID": "AUTOMAP_L0050",
+        "msgStr": "Daikoku Köprüsü"
+      },
+      {
+        "msgID": "AUTOMAP_L0051",
+        "msgStr": "Fukagawa\n6. Bölge"
+      },
+      {
+        "msgID": "AUTOMAP_L0052",
+        "msgStr": "Boş Arsa"
+      },
+      {
+        "msgID": "AUTOMAP_L0053",
+        "msgStr": "Daikoku-yu"
+      },
+      {
+        "msgID": "AUTOMAP_L0054",
+        "msgStr": "Sergi Salonu"
+      },
+      {
+        "msgID": "AUTOMAP_L0055",
+        "msgStr": "Sıra\nEvler"
+      },
+      {
+        "msgID": "AUTOMAP_L0056",
+        "msgStr": "Denpachi'nin\nEvi"
+      },
+      {
+        "msgID": "AUTOMAP_L0057",
+        "msgStr": "Konut"
+      },
+      {
+        "msgID": "AUTOMAP_L0058",
+        "msgStr": "Yabancı Yerleşim Bölgesi"
+      },
+      {
+        "msgID": "AUTOMAP_L0059",
+        "msgStr": "Hakurai\nAlışveriş Bölgesi"
+      },
+      {
+        "msgID": "AUTOMAP_L0060",
+        "msgStr": "Su Deposu"
+      },
+      {
+        "msgID": "AUTOMAP_L0061",
+        "msgStr": "Donanma Karargâhı Önü"
+      },
+      {
+        "msgID": "AUTOMAP_L0062",
+        "msgStr": "İskele"
+      },
+      {
+        "msgID": "AUTOMAP_L0063",
+        "msgStr": "Katolik Kilisesi\nÖnü"
+      },
+      {
+        "msgID": "AUTOMAP_L0064",
+        "msgStr": "Hastane"
+      },
+      {
+        "msgID": "AUTOMAP_L0065",
+        "msgStr": "Manav"
+      },
+      {
+        "msgID": "AUTOMAP_L0066",
+        "msgStr": "Restoran"
+      },
+      {
+        "msgID": "AUTOMAP_L0067",
+        "msgStr": "Salon\nKiyohiko"
+      },
+      {
+        "msgID": "AUTOMAP_L0068",
+        "msgStr": "Donanma Karargâhı"
+      },
+      {
+        "msgID": "AUTOMAP_L0069",
+        "msgStr": "Waden\nOne Önü"
+      },
+      {
+        "msgID": "AUTOMAP_L0070",
+        "msgStr": "Omitsu Tapınağı"
+      },
+      {
+        "msgID": "AUTOMAP_L0071",
+        "msgStr": "İsimsiz Tapınak"
+      },
+      {
+        "msgID": "AUTOMAP_L0072",
+        "msgStr": "Ordu Karargâhı Önü"
+      },
+      {
+        "msgID": "AUTOMAP_L0073",
+        "msgStr": "Meclis Binası\nÖnü"
+      },
+      {
+        "msgID": "AUTOMAP_L0074",
+        "msgStr": "Yüce\nMahkeme Önü"
+      },
+      {
+        "msgID": "AUTOMAP_L0075",
+        "msgStr": "Ordu Karargâhı"
+      },
+      {
+        "msgID": "AUTOMAP_L0076",
+        "msgStr": "Nöbetçi\nKulübesi"
+      },
+      {
+        "msgID": "AUTOMAP_L0077",
+        "msgStr": "Meclis Binası"
+      },
+      {
+        "msgID": "AUTOMAP_L0078",
+        "msgStr": "Yüce\nMahkeme"
+      },
+      {
+        "msgID": "AUTOMAP_L0079",
+        "msgStr": "Rıhtım"
+      },
+      {
+        "msgID": "AUTOMAP_L0080",
+        "msgStr": "Sunak Önü"
+      },
+      {
+        "msgID": "AUTOMAP_L0081",
+        "msgStr": "Sunak"
+      },
+      {
+        "msgID": "AUTOMAP_L0082",
+        "msgStr": "Günah Çıkarma\nKabini"
+      },
+      {
+        "msgID": "AUTOMAP_L0083",
+        "msgStr": "Tapınak"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:10:07"
+}

@@ -1,0 +1,221 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "KNY_TALK_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK01_000",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0000",
+        "msgStr": "<lips 13 5>\n\"Vakit nakittir\" sözünü bilirsin, değil mi? Konuşacak vaktim yok demektir.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK02_01_001",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0001",
+        "msgStr": "<lips 13 5>\nVictor'un bağlantıları sayesinde ürünlerimin yelpazesini genişletebildim.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0002",
+        "msgStr": "<lips 13 5>\nBurası çok hoş da...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0003",
+        "msgStr": "<lips 13 5>\nAşağıda her zaman böyle gürültü patırtı koparmak zorunda mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK03_01_002",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0004",
+        "msgStr": "<lips 13 5>\nHeh heh, alışveriş için teşekkürler.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0005",
+        "msgStr": "<lips 13 5>\nAma, şey, ilaç ve benzeri şeyleri epey sık satın alıyorsun...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0006",
+        "msgStr": "<lips 13 5>\nŞey, dedektiflik işi sağlığa falan mı zararlı yoksa?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK04_01_003",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0007",
+        "msgStr": "<lips 13 5>\nElimdeki şu Yaşam Merhemi'ni biliyorsun, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0008",
+        "msgStr": "<lips 13 5>\nYabancı tüccarlar ölüleri diriltebildiğini söylüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0009",
+        "msgStr": "<lips 13 5>\nPek olası görünmüyor... ama kendi üzerimde deneyecek değilim.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK05_01_004",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0010",
+        "msgStr": "<lips 13 5>\nO kadar iyi bir müşteri oldun ki işlerim tavan yaptı!\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0011",
+        "msgStr": "<lips 13 5>\nBen de karşılığında... Hm, bakalım...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0012",
+        "msgStr": "<lips 13 5>\nBundan böyle bana sattığın şeylere daha fazla para ödeyeceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0013",
+        "msgStr": "<lips 13 5>\nYani nadir eşyalar veya antikalar bulursan hemen buraya getir!\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK06_01_005",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0014",
+        "msgStr": "<lips 13 5>\nO kadar iyi bir müşteri oldun ki işlerim tavan yaptı!\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0015",
+        "msgStr": "<lips 13 5>\nBen de, şey, karşılığında... Hm, bakalım...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0016",
+        "msgStr": "<lips 13 5>\nBundan sonraki alışverişlerinde sana özel bir indirim yapacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0017",
+        "msgStr": "<lips 13 5>\nTabii fiyatlarım daha önce de son derece makuldü, orası ayrı.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK07_01_006",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0018",
+        "msgStr": "<lips 13 5>\nPek çok ucuz romanda dedektiflerin ne kadar harika olduğundan bahsedilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0019",
+        "msgStr": "<lips 13 5>\n<IT_S>O<IT_E> dedektifler bir yana, bir de Narumi var...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0020",
+        "msgStr": "<lips 13 5>\nBu iki imajı bağdaştırmak oldukça zor, sence de öyle değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK08_01_007",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0021",
+        "msgStr": "<lips 13 5>\nHeh heh, buranın gerçek bir müdavimi oldun, değil mi evlat?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0022",
+        "msgStr": "<lips 13 5>\nAramızda kalsın...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0023",
+        "msgStr": "<lips 13 5>\nBundan böyle eşyalarını çok daha yüksek fiyattan satın alacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0024",
+        "msgStr": "<lips 13 5>\nGirit heykeli, Babil tableti, Teb küpü, geyik böceği...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0025",
+        "msgStr": "<lips 13 5>\nHer ne olursa olsun, nadirse gelip burada sat.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK09_01_008",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0026",
+        "msgStr": "<lips 13 5>\nHeh heh, buranın gerçek bir müdavimi oldun, değil mi evlat?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0027",
+        "msgStr": "<lips 13 5>\nAramızda kalsın...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0028",
+        "msgStr": "<lips 13 5>\nTüm mallarımda sana özel %20 indirim yapacağım. Kulağa nasıl geliyor?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0029",
+        "msgStr": "<lips 13 5>\nO yüzden alışverişe devam et, duydun mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_talk_KNY_MASTER_RANK10_01_009",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0030",
+        "msgStr": "<lips 13 5>\nBurada epey sık alışveriş yapıyorsun, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0031",
+        "msgStr": "<lips 13 5>\nMüdavim olduğun için bundan sonra özel stokumdan alışveriş yapabilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0032",
+        "msgStr": "<lips 13 5>\nBizi tercih etmeye devam etmeni dört gözle bekliyorum, dedektif!\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "kny_talk_KNY_ADD_010",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_TALK_L0034",
+        "msgStr": "<lips 13 5>\nHarumi-cho'daki o mesele için sana borçluyum, evlat.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0035",
+        "msgStr": "<lips 13 5>\nSana teşekkür ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0036",
+        "msgStr": "<lips 13 5>\nHatta dükkânıma geldiğinde sana indirim bile yapabilirim.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0037",
+        "msgStr": "<lips 13 5>\nHm? Huyum olmadığı halde fazla mı cömert davranıyorum?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0038",
+        "msgStr": "<lips 13 5>\nEh, para meseleleri Ruh Gücümü artırıyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_TALK_L0039",
+        "msgStr": "<lips 13 5>\nAyrıca asgari düzeyde de olsa insani nezaketim vardır. Heh heh...\n<lips_stop>"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:41:23"
+}

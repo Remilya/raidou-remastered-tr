@@ -1,0 +1,917 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_BIRTH_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_BIRTH_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0001",
+        "msgStr": "Bekle biraz, tamam mı?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0002",
+        "msgStr": "Babam gibi kocaman ve güçlü olacağım!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0003",
+        "msgStr": "Ama ya, hadi ama!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0004",
+        "msgStr": "Tam da radyo dinliyordum!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0005",
+        "msgStr": "Beni füzyona sokmayı bırakmazsan yatağımı ıslatırım!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0006",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>! <COLOR 4><V 4><COLOR 0> Düzeni'ndenim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0007",
+        "msgStr": "Demek bir insansın ha?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0008",
+        "msgStr": "Süper! Ben de bir iblisim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0009",
+        "msgStr": "Tanıştığımıza memnun oldum!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0010",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>! <COLOR 4><V 4><COLOR 0> Düzeni'ndenim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0011",
+        "msgStr": "Benim hizmetkârım olabilirsin!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0012",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>! <COLOR 4><V 4><COLOR 0> Düzeni'ndenim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0013",
+        "msgStr": "Hımm..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0014",
+        "msgStr": "İnsan dünyası pek de anlattıkları gibi değilmiş..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0016",
+        "msgStr": "Şey, eğer gerçekten istiyorsan..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0017",
+        "msgStr": "Tamam... Hazırım."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0018",
+        "msgStr": "Emin misin...?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0019",
+        "msgStr": "Beni iğrenç bir iblis yapmak için kullanmayacaksın, değil mi?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0020",
+        "msgStr": "Hey, insan. Eğer bir iblis olsaydın, belki ikimiz..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0021",
+        "msgStr": "Şey, boş ver! Söylediklerimi unut gitsin!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0022",
+        "msgStr": "Selam! Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0023",
+        "msgStr": "<COLOR 0>Bir iblis olsam bile bana iyi davranacaksın, değil mi?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0024",
+        "msgStr": "Tanıştığımıza memnun oldum!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0025",
+        "msgStr": "Selam! Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0026",
+        "msgStr": "<COLOR 0>Aa, ne kadar da hoş görünümlü bir Çağırıcı!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0027",
+        "msgStr": "Bir anda içimi kaplayan bu his de ne? Yoksa...? K..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0028",
+        "msgStr": "Kan arzusu mu?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0029",
+        "msgStr": "Selam! Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0030",
+        "msgStr": "<COLOR 0>Köpekleri, kedileri ve..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0031",
+        "msgStr": "Ha, bir de insanları severim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0032",
+        "msgStr": "Tanıştığımıza memnun oldum!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0034",
+        "msgStr": "O tüplerde neyin var neyin yoksa hepsini yığ bakalım, tamam mı?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0035",
+        "msgStr": "Her zaman, her yerde, kim olursa olsun füzyona girerim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0036",
+        "msgStr": "Yahu..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0037",
+        "msgStr": "Sence de bu biraz fazla olmadı mı?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0038",
+        "msgStr": "Bunu yapmak istediğine emin misin?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0039",
+        "msgStr": "Gerçekten benim kanımı taşıyacak bir iblisi füzyonlamak istiyor musun...?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0040",
+        "msgStr": "N'aber? Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> işlerine bakarım."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0041",
+        "msgStr": "<COLOR 0>Kendimi hiç tutmayacağım!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0042",
+        "msgStr": "N'aber? Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> işlerine bakarım."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0043",
+        "msgStr": "<COLOR 0>Beni seçmekle iyi bir karar verdin!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0044",
+        "msgStr": "Çünkü ortalığı dağıtmaya dünden razıyım!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0045",
+        "msgStr": "N'aber? Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> işlerine bakarım."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0046",
+        "msgStr": "<COLOR 0>Heh... Görünüşe göre insan dünyasına geri döndüm."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0047",
+        "msgStr": "Bahse girerim öldürdüklerimin sayısı yakında milyonları bulacak!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0049",
+        "msgStr": "Yolculuğumu kutluyoruz! Umarım eğlenirsin!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0050",
+        "msgStr": "Bu dünyadan pişmanlıklarla ayrılmayacağım... o yüzden sıradaki iblis bıraktığım yerden devam etmek zorunda kalacak! *kıkırdar*"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0051",
+        "msgStr": "Sanatımı biraz daha geliştirmem gerekecek. Bir dahaki sefere önümde diz çökmek için yalvaracaksın!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0052",
+        "msgStr": "Ay, merhaba! Ben <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0053",
+        "msgStr": "<COLOR 0>Kalbinin karanlığında kaybolmuş zavallı, yalnız bir iblisim sadece..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0054",
+        "msgStr": "Bana iyi davranacaksın, değil mi?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0055",
+        "msgStr": "Ay, merhaba! Ben <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0056",
+        "msgStr": "<COLOR 0>Sırf seninle burada buluşmak için buralara kadar geldim... Çıkmak ister misin? *kıkırdar*"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0057",
+        "msgStr": "Ay, merhaba! Ben <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0058",
+        "msgStr": "<COLOR 0>Böyle tesadüfi bir karşılaşma bile kaderdir, bilirsin. Ne şanslı birisin!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0060",
+        "msgStr": "Ah, ben de bu bedenden sıkılmaya başlamıştım."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0061",
+        "msgStr": "Daha büyük bir güce sahip yeni bir beden oluşturalım!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0062",
+        "msgStr": "Bir insana göre iyi çalışıyorsun..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0063",
+        "msgStr": "Zamanı geldiğinde seni kaleme davet edeceğim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0064",
+        "msgStr": "Endişelenme..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0065",
+        "msgStr": "Sadece burada otur ve keyfine bak."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0066",
+        "msgStr": "Bana <COLOR 4><V 0><COLOR 0> derler, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0067",
+        "msgStr": "Kana olan susuzluğum dinmek bilmez..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0068",
+        "msgStr": "Bana <COLOR 4><V 0><COLOR 0> derler, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0069",
+        "msgStr": "Demek bana hükmetmeye niyetlisin, öyle mi insan?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0070",
+        "msgStr": "Sonunda insan dünyasına indim, lakin burası da Cehennem'in bir başka yüzüymüş..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0071",
+        "msgStr": "Bana <COLOR 4><V 0><COLOR 0> derler, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0072",
+        "msgStr": "Cennete sırtımı döndüm ama seninle olan anlaşmamı yerine getireceğim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0073",
+        "msgStr": "Seninle tanışmak bir onurdur."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0075",
+        "msgStr": "Ne olursa olsun şunu unutma: Ben her zaman senin yanındayım, Raidou tatlım!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0076",
+        "msgStr": "Kendine iyi bak!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0077",
+        "msgStr": "Aman Tanrım... İkinci bir gençlik şansı gibi!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0078",
+        "msgStr": "Kendini fazla yorma, tamam mı Raidou tatlım? Yardıma ihtiyacın olursa iblislerinden birini çağır."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0079",
+        "msgStr": "Şimdilik hoşça kal..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0080",
+        "msgStr": "Merhaba yavrum. Benim adım <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0081",
+        "msgStr": "Uslu çocuklar kurabiye alır. Yaramaz çocuklar ise şaplağı yer..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0082",
+        "msgStr": "Seninle tanışmak ne kadar hoş."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0083",
+        "msgStr": "Merhaba yavrum. Benim adım <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0084",
+        "msgStr": "Bütün bu iblislere bu kadar vakit ayırarak hayatını boşa harcıyorsun, biliyorsun değil mi?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0085",
+        "msgStr": "Ama sanırım yargılamamalıyım. Seninle tanışmak çok güzel, tatlım."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0086",
+        "msgStr": "Merhaba yavrum. Benim adım <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0087",
+        "msgStr": "Beni hayal kırıklığına uğratmayacaksın, değil mi?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0088",
+        "msgStr": "Senin gibi bir genç benden bir iki şey öğrenebilir, biliyorsun."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0090",
+        "msgStr": "Kaç kez yaşarsam yaşayayım, vedalar asla kolay olmuyor..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0091",
+        "msgStr": "Bu gerçekten eski anıları canlandırıyor..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0092",
+        "msgStr": "Füzyon ha? Tıpkı eski günlerdeki gibi..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0093",
+        "msgStr": "Beni genç ve güzel bir kısrakla eşleştirmeye ne dersin?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0094",
+        "msgStr": "Siz gençlerin de hep acelesi var..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0095",
+        "msgStr": "Bu yaşlı bedenimi en azından birkaç bin yıl daha ayakta tutmayı umuyordum."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0096",
+        "msgStr": "Bana <COLOR 4><V 4> <V 0><COLOR 0> derler."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0097",
+        "msgStr": "<COLOR 0>Bu dünya ve öteki dünya hakkında bilinmesi gereken her şeyi bilirim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0098",
+        "msgStr": "Tecrübe, evlat... Onun yerini hiçbir şey tutamaz."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0099",
+        "msgStr": "Bana <COLOR 4><V 4> <V 0><COLOR 0> derler."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0100",
+        "msgStr": "<COLOR 0>Hohoho... Sana öteki dünya hakkında bilmen gereken her şeyi anlatacağım, genç Çağırıcı."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0101",
+        "msgStr": "Dört gözle beklesen iyi edersin!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0102",
+        "msgStr": "Bana <COLOR 4><V 4> <V 0><COLOR 0> derler."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0103",
+        "msgStr": "<COLOR 0>Son gördüğümden beri dünya epey değişmiş..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0104",
+        "msgStr": "Sen ve ben, Çağırıcı—burayı tekrar düzene sokacağız, duydun mu?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0106",
+        "msgStr": "YAKINDA FARKLI GÖRÜNECEĞİM AMA KALBİM AYNI KALACAK."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0107",
+        "msgStr": "BEKLE VE GÖR, ÇAĞIRICI!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0108",
+        "msgStr": "BUNDAN SONRA NE OLACAĞIM? YİNE BİR CANAVAR MI? YOKSA CANAVAR DEĞİL Mİ?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0109",
+        "msgStr": "ÇAĞIRICI! SAHİBİM OLDUĞUN İÇİN TEŞEKKÜR EDERİM!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0110",
+        "msgStr": "LEZZETLİ GÖRÜNÜYORDUN. SENİ YEMEDİĞİME SEVİNDİM!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0111",
+        "msgStr": "BEN <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0112",
+        "msgStr": "<COLOR 0>SENİ YEMEYECEĞİM."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0113",
+        "msgStr": "TANIŞTIĞIMIZA MEMNUN OLDUM."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0114",
+        "msgStr": "BEN <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0115",
+        "msgStr": "<COLOR 0>BEN ÇOK GÜÇLÜYÜM!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0116",
+        "msgStr": "TANIŞTIĞIMIZA MEMNUN OLDUM."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0117",
+        "msgStr": "BEN <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0118",
+        "msgStr": "<COLOR 0>VAHŞİ DOĞANIN ÇAĞRISINI DUYDUM..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0119",
+        "msgStr": "İNSANLARA BİR DERS VERECEĞİM."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0121",
+        "msgStr": "HüCuuuM! HÜcUUuUuuM!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0122",
+        "msgStr": "bU beDEeeEeEn beş PaRa eTmEZ!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0123",
+        "msgStr": "BeNİ baŞ AşAğI mI ATmAyI pLanLıYorSuN!? YoKsA KıÇ üStÜ mÜ!?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0124",
+        "msgStr": "B... bİR kOMplO mU? BiR koMPlO MU!?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0125",
+        "msgStr": "AlÇaKkKKKkkKkK! FüZYOn hAKkındA uYgUnSUz fAnTEziLeR kURuYoRSuN, dEĞiL mİ!?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0126",
+        "msgStr": "sEN BiR SaPIk MıSıN? yOKsA BiR dAhİ mİ?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0127",
+        "msgStr": "BeeeEeEen <COLOR 4><V 4> <V 0><COLOR 0>!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0128",
+        "msgStr": "TaNıŞtIğImIzA... MeMNun oLDuM Mu? tAnIŞtIğImIza mEMnuN oLdUm mU?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0129",
+        "msgStr": "BeeeEeEen <COLOR 4><V 4> <V 0><COLOR 0>!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0130",
+        "msgStr": "BeeeEEeEyaZ hUş aĞaCı SeVEr mİSiiiİiiİn!?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0131",
+        "msgStr": "DOstoYEvSkİ SeVEr mİSiN SeVMez mİSiiiİiN!? HaNgiSiiiiİiiİİİii!?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0132",
+        "msgStr": "BeeeEeEen <COLOR 4><V 4> <V 0><COLOR 0>!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0133",
+        "msgStr": "HObiLeriMmmMmm oKUmAk vE öRGü öRmEk!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0135",
+        "msgStr": "Füzyonlarım ne kadar mı iyi? Çok iyi. Hayal edebileceğinden bile daha iyi."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0136",
+        "msgStr": "İşte o kadar iyiler, aynen öyle."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0137",
+        "msgStr": "Seninle olan yolculuğum beklediğimden daha heyecan vericiydi."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0138",
+        "msgStr": "Tıpkı paraşütle atlarken... kalbimden... bir okla vurulmak gibi."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0139",
+        "msgStr": "Duygusallaşıyorum. Güzel günleri hatırlıyor musun? Evet. Evet, ben de..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0140",
+        "msgStr": "Selam, merhaba, nasılsın? Ben <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0141",
+        "msgStr": "<COLOR 0>Peki beni çağıran o yalnız çocuk hanginiz? Sen mi? Sen mi? Yoksa... sen misin?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0142",
+        "msgStr": "Selam, merhaba, nasılsın? Ben <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0143",
+        "msgStr": "<COLOR 0>Benim işim gücüm şiddet. Hadi başlayalım!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0144",
+        "msgStr": "Benimle çalışmayı dört gözle bekliyorum. Yani seninle demek istedim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0145",
+        "msgStr": "Selam, merhaba, nasılsın? Ben <COLOR 4><V 4> <V 0><COLOR 0>."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0146",
+        "msgStr": "<COLOR 0>Bana hayalini anlat."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0147",
+        "msgStr": "Onu gerçekleştireceğim... ya da en azından yarısını."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0149",
+        "msgStr": "Füzyona girip insan boyuna ge-hee-lmek istiyorum, ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0150",
+        "msgStr": "Füzyona girip bıyık ve sa-hee-kal bırakmak istiyorum, ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0151",
+        "msgStr": "Ey-hee-vah, geç kaldım, hee ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0152",
+        "msgStr": "Victor bana kızacak, hee-ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0153",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>! <COLOR 4><V 4><COLOR 0> Düzeni'ne a-hee-itim, ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0154",
+        "msgStr": "<COLOR 0>Tüm düşmanlarımıza deh-hee-şet saçacağım, ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0155",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>! <COLOR 4><V 4><COLOR 0> Düzeni'ne a-hee-itim, ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0156",
+        "msgStr": "<COLOR 0>Tanıştığımıza me-hee-mnun oldum, ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0157",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>! <COLOR 4><V 4><COLOR 0> Düzeni'ne a-hee-itim, ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0158",
+        "msgStr": "<COLOR 0>Bana insanlar hakkında her şeyi öğ-hee-ret, ho!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0160",
+        "msgStr": "Oh, burası tanrıların ve iblislerin partisi gibi!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0161",
+        "msgStr": "Belki bir danslık daha enerjim kalmıştır. Ne dersin?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0162",
+        "msgStr": "Seni unutmayacağım, Raidou..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0163",
+        "msgStr": "Bilgilerin her zaman adres defterimde kalacak."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0164",
+        "msgStr": "Görünüşüm değişse bile benim hakkımda yine aynı şekilde düşüneceksin..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0165",
+        "msgStr": "Değil mi...?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0166",
+        "msgStr": "Merhaba. Ben <COLOR 4><V 0><COLOR 0>. Bilirsin işte, <COLOR 4><V 4><COLOR 0> Düzeni'nden."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0167",
+        "msgStr": "<COLOR 0>Söyle bakalım, geleceğin hakkında hiç düşündün mü?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0168",
+        "msgStr": "Senin gibi bir delikanlı... Aşkın peşinde misin yoksa?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0169",
+        "msgStr": "Yoksa... yıkımın mı peşindesin?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0170",
+        "msgStr": "Merhaba. Ben <COLOR 4><V 0><COLOR 0>. Bilirsin işte, <COLOR 4><V 4><COLOR 0> Düzeni'nden."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0171",
+        "msgStr": "<COLOR 0>Sözde kültürünüzün başlangıcından beri insanlara yardım ettim ama..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0172",
+        "msgStr": "Bunca zamandır beni tatmin edebilecek birini asla bulamadım. Bunu başarabileceğini düşünüyor musun?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0173",
+        "msgStr": "Hahaha! Sanırım bekleyip göreceğiz."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0174",
+        "msgStr": "Merhaba. Ben <COLOR 4><V 0><COLOR 0>. Bilirsin işte, <COLOR 4><V 4><COLOR 0> Düzeni'nden."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0175",
+        "msgStr": "<COLOR 0>Hayat pişmanlıklar için fazla kısa, o yüzden hâlâ gençken istediğin her şeyi yaptığından emin ol."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0176",
+        "msgStr": "Şimdi. Yap şunu. Çabuk."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0178",
+        "msgStr": "Baylar ve bayanlar, doğa kanunlarına meydan okuduğumuz iblis füzyonu gösterisine hoş geldiniz!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0179",
+        "msgStr": "Ne de olsa en büyük mucizeler her zaman tabuların ardına mühürlenmiştir! Zappo!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0180",
+        "msgStr": "İnsan ne kadar güçleneceğini merak etmeden duramıyor! Doğrusu, beni geride bırakmandan korkuyorum..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0181",
+        "msgStr": "Zappo!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0182",
+        "msgStr": "Ölümle burun buruna gelip sağ çıktığımız o güzel günler gözümün önünde bir kaleydoskop gibi dönüyor..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0183",
+        "msgStr": "Görünüşe göre... gözüme toz kaçtı... Zappo!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0184",
+        "msgStr": "<COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'nden göreve hazır!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0185",
+        "msgStr": "<COLOR 0>Rehberin olmama izin ver ve dış görünüşüme aldanma!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0186",
+        "msgStr": "Kim bilir, belki de temiz olan kirli, kirli olan temizdir! Önyargılarından kurtul!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0187",
+        "msgStr": "Zappo!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0188",
+        "msgStr": "<COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'nden göreve hazır!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0189",
+        "msgStr": "<COLOR 0>Bu şekilde karşılaşmamız iyi şans mı getirecek... yoksa kötü şans mı? Bunu biz belirleyeceğiz! Bizi izlemeye devam edin!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0190",
+        "msgStr": "Tanıştığımıza memnun oldum! Zappo!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0191",
+        "msgStr": "<COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'nden göreve hazır!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0192",
+        "msgStr": "<COLOR 0>Seninle tanıştığım için kesinlikle ve tamamen heyecan içindeyim!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0193",
+        "msgStr": "Zappo!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0211",
+        "msgStr": "Ahh... İnsanın hayatı acımasız, vahşi ve kısadır. Ancak biz iblisler yeni biçimlerde yaşamaya devam edebiliriz..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0212",
+        "msgStr": "Birisi bu döngüye bir son vermeyecek mi?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0213",
+        "msgStr": "Yeni bedenime ve gücüme kavuştuğumda bana katılmaz mısın?"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0214",
+        "msgStr": "Birlikte dünyayı kanlı gül yapraklarıyla süsleyeceğiz!"
+      },
+      {
+        "msgID": "GOH_BIRTH_L0215",
+        "msgStr": "Belki bir ara kendin de bir iblisle füzyona girmeyi denemelisin."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0216",
+        "msgStr": "Ha, bu sadece küçük bir şakaydı. Hiçbir insan o baskıya dayanamaz."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0217",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0218",
+        "msgStr": "<COLOR 0>Parlak ruhunun cazibesine kapılarak dünyalar ötesi mesafeler katettim..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0219",
+        "msgStr": "Seninle tanışmak benim için bir zevk."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0220",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0221",
+        "msgStr": "<COLOR 0>Sen bu dünyada hayata gözlerini açmadan çok önce, karşılaşmamızı öngörmüştüm..."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0222",
+        "msgStr": "Seninle tanışmak benim için bir zevk."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0223",
+        "msgStr": "Ben <COLOR 4><V 0><COLOR 0>, <COLOR 4><V 4><COLOR 0> Düzeni'ndenim."
+      },
+      {
+        "msgID": "GOH_BIRTH_L0224",
+        "msgStr": "<COLOR 0>Sana zarar vermek isteyenleri katledecek ve çığlıklarından görkemli bir opera besteleyeceğim!"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/26 18:50:28"
+}

@@ -1,0 +1,1921 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP21_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map21_m_M_MES_dummy_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0001",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP21_M_L0002",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map21_m_SOUSA_HITOKOTO_01_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_SOUSA_HITOKOTO_02_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_KOUDOU_01_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_KOUDOU_SEL01 SEL 0_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_KOUDOU_BUNRI_01_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_KOUDOU_BUNRI_SEL01 SEL 0_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_tarasuku_nori_00_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0015",
+        "msgStr": "> Burası bir iskele."
+      },
+      {
+        "msgID": "map21_m_m_msg_tarasuku_nori_01_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0016",
+        "msgStr": "> Büyük Tarrasque çağrılsın mı?"
+      },
+      {
+        "msgID": "MAP21_M_L0017",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP21_M_L0018",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map21_m_m_msg_tarasuku_nori_02_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0019",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map21_m_m_msg_tarasuku_nori_03_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0020",
+        "msgStr": "> Ancak Büyük Tarrasque gelmedi..."
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_SISA01_011",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0021",
+        "msgStr": "Şu an Karanlık Diyar'dayız. Tetikte ol."
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_SISA03_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_01_01_013",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0023",
+        "msgStr": "Hm? Oradaki Rin mi?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_01_02_014",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0024",
+        "msgStr": "Hıh, kime bulaştıklarının farkında değiller."
+      },
+      {
+        "msgID": "MAP21_M_L0025",
+        "msgStr": "Raidou, onlara Kuzunoha'nın kudretini göster."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_01_03_015",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP21_M_L0026",
+        "msgStr": "Hm? Ne tür bir aptal insansın ki <IT_S>buraya<IT_E> geliyorsun?"
+      },
+      {
+        "msgID": "MAP21_M_L0027",
+        "msgStr": "Ah, demek yüce Tsuchigumo'nun ziyafetini bölmeye geldin, öyle mi İblis Çağırıcısı!?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_01_04_016",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "MAP21_M_L0027_01",
+        "msgStr": "İnsanlar yalnızca biz iblisleri beslemek için vardır. Birkaçınız ortadan kaybolsa dünyanın umurunda bile olmaz."
+      },
+      {
+        "msgID": "MAP21_M_L0028",
+        "msgStr": "Neden buraya gelmiyorsun? Acele etmezsen kız yem olacak!"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_01_05_017",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0029",
+        "msgStr": "Raidou, çabucak Rin'in yanına ulaşmalıyız."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_02_018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_02_KARI_019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_020",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0033",
+        "msgStr": "Hey, sen bir Çağırıcısın, değil mi?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_SEL SEL 0_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0034",
+        "msgStr": "Doğru, öyleyim."
+      },
+      {
+        "msgID": "MAP21_M_L0035",
+        "msgStr": "Hayır, yanılıyorsun."
+      },
+      {
+        "msgID": "MAP21_M_L0036",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_YES_022",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0037",
+        "msgStr": "Uf, bu beni biraz gerdi."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_NO_023",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0038",
+        "msgStr": "Bilmiyorum, bana biraz fazla sulu... Şey, yani şüpheli göründün."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_MUSI_024",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0039",
+        "msgStr": "Neden kimse benimle konuşmuyor? Çok yalnızım... Çok yalnız..."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_02_025",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0040",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0041",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0042",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0043",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0044",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0045",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0046",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_03_026",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0047",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0048",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0049",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0050",
+        "msgStr": "Sen!"
+      },
+      {
+        "msgID": "MAP21_M_L0051",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP21_M_L0052",
+        "msgStr": "Son zamanlarda deniz aşırı bir yerleri ziyaret etmeyi düşünüyorum."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_04_027",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0053",
+        "msgStr": "Gitmem gereken başka bir yer geldi aklıma. Bir gün tatile çıkmalıyım."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_04_02_028",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0054",
+        "msgStr": "Ve tam da gidecek yeri biliyorum! Şuraya gideceğim..."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_04_03_029",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0055",
+        "msgStr": "Son zamanlarda okyanusun ötesindeki yerlere gitme fikrine sardım."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_05_030",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0056",
+        "msgStr": "İstanbul'a."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_06_031",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0057",
+        "msgStr": "Sicilya'ya."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_07_032",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0058",
+        "msgStr": "Buenos Aires'e."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_08_033",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0059",
+        "msgStr": "Fildişi Sahili'ne."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_09_034",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0060",
+        "msgStr": "Olimpiya'ya."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_10_035",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0061",
+        "msgStr": "Liverpool'a."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_11_036",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0062",
+        "msgStr": "Tac Mahal'e."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_12_037",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0063",
+        "msgStr": "İskenderiye'ye."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A1_13_038",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0064",
+        "msgStr": "Floransa'ya."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A2_039",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0065",
+        "msgStr": "Selam. Hâlâ acemisin, ha?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A2_SEL SEL 0_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0066",
+        "msgStr": "Sanırım öyleyim."
+      },
+      {
+        "msgID": "MAP21_M_L0067",
+        "msgStr": "Hayır, düşünmüyorum."
+      },
+      {
+        "msgID": "MAP21_M_L0068",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A2_YES_041",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0069",
+        "msgStr": "Görünüşe göre daha kırk fırın ekmek yemen lazım."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A2_NO_042",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0070",
+        "msgStr": "Yalan! Anlamayacağımı mı sanıyorsun? Hıh."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A2_MUSI_043",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0071",
+        "msgStr": "Oho, sert erkeğiz demek, ha?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03A2_02_044",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0072",
+        "msgStr": "Bir acemiye göre bayağı iyisin."
+      },
+      {
+        "msgID": "MAP21_M_L0073",
+        "msgStr": "İleride tam baş belası bir \"duvar\" var."
+      },
+      {
+        "msgID": "MAP21_M_L0074",
+        "msgStr": "Bazı tipler, bilirsin, element yatkınlığını hiç umursamaz. Sakın öyle olma!"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03B_01_045",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0075",
+        "msgStr": "Hey, sen oradaki!"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03B_02_046",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0076",
+        "msgStr": "Gerçeeekten ileriye gidecek misin?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03B_02_YES_047",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0077",
+        "msgStr": "Oho! Demek o insan kızın peşindesin, öyle mi?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03B_02_NO_048",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03B_03_049",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0080",
+        "msgStr": "Mesele şu ki ileride boyumuzu fersah fersah aşan bir iblis var."
+      },
+      {
+        "msgID": "MAP21_M_L0081",
+        "msgStr": "O yüzden onunla hiç uğraşma. Neden onun yerine bizimle oynamıyorsun?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03_KARI_050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03C_01_051",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0083",
+        "msgStr": "Aman Tanrım, işte şimdi baltayı taşa vurdun."
+      },
+      {
+        "msgID": "MAP21_M_L0084",
+        "msgStr": "Kafamın tası fena attı! Hatta o kadar tepem attı ki patlayabilirim!"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03C_02_052",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0085",
+        "msgStr": "Gerçi öyle yapsam bile yine kaybedebilirim, o yüzden..."
+      },
+      {
+        "msgID": "MAP21_M_L0086",
+        "msgStr": "İmdat! Beni öldürme! Bağışla beni! SOS! Vesaire."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03C_02_SEL SEL 0_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0087",
+        "msgStr": "Onu bağışla"
+      },
+      {
+        "msgID": "MAP21_M_L0088",
+        "msgStr": "Onu bağışlama"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03C_02_YES_054",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0089",
+        "msgStr": "Vay be! Aramızda bir bağ hissediyorum! Ha, gerçi bu yalandı."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03C_02_NO_055",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0090",
+        "msgStr": "Seni memnun etmek de amma zormuş."
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03D_01_056",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0091",
+        "msgStr": "Vay, güçlüymüşsün."
+      },
+      {
+        "msgID": "MAP21_M_L0092",
+        "msgStr": "Fazladan gücün var, ha?"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03D_02_057",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0093",
+        "msgStr": "Sanırım düşündüğümden daha iyisin. Eh, bol şans!"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03D_03_058",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0094",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03D_04_059",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0095",
+        "msgStr": "Hey, görüşmeyeli uzun zaman oldu yatkınlık biraderim."
+      },
+      {
+        "msgID": "MAP21_M_L0096",
+        "msgStr": "Biraz gelişmişsin diyebilirim, değil mi?"
+      },
+      {
+        "msgID": "MAP21_M_L0097",
+        "msgStr": "Şey, sana karşı bir sürü, ııı... saygım var! Sana yani, anlarsın ya."
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_DANSOU_01_060",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0098",
+        "msgStr": "Çüş, bir <COLOR 1>Ejderha Yükseltisi<COLOR 0>..."
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_DANSOU_02_061",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "MAP21_M_L0099",
+        "msgStr": "Har har har! Mankafa!"
+      },
+      {
+        "msgID": "MAP21_M_L0100",
+        "msgStr": "En başından beri ne mal olduğunu anlamıştım! Bak, ben iyice hazırlanmadan yemeğini yemeyen türden bir iblisim!"
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_DANSOU_03_062",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0101",
+        "msgStr": "Raidou, Ejderha Yükseltisi <COLOR 3>ne insanların ne de iblislerin geçebileceği bir bariyerdir<COLOR 0>."
+      },
+      {
+        "msgID": "MAP21_M_L0102",
+        "msgStr": "Ne kadar kaba kuvvet uygularsak uygulayalım onu aşamayız. Etrafından dolaşmanın bir yolunu bulmalıyız."
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_DANSOU02_01_063",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0103",
+        "msgStr": "Hm? Bir şey yolumuzu kapatıyor gibi görünüyor."
+      },
+      {
+        "msgID": "MAP21_M_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_DANSOU02_02_064",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0105",
+        "msgStr": "Ah, bir <COLOR 1>Ejderha Yükseltisi<COLOR 0>. Bu bariyerler Karanlık Diyar'da doğal olarak oluşur."
+      },
+      {
+        "msgID": "MAP21_M_L0106",
+        "msgStr": "<COLOR 3>Ne insanlar ne de iblisler içlerinden geçebilir<COLOR 0>. Başka bir yol bulmamız gerekecek."
+      },
+      {
+        "msgID": "MAP21_M_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_DANSOU02_03_065",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0108",
+        "msgStr": "Hm, bir Ejderha Yükseltisi daha..."
+      },
+      {
+        "msgID": "MAP21_M_L0109",
+        "msgStr": "Başka bir yol bulalım, Raidou."
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_TUISEKI01_066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_TUISEKI02_067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_EP01MES_TUISEKI03_068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_ink01_069",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP21_M_L0117",
+        "msgStr": "Hey, şuradaki çok güzel bir hanımefendi."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_ink02_070",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP21_M_L0118",
+        "msgStr": "Bu kadar güzel bir hanımefendi gördüğünde ne demen gerektiğini biliyorum."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_ink03_071",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP21_M_L0119",
+        "msgStr": "\"Vay anasını be.\""
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_ink04_072",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP21_M_L0120",
+        "msgStr": "Artık <IT_S>sen<IT_E> de biliyorsun!"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_ink04_02_073",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP21_M_L0121",
+        "msgStr": "Gerçekten çok havalı biri."
+      },
+      {
+        "msgID": "MAP21_M_L0122",
+        "msgStr": "Ufaları iyileştirebiliyor."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_ink04_03_074",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP21_M_L0123",
+        "msgStr": "Üstelik bunu bedavaya yapacağını söylüyor!"
+      },
+      {
+        "msgID": "MAP21_M_L0124",
+        "msgStr": "Hatta MAG'ını bile dolduruyor!"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_ink05_075",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP21_M_L0125",
+        "msgStr": "Şu merdivenlerin ilerisinde çok ama çok kötü bir <COLOR 3>Tsuchigumo<COLOR 0> var. Bir kızı kaçırdı!"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_ink06_076",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "MAP21_M_L0126",
+        "msgStr": "Ben sadece bir çocuğum. Asla öyle kötü bir şey yapmam."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_rantan_01_077",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0127",
+        "msgStr": "Hee ho!"
+      },
+      {
+        "msgID": "MAP21_M_L0128",
+        "msgStr": "Ha? Sen bir hee-insansın, ho!"
+      },
+      {
+        "msgID": "MAP21_M_L0129",
+        "msgStr": "Doğru."
+      },
+      {
+        "msgID": "MAP21_M_L0130",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_rantan_02_078",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0131",
+        "msgStr": "Bili-hee-yorum!"
+      },
+      {
+        "msgID": "MAP21_M_L0132",
+        "msgStr": "Şu dişi hee-insanla arkadaş mı ol-ho-mak istiyorsun, ho?"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_rantan_03_079",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0133",
+        "msgStr": "Fiyuu ho!"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_rantan_04_080",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0134",
+        "msgStr": "Senin adına çok kötü, hee-kaşla göz arasında yem ol-ho-acak, ho."
+      },
+      {
+        "msgID": "MAP21_M_L0135",
+        "msgStr": "Hee ho! Hee ho ho!"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_rantan_05_081",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0136",
+        "msgStr": "Merhaba, hee ho? Evde hee-kimse var mı?"
+      },
+      {
+        "msgID": "MAP21_M_L0137",
+        "msgStr": "Çoğu insan böyle yerleri gör-ho-emez, hee ho."
+      },
+      {
+        "msgID": "MAP21_M_L0138",
+        "msgStr": "Ama sen buradasın-ho, hee-ben de öyle, ho."
+      },
+      {
+        "msgID": "MAP21_M_L0139",
+        "msgStr": "Ne kadar da tuhaf-hee, ho!"
+      },
+      {
+        "msgID": "MAP21_M_L0140",
+        "msgStr": "Karanlık Diyar hee-çok ılıman. Sıcağı severim-ho ama nem-hee-i sevmem, ho."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_rantan_06_082",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0141",
+        "msgStr": "Hee ho!"
+      },
+      {
+        "msgID": "MAP21_M_L0142",
+        "msgStr": "Zordaki küçük hanımı kurtardın! Hee-çok havalısın, ho!"
+      },
+      {
+        "msgID": "MAP21_M_L0143",
+        "msgStr": "Ben de senin gibi güçlü ol-ho-mak istiyorum, hee ho!"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_rantan_07_083",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0144",
+        "msgStr": "Arkadaşıma saklambaç oyna-ho-yacağımıza dair söz verdim, ho."
+      },
+      {
+        "msgID": "MAP21_M_L0145",
+        "msgStr": "Beni asla bul-ho-amayacağı hee-bir yer bulacağım-ho!"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_rantan_08_084",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0146",
+        "msgStr": "Nerede oyna-ho-yacağımıza hiç hee-karar vermedik, hee ho."
+      },
+      {
+        "msgID": "MAP21_M_L0147",
+        "msgStr": "Bildiğin hee-iyi bir yer var mı, ho?"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_neko_01_085",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "MAP21_M_L0148",
+        "msgStr": "Sen çok küçüksün tatlım. Oraya asla uzanamazsın."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_neko_02_086",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "MAP21_M_L0149",
+        "msgStr": "Aa, sen entelektüel tiplerden misin?"
+      },
+      {
+        "msgID": "MAP21_M_L0150",
+        "msgStr": "Hm... Hoş bir çocuğa benziyorsun ama benim ihtiyacım olan şey gerçek bir <IT_S>erkek<IT_E>."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_neko_doku_01_087",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "MAP21_M_L0151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_ue_ev_shirabe_01_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0152",
+        "msgStr": "> Heybetli bir duvar."
+      },
+      {
+        "msgID": "MAP21_M_L0152_01",
+        "msgStr": "> Doğru iblis onun üzerinden uçabilir..."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_ue_ev_hikou_01_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0153",
+        "msgStr": "> <devil 0> uçma gücünü kullandı."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_ue_ev_hikou_02_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0154",
+        "msgStr": "> <ITM_08><COLOR 4>Hayat Boncuğu<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_ue_ev_riki_01_091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_fuka_01_092",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_fuka_02_093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_oba_doku_01_094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_oba_riki_01_095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_oba_riki_02_096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_npc_oba_riki_03_097",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0164",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map21_m_M_EP01CBTL_03B_02_NO_01_098",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "MAP21_M_L0165",
+        "msgStr": "Koşarak evine dön o zaman. Burası ufaklıklar için güvenli bir yer değil."
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_b_wind_01_099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_b_wind_02_100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_b_wind_yes_101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_b_wind_no_102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_kabe_b_wind_02_103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_n_msg01_104",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP21_M_L0178",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_n_msg02_105",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "MAP21_M_L0179",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map21_m_m_msg_ep1_n_msg03_106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_01_01_107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_NAKAMA_OFF_108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_01_109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_02_110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_SEL SEL 0_111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_YES_112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_NO_113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_NAKAMA_OFF_114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_01_115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_02_116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_SEL SEL 0_117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_YES_118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M001_KABE_BREAK_NO_119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_WARP_01_120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_WARP_01_SEL SEL 0_121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_WARP_01_YES_122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_WARP_01_NO_123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_WARP_02_124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_KYOUKAI_01_01_125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_KYOUKAI_01_02_126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_M_KYOUKAI_02_127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_mes_01_128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_01_01_129",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0216",
+        "msgStr": "Böcek topluyorum!"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_01_02_130",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0217",
+        "msgStr": "Ya sen? Sen de topluyor musun?"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_01_02s SEL_131",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0218",
+        "msgStr": "Evet, istiyorum."
+      },
+      {
+        "msgID": "MAP21_M_L0219",
+        "msgStr": "Hayır, ilgimi çekmiyor."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_01_02a_132",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0220",
+        "msgStr": "Topluyor musun? Ama elinde hiç böcek yok ki..."
+      },
+      {
+        "msgID": "MAP21_M_L0221",
+        "msgStr": "Şey, başlamak istiyorsan işte benim gizli tekniğim!"
+      },
+      {
+        "msgID": "MAP21_M_L0222",
+        "msgStr": "En önemli şeyler şunlar..."
+      },
+      {
+        "msgID": "MAP21_M_L0223",
+        "msgStr": "<COLOR 3>Lezzetli tatlılar!"
+      },
+      {
+        "msgID": "MAP21_M_L0224",
+        "msgStr": "Devasa ağaçlar!"
+      },
+      {
+        "msgID": "MAP21_M_L0225",
+        "msgStr": "Issız bölgeler!"
+      },
+      {
+        "msgID": "MAP21_M_L0226",
+        "msgStr": "<COLOR 0>Ve unutma, <COLOR 3>dolunay<COLOR 0> olması şart, yoksa böcekler uçup gider."
+      },
+      {
+        "msgID": "MAP21_M_L0227",
+        "msgStr": "Bol şans!"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_01_02b_133",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0228",
+        "msgStr": "Ha. Tamam o zaman."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_01_134",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0229",
+        "msgStr": "Vay! Bir geyik böceği!"
+      },
+      {
+        "msgID": "MAP21_M_L0230",
+        "msgStr": "Hey, onu bana ver! Lütfen!?"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_01s SEL_135",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0231",
+        "msgStr": "Elbette."
+      },
+      {
+        "msgID": "MAP21_M_L0232",
+        "msgStr": "Pek sanmıyorum."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_01a01_136",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0233",
+        "msgStr": "Harika! Karşılığında sana bunu vereceğim."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_01a02_137",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0234",
+        "msgStr": "> Raidou, <ITM_14><COLOR 4>Roma Sikkesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_01a03_138",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0235",
+        "msgStr": "> <devil 0>, <ITM_14><COLOR 4>Roma Sikkesi<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_01b_139",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0236",
+        "msgStr": "Yaaa! Nedenmiş o!?"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_02_140",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0237",
+        "msgStr": "İşte bu be! Bir geyik böceği buldum!"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_03_141",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0238",
+        "msgStr": "> Agathion, Geyik Böceğini testisine koydu."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_04_142",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0239",
+        "msgStr": "Gah! Ay ay ay!"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_02_05_143",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0240",
+        "msgStr": "Beni kıstırdı!"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_03_01_144",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0241",
+        "msgStr": "Vay canına! Bu bir böcek!"
+      },
+      {
+        "msgID": "MAP21_M_L0242",
+        "msgStr": "Hey, onu benimle takas eder misin!?"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_03_01s SEL_145",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0243",
+        "msgStr": "Elbette."
+      },
+      {
+        "msgID": "MAP21_M_L0244",
+        "msgStr": "Pek sanmıyorum."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_03_01a01_146",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0245",
+        "msgStr": "Harika! Onun karşılığında sana bunu vereceğim."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_03_01a02_147",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0246",
+        "msgStr": "> Raidou, <ITM_14><COLOR 4>Cava Heykelciği<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_03_01a03_148",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0247",
+        "msgStr": "> <devil 0>, <ITM_14><COLOR 4>Cava Heykelciği<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_03_01b_149",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0248",
+        "msgStr": "Yaaa! Nedenmiş o!?"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_03_02_150",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0249",
+        "msgStr": "Süper! Bir böceğim oldu!"
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_03_03_151",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0250",
+        "msgStr": "> Agathion, Böceği testisine koydu."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_04_01_152",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "MAP21_M_L0251",
+        "msgStr": "Her çeşit böceğim var. Onlarla arkadaşlarıma hava atmayı çok seviyorum!"
+      },
+      {
+        "msgID": "map21_m_AKARANA_01_153",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0252",
+        "msgStr": "> Akarana Koridoru'na gidilsin mi?"
+      },
+      {
+        "msgID": "map21_m_m_Rhone01_01_154",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0253",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map21_m_m_Rhone01_02_155",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0254",
+        "msgStr": "> Ancak Büyük Tarrasque, Karanlık Diyar'da değil."
+      },
+      {
+        "msgID": "map21_m_m_Common_IkaiExit01_156",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0255",
+        "msgStr": "> Yatagarasu Elçisi, gerçek dünya ile Karanlık Diyar arasında bir bağlantı kurdu."
+      },
+      {
+        "msgID": "MAP21_M_L0256",
+        "msgStr": "> Işığın ötesinde İsimsiz Tapınak görünüyor. İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map21_m_m_Common_IkaiExit02_157",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0257",
+        "msgStr": "> Işığın ötesinde gerçek dünya görünüyor."
+      },
+      {
+        "msgID": "MAP21_M_L0258",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0259",
+        "msgStr": "> Gerçek dünyaya dönülsün mü?"
+      },
+      {
+        "msgID": "map21_m_m_Common_IkaiExitSelect SEL_158",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0260",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP21_M_L0261",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map21_m_m_HINT_AKUMA_01_159",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP21_M_L0262",
+        "msgStr": "Hey, duydun mu?"
+      },
+      {
+        "msgID": "map21_m_m_HINT_AKUMA_02_160",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP21_M_L0263",
+        "msgStr": "Eh, zaten biliyorsan hiç eğlencesi kalmaz ki..."
+      },
+      {
+        "msgID": "map21_m_m_HINT_AKUMA_03_161",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP21_M_L0264",
+        "msgStr": "Hey, seni tanıyorum! Sen Raidou'sun, değil mi?"
+      },
+      {
+        "msgID": "MAP21_M_L0265",
+        "msgStr": "Ve düşmanlarına Gizli Saldırı yapmak için iblislerini kullanıyorsun, di mi?"
+      },
+      {
+        "msgID": "MAP21_M_L0266",
+        "msgStr": "Karanlık Diyar'daki herkesin Kuzunoha'ya bulaşılmayacağını bilmesine şaşmamalı!"
+      },
+      {
+        "msgID": "map21_m_m_HINT_AKUMA_SETUMEI01_162",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0267",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0268",
+        "msgStr": "<COLOR 3><BTN_Y> Gizli Saldırı (müttefik bir iblis çağrılmışken)\n<BTN_R1> Hedef değiştir<COLOR 0>"
+      },
+      {
+        "msgID": "MAP21_M_L0269",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_HINT_AKUMA_04_163",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP21_M_L0270",
+        "msgStr": "Buradan yukarıdaki aya bakmaya bayılıyorum."
+      },
+      {
+        "msgID": "MAP21_M_L0271",
+        "msgStr": "Orada öylece dönüşü o kadar zarif ki."
+      },
+      {
+        "msgID": "map21_m_m_HINT_AKUMA_05_164",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP21_M_L0272",
+        "msgStr": "O güzelim ay şu an dolunay halinde! Kendimi biraz çılgın hissediyorum!"
+      },
+      {
+        "msgID": "MAP21_M_L0273",
+        "msgStr": "Kanlı bir baleyle herkesi öldüreceğim! Ah, o tatlı mı tatlı zalimlik!"
+      },
+      {
+        "msgID": "MAP21_M_L0274",
+        "msgStr": "Kimse beni durduramaz! Coşkum dizginlenemez! Hahahahaha!"
+      },
+      {
+        "msgID": "map21_m_m_HINT_AKUMA_06_165",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0275",
+        "msgStr": "> İblis laftan sözden tamamen anlamaz hale geldi."
+      },
+      {
+        "msgID": "map21_m_m_FirstHiruko01_01_166",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0276",
+        "msgStr": "Ah, bu duvar..."
+      },
+      {
+        "msgID": "map21_m_m_FirstHiruko01_02_167",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0277",
+        "msgStr": "Bu bir <COLOR 1>Yeraltı Kapısı<COLOR 0>; insanların Karanlık Diyar'a sızan olumsuz duygularının katılaşmış halidir."
+      },
+      {
+        "msgID": "MAP21_M_L0278",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_FirstHiruko01_03_168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0279",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_FirstHiruko02_01_169",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0280",
+        "msgStr": "Yeraltı Kapısı'nı yok edersen ilerleyebilirsin."
+      },
+      {
+        "msgID": "MAP21_M_L0281",
+        "msgStr": "Ancak zayıf olmadığı hiçbir saldırıdan etkilenmeyecektir."
+      },
+      {
+        "msgID": "MAP21_M_L0282",
+        "msgStr": "Her biri farklı bir zayıflığa sahip çeşitli Yeraltı Kapısı türleri vardır."
+      },
+      {
+        "msgID": "MAP21_M_L0283",
+        "msgStr": "<IT_S>Bu<IT_E> kapı, Elektrik Düzeni iblislerinin saldırılarına karşı zayıf görünüyor."
+      },
+      {
+        "msgID": "MAP21_M_L0284",
+        "msgStr": "Eğer gerekli saldırı yöntemine sahip olmadan savaşa girersen derhal kaç."
+      },
+      {
+        "msgID": "MAP21_M_L0285",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0286",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0287",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP21_M_L0288",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map21_m_m_FirstHiruko02_02_170",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0289",
+        "msgStr": "Yeraltı Kapılarının nasıl çalıştığını şimdi anladın mı?"
+      },
+      {
+        "msgID": "map21_m_m_FirstHiruko02_02s SEL_171",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0290",
+        "msgStr": "Anladım."
+      },
+      {
+        "msgID": "MAP21_M_L0291",
+        "msgStr": "Anlamadım."
+      },
+      {
+        "msgID": "map21_m_m_FirstHiruko02_02a_172",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0292",
+        "msgStr": "Güzel. O halde Yeraltı Kapısı'nı yok etmek için bir Elektrik Düzeni iblisi kullan."
+      },
+      {
+        "msgID": "map21_m_m_FirstHiruko02_02b_173",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0293",
+        "msgStr": "Bu bilgi Karanlık Diyar'da hayatta kalmak için hayati önem taşır. Dikkatle dinle."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_01_02c_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP21_M_L0294",
+        "msgStr": "> Gouto, dava dosyasına titizlikle bir not ekledi."
+      },
+      {
+        "msgID": "map21_m_m_Bug_Devil01_01_02c_02",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP21_M_L0295",
+        "msgStr": "Raidou, bu dava dosyasının ayrıntılarına bir kez daha göz atmaya ne dersin?"
+      },
+      {
+        "msgID": "map21_m_m_HINT_AKUMA_06_166",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "MAP21_M_L0296",
+        "msgStr": "Ne yaptığını biliyorum! Ama merak etme, diğer iblislere söylemem."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:57"
+}

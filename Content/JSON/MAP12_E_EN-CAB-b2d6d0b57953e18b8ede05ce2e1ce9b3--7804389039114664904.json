@@ -1,0 +1,89 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP12_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map11_e_dammy_11_01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map12_e_EPI11_SCENE09_01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP12_E_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_E_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_E_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_E_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map12_e_EPI11_SCENE10_01_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP12_E_L0004",
+        "msgStr": "Raidou, beni duyabiliyor musun?"
+      },
+      {
+        "msgID": "MAP12_E_L0005",
+        "msgStr": "Diğer \"Raido\"nun bize anlattıklarını hatırladığına eminim..."
+      },
+      {
+        "msgID": "MAP12_E_L0006",
+        "msgStr": "Bir kızın bilincini ele geçirmeye çalışan gelecekten bir Raidou."
+      },
+      {
+        "msgID": "MAP12_E_L0007",
+        "msgStr": "Kaya'yı ele geçiren \"iblis\" o olmalı."
+      },
+      {
+        "msgID": "MAP12_E_L0008",
+        "msgStr": "O senin haleflerinden biri; gelecekten gelen bir Raidou."
+      },
+      {
+        "msgID": "MAP12_E_L0009",
+        "msgStr": "Kulağa ne kadar ironik gelse de görünüşe göre bu, Kuzunoha'lar arasında bir savaş olacak."
+      },
+      {
+        "msgID": "MAP12_E_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP12_E_L0011",
+        "msgStr": "Fakat senin üstesinden geleceğinden eminim."
+      },
+      {
+        "msgID": "MAP12_E_L0012",
+        "msgStr": "Potansiyelini bizzat gördüm."
+      },
+      {
+        "msgID": "MAP12_E_L0013",
+        "msgStr": "Eğer halefin yolunu kaybettiyse onu tekrar doğru yola sok."
+      },
+      {
+        "msgID": "MAP12_E_L0014",
+        "msgStr": "İkinci Raidou'dan beri her Raidou'ya rehberlik etmiş biri olarak... sana inandığımı bil."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:45:07"
+}

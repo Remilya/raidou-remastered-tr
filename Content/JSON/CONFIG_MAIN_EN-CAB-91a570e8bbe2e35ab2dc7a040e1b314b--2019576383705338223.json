@@ -1,0 +1,109 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONFIG_MAIN_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONFIG_MAIN_L0000",
+        "msgStr": "Değişiklikleri uygula"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0001",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0002",
+        "msgStr": "Oyun"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0003",
+        "msgStr": "Grafikler"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0004",
+        "msgStr": "Görüntü"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0005",
+        "msgStr": "Kontroller"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0006",
+        "msgStr": "Klavye ve Fare"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0007",
+        "msgStr": "MIN"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0008",
+        "msgStr": "MAX"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0009",
+        "msgStr": "AÇIK"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0010",
+        "msgStr": "KAPALI"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0011",
+        "msgStr": "TAMAM"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0012",
+        "msgStr": "Genel"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0013",
+        "msgStr": "Harita"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0014",
+        "msgStr": "Savaş"
+      },
+      {
+        "msgID": "CONFIG_MAIN_L0015",
+        "msgStr": "Etkinlik"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/13 19:23:32"
+}

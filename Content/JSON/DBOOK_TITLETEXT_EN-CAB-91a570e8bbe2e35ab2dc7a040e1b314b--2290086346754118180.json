@@ -1,0 +1,997 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_TITLETEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_TITLETEXT_L0000",
+        "msgStr": "Yok"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0001",
+        "msgStr": "Hedef"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0002",
+        "msgStr": "Kontroller ve Ekran Bilgileri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0003",
+        "msgStr": "Çağırıcı El Kitabı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0004",
+        "msgStr": "İlerleme Raporları"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0005",
+        "msgStr": "Önemli Terimler - Soruşturma"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0006",
+        "msgStr": "Önemli Terimler - Genel"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0007",
+        "msgStr": "Gelecekteki Kendime"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0008",
+        "msgStr": "Dedektif Günlüğünü Kontrol Et"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0009",
+        "msgStr": "İyileşmen Gerektiğinde"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0010",
+        "msgStr": "Sırada Ne Yapacağını Kontrol Etme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0011",
+        "msgStr": "Oyunun Zorluğu Çok Yüksek Olduğunda"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0012",
+        "msgStr": "Sık Sık Kaydet"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0013",
+        "msgStr": "Ekspres Tramvaylar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0014",
+        "msgStr": "Ejderha Pınarı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0015",
+        "msgStr": "İblisleri Tüpe Alma ve Birleştirme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0016",
+        "msgStr": "Tüpe Alma Sanatı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0017",
+        "msgStr": "İblis Füzyonu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0018",
+        "msgStr": "Füzyon Tablosu ve Kurallar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0019",
+        "msgStr": "Normal Füzyon"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0020",
+        "msgStr": "Diğer Füzyon Türleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0021",
+        "msgStr": "İblis Özellikleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0022",
+        "msgStr": "İblis Düzenleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0023",
+        "msgStr": "Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0024",
+        "msgStr": "MAG Emme Sistemi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0025",
+        "msgStr": "Savaş Sırasında MAG Yenileme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0026",
+        "msgStr": "Ruh Gücü"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0027",
+        "msgStr": "İblislere Komut Verme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0028",
+        "msgStr": "Doğrudan Komutları Kullanma"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0029",
+        "msgStr": "Sadakat"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0031",
+        "msgStr": "Güçlenme İpuçları"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0032",
+        "msgStr": "Sen ve İblislerin"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0033",
+        "msgStr": "Senin Gelişimin"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0034",
+        "msgStr": "İblis Gelişimi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0035",
+        "msgStr": "Ay Evreleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0037",
+        "msgStr": "Hedef ve Harita"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0040",
+        "msgStr": "Silah Kullanımı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0042",
+        "msgStr": "Kilitlenme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0044",
+        "msgStr": "Tüpe Alma Sanatı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0045",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0046",
+        "msgStr": "İblislerle Hafiyelik"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0047",
+        "msgStr": "Zayıflık Kalkanları"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0049",
+        "msgStr": "İblis Komutları"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0050",
+        "msgStr": "İblis Komutları II"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0051",
+        "msgStr": "Yetenek Kitapları"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0052",
+        "msgStr": "Tekil Soruşturma"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0053",
+        "msgStr": "Gizli Saldırı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0054",
+        "msgStr": "Savaşa Başlama"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0055",
+        "msgStr": "İnceleme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0057",
+        "msgStr": "İblis Kıran"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0058",
+        "msgStr": "İleri Düzey Kılıç Kullanımı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0060",
+        "msgStr": "Tek Başına Savaşan İblisler"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0075",
+        "msgStr": "Bölüm 1"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0076",
+        "msgStr": "Bölüm 2"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0077",
+        "msgStr": "Bölüm 3"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0078",
+        "msgStr": "Bölüm 4"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0079",
+        "msgStr": "Bölüm 5"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0080",
+        "msgStr": "Bölüm 6"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0081",
+        "msgStr": "Bölüm 7"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0082",
+        "msgStr": "Bölüm 8"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0083",
+        "msgStr": "Bölüm 9"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0084",
+        "msgStr": "Bölüm 10"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0085",
+        "msgStr": "Bölüm 11"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0086",
+        "msgStr": "Son Bölüm"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0087",
+        "msgStr": "Dedektif Kazama"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0088",
+        "msgStr": "Rin"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0089",
+        "msgStr": "Daidouji Ailesi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0090",
+        "msgStr": "Kaya Daidouji"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0091",
+        "msgStr": "Shinpei Nakamura"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0092",
+        "msgStr": "Kiyoshi Daidouji"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0093",
+        "msgStr": "Takeshi Daidouji"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0094",
+        "msgStr": "Ryugu'nun Sahibi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0095",
+        "msgStr": "Denpachi Iida"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0096",
+        "msgStr": "Shizu Iida"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0097",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0098",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0099",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0101",
+        "msgStr": "Süper Asker Projesi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0102",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0103",
+        "msgStr": "Cehennem Piyonları"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0104",
+        "msgStr": "Hiruko"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0105",
+        "msgStr": "Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0106",
+        "msgStr": "Süper Savaş Gemisi Omagatsu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0107",
+        "msgStr": "Ruhsuz Tanrı Yasomagatsu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0108",
+        "msgStr": "Amatsukami"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0109",
+        "msgStr": "Sadakichi Kohno"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0110",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0111",
+        "msgStr": "Raido"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0112",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0113",
+        "msgStr": "Akarana Koridoru"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0114",
+        "msgStr": "Raidou Kuzunoha XL"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0115",
+        "msgStr": "İblisler"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0116",
+        "msgStr": "İblislerle Bağlantılı Olaylar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0117",
+        "msgStr": "İblis Çağırıcısı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0118",
+        "msgStr": "Karanlık Çağırıcı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0119",
+        "msgStr": "İblis Müttefikler"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0120",
+        "msgStr": "Raidou Kuzunoha"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0121",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0122",
+        "msgStr": "Kuzunoha Klanı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0123",
+        "msgStr": "Gerçek İsmi Gizlemek"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0124",
+        "msgStr": "Tüpler"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0125",
+        "msgStr": "Başkent"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0126",
+        "msgStr": "Taisho 20"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0127",
+        "msgStr": "Manyetit"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0128",
+        "msgStr": "Yatagarasu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0129",
+        "msgStr": "Yumizuki Lisesi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0130",
+        "msgStr": "İsimsiz Tapınak"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0131",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0132",
+        "msgStr": "Karanlık Diyar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0133",
+        "msgStr": "Aril Yarığı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0134",
+        "msgStr": "Eğitim Salonu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0135",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0136",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0137",
+        "msgStr": "Narumi ve Kinkakuji Tapınağı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0138",
+        "msgStr": "Konnou-ya"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0139",
+        "msgStr": "Konnou-ya'nın Sahibi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0140",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0141",
+        "msgStr": "Dr. Victor"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0142",
+        "msgStr": "Shin-Sekai Soda Salonu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0143",
+        "msgStr": "Shin-Sekai'ın Sahibi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0144",
+        "msgStr": "Tae Asakura"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0145",
+        "msgStr": "Kenzo Satake"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0146",
+        "msgStr": "Ay Evreleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0147",
+        "msgStr": "Dünya Haritası"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0148",
+        "msgStr": "Saha Haritası"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0149",
+        "msgStr": "Saha Meseleleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0150",
+        "msgStr": "Mavi Kristal"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0151",
+        "msgStr": "Kırmızı Kristal"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0152",
+        "msgStr": "Ejderha Yükseltisi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0153",
+        "msgStr": "Yeraltı Kapısı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0154",
+        "msgStr": "Ushigome-Gaeri Köprüsü"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0155",
+        "msgStr": "Gizemli Kız"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0156",
+        "msgStr": "Gizemli İblis Çağırıcısı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0157",
+        "msgStr": "Gizemli Konuk"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0158",
+        "msgStr": "Özel Muhafızlar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0159",
+        "msgStr": "Işıltılı Muhafızlar ve Koy Muhafızı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0170",
+        "msgStr": "Lord Takagi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0171",
+        "msgStr": "Mistik Göz"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0172",
+        "msgStr": "Giriş Ritüeli"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0173",
+        "msgStr": "Ejderha Yükseltisi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0174",
+        "msgStr": "Yeraltı Kapısı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0185",
+        "msgStr": "Elfman"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0186",
+        "msgStr": "EL 200"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0187",
+        "msgStr": "Fuchikoma"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0188",
+        "msgStr": "Tüpe Alma Sanatı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0189",
+        "msgStr": "Hitogata"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0190",
+        "msgStr": "Ruh Gücü"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0191",
+        "msgStr": "Boyun Eğmeyenler"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0192",
+        "msgStr": "Süper Savaş Gemisi Yasomagatsu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0193",
+        "msgStr": "Itolkovsky Denklemi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0194",
+        "msgStr": "Ruh Gönderme Ritüeli"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0195",
+        "msgStr": "Zaman Yolcusu"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0196",
+        "msgStr": "Kırkıncı'nın Zaman Çizgisi"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0197",
+        "msgStr": "20XX Yılının Raidou'su"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0198",
+        "msgStr": "Kırkıncı'nın Suçları"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0199",
+        "msgStr": "Doğrudan Komutlar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0200",
+        "msgStr": "Temel Kontroller"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0201",
+        "msgStr": "Savaşta Kontroller"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0202",
+        "msgStr": "Savaşta İblislere Komut Verme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0203",
+        "msgStr": "Saha Kontrolleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0204",
+        "msgStr": "Savaşta Ekran Bilgileri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0205",
+        "msgStr": "Sahada Ekran Bilgileri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0206",
+        "msgStr": "Ana Menü ve Durum"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0207",
+        "msgStr": "Durum Rahatsızlıkları"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0208",
+        "msgStr": "Hedefini Kontrol Etme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0209",
+        "msgStr": "Çağırıcı El Kitabı: Genel"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0210",
+        "msgStr": "Çağırıcı El Kitabı: Saha"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0211",
+        "msgStr": "Çağırıcı El Kitabı: Savaş"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0212",
+        "msgStr": "Çağırıcı El Kitabı: İblis Edinme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0213",
+        "msgStr": "Çağırıcı El Kitabı: İblis Özellikleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0214",
+        "msgStr": "Çağırıcı El Kitabı: Komutlar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0215",
+        "msgStr": "Çağırıcı El Kitabı: Goumaden"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0216",
+        "msgStr": "Füzyon Tablosu ve Kurallar: Normal Füzyon"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0217",
+        "msgStr": "Füzyon Tablosu ve Kurallar: Diğer Füzyonlar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0218",
+        "msgStr": "Çağırıcı El Kitabı: Gelişim"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0219",
+        "msgStr": "Çağırıcı Yetenekleri"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0220",
+        "msgStr": "Düşmanları Sersemletme"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0221",
+        "msgStr": "Yeraltı Kapısı"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0222",
+        "msgStr": "Ruh Gücü"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0223",
+        "msgStr": "Kombolar"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0224",
+        "msgStr": "Kaçınmak İçin Zıplama"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0225",
+        "msgStr": "Tüplerden Yararlanma"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0226",
+        "msgStr": "İblis Yoklaması"
+      },
+      {
+        "msgID": "DBOOK_TITLETEXT_L0227",
+        "msgStr": "Eğitim Metinlerini Gözden Geçir"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:27:30"
+}

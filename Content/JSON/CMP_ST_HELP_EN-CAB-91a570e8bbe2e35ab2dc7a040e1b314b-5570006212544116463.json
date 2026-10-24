@@ -1,0 +1,41 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_ST_HELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CMP_ST_HELP_L0000",
+        "msgStr": "Bir iblise emir ver."
+      },
+      {
+        "msgID": "CMP_ST_HELP_L0001",
+        "msgStr": "Bir iblis çağır."
+      },
+      {
+        "msgID": "CMP_ST_HELP_L0002",
+        "msgStr": "Bir iblisi tüpe geri döndür."
+      },
+      {
+        "msgID": "CMP_ST_HELP_L0003",
+        "msgStr": "Bir eşya kullan."
+      },
+      {
+        "msgID": "CMP_ST_HELP_L0004",
+        "msgStr": "Bir düşmanı analiz et."
+      },
+      {
+        "msgID": "CMP_ST_HELP_L0005",
+        "msgStr": "Savaştan kaç."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:36:59"
+}

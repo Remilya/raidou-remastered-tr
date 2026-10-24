@@ -1,0 +1,773 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DEST_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DEST_L00_00",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEST_L01_01",
+        "msgStr": "Dedektif Kazama'nın ne yaptığını öğren"
+      },
+      {
+        "msgID": "DEST_L01_02",
+        "msgStr": "Daidouji Malikânesi'ne git"
+      },
+      {
+        "msgID": "DEST_L01_03",
+        "msgStr": "Daidouji Malikânesi'ni araştır"
+      },
+      {
+        "msgID": "DEST_L01_04",
+        "msgStr": "Tekil soruşturma sırasında çalışma odasını kontrol et"
+      },
+      {
+        "msgID": "DEST_L01_05",
+        "msgStr": "Tsukudo-cho'daki öğrencilerle konuş"
+      },
+      {
+        "msgID": "DEST_L01_06",
+        "msgStr": "Rin ile konuş"
+      },
+      {
+        "msgID": "DEST_L01_07",
+        "msgStr": "Tramvayla Shinoda'ya git"
+      },
+      {
+        "msgID": "DEST_L01_08",
+        "msgStr": "İsimsiz Tapınak üzerinden\nKaranlık Diyar'a gir"
+      },
+      {
+        "msgID": "DEST_L01_09",
+        "msgStr": "Karanlık Tsukudo-cho'da Rin'i kurtar"
+      },
+      {
+        "msgID": "DEST_L01_10",
+        "msgStr": "Tsukudo-cho'da Rin ile konuş"
+      },
+      {
+        "msgID": "DEST_L01_11",
+        "msgStr": "Daidouji Malikânesi'ndeki\nbodrum katı girişini bul"
+      },
+      {
+        "msgID": "DEST_L01_12",
+        "msgStr": "Bodrum katını araştır"
+      },
+      {
+        "msgID": "DEST_L01_13",
+        "msgStr": "Daidouji Malikânesi'ndekilere\nşarabı sor"
+      },
+      {
+        "msgID": "DEST_L01_14",
+        "msgStr": "Şarabı temin et"
+      },
+      {
+        "msgID": "DEST_L01_15",
+        "msgStr": "Şarabı Tarrasque'a ver"
+      },
+      {
+        "msgID": "DEST_L01_16",
+        "msgStr": "Bodrum katını araştır"
+      },
+      {
+        "msgID": "DEST_L01_17",
+        "msgStr": "Daidouji Malikânesi'nde\nKiyoshi ile konuş"
+      },
+      {
+        "msgID": "DEST_L01_18",
+        "msgStr": "Kiyoshi'nin konuşmasını gizlice dinle"
+      },
+      {
+        "msgID": "DEST_L01_19",
+        "msgStr": "Dedektiflik bürosunda\nNarumi'nin fikrini al"
+      },
+      {
+        "msgID": "DEST_L01_20",
+        "msgStr": "Daidouji Malikânesi'nde\nKiyoshi ile konuş"
+      },
+      {
+        "msgID": "DEST_L01_21",
+        "msgStr": "Kiyoshi Daidouji'nin peşine düş"
+      },
+      {
+        "msgID": "DEST_L02_01",
+        "msgStr": "Tramvayla Ginza-cho'ya git"
+      },
+      {
+        "msgID": "DEST_L02_02",
+        "msgStr": "Ginza-cho'ya git"
+      },
+      {
+        "msgID": "DEST_L02_03",
+        "msgStr": "Ryugu'nun sahibiyle konuş"
+      },
+      {
+        "msgID": "DEST_L02_04",
+        "msgStr": "Tramvayla Fukagawa-cho'ya git"
+      },
+      {
+        "msgID": "DEST_L02_05",
+        "msgStr": "Fukagawa-cho'da Denpachi'yi ara"
+      },
+      {
+        "msgID": "DEST_L02_06",
+        "msgStr": "Daikoku-yu'daki\npatrondan izin al"
+      },
+      {
+        "msgID": "DEST_L02_07",
+        "msgStr": "Fukagawa-cho'da\nDenpachi'nin evine git"
+      },
+      {
+        "msgID": "DEST_L02_08",
+        "msgStr": "Karanlık Fukagawa-cho'daki\nhapishaneyi araştır"
+      },
+      {
+        "msgID": "DEST_L02_09",
+        "msgStr": "Konnou-ya'nın sahibiyle konuş"
+      },
+      {
+        "msgID": "DEST_L02_10",
+        "msgStr": "Konnou-ya'nın sahibiyle konuş"
+      },
+      {
+        "msgID": "DEST_L02_11",
+        "msgStr": "İsimsiz Tapınak'ta\nGiriş Ritüeli'ni gerçekleştir"
+      },
+      {
+        "msgID": "DEST_L02_12",
+        "msgStr": "Karanlık Fukagawa-cho'daki hapishanenin kilidini aç"
+      },
+      {
+        "msgID": "DEST_L02_13",
+        "msgStr": "Daikoku-yu'ya git ve\nSatake'den bilgi al"
+      },
+      {
+        "msgID": "DEST_L02_14",
+        "msgStr": "Kırmızı Fener Mahallesi'nde Shizu ile konuş"
+      },
+      {
+        "msgID": "DEST_L02_15",
+        "msgStr": "Dedektiflik bürosunda\nNarumi'ye danış"
+      },
+      {
+        "msgID": "DEST_L02_16",
+        "msgStr": "Shin-Sekai'de Tae'ye durumu bildir"
+      },
+      {
+        "msgID": "DEST_L02_17",
+        "msgStr": "Dolunay sırasında Kurisu-zaka\nüst geçidinin altını kontrol et"
+      },
+      {
+        "msgID": "DEST_L02_18",
+        "msgStr": "Kırmızı Fener Mahallesi'nde Shizu ile konuş"
+      },
+      {
+        "msgID": "DEST_L02_19",
+        "msgStr": "Ryugu'nun sahibiyle konuş"
+      },
+      {
+        "msgID": "DEST_L02_20",
+        "msgStr": "Kurisu-zaka'daki\nkaza mahallini araştır"
+      },
+      {
+        "msgID": "DEST_L02_21",
+        "msgStr": "İsimsiz Tapınak'ta\nGiriş Ritüeli'ni gerçekleştir"
+      },
+      {
+        "msgID": "DEST_L02_22",
+        "msgStr": "Kırmızı Pelerin'i Karanlık Ginza-cho'ya kadar takip et"
+      },
+      {
+        "msgID": "DEST_L02_23",
+        "msgStr": "Kırmızı Pelerin'i Karanlık Ginza-cho'ya kadar takip et"
+      },
+      {
+        "msgID": "DEST_L02_24",
+        "msgStr": "Kırmızı Pelerin'i Karanlık Ginza-cho'ya kadar takip et"
+      },
+      {
+        "msgID": "DEST_L02_25",
+        "msgStr": "Kırmızı Pelerin'i Karanlık Ginza-cho'ya kadar takip et"
+      },
+      {
+        "msgID": "DEST_L02_26",
+        "msgStr": "Kırmızı Pelerin'i Karanlık Ginza-cho'ya kadar takip et"
+      },
+      {
+        "msgID": "DEST_L02_27",
+        "msgStr": "Kırmızı Pelerin'i Karanlık Ginza-cho'ya kadar takip et"
+      },
+      {
+        "msgID": "DEST_L02_28",
+        "msgStr": "Kırmızı Pelerin'i Karanlık Ginza-cho'ya kadar takip et"
+      },
+      {
+        "msgID": "DEST_L02_29",
+        "msgStr": "Kırmızı Pelerin'i Karanlık Ginza-cho'ya kadar takip et"
+      },
+      {
+        "msgID": "DEST_L03_01",
+        "msgStr": "Tramvayla Fukagawa-cho'ya git"
+      },
+      {
+        "msgID": "DEST_L03_02",
+        "msgStr": "Kiyoshi'nin Daidouji Tekstil'de olup olmadığını öğren"
+      },
+      {
+        "msgID": "DEST_L03_03",
+        "msgStr": "Daidouji Tekstil'de Kiyoshi'yi ara"
+      },
+      {
+        "msgID": "DEST_L03_04",
+        "msgStr": "Matris Labirenti'ndeki\nüç parçadan ilkini bul"
+      },
+      {
+        "msgID": "DEST_L03_05",
+        "msgStr": "Matris Labirenti'ndeki\nüç parçadan ikincisini bul"
+      },
+      {
+        "msgID": "DEST_L03_06",
+        "msgStr": "Matris Labirenti'ndeki\nüçüncü ve son parçayı bul"
+      },
+      {
+        "msgID": "DEST_L03_07",
+        "msgStr": "Daidouji Tekstil'deki mührü kır"
+      },
+      {
+        "msgID": "DEST_L03_08",
+        "msgStr": "Daidouji Tekstil'deki\ndepo odasını kontrol et"
+      },
+      {
+        "msgID": "DEST_L04_01",
+        "msgStr": "Tramvayla Harumi-cho'ya git"
+      },
+      {
+        "msgID": "DEST_L04_02",
+        "msgStr": "Harumi-cho'da etrafa soruştur"
+      },
+      {
+        "msgID": "DEST_L04_03",
+        "msgStr": "Dedektiflik bürosunda\nNarumi'ye danış"
+      },
+      {
+        "msgID": "DEST_L04_04",
+        "msgStr": "Daikoku-yu'ya git ve\nSatake'den bilgi al"
+      },
+      {
+        "msgID": "DEST_L04_05",
+        "msgStr": "Harumi-cho'da Elfman'ı ara"
+      },
+      {
+        "msgID": "DEST_L04_06",
+        "msgStr": "İsimsiz Tapınak'ta\nGiriş Ritüeli'ni gerçekleştir"
+      },
+      {
+        "msgID": "DEST_L04_07",
+        "msgStr": "Karanlık Harumi-cho'yu araştır"
+      },
+      {
+        "msgID": "DEST_L04_08",
+        "msgStr": "Denizciyi bul ve kurtar"
+      },
+      {
+        "msgID": "DEST_L04_09",
+        "msgStr": "Denizciyi bul ve kurtar"
+      },
+      {
+        "msgID": "DEST_L04_10",
+        "msgStr": "Karanlık Harumi-cho'da\nsuçluyu ara"
+      },
+      {
+        "msgID": "DEST_L04_11",
+        "msgStr": "Ryugu'nun sahibine durumu bildir"
+      },
+      {
+        "msgID": "DEST_L04_12",
+        "msgStr": "Daidouji Malikânesi'ndeki\nTarrasque ile konuş"
+      },
+      {
+        "msgID": "DEST_L04_13",
+        "msgStr": "Özel mülkünde Elfman'ı ara"
+      },
+      {
+        "msgID": "DEST_L04_14",
+        "msgStr": "Gizemli sesin\nkaynağını araştır"
+      },
+      {
+        "msgID": "DEST_L04_15",
+        "msgStr": "Katolik kilisesini araştır"
+      },
+      {
+        "msgID": "DEST_L04_16",
+        "msgStr": "Katolik kilisesini araştır"
+      },
+      {
+        "msgID": "DEST_L05_01",
+        "msgStr": "Tramvayla Kasumidai'a git"
+      },
+      {
+        "msgID": "DEST_L05_02",
+        "msgStr": "Tramvayla Kasumidai'a git"
+      },
+      {
+        "msgID": "DEST_L05_03",
+        "msgStr": "Kasumidai'daki muhbirle buluş"
+      },
+      {
+        "msgID": "DEST_L05_04",
+        "msgStr": "Sol yanağında büyük bir ben\nolan askeri bul"
+      },
+      {
+        "msgID": "DEST_L05_05",
+        "msgStr": "Nöbetçi kulübesini araştır"
+      },
+      {
+        "msgID": "DEST_L05_06",
+        "msgStr": "Askerlerle konuş"
+      },
+      {
+        "msgID": "DEST_L05_07",
+        "msgStr": "Nöbet değişimini bildirmek\niçin topu ateşle"
+      },
+      {
+        "msgID": "DEST_L05_08",
+        "msgStr": "Nöbetçi kulübesinde firariyi ara"
+      },
+      {
+        "msgID": "DEST_L05_09",
+        "msgStr": "Durumu Tae'ye açıkla"
+      },
+      {
+        "msgID": "DEST_L05_10",
+        "msgStr": "Konnou-ya'da fotoğraf makinesini sor"
+      },
+      {
+        "msgID": "DEST_L05_11",
+        "msgStr": "İsimsiz Tapınak'ta\nGiriş Ritüeli'ni gerçekleştir"
+      },
+      {
+        "msgID": "DEST_L05_12",
+        "msgStr": "Kasumidai'da Tae'yi ara"
+      },
+      {
+        "msgID": "DEST_L05_13",
+        "msgStr": "Kasumidai'da dosyaları ara"
+      },
+      {
+        "msgID": "DEST_L05_14",
+        "msgStr": "Zombi subaylarla konuş"
+      },
+      {
+        "msgID": "DEST_L05_15",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_16",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_17",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_18",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_19",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_20",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_21",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_22",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_23",
+        "msgStr": "Zombi subaylarla konuş\nve dosyaların yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L05_24",
+        "msgStr": "Karanlık Kasumidai'da Sadakichi'ye durumu bildir"
+      },
+      {
+        "msgID": "DEST_L05_25",
+        "msgStr": "4 Nolu Topçu Bataryası'nın\naltındaki askeri üsse sız"
+      },
+      {
+        "msgID": "DEST_L05_26",
+        "msgStr": "Yeraltı tersanesinde\nKaya'yı ara"
+      },
+      {
+        "msgID": "DEST_L05_27",
+        "msgStr": "Kendini yenileyen duvarı kimin kurduğunu bul"
+      },
+      {
+        "msgID": "DEST_L05_28",
+        "msgStr": "Yeraltı tersanesinde\nKaya'yı ara"
+      },
+      {
+        "msgID": "DEST_L05_29",
+        "msgStr": "Yeraltı tersanesinde Kaya'yı kurtar"
+      },
+      {
+        "msgID": "DEST_L06_01",
+        "msgStr": "Konnou-ya'dan paketi teslim al"
+      },
+      {
+        "msgID": "DEST_L06_02",
+        "msgStr": "Paketi Narumi'ye teslim et"
+      },
+      {
+        "msgID": "DEST_L06_03",
+        "msgStr": "Kristal küre hakkında bilgi topla"
+      },
+      {
+        "msgID": "DEST_L06_04",
+        "msgStr": "Konnou-ya'da\nkristal küreyi sor"
+      },
+      {
+        "msgID": "DEST_L06_05",
+        "msgStr": "Goumaden'de\nkristal küreyi sor"
+      },
+      {
+        "msgID": "DEST_L06_06",
+        "msgStr": "Daikoku-yu'ya git ve\nSatake'den bilgi al"
+      },
+      {
+        "msgID": "DEST_L06_07",
+        "msgStr": "Daikoku-yu'ya git ve\nSatake'den bilgi al"
+      },
+      {
+        "msgID": "DEST_L06_08",
+        "msgStr": "Daha fazla bilgi almak için\nMuhteşem Bilim Laboratuvarı'na git"
+      },
+      {
+        "msgID": "DEST_L06_09",
+        "msgStr": "Shin-Sekai'a git ve Tae'den\ndaha fazla bilgi al"
+      },
+      {
+        "msgID": "DEST_L06_10",
+        "msgStr": "Shin-Sekai'a git ve Tae'den\ndaha fazla bilgi al"
+      },
+      {
+        "msgID": "DEST_L06_11",
+        "msgStr": "Ginza-cho'daki\ninşaat alanını araştır"
+      },
+      {
+        "msgID": "DEST_L06_12",
+        "msgStr": "Dedektiflik bürosunda\nNarumi'ye danış"
+      },
+      {
+        "msgID": "DEST_L07_01",
+        "msgStr": "Kurban olmaya hazırlan"
+      },
+      {
+        "msgID": "DEST_L07_02",
+        "msgStr": "Karanlık Fukagawa-cho'da\nlanetin kaynağını tespit et"
+      },
+      {
+        "msgID": "DEST_L07_03",
+        "msgStr": "Karanlık Fukagawa-cho'da\nlanetin kaynağını tespit et"
+      },
+      {
+        "msgID": "DEST_L07_04",
+        "msgStr": "Mühür tılsımının yerini tespit et"
+      },
+      {
+        "msgID": "DEST_L07_05",
+        "msgStr": "Karanlık Fukagawa-cho'da\nHitokotonushi'yi alt et"
+      },
+      {
+        "msgID": "DEST_L08_01",
+        "msgStr": "Tramvayla Harumi-cho'ya git"
+      },
+      {
+        "msgID": "DEST_L08_02",
+        "msgStr": "Tramvayla Harumi-cho'ya git"
+      },
+      {
+        "msgID": "DEST_L08_03",
+        "msgStr": "Harumi-cho üzerinden\nSakuradayama'ya geç"
+      },
+      {
+        "msgID": "DEST_L08_04",
+        "msgStr": "Sakuradayama'da bilgi topla"
+      },
+      {
+        "msgID": "DEST_L08_05",
+        "msgStr": "İsimsiz Tapınak'ta\nGiriş Ritüeli'ni gerçekleştir"
+      },
+      {
+        "msgID": "DEST_L08_06",
+        "msgStr": "Karanlık Diyar üzerinden\nWaden One'a sız"
+      },
+      {
+        "msgID": "DEST_L09_01",
+        "msgStr": "Narumi Dedektiflik Bürosu'na dön"
+      },
+      {
+        "msgID": "DEST_L09_02",
+        "msgStr": "Siyah kediyi Tamonten Tapınağı'na kadar takip et"
+      },
+      {
+        "msgID": "DEST_L09_03",
+        "msgStr": "Gizli prizmaları topla"
+      },
+      {
+        "msgID": "DEST_L09_04",
+        "msgStr": "Gizli prizmaları topla"
+      },
+      {
+        "msgID": "DEST_L09_05",
+        "msgStr": "Bilgelik sınavını geç ve\nToprak Prizması'nı elde et"
+      },
+      {
+        "msgID": "DEST_L09_06",
+        "msgStr": "Gizli prizmaları topla"
+      },
+      {
+        "msgID": "DEST_L09_07",
+        "msgStr": "Karanlık Ginza-cho'da\nmuhafızı ara"
+      },
+      {
+        "msgID": "DEST_L09_08",
+        "msgStr": "Gizli prizmaları topla"
+      },
+      {
+        "msgID": "DEST_L09_09",
+        "msgStr": "Shouten'i alt et ve sekiz\nSaflık Tılsımı'nı topla"
+      },
+      {
+        "msgID": "DEST_L09_10",
+        "msgStr": "Saflık Tılsımlarını Shouten'e teslim et"
+      },
+      {
+        "msgID": "DEST_L09_11",
+        "msgStr": "Alternatif zaman çizgisinin\nYatagarasu Elçisi ile konuş"
+      },
+      {
+        "msgID": "DEST_L10_01",
+        "msgStr": "Narumi Dedektiflik Bürosu'na dön"
+      },
+      {
+        "msgID": "DEST_L10_02",
+        "msgStr": "Donanma Karargâhı'nda Narumi'yi ara"
+      },
+      {
+        "msgID": "DEST_L10_03",
+        "msgStr": "Narumi Dedektiflik Bürosu'na dön\nve ipucu ara"
+      },
+      {
+        "msgID": "DEST_L10_04",
+        "msgStr": "Kasumidai'ın kuzeyindeki\ngizli geçidi bul"
+      },
+      {
+        "msgID": "DEST_L10_05",
+        "msgStr": "Kasumi Kayranı'nı araştır"
+      },
+      {
+        "msgID": "DEST_L10_06",
+        "msgStr": "Yeraltı tersanesinde\nNarumi ve Munakata'yı bul"
+      },
+      {
+        "msgID": "DEST_L10_07",
+        "msgStr": "Bir Ippon-Datara bul ve duvarı yık"
+      },
+      {
+        "msgID": "DEST_L10_08",
+        "msgStr": "Yeraltı tersanesinde Munakata'yı bul"
+      },
+      {
+        "msgID": "DEST_L10_09",
+        "msgStr": "Yeraltı tersanesinden kaç"
+      },
+      {
+        "msgID": "DEST_L11_01",
+        "msgStr": "Muhteşem Bilim Laboratuvarı'nda\nDr. Tsukumo ile konuş"
+      },
+      {
+        "msgID": "DEST_L11_02",
+        "msgStr": "Donanma Karargâhı'nda Sadakichi ile konuş"
+      },
+      {
+        "msgID": "DEST_L11_03",
+        "msgStr": "Dosyaları Dr. Tsukumo'ya göster"
+      },
+      {
+        "msgID": "DEST_L11_04",
+        "msgStr": "Goumaden'de Victor'a danış"
+      },
+      {
+        "msgID": "DEST_L11_05",
+        "msgStr": "Shin-Sekai'da Rasputin ile konuş"
+      },
+      {
+        "msgID": "DEST_L11_06",
+        "msgStr": "Hesaplamaları Dr. Tsukumo ile paylaş"
+      },
+      {
+        "msgID": "DEST_L11_07",
+        "msgStr": "Hazır olduğunda Dr. Tsukumo ile konuş"
+      },
+      {
+        "msgID": "DEST_L11_08",
+        "msgStr": "Çekirdeği yok et"
+      },
+      {
+        "msgID": "DEST_L12_01",
+        "msgStr": "Ele geçirilmiş Kaya'yı ara"
+      },
+      {
+        "msgID": "DEST_L12_02",
+        "msgStr": "Ushigome-Gaeri Köprüsü'nde\nritüeli gerçekleştir"
+      },
+      {
+        "msgID": "DEST_L12_03",
+        "msgStr": "Akarana Koridoru'nda Kaya'yı ara"
+      },
+      {
+        "msgID": "DEST_L09_12",
+        "msgStr": "Karanlık Harumi-cho'da Shouten ile konuş"
+      },
+      {
+        "msgID": "DEST_LB00_01",
+        "msgStr": "<BTN_R2>+<BTN_Y> ile Ateş Mührü kullan"
+      },
+      {
+        "msgID": "DEST_L00_01",
+        "msgStr": "Menüden (<BTN_OP2>) Ukobach'ı çağır"
+      },
+      {
+        "msgID": "DEST_L00_02",
+        "msgStr": "<BTN_B> ile Alp üzerinde Tutuşturma kullan"
+      },
+      {
+        "msgID": "DEST_LB01_01",
+        "msgStr": "Bir düşmanı hazırlıksız yakala\nve İblis Felaketi yap"
+      },
+      {
+        "msgID": "DEST_LB01_02",
+        "msgStr": "<BTN_X>+<BTN_A> ile Ruh Darbesi kullan"
+      },
+      {
+        "msgID": "DEST_LBEX_01",
+        "msgStr": "<BTN_R2>+<BTN_DU> ile iblis değiştir"
+      },
+      {
+        "msgID": "DEST_LB00_02",
+        "msgStr": "<BTN_Y> Hafif kılıç saldırısı\n<BTN_X> Ağır kılıç saldırısı"
+      },
+      {
+        "msgID": "DEST_LB00_07",
+        "msgStr": "<BTN_Y> Hafif kılıç saldırısı"
+      },
+      {
+        "msgID": "DEST_LB00_08",
+        "msgStr": "<BTN_X> Ağır kılıç saldırısı"
+      },
+      {
+        "msgID": "DEST_LB00_09",
+        "msgStr": "<BTN_A> Kaçınma"
+      },
+      {
+        "msgID": "DEST_LB00_10",
+        "msgStr": "<BTN_L1> Savunma"
+      },
+      {
+        "msgID": "DEST_LB00_11",
+        "msgStr": "<BTN_B> Zıpla"
+      },
+      {
+        "msgID": "DEST_LB00_12",
+        "msgStr": "<BTN_OP2> Savaş menüsü"
+      },
+      {
+        "msgID": "DEST_LB00_03",
+        "msgStr": "<BTN_L2>(basılı tut)+<BTN_R2> Ateş et"
+      },
+      {
+        "msgID": "DEST_LB00_04",
+        "msgStr": "<BTN_A> İblis Aldatmacası (düşmana dönükken)"
+      },
+      {
+        "msgID": "DEST_LB00_05",
+        "msgStr": "<BTN_R2>+<BTN_A>(art arda) Tüpe alma sanatı"
+      },
+      {
+        "msgID": "DEST_LB00_13",
+        "msgStr": "<BTN_DL> Yetenek Kullan/Yetenek Kullanma ayarla"
+      },
+      {
+        "msgID": "DEST_LB00_14",
+        "msgStr": "<BTN_DL>/<BTN_DR> Yetenek Kullan/Yetenek Kullanma ayarla"
+      },
+      {
+        "msgID": "DEST_LB00_15",
+        "msgStr": "<BTN_R2>+<BTN_DL> Komut"
+      },
+      {
+        "msgID": "DEST_LB00_16",
+        "msgStr": "<BTN_R2>+<BTN_DL>/<BTN_DR>"
+      },
+      {
+        "msgID": "DEST_LB00_06",
+        "msgStr": "<BTN_L3> Korumaya almayı aç/kapat"
+      },
+      {
+        "msgID": "DEST_LBEX_02",
+        "msgStr": "<BTN_DD> İblis çağır veya geri döndür"
+      },
+      {
+        "msgID": "DEST_L07_06",
+        "msgStr": "Karanlık Fukagawa-cho'da\nlanetin kaynağını tespit et"
+      },
+      {
+        "msgID": "DEST_L03_09",
+        "msgStr": "İşçileri bul ve kurtar"
+      },
+      {
+        "msgID": "DEST_LB00_17",
+        "msgStr": "<BTN_Y> Saldırı\n<BTN_X> Savaş Yeteneği\n<BTN_DU>/<BTN_DD> Savaş Yeteneği değiştir\n<BTN_A> Kaçınma\n<BTN_L1> Savunma"
+      },
+      {
+        "msgID": "DEST_L01_22",
+        "msgStr": "Tsukudo-cho'da bilgi topla"
+      },
+      {
+        "msgID": "DEST_LB00_18",
+        "msgStr": "<BTN_R2>+<BTN_A>(basılı tut) Tüpe alma sanatı"
+      },
+      {
+        "msgID": "DEST_L10_10",
+        "msgStr": "Yeraltı tersanesinde\nNarumi ve Munakata'yı bul"
+      },
+      {
+        "msgID": "DEST_L12_04",
+        "msgStr": "İnsanların duygularını\nAmatsu Kanagi'de topla"
+      },
+      {
+        "msgID": "DEST_LB00_19",
+        "msgStr": "Kalan düşman: <V 2>"
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/11 15:13:21"
+}

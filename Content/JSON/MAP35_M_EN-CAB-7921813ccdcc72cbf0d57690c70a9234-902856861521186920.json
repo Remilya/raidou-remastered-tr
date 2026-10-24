@@ -1,0 +1,329 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP35_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map35_m_MSG_LMP_SYS_CLS_ST01A_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP35_M_L0000",
+        "msgStr": "Şimdi tramvaya binmeye gerek yok. Soruşturmaya odaklanalım."
+      },
+      {
+        "msgID": "MAP35_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map35_m_MSG_LMP_SYS_N_FARE01A_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0002",
+        "msgStr": "> Raidou'nun tramvay ücreti için yeterli parası yoktu."
+      },
+      {
+        "msgID": "MAP35_M_L0003",
+        "msgStr": "> Kalanını Gouto karşıladı."
+      },
+      {
+        "msgID": "map35_m_MSG_LMP_SYS_N_FARE02A_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0004",
+        "msgStr": "> Raidou'nun tramvay ücreti için yeterli parası yoktu."
+      },
+      {
+        "msgID": "MAP35_M_L0005",
+        "msgStr": "> Kalanını Gouto karşıladı."
+      },
+      {
+        "msgID": "map35_m_MSG_LMP_SYS_N_FARE01B_003",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP35_M_L0006",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map35_m_MSG_LMP_SYS_FREE_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0007",
+        "msgStr": "> Raidou tramvaya ücretsiz binmek için <COLOR 4>Tramvay Pasosu<COLOR 0>'nu kullandı."
+      },
+      {
+        "msgID": "map35_m_MSG_LMP_SYS_LOAN01_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP35_M_L0008",
+        "msgStr": "Dinle, Raidou."
+      },
+      {
+        "msgID": "MAP35_M_L0009",
+        "msgStr": "Tramvay yolculuklarını finanse ettiğim onca seferin borcunu ödeme vaktin geldi."
+      },
+      {
+        "msgID": "map35_m_MSG_LMP_SYS_LOAN02_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0010",
+        "msgStr": "> Raidou, ücretini ödemek için ödünç aldığı paraları Gouto'ya geri ödedi."
+      },
+      {
+        "msgID": "map35_m_MSG_LMP_SYS_LOAN03_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0011",
+        "msgStr": "> Gouto'nun tramvay ücreti için Raidou'ya ödünç verdiği tüm para Gouto'nun cüzdanına geri döndü."
+      },
+      {
+        "msgID": "map35_m_EP04_lmap_ASHIDOME_01_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0012",
+        "msgStr": "> Bir gemi nehri kapatıyor. Askerî bir ablukaya benziyor."
+      },
+      {
+        "msgID": "map35_m_EP04_lmap_HARU_01_009",
+        "msgStr": "İnşaat İşçisi"
+      },
+      {
+        "msgID": "MAP35_M_L0013",
+        "msgStr": "Kusura bakma evlat, bu alanda inşaat var."
+      },
+      {
+        "msgID": "MAP35_M_L0014",
+        "msgStr": "İstasyondan deniz kuvvetleri karargâhına giden cadde trafiğe kapalı."
+      },
+      {
+        "msgID": "MAP35_M_L0015",
+        "msgStr": "Onun yerine istasyondan Harumi-cho'ya giden yolu kullanman gerekecek."
+      },
+      {
+        "msgID": "map35_m_m_Rhone01_01_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0016",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map35_m_m_Rhone01_02_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0017",
+        "msgStr": "> Ancak Büyük Tarrasque gelmedi..."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0018",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0019",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_NOGET_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0020",
+        "msgStr": "> Raidou onu orada bıraktı."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_D_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0021",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_D_GET_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0022",
+        "msgStr": "> <devil 0>, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_D_NOGET_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0023",
+        "msgStr": "> <devil 0> onu orada bıraktı."
+      },
+      {
+        "msgID": "MAP35_M_L0024",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP35_M_L0025",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET01_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0026",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET02_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0027",
+        "msgStr": "> <ITM_14><COLOR 4>Ahşap Süs<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET03_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0028",
+        "msgStr": "> <ITM_11><COLOR 4>\"Mansaku\" Sakesi<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET04_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0029",
+        "msgStr": "> <ITM_08><COLOR 4>Kas İçeceği<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET05_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0030",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET06_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0031",
+        "msgStr": "> <ITM_12><COLOR 4>Tilki Kuyruğu<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET07_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0032",
+        "msgStr": "> <ITM_14><COLOR 4>Asuka Aynası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET08_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0033",
+        "msgStr": "> <ITM_09><COLOR 4>Şans Tütsüsü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET09_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0034",
+        "msgStr": "> <ITM_09><COLOR 4> Dayanıklılık Tütsüsü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET10_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0035",
+        "msgStr": "> <ITM_11><COLOR 4>\"Kotetsu\" Sakesi<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET11_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0036",
+        "msgStr": "> <ITM_09><COLOR 4>Büyü Tütsüsü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET12_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0037",
+        "msgStr": "> <ITM_09><COLOR 4>Dayanıklılık Tütsüsü<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET13_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0038",
+        "msgStr": "> <ITM_14><COLOR 4>Cava Heykelciği<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET14_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0039",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Damlası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET15_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0040",
+        "msgStr": "> <ITM_08><COLOR 4>İlaç<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET16_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0041",
+        "msgStr": "> <ITM_08><COLOR 4>İlaç<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map35_m_L_TAKARAP_GET17_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP35_M_L0042",
+        "msgStr": "> Raidou <ITM_04><COLOR 4>Lüks Yılan Balığı<COLOR 0> x1 elde etti."
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/07 15:26:43"
+}

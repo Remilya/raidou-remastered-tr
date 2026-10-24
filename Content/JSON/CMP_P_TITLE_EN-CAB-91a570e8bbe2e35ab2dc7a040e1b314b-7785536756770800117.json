@@ -1,0 +1,285 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_P_TITLE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CMP_P_TITLE_L0000",
+        "msgStr": "------"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0001",
+        "msgStr": "Acemi"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0002",
+        "msgStr": "Gelecek Vaat Eden Genç"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0003",
+        "msgStr": "Taisho Kılıç Ustası"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0004",
+        "msgStr": "Yerel Kahraman"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0005",
+        "msgStr": "Şehir Mistiği"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0006",
+        "msgStr": "Dahi"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0007",
+        "msgStr": "Lâyık Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0008",
+        "msgStr": "Yiğit Kahraman"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0009",
+        "msgStr": "Ruhların Bedenlenmiş Hali"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0010",
+        "msgStr": "Yükselen Yıldız"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0011",
+        "msgStr": "Ünlü Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0012",
+        "msgStr": "İblislerin Efendisi"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0013",
+        "msgStr": "Sabah Yıldızı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0014",
+        "msgStr": "İblislerin Korkulu Rüyası"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0015",
+        "msgStr": "Tetikte Muhafız"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0016",
+        "msgStr": "Zamansız Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0017",
+        "msgStr": "Görmüş Geçirmiş Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0018",
+        "msgStr": "Sınır Tanımayan Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0019",
+        "msgStr": "Eşsiz Şampiyon"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0020",
+        "msgStr": "Hükümran Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0021",
+        "msgStr": "Karanlık Diyar Harikası"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0022",
+        "msgStr": "Başkent Muhafızı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0023",
+        "msgStr": "Öteki Dünya Üstadı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0024",
+        "msgStr": "Karanlık Mürit"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0025",
+        "msgStr": "Alacakaranlık Gölgesi"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0026",
+        "msgStr": "İblis Kıran"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0027",
+        "msgStr": "Stratejik Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0028",
+        "msgStr": "Yıldırım Kılıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0029",
+        "msgStr": "Sarsılmaz"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0030",
+        "msgStr": "Boyutlararası Dedektif"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0031",
+        "msgStr": "İblis Terbiyecisi"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0032",
+        "msgStr": "Cehennem Kılavuzu"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0033",
+        "msgStr": "Öncü Dedektif"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0034",
+        "msgStr": "Olağanüstü Hafiye"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0035",
+        "msgStr": "Çökmüş Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0036",
+        "msgStr": "Kafir Ruh Kovucu"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0037",
+        "msgStr": "İblis Fısıldayan"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0038",
+        "msgStr": "Çökmüş Çağırıcı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0039",
+        "msgStr": "Kafir Ruh Kovucu"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0040",
+        "msgStr": "İblis Fısıldayan"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0041",
+        "msgStr": "Şanlı Siyah Pelerin"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0042",
+        "msgStr": "Tanrı'nın Eli"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0043",
+        "msgStr": "Klan Büyüğü"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0044",
+        "msgStr": "Doğu'nun Efsanesi"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0045",
+        "msgStr": "İşlenmemiş Cevher"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0046",
+        "msgStr": "Yaldızlı Gölge"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0047",
+        "msgStr": "Başkent'in Kurtarıcısı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0048",
+        "msgStr": "İblis Çağırıcısı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0053",
+        "msgStr": "Devrimci"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0054",
+        "msgStr": "İblis Efsuncusu"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0055",
+        "msgStr": "Öncü Dedektif"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0056",
+        "msgStr": "Yeraltı Bilgesi"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0058",
+        "msgStr": "Cesur Kahraman"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0059",
+        "msgStr": "Karanlık Diyar Gezgini"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0060",
+        "msgStr": "Yetenekli Genç"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0061",
+        "msgStr": "Kafir Cenaze Levazımatçısı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0062",
+        "msgStr": "Tatlı Dilli İblis"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0063",
+        "msgStr": "Kötülüğü Dize Getiren"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0064",
+        "msgStr": "Efsanevi Kuzunoha"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0065",
+        "msgStr": "İblis Komutanı"
+      },
+      {
+        "msgID": "CMP_P_TITLE_L0066",
+        "msgStr": "Kuzunoha Köyü Çırağı"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:37:04"
+}

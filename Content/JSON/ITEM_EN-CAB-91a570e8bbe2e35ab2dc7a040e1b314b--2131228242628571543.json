@@ -1,0 +1,3065 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "ITEM_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "ITEM_L0001",
+        "msgStr": "İlaç"
+      },
+      {
+        "msgID": "ITEM_L0002",
+        "msgStr": "Öküz Bezoarı"
+      },
+      {
+        "msgID": "ITEM_L0003",
+        "msgStr": "Yaşam Taşı"
+      },
+      {
+        "msgID": "ITEM_L0004",
+        "msgStr": "Kas İçeceği"
+      },
+      {
+        "msgID": "ITEM_L0005",
+        "msgStr": "Hayat Boncuğu"
+      },
+      {
+        "msgID": "ITEM_L0006",
+        "msgStr": "Yaşam Boncuğu"
+      },
+      {
+        "msgID": "ITEM_L0007",
+        "msgStr": "Çakra Parçası"
+      },
+      {
+        "msgID": "ITEM_L0008",
+        "msgStr": "Çakra Damlası"
+      },
+      {
+        "msgID": "ITEM_L0009",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "ITEM_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0012",
+        "msgStr": "Soma"
+      },
+      {
+        "msgID": "ITEM_L0013",
+        "msgStr": "Panzehir"
+      },
+      {
+        "msgID": "ITEM_L0014",
+        "msgStr": "Susturma Çözücü"
+      },
+      {
+        "msgID": "ITEM_L0015",
+        "msgStr": "Taşlaşma Çözücü"
+      },
+      {
+        "msgID": "ITEM_L0016",
+        "msgStr": "Zihin Çözücü"
+      },
+      {
+        "msgID": "ITEM_L0017",
+        "msgStr": "Jin Dan"
+      },
+      {
+        "msgID": "ITEM_L0018",
+        "msgStr": "Yaşam Merhemi"
+      },
+      {
+        "msgID": "ITEM_L0019",
+        "msgStr": "Güç Tütsüsü"
+      },
+      {
+        "msgID": "ITEM_L0020",
+        "msgStr": "Büyü Tütsüsü"
+      },
+      {
+        "msgID": "ITEM_L0021",
+        "msgStr": "Dayanıklılık Tütsüsü"
+      },
+      {
+        "msgID": "ITEM_L0022",
+        "msgStr": "Şans Tütsüsü"
+      },
+      {
+        "msgID": "ITEM_L0023",
+        "msgStr": "\"Mansaku\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0024",
+        "msgStr": "\"Homura\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0025",
+        "msgStr": "\"Fubuki\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0026",
+        "msgStr": "\"Raiden\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0027",
+        "msgStr": "\"Arashi\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0028",
+        "msgStr": "\"Gouriki\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0029",
+        "msgStr": "\"Yamiyo\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0030",
+        "msgStr": "\"Takumi\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0031",
+        "msgStr": "\"Shishiou\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0032",
+        "msgStr": "\"Kotetsu\" Sakesi"
+      },
+      {
+        "msgID": "ITEM_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0034",
+        "msgStr": "Çekim Suyu"
+      },
+      {
+        "msgID": "ITEM_L0035",
+        "msgStr": "Savuşturma Suyu"
+      },
+      {
+        "msgID": "ITEM_L0036",
+        "msgStr": "Tilki Kuyruğu"
+      },
+      {
+        "msgID": "ITEM_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0038",
+        "msgStr": "Sis Bombası"
+      },
+      {
+        "msgID": "ITEM_L0039",
+        "msgStr": "Arınma Tılsımı"
+      },
+      {
+        "msgID": "ITEM_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0064",
+        "msgStr": "Ahşap Süs"
+      },
+      {
+        "msgID": "ITEM_L0065",
+        "msgStr": "Asuka Aynası"
+      },
+      {
+        "msgID": "ITEM_L0066",
+        "msgStr": "Rakuyou Kadehi"
+      },
+      {
+        "msgID": "ITEM_L0067",
+        "msgStr": "Cava Heykelciği"
+      },
+      {
+        "msgID": "ITEM_L0068",
+        "msgStr": "Roma Sikkesi"
+      },
+      {
+        "msgID": "ITEM_L0069",
+        "msgStr": "Pers Vazosu"
+      },
+      {
+        "msgID": "ITEM_L0070",
+        "msgStr": "Teb Küpü"
+      },
+      {
+        "msgID": "ITEM_L0071",
+        "msgStr": "Girit Tanrıçası"
+      },
+      {
+        "msgID": "ITEM_L0072",
+        "msgStr": "Babil Tableti"
+      },
+      {
+        "msgID": "ITEM_L0073",
+        "msgStr": "Gize Maskesi"
+      },
+      {
+        "msgID": "ITEM_L0074",
+        "msgStr": "Geyik Böceği"
+      },
+      {
+        "msgID": "ITEM_L0075",
+        "msgStr": "Böcek"
+      },
+      {
+        "msgID": "ITEM_L0076",
+        "msgStr": "Zarif Atıştırmalık"
+      },
+      {
+        "msgID": "ITEM_L0077",
+        "msgStr": "İnce Dal"
+      },
+      {
+        "msgID": "ITEM_L0078",
+        "msgStr": "Eski İç Çamaşırı"
+      },
+      {
+        "msgID": "ITEM_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0128",
+        "msgStr": "Valhalla Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0129",
+        "msgStr": "Büyülü Gazoz"
+      },
+      {
+        "msgID": "ITEM_L0130",
+        "msgStr": "Kas Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0131",
+        "msgStr": "Mucize Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0132",
+        "msgStr": "Doktor Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0133",
+        "msgStr": "Ejderha Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0134",
+        "msgStr": "Mandra Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0135",
+        "msgStr": "Valhalla Nektarı"
+      },
+      {
+        "msgID": "ITEM_L0136",
+        "msgStr": "Büyülü Nektar"
+      },
+      {
+        "msgID": "ITEM_L0137",
+        "msgStr": "Kas Nektarı"
+      },
+      {
+        "msgID": "ITEM_L0138",
+        "msgStr": "Mucize Nektarı"
+      },
+      {
+        "msgID": "ITEM_L0139",
+        "msgStr": "İksir Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0140",
+        "msgStr": "Midas Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0141",
+        "msgStr": "Hasat Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0142",
+        "msgStr": "Deus Gazozu"
+      },
+      {
+        "msgID": "ITEM_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0144",
+        "msgStr": "Zero"
+      },
+      {
+        "msgID": "ITEM_L0145",
+        "msgStr": "Renki"
+      },
+      {
+        "msgID": "ITEM_L0146",
+        "msgStr": "Himezuru"
+      },
+      {
+        "msgID": "ITEM_L0147",
+        "msgStr": "Bizen-Osafune"
+      },
+      {
+        "msgID": "ITEM_L0148",
+        "msgStr": "Tip 32 Gunto"
+      },
+      {
+        "msgID": "ITEM_L0149",
+        "msgStr": "Kanesada"
+      },
+      {
+        "msgID": "ITEM_L0150",
+        "msgStr": "Kotetsu"
+      },
+      {
+        "msgID": "ITEM_L0151",
+        "msgStr": "Nagamitsu"
+      },
+      {
+        "msgID": "ITEM_L0152",
+        "msgStr": "Kogarasumaru"
+      },
+      {
+        "msgID": "ITEM_L0153",
+        "msgStr": "Muramasa"
+      },
+      {
+        "msgID": "ITEM_L0154",
+        "msgStr": "Kiyotsune"
+      },
+      {
+        "msgID": "ITEM_L0155",
+        "msgStr": "Kogitsune"
+      },
+      {
+        "msgID": "ITEM_L0156",
+        "msgStr": "Kogitsune Kage"
+      },
+      {
+        "msgID": "ITEM_L0157",
+        "msgStr": "Masamune"
+      },
+      {
+        "msgID": "ITEM_L0158",
+        "msgStr": "Usumidori"
+      },
+      {
+        "msgID": "ITEM_L0159",
+        "msgStr": "Nagamichi"
+      },
+      {
+        "msgID": "ITEM_L0160",
+        "msgStr": "Shishiou"
+      },
+      {
+        "msgID": "ITEM_L0161",
+        "msgStr": "Raikiri"
+      },
+      {
+        "msgID": "ITEM_L0162",
+        "msgStr": "Plazma Kılıcı"
+      },
+      {
+        "msgID": "ITEM_L0163",
+        "msgStr": "Kanshou"
+      },
+      {
+        "msgID": "ITEM_L0164",
+        "msgStr": "Bakuya"
+      },
+      {
+        "msgID": "ITEM_L0165",
+        "msgStr": "Doujigiri"
+      },
+      {
+        "msgID": "ITEM_L0166",
+        "msgStr": "Seimitsu"
+      },
+      {
+        "msgID": "ITEM_L0167",
+        "msgStr": "Güneş Kılıcı"
+      },
+      {
+        "msgID": "ITEM_L0168",
+        "msgStr": "Ay Kılıcı"
+      },
+      {
+        "msgID": "ITEM_L0169",
+        "msgStr": "Gae Bolg"
+      },
+      {
+        "msgID": "ITEM_L0170",
+        "msgStr": "Kusanagi"
+      },
+      {
+        "msgID": "ITEM_L0171",
+        "msgStr": "Onigiri"
+      },
+      {
+        "msgID": "ITEM_L0172",
+        "msgStr": "Kurikara"
+      },
+      {
+        "msgID": "ITEM_L0173",
+        "msgStr": "Ameno-Ohabari"
+      },
+      {
+        "msgID": "ITEM_L0174",
+        "msgStr": "Vanargand"
+      },
+      {
+        "msgID": "ITEM_L0175",
+        "msgStr": "Balmung"
+      },
+      {
+        "msgID": "ITEM_L0176",
+        "msgStr": "Futsu Mitama"
+      },
+      {
+        "msgID": "ITEM_L0177",
+        "msgStr": "Trishula"
+      },
+      {
+        "msgID": "ITEM_L0178",
+        "msgStr": "Murakumo"
+      },
+      {
+        "msgID": "ITEM_L0179",
+        "msgStr": "Kikouseiken"
+      },
+      {
+        "msgID": "ITEM_L0180",
+        "msgStr": "Totsuka"
+      },
+      {
+        "msgID": "ITEM_L0181",
+        "msgStr": "Mjolnir"
+      },
+      {
+        "msgID": "ITEM_L0182",
+        "msgStr": "Tsukikage"
+      },
+      {
+        "msgID": "ITEM_L0183",
+        "msgStr": "Kagutsuchi"
+      },
+      {
+        "msgID": "ITEM_L0184",
+        "msgStr": "Youkou Haken"
+      },
+      {
+        "msgID": "ITEM_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0188",
+        "msgStr": "Shichishitou"
+      },
+      {
+        "msgID": "ITEM_L0189",
+        "msgStr": "Tentei Kılıcı"
+      },
+      {
+        "msgID": "ITEM_L0190",
+        "msgStr": "Laevateinn"
+      },
+      {
+        "msgID": "ITEM_L0191",
+        "msgStr": "Ameno-Nuboko"
+      },
+      {
+        "msgID": "ITEM_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0194",
+        "msgStr": "Mitsurugi"
+      },
+      {
+        "msgID": "ITEM_L0195",
+        "msgStr": "Longinus"
+      },
+      {
+        "msgID": "ITEM_L0196",
+        "msgStr": "Fujimasa"
+      },
+      {
+        "msgID": "ITEM_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0221",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0222",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0223",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0226",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0227",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0228",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0229",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0230",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0231",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0236",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0237",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0239",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0240",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0241",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0242",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0243",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0244",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0245",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0246",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0247",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0248",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0252",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0253",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0254",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0255",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0256",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0257",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0258",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0259",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0260",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0261",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0262",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0263",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0264",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0265",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0266",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0267",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0268",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0269",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0270",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0271",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0272",
+        "msgStr": "Ateş Çeliği"
+      },
+      {
+        "msgID": "ITEM_L0273",
+        "msgStr": "Ateş Bronzu"
+      },
+      {
+        "msgID": "ITEM_L0274",
+        "msgStr": "Ateş Gümüşü"
+      },
+      {
+        "msgID": "ITEM_L0275",
+        "msgStr": "Ateş Altını"
+      },
+      {
+        "msgID": "ITEM_L0276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0277",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0278",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0279",
+        "msgStr": "Buz Çeliği"
+      },
+      {
+        "msgID": "ITEM_L0280",
+        "msgStr": "Buz Bronzu"
+      },
+      {
+        "msgID": "ITEM_L0281",
+        "msgStr": "Buz Gümüşü"
+      },
+      {
+        "msgID": "ITEM_L0282",
+        "msgStr": "Buz Altını"
+      },
+      {
+        "msgID": "ITEM_L0283",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0284",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0285",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0286",
+        "msgStr": "Elektrik Çeliği"
+      },
+      {
+        "msgID": "ITEM_L0287",
+        "msgStr": "Elektrik Bronzu"
+      },
+      {
+        "msgID": "ITEM_L0288",
+        "msgStr": "Elektrik Gümüşü"
+      },
+      {
+        "msgID": "ITEM_L0289",
+        "msgStr": "Elektrik Altını"
+      },
+      {
+        "msgID": "ITEM_L0290",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0291",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0292",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0293",
+        "msgStr": "Rüzgâr Çeliği"
+      },
+      {
+        "msgID": "ITEM_L0294",
+        "msgStr": "Rüzgâr Bronzu"
+      },
+      {
+        "msgID": "ITEM_L0295",
+        "msgStr": "Rüzgâr Gümüşü"
+      },
+      {
+        "msgID": "ITEM_L0296",
+        "msgStr": "Rüzgâr Altını"
+      },
+      {
+        "msgID": "ITEM_L0297",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0298",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0299",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0300",
+        "msgStr": "Öfke Çeliği"
+      },
+      {
+        "msgID": "ITEM_L0301",
+        "msgStr": "Öfke Bronzu"
+      },
+      {
+        "msgID": "ITEM_L0302",
+        "msgStr": "Öfke Gümüşü"
+      },
+      {
+        "msgID": "ITEM_L0303",
+        "msgStr": "Öfke Altını"
+      },
+      {
+        "msgID": "ITEM_L0304",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0305",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0306",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0307",
+        "msgStr": "Pagan Çeliği"
+      },
+      {
+        "msgID": "ITEM_L0308",
+        "msgStr": "Pagan Bronzu"
+      },
+      {
+        "msgID": "ITEM_L0309",
+        "msgStr": "Pagan Gümüşü"
+      },
+      {
+        "msgID": "ITEM_L0310",
+        "msgStr": "Pagan Altını"
+      },
+      {
+        "msgID": "ITEM_L0311",
+        "msgStr": "Muska"
+      },
+      {
+        "msgID": "ITEM_L0312",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0313",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0314",
+        "msgStr": "Hüner Çeliği"
+      },
+      {
+        "msgID": "ITEM_L0315",
+        "msgStr": "Hüner Bronzu"
+      },
+      {
+        "msgID": "ITEM_L0316",
+        "msgStr": "Hüner Gümüşü"
+      },
+      {
+        "msgID": "ITEM_L0317",
+        "msgStr": "Hüner Altını"
+      },
+      {
+        "msgID": "ITEM_L0318",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0319",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0320",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0321",
+        "msgStr": "Plastik"
+      },
+      {
+        "msgID": "ITEM_L0322",
+        "msgStr": "Element #115"
+      },
+      {
+        "msgID": "ITEM_L0323",
+        "msgStr": "Ay Parçası"
+      },
+      {
+        "msgID": "ITEM_L0324",
+        "msgStr": "Homusubi Kristali"
+      },
+      {
+        "msgID": "ITEM_L0325",
+        "msgStr": "Işık Çeliği"
+      },
+      {
+        "msgID": "ITEM_L0326",
+        "msgStr": "Gölge Magataması"
+      },
+      {
+        "msgID": "ITEM_L0327",
+        "msgStr": "Zafer Tacı"
+      },
+      {
+        "msgID": "ITEM_L0328",
+        "msgStr": "Çatışma Kılıcı"
+      },
+      {
+        "msgID": "ITEM_L0329",
+        "msgStr": "Aletia"
+      },
+      {
+        "msgID": "ITEM_L0330",
+        "msgStr": "Sessho-Seki"
+      },
+      {
+        "msgID": "ITEM_L0331",
+        "msgStr": "Onogoro Cevheri"
+      },
+      {
+        "msgID": "ITEM_L0332",
+        "msgStr": "Güneş Aynası"
+      },
+      {
+        "msgID": "ITEM_L0333",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0334",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0335",
+        "msgStr": "Açlık Pulu"
+      },
+      {
+        "msgID": "ITEM_L0336",
+        "msgStr": "Ölümcül Mühür"
+      },
+      {
+        "msgID": "ITEM_L0337",
+        "msgStr": "Pentagram"
+      },
+      {
+        "msgID": "ITEM_L0338",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0339",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0340",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0341",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0342",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0343",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0344",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0345",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0346",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0347",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0348",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0349",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0350",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0351",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0352",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0353",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0354",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0355",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0356",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0357",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0358",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0359",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0360",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0361",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0362",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0363",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0364",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0365",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0366",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0367",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0368",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0369",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0370",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0371",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0372",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0373",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0374",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0375",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0376",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0377",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0378",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0379",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0380",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0381",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0382",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0383",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0384",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0385",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0386",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0387",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0388",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0389",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0390",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0391",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0392",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0393",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0394",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0395",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0396",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0397",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0398",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0399",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0400",
+        "msgStr": "Kelebek Broşu"
+      },
+      {
+        "msgID": "ITEM_L0401",
+        "msgStr": "Kaya'nın Fotoğrafı"
+      },
+      {
+        "msgID": "ITEM_L0402",
+        "msgStr": "Kaya'nın Günlüğü"
+      },
+      {
+        "msgID": "ITEM_L0403",
+        "msgStr": "Şans Tılsımı"
+      },
+      {
+        "msgID": "ITEM_L0404",
+        "msgStr": "Çekçek Topuzu"
+      },
+      {
+        "msgID": "ITEM_L0405",
+        "msgStr": "Ejderha Taşları"
+      },
+      {
+        "msgID": "ITEM_L0406",
+        "msgStr": "Sayı Taşları"
+      },
+      {
+        "msgID": "ITEM_L0407",
+        "msgStr": "Puan Çubukları"
+      },
+      {
+        "msgID": "ITEM_L0408",
+        "msgStr": "Dört Rüzgâr Taşı"
+      },
+      {
+        "msgID": "ITEM_L0409",
+        "msgStr": "Mahjong Taşları"
+      },
+      {
+        "msgID": "ITEM_L0410",
+        "msgStr": "Tramvay Pasosu"
+      },
+      {
+        "msgID": "ITEM_L0411",
+        "msgStr": "Kol Düğmesi"
+      },
+      {
+        "msgID": "ITEM_L0412",
+        "msgStr": "Anılar Yüzüğü"
+      },
+      {
+        "msgID": "ITEM_L0413",
+        "msgStr": "Tae'nin Kamerası"
+      },
+      {
+        "msgID": "ITEM_L0414",
+        "msgStr": "Mühimmat Kutusu"
+      },
+      {
+        "msgID": "ITEM_L0415",
+        "msgStr": "Toprak Prizması"
+      },
+      {
+        "msgID": "ITEM_L0416",
+        "msgStr": "Alev Prizması"
+      },
+      {
+        "msgID": "ITEM_L0417",
+        "msgStr": "Su Prizması"
+      },
+      {
+        "msgID": "ITEM_L0418",
+        "msgStr": "Amatsu Kanagi"
+      },
+      {
+        "msgID": "ITEM_L0419",
+        "msgStr": "Maymuncuk"
+      },
+      {
+        "msgID": "ITEM_L0420",
+        "msgStr": "Dondurma"
+      },
+      {
+        "msgID": "ITEM_L0421",
+        "msgStr": "Şurup"
+      },
+      {
+        "msgID": "ITEM_L0422",
+        "msgStr": "Beyaz Parça"
+      },
+      {
+        "msgID": "ITEM_L0423",
+        "msgStr": "Mavi Parça"
+      },
+      {
+        "msgID": "ITEM_L0424",
+        "msgStr": "Kırmızı Parça"
+      },
+      {
+        "msgID": "ITEM_L0425",
+        "msgStr": "Kan Krizoberili"
+      },
+      {
+        "msgID": "ITEM_L0426",
+        "msgStr": "Kızarmış Tofu"
+      },
+      {
+        "msgID": "ITEM_L0427",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0428",
+        "msgStr": "Kashima Kılıcı"
+      },
+      {
+        "msgID": "ITEM_L0429",
+        "msgStr": "Rapor Sayfası 1"
+      },
+      {
+        "msgID": "ITEM_L0430",
+        "msgStr": "Rapor Sayfası 2"
+      },
+      {
+        "msgID": "ITEM_L0431",
+        "msgStr": "Rapor Sayfası 3"
+      },
+      {
+        "msgID": "ITEM_L0432",
+        "msgStr": "Rapor Sayfası 4"
+      },
+      {
+        "msgID": "ITEM_L0433",
+        "msgStr": "Rapor Sayfası 5"
+      },
+      {
+        "msgID": "ITEM_L0434",
+        "msgStr": "Rapor Sayfası 6"
+      },
+      {
+        "msgID": "ITEM_L0435",
+        "msgStr": "Rapor Sayfası 7"
+      },
+      {
+        "msgID": "ITEM_L0436",
+        "msgStr": "Rapor Sayfası 8"
+      },
+      {
+        "msgID": "ITEM_L0437",
+        "msgStr": "Shiomitsu Küresi"
+      },
+      {
+        "msgID": "ITEM_L0438",
+        "msgStr": "Chigaeshi Küresi"
+      },
+      {
+        "msgID": "ITEM_L0439",
+        "msgStr": "Kırmızı Şarap"
+      },
+      {
+        "msgID": "ITEM_L0440",
+        "msgStr": "Rhone Flütü"
+      },
+      {
+        "msgID": "ITEM_L0441",
+        "msgStr": "Pahalı Bira"
+      },
+      {
+        "msgID": "ITEM_L0442",
+        "msgStr": "Votka"
+      },
+      {
+        "msgID": "ITEM_L0443",
+        "msgStr": "Kehanet Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0444",
+        "msgStr": "Ölüm Asası"
+      },
+      {
+        "msgID": "ITEM_L0445",
+        "msgStr": "Bancho Üniforması"
+      },
+      {
+        "msgID": "ITEM_L0446",
+        "msgStr": "Mistik Göz"
+      },
+      {
+        "msgID": "ITEM_L0447",
+        "msgStr": "Hayalet Kafatası"
+      },
+      {
+        "msgID": "ITEM_L0448",
+        "msgStr": "Tiran Dölü"
+      },
+      {
+        "msgID": "ITEM_L0449",
+        "msgStr": "Cehennem Amblemi"
+      },
+      {
+        "msgID": "ITEM_L0450",
+        "msgStr": "SS Projesi Raporu"
+      },
+      {
+        "msgID": "ITEM_L0451",
+        "msgStr": "Kırmızı Pelerin Fotoğrafı"
+      },
+      {
+        "msgID": "ITEM_L0452",
+        "msgStr": "Shizu'nun Fotoğrafı"
+      },
+      {
+        "msgID": "ITEM_L0453",
+        "msgStr": "Kiyoshi'nin Bastonu"
+      },
+      {
+        "msgID": "ITEM_L0454",
+        "msgStr": "Tae'nin Fotoğrafı"
+      },
+      {
+        "msgID": "ITEM_L0455",
+        "msgStr": "Uğurlu Madalyon"
+      },
+      {
+        "msgID": "ITEM_L0456",
+        "msgStr": "Plastik Oyuncak"
+      },
+      {
+        "msgID": "ITEM_L0457",
+        "msgStr": "Lüks Yılan Balığı"
+      },
+      {
+        "msgID": "ITEM_L0458",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0459",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0460",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0461",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0462",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0463",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0464",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0465",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0466",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0467",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0468",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0469",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0470",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0471",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0472",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0473",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0474",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0475",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0476",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0477",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0478",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0479",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0480",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0481",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0482",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0483",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0484",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0485",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0486",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0487",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0488",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0489",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0490",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0491",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0492",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0493",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0494",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0495",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0496",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0497",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0498",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0499",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0500",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0501",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0502",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0503",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0504",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0505",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0506",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0507",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0508",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0509",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0510",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0511",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0512",
+        "msgStr": "Agi Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0513",
+        "msgStr": "Agidyne Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0514",
+        "msgStr": "Maragi Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0515",
+        "msgStr": "Maragidyne Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0516",
+        "msgStr": "Alev Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0517",
+        "msgStr": "Cehennem Ateşi Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0518",
+        "msgStr": "Ateş Nefesi Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0519",
+        "msgStr": "Agirati Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0520",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0521",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0522",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0523",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0524",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0525",
+        "msgStr": "Bufu Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0526",
+        "msgStr": "Bufudyne Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0527",
+        "msgStr": "Mabufu Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0528",
+        "msgStr": "Mabufudyne Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0529",
+        "msgStr": "Cocytus Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0530",
+        "msgStr": "Buzul Patlaması Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0531",
+        "msgStr": "Soğuk Isırığı Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0532",
+        "msgStr": "Bufurati Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0533",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0534",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0535",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0536",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0537",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0538",
+        "msgStr": "Zio Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0539",
+        "msgStr": "Ziodyne Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0540",
+        "msgStr": "Mazio Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0541",
+        "msgStr": "Maziodyne Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0542",
+        "msgStr": "Kıvılcım Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0543",
+        "msgStr": "Yıldırım Fırtınası Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0544",
+        "msgStr": "Şok Dalgası Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0545",
+        "msgStr": "Ziorati Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0546",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0547",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0548",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0549",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0550",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0551",
+        "msgStr": "Zan Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0552",
+        "msgStr": "Zandyne Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0553",
+        "msgStr": "Mazan Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0554",
+        "msgStr": "Mazandyne Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0555",
+        "msgStr": "Kasırga Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0556",
+        "msgStr": "Rüzgâr Kesici Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0557",
+        "msgStr": "Bora Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0558",
+        "msgStr": "Zanrati Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0559",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0560",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0561",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0562",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0563",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0564",
+        "msgStr": "Mudo Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0565",
+        "msgStr": "Mamudo Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0566",
+        "msgStr": "Mamudoon Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0567",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0568",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0569",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0570",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0571",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0572",
+        "msgStr": "Marin Karin Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0573",
+        "msgStr": "Dormina Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0574",
+        "msgStr": "Pulinpa Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0575",
+        "msgStr": "Makajam Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0576",
+        "msgStr": "Petra Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0577",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0578",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0579",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0580",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0581",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0582",
+        "msgStr": "Kombo Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0583",
+        "msgStr": "Zehirli Darbe Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0584",
+        "msgStr": "Kanatlı Öfke Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0585",
+        "msgStr": "Vahşi Savaşçı Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0586",
+        "msgStr": "Çılgınlık Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0587",
+        "msgStr": "Güçlü Darbe Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0588",
+        "msgStr": "Deli Hücum Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0589",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0590",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0591",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0592",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0593",
+        "msgStr": "Dia Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0594",
+        "msgStr": "Diarama Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0595",
+        "msgStr": "Diarahan Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0596",
+        "msgStr": "Media Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0597",
+        "msgStr": "Patra Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0598",
+        "msgStr": "Dia Aura Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0599",
+        "msgStr": "Recarm Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0600",
+        "msgStr": "Samarecarm Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0601",
+        "msgStr": "Mutluluk Hali Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0602",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0603",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0604",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0605",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0606",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0607",
+        "msgStr": "Tarukaja Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0608",
+        "msgStr": "Makakaja Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0609",
+        "msgStr": "Rakukaja Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0610",
+        "msgStr": "Savaş Narası Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0611",
+        "msgStr": "Makara Aura Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0612",
+        "msgStr": "Tetra Aura Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0613",
+        "msgStr": "Tarukajaon Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0614",
+        "msgStr": "Makakajaon Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0615",
+        "msgStr": "Rakukajaon Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0616",
+        "msgStr": "Dekaja Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0617",
+        "msgStr": "Tetrakarn Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0618",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0619",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0620",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0621",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0622",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0623",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0624",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0625",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0626",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0627",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0628",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0629",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0630",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0631",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0632",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0633",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0634",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0635",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0636",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0637",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0638",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0639",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0640",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0641",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0642",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0643",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0644",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0645",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0646",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0647",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0648",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0649",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0650",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0651",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0652",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0653",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0654",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0655",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0656",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0657",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0658",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0659",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0660",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0661",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0662",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0663",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0664",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0665",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0666",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0667",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0668",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0669",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0670",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0671",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0672",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0673",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0674",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0675",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0676",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0677",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0678",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0679",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0680",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0681",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0682",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0683",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0684",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0685",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0686",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0687",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0688",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0689",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0690",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0691",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0692",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0693",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0694",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0695",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0696",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0697",
+        "msgStr": "Can Bonusu Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0698",
+        "msgStr": "Can Kazanımı Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0699",
+        "msgStr": "Can Patlaması Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0700",
+        "msgStr": "Ateş Güçlendirme Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0701",
+        "msgStr": "Buz Güçlendirme Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0702",
+        "msgStr": "Elektrik Güçlendirme Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0703",
+        "msgStr": "Güç Güçlendirme Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0704",
+        "msgStr": "İyileştirme Güçlendirme Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0705",
+        "msgStr": "Büyü Güçlendirme Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0706",
+        "msgStr": "Zihin Güçlendirme Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0707",
+        "msgStr": "Ateş Direnci Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0708",
+        "msgStr": "Buz Direnci Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0709",
+        "msgStr": "Elektrik Direnci Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0710",
+        "msgStr": "Güç Direnci Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0711",
+        "msgStr": "Fiziksel Direnç Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0712",
+        "msgStr": "Ölüm Yarılanma Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0713",
+        "msgStr": "Zihin Yarılanma Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0714",
+        "msgStr": "Ölümcül Yarılanma Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0715",
+        "msgStr": "Ölümcül İptali Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0716",
+        "msgStr": "Güç Çakrası Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0717",
+        "msgStr": "Büyü Çakrası Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0718",
+        "msgStr": "Dayanıklılık Çakrası Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0719",
+        "msgStr": "Şans Çakrası Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0720",
+        "msgStr": "Agni'nin Lütfu Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0721",
+        "msgStr": "Ruh Gücü Emme Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0722",
+        "msgStr": "Kısas Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0723",
+        "msgStr": "Yetenek Uzatma Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0724",
+        "msgStr": "Ya Hep Ya Hiç Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0725",
+        "msgStr": "Sarsılmaz Odak Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0726",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0727",
+        "msgStr": "Dayanma Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0728",
+        "msgStr": "İntikam Mührü Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0729",
+        "msgStr": "Hızlı Kaçış Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0730",
+        "msgStr": "TP Artışı Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0731",
+        "msgStr": "Gelişim Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0732",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0733",
+        "msgStr": "Kaprisli Yardım Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0734",
+        "msgStr": "Bozukluk Bulma Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0735",
+        "msgStr": "Toplayıcı Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0736",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "ITEM_L0737",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "ITEM_L0738",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "ITEM_L0739",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "ITEM_L0740",
+        "msgStr": "Para Bulma Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0741",
+        "msgStr": "Eşya Bulma Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0742",
+        "msgStr": "Adanmışlık Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0743",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0744",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0745",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0746",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0747",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0748",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0749",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0750",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0751",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0752",
+        "msgStr": "İnce Büyü Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0753",
+        "msgStr": "Kalın Büyü Kitabı"
+      },
+      {
+        "msgID": "ITEM_L0754",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0755",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0756",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0757",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0758",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0759",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ITEM_L0760",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:27:08"
+}

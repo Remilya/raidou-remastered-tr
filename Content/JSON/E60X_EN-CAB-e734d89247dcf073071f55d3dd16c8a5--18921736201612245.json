@@ -1,0 +1,357 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E60X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e601_001_e601_TAE01_000",
+        "msgStr": "Kadın Sesi"
+      },
+      {
+        "msgID": "E601_001_L0000",
+        "msgStr": "Merhabalar, Bay Narumi.\n<mw 120>"
+      },
+      {
+        "msgID": "e601_001_e601_TAE02_001",
+        "msgStr": "Kadın Sesi"
+      },
+      {
+        "msgID": "E601_001_L0001",
+        "msgStr": "Kahve eşliğinde biraz sohbet edebilir miyiz?\n<mw 180>"
+      },
+      {
+        "msgID": "e601_001_e601_NARUMI01_002",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E601_001_L0002",
+        "msgStr": "Bak Tae...<mw 30> Burası bir dedektiflik bürosu.<mw 100> Biz<mw 30> bir<mw 45> kafe<mw 45> değiliz!\n<mw 180>"
+      },
+      {
+        "msgID": "e601_001_e601_TAE03_003",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "E601_001_L0003",
+        "msgStr": "Bana öyle seslenmeyi keser misin artık!?\n<mw 120>"
+      },
+      {
+        "msgID": "e601_001_e601_TAE04_01_004",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "E601_001_L0004",
+        "msgStr": "Ben Başkent Günlüğü'nden <COLOR 1>Kichou Asakura<COLOR 0>.\n<mw 120>"
+      },
+      {
+        "msgID": "e601_001_e601_TAE04_02_005",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "E601_001_L0005",
+        "msgStr": "Bunu <IT_S>hiç<IT_E> aklında tutamayacak mısın?\n<mw 120>"
+      },
+      {
+        "msgID": "e601_001_e601_NARUMI02_006",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E601_001_L0006",
+        "msgStr": "...Yeter artık şu kartvizitlerle, yahu.\n<mw 120>"
+      },
+      {
+        "msgID": "e601_001_e601_TAE05_007",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "E601_001_L0007",
+        "msgStr": "O zaman bana doğru isimle hitap et! <mw 120>Anlaştık mı?\n<mw 120>"
+      },
+      {
+        "msgID": "e601_001_e601_NARUMI03_008",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E601_001_L0008",
+        "msgStr": "Başkent'te huzur dolu bir gün daha.\nBirinin kaybolduğunu ruhun bile duymaz.\n<mw 360>"
+      },
+      {
+        "msgID": "e601_001_e601_NARUMI04_009",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E601_001_L0009",
+        "msgStr": "\"Ağırdan al\"—benim parolam bu! Zaten bütün bu\nzahmete katlanmak hiç... işime... gelmez...?\n<mw 180>"
+      },
+      {
+        "msgID": "e601_001_e601_NARUMI05_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E601_001_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e602_001_e602_RAS01_000",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E602_001_L0000",
+        "msgStr": "Ben meşgul bir adamım. Gitmem gereken yerler var.\n<mw 180>"
+      },
+      {
+        "msgID": "e602_001_e602_RAS02_001",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E602_001_L0001",
+        "msgStr": "Fakat <mw 40>korkarım buradan öylece elini kolunu sallayarak\nçıkmana izin veremem. <mw 100>Emir demiri keser, bilirsin.\n<mw 160>"
+      },
+      {
+        "msgID": "e602_001_e602_RAS03_002",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E602_001_L0002",
+        "msgStr": "Dasvidaniya,<mw 60> dedektif!\n<mw 80>"
+      },
+      {
+        "msgID": "e603_001_e603_GOR01_000",
+        "msgStr": "Serseri"
+      },
+      {
+        "msgID": "E603_001_L0000",
+        "msgStr": "Dur bakalım, çokbilmiş!\n<mw 120>"
+      },
+      {
+        "msgID": "e603_001_e603_NAR01_001",
+        "msgStr": "Gangster"
+      },
+      {
+        "msgID": "E603_001_L0001",
+        "msgStr": "Burada ne halt ettiğini sanıyorsun sen!?\n<mw 120>"
+      },
+      {
+        "msgID": "e603_002_e603_GOR01_000",
+        "msgStr": "Dövmeli Adam"
+      },
+      {
+        "msgID": "E603_002_L0000",
+        "msgStr": "Fena değil, evlat.\n<mw 140>"
+      },
+      {
+        "msgID": "e603_002_e603_NAR01_001",
+        "msgStr": "Dövmeli Adam"
+      },
+      {
+        "msgID": "E603_002_L0001",
+        "msgStr": "Ama söylesene, insan hamamda niye şapka takar!?\n<mw 120>"
+      },
+      {
+        "msgID": "e604_001_e604_RAS01_000",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E604_001_L0000",
+        "msgStr": "Gizlice dinlemek kabalıktır, bilirsin.\n<mw 160>"
+      },
+      {
+        "msgID": "e604_001_e604_RAS02_001",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E604_001_L0001",
+        "msgStr": "Gerçi seni burada görmeyi beklemiyordum.\n<mw 140>"
+      },
+      {
+        "msgID": "e604_001_e604_RAS03_002",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E604_001_L0002",
+        "msgStr": "Güçlerimle bile<mw 80> bunu öngöremedim.\n<mw 180>"
+      },
+      {
+        "msgID": "e604_001_e604_RAS04_003",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E604_001_L0003",
+        "msgStr": "Kader işte... Eh, oldukça keyifliydi.\n<mw 180>"
+      },
+      {
+        "msgID": "e604_001_e604_RAS05_004",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E604_001_L0004",
+        "msgStr": "Fakat korkarım senin için yolun sonu burası.\n<mw 120>"
+      },
+      {
+        "msgID": "e604_001_e604_RAS06_005",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "E604_001_L0005",
+        "msgStr": "Şimdi gerçek bir İblis Çağırıcısının kudretine tanık ol!\n<mw 180>"
+      },
+      {
+        "msgID": "e605_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E605_001_L0000",
+        "msgStr": "Ah... Ngh..."
+      },
+      {
+        "msgID": "E605_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e605_002_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E605_002_L0000_01",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e605_002_e605_002_01_000",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "E605_002_L0000",
+        "msgStr": "Arkadaşlarım... Size kapıya kadar eşlik etmelerini sağlayacağım.\n<mw 120>"
+      },
+      {
+        "msgID": "e605_003_e605_003_01_000",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "E605_003_L0000",
+        "msgStr": "...Çok güzel.\n<mw 120>"
+      },
+      {
+        "msgID": "e605_003_e605_003_02_001",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "E605_003_L0001",
+        "msgStr": "<COLOR 1>İblis Kanı<COLOR 0> ile devam edebiliriz...\n<mw 120>"
+      },
+      {
+        "msgID": "e609_001_e609_MUNA01_000",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "E609_001_L0000",
+        "msgStr": "Geldin demek, Ondördüncü.\n<mw 120>"
+      },
+      {
+        "msgID": "e609_001_e609_MUNA02_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E609_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e609_002_e609_002_MUNA01_000",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "E609_002_L0000",
+        "msgStr": "Ey en yüce dağın zirvesinde oturan tanrı...\n<mw 160>"
+      },
+      {
+        "msgID": "e609_002_e609_002_MUNA02_001",
+        "msgStr": "Munakata"
+      },
+      {
+        "msgID": "E609_002_L0001",
+        "msgStr": "Bu toprakları... başkaldırı tohumları ekenlerden arındır!\n<mw 160>"
+      },
+      {
+        "msgID": "e609_002_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E609_002_L0001_01",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e609_002_e609_002_MUNA03_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E609_002_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e609_003_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "e609_003_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e609_003_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e609_004_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "e609_004_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e609_004_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e609_005_e609_NEKO01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "E609_005_L0000",
+        "msgStr": "Bu... uzay-zamanda bir yarık mı!?\n<mw 120>"
+      },
+      {
+        "msgID": "e609_005_e609_NEKO02_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "E609_005_L0001",
+        "msgStr": "Raidou, bu hiç iyi değil.<mw 90> Dünyamızın anılarına odaklanmaya çalış!\n<mw 180>"
+      },
+      {
+        "msgID": "e609_005_e609_NEKO03_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E609_005_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e609_005_e609_NEKO04_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E609_005_L0003",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:49:33"
+}

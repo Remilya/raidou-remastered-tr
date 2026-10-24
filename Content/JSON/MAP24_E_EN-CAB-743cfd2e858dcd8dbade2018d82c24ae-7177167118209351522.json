@@ -1,0 +1,125 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP24_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map24_e_EPI04_SCENE08_01_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_E_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_E_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_E_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_E_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_e_EPI04_SCENE08_05_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_E_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_E_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP24_E_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map24_e_EPI09_SCENE07_01_002",
+        "msgStr": "Yamata-no-Orochi"
+      },
+      {
+        "msgID": "MAP24_E_L0007",
+        "msgStr": "ZAYIF! ZAYIF! KARŞIMA SADECE TEK BİR BAŞLA MI ÇIKIYORSUN!?"
+      },
+      {
+        "msgID": "MAP24_E_L0008",
+        "msgStr": "İSTEDİĞİN ŞEYİ ALMAYA LAYIK DEĞİLSİN!"
+      },
+      {
+        "msgID": "MAP24_E_L0009",
+        "msgStr": "HAKİKATİ GÖRMEK İÇİN İKİ GÖZÜN YETECEĞİNİ Mİ SANIYORSUN!?"
+      },
+      {
+        "msgID": "MAP24_E_L0010",
+        "msgStr": "TEK İŞE YARAYACAĞIN ŞEY SEKİZ AĞZIMI DOYURMAK!"
+      },
+      {
+        "msgID": "map24_e_EPI09_SCENE07_05_003",
+        "msgStr": "Yamata-no-Orochi"
+      },
+      {
+        "msgID": "MAP24_E_L0011",
+        "msgStr": "BEN Kİ BU KADAR GÜÇLÜYDÜM... BAŞLARIM NASIL OLUR DA YENİLGİYLE EĞİLİR...?"
+      },
+      {
+        "msgID": "map24_e_EPI09_SCENE07_06_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_E_L0012",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Su Prizması<COLOR 0>'nı elde etti."
+      },
+      {
+        "msgID": "map24_e_EPI09_SCENE07_07_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP24_E_L0013",
+        "msgStr": "> Asil bir ses çınladı."
+      },
+      {
+        "msgID": "map24_e_EPI09_SCENE07_08_006",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP24_E_L0014",
+        "msgStr": "Su Prizması'nı başarıyla elde ettin."
+      },
+      {
+        "msgID": "MAP24_E_L0015",
+        "msgStr": "Ancak kutlama yapacak vakit yok. Yanıma dön."
+      },
+      {
+        "msgID": "map24_e_EPI09_SCENE07_10_007",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP24_E_L0016",
+        "msgStr": "Üç prizmayı da elde etmeyi başardın."
+      },
+      {
+        "msgID": "MAP24_E_L0017",
+        "msgStr": "Söz verdiğim gibi, kendi zaman çizgine dönmende sana yardım edeceğim."
+      },
+      {
+        "msgID": "MAP24_E_L0018",
+        "msgStr": "Yanıma dön."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:46:37"
+}

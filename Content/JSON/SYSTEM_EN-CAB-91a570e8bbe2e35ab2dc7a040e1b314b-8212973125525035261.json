@@ -1,0 +1,69 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SYSTEM_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SYSTEM_L0000",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "SYSTEM_L0001",
+        "msgStr": "Kuzunoha"
+      },
+      {
+        "msgID": "SYSTEM_L0002",
+        "msgStr": "Soyadı"
+      },
+      {
+        "msgID": "SYSTEM_L0003",
+        "msgStr": "Adı"
+      },
+      {
+        "msgID": "SYSTEM_L0004",
+        "msgStr": "Japonca"
+      },
+      {
+        "msgID": "SYSTEM_L0005",
+        "msgStr": "İngilizce"
+      },
+      {
+        "msgID": "SYSTEM_L0006",
+        "msgStr": "Fransızca"
+      },
+      {
+        "msgID": "SYSTEM_L0007",
+        "msgStr": "İtalyanca"
+      },
+      {
+        "msgID": "SYSTEM_L0008",
+        "msgStr": "Almanca"
+      },
+      {
+        "msgID": "SYSTEM_L0009",
+        "msgStr": "İspanyolca"
+      },
+      {
+        "msgID": "SYSTEM_L0010",
+        "msgStr": "Basitleştirilmiş Çince"
+      },
+      {
+        "msgID": "SYSTEM_L0011",
+        "msgStr": "Geleneksel Çince"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/26 18:59:04"
+}

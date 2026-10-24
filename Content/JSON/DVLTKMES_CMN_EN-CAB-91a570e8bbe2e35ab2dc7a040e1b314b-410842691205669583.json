@@ -1,0 +1,137 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DVLTKMES_CMN_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DVLTKMES_CMN_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_CMN_L0001",
+        "msgStr": "> <V0> iyi bir ruh halinde."
+      },
+      {
+        "msgID": "DVLTKMES_CMN_L0002",
+        "msgStr": "> <V0>, Güç değeri <COLOR 1><V1><COLOR 0> artmış olarak gruba katıldı."
+      },
+      {
+        "msgID": "DVLTKMES_CMN_L0003",
+        "msgStr": "> <V0>, Büyü değeri <COLOR 1><V1><COLOR 0> artmış olarak gruba katıldı."
+      },
+      {
+        "msgID": "DVLTKMES_CMN_L0004",
+        "msgStr": "> <V0>, Dayanıklılık değeri <COLOR 1><V1><COLOR 0> artmış olarak gruba katıldı."
+      },
+      {
+        "msgID": "DVLTKMES_CMN_L0005",
+        "msgStr": "> <V0>, Şans değeri <COLOR 1><V1><COLOR 0> artmış olarak gruba katıldı."
+      },
+      {
+        "msgID": "DVLTKMES_CMN_L0006",
+        "msgStr": "> <V0>, gururla katılmadan önce Raidou'nun Ruh Gücünü maksimuma çıkardı."
+      },
+      {
+        "msgID": "DVLTKMES_CMN_L0007",
+        "msgStr": "> <V0>, mutlulukla katılmadan önce Raidou'nun MAG değerini maksimuma doldurdu."
+      },
+      {
+        "msgID": "DVLTKMES_CMN_L0008",
+        "msgStr": "> <V0> istemeye istemeye tüpe girdi."
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:48:28"
+}

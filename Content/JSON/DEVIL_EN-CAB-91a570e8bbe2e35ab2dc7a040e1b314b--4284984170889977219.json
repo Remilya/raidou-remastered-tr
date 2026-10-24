@@ -1,0 +1,2637 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DEVIL_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DEVIL_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0001",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "DEVIL_L0002",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "DEVIL_L0003",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "DEVIL_L0004",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "DEVIL_L0005",
+        "msgStr": "Sati"
+      },
+      {
+        "msgID": "DEVIL_L0006",
+        "msgStr": "Throne"
+      },
+      {
+        "msgID": "DEVIL_L0007",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0008",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "DEVIL_L0009",
+        "msgStr": "Jubokko"
+      },
+      {
+        "msgID": "DEVIL_L0010",
+        "msgStr": "Azumi"
+      },
+      {
+        "msgID": "DEVIL_L0011",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "DEVIL_L0012",
+        "msgStr": "Tarrasque"
+      },
+      {
+        "msgID": "DEVIL_L0013",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "DEVIL_L0014",
+        "msgStr": "Arahabaki"
+      },
+      {
+        "msgID": "DEVIL_L0015",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "DEVIL_L0016",
+        "msgStr": "Oyamatsumi"
+      },
+      {
+        "msgID": "DEVIL_L0017",
+        "msgStr": "Okuninushi"
+      },
+      {
+        "msgID": "DEVIL_L0018",
+        "msgStr": "Yamata-no-Orochi"
+      },
+      {
+        "msgID": "DEVIL_L0019",
+        "msgStr": "Raiju"
+      },
+      {
+        "msgID": "DEVIL_L0020",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "DEVIL_L0021",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "DEVIL_L0022",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "DEVIL_L0023",
+        "msgStr": "Omitsunu"
+      },
+      {
+        "msgID": "DEVIL_L0024",
+        "msgStr": "Parvati"
+      },
+      {
+        "msgID": "DEVIL_L0025",
+        "msgStr": "Mishaguji"
+      },
+      {
+        "msgID": "DEVIL_L0026",
+        "msgStr": "Thor"
+      },
+      {
+        "msgID": "DEVIL_L0027",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "DEVIL_L0028",
+        "msgStr": "Muu Shuwuu"
+      },
+      {
+        "msgID": "DEVIL_L0029",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "DEVIL_L0030",
+        "msgStr": "Feng Huang"
+      },
+      {
+        "msgID": "DEVIL_L0031",
+        "msgStr": "Kurama Tengu"
+      },
+      {
+        "msgID": "DEVIL_L0032",
+        "msgStr": "Power"
+      },
+      {
+        "msgID": "DEVIL_L0033",
+        "msgStr": "Legion"
+      },
+      {
+        "msgID": "DEVIL_L0034",
+        "msgStr": "Ichimokuren"
+      },
+      {
+        "msgID": "DEVIL_L0035",
+        "msgStr": "Anzu"
+      },
+      {
+        "msgID": "DEVIL_L0036",
+        "msgStr": "Sandalphon"
+      },
+      {
+        "msgID": "DEVIL_L0037",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "DEVIL_L0038",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "DEVIL_L0039",
+        "msgStr": "Turdak"
+      },
+      {
+        "msgID": "DEVIL_L0040",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "DEVIL_L0041",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "DEVIL_L0042",
+        "msgStr": "Rakshasa"
+      },
+      {
+        "msgID": "DEVIL_L0043",
+        "msgStr": "Triglav"
+      },
+      {
+        "msgID": "DEVIL_L0044",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "DEVIL_L0045",
+        "msgStr": "Cerberus"
+      },
+      {
+        "msgID": "DEVIL_L0046",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "DEVIL_L0047",
+        "msgStr": "Siegfried"
+      },
+      {
+        "msgID": "DEVIL_L0048",
+        "msgStr": "Susano-o"
+      },
+      {
+        "msgID": "DEVIL_L0049",
+        "msgStr": "Gashadokuro"
+      },
+      {
+        "msgID": "DEVIL_L0050",
+        "msgStr": "Ghoul"
+      },
+      {
+        "msgID": "DEVIL_L0051",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "DEVIL_L0052",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "DEVIL_L0053",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "DEVIL_L0054",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "DEVIL_L0055",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "DEVIL_L0056",
+        "msgStr": "Lilith"
+      },
+      {
+        "msgID": "DEVIL_L0057",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "DEVIL_L0058",
+        "msgStr": "Beelzebub"
+      },
+      {
+        "msgID": "DEVIL_L0059",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "DEVIL_L0060",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "DEVIL_L0061",
+        "msgStr": "Thoth"
+      },
+      {
+        "msgID": "DEVIL_L0062",
+        "msgStr": "Futsunushi"
+      },
+      {
+        "msgID": "DEVIL_L0063",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "DEVIL_L0064",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "DEVIL_L0065",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "DEVIL_L0066",
+        "msgStr": "Raiho"
+      },
+      {
+        "msgID": "DEVIL_L0067",
+        "msgStr": "Nekomata"
+      },
+      {
+        "msgID": "DEVIL_L0068",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "DEVIL_L0069",
+        "msgStr": "Alice"
+      },
+      {
+        "msgID": "DEVIL_L0070",
+        "msgStr": "Yoshitsune"
+      },
+      {
+        "msgID": "DEVIL_L0071",
+        "msgStr": "Orthrus"
+      },
+      {
+        "msgID": "DEVIL_L0072",
+        "msgStr": "Legion"
+      },
+      {
+        "msgID": "DEVIL_L0073",
+        "msgStr": "Legion"
+      },
+      {
+        "msgID": "DEVIL_L0074",
+        "msgStr": "Legion"
+      },
+      {
+        "msgID": "DEVIL_L0075",
+        "msgStr": "Legion"
+      },
+      {
+        "msgID": "DEVIL_L0076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0081",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "DEVIL_L0082",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "DEVIL_L0083",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "DEVIL_L0084",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "DEVIL_L0085",
+        "msgStr": "Sati"
+      },
+      {
+        "msgID": "DEVIL_L0086",
+        "msgStr": "Throne"
+      },
+      {
+        "msgID": "DEVIL_L0087",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0088",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "DEVIL_L0089",
+        "msgStr": "Jubokko"
+      },
+      {
+        "msgID": "DEVIL_L0090",
+        "msgStr": "Azumi"
+      },
+      {
+        "msgID": "DEVIL_L0091",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "DEVIL_L0092",
+        "msgStr": "Tarrasque"
+      },
+      {
+        "msgID": "DEVIL_L0093",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "DEVIL_L0094",
+        "msgStr": "Arahabaki"
+      },
+      {
+        "msgID": "DEVIL_L0095",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "DEVIL_L0096",
+        "msgStr": "Oyamatsumi"
+      },
+      {
+        "msgID": "DEVIL_L0097",
+        "msgStr": "Okuninushi"
+      },
+      {
+        "msgID": "DEVIL_L0098",
+        "msgStr": "Yamata-no-Orochi"
+      },
+      {
+        "msgID": "DEVIL_L0099",
+        "msgStr": "Raiju"
+      },
+      {
+        "msgID": "DEVIL_L0100",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "DEVIL_L0101",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "DEVIL_L0102",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "DEVIL_L0103",
+        "msgStr": "Omitsunu"
+      },
+      {
+        "msgID": "DEVIL_L0104",
+        "msgStr": "Parvati"
+      },
+      {
+        "msgID": "DEVIL_L0105",
+        "msgStr": "Mishaguji"
+      },
+      {
+        "msgID": "DEVIL_L0106",
+        "msgStr": "Thor"
+      },
+      {
+        "msgID": "DEVIL_L0107",
+        "msgStr": "Agathion"
+      },
+      {
+        "msgID": "DEVIL_L0108",
+        "msgStr": "Muu Shuwuu"
+      },
+      {
+        "msgID": "DEVIL_L0109",
+        "msgStr": "Poltergeist"
+      },
+      {
+        "msgID": "DEVIL_L0110",
+        "msgStr": "Feng Huang"
+      },
+      {
+        "msgID": "DEVIL_L0111",
+        "msgStr": "Kurama Tengu"
+      },
+      {
+        "msgID": "DEVIL_L0112",
+        "msgStr": "Power"
+      },
+      {
+        "msgID": "DEVIL_L0113",
+        "msgStr": "Legion"
+      },
+      {
+        "msgID": "DEVIL_L0114",
+        "msgStr": "Ichimokuren"
+      },
+      {
+        "msgID": "DEVIL_L0115",
+        "msgStr": "Anzu"
+      },
+      {
+        "msgID": "DEVIL_L0116",
+        "msgStr": "Sandalphon"
+      },
+      {
+        "msgID": "DEVIL_L0117",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "DEVIL_L0118",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "DEVIL_L0119",
+        "msgStr": "Turdak"
+      },
+      {
+        "msgID": "DEVIL_L0120",
+        "msgStr": "Lamia"
+      },
+      {
+        "msgID": "DEVIL_L0121",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "DEVIL_L0122",
+        "msgStr": "Rakshasa"
+      },
+      {
+        "msgID": "DEVIL_L0123",
+        "msgStr": "Triglav"
+      },
+      {
+        "msgID": "DEVIL_L0124",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "DEVIL_L0125",
+        "msgStr": "Cerberus"
+      },
+      {
+        "msgID": "DEVIL_L0126",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "DEVIL_L0127",
+        "msgStr": "Siegfried"
+      },
+      {
+        "msgID": "DEVIL_L0128",
+        "msgStr": "Susano-o"
+      },
+      {
+        "msgID": "DEVIL_L0129",
+        "msgStr": "Gashadokuro"
+      },
+      {
+        "msgID": "DEVIL_L0130",
+        "msgStr": "Ghoul"
+      },
+      {
+        "msgID": "DEVIL_L0131",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "DEVIL_L0132",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "DEVIL_L0133",
+        "msgStr": "Mokoi"
+      },
+      {
+        "msgID": "DEVIL_L0134",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "DEVIL_L0135",
+        "msgStr": "Incubus"
+      },
+      {
+        "msgID": "DEVIL_L0136",
+        "msgStr": "Lilith"
+      },
+      {
+        "msgID": "DEVIL_L0137",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "DEVIL_L0138",
+        "msgStr": "Beelzebub"
+      },
+      {
+        "msgID": "DEVIL_L0139",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "DEVIL_L0140",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "DEVIL_L0141",
+        "msgStr": "Thoth"
+      },
+      {
+        "msgID": "DEVIL_L0142",
+        "msgStr": "Futsunushi"
+      },
+      {
+        "msgID": "DEVIL_L0143",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "DEVIL_L0144",
+        "msgStr": "Scathach"
+      },
+      {
+        "msgID": "DEVIL_L0145",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "DEVIL_L0146",
+        "msgStr": "Zombi"
+      },
+      {
+        "msgID": "DEVIL_L0147",
+        "msgStr": "Zombi Kadın"
+      },
+      {
+        "msgID": "DEVIL_L0148",
+        "msgStr": "Zombi Muhafız"
+      },
+      {
+        "msgID": "DEVIL_L0149",
+        "msgStr": "Zombi Subay"
+      },
+      {
+        "msgID": "DEVIL_L0150",
+        "msgStr": "Nekomata"
+      },
+      {
+        "msgID": "DEVIL_L0151",
+        "msgStr": "Ghoul"
+      },
+      {
+        "msgID": "DEVIL_L0152",
+        "msgStr": "Hiruko"
+      },
+      {
+        "msgID": "DEVIL_L0153",
+        "msgStr": "Raiho"
+      },
+      {
+        "msgID": "DEVIL_L0154",
+        "msgStr": "Alice"
+      },
+      {
+        "msgID": "DEVIL_L0155",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "DEVIL_L0156",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "DEVIL_L0157",
+        "msgStr": "Yoshitsune"
+      },
+      {
+        "msgID": "DEVIL_L0158",
+        "msgStr": "Orthrus"
+      },
+      {
+        "msgID": "DEVIL_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0160",
+        "msgStr": "Zombi"
+      },
+      {
+        "msgID": "DEVIL_L0161",
+        "msgStr": "Zombi"
+      },
+      {
+        "msgID": "DEVIL_L0162",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "DEVIL_L0163",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "DEVIL_L0164",
+        "msgStr": "Tarrasque"
+      },
+      {
+        "msgID": "DEVIL_L0165",
+        "msgStr": "Gashadokuro"
+      },
+      {
+        "msgID": "DEVIL_L0166",
+        "msgStr": "Turdak"
+      },
+      {
+        "msgID": "DEVIL_L0167",
+        "msgStr": "Zombi Muhafız"
+      },
+      {
+        "msgID": "DEVIL_L0168",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "DEVIL_L0169",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "DEVIL_L0170",
+        "msgStr": "Triglav"
+      },
+      {
+        "msgID": "DEVIL_L0171",
+        "msgStr": "Anzu"
+      },
+      {
+        "msgID": "DEVIL_L0172",
+        "msgStr": "Zombi Subay"
+      },
+      {
+        "msgID": "DEVIL_L0173",
+        "msgStr": "Hiruko"
+      },
+      {
+        "msgID": "DEVIL_L0174",
+        "msgStr": "Omitsunu"
+      },
+      {
+        "msgID": "DEVIL_L0175",
+        "msgStr": "Raiju"
+      },
+      {
+        "msgID": "DEVIL_L0176",
+        "msgStr": "Yamata-no-Orochi"
+      },
+      {
+        "msgID": "DEVIL_L0177",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "DEVIL_L0178",
+        "msgStr": "Susano-o"
+      },
+      {
+        "msgID": "DEVIL_L0179",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "DEVIL_L0180",
+        "msgStr": "Arahabaki"
+      },
+      {
+        "msgID": "DEVIL_L0181",
+        "msgStr": "Oyamatsumi"
+      },
+      {
+        "msgID": "DEVIL_L0182",
+        "msgStr": "Power"
+      },
+      {
+        "msgID": "DEVIL_L0183",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "DEVIL_L0184",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "DEVIL_L0185",
+        "msgStr": "Triglav"
+      },
+      {
+        "msgID": "DEVIL_L0186",
+        "msgStr": "Zombi Muhafız"
+      },
+      {
+        "msgID": "DEVIL_L0187",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "DEVIL_L0188",
+        "msgStr": "Elektrik Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0189",
+        "msgStr": "Mermi Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0190",
+        "msgStr": "Ateş Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0191",
+        "msgStr": "Buz Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0192",
+        "msgStr": "Güç Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0193",
+        "msgStr": "Elektrik Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0194",
+        "msgStr": "Fiziksel Geçit"
+      },
+      {
+        "msgID": "DEVIL_L0195",
+        "msgStr": "Ateş Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0196",
+        "msgStr": "Buz Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0197",
+        "msgStr": "Elektrik Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0198",
+        "msgStr": "Mermi Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0199",
+        "msgStr": "Mermi Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0200",
+        "msgStr": "Mermi Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0201",
+        "msgStr": "Ateş Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0202",
+        "msgStr": "Buz Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0203",
+        "msgStr": "Elektrik Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0204",
+        "msgStr": "Güç Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0205",
+        "msgStr": "Fiziksel Geçit"
+      },
+      {
+        "msgID": "DEVIL_L0206",
+        "msgStr": "Mermi Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0207",
+        "msgStr": "Ateş Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0208",
+        "msgStr": "Buz Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0209",
+        "msgStr": "Elektrik Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0210",
+        "msgStr": "Güç Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0211",
+        "msgStr": "Mermi Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0212",
+        "msgStr": "Mermi Geçidi"
+      },
+      {
+        "msgID": "DEVIL_L0213",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "DEVIL_L0214",
+        "msgStr": "Shouten"
+      },
+      {
+        "msgID": "DEVIL_L0215",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "DEVIL_L0216",
+        "msgStr": "Muspell"
+      },
+      {
+        "msgID": "DEVIL_L0217",
+        "msgStr": "Zombi Subay"
+      },
+      {
+        "msgID": "DEVIL_L0218",
+        "msgStr": "Zombi Subay"
+      },
+      {
+        "msgID": "DEVIL_L0219",
+        "msgStr": "Hiruko"
+      },
+      {
+        "msgID": "DEVIL_L0220",
+        "msgStr": "Jubokko"
+      },
+      {
+        "msgID": "DEVIL_L0221",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "DEVIL_L0222",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "DEVIL_L0223",
+        "msgStr": "Nue"
+      },
+      {
+        "msgID": "DEVIL_L0224",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "DEVIL_L0225",
+        "msgStr": "Nekomata"
+      },
+      {
+        "msgID": "DEVIL_L0226",
+        "msgStr": "Obariyon"
+      },
+      {
+        "msgID": "DEVIL_L0227",
+        "msgStr": "Yomotsu-Ikusa"
+      },
+      {
+        "msgID": "DEVIL_L0228",
+        "msgStr": "Gashadokuro"
+      },
+      {
+        "msgID": "DEVIL_L0229",
+        "msgStr": "Kurama Tengu"
+      },
+      {
+        "msgID": "DEVIL_L0230",
+        "msgStr": "Jubokko"
+      },
+      {
+        "msgID": "DEVIL_L0231",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "DEVIL_L0232",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "DEVIL_L0233",
+        "msgStr": "Zombi"
+      },
+      {
+        "msgID": "DEVIL_L0234",
+        "msgStr": "Parvati"
+      },
+      {
+        "msgID": "DEVIL_L0235",
+        "msgStr": "Oyamatsumi"
+      },
+      {
+        "msgID": "DEVIL_L0236",
+        "msgStr": "Lilith"
+      },
+      {
+        "msgID": "DEVIL_L0237",
+        "msgStr": "Zombi"
+      },
+      {
+        "msgID": "DEVIL_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0239",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0240",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "DEVIL_L0241",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "DEVIL_L0241_1",
+        "msgStr": "Aday"
+      },
+      {
+        "msgID": "DEVIL_L0242",
+        "msgStr": "Arahabaki"
+      },
+      {
+        "msgID": "DEVIL_L0243",
+        "msgStr": "Lilith"
+      },
+      {
+        "msgID": "DEVIL_L0244",
+        "msgStr": "Rakshasa"
+      },
+      {
+        "msgID": "DEVIL_L0245",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0246",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0247",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0248",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0252",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0253",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0254",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0255",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0256",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0257",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "DEVIL_L0258",
+        "msgStr": "Yasomagatsu"
+      },
+      {
+        "msgID": "DEVIL_L0259",
+        "msgStr": "Yasomagatsu"
+      },
+      {
+        "msgID": "DEVIL_L0260",
+        "msgStr": "Yasomagatsu"
+      },
+      {
+        "msgID": "DEVIL_L0261",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "DEVIL_L0262",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "DEVIL_L0263",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "DEVIL_L0264",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "DEVIL_L0265",
+        "msgStr": "Yasomagatsu"
+      },
+      {
+        "msgID": "DEVIL_L0266",
+        "msgStr": "Yasomagatsu"
+      },
+      {
+        "msgID": "DEVIL_L0267",
+        "msgStr": "Mishaguji"
+      },
+      {
+        "msgID": "DEVIL_L0268",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "DEVIL_L0269",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "DEVIL_L0270",
+        "msgStr": "Serseri"
+      },
+      {
+        "msgID": "DEVIL_L0271",
+        "msgStr": "Gangster"
+      },
+      {
+        "msgID": "DEVIL_L0272",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "DEVIL_L0273",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "DEVIL_L0274",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "DEVIL_L0275",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "DEVIL_L0276",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "DEVIL_L0277",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "DEVIL_L0278",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0279",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0280",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0281",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0282",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "DEVIL_L0283",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "DEVIL_L0284",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "DEVIL_L0285",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0286",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0287",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0288",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0289",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0290",
+        "msgStr": "Ichimokuren"
+      },
+      {
+        "msgID": "DEVIL_L0291",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "DEVIL_L0292",
+        "msgStr": "Tai-itsu Çekirdeği"
+      },
+      {
+        "msgID": "DEVIL_L0293",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "DEVIL_L0294",
+        "msgStr": "Savunma Sistemi"
+      },
+      {
+        "msgID": "DEVIL_L0295",
+        "msgStr": "Savunma Sistemi"
+      },
+      {
+        "msgID": "DEVIL_L0296",
+        "msgStr": "Savunma Sistemi"
+      },
+      {
+        "msgID": "DEVIL_L0297",
+        "msgStr": "Ichimokuren"
+      },
+      {
+        "msgID": "DEVIL_L0298",
+        "msgStr": "Turdak"
+      },
+      {
+        "msgID": "DEVIL_L0299",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "DEVIL_L0300",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "DEVIL_L0301",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "DEVIL_L0302",
+        "msgStr": "Matryoshka"
+      },
+      {
+        "msgID": "DEVIL_L0303",
+        "msgStr": "Triglav"
+      },
+      {
+        "msgID": "DEVIL_L0304",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "DEVIL_L0305",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "DEVIL_L0306",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0307",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0308",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0309",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "DEVIL_L0310",
+        "msgStr": "Mishaguji"
+      },
+      {
+        "msgID": "DEVIL_L0311",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "DEVIL_L0312",
+        "msgStr": "Yasomagatsu (Sağ)"
+      },
+      {
+        "msgID": "DEVIL_L0313",
+        "msgStr": "Yasomagatsu (Sol)"
+      },
+      {
+        "msgID": "DEVIL_L0314",
+        "msgStr": "Yasomagatsu"
+      },
+      {
+        "msgID": "DEVIL_L0315",
+        "msgStr": "Yasomagatsu"
+      },
+      {
+        "msgID": "DEVIL_L0316",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "DEVIL_L0317",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0318",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0319",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0320",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0321",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0322",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0323",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0324",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0325",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0326",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0327",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0328",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0329",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0330",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0331",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0332",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0333",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0334",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0335",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0336",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0337",
+        "msgStr": "Undine"
+      },
+      {
+        "msgID": "DEVIL_L0338",
+        "msgStr": "Sylph"
+      },
+      {
+        "msgID": "DEVIL_L0339",
+        "msgStr": "Aquans"
+      },
+      {
+        "msgID": "DEVIL_L0340",
+        "msgStr": "Aeros"
+      },
+      {
+        "msgID": "DEVIL_L0341",
+        "msgStr": "Flaemis"
+      },
+      {
+        "msgID": "DEVIL_L0342",
+        "msgStr": "Erthys"
+      },
+      {
+        "msgID": "DEVIL_L0343",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0344",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0345",
+        "msgStr": "Kushi Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0346",
+        "msgStr": "Ara Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0347",
+        "msgStr": "Nigi Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0348",
+        "msgStr": "Saki Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0349",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0350",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0351",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0352",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0353",
+        "msgStr": "Enku"
+      },
+      {
+        "msgID": "DEVIL_L0354",
+        "msgStr": "Asura"
+      },
+      {
+        "msgID": "DEVIL_L0355",
+        "msgStr": "Onmoraki"
+      },
+      {
+        "msgID": "DEVIL_L0356",
+        "msgStr": "Vritra"
+      },
+      {
+        "msgID": "DEVIL_L0357",
+        "msgStr": "Hi-no-Kagutsuchi"
+      },
+      {
+        "msgID": "DEVIL_L0358",
+        "msgStr": "Preta"
+      },
+      {
+        "msgID": "DEVIL_L0359",
+        "msgStr": "Mermaid"
+      },
+      {
+        "msgID": "DEVIL_L0360",
+        "msgStr": "Arioch"
+      },
+      {
+        "msgID": "DEVIL_L0361",
+        "msgStr": "Pabilsag"
+      },
+      {
+        "msgID": "DEVIL_L0362",
+        "msgStr": "Qing Long"
+      },
+      {
+        "msgID": "DEVIL_L0363",
+        "msgStr": "Cybele"
+      },
+      {
+        "msgID": "DEVIL_L0364",
+        "msgStr": "Makami"
+      },
+      {
+        "msgID": "DEVIL_L0365",
+        "msgStr": "Hayataro"
+      },
+      {
+        "msgID": "DEVIL_L0366",
+        "msgStr": "Vishnu"
+      },
+      {
+        "msgID": "DEVIL_L0367",
+        "msgStr": "Koropokkur"
+      },
+      {
+        "msgID": "DEVIL_L0368",
+        "msgStr": "Angel"
+      },
+      {
+        "msgID": "DEVIL_L0369",
+        "msgStr": "Turbo Nine"
+      },
+      {
+        "msgID": "DEVIL_L0370",
+        "msgStr": "Decarabia"
+      },
+      {
+        "msgID": "DEVIL_L0371",
+        "msgStr": "Archangel"
+      },
+      {
+        "msgID": "DEVIL_L0372",
+        "msgStr": "Dominion"
+      },
+      {
+        "msgID": "DEVIL_L0373",
+        "msgStr": "Neko Shogun"
+      },
+      {
+        "msgID": "DEVIL_L0374",
+        "msgStr": "Nezha"
+      },
+      {
+        "msgID": "DEVIL_L0375",
+        "msgStr": "Shiva"
+      },
+      {
+        "msgID": "DEVIL_L0376",
+        "msgStr": "Fenrir"
+      },
+      {
+        "msgID": "DEVIL_L0377",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0378",
+        "msgStr": "Inugami"
+      },
+      {
+        "msgID": "DEVIL_L0379",
+        "msgStr": "Lilim"
+      },
+      {
+        "msgID": "DEVIL_L0380",
+        "msgStr": "Mara"
+      },
+      {
+        "msgID": "DEVIL_L0381",
+        "msgStr": "Arachne"
+      },
+      {
+        "msgID": "DEVIL_L0382",
+        "msgStr": "Black Frost"
+      },
+      {
+        "msgID": "DEVIL_L0383",
+        "msgStr": "Pixie"
+      },
+      {
+        "msgID": "DEVIL_L0384",
+        "msgStr": "Tam Lin"
+      },
+      {
+        "msgID": "DEVIL_L0385",
+        "msgStr": "Idun"
+      },
+      {
+        "msgID": "DEVIL_L0386",
+        "msgStr": "Belphegor"
+      },
+      {
+        "msgID": "DEVIL_L0387",
+        "msgStr": "Taotie"
+      },
+      {
+        "msgID": "DEVIL_L0388",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0389",
+        "msgStr": "Mada"
+      },
+      {
+        "msgID": "DEVIL_L0390",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0391",
+        "msgStr": "Basilisk"
+      },
+      {
+        "msgID": "DEVIL_L0392",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0393",
+        "msgStr": "Nandi"
+      },
+      {
+        "msgID": "DEVIL_L0394",
+        "msgStr": "Barong"
+      },
+      {
+        "msgID": "DEVIL_L0395",
+        "msgStr": "Ophanim"
+      },
+      {
+        "msgID": "DEVIL_L0396",
+        "msgStr": "Camael"
+      },
+      {
+        "msgID": "DEVIL_L0397",
+        "msgStr": "Rangda"
+      },
+      {
+        "msgID": "DEVIL_L0398",
+        "msgStr": "Mot"
+      },
+      {
+        "msgID": "DEVIL_L0399",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0400",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0401",
+        "msgStr": "Undine"
+      },
+      {
+        "msgID": "DEVIL_L0402",
+        "msgStr": "Sylph"
+      },
+      {
+        "msgID": "DEVIL_L0403",
+        "msgStr": "Aquans"
+      },
+      {
+        "msgID": "DEVIL_L0404",
+        "msgStr": "Aeros"
+      },
+      {
+        "msgID": "DEVIL_L0405",
+        "msgStr": "Flaemis"
+      },
+      {
+        "msgID": "DEVIL_L0406",
+        "msgStr": "Erthys"
+      },
+      {
+        "msgID": "DEVIL_L0407",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0408",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0409",
+        "msgStr": "Kushi Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0410",
+        "msgStr": "Ara Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0411",
+        "msgStr": "Nigi Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0412",
+        "msgStr": "Saki Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0413",
+        "msgStr": "Büyük Kushi Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0414",
+        "msgStr": "Büyük Ara Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0415",
+        "msgStr": "Büyük Nigi Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0416",
+        "msgStr": "Büyük Saki Mitama"
+      },
+      {
+        "msgID": "DEVIL_L0417",
+        "msgStr": "Mada"
+      },
+      {
+        "msgID": "DEVIL_L0418",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0419",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0420",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0421",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0422",
+        "msgStr": "Pabilsag"
+      },
+      {
+        "msgID": "DEVIL_L0423",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0424",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0425",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0426",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0427",
+        "msgStr": "Cybele"
+      },
+      {
+        "msgID": "DEVIL_L0428",
+        "msgStr": "Nandi"
+      },
+      {
+        "msgID": "DEVIL_L0429",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0430",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0431",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0432",
+        "msgStr": "Dominion"
+      },
+      {
+        "msgID": "DEVIL_L0433",
+        "msgStr": "Ophanim"
+      },
+      {
+        "msgID": "DEVIL_L0434",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0435",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0436",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0437",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0438",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0439",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0440",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0441",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0442",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0443",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0444",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0445",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0446",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0447",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0448",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0449",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0450",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0451",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0452",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0453",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0454",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0455",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0456",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0457",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0458",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0459",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0460",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0461",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0462",
+        "msgStr": "Mot"
+      },
+      {
+        "msgID": "DEVIL_L0463",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0464",
+        "msgStr": "Hitogata"
+      },
+      {
+        "msgID": "DEVIL_L0465",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "DEVIL_L0466",
+        "msgStr": "Hitogata"
+      },
+      {
+        "msgID": "DEVIL_L0467",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "DEVIL_L0468",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "DEVIL_L0469",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "DEVIL_L0470",
+        "msgStr": "Hitogata"
+      },
+      {
+        "msgID": "DEVIL_L0471",
+        "msgStr": "Hitogata"
+      },
+      {
+        "msgID": "DEVIL_L0472",
+        "msgStr": "Naga Raja"
+      },
+      {
+        "msgID": "DEVIL_L0473",
+        "msgStr": "Hitogata"
+      },
+      {
+        "msgID": "DEVIL_L0474",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "DEVIL_L0475",
+        "msgStr": "Kraliçe Okiku-Mushi"
+      },
+      {
+        "msgID": "DEVIL_L0476",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "DEVIL_L0477",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0478",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0479",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0480",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0481",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0482",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0483",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0484",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0485",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0486",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0487",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0488",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0489",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0490",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0491",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0492",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0493",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0494",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0495",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0496",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0497",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0498",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0499",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0500",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0501",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVIL_L0502",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0503",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0504",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0505",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0506",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0507",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0508",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0509",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0510",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVIL_L0511",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:49:21"
+}

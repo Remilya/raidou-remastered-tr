@@ -1,0 +1,61 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONFIG_GRAPHICS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONFIG_GRAPHICS_L0000",
+        "msgStr": "Performans"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0001",
+        "msgStr": "İşleme ölçeği"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0002",
+        "msgStr": "Gölgeler"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0003",
+        "msgStr": "Kenar yumuşatma"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0004",
+        "msgStr": "Ekran parlaklığı"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0005",
+        "msgStr": "Kontrast"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0006",
+        "msgStr": "Grafiklere öncelik ver"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0007",
+        "msgStr": "Performansa öncelik ver"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0008",
+        "msgStr": "Düşük"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0009",
+        "msgStr": "Normal"
+      },
+      {
+        "msgID": "CONFIG_GRAPHICS_L0010",
+        "msgStr": "Yüksek"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:38:03"
+}

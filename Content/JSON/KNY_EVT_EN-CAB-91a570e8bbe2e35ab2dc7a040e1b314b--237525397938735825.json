@@ -1,0 +1,505 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "KNY_EVT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "kny_evt_KNY_MASTER_02_000",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0000",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0001",
+        "msgStr": "Dünyanın dört bir yanından ıvır zıvırlar, Başkent'in en seçkin antikacısı Konnou-ya'ya gelir!\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0002",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0003",
+        "msgStr": "Hey, sen Narumi Dedektiflik Bürosu'ndaki yeni elemansın. Bak söyleyeyim, sadece vitrin bakmak yok!\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_KNY_MASTER_04_001",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0004",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0005",
+        "msgStr": "Bugün şanslı günündesin, evlat. Tam aradığın şey bende!\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "KNY_EVT_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "KNY_EVT_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "KNY_EVT_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "KNY_EVT_L0010",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0011",
+        "msgStr": "Pek ucuz sayılmaz ama hayal kırıklığına uğramayacağının garantisini veririm.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_01_002",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0012",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0013",
+        "msgStr": "Aradığın her şeyi bulabileceğin Konnou-ya'ya hoş gel— Ha? Bir daha söyle?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_02_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0014",
+        "msgStr": "> Raidou dükkân sahibine maymuncuk sordu."
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_03_004",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0015",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0016",
+        "msgStr": "Hyeh heh... Birine, şey, \"yardım etmeyi\" falan mı planlıyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0017",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0018",
+        "msgStr": "Eh, paramı aldığım sürece beni ilgilendirmez. Buradan sonrası senin sorunun.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0019",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0020",
+        "msgStr": "Bu küçük parçayı karaborsadan buldum...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0021",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0022",
+        "msgStr": "Normalde 5.000 yen civarına gider ama senin için düz 2.000'e bırakırım.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_04_TUIKA01_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0023",
+        "msgStr": "> Maymuncuğu 2.000 yen karşılığında satın alacak mısın?"
+      },
+      {
+        "msgID": "KNY_EVT_L0024",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "KNY_EVT_L0025",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_05_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0026",
+        "msgStr": "> Raidou <ITM_04><COLOR 4>maymuncuk<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_05_TUIKA_007",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0027",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0028",
+        "msgStr": "Ne? 2.000 yeni bile karşılayamıyor musun? O zaman unut gitsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0029",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0030",
+        "msgStr": "Gerçekten istiyorsan parayla geri gel.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_06_008",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0031",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0032",
+        "msgStr": "O küçük maymuncukla basit kilitleri açmak çocuk oyuncağı olacaktır.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0033",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0034",
+        "msgStr": "Sadece adımlarına dikkat et, genç dedektif. Hyeh heh...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0035",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0036",
+        "msgStr": "Ah, yine mi sensin. Ee, şu maymuncuk için nakit getirdin mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_IKAI_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0037",
+        "msgStr": "> <COLOR 3>Karanlık Fukagawa-cho<COLOR 0> artık erişilebilir."
+      },
+      {
+        "msgID": "kny_evt_EPI04_TUIKA_01_010",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0038",
+        "msgStr": "Çanı duydum... Ama sen olduğunu bilseydim... koşmazdım..."
+      },
+      {
+        "msgID": "KNY_EVT_L0039",
+        "msgStr": "Buradaki her şeyi satın alabilirsin ama Harumi-cho'yu unutma, tamam mı?"
+      },
+      {
+        "msgID": "kny_evt_EPI04_TUIKA_02_011",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "KNY_EVT_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "KNY_EVT_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "kny_evt_EPI05_SCENE05_01_012",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0043",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0044",
+        "msgStr": "Antika cenneti Konnou-ya'ya hoş geldin. Nasıl yardımcı— Hm? Şimdi ne var?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0045",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0046",
+        "msgStr": "...Fotoğraf makinelerinden anlar mıyım? Neden sordun?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI05_SCENE05_02_TUIKA01_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0047",
+        "msgStr": "> Raidou, Tae'nin ortadan kayboluşunu açıkladı."
+      },
+      {
+        "msgID": "KNY_EVT_L0048",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0049",
+        "msgStr": "Hm... Hmm... Hmmm.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0050",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0051",
+        "msgStr": "Anladım. Bu fotoğraf makinesinde ipucu içeren bir fotoğraf olabileceğini düşünüyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0052",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0053",
+        "msgStr": "Ho ho... Yani filmi banyo etmemi istiyorsun, öyle mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0054",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0055",
+        "msgStr": "Eh, parasını ödediğin sürece ne istersen yaparım.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0056",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0057",
+        "msgStr": "3.000 yen bu işi fazlasıyla görür derim.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI05_SCENE05_06_TUIKA02_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0058",
+        "msgStr": "> 3.000 yen ödensin mi?"
+      },
+      {
+        "msgID": "KNY_EVT_L0059",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "KNY_EVT_L0060",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "kny_evt_EPI05_SCENE05_06_TUIKA03_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0061",
+        "msgStr": "> Raidou 3.000 yen ödedi ve fotoğraf makinesini teslim etti."
+      },
+      {
+        "msgID": "kny_evt_EPI05_SCENE05_07_016",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0062",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0063",
+        "msgStr": "Beklettiğim için kusura bakma. İşte fotoğrafın.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0064",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0065",
+        "msgStr": "Oldukça tuhaf bir fotoğraf gerçi.\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI05_SCENE05_09_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0066",
+        "msgStr": "> Raidou <ITM_04><COLOR 4>Tae'nin Fotoğrafı<COLOR 0>'nı elde etti."
+      },
+      {
+        "msgID": "kny_evt_EPI05_SCENE05_09_TUIKA_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0067",
+        "msgStr": "> <COLOR 3>Karanlık Kasumidai<COLOR 0> artık erişilebilir."
+      },
+      {
+        "msgID": "kny_evt_EPI05_SCENE05_10_019",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "KNY_EVT_L0068",
+        "msgStr": "Oldukça uğursuz bir fotoğraf. Tae kendini Karanlık Diyar'da bulmuş gibi görünüyor."
+      },
+      {
+        "msgID": "KNY_EVT_L0069",
+        "msgStr": "Hadi gidelim, Raidou."
+      },
+      {
+        "msgID": "kny_evt_EPI02_SCENE11_05_TUIKA04_020",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0070",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0071",
+        "msgStr": "Ne? 3.000 yeni bile karşılayamıyor musun? O zaman korkarım elim kolum bağlı.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0072",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0073",
+        "msgStr": "Parayla geri gel, sana memnuniyetle yardımcı olurum.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0074",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0075",
+        "msgStr": "Ah, dönmüşsün. Siz gençlerin tabiriyle \"mangırları\" denkleştirdin mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI06_SCENE02_01_021",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0076",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0077",
+        "msgStr": "Buyur bakalım, ufaklık. İşte sipariş edilen mal.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0078",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0079",
+        "msgStr": "Bay Narumi'ye bunu dikkatli kullanması gerektiğini söyle, tamam mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "kny_evt_EPI06_SCENE02_03_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "KNY_EVT_L0080",
+        "msgStr": "> Raidou <ITM_04><COLOR 4>Mühimmat Kutusu<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "kny_evt_EPI06_SCENE02_04_023",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "KNY_EVT_L0081",
+        "msgStr": "Narumi böyle bir çılgınlığa ne için ihtiyaç duyabilir ki? Bir şeye hazırlanmıyor, değil mi?"
+      },
+      {
+        "msgID": "KNY_EVT_L0081_01",
+        "msgStr": "Eh, kendisine teslim ettiğimizde öğreniriz."
+      },
+      {
+        "msgID": "kny_evt_EPI06_SCENE05_01_024",
+        "msgStr": "Konnou-ya Sahibi"
+      },
+      {
+        "msgID": "KNY_EVT_L0082",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0083",
+        "msgStr": "Konnou-ya'da civardaki en seçkin antikalar bulunur. Gözüne bir şey çarparsa sana iyi bir fiyat yaparım!\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0084",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0085",
+        "msgStr": "Aa, bugün yanında misafir getirmişsin... Ne, kristal küre mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0086",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0087",
+        "msgStr": "Aslına bakarsan geçenlerde Batı'dan şu \"kar küresi\" denen şeylerden bir sipariş almıştım...\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0088",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0089",
+        "msgStr": "Ha...? Ruhsal enerji mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0090",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0091",
+        "msgStr": "Hayır, korkarım o tarife uyan hiçbir şeyim yok.\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0092",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0093",
+        "msgStr": "Neden alt kattaki Victor'a sormuyorsunuz?\n<lips_stop>"
+      },
+      {
+        "msgID": "KNY_EVT_L0094",
+        "msgStr": "<lips 13 5>"
+      },
+      {
+        "msgID": "KNY_EVT_L0095",
+        "msgStr": "Küçük bir ihtimal de olsa bu tür şeyler hakkında bilgisi olabilir.\n<lips_stop>"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/17 10:34:37"
+}

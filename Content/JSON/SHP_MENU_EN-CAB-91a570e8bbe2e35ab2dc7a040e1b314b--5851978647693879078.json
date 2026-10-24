@@ -1,0 +1,81 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SHP_MENU_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SHP_MENU_L0000",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "SHP_MENU_L0001",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "SHP_MENU_L0002",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "SHP_MENU_L0003",
+        "msgStr": "Satın al"
+      },
+      {
+        "msgID": "SHP_MENU_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_MENU_L0005",
+        "msgStr": "Eşya satın al"
+      },
+      {
+        "msgID": "SHP_MENU_L0006",
+        "msgStr": "Sat"
+      },
+      {
+        "msgID": "SHP_MENU_L0007",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "SHP_MENU_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_MENU_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_MENU_L0010",
+        "msgStr": "Gazoz sipariş et"
+      },
+      {
+        "msgID": "SHP_MENU_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_MENU_L0012",
+        "msgStr": "Gazete"
+      },
+      {
+        "msgID": "SHP_MENU_L0013",
+        "msgStr": "Konnou-ya"
+      },
+      {
+        "msgID": "SHP_MENU_L0014",
+        "msgStr": "Shin-Sekai"
+      },
+      {
+        "msgID": "SHP_MENU_L0015",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:58:43"
+}

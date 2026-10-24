@@ -1,0 +1,517 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DVLTKMES_00A_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DVLTKMES_00A_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0001",
+        "msgStr": "Bu benim hee-anım, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0002",
+        "msgStr": "Hee-ho'lar çok daha hee-üstündür, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0003",
+        "msgStr": "Olağan-hee-üstü değil miyim, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0004",
+        "msgStr": "Bana bir puan yazın-ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0005",
+        "msgStr": "Hâlâ ayaktalar, ho..."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0006",
+        "msgStr": "Raidou, bu hee-hiç iyi değil, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0007",
+        "msgStr": "Hiçbir şey bulamadım, ho..."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0008",
+        "msgStr": "Bana-ho bir şans daha ver, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0009",
+        "msgStr": "Hee ho! Isınmaya hee-başladım, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0010",
+        "msgStr": "Heeeeee ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0011",
+        "msgStr": "İnsanlarda hee-hiç iş yok, ho."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0012",
+        "msgStr": "Raidou, çok berbatsın, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0013",
+        "msgStr": "Ben bir psiko-ho'yum, hee ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0014",
+        "msgStr": "Olamaz hee-hayır! Yardım et bana-ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0015",
+        "msgStr": "Hu-hee-zur içinde yatacağım, ho..."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0016",
+        "msgStr": "Harika bir de-hee-dektifim, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0017",
+        "msgStr": "B-Başım belada mı, ho...?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0018",
+        "msgStr": "Yine karşılaştık-ho, hee ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0019",
+        "msgStr": "Eh, mecbur kalırsam yaparım, ho..."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0020",
+        "msgStr": "Sanırım hee-öyle, ho."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0021",
+        "msgStr": "Aynen de-hee-vam edelim, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0022",
+        "msgStr": "Sonra gö-hee-rüşürüz, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0023",
+        "msgStr": "Yüklen-ho, Raidou!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0024",
+        "msgStr": "Raidou, iyi misin-ho, hee ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0025",
+        "msgStr": "Pon, ho."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0026",
+        "msgStr": "Chii-ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0027",
+        "msgStr": "Bu bir kan, ho."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0028",
+        "msgStr": "Riichi-ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0029",
+        "msgStr": "Ron, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0030",
+        "msgStr": "MAG'ları sökül ba-ho-kalım, hee ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0031",
+        "msgStr": "Raidou!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0032",
+        "msgStr": "Hadi hee-gidelim!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0033",
+        "msgStr": "Onlara gününü hee-göstereceğiz, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0035",
+        "msgStr": "Ruh Gücün beni çok etkiledi, ho."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0036",
+        "msgStr": "Bu yüzden senin müttefikin ola-ho-cağım, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0037",
+        "msgStr": "Peki, sanırım hizmetkârım ola-ho-bilirsin, ho."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0038",
+        "msgStr": "Ne ina-hee-nılmaz bir güç, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0039",
+        "msgStr": "O tüp gökteki yıldızları da içine çekebilir mi, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0040",
+        "msgStr": "Öyle olursa dünya hee-kararır mı, ho...?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0047",
+        "msgStr": "Beni tüpün içine çeken de kim, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0048",
+        "msgStr": "14. Raidou Kuzunoha."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0049",
+        "msgStr": "<NAME 0>."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0050",
+        "msgStr": "Söylemem."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0051",
+        "msgStr": "Sana katıldıktan sonra bana-ho ne olacak, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0052",
+        "msgStr": "Seni güçlendireceğim."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0053",
+        "msgStr": "Seni çalıştıracağım."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0054",
+        "msgStr": "Seni füzyon için kullanacağım."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0055",
+        "msgStr": "İn-hee-sanlar ve iblisler arkadaş olabilir mi, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0056",
+        "msgStr": "Elbette olabiliriz."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0057",
+        "msgStr": "Hayır, olamayız."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0058",
+        "msgStr": "Arkadaştan öte olabiliriz."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0059",
+        "msgStr": "Gerçekten ne hee-istiyorsun, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0060",
+        "msgStr": "Sonsuz zenginlik."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0061",
+        "msgStr": "Sınırsız sevgi."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0062",
+        "msgStr": "Tek istediğim sensin."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0063",
+        "msgStr": "Bütün hee-dünyada en sevdiğin şey ne, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0064",
+        "msgStr": "Para."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0065",
+        "msgStr": "Şefkat."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0066",
+        "msgStr": "Kendim."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0067",
+        "msgStr": "Sen bir de-hee-dektifsin, değil mi? Çok havalı, ho."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0068",
+        "msgStr": "Peki, tam olarak neden davaları çözüyorsun, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0069",
+        "msgStr": "Gerçek suçluları yakalamak için."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0070",
+        "msgStr": "Başkent'i korumak için."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0071",
+        "msgStr": "Görevimi yerine getirmek için."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0072",
+        "msgStr": "Hee ho! Seni sevdim, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0073",
+        "msgStr": "Hee ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0074",
+        "msgStr": "Çok hee-heyecanlandım, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0075",
+        "msgStr": "Sana gerçekten ina-hee-nabilir miyim, ho?"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0076",
+        "msgStr": "Hımm..."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0077",
+        "msgStr": "Hey, bu doğru değil, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0078",
+        "msgStr": "Yerinde olsam iblislerin yanında daha dikkatli olurdum, ho."
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0123",
+        "msgStr": "Benim, ho!"
+      },
+      {
+        "msgID": "DVLTKMES_00A_L0124",
+        "msgStr": "Konnou-ya'dan yığınla hee-eşya aldın mı, ho?"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/29 17:52:01"
+}

@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E68X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e680_001_e680_001_001_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E680_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e680_001_e680_001_002_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E680_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e680_001_e680_001_003_002",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "E680_001_L0002",
+        "msgStr": "Gouma-Den'e hoş geldin.\n<mw 150>"
+      },
+      {
+        "msgID": "e681_001_e680_001_001_000",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "E681_001_L0000",
+        "msgStr": "Bizi izleyen tüm hee-oğlanlar ve hee-kızlar, ho!\nBakın—ben de tıpkı hee-Raidou gibi olacağım!\n<mw 120>"
+      },
+      {
+        "msgID": "e681_001_e680_001_002_001",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "E681_001_L0001",
+        "msgStr": "Hee-ho! Millet, gücünüze ihtiyacım var-ho!\n<mw 70>"
+      },
+      {
+        "msgID": "e681_001_e680_001_003_002",
+        "msgStr": "Jack Frost?"
+      },
+      {
+        "msgID": "E681_001_L0002",
+        "msgStr": "Uh-ho... Şimdi gerçekten fazla hee-havalı olmuş olabilirim-ho..."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:40:15"
+}

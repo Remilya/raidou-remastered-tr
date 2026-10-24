@@ -1,0 +1,257 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_KNOWLEDGE02_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0015",
+        "msgStr": "<COLOR 3>*Gouto'dan not<COLOR 0>\nAşağıdaki metin ağırlıklı olarak Köy Öğretileri'nden oluşmaktadır, ancak kendi notlarımdan bazılarını da ekledim.\n\nHem dost hem de düşman tüm iblislerin savaş sırasında sürekli dalgalanan ve Ruh Gücü olarak bilinen bir niteliği vardır. Bir iblisin Ruh Gücü savaş boyunca, özellikle de sersemlemiş düşmanlara hasar verildiğinde doğal olarak yükselir. Ek olarak, düşmanla konuşurken ruh halleriyle birlikte Ruh Güçleri de değişebilir. Sağlığının tehlikeli derecede düşmesi gibi durumlarda müttefik iblislerin Ruh Gücü'nün yükselebildiği özel durumlar da vardır.\n\n<INS_IMG 002>\n\nİblislerinin her birinin kendine ait ayrı bir Ruh Gücü hacmi vardır. İblisin savaşta Ruh Gücü biriktirdikçe, biriken Ruh Gücü'nü Kombinasyon Yetenekleri (ne kadar Ruh Gücü tüketileceği Kombinasyon Yeteneği'ne bağlıdır) yapmak veya geçici olarak Şevk durumunu etkinleştirip hem saldırı hem de savunma kabiliyetini artırmak için kullanabilir (tüm iblisler seninle geçirdikleri sürenin başından itibaren Şevk durumunu etkinleştirme kapasitesine sahiptir). Hem Kombinasyon Yetenekleri hem de Şevk, Komut (<BTN_OP2> veya <BTN_DL>/<BTN_DR>) ve Doğrudan Komutlar (<BTN_R2>+<BTN_D>) aracılığıyla tetiklenebilir. Ruh Gücü'nün saldırı için mi yoksa savunma için mi kullanılacağı her bir İblis Çağırıcısı'nın kendi takdirine bağlıdır.\n\n<INS_IMG 003>\n\nSenin iblislerinin aksine, düşman Ruh Gücü karşılaşmadaki tüm düşmanlar arasında ortaktır. Dolayısıyla bir düşmana saldırmak savaştaki tüm düşmanların Ruh Gücü'nü etkiler. Düşmanlar Kombinasyon Yetenekleri kullanamazlar ancak kendi Şevk durumlarını tetiklemek için Ruh Güçlerini kullanabilirler. Bunu yapmak saldırı ve savunma güçlerini artıracağı gibi onlara her zamankinden daha saldırgan bir mizaç da kazandırır."
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0020",
+        "msgStr": "Kendini geliştirmek için kullanabileceğin en dikkat çekici yöntemlerden ikisi, Kılıç Simyası yoluyla kılıcını güçlendirmek ve unvanlar kazanmaktır.\n\nKılıç Simyası, Goumaden'de gerçekleştirilir ve yeni bir silah yaratmak üzere bir silahın malzemelerle birleştirilmesini içerir. Yeni kılıçlar dövmenin sonucunda yeni Çağırıcı Yetenekleri de öğrenir ve böylece savaş kabiliyetini artırırsın.\n\nKılıç Simyası'nda kullanılan malzemeler iblislerin özlerinin kristalleşmiş formlarıdır ve bir malzemenin rengi elde edildiği iblisin Düzeni'ne dayanır. Bu malzemeler iblisleri alt ederek elde edilebilir, bazıları ise Konnou-ya'dan satın alınabilir.\n\nKuşanabileceğin silahlar genellikle ağır kılıç saldırılarını gerçekleştirme biçimleri bakımından farklılık gösteren üç kılıç kategorisinden birine girer.\n\nİlki, dengeli özellikleriyle öne çıkan standart kılıç türüdür.\n\nSıradaki ise mızrak türüdür. Gücü düşük olsa da yüksek vuruş sayısıyla öne çıkar.\n\nSon olarak balta türü vardır. Bu tür büyük hasar verir ancak daha yavaş saldırı hızı nedeniyle dezavantajlıdır.\n\nŞimdi Savaş Yetenekleri ile Kılıç Yetenekleri arasında sana çeşitli kabiliyetler sağlayan Çağırıcı Yeteneklerine geçelim.\n\nSavaş Yetenekleri, savaşta aktif olarak kullanılan yeteneklerdir.\n\nKılıç Yetenekleri ise kuşanıldığında otomatik olarak etkisini gösterir. Bunları, iblislerin tarafından öğrenilebilen Pasif Yeteneklerin senin için olan versiyonu gibi düşünebilirsin.\n\nKılıç Simyası kullanarak yeni bir kılıç dövdüğünde Çağırıcı Yetenekleri öğrenebilecek ve kuşanmak istediklerini seçebileceksin. Aynı anda en fazla dört Savaş Yeteneği ve altı Kılıç Yeteneği aktif olabilir, ancak daha önce öğrendiklerini sırf aktif değiller diye unutmazsın. Kılıç Simyası yoluyla yeni bir kılıç dövdüğünde hangilerinin aktif olduğunu değiştirebilir veya <BTN_X> ile ana menüyü açıp \"Çağırıcı Yetenekleri\"ni seçebilirsin. Savaştayken <BTN_OP2> ile savaş menüsünü açabilir ve yine \"Çağırıcı Yetenekleri\"ni seçebilirsin.\n\nDaha önce unvan kazanmaktan da bahsetmiştim. Bu noktada: İblis müttefiklerinden yeterince Sadakat biriktirdiğinde bir İblis Çağırıcısı olarak rütben yükselecektir. Bu gerçekleştiğinde Yatagarasu Elçisi sana yeni bir unvan bahşedecektir (Yatagarasu'nun isimlendirme zevki hakkında yorum yapmaktan kaçınacağım). Yeni unvanla birlikte İblis Çağırıcısı rütbesinde yükselmek ödül olarak daha fazla tüp de getirebilir. Söylemeye gerek yok ki daha fazla tüp, daha fazla iblis taşıyabilmek demektir.\n\n<U_COLOR 1>Yeni unvanlar aldıkça kazandığın unvanlar arasında dilediğin gibi geçiş de yapabilirsin. Bir unvanı diğerine tercih etmenin pratik bir etkisi yoktur, bu yüzden en çok hoşuna gideni seçmekten çekinme. Unvanları değiştirmek için <BTN_X> ile ana menüyü aç, \"Yapılandırma\"ya git ve \"Raidou\"yu seç, durumunu görüntülemek için <BTN_Y> düğmesine bas ve ardından <BTN_X> düğmesine bas.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_KNOWLEDGE02_L0059",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:48:06"
+}

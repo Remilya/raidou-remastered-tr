@@ -1,0 +1,105 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "KNY_SYS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "KNY_SYS_L0000",
+        "msgStr": "Anlaştık."
+      },
+      {
+        "msgID": "KNY_SYS_L0001",
+        "msgStr": "Boş ver."
+      },
+      {
+        "msgID": "KNY_SYS_L0002",
+        "msgStr": "Burası seçkin bir antikacı olan Konnou-ya. Beğendiğin bir şey olursa satın al."
+      },
+      {
+        "msgID": "KNY_SYS_L0003",
+        "msgStr": "Vay, Konnou-ya'ya tekrar hoş geldin! Gözüne kestirdiğin bir şey varsa hemen kapmalısın!"
+      },
+      {
+        "msgID": "KNY_SYS_L0004",
+        "msgStr": "Ah, tekrar hoş geldin! Beğendiğin bir şey seçmeye ne dersin?"
+      },
+      {
+        "msgID": "KNY_SYS_L0005",
+        "msgStr": "Heh heh... Tam zamanında geldin evlat."
+      },
+      {
+        "msgID": "KNY_SYS_L0006",
+        "msgStr": "Elime yeni mallar geçti. Beğendiğin bir şey olursa satın al."
+      },
+      {
+        "msgID": "KNY_SYS_L0007",
+        "msgStr": "Şu mu? Evet, gerçekten kaliteli maldır. Tabii karşılığını eksiksiz ve peşin isterim."
+      },
+      {
+        "msgID": "KNY_SYS_L0008",
+        "msgStr": "Şu demek, ha? Mükemmel seçim. Fiyatı da gayet makuldür, söylemeden geçmeyeyim."
+      },
+      {
+        "msgID": "KNY_SYS_L0009",
+        "msgStr": "Heh heh... Sağ olasın evlat."
+      },
+      {
+        "msgID": "KNY_SYS_L0010",
+        "msgStr": "Bunu mu satıyorsun? Pek fazla para veremem doğrusu. Emin misin?"
+      },
+      {
+        "msgID": "KNY_SYS_L0011",
+        "msgStr": "Satıyorsun demek, ha? Tabii ki hakkı neyse veririm. Ne diyorsun?"
+      },
+      {
+        "msgID": "KNY_SYS_L0012",
+        "msgStr": "Heh heh... Sağ olasın evlat."
+      },
+      {
+        "msgID": "KNY_SYS_L0013",
+        "msgStr": "Hemen gidiyor musun? Yakında yine gel, gelirken de daha çok para getir."
+      },
+      {
+        "msgID": "KNY_SYS_L0014",
+        "msgStr": "Heh heh... Ne müşteri ama!"
+      },
+      {
+        "msgID": "KNY_SYS_L0015",
+        "msgStr": "Heh heh... Ne müşteri ama!"
+      },
+      {
+        "msgID": "KNY_SYS_L0016",
+        "msgStr": "Teşekkürümün bir göstergesi olarak özel malları çıkaracağım."
+      },
+      {
+        "msgID": "KNY_SYS_L0017",
+        "msgStr": "Canın ne isterse seç bakalım."
+      },
+      {
+        "msgID": "KNY_SYS_L0018",
+        "msgStr": "Victor'u görmeye mi geldin? Hm, bodrumumda ne işler çeviriyor acaba?"
+      },
+      {
+        "msgID": "KNY_SYS_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "KNY_SYS_L0020",
+        "msgStr": "> Gouma-Den'den geçip dışarı çıkılsın mı?"
+      },
+      {
+        "msgID": "KNY_SYS_L0021",
+        "msgStr": "Hemen gidiyor musun? Yakında yine gel, gelirken de daha çok para getir."
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:51:12"
+}

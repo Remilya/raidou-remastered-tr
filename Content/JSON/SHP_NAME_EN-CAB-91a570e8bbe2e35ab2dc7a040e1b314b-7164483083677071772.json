@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SHP_NAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SHP_NAME_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_NAME_L0001",
+        "msgStr": "Konnou-ya'nın Sahibi"
+      },
+      {
+        "msgID": "SHP_NAME_L0002",
+        "msgStr": "Shin-Sekai'ın Sahibi"
+      },
+      {
+        "msgID": "SHP_NAME_L0003",
+        "msgStr": "Kedi"
+      },
+      {
+        "msgID": "SHP_NAME_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_NAME_L0005",
+        "msgStr": "Takım Elbiseli Adam"
+      },
+      {
+        "msgID": "SHP_NAME_L0006",
+        "msgStr": "Güzel Kadın"
+      },
+      {
+        "msgID": "SHP_NAME_L0007",
+        "msgStr": "Sargılı Sarhoş"
+      },
+      {
+        "msgID": "SHP_NAME_L0008",
+        "msgStr": "Yabancı Kadın"
+      },
+      {
+        "msgID": "SHP_NAME_L0009",
+        "msgStr": "Yaşlı Adam"
+      },
+      {
+        "msgID": "SHP_NAME_L0010",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "SHP_NAME_L0011",
+        "msgStr": "Rasputin"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:58:40"
+}

@@ -1,0 +1,317 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_BIRTH_SWORD_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0000",
+        "msgStr": "İşte karşında! Kılıcın hazır! Hadi, al onu!"
+      },
+      {
+        "msgID": "goh_birth_sword_msg_equip_sword_000",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0001",
+        "msgStr": "<COLOR 4><V 0><COLOR 0> kılıcını şimdi kuşanmak ister misin?"
+      },
+      {
+        "msgID": "goh_birth_sword_msg_equip_sword_yes_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0002",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> kuşandı."
+      },
+      {
+        "msgID": "goh_birth_sword_msg_equip_sword_no_002",
+        "msgStr": "Victor"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0003",
+        "msgStr": "Anlıyorum... Pekâlâ."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_hello_tachi_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0004",
+        "msgStr": "> <COLOR 4><v 0>"
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_hello_yari_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0005",
+        "msgStr": "> <COLOR 4><v 0>"
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_hello_ono_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0006",
+        "msgStr": "> <COLOR 4><v 0>"
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi1_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0007",
+        "msgStr": "<COLOR 0>> Mistik gücü Raidou'nun neredeyse soğukkanlılığını kaybetmesine neden oluyordu..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi2_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0008",
+        "msgStr": "<COLOR 0>> İnce işlenmiş kılıç, Raidou'nun görüntüsünü bir ayna gibi yansıtıyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi3_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0009",
+        "msgStr": "<COLOR 0>> Bu uğursuz kılıcın sayısız kurban katlettiği ilk bakışta anlaşılıyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi4_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0010",
+        "msgStr": "<COLOR 0>> Kılıç, Raidou'nun MAG'ı ile rezonansa girerek hafifçe titriyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi5_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0011",
+        "msgStr": "<COLOR 0>> Bu kılıç, nesiller boyu İblis Çağırıcılarına talihsizlik getirdi..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi6_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0012",
+        "msgStr": "<COLOR 0>> Bu kılıcın hedefi olan hiç kimse canını kurtaramayacak..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi7_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0013",
+        "msgStr": "<COLOR 0>> Parıltısı Victor'u büyülüyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi8_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0014",
+        "msgStr": "<COLOR 0>> Tuhaf görünümü Raidou'nun iblislerini huzursuz ediyor gibi görünüyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_tachi9_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0015",
+        "msgStr": "<COLOR 0>> Raidou sanki biri onunla konuşuyormuş gibi hissetti..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari1_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0016",
+        "msgStr": "<COLOR 0>> Yalnızca olağanüstü yeteneğe sahip olanlar bu kılıcı kullanabilir..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari2_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0017",
+        "msgStr": "<COLOR 0>> Tuhaf görünümü Raidou'nun iblislerini huzursuz ediyor gibi görünüyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari3_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0018",
+        "msgStr": "<COLOR 0>> Kılıcın görüntüsü Raidou'nun tüylerini diken diken ediyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari4_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0019",
+        "msgStr": "<COLOR 0>> Bu kılıcın hedefi olan hiç kimse canını kurtaramayacak..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari5_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0020",
+        "msgStr": "<COLOR 0>> Bu kılıç, nesiller boyu İblis Çağırıcılarına talihsizlik getirdi..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari6_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0021",
+        "msgStr": "<COLOR 0>> Kılıç, Raidou'nun MAG'ı ile rezonansa girerek hafifçe titriyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari7_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0022",
+        "msgStr": "<COLOR 0>> Bu uğursuz kılıcın sayısız kurbanı doğradığı ilk bakışta anlaşılıyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari8_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0023",
+        "msgStr": "<COLOR 0>> İnce işlenmiş kılıç, Raidou'nun görüntüsünü bir ayna gibi yansıtıyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_yari9_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0024",
+        "msgStr": "<COLOR 0>> Mistik gücü Raidou'nun neredeyse soğukkanlılığını kaybetmesine neden oluyordu..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono1_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0025",
+        "msgStr": "<COLOR 0>> Kılıç, Raidou'nun MAG'ı ile rezonansa girerek hafifçe titriyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono2_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0026",
+        "msgStr": "<COLOR 0>> Parıltısı Victor'u büyülüyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono3_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0027",
+        "msgStr": "<COLOR 0>> Bu kılıç, nesiller boyu İblis Çağırıcılarına talihsizlik getirdi..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono4_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0028",
+        "msgStr": "<COLOR 0>> Bu kılıcın hedefi olan hiç kimse canını kurtaramayacak..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono5_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0029",
+        "msgStr": "<COLOR 0>> Bu uğursuz kılıcın sayısız kurban katlettiği ilk bakışta anlaşılıyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono6_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0030",
+        "msgStr": "<COLOR 0>> Tuhaf görünümü Raidou'nun iblislerini huzursuz ediyor gibi görünüyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono7_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0031",
+        "msgStr": "<COLOR 0>> Mistik gücü Raidou'nun neredeyse soğukkanlılığını kaybetmesine neden oluyordu..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono8_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0032",
+        "msgStr": "<COLOR 0>> Raidou sanki biri onunla konuşuyormuş gibi hissetti..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_ono9_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0033",
+        "msgStr": "<COLOR 0>> İnce işlenmiş kılıç, Raidou'nun görüntüsünü bir ayna gibi yansıtıyor..."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_skill",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0034",
+        "msgStr": "> <COLOR 4><v 0><COLOR 0>, Raidou'ya <COLOR 4><v 3><COLOR 0> Kılıç Yeteneğini kazandırdı."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_skill_h",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0035",
+        "msgStr": "> Ancak Raidou zaten <COLOR 4><v 3><COLOR 0> yeteneğine sahip."
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_skill_c",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0036",
+        "msgStr": "> Kılıç Yeteneklerini ayarlama işlemi tamamlansın mı?"
+      },
+      {
+        "msgID": "goh_birth_sword_birth_sword_skill2",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "GOH_BIRTH_SWORD_L0037",
+        "msgStr": "> <COLOR 4><v 0><COLOR 0>, Raidou'ya <COLOR 4><v 3><COLOR 0> Savaş Yeteneğini kazandırdı."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/26 18:50:31"
+}

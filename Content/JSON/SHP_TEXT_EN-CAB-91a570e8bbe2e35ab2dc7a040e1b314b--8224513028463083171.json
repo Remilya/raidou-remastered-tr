@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SHP_TEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SHP_TEXT_L0000",
+        "msgStr": "Eşya"
+      },
+      {
+        "msgID": "SHP_TEXT_L0001",
+        "msgStr": "Satın al"
+      },
+      {
+        "msgID": "SHP_TEXT_L0002",
+        "msgStr": "Eşya"
+      },
+      {
+        "msgID": "SHP_TEXT_L0003",
+        "msgStr": "Sat"
+      },
+      {
+        "msgID": "SHP_TEXT_L0004",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "SHP_TEXT_L0005",
+        "msgStr": "Geri dön"
+      },
+      {
+        "msgID": "SHP_TEXT_L0006",
+        "msgStr": "Fiyat"
+      },
+      {
+        "msgID": "SHP_TEXT_L0007",
+        "msgStr": "Sahip Olunan"
+      },
+      {
+        "msgID": "SHP_TEXT_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_TEXT_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SHP_TEXT_L0010",
+        "msgStr": "Gazoz"
+      },
+      {
+        "msgID": "SHP_TEXT_L0011",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:05:21"
+}

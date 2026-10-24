@@ -1,0 +1,29 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SBTL_PLAYER_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SBTL_PLAYER_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_PLAYER_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SBTL_PLAYER_L0002",
+        "msgStr": "Aday"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:04:57"
+}

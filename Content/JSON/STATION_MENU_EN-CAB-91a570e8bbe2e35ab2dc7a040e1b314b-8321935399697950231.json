@@ -1,0 +1,69 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "STATION_MENU_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "STATION_MENU_L0000",
+        "msgStr": "Tsukudo-cho"
+      },
+      {
+        "msgID": "STATION_MENU_L0001",
+        "msgStr": "Hongo"
+      },
+      {
+        "msgID": "STATION_MENU_L0002",
+        "msgStr": "Fukagawa-cho"
+      },
+      {
+        "msgID": "STATION_MENU_L0003",
+        "msgStr": "Ginza-cho"
+      },
+      {
+        "msgID": "STATION_MENU_L0004",
+        "msgStr": "Harumi-cho"
+      },
+      {
+        "msgID": "STATION_MENU_L0005",
+        "msgStr": "Kasumidai"
+      },
+      {
+        "msgID": "STATION_MENU_L0006",
+        "msgStr": "Shinoda"
+      },
+      {
+        "msgID": "STATION_MENU_L0007",
+        "msgStr": "Nereye?"
+      },
+      {
+        "msgID": "STATION_MENU_L0008",
+        "msgStr": "Varış Noktası"
+      },
+      {
+        "msgID": "STATION_MENU_L0009",
+        "msgStr": "Ücret"
+      },
+      {
+        "msgID": "STATION_MENU_L0010",
+        "msgStr": "yen"
+      },
+      {
+        "msgID": "STATION_MENU_L0011",
+        "msgStr": "Para"
+      },
+      {
+        "msgID": "STATION_MENU_L0012",
+        "msgStr": "İstasyon"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:46"
+}

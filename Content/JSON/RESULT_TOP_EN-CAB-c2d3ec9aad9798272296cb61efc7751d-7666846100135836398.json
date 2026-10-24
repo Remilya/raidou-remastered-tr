@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "RESULT_TOP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "RESULT_TOP_L0000",
+        "msgStr": "Kazanılan EXP"
+      },
+      {
+        "msgID": "RESULT_TOP_L0001",
+        "msgStr": "Kazanılan Sadakat"
+      },
+      {
+        "msgID": "RESULT_TOP_L0002",
+        "msgStr": "TP"
+      },
+      {
+        "msgID": "RESULT_TOP_L0003",
+        "msgStr": "Sadakat"
+      },
+      {
+        "msgID": "RESULT_TOP_L0004",
+        "msgStr": "Para"
+      },
+      {
+        "msgID": "RESULT_TOP_L0005",
+        "msgStr": "Eşyalar"
+      },
+      {
+        "msgID": "RESULT_TOP_L0006",
+        "msgStr": "yen"
+      },
+      {
+        "msgID": "RESULT_TOP_L0007",
+        "msgStr": "SONRAKİ"
+      },
+      {
+        "msgID": "RESULT_TOP_L0008",
+        "msgStr": "SV"
+      },
+      {
+        "msgID": "RESULT_TOP_L0009",
+        "msgStr": "EXP (Bonus)"
+      },
+      {
+        "msgID": "RESULT_TOP_L0010",
+        "msgStr": "Yok"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:44"
+}

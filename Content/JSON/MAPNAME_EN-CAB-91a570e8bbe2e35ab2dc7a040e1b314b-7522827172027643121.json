@@ -1,0 +1,221 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAPNAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MAPNAME_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0001",
+        "msgStr": "Gerçek: Yarai-ku, Tsukudo-cho"
+      },
+      {
+        "msgID": "MAPNAME_L0002",
+        "msgStr": "Gerçek: Chujou-ku, Ginza-cho"
+      },
+      {
+        "msgID": "MAPNAME_L0003",
+        "msgStr": "Gerçek: Senju-ku, Fukagawa-cho"
+      },
+      {
+        "msgID": "MAPNAME_L0004",
+        "msgStr": "Gerçek: Koutou-ku, Harumi-cho"
+      },
+      {
+        "msgID": "MAPNAME_L0005",
+        "msgStr": "Gerçek: Koutou-ku, Sakuradayama"
+      },
+      {
+        "msgID": "MAPNAME_L0006",
+        "msgStr": "Gerçek: Shinoda, İsimsiz Tapınak"
+      },
+      {
+        "msgID": "MAPNAME_L0007",
+        "msgStr": "Gerçek: Akasaka-ku, Kasumidai"
+      },
+      {
+        "msgID": "MAPNAME_L0008",
+        "msgStr": "Gerçek: Yarai-ku, Daidouji Konağı"
+      },
+      {
+        "msgID": "MAPNAME_L0009",
+        "msgStr": "Gerçek: Senju-ku, Daidouji Tekstil"
+      },
+      {
+        "msgID": "MAPNAME_L0010",
+        "msgStr": "Gerçek: Yeraltı Tersanesi"
+      },
+      {
+        "msgID": "MAPNAME_L0011",
+        "msgStr": "Gerçek: Koutou-ku, Waden One"
+      },
+      {
+        "msgID": "MAPNAME_L0012",
+        "msgStr": "Gerçek: Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "MAPNAME_L0013",
+        "msgStr": "Gerçek: Süper Alan"
+      },
+      {
+        "msgID": "MAPNAME_L0014",
+        "msgStr": "Gerçek: Seviye Atlama Zindanı"
+      },
+      {
+        "msgID": "MAPNAME_L0015",
+        "msgStr": "Gerçek: Senju-ku, İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "MAPNAME_L0016",
+        "msgStr": "Gerçek: Eğitim"
+      },
+      {
+        "msgID": "MAPNAME_L0017",
+        "msgStr": "Gerçek: 2. Seviye Atlama"
+      },
+      {
+        "msgID": "MAPNAME_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0021",
+        "msgStr": "Karanlık: Yarai-ku, Tsukudo-cho"
+      },
+      {
+        "msgID": "MAPNAME_L0022",
+        "msgStr": "Karanlık: Chujou-ku, Ginza-cho"
+      },
+      {
+        "msgID": "MAPNAME_L0023",
+        "msgStr": "Karanlık: Senju-ku, Fukagawa-cho"
+      },
+      {
+        "msgID": "MAPNAME_L0024",
+        "msgStr": "Karanlık: Koutou-ku, Harumi-cho"
+      },
+      {
+        "msgID": "MAPNAME_L0025",
+        "msgStr": "Karanlık: Koutou-ku, Sakuradayama"
+      },
+      {
+        "msgID": "MAPNAME_L0026",
+        "msgStr": "Karanlık: Shinoda, İsimsiz Tapınak"
+      },
+      {
+        "msgID": "MAPNAME_L0027",
+        "msgStr": "Karanlık: Akasaka-ku, Kasumidai"
+      },
+      {
+        "msgID": "MAPNAME_L0028",
+        "msgStr": "Karanlık: Yarai-ku, Daidouji Konağı"
+      },
+      {
+        "msgID": "MAPNAME_L0029",
+        "msgStr": "Karanlık: Senju-ku, Daidouji Tekstil"
+      },
+      {
+        "msgID": "MAPNAME_L0030",
+        "msgStr": "Karanlık: Yeraltı Tersanesi"
+      },
+      {
+        "msgID": "MAPNAME_L0031",
+        "msgStr": "Karanlık: Koutou-ku, Waden One"
+      },
+      {
+        "msgID": "MAPNAME_L0032",
+        "msgStr": "Karanlık: Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "MAPNAME_L0033",
+        "msgStr": "Karanlık: Süper Alan"
+      },
+      {
+        "msgID": "MAPNAME_L0034",
+        "msgStr": "Karanlık: Seviye Atlama Zindanı"
+      },
+      {
+        "msgID": "MAPNAME_L0035",
+        "msgStr": "Karanlık: Senju-ku, İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "MAPNAME_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0037",
+        "msgStr": "Savaş: Büyük"
+      },
+      {
+        "msgID": "MAPNAME_L0038",
+        "msgStr": "Savaş: Test"
+      },
+      {
+        "msgID": "MAPNAME_L0039",
+        "msgStr": "Savaş: Küçük"
+      },
+      {
+        "msgID": "MAPNAME_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0041",
+        "msgStr": "Test: Savaş"
+      },
+      {
+        "msgID": "MAPNAME_L0042",
+        "msgStr": "Test: Harita"
+      },
+      {
+        "msgID": "MAPNAME_L0043",
+        "msgStr": "Test: OP"
+      },
+      {
+        "msgID": "MAPNAME_L0044",
+        "msgStr": "Test: Gerçek Dünya Bölgesi"
+      },
+      {
+        "msgID": "MAPNAME_L0045",
+        "msgStr": "Test: Karanlık Diyar Bölgesi"
+      },
+      {
+        "msgID": "MAPNAME_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0047",
+        "msgStr": "Test: Harita"
+      },
+      {
+        "msgID": "MAPNAME_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPNAME_L0050",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:08"
+}

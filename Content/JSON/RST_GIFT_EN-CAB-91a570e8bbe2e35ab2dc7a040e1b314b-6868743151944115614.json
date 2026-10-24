@@ -1,0 +1,329 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "RST_GIFT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "RST_GIFT_L0000",
+        "msgStr": "Bu benim için fazla çocukça. Al Raidou, senin olsun!"
+      },
+      {
+        "msgID": "RST_GIFT_L0001",
+        "msgStr": "Al bakalım!"
+      },
+      {
+        "msgID": "RST_GIFT_L0002",
+        "msgStr": "Babam sadakatimin bir göstergesi olarak bunu sana vermemi söyledi..."
+      },
+      {
+        "msgID": "RST_GIFT_L0003",
+        "msgStr": "Seninle takılmak çooook eğlenceli Raidou! Hizmetkârlarımızdan biri olmalısın!"
+      },
+      {
+        "msgID": "RST_GIFT_L0004",
+        "msgStr": "Heheh, kendimi tamamen büyümüş hissediyorum!"
+      },
+      {
+        "msgID": "RST_GIFT_L0005",
+        "msgStr": "Al bakalım!"
+      },
+      {
+        "msgID": "RST_GIFT_L0006",
+        "msgStr": "Bu benim en ama en sevdiğim şey!"
+      },
+      {
+        "msgID": "RST_GIFT_L0007",
+        "msgStr": "İnsanların bu tür şeyleri sevdiğini duydum."
+      },
+      {
+        "msgID": "RST_GIFT_L0008",
+        "msgStr": "Doğru mu?"
+      },
+      {
+        "msgID": "RST_GIFT_L0009",
+        "msgStr": "Şey... Yani, ııı..."
+      },
+      {
+        "msgID": "RST_GIFT_L0010",
+        "msgStr": "Daha çok takılalım, tamam mı!?"
+      },
+      {
+        "msgID": "RST_GIFT_L0011",
+        "msgStr": "Hey, bu keyfini yerine getirecek!"
+      },
+      {
+        "msgID": "RST_GIFT_L0012",
+        "msgStr": "Bunu sırf senin için öğrendim!"
+      },
+      {
+        "msgID": "RST_GIFT_L0013",
+        "msgStr": "Minnettarlık ölürse bu dünya doğruca cehennemin dibini boylar... O yüzden al şunu artık."
+      },
+      {
+        "msgID": "RST_GIFT_L0014",
+        "msgStr": "Al, bu senin! Kısa süre önce buldum."
+      },
+      {
+        "msgID": "RST_GIFT_L0015",
+        "msgStr": "Kendi türüm dışında biriyle arkadaş olmanın bu kadar harika olacağını hiç düşünmemiştim!"
+      },
+      {
+        "msgID": "RST_GIFT_L0016",
+        "msgStr": "Bu ne kadar işine yarar bilmiyorum ama kim bilir?"
+      },
+      {
+        "msgID": "RST_GIFT_L0017",
+        "msgStr": "Bunu senin için yapmak adına bütün gece uyumadım."
+      },
+      {
+        "msgID": "RST_GIFT_L0018",
+        "msgStr": "Onu kullanırken beni düşün... *kıkırdar*"
+      },
+      {
+        "msgID": "RST_GIFT_L0019",
+        "msgStr": "Sana Karanlık Diyar'dan bir hediye aldım!"
+      },
+      {
+        "msgID": "RST_GIFT_L0020",
+        "msgStr": "Raidou, cazibeme karşı koymayı başaran tek kişi sensin..."
+      },
+      {
+        "msgID": "RST_GIFT_L0021",
+        "msgStr": "Keşke sonsuza dek sana hizmet edebilsem... *kıkırdar*"
+      },
+      {
+        "msgID": "RST_GIFT_L0022",
+        "msgStr": "Umarım beni iyi bir şekilde değerlendirebilirsin."
+      },
+      {
+        "msgID": "RST_GIFT_L0023",
+        "msgStr": "Belki bir gün bunun sana faydası dokunur."
+      },
+      {
+        "msgID": "RST_GIFT_L0024",
+        "msgStr": "Bunu hizmetkârım seçti."
+      },
+      {
+        "msgID": "RST_GIFT_L0025",
+        "msgStr": "Raidou, bir insana göre muazzam bir güce sahipsin! İblis olmaman ne büyük kayıp."
+      },
+      {
+        "msgID": "RST_GIFT_L0026",
+        "msgStr": "Gerçek gücümün henüz milyonda birini bile göstermedim..."
+      },
+      {
+        "msgID": "RST_GIFT_L0027",
+        "msgStr": "Bunları sevdiğini hatırlıyorum sanki, değil mi Raidou?"
+      },
+      {
+        "msgID": "RST_GIFT_L0028",
+        "msgStr": "Al şunu. Bunu bir uğur tılsımı olarak düşün."
+      },
+      {
+        "msgID": "RST_GIFT_L0029",
+        "msgStr": "Senin gibi biriyle tanıştığım için kendimi çok şanslı hissediyorum, Raidou."
+      },
+      {
+        "msgID": "RST_GIFT_L0030",
+        "msgStr": "Hâlâ savaşacak kadar gencim!"
+      },
+      {
+        "msgID": "RST_GIFT_L0031",
+        "msgStr": "Al bakalım evlat! Bütün o sıkı çalışmanın karşılığında ufak bir şey."
+      },
+      {
+        "msgID": "RST_GIFT_L0032",
+        "msgStr": "İşte moralini yerine getirecek ufak bir doping."
+      },
+      {
+        "msgID": "RST_GIFT_L0033",
+        "msgStr": "Epey çetin cevizmişsin, değil mi ufaklık?"
+      },
+      {
+        "msgID": "RST_GIFT_L0034",
+        "msgStr": "Seni izlemek şu yorgun, yaşlı kalbimde küçük bir ateş yakıyor!"
+      },
+      {
+        "msgID": "RST_GIFT_L0035",
+        "msgStr": "Eh... Sanırım bunun sana biraz yardımı dokunur."
+      },
+      {
+        "msgID": "RST_GIFT_L0036",
+        "msgStr": "AL ŞUNU! VE BANA TEŞEKKÜR ET!"
+      },
+      {
+        "msgID": "RST_GIFT_L0037",
+        "msgStr": "BU SENİN İÇİN! İSTEDİĞİM KADAR BULABİLİRİM."
+      },
+      {
+        "msgID": "RST_GIFT_L0038",
+        "msgStr": "SEN GÜÇLÜSÜN! SENİ SEVDİM!"
+      },
+      {
+        "msgID": "RST_GIFT_L0039",
+        "msgStr": "BU YETENEK İYİ! HİSSEDEBİLİYORUM!"
+      },
+      {
+        "msgID": "RST_GIFT_L0040",
+        "msgStr": "evEEeeEeEt! İŞte bU!"
+      },
+      {
+        "msgID": "RST_GIFT_L0041",
+        "msgStr": "oOOohHhhHH, çOK iYİiİii hİsSEttİrİyOR! bUnU İyİ kULlaNsAn iYİ oLUr!"
+      },
+      {
+        "msgID": "RST_GIFT_L0042",
+        "msgStr": "rAidoUUuuUuUuuU! bEnİ kULlaNıNcA kEnDiNİ bÜyÜK aDaM mI sAnIyOrSuUuUuUn!?"
+      },
+      {
+        "msgID": "RST_GIFT_L0043",
+        "msgStr": "vAYy, aZ öNcE bİr şEy mİ pArLaDI!?"
+      },
+      {
+        "msgID": "RST_GIFT_L0044",
+        "msgStr": "Al bakalım. İstanbul'daki bir hediyelik eşya dükkânından."
+      },
+      {
+        "msgID": "RST_GIFT_L0045",
+        "msgStr": "Bahamalar'dan gelme birinci sınıf bir bibloya ne dersin?"
+      },
+      {
+        "msgID": "RST_GIFT_L0046",
+        "msgStr": "Kalbimi kazandın. Yıllık yüzde yüz. Yani yüzde yüz demek istedim."
+      },
+      {
+        "msgID": "RST_GIFT_L0047",
+        "msgStr": "Bu bir soygundur. Bana daha fazla MAG ver, ben de sana daha iyi davranayım."
+      },
+      {
+        "msgID": "RST_GIFT_L0048",
+        "msgStr": "Sana gi-hee-zli hazinemi vereceğim, ho!"
+      },
+      {
+        "msgID": "RST_GIFT_L0049",
+        "msgStr": "Bunu sana hee-diye edeceğim, ho!"
+      },
+      {
+        "msgID": "RST_GIFT_L0050",
+        "msgStr": "Hee ho!"
+      },
+      {
+        "msgID": "RST_GIFT_L0051",
+        "msgStr": "Bir gün ben de İblis Çağı-hee-rıcısı olacağım, ho!"
+      },
+      {
+        "msgID": "RST_GIFT_L0052",
+        "msgStr": "Sı-hee-caktan eriyene dek elimden geleni yapacağım, ho!"
+      },
+      {
+        "msgID": "RST_GIFT_L0053",
+        "msgStr": "Üzerinde hafif bir koku var, delikanlı."
+      },
+      {
+        "msgID": "RST_GIFT_L0054",
+        "msgStr": "Sorun değil. Bu daha iyi gelmesini sağlar."
+      },
+      {
+        "msgID": "RST_GIFT_L0055",
+        "msgStr": "Daha da güçlenmene yardımcı olacak tam ihtiyacın olan şeye sahibim."
+      },
+      {
+        "msgID": "RST_GIFT_L0056",
+        "msgStr": "Sanki kaderimde sana sadık olmak varmış gibi..."
+      },
+      {
+        "msgID": "RST_GIFT_L0057",
+        "msgStr": "Cazibeme karşı koyamıyor musun, Raidou? Yoksa korkudan taş mı kesildin...?"
+      },
+      {
+        "msgID": "RST_GIFT_L0058",
+        "msgStr": "Kelepir fiyata almış olabilirim ama yine de çok değerlidir!"
+      },
+      {
+        "msgID": "RST_GIFT_L0059",
+        "msgStr": "Zappo!"
+      },
+      {
+        "msgID": "RST_GIFT_L0060",
+        "msgStr": "Böyle zamanlarda Ruh Gücünü yüksek tutmak önemlidir! Hiç şüphesiz sıkı çalışmanın karşılığını alacaksın!"
+      },
+      {
+        "msgID": "RST_GIFT_L0061",
+        "msgStr": "Hatta işte bunun küçük bir ön gösterimi! Zappo!"
+      },
+      {
+        "msgID": "RST_GIFT_L0062",
+        "msgStr": "Sana olan minnettarlığım kelimelerle ifade edilemez!"
+      },
+      {
+        "msgID": "RST_GIFT_L0063",
+        "msgStr": "Ama edilebilseydi, Japoncada \"arigato\", Malaycada ise \"terima kasih\" olurdu."
+      },
+      {
+        "msgID": "RST_GIFT_L0064",
+        "msgStr": "Fakat belki de bu duygunun en gerçek ifadesi süregelen sadakatim olacaktır!"
+      },
+      {
+        "msgID": "RST_GIFT_L0065",
+        "msgStr": "Zappo!"
+      },
+      {
+        "msgID": "RST_GIFT_L0066",
+        "msgStr": "Sen tamamen tatmin olana dek bu yeteneği durmaksızın kullanacağım!"
+      },
+      {
+        "msgID": "RST_GIFT_L0067",
+        "msgStr": "Zzzzzzappo!"
+      },
+      {
+        "msgID": "RST_GIFT_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_GIFT_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_GIFT_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_GIFT_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_GIFT_L0072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "RST_GIFT_L0073",
+        "msgStr": "*iç çeker* Bu nefes kesici ihtişam..."
+      },
+      {
+        "msgID": "RST_GIFT_L0074",
+        "msgStr": "Bence en çok sana yakışıyor!"
+      },
+      {
+        "msgID": "RST_GIFT_L0075",
+        "msgStr": "Sen benim efendimsin, bu da kanıtı..."
+      },
+      {
+        "msgID": "RST_GIFT_L0076",
+        "msgStr": "Sana sarsılmaz bir bağlılık yemini ederim!"
+      },
+      {
+        "msgID": "RST_GIFT_L0077",
+        "msgStr": "Savaş alanı bir kez daha kanlı gül yapraklarıyla dans edecek..."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:26:54"
+}

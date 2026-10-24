@@ -1,0 +1,81 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_HELPTEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_HELPTEXT_L0000",
+        "msgStr": "Sonraki hedefi kontrol et ve Gouto'nun ne söyleyeceğine bak."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0001",
+        "msgStr": "Kontrolleri ve arayüz bilgilerini gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0002",
+        "msgStr": "Savaş ve soruşturma çalışmaları hakkındaki faydalı bilgileri gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0003",
+        "msgStr": "Narumi tarafından yazılan soruşturma ilerleme raporlarını kontrol et."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0004",
+        "msgStr": "Önemli terimleri veya soruşturmadaki son gelişmeleri gözden geçir. Gerektikçe güncellenir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0005",
+        "msgStr": "Bir dedektif—ya da daha doğrusu bir İblis Çağırıcısı—olarak çalışmakla ilgili bilgileri gözden geçir. Gerektikçe güncellenir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0006",
+        "msgStr": "Soruşturma çalışmaları hakkındaki faydalı bilgileri gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0007",
+        "msgStr": "Sahada gerçekleştirebileceğin eylemlerle ilgili faydalı bilgileri gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0008",
+        "msgStr": "Savaş hakkındaki faydalı bilgileri gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0009",
+        "msgStr": "İblis elde etmeyle ilgili faydalı bilgileri gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0010",
+        "msgStr": "İblis özelliklerini gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0011",
+        "msgStr": "İblislere verebileceğin komutlarla ilgili faydalı bilgileri gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0012",
+        "msgStr": "Raidou'nun ve iblislerinin gelişimiyle ilgili faydalı bilgileri gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0013",
+        "msgStr": "Goumaden ile ilgili faydalı bilgileri gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0014",
+        "msgStr": "Elde ettiğin indirilebilir içerikleri nasıl kullanacağını gözden geçir."
+      },
+      {
+        "msgID": "DBOOK_HELPTEXT_L0015",
+        "msgStr": "Eğitim metinlerini gözden geçir."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:58:16"
+}

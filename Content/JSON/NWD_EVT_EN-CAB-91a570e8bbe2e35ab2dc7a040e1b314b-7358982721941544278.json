@@ -1,0 +1,797 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "NWD_EVT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "nwd_evt_NWD_MASTER_01_000",
+        "msgStr": "Shin-Sekai Sahibi"
+      },
+      {
+        "msgID": "NWD_EVT_L0000",
+        "msgStr": "<lips 14 5>\nHoş geldiniz. Siz Narumi Dedektiflik Bürosu'ndan Raidou Kuzunoha olmalısınız, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0001",
+        "msgStr": "<lips 14 5>\nBurası dünyanın iç yüzünü bilen insanların toplandığı bir yerdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0002",
+        "msgStr": "<lips 14 5>\nBurada herkes iblislerle ilgili gerçeği bilir. Konuklarımızla sohbet etmekten ve sır alışverişinde bulunmaktan çekinmeyin.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI02_SCENE19_01_001",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0003",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0004",
+        "msgStr": "İşte buradasın, Raidou.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0005",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0006",
+        "msgStr": "Benim için Kırmızı Pelerin'i araştırıyordun, değil mi? Harika!\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0007",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0008",
+        "msgStr": "Şu tembel ve işe yaramaz Narumi'den çok daha güvenilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0009",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0010",
+        "msgStr": "Elbette ben de kendi ipuçlarımın peşindeydim.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0011",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0012",
+        "msgStr": "Kırmızı Pelerin'i gören tanıklarla görüştüm ve oldukça ilginç şeyler öğrendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0015",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0016",
+        "msgStr": "<COLOR 1>Mesela Kırmızı Pelerin'in sadece dolunay varken ortaya çıktığı gibi.<COLOR 0>\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0017",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0018",
+        "msgStr": "Ryugu'da röportaj yaptığımda da dolunay vardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0019",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0020",
+        "msgStr": "Hatta en çok Ryugu'yu Ginza-cho'nun merkezine bağlayan yolda görülmüş.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0021",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0022",
+        "msgStr": "Orası da <COLOR 3>Kurisu-zaka civarı, üst geçidin altı<COLOR 0> oluyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0023",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0024",
+        "msgStr": "Bu da demek oluyor ki Raidou...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0025",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0026",
+        "msgStr": "Kırmızı Pelerin'i ensesinden yakalamak istiyorsak dolunayda o üst geçidin altında avlanmaya çıkmamız en iyisi olur.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0031",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0032",
+        "msgStr": "Ha, bu da senin için küçük bir şey. Narumi'ye söyleme, aramızda küçük bir sır olsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI02_SCENE19_15_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_EVT_L0033",
+        "msgStr": "> Raidou <COLOR 4>3.000 yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "nwd_evt_EPI02_SCENE19_16_003",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0034",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0035",
+        "msgStr": "Böyle şahane bir iş çıkardığın için teşekkür etme yöntemim diyelim. Kendine güzel bir şey al.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0036",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0037",
+        "msgStr": "...Şimdi, yazıma geri dönelim!\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI06_SCENE11_01_004",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0040",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0041",
+        "msgStr": "Aa, Raidou. Sen de hakkında çok şey duyduğum şu yeni çalışan olmalısın.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI06_SCENE11_03_005",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "NWD_EVT_L0042",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0043",
+        "msgStr": "Şey, merhaba... Ben Kaya Daidouji. Narumi Dedektiflik Bürosu'nda çalışıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI06_SCENE11_04_006",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0044",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0045",
+        "msgStr": "Biliyorum tatlım. Bay Narumi bana her şeyi anlattı bile.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0046",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0047",
+        "msgStr": "Kaya'ydı, değil mi? Adım Kichou Asakura, usta muhabir. <IT_S>Kichou<IT_E> diyeceksin, anlaşıldı mı?<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0048",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0049",
+        "msgStr": "Ee, ne peşindesiniz bakalım çocuklar? Yeni bir dava için mi dışarıdasınız?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI06_SCENE11_06_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_EVT_L0050",
+        "msgStr": "> Raidou, Körfez Muhafızı ile ilgili durumu açıkladı."
+      },
+      {
+        "msgID": "nwd_evt_EPI06_SCENE11_07_008",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0051",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0052",
+        "msgStr": "Körfez Muhafızı ha...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0053",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0054",
+        "msgStr": "Raidou, bu bölgenin eskiden sular altında olduğunu biliyor muydun?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0055",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0056",
+        "msgStr": "Edo döneminde bölgeyi imara açana kadar Hibiya Körfezi'nin bir parçasıydı.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0057",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0058",
+        "msgStr": "Ama ondan önce burada bir heykel olduğu söylenir. Nereden geldiğini kimse bilmiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0059",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0060",
+        "msgStr": "Görünüşe göre yerel halk ona tapınmaya başlamış ve ona Körfez Muhafızı adını vermiş.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0061",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0062",
+        "msgStr": "Aradığınız şeyin o olduğuna bahse girerim.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI06_SCENE11_13_009",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "NWD_EVT_L0063",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0064",
+        "msgStr": "O zaman... o heykel hâlâ bir yerlerde duruyor mu?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI06_SCENE11_14_010",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0065",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0066",
+        "msgStr": "Oooh, siz çılgın çocuklar çok şanslısınız.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0067",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0068",
+        "msgStr": "Kırmızı Pelerin davası için Ginza-cho'yu araştırırken geçen gün bu habere denk geldim.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0069",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0070",
+        "msgStr": "Bizzat birinci ağızdan duyduğuma göre...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0071",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0072",
+        "msgStr": "Ginza-cho'nun merkezinde tuhaf bir taş heykel bulunmuş ve nereden geldiğini kimse bilmiyormuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0073",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0074",
+        "msgStr": "Biliyorsun, şu sıralar Ginza-cho'da her türlü imar projesi yürütülüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0075",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0076",
+        "msgStr": "İnşaat ekiplerinden biri tam şantiyelerinin ortasında bir heykel bulmuş.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0077",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0078",
+        "msgStr": "İşçiler o şeyle ne yapacaklarını şaşırmış durumdaymış.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0081",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0082",
+        "msgStr": "Aradığınız heykelin o olduğundan emin olamam...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "NWD_EVT_L0085",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0086",
+        "msgStr": "Ama en azından gidip bir bakmaya değer gibi duruyor. Neden hemen gidip bakmıyorsun, Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_01_011",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "NWD_EVT_L0087",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0088",
+        "msgStr": "Vay, vay, vay, kimleri görüyorum, dedektif Raidou Kuzunoha. O yeraltı tersanesinden döndün mü?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0089",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0090",
+        "msgStr": "Demek Munakata'yı yenmeyi başardın.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0091",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0092",
+        "msgStr": "Gerçi bu artık beni ilgilendirmiyor. Çünkü şu anda...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0093",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0094",
+        "msgStr": "Daha önemli olan şey, sizinle birlikte geleceğimizi konuşmamız, Bayan Kichou.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_05_012",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0095",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0096",
+        "msgStr": "H-Hey, düş yakamdan artık. Tüylerimi ürpertiyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0097",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0098",
+        "msgStr": "Aa! Raidou, tam zamanında geldin.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0099",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0100",
+        "msgStr": "Bu ayyaş başımdan gitmek bilmiyor. En azından bana nasıl hitap edeceğini biliyor ama yine de...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0101",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0102",
+        "msgStr": "Şunun icabına bakabilir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_08_013",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "NWD_EVT_L0103",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0104",
+        "msgStr": "Biliyorum, benim gibi birinin huzurunda kalbiniz küt küt atıyor olmalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0105",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0106",
+        "msgStr": "Ama bunu saklamanıza gerek yok. Birlikte geçireceğimiz zamanı unutulmaz kılalım, da?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_10_014",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "NWD_EVT_L0107",
+        "msgStr": "...Tatilinin tadını çıkarıyor gibi görünüyor."
+      },
+      {
+        "msgID": "NWD_EVT_L0108",
+        "msgStr": "Hadi şu işi halledelim, Raidou."
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_12_015",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "NWD_EVT_L0109",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0110",
+        "msgStr": "Toz ol, tamam mı? Burada meşgul olduğumu görmüyor musun!?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_13_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_EVT_L0111",
+        "msgStr": "> Raidou, Rasputin'e SS Projesi Raporu'ndaki denklemi gösterdi."
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_14_017",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "NWD_EVT_L0112",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0113",
+        "msgStr": "Bu... madde itişi için temel bir denklem. Ülkemin bilim insanlarından biri bunu uzun zaman önce türetmişti...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0114",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0115",
+        "msgStr": "Bunu bana neden gösteriyorsun? ...Roket fırlatmanıza yardım etmemi mi istiyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0116",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0117",
+        "msgStr": "Kaybol! Hanımefendiyle burada özel bir an yaşıyoruz. Aksine <IT_S>sen<IT_E> <IT_S>bana<IT_E> yardım etmelisin!\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_17_018",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "NWD_EVT_L0118",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "NWD_EVT_L0119",
+        "msgStr": "Onu yanımızda götürelim, Raidou. Ellerimizi kirletmemiz gerekse bile."
+      },
+      {
+        "msgID": "NWD_EVT_L0120",
+        "msgStr": "Onu Victor'un yerine götürebilirsek gerisi kendiliğinden hallolacaktır."
+      },
+      {
+        "msgID": "NWD_EVT_L0121",
+        "msgStr": "Tekrar sor"
+      },
+      {
+        "msgID": "NWD_EVT_L0122",
+        "msgStr": "Tokat at"
+      },
+      {
+        "msgID": "nwd_evt_EPI11_SCENE06_20_019",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "NWD_EVT_L0123",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0124",
+        "msgStr": "Sinirlerime dokunmaya başlıyorsun, evlat!\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0125",
+        "msgStr": "<lips 6 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0126",
+        "msgStr": "İnatçı dedektifler genç ölür, biliyorsun. Şimdi lütfen başımın etini yemeyi bırak.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_01_020",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0127",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0128",
+        "msgStr": "Raidou...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0129",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0130",
+        "msgStr": "Ah, güvende olduğuna çok sevindim. Narumi de iyi mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0131",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0132",
+        "msgStr": "Burada durum o kadar kötü değildi ama güney tarafı tam bir ana baba günü.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0133",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0134",
+        "msgStr": "Şey...\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0135",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0136",
+        "msgStr": "O canavarı durduran sendin, değil mi Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0137",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0138",
+        "msgStr": "Sorun değil. Sırrın benimle güvende. Söz veriyorum, yazılarımda bundan bahsetmeyeceğim.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0139",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0140",
+        "msgStr": "...Dur, ne? \"Saf duygu\" gücüne mi ihtiyacın var?\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_01_020_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "NWD_EVT_L0140_01",
+        "msgStr": "En iyisi en baştan anlat Raidou, yoksa anlamayacak."
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_01_020_02",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0141",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0142",
+        "msgStr": "Heh... Her zaman çok dürüst ve açık sözlüsün, Raidou. Neredeyse fazla dürüst.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0143",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0144",
+        "msgStr": "Pekâlâ o zaman, nedenini sormayacağım. Saf duyguma ihtiyacın varsa, istediğini alacaksın.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0145",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0146",
+        "msgStr": "Şey, Raidou ne yapması gerekiyorsa onu destekliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0147",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0148",
+        "msgStr": "Daidouji ailesi gibi geleneklere sıkı sıkıya tutunan ve genç nesilleri baskılayan o kadar çok eski kafalı insan var ki.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0149",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0150",
+        "msgStr": "Geçmişe öyle saplanıp kalmış insanlara tahammül edemiyorum. Onlar gibi olmaktansa ölmeyi tercih ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "NWD_EVT_L0151",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0152",
+        "msgStr": "Yani doğru şeyi yaptığına inanıyorsan, desteğim seninle. İradeni kırmama izin verme!\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_14_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "NWD_EVT_L0153",
+        "msgStr": "> Amatsu Kanagi, Tae'nin sözlerine karşılık olarak parlamaya başladı."
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_15_022",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "NWD_EVT_L0154",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "NWD_EVT_L0155",
+        "msgStr": "Unutma, tamam mı? Burada senin için elini taşın altına koyan tek kişi Narumi değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_16_023",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "NWD_EVT_L0156",
+        "msgStr": "Görünüşe göre Amatsu Kanagi güç kazanıyor."
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_16_023_01",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "NWD_EVT_L0157",
+        "msgStr": "Ama bu yeterli değil. Devam etmeliyiz."
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_16_023_02",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "NWD_EVT_L0157_01",
+        "msgStr": "Neredeyse tamamladık. Hadi şimdi başka birini bulmaya gidelim."
+      },
+      {
+        "msgID": "NWD_EVT_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_16_023_03",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "NWD_EVT_L0159",
+        "msgStr": "Raidou, Ushigome-Gaeri Köprüsü'ne gitmeli ve Ruh Gönderme Ritüeli'ni gerçekleştirmelisin."
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_16_023_04",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "NWD_EVT_L0160",
+        "msgStr": "Karanlık Diyar'daki Ushigome-Gaeri Köprüsü'ne gidelim."
+      },
+      {
+        "msgID": "nwd_evt_EPI12_SCENE04_16_023_05",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "NWD_EVT_L0160_01",
+        "msgStr": "Hıh... Onu ben söyleyecektim!"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:41:28"
+}

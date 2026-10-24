@@ -1,0 +1,145 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAPIF_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MAPIF_L0000",
+        "msgStr": "Çağır"
+      },
+      {
+        "msgID": "MAPIF_L0001",
+        "msgStr": "Geri dön"
+      },
+      {
+        "msgID": "MAPIF_L0002",
+        "msgStr": "Tekil Soruşturma"
+      },
+      {
+        "msgID": "MAPIF_L0003",
+        "msgStr": "-"
+      },
+      {
+        "msgID": "MAPIF_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0005",
+        "msgStr": "Bilinen Soruşturma Yetenekleri"
+      },
+      {
+        "msgID": "MAPIF_L0006",
+        "msgStr": "Ejderha Yükseltisi"
+      },
+      {
+        "msgID": "MAPIF_L0007",
+        "msgStr": "Lekeli Geçit"
+      },
+      {
+        "msgID": "MAPIF_L0008",
+        "msgStr": "Ateş Yeraltı Kapısı"
+      },
+      {
+        "msgID": "MAPIF_L0009",
+        "msgStr": "Buz Yeraltı Kapısı"
+      },
+      {
+        "msgID": "MAPIF_L0010",
+        "msgStr": "Elektrik Yeraltı Kapısı"
+      },
+      {
+        "msgID": "MAPIF_L0011",
+        "msgStr": "Güç Yeraltı Kapısı"
+      },
+      {
+        "msgID": "MAPIF_L0012",
+        "msgStr": "Mermi Yeraltı Kapısı"
+      },
+      {
+        "msgID": "MAPIF_L0013",
+        "msgStr": "Fiziksel Yeraltı Kapısı"
+      },
+      {
+        "msgID": "MAPIF_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0019",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "MAPIF_L0020",
+        "msgStr": "Soruşturmayı Kaydet"
+      },
+      {
+        "msgID": "MAPIF_L0021",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "MAPIF_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0023",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "MAPIF_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0025",
+        "msgStr": "Giriş Ritüeli"
+      },
+      {
+        "msgID": "MAPIF_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPIF_L0027",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "MAPIF_L0028",
+        "msgStr": "Ekspres Tramvay"
+      },
+      {
+        "msgID": "MAPIF_L0029",
+        "msgStr": "Dedektif Günlüğü"
+      },
+      {
+        "msgID": "MAPIF_L0030",
+        "msgStr": "Raidou'ya dön"
+      },
+      {
+        "msgID": "MAPIF_L0031",
+        "msgStr": "Konnou-ya"
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/22 17:00:46"
+}

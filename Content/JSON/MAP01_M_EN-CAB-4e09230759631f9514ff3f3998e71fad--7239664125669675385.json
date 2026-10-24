@@ -1,0 +1,1769 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP01_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map01_m_M_MES_dummy_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0001",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP01_M_L0002",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map01_m_m_Common_Item_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0003",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map01_m_m_Common_ItemSelect SEL_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0004",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP01_M_L0005",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map01_m_m_Common_GetItem_Raidou_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0006",
+        "msgStr": "> <COLOR 4><V 0><COLOR 0> x<V 1> elde edildi."
+      },
+      {
+        "msgID": "map01_m_m_Common_GetItem_Devil_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0007",
+        "msgStr": "> <devil 0> \n<COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "map01_m_M_MES_01_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0008",
+        "msgStr": "> Burada kimse yok."
+      },
+      {
+        "msgID": "map01_m_M_MES_02_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0009",
+        "msgStr": "> Şu an burada kimse yok."
+      },
+      {
+        "msgID": "map01_m_m_ep11_jisin_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0010",
+        "msgStr": "> Ruhsuz Tanrı'nın öfkesi depreme yol açtı!"
+      },
+      {
+        "msgID": "map01_m_m_msg_tarasuku_nori_00_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0011",
+        "msgStr": "> Burası bir iskele."
+      },
+      {
+        "msgID": "map01_m_m_msg_tarasuku_nori_01_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0012",
+        "msgStr": "> Büyük Tarrasque çağrılsın mı?"
+      },
+      {
+        "msgID": "MAP01_M_L0013",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP01_M_L0014",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map01_m_m_msg_tarasuku_nori_02_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0015",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map01_m_map01_HAJIKI_01_011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_M_EP01MES_KOUGAKU01_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_M_EP01MES_KOUGAKU03_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0020",
+        "msgStr": "> Yerde bir şey var."
+      },
+      {
+        "msgID": "MAP01_M_L0021",
+        "msgStr": "> Yerden alınsın mı?"
+      },
+      {
+        "msgID": "map01_m_M_EP01MES_KOUGAKUGET_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0022",
+        "msgStr": "> <ITM_08><COLOR 4>Çakra Parçası<COLOR 0> x1 elde edildi."
+      },
+      {
+        "msgID": "map01_m_M_EP01MES_KOUGAKUNOGET_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0023",
+        "msgStr": "> Raidou ayrıldı."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_01_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0024",
+        "msgStr": "> Burası soba restoranı Isakaya."
+      },
+      {
+        "msgID": "MAP01_M_L0025",
+        "msgStr": "> Ön kapıya bir duyuru asılmış."
+      },
+      {
+        "msgID": "MAP01_M_L0026",
+        "msgStr": "\"Bugün kapalıyız. Yarın ve ondan sonraki gün de kapalı olacağız...\""
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_01_NAKAMA_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0027",
+        "msgStr": "> Burası soba restoranı Isakaya."
+      },
+      {
+        "msgID": "MAP01_M_L0028",
+        "msgStr": "> Ön kapıya bir duyuru asılmış."
+      },
+      {
+        "msgID": "MAP01_M_L0029",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP01_M_L0030",
+        "msgStr": "> Ancak <devil 0> yazıyı sökemedi."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_01_018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_SEL SEL 0_019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_GYUU_020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_OMU_021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_MERI_022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_TALK_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_END_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_TGS1_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0049",
+        "msgStr": "> Burası Batı tarzı restoran Tawara-ya."
+      },
+      {
+        "msgID": "MAP01_M_L0050",
+        "msgStr": "> Mutfaktan dışarıya tereyağı kokusu yayılıyor."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_TGS2_026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_NAKAMA01_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0052",
+        "msgStr": "> Burası Batı tarzı restoran Tawara-ya."
+      },
+      {
+        "msgID": "MAP01_M_L0053",
+        "msgStr": "> <devil 0> tereyağı kokusunu aldı ve biraz MAG yeniledi... Ya da öyle göründü."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_02_NAKAMA02_028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_03_01_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0056",
+        "msgStr": "> Burası Tsukudo-cho Toplantı Salonu."
+      },
+      {
+        "msgID": "MAP01_M_L0057",
+        "msgStr": "> Şu anda içeride devam eden bir oturum var."
+      },
+      {
+        "msgID": "MAP01_M_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_03_YES_01_030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_03_YES_02_031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDU_03_YES_03_032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDU_03_YES_04_033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_03_YES_05_034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_03_YES_06_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_03_NO_036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_03_NAKAMA01_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0071",
+        "msgStr": "> Burası Tsukudo-cho Toplantı Salonu."
+      },
+      {
+        "msgID": "MAP01_M_L0072",
+        "msgStr": "> <devil 0> içerideki insanlarla birlikte başını sallıyor."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDU_03_NAKAMA02_038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_01_039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_TOUHU_01_040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_TOUHU_02_041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_ABURA_01_042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_ABURA_02_043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_NO_044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_TGS_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0087",
+        "msgStr": "> Burası eski usul bir tofucu dükkânı."
+      },
+      {
+        "msgID": "MAP01_M_L0088",
+        "msgStr": "> Ön kapıya bir duyuru asılmış."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_TGS02_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0089",
+        "msgStr": "\"Dükkân sahibi bugün rahatsız. Öğleden sonra geç saatlerde açılacağız.\""
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_NAKAMA01_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0090",
+        "msgStr": "> Burası eski usul bir tofucu dükkânı."
+      },
+      {
+        "msgID": "MAP01_M_L0091",
+        "msgStr": "> <devil 0> gözlerini kızarmış tofuya dikti."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_NAKAMA02_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0092",
+        "msgStr": "> Bir Kızarmış Tofu çıkarılsın mı?"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_NAKAMA02_YES_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0093",
+        "msgStr": "> <devil 0> <ITM_04><COLOR 4>Kızarmış Tofu<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_NAKAMA02_NO_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0094",
+        "msgStr": "> <devil 0> ayrıldı."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_04_NAKAMA03_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0095",
+        "msgStr": "> <devil 0> dükkândaki tüm soya fasulyelerini saymaya başladı..."
+      },
+      {
+        "msgID": "MAP01_M_L0096",
+        "msgStr": "> ...Ama sonunda sayılamayacak kadar çok oldukları ortaya çıktı."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0097",
+        "msgStr": "> Burası tatlıcı."
+      },
+      {
+        "msgID": "MAP01_M_L0098",
+        "msgStr": "> İçerisi tatlı yiyen kızlarla tıklım tıklım dolu."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA01_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0099",
+        "msgStr": "> Burası tatlıcı."
+      },
+      {
+        "msgID": "MAP01_M_L0100",
+        "msgStr": "> <devil 0> bir müşterinin dondurmasına göz dikti."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA02_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0101",
+        "msgStr": "> Ne yapacağını seç."
+      },
+      {
+        "msgID": "MAP01_M_L0102",
+        "msgStr": "Çal"
+      },
+      {
+        "msgID": "MAP01_M_L0103",
+        "msgStr": "Hiçbir şeyi"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA_A1_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0104",
+        "msgStr": "> İblis daha fazla dayanamadı ve dondurmadan bir ısırık aldı!"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA_A2_056",
+        "msgStr": "Kadın Müşteri"
+      },
+      {
+        "msgID": "MAP01_M_L0105",
+        "msgStr": "Bu da ne—? Dondurmamın bir kısmı yok olmuş!"
+      },
+      {
+        "msgID": "MAP01_M_L0106",
+        "msgStr": "Üstelik her yeri yapış yapış olmuş!"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA_B1_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0107",
+        "msgStr": "> <devil 0> dondurmanın geri kalanını mideye indirdi."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA_B2_058",
+        "msgStr": "Kadın Müşteri"
+      },
+      {
+        "msgID": "MAP01_M_L0108",
+        "msgStr": "Buna inanamıyorum!"
+      },
+      {
+        "msgID": "MAP01_M_L0109",
+        "msgStr": "Hepsi yok oldu! Neler oluyor? Böyle olmaması gerekiyordu!"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA_B3_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0110",
+        "msgStr": "> <devil 0> <ITM_04><COLOR 4>Dondurma<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA_C_060",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0111",
+        "msgStr": "> <devil 0> ayrıldı."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_05_NAKAMA03_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0112",
+        "msgStr": "> <devil 0> tüm o çığlık ve kıkırdamalardan çekindi."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_06_NAKAMA01_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0113",
+        "msgStr": "> Burası modern bir camcı dükkânı."
+      },
+      {
+        "msgID": "MAP01_M_L0114",
+        "msgStr": "> <devil 0> camda kendi yansımasını gördü ve savaş duruşuna geçti."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_06_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0115",
+        "msgStr": "> Burası modern bir camcı dükkânı."
+      },
+      {
+        "msgID": "MAP01_M_L0116",
+        "msgStr": "> Dükkân sahibi gözlüklerinden ışıklar parlayarak neşeyle çalışıyor."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_07_01_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0117",
+        "msgStr": "> Burası buzcu dükkânı."
+      },
+      {
+        "msgID": "MAP01_M_L0118",
+        "msgStr": "> İçerideki bir kız keskin bir testereyle buz kesiyor."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_07_NAKAMA01_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0119",
+        "msgStr": "> Burası buzcu dükkânı."
+      },
+      {
+        "msgID": "MAP01_M_L0120",
+        "msgStr": "> <devil 0> testerenin hareketiyle birlikte ileri geri sallanıyor."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_07_NAKAMA02_066",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_01_067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_SEL SEL 0_068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_A_069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_B_070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_C_071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_D_072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_E_073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_D2_074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_TGS_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0140",
+        "msgStr": "> Burası eski usul şekerleme dükkânı Kugizen."
+      },
+      {
+        "msgID": "MAP01_M_L0141",
+        "msgStr": "> İçerideki bir çalışan gizlice rakip firmanın Batı tarzı tatlılarını atıştırıyor!"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_NAKAMA01_076",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0142",
+        "msgStr": "> Burası eski usul şekerleme dükkânı Kugizen."
+      },
+      {
+        "msgID": "MAP01_M_L0143",
+        "msgStr": "> <devil 0> şuruba hayran kaldı."
+      },
+      {
+        "msgID": "MAP01_M_L0144",
+        "msgStr": "> Biraz alınsın mı?"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_NAKAMA_SEL SEL 0_077",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0145",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP01_M_L0146",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_NAKAMA_YES_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0147",
+        "msgStr": "> <devil 0> <ITM_04><COLOR 4>Şurup<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_NAKAMA_NO_079",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0148",
+        "msgStr": "> <devil 0> ayrıldı."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_08_NAKAMA02_080",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0149",
+        "msgStr": "> <devil 0> dükkânın perdesini kenara itiyor."
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_09_01_081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_09_NAKAMA01_082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_SHOP_TUKUDO_09_NAKAMA02_083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_test_01_084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_omikuji_01_085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0161",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_omikuji_01_yes_086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_omikuji_01_no_087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_omikuji__daikiti_01_088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_omikuji_tyukiti_01_089",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_omikuji_kiti_01_090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_omikuji_kyo_01_091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_omikuji_daikyo_01_092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_ep01_fskill_01_093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_ep01_iskill_01_094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_ep01_pskill_01_095",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_ep01_pskill_ikari_096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_ep01_pskill_warai_097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_ep01_pskill_naki_098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_ep01_pskill_yorokobi_099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_rskill_01_100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0187",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0188",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0189",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_sskill_01_101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0190",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0191",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0192",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_tskill_01_102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0193",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0194",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_ep01_fskill_01_103",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0195",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_fskill_02_104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0196",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0197",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_ep01_iskill_01_105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0198",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_iskill_02_106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0199",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0200",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_pskill_01_107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_pskill_02_108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0202",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0203",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0204",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_rskill_01_109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0205",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_rskill_02_110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0206",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0207",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_rskill_03_111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_rskill_okosu_112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0209",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0210",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0211",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_rskill_sonomama_113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0212",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_sskill_01_114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0213",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0214",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0215",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_tofuya_tskill_01_115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0216",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_koriya_tskill_02_116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0217",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0218",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0219",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0220",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_EP10_map01_STOP_01_117",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP01_M_L0221",
+        "msgStr": "Raidou, şimdilik Narumi ile buluşmaya ve durumumuzu değerlendirmeye öncelik vermeliyiz."
+      },
+      {
+        "msgID": "map01_m_EP10_map01_STOP_02_118",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP01_M_L0222",
+        "msgStr": "<COLOR 3>Dedektiflik bürosuna geri dönelim<COLOR 0>."
+      },
+      {
+        "msgID": "map01_m_EP09_map01_STOP_01_119",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP01_M_L0223",
+        "msgStr": "Bekle Raidou. Büroya dönüp durumu gözden geçirmeliyiz."
+      },
+      {
+        "msgID": "MAP01_M_L0224",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_EP09_map01_STOP_02_120",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP01_M_L0225",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_EP09_map01_STOP_03_121",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP01_M_L0226",
+        "msgStr": "Dur bakalım Raidou. Gördüğümüz o kedide bir tuhaflık var."
+      },
+      {
+        "msgID": "MAP01_M_L0227",
+        "msgStr": "Onu <COLOR 3>Tamonten Tapınağı<COLOR 0>'na kadar takip edelim."
+      },
+      {
+        "msgID": "map01_m_EP09_map01_STOP_04_122",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP01_M_L0228",
+        "msgStr": "Bekle Raidou. Şu anda Daidouji Konağı'nda bir işimiz yok."
+      },
+      {
+        "msgID": "map01_m_EP09_TANTEISYA_STOP_123",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0229",
+        "msgStr": "> Narumi Dedektiflik Bürosu'nun kapısı kilitli..."
+      },
+      {
+        "msgID": "map01_m_EP09_TANTEISYA_STOP_01_124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0230",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0231",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_EP09_TANTEISYA_STOP_02_125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_EP09_TANTEISYA_STOP_03_126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0234",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0235",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_EP09_TANTEISYA_STOP_04_127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0236",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_TGS_map01_STOP_01_128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0237",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0238",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_TGS_map01_STOP_02_129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0239",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_TGS_map01_FUUMA_00_130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0240",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_TGS_map01_FUUMA_01_131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0241",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0242",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_TGS_map01_FUUMA_02_132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0243",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0244",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0245",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0246",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0247",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0248",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_TGS_map01_FUUMA_03_133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0249",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_TGS_map01_FUUMA_04_134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0250",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_Tel01_135",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0251",
+        "msgStr": "> Bu, otomatik santralli bir umumi telefon."
+      },
+      {
+        "msgID": "MAP01_M_L0252",
+        "msgStr": "> Son birkaç yıldır Başkent'in dört bir yanında mantar gibi bitiyorlar."
+      },
+      {
+        "msgID": "map01_m_m_Alice01_01_136",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0253",
+        "msgStr": "> Telefon çalıyor."
+      },
+      {
+        "msgID": "map01_m_m_Alice01_02_137",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP01_M_L0254",
+        "msgStr": "B-Bu kahrolası huzursuzluk hissi de neyin nesi!?"
+      },
+      {
+        "msgID": "MAP01_M_L0255",
+        "msgStr": "Şuna baksam iyi olacak... Bir aramayı görmezden gelmekten asla hayır gelmemiştir."
+      },
+      {
+        "msgID": "map01_m_m_Alice02_01_138",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0256",
+        "msgStr": "> Belial telefona cevap verdi."
+      },
+      {
+        "msgID": "map01_m_m_Alice02_02_139",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP01_M_L0257",
+        "msgStr": "Şey...<mw 15>Al— Alo...?"
+      },
+      {
+        "msgID": "map01_m_m_Alice02_03_140",
+        "msgStr": "Telefondaki Ses"
+      },
+      {
+        "msgID": "MAP01_M_L0258",
+        "msgStr": "Alo? Benim..."
+      },
+      {
+        "msgID": "map01_m_m_Alice02_04_141",
+        "msgStr": "Belial"
+      },
+      {
+        "msgID": "MAP01_M_L0259",
+        "msgStr": "Aman Tanrım, bu ses! Vay başıma gelenler..."
+      },
+      {
+        "msgID": "map01_m_m_Alice02_05_142",
+        "msgStr": "Telefondaki Ses"
+      },
+      {
+        "msgID": "MAP01_M_L0260",
+        "msgStr": "Amca! Sensin!"
+      },
+      {
+        "msgID": "MAP01_M_L0261",
+        "msgStr": "Şu an Cehennemdeyim ama Başkent'i ziyaret etmeyi düşünüyorum."
+      },
+      {
+        "msgID": "MAP01_M_L0262",
+        "msgStr": "Oraya varır varmaz denizi göreceğim!"
+      },
+      {
+        "msgID": "map01_m_m_Alice02_06_143",
+        "msgStr": "Telefondaki Ses"
+      },
+      {
+        "msgID": "MAP01_M_L0263",
+        "msgStr": "Seni yakında tekrar ararım amca. Bay bay!"
+      },
+      {
+        "msgID": "map01_m_m_Alice02_07_144",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0264",
+        "msgStr": "> Telefon kapandı..."
+      },
+      {
+        "msgID": "map01_m_m_Shop_NoUse01_145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP01_M_L0265",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map01_m_m_Shop_EP10_Basic01_146",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0266",
+        "msgStr": "> Burası o canlı atmosferini kaybetmiş..."
+      },
+      {
+        "msgID": "map01_m_m_Shop_EP10_Basic02_147",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0267",
+        "msgStr": "> İçeride kimse yok. Tüm binayı bir sessizlik bürümüş..."
+      },
+      {
+        "msgID": "map01_m_m_Shop_EP10_Izaka_148",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0268",
+        "msgStr": "> Burası soba restoranı Isakaya."
+      },
+      {
+        "msgID": "MAP01_M_L0269",
+        "msgStr": "> Ön kapıya bir duyuru asılmış."
+      },
+      {
+        "msgID": "MAP01_M_L0270",
+        "msgStr": "\"Bugün hizmetinizdeyiz. Evet, Başkent'teki olağanüstü hâle rağmen açığız...\""
+      },
+      {
+        "msgID": "map01_m_m_Shop_EP12_TAWARA01_149",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0271",
+        "msgStr": "> Burası Batı tarzı restoran Tawara-ya."
+      },
+      {
+        "msgID": "MAP01_M_L0272",
+        "msgStr": "> Dükkân sahibi kasaba halkına hizmet etmek için tüm kalbiyle yemek pişiriyor."
+      },
+      {
+        "msgID": "map01_m_m_Shop_EP12_FUJIKO01_150",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0273",
+        "msgStr": "> Burası tatlıcı."
+      },
+      {
+        "msgID": "MAP01_M_L0274",
+        "msgStr": "> İçeride az sayıda müşteri var ama çalışanlar hâlâ sıkı çalışıyor."
+      },
+      {
+        "msgID": "map01_m_m_Shop_EP12_TOUFU01_151",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0275",
+        "msgStr": "> Burası eski usul bir tofucu dükkânı."
+      },
+      {
+        "msgID": "MAP01_M_L0276",
+        "msgStr": "> Ön kapıya bir duyuru asılmış."
+      },
+      {
+        "msgID": "map01_m_m_Shop_EP12_TOUFU02_152",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0277",
+        "msgStr": "\"Olağanüstü hâl nedeniyle şu anda kapalıyız.\""
+      },
+      {
+        "msgID": "map01_m_m_Shop_EP12_KANMI01_153",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0278",
+        "msgStr": "> Burası eski usul şekerleme dükkânı Kugizen."
+      },
+      {
+        "msgID": "MAP01_M_L0279",
+        "msgStr": "> İçerideki çalışanlar yeniden açılış hazırlıkları için harıl harıl çalışıyor."
+      },
+      {
+        "msgID": "map01_m_m_Rhone01_01_154",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0280",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "map01_m_m_Rhone01_03_155",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP01_M_L0281",
+        "msgStr": "> Ancak Büyük Tarrasque gelmedi..."
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/25 15:35:18"
+}

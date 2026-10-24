@@ -1,0 +1,61 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "ELVMENU_TEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "ELVMENU_TEXT_L0000",
+        "msgStr": "Hangi kat?"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0001",
+        "msgStr": "B1"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0002",
+        "msgStr": "B2"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0003",
+        "msgStr": "B3"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0004",
+        "msgStr": "B4"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0005",
+        "msgStr": "B5"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0006",
+        "msgStr": "B6"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0007",
+        "msgStr": "B7"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0008",
+        "msgStr": "B8"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0009",
+        "msgStr": "B9"
+      },
+      {
+        "msgID": "ELVMENU_TEXT_L0010",
+        "msgStr": "B10"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:48"
+}

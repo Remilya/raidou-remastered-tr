@@ -1,0 +1,497 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAPTITLE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MAPTITLE_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0001",
+        "msgStr": "Yarai-ku, Tsukudo-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0002",
+        "msgStr": "Chujou-ku, Ginza-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0003",
+        "msgStr": "Senju-ku, Fukagawa-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0004",
+        "msgStr": "Koutou-ku, Harumi-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0005",
+        "msgStr": "Koutou-ku, Sakuradayama"
+      },
+      {
+        "msgID": "MAPTITLE_L0006",
+        "msgStr": "Shinoda, İsimsiz Tapınak"
+      },
+      {
+        "msgID": "MAPTITLE_L0007",
+        "msgStr": "Akasaka-ku, Kasumidai"
+      },
+      {
+        "msgID": "MAPTITLE_L0008",
+        "msgStr": "Yarai-ku, Daidouji Konağı"
+      },
+      {
+        "msgID": "MAPTITLE_L0009",
+        "msgStr": "Senju-ku, Daidouji Tekstil"
+      },
+      {
+        "msgID": "MAPTITLE_L0010",
+        "msgStr": "Yeraltı Tersanesi"
+      },
+      {
+        "msgID": "MAPTITLE_L0011",
+        "msgStr": "Koutou-ku, Waden One"
+      },
+      {
+        "msgID": "MAPTITLE_L0012",
+        "msgStr": "Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "MAPTITLE_L0013",
+        "msgStr": "Süper Alan"
+      },
+      {
+        "msgID": "MAPTITLE_L0014",
+        "msgStr": "Seviye Atlama Zindanı"
+      },
+      {
+        "msgID": "MAPTITLE_L0015",
+        "msgStr": "Senju-ku, İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "MAPTITLE_L0016",
+        "msgStr": "Eğitim"
+      },
+      {
+        "msgID": "MAPTITLE_L0017",
+        "msgStr": "2. Seviye Atlama"
+      },
+      {
+        "msgID": "MAPTITLE_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0021",
+        "msgStr": "Yarai-ku, Tsukudo-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0022",
+        "msgStr": "Chujou-ku, Ginza-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0023",
+        "msgStr": "Senju-ku, Fukagawa-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0024",
+        "msgStr": "Koutou-ku, Harumi-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0025",
+        "msgStr": "Koutou-ku, Sakuradayama"
+      },
+      {
+        "msgID": "MAPTITLE_L0026",
+        "msgStr": "Shinoda, İsimsiz Tapınak"
+      },
+      {
+        "msgID": "MAPTITLE_L0027",
+        "msgStr": "Akasaka-ku, Kasumidai"
+      },
+      {
+        "msgID": "MAPTITLE_L0028",
+        "msgStr": "Yarai-ku, Daidouji Konağı"
+      },
+      {
+        "msgID": "MAPTITLE_L0029",
+        "msgStr": "Senju-ku, Daidouji Tekstil"
+      },
+      {
+        "msgID": "MAPTITLE_L0030",
+        "msgStr": "Yeraltı Tersanesi"
+      },
+      {
+        "msgID": "MAPTITLE_L0031",
+        "msgStr": "Koutou-ku, Waden One"
+      },
+      {
+        "msgID": "MAPTITLE_L0032",
+        "msgStr": "Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "MAPTITLE_L0033",
+        "msgStr": "Süper Alan"
+      },
+      {
+        "msgID": "MAPTITLE_L0034",
+        "msgStr": "Seviye Atlama Zindanı"
+      },
+      {
+        "msgID": "MAPTITLE_L0035",
+        "msgStr": "Senju-ku, İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "MAPTITLE_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0041",
+        "msgStr": "Test: Savaş"
+      },
+      {
+        "msgID": "MAPTITLE_L0042",
+        "msgStr": "Test: Harita"
+      },
+      {
+        "msgID": "MAPTITLE_L0043",
+        "msgStr": "Test: OP"
+      },
+      {
+        "msgID": "MAPTITLE_L0044",
+        "msgStr": "Test: Gerçek Dünya Bölgesi"
+      },
+      {
+        "msgID": "MAPTITLE_L0045",
+        "msgStr": "Test: Karanlık Diyar Bölgesi"
+      },
+      {
+        "msgID": "MAPTITLE_L0046",
+        "msgStr": "Test: Yedek"
+      },
+      {
+        "msgID": "MAPTITLE_L0047",
+        "msgStr": "Test: Harita"
+      },
+      {
+        "msgID": "MAPTITLE_L0048",
+        "msgStr": "Test: Yedek"
+      },
+      {
+        "msgID": "MAPTITLE_L0049",
+        "msgStr": "Test: Yedek"
+      },
+      {
+        "msgID": "MAPTITLE_L0050",
+        "msgStr": "Konnou-ya"
+      },
+      {
+        "msgID": "MAPTITLE_L0051",
+        "msgStr": "Gazozcu"
+      },
+      {
+        "msgID": "MAPTITLE_L0052",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "MAPTITLE_L0053",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "MAPTITLE_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0061",
+        "msgStr": "Yarai-ku, Tsukudo-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0062",
+        "msgStr": "Chujou-ku, Ginza-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0063",
+        "msgStr": "Senju-ku, Fukagawa-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0064",
+        "msgStr": "Koutou-ku, Harumi-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0065",
+        "msgStr": "Koutou-ku, Sakuradayama"
+      },
+      {
+        "msgID": "MAPTITLE_L0066",
+        "msgStr": "Shinoda, İsimsiz Tapınak"
+      },
+      {
+        "msgID": "MAPTITLE_L0067",
+        "msgStr": "Akasaka-ku, Kasumidai"
+      },
+      {
+        "msgID": "MAPTITLE_L0068",
+        "msgStr": "Yarai-ku, Daidouji Konağı"
+      },
+      {
+        "msgID": "MAPTITLE_L0069",
+        "msgStr": "Senju-ku, Daidouji Tekstil"
+      },
+      {
+        "msgID": "MAPTITLE_L0070",
+        "msgStr": "Yeraltı Tersanesi"
+      },
+      {
+        "msgID": "MAPTITLE_L0071",
+        "msgStr": "Koutou-ku, Waden One"
+      },
+      {
+        "msgID": "MAPTITLE_L0072",
+        "msgStr": "Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "MAPTITLE_L0073",
+        "msgStr": "Süper Alan"
+      },
+      {
+        "msgID": "MAPTITLE_L0074",
+        "msgStr": "Seviye Atlama Zindanı"
+      },
+      {
+        "msgID": "MAPTITLE_L0075",
+        "msgStr": "Senju-ku, İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "MAPTITLE_L0076",
+        "msgStr": "Eğitim"
+      },
+      {
+        "msgID": "MAPTITLE_L0077",
+        "msgStr": "2. Seviye Atlama"
+      },
+      {
+        "msgID": "MAPTITLE_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0081",
+        "msgStr": "Yarai-ku, Tsukudo-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0082",
+        "msgStr": "Chujou-ku, Ginza-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0083",
+        "msgStr": "Senju-ku, Fukagawa-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0084",
+        "msgStr": "Koutou-ku, Harumi-cho"
+      },
+      {
+        "msgID": "MAPTITLE_L0085",
+        "msgStr": "Koutou-ku, Sakuradayama"
+      },
+      {
+        "msgID": "MAPTITLE_L0086",
+        "msgStr": "Shinoda, İsimsiz Tapınak"
+      },
+      {
+        "msgID": "MAPTITLE_L0087",
+        "msgStr": "Akasaka-ku, Kasumidai"
+      },
+      {
+        "msgID": "MAPTITLE_L0088",
+        "msgStr": "Yarai-ku, Daidouji Konağı"
+      },
+      {
+        "msgID": "MAPTITLE_L0089",
+        "msgStr": "Senju-ku, Daidouji Tekstil"
+      },
+      {
+        "msgID": "MAPTITLE_L0090",
+        "msgStr": "Yeraltı Tersanesi"
+      },
+      {
+        "msgID": "MAPTITLE_L0091",
+        "msgStr": "Koutou-ku, Waden One"
+      },
+      {
+        "msgID": "MAPTITLE_L0092",
+        "msgStr": "Tai-itsu Uydusu"
+      },
+      {
+        "msgID": "MAPTITLE_L0093",
+        "msgStr": "Süper Alan"
+      },
+      {
+        "msgID": "MAPTITLE_L0094",
+        "msgStr": "Seviye Atlama Zindanı"
+      },
+      {
+        "msgID": "MAPTITLE_L0095",
+        "msgStr": "Senju-ku, İnanılmaz Bilim Laboratuvarı"
+      },
+      {
+        "msgID": "MAPTITLE_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0101",
+        "msgStr": "Test: Savaş"
+      },
+      {
+        "msgID": "MAPTITLE_L0102",
+        "msgStr": "Test: Harita"
+      },
+      {
+        "msgID": "MAPTITLE_L0103",
+        "msgStr": "Test: OP"
+      },
+      {
+        "msgID": "MAPTITLE_L0104",
+        "msgStr": "Test: Gerçek Dünya Bölgesi"
+      },
+      {
+        "msgID": "MAPTITLE_L0105",
+        "msgStr": "Test: Karanlık Diyar Bölgesi"
+      },
+      {
+        "msgID": "MAPTITLE_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0107",
+        "msgStr": "Test: Harita"
+      },
+      {
+        "msgID": "MAPTITLE_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0110",
+        "msgStr": "Konnou-ya"
+      },
+      {
+        "msgID": "MAPTITLE_L0111",
+        "msgStr": "Gazozcu"
+      },
+      {
+        "msgID": "MAPTITLE_L0112",
+        "msgStr": "Goumaden"
+      },
+      {
+        "msgID": "MAPTITLE_L0113",
+        "msgStr": "Narumi Dedektiflik Bürosu"
+      },
+      {
+        "msgID": "MAPTITLE_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPTITLE_L0119",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:13"
+}

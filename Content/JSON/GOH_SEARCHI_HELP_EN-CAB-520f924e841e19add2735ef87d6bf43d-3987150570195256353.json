@@ -1,0 +1,65 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_SEARCHI_HELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0000",
+        "msgStr": "Belirtilen iblisin füzyonlara dahil edilmesini sağlayın."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0001",
+        "msgStr": "Belirtilen iblisin füzyonlara dahil edilmemesini sağlayın."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0002",
+        "msgStr": "Yalnızca İblis Rehberi'ne kaydedilmemiş iblisleri göster."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0003",
+        "msgStr": "Yalnızca belirli bir seviye için füzyonları göster."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0004",
+        "msgStr": "Yalnızca belirli bir Düzen için füzyonları göster."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0005",
+        "msgStr": "Yalnızca belirli bir iblis için füzyonları göster."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0006",
+        "msgStr": "Yalnızca belirtilen yatkınlığa sahip yetenekleri taşıyabilen iblisleri göster."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0007",
+        "msgStr": "Yalnızca belirtilen yeteneği taşıyabilen iblisleri göster."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0008",
+        "msgStr": "Yalnızca belirtilen yatkınlığa karşı güçlü olan (Direnç/Yok/Emen) iblisleri göster."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0009",
+        "msgStr": "İblis Rehberi'ne kayıtlı iblisleri olası füzyonlara dahil et."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0010",
+        "msgStr": "Element Düzeni iblislerini füzyonlara dahil etme."
+      },
+      {
+        "msgID": "GOH_SEARCHI_HELP_L0011",
+        "msgStr": "Mitama Düzeni iblislerini füzyonlara dahil etme."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:20"
+}

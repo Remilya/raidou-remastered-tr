@@ -1,0 +1,185 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CMP_HELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CMP_HELP_L0000",
+        "msgStr": "Bir iblisin yeteneklerini kullan."
+      },
+      {
+        "msgID": "CMP_HELP_L0001",
+        "msgStr": "Eşyaları kullan, malzemeleri ve önemli eşyaları kontrol et."
+      },
+      {
+        "msgID": "CMP_HELP_L0002",
+        "msgStr": "Grubundaki üyelerin durumlarını kontrol et ve iblis çağırma, geri döndürme ve serbest bırakma ile ilgili ayarları değiştir."
+      },
+      {
+        "msgID": "CMP_HELP_L0003",
+        "msgStr": "Hedefi, oyun kontrollerini, ipuçlarını, önemli terimleri ve bilgileri kontrol et."
+      },
+      {
+        "msgID": "CMP_HELP_L0004",
+        "msgStr": "Raidou ve iblislerin durumlarını ve niteliklerini kontrol et."
+      },
+      {
+        "msgID": "CMP_HELP_L0005",
+        "msgStr": "Harita üzerinden çevredeki bölgeyi kontrol et."
+      },
+      {
+        "msgID": "CMP_HELP_L0006",
+        "msgStr": "Çeşitli ayarları düzenle."
+      },
+      {
+        "msgID": "CMP_HELP_L0007",
+        "msgStr": "Bir kayıt dosyasından veri yükle."
+      },
+      {
+        "msgID": "CMP_HELP_L0008",
+        "msgStr": "Eşyaları kullan."
+      },
+      {
+        "msgID": "CMP_HELP_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_HELP_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_HELP_L0011",
+        "msgStr": "Önemli eşyaları kontrol et."
+      },
+      {
+        "msgID": "CMP_HELP_L0012",
+        "msgStr": "Savaş başında otomatik olarak çağrılacak iblisleri ayarla."
+      },
+      {
+        "msgID": "CMP_HELP_L0013",
+        "msgStr": "İblis dizilimini düzenle."
+      },
+      {
+        "msgID": "CMP_HELP_L0014",
+        "msgStr": "Bir iblisi serbest bırak."
+      },
+      {
+        "msgID": "CMP_HELP_L0015",
+        "msgStr": "Şu anda sahip olunan para miktarı."
+      },
+      {
+        "msgID": "CMP_HELP_L0016",
+        "msgStr": "Raidou'nun kuşandığı kılıcı değiştir."
+      },
+      {
+        "msgID": "CMP_HELP_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_HELP_L0018",
+        "msgStr": "Şu anda sahip olunan malzemeleri kontrol et."
+      },
+      {
+        "msgID": "CMP_HELP_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_HELP_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_HELP_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_HELP_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_HELP_L0023",
+        "msgStr": "Yetenekleri kullan veya kontrol et."
+      },
+      {
+        "msgID": "CMP_HELP_L0024",
+        "msgStr": "Savaş sırasında tek tuşla iblislere doğrudan verilecek Kombo Yeteneklerini kaydet."
+      },
+      {
+        "msgID": "CMP_HELP_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CMP_HELP_L0026",
+        "msgStr": "Mevcut ilerlemeyi kaydet."
+      },
+      {
+        "msgID": "CMP_HELP_L0027",
+        "msgStr": "Yeteneğin atanacağı bir yuva seç."
+      },
+      {
+        "msgID": "CMP_HELP_L0028",
+        "msgStr": "Üzerinde <V 0> kullanılacak bir iblis seç."
+      },
+      {
+        "msgID": "CMP_HELP_L0029",
+        "msgStr": "Yetenek yok."
+      },
+      {
+        "msgID": "CMP_HELP_L0030",
+        "msgStr": "Yetenek yok."
+      },
+      {
+        "msgID": "CMP_HELP_L0031",
+        "msgStr": "Oyunu sonlandır ve ana ekrana dön."
+      },
+      {
+        "msgID": "CMP_HELP_L0032",
+        "msgStr": "Oyundan çık."
+      },
+      {
+        "msgID": "CMP_HELP_L0033",
+        "msgStr": "Ayarları değiştir, kayıt verilerini yönet veya oyundan çık."
+      },
+      {
+        "msgID": "CMP_HELP_L0034",
+        "msgStr": "Şu ana kadar görülen eğitim rehberlerini incele."
+      },
+      {
+        "msgID": "CMP_HELP_L0035",
+        "msgStr": "Bir varış noktası seç."
+      },
+      {
+        "msgID": "CMP_HELP_L0036",
+        "msgStr": "Adayın ve iblislerinin durumunu kontrol et; iblis çağırma, geri döndürme ve serbest bırakma ile ilgili ayarları değiştir."
+      },
+      {
+        "msgID": "CMP_HELP_L0037",
+        "msgStr": "Raidou'nun Savaş Yetenekleri ve Kılıç Yetenekleri ayarlarını değiştir."
+      },
+      {
+        "msgID": "CMP_HELP_L0038",
+        "msgStr": "Raidou ve iblislerinin durumunu kontrol et; iblis çağırma, geri döndürme ve serbest bırakma ile ilgili ayarları değiştir."
+      },
+      {
+        "msgID": "CMP_HELP_L0039",
+        "msgStr": "Adayın kuşandığı kılıcı değiştir."
+      },
+      {
+        "msgID": "CMP_HELP_L0040",
+        "msgStr": "İblislerin durumunu yokla."
+      },
+      {
+        "msgID": "CMP_HELP_L0041",
+        "msgStr": "Dava dosyalarını kontrol et (gerektikçe güncellenir)."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:36:51"
+}

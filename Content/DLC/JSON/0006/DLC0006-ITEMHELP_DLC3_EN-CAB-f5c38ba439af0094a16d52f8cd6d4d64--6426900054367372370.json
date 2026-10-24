@@ -1,0 +1,25 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "ITEMHELP_DLC3_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "ITEMHELP_L0760",
+        "msgStr": "Kişinin görünümünü değiştirmek için sade ve şık bir gözlük."
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:49:54"
+}

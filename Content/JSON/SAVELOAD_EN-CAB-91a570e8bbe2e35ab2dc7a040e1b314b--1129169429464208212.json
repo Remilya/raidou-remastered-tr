@@ -1,0 +1,385 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "SAVELOAD_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "SAVELOAD_L0000",
+        "msgStr": "Bölüm 0"
+      },
+      {
+        "msgID": "SAVELOAD_L0001",
+        "msgStr": "Bölüm 1"
+      },
+      {
+        "msgID": "SAVELOAD_L0002",
+        "msgStr": "Bölüm 2"
+      },
+      {
+        "msgID": "SAVELOAD_L0003",
+        "msgStr": "Bölüm 3"
+      },
+      {
+        "msgID": "SAVELOAD_L0004",
+        "msgStr": "Bölüm 4"
+      },
+      {
+        "msgID": "SAVELOAD_L0005",
+        "msgStr": "Bölüm 5"
+      },
+      {
+        "msgID": "SAVELOAD_L0006",
+        "msgStr": "Bölüm 6"
+      },
+      {
+        "msgID": "SAVELOAD_L0007",
+        "msgStr": "Bölüm 7"
+      },
+      {
+        "msgID": "SAVELOAD_L0008",
+        "msgStr": "Bölüm 8"
+      },
+      {
+        "msgID": "SAVELOAD_L0009",
+        "msgStr": "Bölüm 9"
+      },
+      {
+        "msgID": "SAVELOAD_L0010",
+        "msgStr": "Bölüm 10"
+      },
+      {
+        "msgID": "SAVELOAD_L0011",
+        "msgStr": "Bölüm 11"
+      },
+      {
+        "msgID": "SAVELOAD_L0012",
+        "msgStr": "Son Bölüm"
+      },
+      {
+        "msgID": "SAVELOAD_L0013",
+        "msgStr": "Bölüm 0 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0014",
+        "msgStr": "Bölüm 1 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0015",
+        "msgStr": "Bölüm 2 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0016",
+        "msgStr": "Bölüm 3 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0017",
+        "msgStr": "Bölüm 4 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0018",
+        "msgStr": "Bölüm 5 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0019",
+        "msgStr": "Bölüm 6 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0020",
+        "msgStr": "Bölüm 7 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0021",
+        "msgStr": "Bölüm 8 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0022",
+        "msgStr": "Bölüm 9 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0023",
+        "msgStr": "Bölüm 10 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0024",
+        "msgStr": "Bölüm 11 Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0025",
+        "msgStr": "Final Bölümü Sonu"
+      },
+      {
+        "msgID": "SAVELOAD_L0026",
+        "msgStr": "Prolog"
+      },
+      {
+        "msgID": "SAVELOAD_L0027",
+        "msgStr": "Kayıp Kız"
+      },
+      {
+        "msgID": "SAVELOAD_L0028",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "SAVELOAD_L0029",
+        "msgStr": "Karanlık Çağırıcı"
+      },
+      {
+        "msgID": "SAVELOAD_L0030",
+        "msgStr": "Kayıp Sevkiyatlar Vakası"
+      },
+      {
+        "msgID": "SAVELOAD_L0031",
+        "msgStr": "Yüzleşme"
+      },
+      {
+        "msgID": "SAVELOAD_L0032",
+        "msgStr": "Parlak Muhafızların Sırrı"
+      },
+      {
+        "msgID": "SAVELOAD_L0033",
+        "msgStr": "Lanetli Dedektif"
+      },
+      {
+        "msgID": "SAVELOAD_L0034",
+        "msgStr": "İblis ve Çelik Kule"
+      },
+      {
+        "msgID": "SAVELOAD_L0035",
+        "msgStr": "İki Çağırıcı"
+      },
+      {
+        "msgID": "SAVELOAD_L0036",
+        "msgStr": "Başkent Alevler İçinde!"
+      },
+      {
+        "msgID": "SAVELOAD_L0037",
+        "msgStr": "Uzay Görevi"
+      },
+      {
+        "msgID": "SAVELOAD_L0038",
+        "msgStr": "Gelecek İçin, Şimdiki Zamanda"
+      },
+      {
+        "msgID": "SAVELOAD_L0039",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "SAVELOAD_L0040",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "SAVELOAD_L0041",
+        "msgStr": "Veriler kaydediliyor."
+      },
+      {
+        "msgID": "SAVELOAD_L0042",
+        "msgStr": "Kaydetmek için bir dosya seçin."
+      },
+      {
+        "msgID": "SAVELOAD_L0043",
+        "msgStr": "Veriler yükleniyor."
+      },
+      {
+        "msgID": "SAVELOAD_L0044",
+        "msgStr": "Yüklemek için bir dosya seçin."
+      },
+      {
+        "msgID": "SAVELOAD_L0045",
+        "msgStr": "<V 0> dosyası yüklensin mi?"
+      },
+      {
+        "msgID": "SAVELOAD_L0046",
+        "msgStr": "Bu dosyada zaten kayıt verisi var. Üzerine yazılsın mı?"
+      },
+      {
+        "msgID": "SAVELOAD_L0047",
+        "msgStr": "Tamamlama verisi kaydedilsin mi? Tamamlama verisi, bitirilen oyundaki bazı unsurların yeni oyuna aktarılmasını sağlar."
+      },
+      {
+        "msgID": "SAVELOAD_L0048",
+        "msgStr": "En yüksek zorluk seviyesi olan Dedektif Efsanesi artık seçilebilir. Dedektif Efsanesi mücadelesine atılmak ister misiniz?"
+      },
+      {
+        "msgID": "SAVELOAD_L0049",
+        "msgStr": "Yeni bir oyun dosyası oluşturulup önceki verilerin üzerine yazılsın mı?"
+      },
+      {
+        "msgID": "SAVELOAD_L0050",
+        "msgStr": "Dedektif Efsanesi mücadelesine başlanıyor. Bol şans."
+      },
+      {
+        "msgID": "SAVELOAD_L0051",
+        "msgStr": "Ana ekrana dönülsün mü?"
+      },
+      {
+        "msgID": "SAVELOAD_L0052",
+        "msgStr": "Mevcut ilerleme kaydedilsin mi?"
+      },
+      {
+        "msgID": "SAVELOAD_L0053",
+        "msgStr": "Sonraki bölüme geçilsin mi?"
+      },
+      {
+        "msgID": "SAVELOAD_L0054",
+        "msgStr": "Kaydediliyor... Gücü kapatmayın."
+      },
+      {
+        "msgID": "SAVELOAD_L0055",
+        "msgStr": "Yükleniyor... Gücü kapatmayın."
+      },
+      {
+        "msgID": "SAVELOAD_L0056",
+        "msgStr": "Kaydetme tamamlandı."
+      },
+      {
+        "msgID": "SAVELOAD_L0057",
+        "msgStr": "Yükleme tamamlandı."
+      },
+      {
+        "msgID": "SAVELOAD_L0058",
+        "msgStr": "Hızlı kayıt dosyası yüklensin mi?"
+      },
+      {
+        "msgID": "SAVELOAD_L0059",
+        "msgStr": "Otomatik kayıt dosyası yüklensin mi?"
+      },
+      {
+        "msgID": "SAVELOAD_L0060",
+        "msgStr": "Çaylak Dedektif"
+      },
+      {
+        "msgID": "SAVELOAD_L0061",
+        "msgStr": "Özel Dedektif"
+      },
+      {
+        "msgID": "SAVELOAD_L0062",
+        "msgStr": "Hakikat Arayıcısı"
+      },
+      {
+        "msgID": "SAVELOAD_L0063",
+        "msgStr": "Dedektif Efsanesi"
+      },
+      {
+        "msgID": "SAVELOAD_L0064",
+        "msgStr": "Yeni oyun dosyası"
+      },
+      {
+        "msgID": "SAVELOAD_L0065",
+        "msgStr": "Döngü"
+      },
+      {
+        "msgID": "SAVELOAD_L0066",
+        "msgStr": "<COLOR 1>\"Kuzunoha Köyü Eğitimleri\" indirilebilir içeriğine ait veri bulunamadı. Kayıt verisi yüklenemedi.<COLOR 0>"
+      },
+      {
+        "msgID": "SAVELOAD_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0069",
+        "msgStr": "<COLOR 1>\"Kuzunoha Köyü Eğitimleri\" indirilebilir içeriğine ait veri bulunamadı. Hızlı kayıt verisi yüklenemedi.<COLOR 0>"
+      },
+      {
+        "msgID": "SAVELOAD_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0072",
+        "msgStr": "<COLOR 1>\"Kuzunoha Köyü Eğitimleri\" indirilebilir içeriğine ait veri bulunamadı. Otomatik kayıt verisi yüklenemedi.<COLOR 0>"
+      },
+      {
+        "msgID": "SAVELOAD_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L1000",
+        "msgStr": "SV"
+      },
+      {
+        "msgID": "SAVELOAD_L1001",
+        "msgStr": "Tarih"
+      },
+      {
+        "msgID": "SAVELOAD_L1002",
+        "msgStr": "Zorluk"
+      },
+      {
+        "msgID": "SAVELOAD_L1003",
+        "msgStr": "Konum"
+      },
+      {
+        "msgID": "SAVELOAD_L1004",
+        "msgStr": "Oynama Süresi"
+      },
+      {
+        "msgID": "SAVELOAD_L2000",
+        "msgStr": "<COLOR 1>Yeterli boş disk alanı yok. Kaydedilemiyor.<COLOR 0>"
+      },
+      {
+        "msgID": "SAVELOAD_L0075",
+        "msgStr": "Hafiye"
+      },
+      {
+        "msgID": "SAVELOAD_L0076",
+        "msgStr": "> Dil ayarlarındaki değişiklik nedeniyle oyuncunun adı da değiştirilecektir. Önceki adınızla oynamak için dil ayarlarının eski haline getirilmesi gerekir."
+      },
+      {
+        "msgID": "SAVELOAD_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0079",
+        "msgStr": "Dünya Haritası: Başkent"
+      },
+      {
+        "msgID": "SAVELOAD_L0080",
+        "msgStr": "Dünya Haritası: Shinoda"
+      },
+      {
+        "msgID": "SAVELOAD_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "SAVELOAD_L0085",
+        "msgStr": "Tam oyuna ait kayıt verileri demoda yüklenemez."
+      }
+    ]
+  },
+  "_convDateTime": "2025/08/08 11:28:24"
+}

@@ -1,0 +1,1681 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "AI_MSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "AI_MSG_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_YOMIK_001_000",
+        "msgStr": "Kırmızı Özel Muhafız"
+      },
+      {
+        "msgID": "AI_MSG_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_YOMIK_002_001",
+        "msgStr": "Kırmızı Özel Muhafız"
+      },
+      {
+        "msgID": "AI_MSG_L0007",
+        "msgStr": "Sen... bir İblis Çağırıcısısın."
+      },
+      {
+        "msgID": "AI_MSG_L0008",
+        "msgStr": "Geri çekiliyoruz. Kızın peşine düşme."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_YOMIK_003_002",
+        "msgStr": "Kırmızı Özel Muhafız"
+      },
+      {
+        "msgID": "AI_MSG_L0009",
+        "msgStr": "Kız bizimdir."
+      },
+      {
+        "msgID": "AI_MSG_L0010",
+        "msgStr": "Engeller ortadan kaldırılacak."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_ITIMOK_001_003",
+        "msgStr": "Ichimokuren"
+      },
+      {
+        "msgID": "AI_MSG_L0011",
+        "msgStr": "bAyAğI İyİsİn... gÖzÜmÜ kIrPmAmAlIyDıIıIım!\n<mw 90>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_ITIMOK_002_004",
+        "msgStr": "Ichimokuren"
+      },
+      {
+        "msgID": "AI_MSG_L0012",
+        "msgStr": "bEn Ise'nİn tAnRıSıYıM, IchIMokUrEnNNNnnnNnnnN!"
+      },
+      {
+        "msgID": "AI_MSG_L0013",
+        "msgStr": "çIlGıN NumArAlArIn bEnİ kAnDıRaMaZ!"
+      },
+      {
+        "msgID": "AI_MSG_L0014",
+        "msgStr": "gÖzÜmÜ kApAtIrIm oLuR bİtEeEEeeer!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_ITIMOK_003_005",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0015",
+        "msgStr": "Ichimokuren'in gözü açıldı! Şimdi, Raidou!"
+      },
+      {
+        "msgID": "AI_MSG_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_AKAMA1_001_006",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "AI_MSG_L0018",
+        "msgStr": "Öf... Aaah... Aaaah!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_AKAMA1_002_007",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "AI_MSG_L0019",
+        "msgStr": "Gırrrr... Ahhh... Burnunu sokma...!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_AKAMA1_003_008",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "AI_MSG_L0020",
+        "msgStr": "Urrrgh! Sen kimsin...? Arabalar... Arabalaaaar!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_AKAMA2_001_009_01",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "AI_MSG_L0021_01",
+        "msgStr": "Bu devirde... tek başına Ruh Gücü... hiçbir şeyi değiştirmeye yetmiyor!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_AKAMA2_001_009",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "AI_MSG_L0021",
+        "msgStr": "Öf... urrrgh... Urgaaaah...! Çıkma... Yoluma çıkma!"
+      },
+      {
+        "msgID": "AI_MSG_L0022",
+        "msgStr": "Bu... bu benim suçum değil! Otomobiller! Hepsi otomobillerin suçu!"
+      },
+      {
+        "msgID": "AI_MSG_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_RASUPU_001_010",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "AI_MSG_L0024",
+        "msgStr": "Matryoshka'larım ve ben muhteşem bir gösteri sunacağız."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_RASUPU_002_011",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "AI_MSG_L0025",
+        "msgStr": "Hmm... Hiç fena değilsin."
+      },
+      {
+        "msgID": "AI_MSG_L0026",
+        "msgStr": "Taisho 20'nin Raidou Kuzunoha'sından da bu beklenirdi. El yükselttin, öyleyse ben de karşılık vereceğim!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_RASUPU_003_012",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "AI_MSG_L0027",
+        "msgStr": "Srazu molitsya, Raidou.... <COLOR 1>Azrailim<COLOR 0> <COLOR 3>bedeninin kontrolünü ele geçirecek<COLOR 0>..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_RASUPU_004_013",
+        "msgStr": "Rasputin"
+      },
+      {
+        "msgID": "AI_MSG_L0028",
+        "msgStr": "İ-İmkânsız! En gelişmiş Çağırıcı <IT_S>benim<IT_E>!"
+      },
+      {
+        "msgID": "AI_MSG_L0029",
+        "msgStr": "Taisho döneminden bir Çağırıcıya mı yenildim...? He... sap... la-la-na... mıyor... Aaaah!"
+      },
+      {
+        "msgID": "AI_MSG_L0030",
+        "msgStr": "Cızt... cızt... cızzzzzzzzt..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_014",
+        "msgStr": "Nagasunehiko ve Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA01_015",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "AI_MSG_L0032",
+        "msgStr": "Kahretsin, çok güçlü! Bu hiç iyi değil birader!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA02_016",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0033",
+        "msgStr": "Pekâlâ, o halde ona özel hamlemizi gösterelim kardeşim!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA03_017",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "AI_MSG_L0034",
+        "msgStr": "İşte buuuu! Kazanma vaktimiz geldi, değil mi birader!?"
+      },
+      {
+        "msgID": "AI_MSG_L0035",
+        "msgStr": "Duydun mu!? İşin bitti senin!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA04_018",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "AI_MSG_L0036",
+        "msgStr": "Ölümcül ikiz saldırı!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA05_019",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0037",
+        "msgStr": "Amatobi!\n<mw 90>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA06_020",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0038",
+        "msgStr": "Ngh... Çetin bir düşman. Özel hamlemizi tekrar yapalım kardeşim."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA07_021",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "AI_MSG_L0039",
+        "msgStr": "Ehhh... Sınırımı aştım birader. O hamle canıma okuyor resmen."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA08_022",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0040",
+        "msgStr": "Güçlü kal kardeşim. Unutma, bunun üstesinden gelmeliyiz."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA09_023",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "AI_MSG_L0041",
+        "msgStr": "Haklısın birader. Bir daha deneyeyim!"
+      },
+      {
+        "msgID": "AI_MSG_L0042",
+        "msgStr": "Ölümcül ikiz saldırı!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_001_TUIKA0A_024",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0043",
+        "msgStr": "Amatobi!\n<mw 90>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_002_025",
+        "msgStr": "Nagasunehiko ve Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_003_026",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "AI_MSG_L0045",
+        "msgStr": "Aaaaaah... K-Kardeşiiim! Biz... Yatagarasu'yu birlikte indirecektik hani..."
+      },
+      {
+        "msgID": "AI_MSG_L0046",
+        "msgStr": "Seni <IT_S>pislik<IT_E>! Bunun bedelini çok ağır ödeyeceksin. Hadi birader, bana gücünü ver!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_NAGA_004_027",
+        "msgStr": "Nagasunehiko"
+      },
+      {
+        "msgID": "AI_MSG_L0047",
+        "msgStr": "Ömür boyu süren davamızın önünde hiçbir şey duramaz."
+      },
+      {
+        "msgID": "AI_MSG_L0048",
+        "msgStr": "Git de bunun için kendi Amatsu liderlerini suçla. Şimdi ölmeye hazırlan!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_ABI_003_028",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0049",
+        "msgStr": "Demek kardeşimi yendin. Ne etkileyici bir güç."
+      },
+      {
+        "msgID": "AI_MSG_L0050",
+        "msgStr": "Fakat zafer umudun yok. Kardeşimin yayıyla seni hemen burada yere sereceğim!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_ABI_004_029",
+        "msgStr": "Abihiko"
+      },
+      {
+        "msgID": "AI_MSG_L0051",
+        "msgStr": "Boyun Eğmeyenler'in iradesine karşı çıkanlar derhâl yere serilecektir!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_MISHAK_001_030",
+        "msgStr": "Mishaguji"
+      },
+      {
+        "msgID": "AI_MSG_L0052",
+        "msgStr": "Suwa Denizi'nden yükselen çağrılarla buraya çağrıldım..."
+      },
+      {
+        "msgID": "AI_MSG_L0053",
+        "msgStr": "Yolumuza çıkmaya cüret eden her günahkârın üzerine lanet olsun."
+      },
+      {
+        "msgID": "AI_MSG_L0054",
+        "msgStr": "Hiçbir insan <COLOR 1>salgıma<COLOR 0> karşı koyamaz. O kadar uyarıcıdır ki <COLOR 3>seni olduğun yere mıhlar!<COLOR 0>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_MISHAK_002_031",
+        "msgStr": "Mishaguji"
+      },
+      {
+        "msgID": "AI_MSG_L0055",
+        "msgStr": "Düşündüğümden daha güçlüsün. Etkilendim doğrusu, Çağırıcı!"
+      },
+      {
+        "msgID": "AI_MSG_L0056",
+        "msgStr": "Öyleyse artık kendimi tutmayacağım. Seni büyüleyip içindeki savaşma azmini söküp alacağım!"
+      },
+      {
+        "msgID": "AI_MSG_L0057",
+        "msgStr": "Gizli sanat—Lanetli Yıldırım!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_MISHAK_003_032",
+        "msgStr": "Mishaguji"
+      },
+      {
+        "msgID": "AI_MSG_L0058",
+        "msgStr": "Bedenim toza dönüşse bile... Başkent'e... yıkım getireceğiz...\n<mw 180>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_016_001_033",
+        "msgStr": "Büyük Tarrasque"
+      },
+      {
+        "msgID": "AI_MSG_L0059",
+        "msgStr": "Birkaç bin yıldır hayattayım evlat. Taisho döneminden senin gibi bir yeniyetmeye yenilecek değilim!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_016_002_034",
+        "msgStr": "Büyük Tarrasque"
+      },
+      {
+        "msgID": "AI_MSG_L0060",
+        "msgStr": "P-Pes ediyorum. Görünüşe göre yeni bir çağın şafağı söküyor..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_OBORO_001_035",
+        "msgStr": "Oboroguruma"
+      },
+      {
+        "msgID": "AI_MSG_L0061",
+        "msgStr": "hEY HeY hEy, hIzImI aLdIm gElİyOrUm!!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_1C0_001_036",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_017_001_037",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "AI_MSG_L0064",
+        "msgStr": "Karnım gurulduyor! Diyor ki: \"Seni tek lokmada mideye indireceğim!\""
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_017_001_037_01",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "AI_MSG_L0064_01",
+        "msgStr": "Dur bir dakika, sen... acayip güçlüsün."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_017_001_037_02",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "AI_MSG_L0064_02",
+        "msgStr": "Yok artık. Sen ne biçim bir İblis Çağırıcısısın be!?"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_017_002_038",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "AI_MSG_L0065",
+        "msgStr": "Ş-Şimdi hatırladım... Sen Başkent'teki şu İblis Çağırıcısısın... Raidou Kuzunoha."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_017_002_038_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0065_01",
+        "msgStr": "> Raidou, Tsuchigumo'yu konuşturmaya çalıştı."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_017_002_038_012",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "AI_MSG_L0065_02",
+        "msgStr": "Ne? K-Kiminle çalıştığımı mı öğrenmek istiyorsun?"
+      },
+      {
+        "msgID": "AI_MSG_L0065_03",
+        "msgStr": "Bir İblis Çağırıcısıydı. Bana, \"Buradan geçen her veledi ortadan kaldır, da?\" gibi bir şey dedi."
+      },
+      {
+        "msgID": "AI_MSG_L0065_04",
+        "msgStr": "Başka hiçbir şey bilmiyorum, kahretsin!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_018_001_039",
+        "msgStr": "Gashadokuro"
+      },
+      {
+        "msgID": "AI_MSG_L0066",
+        "msgStr": "Tam burada, hemen şimdi öleceksin!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_018_002_040",
+        "msgStr": "Turdak"
+      },
+      {
+        "msgID": "AI_MSG_L0067",
+        "msgStr": "sEnİ sErSeRİ öĞrEnCİ! kEmİkLeRİnE bİr dErS vErEcEğİm!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_01F_001_041",
+        "msgStr": "Serseri"
+      },
+      {
+        "msgID": "AI_MSG_L0068",
+        "msgStr": "Hıh, ne yaptığını biliyorsun galiba."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_01F_002_042",
+        "msgStr": "Serseri"
+      },
+      {
+        "msgID": "AI_MSG_L0069",
+        "msgStr": "Vay canına! Ç-Çok güçlü..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_01F_003_043",
+        "msgStr": "Gangster"
+      },
+      {
+        "msgID": "AI_MSG_L0070",
+        "msgStr": "Seni serseri! Kafatasını ikiye yaracağım!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_01F_004_044",
+        "msgStr": "Gangster"
+      },
+      {
+        "msgID": "AI_MSG_L0071",
+        "msgStr": "Ben... Daha yıkılmadım!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_01C_001_045",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0072",
+        "msgStr": "Raidou, Ushigome-Gaeri Köprüsü'nün hesabını onlara ödetme vakti geldi!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_01C_002_046",
+        "msgStr": "Kırmızı Özel Muhafız"
+      },
+      {
+        "msgID": "AI_MSG_L0073",
+        "msgStr": "Kaçışa... müsamaha... gösteril... me... ye... cek..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_032_001_047",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "AI_MSG_L0074",
+        "msgStr": "Gücüm yalnızca bana ait değil."
+      },
+      {
+        "msgID": "AI_MSG_L0075",
+        "msgStr": "Kadim zamanlardan beri tüm Boyun Eğmeyenler'in birikmiş nefretinden doğuyor."
+      },
+      {
+        "msgID": "AI_MSG_L0076",
+        "msgStr": "Ondördüncü Raidou Kuzunoha! Bizi durdurma umudun yok!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_032_002_048",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "AI_MSG_L0077",
+        "msgStr": "Yenilmeyeceğim! <IT_S>Yenilemem<IT_E>!"
+      },
+      {
+        "msgID": "AI_MSG_L0078",
+        "msgStr": "Duy beni ey insanlığın nefretinden doğan <COLOR 1>Hiruko<COLOR 0>! İlerle ve düşmanımızı <COLOR 3>bağla<COLOR 0>!"
+      },
+      {
+        "msgID": "AI_MSG_L0079",
+        "msgStr": "<COLOR 0>Bedenindeki son nefesi bile söküp al!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_032_003_049",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "AI_MSG_L0080",
+        "msgStr": "Hngh...! Yenildim... ha?\n<mw 180>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_032_003_050",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "AI_MSG_L0080_01",
+        "msgStr": "Teşekkür ederim."
+      },
+      {
+        "msgID": "AI_MSG_L0080_02",
+        "msgStr": "Ülkemizi güvende tut."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_HITOK_001_050",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "AI_MSG_L0081",
+        "msgStr": "YaTagARAsU'nUn kÖpEğİ! şİmDİ kuNItSu tAnRıLaRıNıN nEfReTİnİ tAdAcAkSıIıIın!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_HITOK_002_051",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "AI_MSG_L0082",
+        "msgStr": "bİr kUşUn bEdEnİnE bÜrÜnEcEğİm! kEsKİn pEnÇeLeRİm sEnİ İkİyE bÖlEcEk!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_HITOK_003_052",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "AI_MSG_L0083",
+        "msgStr": "hA...? şİmDİ dE bİr cAnAvArIn bEdEnİnDe mİyİm? bU kEsKİn dİşLeR sEnİ pArÇalAyAcAk!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_HITOK_004_053",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "AI_MSG_L0084",
+        "msgStr": "urrRRgH... şİmDİ çOk kÜçÜlDüM... bİrAz fAzLa kAçIrDıM..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_HITOK_005_054",
+        "msgStr": "Hitokotonushi"
+      },
+      {
+        "msgID": "AI_MSG_L0085",
+        "msgStr": "bU, 1.200 yIl öNcE o çAğIrIcIyA yEnİlDİğİmDeN bİlE dAhA kÖtÜüÜüÜ!\n<mw 180>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_033_001_055",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0086",
+        "msgStr": "Çekirdek bir tür ışıkla çevrili."
+      },
+      {
+        "msgID": "AI_MSG_L0087",
+        "msgStr": "Saldırılarımız işlemiyor mu? O halde saldırımızı başka bir yere yönlendirmeliyiz..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_033_002_056",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0088",
+        "msgStr": "Harika iş! Kalkanlar indi!"
+      },
+      {
+        "msgID": "AI_MSG_L0089",
+        "msgStr": "İşte çekirdeği yok etmek için fırsatımız!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_033_003_057",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0090",
+        "msgStr": "Başardın! Bu, Ruhsuz Tanrı'yı durduracaktır!\n<mw 180>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_027_001_058",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "AI_MSG_L0091",
+        "msgStr": "İ-İş... İşeeee ihtiyacım var!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_027_002_059",
+        "msgStr": "Kırmızı Pelerin"
+      },
+      {
+        "msgID": "AI_MSG_L0092",
+        "msgStr": "P-Para! Param olduğu sürece her şey yoluna girecek!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_02D_001_060",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "AI_MSG_L0093",
+        "msgStr": "Ben bizzat ölümün kendisine hükmederim. Kılıcın bana zarar veremez!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_02D_002_061",
+        "msgStr": "Nebiros"
+      },
+      {
+        "msgID": "AI_MSG_L0094",
+        "msgStr": "Sıradan bir insan... Süper Asker Projesi'ni... durduramaz..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_024_001_062",
+        "msgStr": "Omitsunu"
+      },
+      {
+        "msgID": "AI_MSG_L0095",
+        "msgStr": "Bu sorduğun \"Süper Asker ordusu\" da neyin nesi?"
+      },
+      {
+        "msgID": "AI_MSG_L0095_01",
+        "msgStr": "Böylesine tehlikeli bir grubun varlığı kulağıma hiç çalınmadı."
+      },
+      {
+        "msgID": "AI_MSG_L0095_02",
+        "msgStr": "Raido Kuzunoha'nın icraatları sayesinde Başkent huzur içinde. Tek bir Aril Yarığı bile görünmüyor."
+      },
+      {
+        "msgID": "AI_MSG_L0095_03",
+        "msgStr": "Raido'nun yüzündeki yara izi süs olsun diye durmuyor."
+      },
+      {
+        "msgID": "AI_MSG_L0095_04",
+        "msgStr": "Öyleyse artık buna bir son verme vakti geldi. Bana kudretini göster!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_024_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0095_05",
+        "msgStr": "> Raidou, Omitsunu'ya saygılarını sundu ve ardından dövüşmeye hazırlandı."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_024_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0095_06",
+        "msgStr": "> Raidou, Omitsunu'ya mevcut zaman çizgisini sordu."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_024_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0095_07",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0095_08",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_026_001_063",
+        "msgStr": "Yamata-no-Orochi"
+      },
+      {
+        "msgID": "AI_MSG_L0096",
+        "msgStr": "SU PRİZMASINI SANA TESLİM ETMEYECEĞİM, ACİZ İNSAN!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_02F_001_064",
+        "msgStr": "Susano-o"
+      },
+      {
+        "msgID": "AI_MSG_L0097",
+        "msgStr": "Heh, bayağı ilginç birisin, biliyorsun değil mi? Seni sevdim."
+      },
+      {
+        "msgID": "AI_MSG_L0097_01",
+        "msgStr": "...Ne, Rasputin mi? Bir çeşit makine insan mıymış?"
+      },
+      {
+        "msgID": "AI_MSG_L0097_02",
+        "msgStr": "Yok, adını hiç duymadım. Ama konu makineler olunca..."
+      },
+      {
+        "msgID": "AI_MSG_L0097_03",
+        "msgStr": "Uzak gelecekten gelip bu dünyayı karıştıran birini <IT_S>duymuştum<IT_E>."
+      },
+      {
+        "msgID": "AI_MSG_L0097_04",
+        "msgStr": "Sanırım o da bir Raidou Kuzunoha'ydı. Gelecek bir nesilden tabii."
+      },
+      {
+        "msgID": "AI_MSG_L0097_05",
+        "msgStr": "Raido ve o lanet Yatagarasu bunun olmasını engellemek için çırpınıp duruyordu."
+      },
+      {
+        "msgID": "AI_MSG_L0097_06",
+        "msgStr": "Ee, dövüşmeye hazır mısın bakalım? Hadi başlayalım."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_02F_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0097_07",
+        "msgStr": "> Raidou, Susano-o'ya saygılarını sundu ve ardından dövüşmeye hazırlandı."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_02F_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0097_08",
+        "msgStr": "> Raidou, Susano-o'ya mevcut zaman çizgisini sordu."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_02F_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0097_09",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0097_10",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_HYAKKI_001_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0098",
+        "msgStr": "> Yüz İblis Sınavı başladı! Bir iblis sürüsü saldırıyor!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_0C7_001_066",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "AI_MSG_L0099",
+        "msgStr": "Görebiliyorum... Alevler içinde kalmış Başkent'i..."
+      },
+      {
+        "msgID": "AI_MSG_L0100",
+        "msgStr": "Dehşet içinde kaçışan vatandaşları... Şehri kasıp kavuran bir canavarı..."
+      },
+      {
+        "msgID": "AI_MSG_L0101",
+        "msgStr": "Bu senin kaçınılmaz kaderin... Kaçış imkânsız. Kendini hazırla."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_0C7_002_067",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "AI_MSG_L0102",
+        "msgStr": "Görebiliyorum..."
+      },
+      {
+        "msgID": "AI_MSG_L0103",
+        "msgStr": "Felaketin alevlerinden yeni bir Başkent doğacak..."
+      },
+      {
+        "msgID": "AI_MSG_L0104",
+        "msgStr": "İnsanların boyun eğmez yürekleri yeni bir kader çizecek."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_1ED_001_068",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "AI_MSG_L0105",
+        "msgStr": "<COLOR 3>Yüz İblis Sınavı<COLOR 0>—İblis Lordu'na meydan okuyacak olanlar için zorlu bir imtihan..."
+      },
+      {
+        "msgID": "AI_MSG_L0106",
+        "msgStr": "<COLOR 3>Sekiz panelin etrafında yürü<COLOR 0>, belki şans eseri ona rastlarsın..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_1EE_001_069",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "AI_MSG_L0107",
+        "msgStr": "<COLOR 3>Yüz İblis Sınavı<COLOR 0>—İblis Lordu'na meydan okuyacak olanlar için zorlu bir imtihan..."
+      },
+      {
+        "msgID": "AI_MSG_L0108",
+        "msgStr": "<COLOR 3>Yukarıdaki ışık gizlendiğinde güneybatıda<COLOR 0>, belki şans eseri ona rastlarsın..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_1EF_001_070",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "AI_MSG_L0109",
+        "msgStr": "<COLOR 3>Yüz İblis Sınavı<COLOR 0>—İblis Lordu'na meydan okuyacak olanlar için zorlu bir imtihan..."
+      },
+      {
+        "msgID": "AI_MSG_L0110",
+        "msgStr": "Onu <COLOR 3>yukarıdaki ışık kusursuz bir daire oluşturduğunda, kuzeydoğuda<COLOR 0> deneyimleyebilirsin..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_1F0_001_071",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "AI_MSG_L0111",
+        "msgStr": "<COLOR 1>Hayalet Kafatası<COLOR 0>, İblis Lordu'na meydan okuyanlara cesaret bahşedecek."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_1F0_002_072",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "AI_MSG_L0112",
+        "msgStr": "<COLOR 1>Tiran Dölü<COLOR 0>, İblis Lordu'na meydan okurken kişinin yere sağlam basmasını sağlayacak."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_1F0_003_073",
+        "msgStr": "Kudan"
+      },
+      {
+        "msgID": "AI_MSG_L0113",
+        "msgStr": "<COLOR 1>Cehennem Amblemi<COLOR 0>, İblis Lordu'na meydan okuma yolunu açacak."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_028_001_074_01",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0114_04",
+        "msgStr": "> Raidou, Chernobog'u konuşturmaya çalıştı."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_028_001_074",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "AI_MSG_L0114_05",
+        "msgStr": "Hm? Ne dedin? \"Projemiz\" hakkında daha fazla şey mi öğrenmek istiyorsun?"
+      },
+      {
+        "msgID": "AI_MSG_L0114",
+        "msgStr": "Hohoho, korkarım o konuda konuşamam ama sana en az onun kadar ilgi çekici bir şey anlatacağım."
+      },
+      {
+        "msgID": "AI_MSG_L0114_01",
+        "msgStr": "Başkent'in Karanlık Diyarı'ndaki zombileri gördün, değil mi?"
+      },
+      {
+        "msgID": "AI_MSG_L0114_02",
+        "msgStr": "Bir Hiruko insan bedenini terk ettiğinde geriye işte o kalır."
+      },
+      {
+        "msgID": "AI_MSG_L0114_03",
+        "msgStr": "Amaçsızca dolaşmaktan başka hiçbir gayesi olmayan yaşayan cesetler... Acınası. Gerçekten çok acınası, değil mi?"
+      },
+      {
+        "msgID": "AI_MSG_L0115",
+        "msgStr": "Öyleyse onlara arkadaşlık etmen için seni doğrudan Cehennem'e göndereceğim!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_028_002_075",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "AI_MSG_L0116",
+        "msgStr": "Gizli tekniğime karşı hiç şansın yok evlat!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_028_003_076",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "AI_MSG_L0117",
+        "msgStr": "Daha işim bitmedi evlat! Bu sefer üç kişiyiz..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_028_004_077",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "AI_MSG_L0118",
+        "msgStr": "Cehennem seni tek lokmada yutana dek tekmelemeye devam edeceğim!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_028_005_078",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "AI_MSG_L0119",
+        "msgStr": "Fena değil, Çağırıcı... Ama artık eldivenleri çıkarıyoruz!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_028_006_079",
+        "msgStr": "Chernobog"
+      },
+      {
+        "msgID": "AI_MSG_L0120",
+        "msgStr": "Cehennem <IT_S>beni<IT_E> mi alıyor...? Efendi Rasputin...!\n<mw 180>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03A_001_080",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0121",
+        "msgStr": "<lips 27 6>"
+      },
+      {
+        "msgID": "AI_MSG_L0122",
+        "msgStr": "Bugünü yok etmek için geçmişin değiştirilmesi gerekir.\n<lips_stop>"
+      },
+      {
+        "msgID": "AI_MSG_L0123",
+        "msgStr": "<lips 27 6>"
+      },
+      {
+        "msgID": "AI_MSG_L0124",
+        "msgStr": "Dolayısıyla geçmişteki insanların kurban edilmesi son derece doğaldır.\n<lips_stop>"
+      },
+      {
+        "msgID": "AI_MSG_L0124_01",
+        "msgStr": "<lips 27 6>"
+      },
+      {
+        "msgID": "AI_MSG_L0124_02",
+        "msgStr": "Geleceğin bu hâlde olması senin suçun!\n<lips_stop>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03A_002_081",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0125",
+        "msgStr": "> Raidou, Raidou XL'e davayı sordu."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03A_002_081_01",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0126",
+        "msgStr": "Heh... Kendi başına düşünüp soruşturma yürütüyorsun, öyle mi? Köyde ben de böyle öğrenmiştim."
+      },
+      {
+        "msgID": "AI_MSG_L0126_01",
+        "msgStr": "Kim olursa olsun ya da ne zaman olursa olsun, soru sorma fırsatını hiç kaçırmıyorsun, Ondördüncü."
+      },
+      {
+        "msgID": "AI_MSG_L0126_02",
+        "msgStr": "Savaşımızın ortasında bile özünden ödün vermiyorsun. Onur duydum. Öyleyse sana istediğini anlatacağım."
+      },
+      {
+        "msgID": "AI_MSG_L0126_03",
+        "msgStr": "Geçmişi değiştirmek için özel bir teknik kullanarak anılarımı tüm zamanlardaki her Daidouji ailesi kızına aktardım."
+      },
+      {
+        "msgID": "AI_MSG_L0126_04",
+        "msgStr": "Tarihi Taisho 20'ye kadar rayından çıkmaya işte böyle zorladım."
+      },
+      {
+        "msgID": "AI_MSG_L0126_05",
+        "msgStr": "Ancak işin aslı, anı aktarımı henüz tamamlanmadı. Taisho'nun ötesindeki zaman dilimleri hâlâ etkilenmiş değil."
+      },
+      {
+        "msgID": "AI_MSG_L0126_06",
+        "msgStr": "Bu yüzden burada durma lüksüm yok, Ondördüncü."
+      },
+      {
+        "msgID": "AI_MSG_L0126_07",
+        "msgStr": "Benimle emellerimin arasına giremeyeceksin!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03A_003_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0127",
+        "msgStr": "> Raidou, Raidou XL'e davayı sordu."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03A_003_082_01",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0128",
+        "msgStr": "Evet, Sukuna-Hikona benim müttefikim. Onu Taisho 20'ye gönderen bendim."
+      },
+      {
+        "msgID": "AI_MSG_L0128_01",
+        "msgStr": "Anı aktarımını tamamlamak için ona Munakata'yı ele geçirme, Süper Asker Projesi'ni başlatma ve Kaya'yı kaçırma görevlerini verdim."
+      },
+      {
+        "msgID": "AI_MSG_L0128_02",
+        "msgStr": "Bizim zamanımızda iblisler makinelerle kontrol ediliyor. Geçmişin yöntemleriyle pek kıyaslanamaz."
+      },
+      {
+        "msgID": "AI_MSG_L0128_03",
+        "msgStr": "Yine de çağırma yeteneklerim oldukça etkileyici, sence de öyle değil mi?"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03A_004_083",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0129",
+        "msgStr": "<lips 27 6>"
+      },
+      {
+        "msgID": "AI_MSG_L0130",
+        "msgStr": "...Sanırım genç bir kızın bedeninin de sınırları var.\n<lips_stop>"
+      },
+      {
+        "msgID": "AI_MSG_L0131",
+        "msgStr": "<lips 27 6>"
+      },
+      {
+        "msgID": "AI_MSG_L0132",
+        "msgStr": "Artık kendimi tutmayacağım, Ondördüncü. Bu insan bedenini bırakıp mutlak gücü kucaklayacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03B_001_084",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0133",
+        "msgStr": "Ben Raidou Kuzunoha soyunun kırkıncısıyım. Sana da çok fazla halef geçmiş gibi gelmiyor mu?"
+      },
+      {
+        "msgID": "AI_MSG_L0133_01",
+        "msgStr": "Benim çağımda Raidou Kuzunoha olmak bir kahraman olmak değil, bir kurban olmaktır."
+      },
+      {
+        "msgID": "AI_MSG_L0133_02",
+        "msgStr": "Bu unvanı devraldıktan sonra bir yıl hayatta kalabilirsek şanslıyız. Bazıları birkaç günden fazla dayanamaz."
+      },
+      {
+        "msgID": "AI_MSG_L0133_03",
+        "msgStr": "Yatagarasu çoktan dağıldığı için Kuzunoha'lar basit birer askerî piyondan başka bir şey değil!"
+      },
+      {
+        "msgID": "AI_MSG_L0133_04",
+        "msgStr": "Bize \"yabancı\" diyorlar ve asi muhalifleri bastırmak için bizi ön saflara sürüyorlar."
+      },
+      {
+        "msgID": "AI_MSG_L0133_05",
+        "msgStr": "Bizim için bir gelecek yok! Yarın yok!"
+      },
+      {
+        "msgID": "AI_MSG_L0133_06",
+        "msgStr": "Hadi gidelim, Yasomagatsu! Kullanılıp çöp gibi bir kenara atılmaktan bıktım artık!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_001_085",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0134",
+        "msgStr": "Ülkeni koruduğunu mu söylüyorsun, Ondördüncü? Yurdunu önemsediğini mi söylüyorsun?"
+      },
+      {
+        "msgID": "AI_MSG_L0135",
+        "msgStr": "Hah! Senin ve Munakata'nın gibiler yalnızca kendi örgütleriniz tarafından kullanılıyorsunuz!"
+      },
+      {
+        "msgID": "AI_MSG_L0135_01",
+        "msgStr": "Senin gibi aciz bir ayakçı, yoluma çıkmaması gerektiğini bilmeli!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_001_085_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0135_02",
+        "msgStr": "Yanılıyorsun, Kırkıncı."
+      },
+      {
+        "msgID": "AI_MSG_L0135_03",
+        "msgStr": "Ülkeyi korumak, hükümeti ya da gelenekleri savunmak demek değildir. Halkı savunmak demektir."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_001_085_02",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "AI_MSG_L0135_04",
+        "msgStr": "Kesinlikle. Kimin acı çektiği önemli değildir; önemli olan, kişisel ilkelerimiz ne olursa olsun onları kurtarmamızdır."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_001_085_03",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0135_05",
+        "msgStr": "Tarihi halk yazar. Biz sadece gölgelerden onlara destek oluruz."
+      },
+      {
+        "msgID": "AI_MSG_L0135_06",
+        "msgStr": "Raidou Kuzunoha'nın gerçek gayesi—gerçek Ruh Gücü—işte budur."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_001_085_04",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "AI_MSG_L0135_07",
+        "msgStr": "Görünüşe göre nihayet bir konuda hemfikiriz."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_001_085_05",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0135_08",
+        "msgStr": "Ondördüncü Raidou, halkı senin habis pençelerinden kurtaracak. Ne eksik ne fazla."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_001_085_06",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "AI_MSG_L0135_09",
+        "msgStr": "Endişelenme, Kırkıncı. Buradaki selefin seni kendi umutsuzluğundan da kurtaracak."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_002_086",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0136",
+        "msgStr": "Bu olamaz... Kaybedecek miyim? Hayır... Hayır!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_003_087",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0137",
+        "msgStr": "Bir keresinde bir iblis bana şöyle demişti..."
+      },
+      {
+        "msgID": "AI_MSG_L0138",
+        "msgStr": "\"Bu insanlar... korunmayı hak etmiyor.\""
+      },
+      {
+        "msgID": "AI_MSG_L0138_01",
+        "msgStr": "Benim gücüm... Asla halka hizmet etmek için var olmadı!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_004_088",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0139",
+        "msgStr": "Çok güçlüsün... Yapamıyorum...! Bir gayeye sahip olmak... böyle bir şey mi!?"
+      },
+      {
+        "msgID": "AI_MSG_L0140",
+        "msgStr": "Hayır... Geri dönmek istemiyorum... O acınası dünyaya dönmem!"
+      },
+      {
+        "msgID": "AI_MSG_L0141",
+        "msgStr": "Gerçekten... istediğin bu mu...? Eğer bir şey yapmazsan... geleceğin mahvolacak..."
+      },
+      {
+        "msgID": "AI_MSG_L0141_01",
+        "msgStr": "Benim görevim halkı korumak."
+      },
+      {
+        "msgID": "AI_MSG_L0141_02",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "AI_MSG_L0141_03",
+        "msgStr": "Geleceği bana bırak."
+      },
+      {
+        "msgID": "AI_MSG_L0141_04",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_01",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "AI_MSG_L0180",
+        "msgStr": "Benim görevim halkı korumak."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_02",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0142",
+        "msgStr": "Ne—"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_03",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0181",
+        "msgStr": "Geçmişi değiştirmeye çalışmış olabilirsin, Kırkıncı..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_04",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "AI_MSG_L0182",
+        "msgStr": "Fakat Ondördüncü Raidou Kuzunoha buradayken, gelecek ne getirirse getirsin..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_05",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "AI_MSG_L0183",
+        "msgStr": "Başarısız olmayacağım."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_06",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0184",
+        "msgStr": "...Hıh!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_07",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0185",
+        "msgStr": "Bu... senin Ruh Gücünün kudreti mi yani? Kaderini... kabullenme kararlılığı mı!?"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_08",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "AI_MSG_L0186",
+        "msgStr": "Geleceği bana bırak."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_09",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0187",
+        "msgStr": "Ne—"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_10",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0188",
+        "msgStr": "Geçmişi değiştirmeye çalışmış olabilirsin, Kırkıncı..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_11",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "AI_MSG_L0189",
+        "msgStr": "Fakat Ondördüncü Raidou Kuzunoha söz konusu olduğunda..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_12",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "AI_MSG_L0190",
+        "msgStr": "Gelecek benim ellerimde."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_13",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0191",
+        "msgStr": "...Hıh!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_14",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0192",
+        "msgStr": "Bu... senin Ruh Gücünün kudreti mi yani? Kaderin içinden... kendi yolunu açmak mı!?"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_15",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0193",
+        "msgStr": "Raidou adını yaşatmak işte bu demektir."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_ADD_01_16",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0194",
+        "msgStr": "Heh... Seni neyin beklediğini biliyorum, Ondördüncü..."
+      },
+      {
+        "msgID": "AI_MSG_L0195",
+        "msgStr": "Yakında... sen, Raidou Kuzunoha... pek çok engelle yüz yüze geleceksin..."
+      },
+      {
+        "msgID": "AI_MSG_L0196",
+        "msgStr": "Büyük bir hadise... Bir rakiple çarpışma... Bir ihanet..."
+      },
+      {
+        "msgID": "AI_MSG_L0197",
+        "msgStr": "Tarihi değiştirmeyi... başaramadığını bilerek... umutsuzluğa düşesin!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_03C_005_089",
+        "msgStr": "Raidou XL"
+      },
+      {
+        "msgID": "AI_MSG_L0143",
+        "msgStr": "Ngh!? Bunun anlamı ne!?"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_00_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_01",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "AI_MSG_L0148",
+        "msgStr": "Urrrgh... Seni velet! 99 insanın etini mideye indirdim ben!"
+      },
+      {
+        "msgID": "AI_MSG_L0149",
+        "msgStr": "Eh, öyleyse oyun vakti bitti sanırım!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_02",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "AI_MSG_L0150",
+        "msgStr": "Okiku-Mushi bariyeri kırdı! Kontrolden çıktı!"
+      },
+      {
+        "msgID": "AI_MSG_L0151",
+        "msgStr": "Çık oradan, <NAME 0>! Öleceksin! Bu artık basit bir sınav olmaktan çıktı!"
+      },
+      {
+        "msgID": "AI_MSG_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_03",
+        "msgStr": "Kraliçe Okiku-Mushi"
+      },
+      {
+        "msgID": "AI_MSG_L0153",
+        "msgStr": "Kes sesini! Kimse kaçamaz! Tüm Kuzunoha klanı ölecek!"
+      },
+      {
+        "msgID": "AI_MSG_L0154",
+        "msgStr": "Hatta neden bu köyün tamamını mideye indirmiyorum ki!?"
+      },
+      {
+        "msgID": "AI_MSG_L0155",
+        "msgStr": "Ve sonunda özgür olacağım... Ahh, bunu düşündükçe bile Ruh Gücüm şahlanıyor!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_04",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_05",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "AI_MSG_L0157",
+        "msgStr": "Şu anda Ruh Gücü şahlanan tek iblis sen değilsin!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_06",
+        "msgStr": "Alp"
+      },
+      {
+        "msgID": "AI_MSG_L0158",
+        "msgStr": "Yine karşılaştık, insan!"
+      },
+      {
+        "msgID": "AI_MSG_L0159",
+        "msgStr": "MAG'ında tuhaf bir şey sezdim... Bahse girerim aynı anda iki iblis çağırabilirsin!"
+      },
+      {
+        "msgID": "AI_MSG_L0160",
+        "msgStr": "Ben de sana katılacağım. Hatta hayır cevabını kabul etmiyorum!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_07",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0161",
+        "msgStr": "> <NAME 0> artık savaşta iki iblise birden emir verebilir!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_08",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "AI_MSG_L0162",
+        "msgStr": "Köy, aynı anda iki iblise birden hükmeden bir Çağırıcıya tanık olmayalı asırlar olmuştu..."
+      },
+      {
+        "msgID": "AI_MSG_L0163",
+        "msgStr": "Gerçekten de son derece korkutucu bir adaysın."
+      },
+      {
+        "msgID": "AI_MSG_L0164",
+        "msgStr": "Öyleyse bu işi sana bırakıyoruz, <NAME 0>."
+      },
+      {
+        "msgID": "AI_MSG_L0165",
+        "msgStr": "Köyün tam desteği arkanda."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_14",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0165_01",
+        "msgStr": "> Sınav için özel bir tedbir olarak köy, iblislerini diriltti."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_09",
+        "msgStr": "Köy Muhtarı"
+      },
+      {
+        "msgID": "AI_MSG_L0166",
+        "msgStr": "Ukobach'ı köyde dirilteceğiz. Bize çağırma yeteneklerini göster!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_10",
+        "msgStr": "Ukobach"
+      },
+      {
+        "msgID": "AI_MSG_L0167",
+        "msgStr": "Hey, beni unutma Alp! Bütün eğlenceyi sana bırakacak değilim!"
+      },
+      {
+        "msgID": "AI_MSG_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_11",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_12",
+        "msgStr": "Kraliçe Okiku-Mushi"
+      },
+      {
+        "msgID": "AI_MSG_L0170",
+        "msgStr": "İki mi? A-Aynı anda mı!?"
+      },
+      {
+        "msgID": "AI_MSG_L0171",
+        "msgStr": "Bu... ilginç... Ama yenilmeyeceğim! Sizi haşere gibi ezeceğim!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_06_13",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_07_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "AI_MSG_L0173",
+        "msgStr": "Pekâlâ, Raidou."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_TUTORIAL_07_02",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "AI_MSG_L0174",
+        "msgStr": "Hazır mısın?"
+      },
+      {
+        "msgID": "AI_MSG_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_OBA_001_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0176",
+        "msgStr": "> Raidou, bir İblis Çağırıcısı olarak gelişiminde bir adım daha attı ve kılıcından <RAI_04><COLOR 1>Buz İşareti<COLOR 0> Savaş Yeteneğini çıkardı."
+      },
+      {
+        "msgID": "AI_MSG_L0177",
+        "msgStr": "> Görünüşe göre bu kılıcın içinde henüz keşfedilmemiş bir güç daha var..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_ITIMOK_004_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "AI_MSG_L0178",
+        "msgStr": "> Raidou, bir İblis Çağırıcısı olarak gelişiminde bir adım daha attı ve kılıcından <RAI_05><COLOR 1>Elektrik İşareti<COLOR 0> Savaş Yeteneğini çıkardı."
+      },
+      {
+        "msgID": "AI_MSG_L0179",
+        "msgStr": "> Görünüşe göre bu kılıcın içinde henüz keşfedilmemiş bir güç daha var..."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_032_004_050",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "AI_MSG_L0198",
+        "msgStr": "Urrrgh... Bu da ne...? Hareket edemiyorum...!"
+      },
+      {
+        "msgID": "AI_MSG_L0199",
+        "msgStr": "Bu senin işin mi... Munakata...? Lanet olsun sana...!"
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_032_004_051",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "AI_MSG_L0200",
+        "msgStr": "Git—şimdi tam sırası."
+      },
+      {
+        "msgID": "ai_msg_BTLAI_MES_032_005_052",
+        "msgStr": "Sukuna-Hikona"
+      },
+      {
+        "msgID": "AI_MSG_L0201",
+        "msgStr": "Bu sadece bir aldatmacaydı! Kandın mı yoksa?"
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/04 17:04:11"
+}

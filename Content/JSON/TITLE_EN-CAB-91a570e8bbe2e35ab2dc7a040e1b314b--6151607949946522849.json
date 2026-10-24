@@ -1,0 +1,213 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "TITLE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "TITLE_L0000",
+        "msgStr": "HERHANGİ BİR TUŞA BASIN"
+      },
+      {
+        "msgID": "TITLE_L0001",
+        "msgStr": "©ATLUS. ©SEGA."
+      },
+      {
+        "msgID": "TITLE_L0002",
+        "msgStr": "Sür. 1.0.0"
+      },
+      {
+        "msgID": "TITLE_L0003",
+        "msgStr": "Oyunu Yükle"
+      },
+      {
+        "msgID": "TITLE_L0004",
+        "msgStr": "Yeni Oyun"
+      },
+      {
+        "msgID": "TITLE_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0006",
+        "msgStr": "Oyun Ayarları"
+      },
+      {
+        "msgID": "TITLE_L0007",
+        "msgStr": "İndirilebilir İçerik"
+      },
+      {
+        "msgID": "TITLE_L0008",
+        "msgStr": "Lisans Sözleşmesi"
+      },
+      {
+        "msgID": "TITLE_L0009",
+        "msgStr": "Jenerik"
+      },
+      {
+        "msgID": "TITLE_L0010",
+        "msgStr": "Çıkış"
+      },
+      {
+        "msgID": "TITLE_L0011",
+        "msgStr": "Çaylak Dedektif"
+      },
+      {
+        "msgID": "TITLE_L0012",
+        "msgStr": "Özel Dedektif"
+      },
+      {
+        "msgID": "TITLE_L0013",
+        "msgStr": "Hakikat Arayıcısı"
+      },
+      {
+        "msgID": "TITLE_L0014",
+        "msgStr": "Dedektif Efsanesi"
+      },
+      {
+        "msgID": "TITLE_L0015",
+        "msgStr": "Bir kayıt veya hızlı kayıt dosyasından devam edin."
+      },
+      {
+        "msgID": "TITLE_L0016",
+        "msgStr": "Baştan yeni bir oyuna başlayın."
+      },
+      {
+        "msgID": "TITLE_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0018",
+        "msgStr": "Çeşitli ayarları düzenle."
+      },
+      {
+        "msgID": "TITLE_L0019",
+        "msgStr": "İnternete bağlanın ve indirilebilir içerikleri kontrol edin."
+      },
+      {
+        "msgID": "TITLE_L0020",
+        "msgStr": "Lisans sözleşmesini görüntüleyin."
+      },
+      {
+        "msgID": "TITLE_L0021",
+        "msgStr": "Jeneriği görüntüleyin."
+      },
+      {
+        "msgID": "TITLE_L0022",
+        "msgStr": "Oyundan çık."
+      },
+      {
+        "msgID": "TITLE_L0023",
+        "msgStr": "Rahat bir zorluk seviyesi. Ruh Gücünün rehberliğinde tutkunun peşinden git. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "TITLE_L0024",
+        "msgStr": "Standart bir zorluk seviyesi. Güçlü Ruh Gücünün soruşturmana rehberlik etmesine izin ver. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "TITLE_L0025",
+        "msgStr": "Zorluklarla dolu bir seviye. Sarsılmaz bir şekilde hakikatin peşinden git ve Ruh Gücünle hayatta kal. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "TITLE_L0026",
+        "msgStr": "Geleceğin efsanelerine ayrılmış en yüksek zorluk seviyesi. Ruh Gücün en parlak haliyle yanmalı. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "TITLE_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0028",
+        "msgStr": "Hafiye"
+      },
+      {
+        "msgID": "TITLE_L0029",
+        "msgStr": "Sizin ve müttefiklerinizin ölemeyeceği sıra dışı bir zorluk seviyesi. Boyun eğmez Ruh Gücünüzle tüm zorlukların üstesinden gelin. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "TITLE_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0034",
+        "msgStr": "Bu oyunda yanıp sönen ekranlar ve parlak efektler yer almaktadır.\n\nÇok nadir durumlarda bazı kişiler güçlü ışık uyaranlarını, yanıp sönen\nışıkları veya TV ekranını izlerken geçici kas krampları, bilinç\nkaybı veya başka belirtiler yaşayabilir.\n\nGeçmişte bu belirtilerden herhangi birini yaşadıysanız lütfen bu oyunu\noynamadan önce mutlaka doktorunuza danışın. Ayrıca oynarken bu belirtilerden\nherhangi birini yaşarsanız oyunu derhal bırakın ve tıbbi yardım alın."
+      },
+      {
+        "msgID": "TITLE_L0035",
+        "msgStr": "Nelerin aktarılacağını seçin."
+      },
+      {
+        "msgID": "TITLE_L0036",
+        "msgStr": "Bütünlük"
+      },
+      {
+        "msgID": "TITLE_L0037",
+        "msgStr": "Lüksler"
+      },
+      {
+        "msgID": "TITLE_L0038",
+        "msgStr": "Temeller"
+      },
+      {
+        "msgID": "TITLE_L0039",
+        "msgStr": "Raidou'nun seviyesi, nitelikleri, parası, İblis Rehberi ve birikmiş Sadakati aktarılacaktır. Bazı istisnalar dışında Çağırıcı Yetenekleri, Kılıç Simyası ile dövülmüş kılıçlar ve eşyalar da aktarılacaktır."
+      },
+      {
+        "msgID": "TITLE_L0040",
+        "msgStr": "Raidou'nun parası, İblis Rehberi ve birikmiş Sadakati aktarılacaktır. Bazı istisnalar dışında Çağırıcı Yetenekleri, Kılıç Simyası ile dövülmüş kılıçlar ve eşyalar da aktarılacaktır."
+      },
+      {
+        "msgID": "TITLE_L0041",
+        "msgStr": "Raidou'nun İblis Rehberi ve birikmiş Sadakati aktarılacaktır."
+      },
+      {
+        "msgID": "TITLE_L0042",
+        "msgStr": "Mevcut zorluk: <V0>"
+      },
+      {
+        "msgID": "TITLE_L0043",
+        "msgStr": "Tam Oyunu Satın Al"
+      },
+      {
+        "msgID": "TITLE_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0045",
+        "msgStr": "Steam Mağazası'nda tam oyunun sayfasını açın."
+      },
+      {
+        "msgID": "TITLE_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TITLE_L0047",
+        "msgStr": "Demo Hakkında"
+      },
+      {
+        "msgID": "TITLE_L0048",
+        "msgStr": "RAIDOU Remastered: The Mystery of the Soulless Army demosunu denediğiniz için teşekkür ederiz.\n\nBu demoda <COLOR 1>hikâyenin başlangıcını<COLOR 0> deneyimleyebileceksiniz.\n\nDemodaki kayıt verileri <COLOR 1>tam oyuna aktarılabilir<COLOR 0>."
+      }
+    ]
+  },
+  "_convDateTime": "2025/09/08 11:23:00"
+}

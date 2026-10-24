@@ -1,0 +1,117 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "QUEST_INFO_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "QUEST_INFO_L0000",
+        "msgStr": "Dava dosyası kapasitesi arttı."
+      },
+      {
+        "msgID": "QUEST_INFO_L0001",
+        "msgStr": "Dava dosyası tamamlandı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0002",
+        "msgStr": "<COLOR 4><V 0><COLOR 0> x<V 1> elde edildi!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0003",
+        "msgStr": "<COLOR 4><V 0> yen<COLOR 0> elde edildi!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0004",
+        "msgStr": "<COLOR 4><V 0> TP<COLOR 0> kazanıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0005",
+        "msgStr": "<COLOR 4><V 0> Sadakat<COLOR 0> kazanıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0006",
+        "msgStr": "<COLOR 4><V 0><COLOR 0> kapasitesi zaten dolu..."
+      },
+      {
+        "msgID": "QUEST_INFO_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_INFO_L0008",
+        "msgStr": "Yakınlarda dava dosyası yok."
+      },
+      {
+        "msgID": "QUEST_INFO_L0009",
+        "msgStr": "Artık Büyük Tarrasque'a binerek hazine zulasına ulaşılabilir."
+      },
+      {
+        "msgID": "QUEST_INFO_L0010",
+        "msgStr": "<DEP_03>Elektrik Düzeni'nden Hayataro füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0011",
+        "msgStr": "<DEP_05>Öfke Düzeni'nden Yoshitsune füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0012",
+        "msgStr": "<DEP_07>Hüner Düzeni'nden Kudan füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0013",
+        "msgStr": "<DEP_06>Pagan Düzeni'nden Alice füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0014",
+        "msgStr": "<DEP_06>Pagan Düzeni'nden Mot füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0015",
+        "msgStr": "<DEP_07>Hüner Düzeni'nden Belphegor füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0016",
+        "msgStr": "<DEP_06>Pagan Düzeni'nden Beelzebub füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0017",
+        "msgStr": "<DEP_01>Ateş Düzeni'nden Asura füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0018",
+        "msgStr": "<DEP_02>Buz Düzeni'nden Raiho füzyon için açıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0019",
+        "msgStr": "Kılıç Yeteneği kapasitesi 7'ye çıkarıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0020",
+        "msgStr": "Kılıç Yeteneği kapasitesi 8'e çıkarıldı!"
+      },
+      {
+        "msgID": "QUEST_INFO_L0021",
+        "msgStr": "> Maksimum kapasiteye zaten ulaşıldı..."
+      },
+      {
+        "msgID": "QUEST_INFO_L0022",
+        "msgStr": "> Raidou, <COLOR 4><V 0><COLOR 0> x<V 1> elde etti."
+      },
+      {
+        "msgID": "QUEST_INFO_L0023",
+        "msgStr": "> Raidou <COLOR 4><V 0> yen<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "QUEST_INFO_L0024",
+        "msgStr": "Teslim edilecek bir iblis seçin."
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:52:01"
+}

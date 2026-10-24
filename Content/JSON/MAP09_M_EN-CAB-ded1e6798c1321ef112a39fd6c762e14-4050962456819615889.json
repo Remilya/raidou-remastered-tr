@@ -1,0 +1,1169 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP09_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map09_e_dammy_09_01_126",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "map09_m_m_mes_kikai01_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nimotu_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_mato01_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0002",
+        "msgStr": "> Havada süzülen bir bebek."
+      },
+      {
+        "msgID": "MAP09_M_L0003",
+        "msgStr": "> Dokun?"
+      },
+      {
+        "msgID": "map09_m_m_sel_mato01 SEL_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0004",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP09_M_L0005",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map09_m_m_mes_mato01_0_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0006",
+        "msgStr": "> Bebek aniden parlak bir ışık saçtı!"
+      },
+      {
+        "msgID": "map09_m_m_mes_mato01_1_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_mato01_2_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_mato01_3_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0012",
+        "msgStr": "> Bebek parlamaya başlayarak odayı ışıkla doldurdu..."
+      },
+      {
+        "msgID": "map09_m_m_mes_mato01_4_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai_01_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0014",
+        "msgStr": "> Kapı mühürlü."
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai_02_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0015",
+        "msgStr": "> <COLOR 4>Kan Krizoberili<COLOR 0> ile mührü kır?"
+      },
+      {
+        "msgID": "map09_m_m_sel_kekkai_02 SEL_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0016",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP09_M_L0017",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai_02_0_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0018",
+        "msgStr": "> Mühür kırıldı. Raidou kapının ötesinden güçlü bir iblisin varlığını hissetti."
+      },
+      {
+        "msgID": "MAP09_M_L0019",
+        "msgStr": "> Girilsin mi?"
+      },
+      {
+        "msgID": "map09_m_m_sel_kekkai SEL_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0020",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP09_M_L0021",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai_0_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai_1_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai_02_1_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0024",
+        "msgStr": "> Raidou ayrıldı."
+      },
+      {
+        "msgID": "map09_m_m_mes_keynasi_017",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_M_L0025",
+        "msgStr": "Bu kapıdaki mührü kırmadığımız sürece fabrikanın derinliklerine ilerleyemeyiz."
+      },
+      {
+        "msgID": "MAP09_M_L0026",
+        "msgStr": "O sese göre Matris Labirenti'nin içinde <COLOR 3>üç parça<COLOR 0> bulmamız gerekiyor."
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai_02_1_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0027",
+        "msgStr": "> Raidou ayrıldı."
+      },
+      {
+        "msgID": "map09_m_m_mes_keynasi_hd01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_M_L0027_01",
+        "msgStr": "Bekle, Raidou."
+      },
+      {
+        "msgID": "MAP09_M_L0027_02",
+        "msgStr": "Matris Labirenti'nin içinde başka fabrika işçileri olabilir. Önce onların güvende olduğundan emin olalım."
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai_03_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0028",
+        "msgStr": "> Mücevherin gücü mührü eritip yok etti..."
+      },
+      {
+        "msgID": "map09_m_m_mes_matohaitta_020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_matosyokai_021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_gate01_01_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0032",
+        "msgStr": "> Tuhaf bir duvar yolu kapatıyor."
+      },
+      {
+        "msgID": "map09_m_m_mes_gate02_01_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0033",
+        "msgStr": "> Kapıdan bu taraftan girilemez."
+      },
+      {
+        "msgID": "map09_m_m_mes_gate03_01_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0034",
+        "msgStr": "> Raidou kapıdan geçemedi."
+      },
+      {
+        "msgID": "map09_m_m_mes_gate04_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0035",
+        "msgStr": "> Esrarengiz ışıklar etrafta dönüp duruyor..."
+      },
+      {
+        "msgID": "MAP09_M_L0036",
+        "msgStr": "> Onlara dokun?"
+      },
+      {
+        "msgID": "map09_m_m_sel_gate04 SEL_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0037",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP09_M_L0038",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map09_m_m_mes_gate04_0_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_gate04_1_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_suitti01_01_029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_sel_suitti01 SEL_030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_suitti01_0_031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_suitti01_1_032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_suitti02_01_033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_suitti03_01_034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_suitti04_01_035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_suitti05_01_036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_rkeyget_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_rkeyget02_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0058",
+        "msgStr": "> Raidou bir <ITM_04><COLOR 4>Kırmızı Parça<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map09_m_m_mes_rkeyget02d_039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_bkeyget_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_bkeyget02_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0062",
+        "msgStr": "> Raidou bir <ITM_04><COLOR 4>Mavi Parça<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map09_m_m_mes_bkeyget02d_042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_wkeyget_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0064",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_wkeyget02_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0066",
+        "msgStr": "> Raidou bir <ITM_04><COLOR 4>Beyaz Parça<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map09_m_m_mes_wkeyget02d_045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_noget_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0068",
+        "msgStr": "> Raidou onu almamaya karar verdi."
+      },
+      {
+        "msgID": "map09_m_m_mes_noget_d_047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_noget_d2_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0070",
+        "msgStr": "> <devil 0> durup düşündü."
+      },
+      {
+        "msgID": "MAP09_M_L0071",
+        "msgStr": "> Bunu Raidou'nun bizzat alması muhtemelen daha iyi olacaktır."
+      },
+      {
+        "msgID": "map09_m_m_mes_kikannji_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0072",
+        "msgStr": "> Esrarengiz ışıklar etrafta dönüp duruyor..."
+      },
+      {
+        "msgID": "MAP09_M_L0073",
+        "msgStr": "> Onlara dokun?"
+      },
+      {
+        "msgID": "map09_m_m_mes_kikannji_yes_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kikannji_no_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kikannji_nakama_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0076",
+        "msgStr": "> İblis ışıklarla ilgileniyor ama aynı zamanda Raidou için endişeleniyor."
+      },
+      {
+        "msgID": "map09_m_m_mes_kansiki01_053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kansiki02_054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kansiki_l01_055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kansiki_l02_056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kansiki_l03_057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kansiki_l04_058",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kansiki_c_01_059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0084",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_raidou_open_060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0085",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_annai_01_061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0086",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_annai_02_062",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0087",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_annai_03_063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_akunpc_01_064",
+        "msgStr": "Azumi"
+      },
+      {
+        "msgID": "MAP09_M_L0089",
+        "msgStr": "Ah, aksi şeytan. Gözlüğümü hiçbir yerde bulamıyorum."
+      },
+      {
+        "msgID": "MAP09_M_L0090",
+        "msgStr": "Bu kahrolası geçitlerin hepsi gözüme aynı görünüyor."
+      },
+      {
+        "msgID": "MAP09_M_L0091",
+        "msgStr": "Gözlüğüm olmadan burnumun ucunu bile göremiyorum..."
+      },
+      {
+        "msgID": "map09_m_m_mes_akunpc_02_065",
+        "msgStr": "Oshichi"
+      },
+      {
+        "msgID": "MAP09_M_L0092",
+        "msgStr": "Ahh, bu kadarı da pes doğrusu! Bunca yıllık ömrümde bu kadar sinir bozucu bir şey görmedim!"
+      },
+      {
+        "msgID": "MAP09_M_L0093",
+        "msgStr": "Gittiğim her yer duvar, duvar, duvar! Bu zevksiz labirenti kim tasarladı?"
+      },
+      {
+        "msgID": "MAP09_M_L0094",
+        "msgStr": "Gerçekten! Bana sorarsan birinin terbiye edilmesi gerekiyor."
+      },
+      {
+        "msgID": "map09_m_m_mes_akunpc_03_01_066",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP09_M_L0095",
+        "msgStr": "Vay!"
+      },
+      {
+        "msgID": "MAP09_M_L0096",
+        "msgStr": "Sen sıradan bir insansın, değil mi?"
+      },
+      {
+        "msgID": "MAP09_M_L0097",
+        "msgStr": "Yok dostum, öyle demek istemedim. Az önce tuhaf kırmızı bir tipin ışık hızıyla yanımdan vızıldayarak geçtiğini gördüm de."
+      },
+      {
+        "msgID": "MAP09_M_L0098",
+        "msgStr": "Ama o kırmızı pelerini bayağı havalıydı. Bir dahaki gelişinde onu araklayacağım."
+      },
+      {
+        "msgID": "map09_m_m_mes_akunpc_03_02_067",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP09_M_L0099",
+        "msgStr": "Vay! Ha, dur... bu sadece siyah olanıymış."
+      },
+      {
+        "msgID": "MAP09_M_L0100",
+        "msgStr": "Biraz önce yanımdan koşarak geçtin ama o senin kırmızı halindi."
+      },
+      {
+        "msgID": "MAP09_M_L0101",
+        "msgStr": "Sen şey misin, nadir bulunan siyah varyant falan mı?"
+      },
+      {
+        "msgID": "map09_m_m_mes_akunpc_03_03_068",
+        "msgStr": "Oni"
+      },
+      {
+        "msgID": "MAP09_M_L0102",
+        "msgStr": "Hey, buralarda acayip havalı kırmızı bir tip gördün mü?"
+      },
+      {
+        "msgID": "MAP09_M_L0103",
+        "msgStr": "İnsan mı iblis mi bilmiyorum ama o kırmızı pelerinle felaket havalı görünüyordu."
+      },
+      {
+        "msgID": "MAP09_M_L0104",
+        "msgStr": "Gerçi ortalıktan toz oldu. Senin kankan falan mı?"
+      },
+      {
+        "msgID": "map09_m_m_mes_akunpc_04_069",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "MAP09_M_L0105",
+        "msgStr": "Hee ho..."
+      },
+      {
+        "msgID": "MAP09_M_L0106",
+        "msgStr": "Arkadaşımı gördün mü-ho, hee ho?"
+      },
+      {
+        "msgID": "MAP09_M_L0107",
+        "msgStr": "Hee-saklambaç oynuyoruz, ho. Ama arkadaşımı bulamıyorum, ho..."
+      },
+      {
+        "msgID": "MAP09_M_L0108",
+        "msgStr": "B-Bensiz hee-eve mi gittiler yoksa, hee-ho!?"
+      },
+      {
+        "msgID": "MAP09_M_L0109",
+        "msgStr": "Yalnızım, ho..."
+      },
+      {
+        "msgID": "map09_m_m_mes_akunpc_05_070",
+        "msgStr": "Jack-o'-Lantern"
+      },
+      {
+        "msgID": "MAP09_M_L0110",
+        "msgStr": "Hee ho! Hee-saklambaç, ho!"
+      },
+      {
+        "msgID": "MAP09_M_L0111",
+        "msgStr": "Dışarıdan-ho gelmediğin sürece hee-buraya ulaşamazsın, hee ho."
+      },
+      {
+        "msgID": "MAP09_M_L0112",
+        "msgStr": "Hee-burada güvendeyim, ho!"
+      },
+      {
+        "msgID": "MAP09_M_L0113",
+        "msgStr": "Ama yorulmaya başladım, ho..."
+      },
+      {
+        "msgID": "map09_m_m_mes_tckey_get_01_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0114",
+        "msgStr": "> Üç parça Raidou'nun elinde birleşmeye başladı..."
+      },
+      {
+        "msgID": "map09_m_m_mes_tckey_get_01d_072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_tckey_get_02_073",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0116",
+        "msgStr": "> Üç parça kaynaşarak kızıl bir mücevhere dönüştü."
+      },
+      {
+        "msgID": "map09_m_m_mes_tckey_get_03_074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_tckey_get_04_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0118",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Kan Krizoberili<COLOR 0>'ni elde etti."
+      },
+      {
+        "msgID": "map09_m_m_mes_tckey_get_04d_076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_tckey_get_05_077",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP09_M_L0120",
+        "msgStr": "Artık o mührü kırabilmemiz lazım, Raidou."
+      },
+      {
+        "msgID": "MAP09_M_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_tckey_get_06_078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_ep03_paiget_00_079",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0123",
+        "msgStr": "> Yerde bir şey var. Alınsın mı?"
+      },
+      {
+        "msgID": "map09_m_m_mes_ep03_paiget_YES_080",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0124",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Sayı Taşları<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map09_m_m_mes_ep03_paiget_YES02_081",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0125",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Sayı Taşları<COLOR 0> elde etti."
+      },
+      {
+        "msgID": "map09_m_m_mes_ep03_paiget_NO_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0126",
+        "msgStr": "> Raidou onu orada bıraktı."
+      },
+      {
+        "msgID": "map09_m_m_mes_ep03_paiget_NO_02_083",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0127",
+        "msgStr": "> <devil 0> onu almamaya karar verdi."
+      },
+      {
+        "msgID": "map09_m_m_mes_ep03_maekojo_00_084",
+        "msgStr": "Okiku-Mushi"
+      },
+      {
+        "msgID": "MAP09_M_L0128",
+        "msgStr": "Hahahaha! Sizi aptallar, tuzağa düştünüz!"
+      },
+      {
+        "msgID": "MAP09_M_L0129",
+        "msgStr": "Şimdi ölüüün!"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai2_01_085",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai2_0_086",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai3_02_087",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_kekkai3_02_0_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_ep03_key_hazure_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_sc03_01_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_sc04_01_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_sc04_02_092",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_sc04_03_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0141",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_sc04_04_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0142",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_sc08_01_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0143",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0144",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_00_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0145",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_01_097",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0146",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0147",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_02_098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0148",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0149",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_03_099",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0150",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0151",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_04_100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0152",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0153",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_05_101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0154",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0155",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_06_102",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0156",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_07_103",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0157",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_08_104",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0158",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_09_105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_10_106",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP09_M_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_nokori_11_107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0161",
+        "msgStr": "geçici mesaj"
+      },
+      {
+        "msgID": "map09_m_m_mes_hito01_01_108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0162",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0163",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_hito02_01_109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_hito03_01_110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_hito04_01_111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map09_m_m_mes_aka_01_112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP09_M_L0170",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:56:20"
+}

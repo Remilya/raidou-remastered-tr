@@ -1,0 +1,157 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "LMP_MES_TALK_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "lmp_mes_talk_MSG_LMP_SYS_CLS_ST01A_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_MSG_LMP_SYS_N_FARE01A_001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_MSG_LMP_SYS_N_FARE01B_002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP01_lmap_mes01_003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP01_lmap_JIJO_01_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP01_lmap_JIJO_02_005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP02_lmap_mes01_006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP02_lmap_mes02a_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP02_lmap_mes02b_008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP02_lmap_MLK_01_009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP02_lmap_MLK_02_010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "lmp_mes_talk_EP02_lmap_MLK_03_011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMP_MES_TALK_L0022",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:41:40"
+}

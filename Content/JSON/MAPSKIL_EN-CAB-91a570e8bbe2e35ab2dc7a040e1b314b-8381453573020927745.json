@@ -1,0 +1,113 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAPSKIL_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MAPSKIL_L0000",
+        "msgStr": "Tutuşturma"
+      },
+      {
+        "msgID": "MAPSKIL_L0001",
+        "msgStr": "Soğutma"
+      },
+      {
+        "msgID": "MAPSKIL_L0002",
+        "msgStr": "İnceleme"
+      },
+      {
+        "msgID": "MAPSKIL_L0003",
+        "msgStr": "Keşif"
+      },
+      {
+        "msgID": "MAPSKIL_L0004",
+        "msgStr": "Kaba Kuvvet"
+      },
+      {
+        "msgID": "MAPSKIL_L0005",
+        "msgStr": "Zihin Okuma"
+      },
+      {
+        "msgID": "MAPSKIL_L0006",
+        "msgStr": "Gösteri"
+      },
+      {
+        "msgID": "MAPSKIL_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0008",
+        "msgStr": "Uçma"
+      },
+      {
+        "msgID": "MAPSKIL_L0009",
+        "msgStr": "Sızma"
+      },
+      {
+        "msgID": "MAPSKIL_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0016",
+        "msgStr": "Cazibe"
+      },
+      {
+        "msgID": "MAPSKIL_L0017",
+        "msgStr": "Bozukluk Bulma"
+      },
+      {
+        "msgID": "MAPSKIL_L0018",
+        "msgStr": "Toplayıcı"
+      },
+      {
+        "msgID": "MAPSKIL_L0019",
+        "msgStr": "Kışkırtma"
+      },
+      {
+        "msgID": "MAPSKIL_L0020",
+        "msgStr": "Gözdağı"
+      },
+      {
+        "msgID": "MAPSKIL_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAPSKIL_L0023",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:11"
+}

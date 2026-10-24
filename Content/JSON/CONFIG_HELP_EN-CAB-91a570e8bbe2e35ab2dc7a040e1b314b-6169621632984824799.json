@@ -1,0 +1,857 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONFIG_HELP_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONFIG_HELP_L0000",
+        "msgStr": "Ayar değişikliklerini uygula."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0001",
+        "msgStr": "> Ayarlar değiştirildi."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0002",
+        "msgStr": "Müzik ses düzeyini ayarla. MIN olarak ayarlandığında kapanır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0003",
+        "msgStr": "Efekt ses düzeyini ayarla. MIN olarak ayarlandığında kapanır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0004",
+        "msgStr": "Seslendirme düzeyini ayarla. MIN olarak ayarlandığında kapanır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0005",
+        "msgStr": "Video ses düzeyini ayarla. MIN olarak ayarlandığında kapanır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0006",
+        "msgStr": "Seslendirmeleri aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0007",
+        "msgStr": "Seslendirme dilini değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0008",
+        "msgStr": "Rahat bir zorluk seviyesi. Ruh Gücünün rehberliğinde tutkunun peşinden git. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0009",
+        "msgStr": "Standart bir zorluk seviyesi. Güçlü Ruh Gücünün soruşturmana rehberlik etmesine izin ver. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0010",
+        "msgStr": "Zorluklarla dolu bir seviye. Sarsılmaz bir şekilde hakikatin peşinden git ve Ruh Gücünle hayatta kal. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0011",
+        "msgStr": "Geleceğin efsanelerine ayrılmış en yüksek zorluk seviyesi. Ruh Gücün en parlak haliyle yanmalı. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0012",
+        "msgStr": "Otomatik kaydı etkinleştir veya devre dışı bırak."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0013",
+        "msgStr": "Oyunun savaşta menü imleç konumlarını hatırlayıp hatırlamayacağını seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0014",
+        "msgStr": "Kamera Y ekseni kontrollerinin ters çevrilip çevrilmeyeceğini seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0015",
+        "msgStr": "Kamera X ekseni kontrollerinin ters çevrilip çevrilmeyeceğini seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0016",
+        "msgStr": "Performans ayarını seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0017",
+        "msgStr": "Grafiklerin kalitesini belirler. %100'ün altına ayarlamak performansı artırabilir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0018",
+        "msgStr": "Gölge görünümü ayarını düzenle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0019",
+        "msgStr": "Grafikleri iyileştirmek için açın. Kapatmak performansı artırabilir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0020",
+        "msgStr": "Ekran parlaklığını ayarla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0021",
+        "msgStr": "Kontrastı ayarla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0022",
+        "msgStr": "Çözünürlüğü değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0023",
+        "msgStr": "Görüntü monitörünü değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0024",
+        "msgStr": "Ekran boyutunu değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0025",
+        "msgStr": "Ekran yırtılmasını azaltmak için açın."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0026",
+        "msgStr": "Savaş başladığında menünün mü görüntüleneceğini yoksa doğrudan savaşa mı girileceğini seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0027",
+        "msgStr": "Belirli videolarda ve etkinliklerde altyazıların gösterilip gösterilmeyeceğini seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0028",
+        "msgStr": "Belirli etkinliklerde ve savaş sırasında titreşimin etkin olup olmayacağını seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0029",
+        "msgStr": "Metnin seslendirmeyle uyumlu olarak otomatik ilerleyip ilerlemeyeceğini seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0030",
+        "msgStr": "Harita ve menü seçimleri için hareket kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0031",
+        "msgStr": "Harita ve menü seçimleri için hareket kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0032",
+        "msgStr": "Harita ve menü seçimleri için hareket kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0033",
+        "msgStr": "Harita ve menü seçimleri için hareket kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0034",
+        "msgStr": "Savaş ve menü seçimleri için hareket kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0035",
+        "msgStr": "Savaş ve menü seçimleri için hareket kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0036",
+        "msgStr": "Savaş ve menü seçimleri için hareket kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0037",
+        "msgStr": "Savaş ve menü seçimleri için hareket kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0038",
+        "msgStr": "Harita için kamera kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0039",
+        "msgStr": "Harita için kamera kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0040",
+        "msgStr": "Harita için kamera kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0041",
+        "msgStr": "Harita için kamera kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0042",
+        "msgStr": "Menü ve eylem onaylama kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0043",
+        "msgStr": "Menü ve eylem iptal etme kontrolleri."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0044",
+        "msgStr": "Ay evrelerini, mini haritayı ve diğer arayüz öğelerini göster."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0045",
+        "msgStr": "Soruşturma menüsünü aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0046",
+        "msgStr": "Ana menüyü aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0047",
+        "msgStr": "Harita ekranını aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0048",
+        "msgStr": "Ekspres tramvayları kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0049",
+        "msgStr": "Sahadayken hızla koş."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0052",
+        "msgStr": "Raidou'nun hafif kılıç saldırısını gerçekleştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0053",
+        "msgStr": "Raidou'nun ağır kılıç saldırısını gerçekleştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0055",
+        "msgStr": "Raidou'yu zıplat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0057",
+        "msgStr": "Raidou'nun kaçınmasını sağla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0058",
+        "msgStr": "Raidou'nun savunma yapmasını sağla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0060",
+        "msgStr": "Savaş menüsünü aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0061",
+        "msgStr": "Raidou'nun silahını hazırla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0062",
+        "msgStr": "Raidou'nun silahını ateşle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0063",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0064",
+        "msgStr": "İblis 1 için komut menüsünü aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0065",
+        "msgStr": "İblis 2 için komut menüsünü aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0066",
+        "msgStr": "İblis korumayı aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0067",
+        "msgStr": "Savaş sırasında alt eylemi değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0068",
+        "msgStr": "Tüpe alma sanatını kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0076",
+        "msgStr": "Metinleri hızlı ileri sar."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0077",
+        "msgStr": "Videoları ve etkinlikleri atla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0078",
+        "msgStr": "Metin otomatik ilerletmeyi aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0079",
+        "msgStr": "Diyalog geçmişini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0080",
+        "msgStr": "<BTN_AL><BTN_AR> hassasiyetini ayarla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0081",
+        "msgStr": "Fare hassasiyetini ayarla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0082",
+        "msgStr": "Hazır ayarları değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0083",
+        "msgStr": "Dil ayarlarındaki değişiklikler nedeniyle kayıt dosyası yüklenemedi."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0084",
+        "msgStr": "Dil ayarlarındaki değişiklikler nedeniyle hızlı kayıt verisi yüklenemedi."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0085",
+        "msgStr": "Dil ayarlarındaki değişiklikler nedeniyle oyuncunun adı da değiştirilecektir. Önceki adınızla oynamak için dil ayarlarının eski haline getirilmesi gerekir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0086",
+        "msgStr": "Varsayılan ayarları geri yükle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0087",
+        "msgStr": "> Değiştirilen bir ayar başka bir ayarla çakışıyor. Diğer ayarın üzerine yazılsın mı?"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0088",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0089",
+        "msgStr": "> Değiştirilen tuş zaten atanmış. Bu ayarın üzerine yazılsın mı?"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0092",
+        "msgStr": "> Ses ayarları varsayılanlara döndürülsün mü?"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0093",
+        "msgStr": "> Oyun ayarları varsayılanlara döndürülsün mü?"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0094",
+        "msgStr": "> Grafik ayarları varsayılanlara döndürülsün mü?"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0095",
+        "msgStr": "> Görüntü ayarları varsayılanlara döndürülsün mü?"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0096",
+        "msgStr": "> Kontrol ayarları varsayılanlara döndürülsün mü?"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0097",
+        "msgStr": "> Klavye ayarları varsayılanlara döndürülsün mü?"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0098",
+        "msgStr": "İblisin temel saldırı yapmasını sağla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0099",
+        "msgStr": "İblisin bir Savaş Yeteneği kullanmasını sağla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0100",
+        "msgStr": "Savaş Yeteneklerini değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0101",
+        "msgStr": "Savaş Yeteneklerini değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0102",
+        "msgStr": "İblisin ani hücum yapmasını sağla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0103",
+        "msgStr": "İblisin savunma yapmasını sağla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0104",
+        "msgStr": "İblis için hedef kilitlemeyi aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0105",
+        "msgStr": "Fare/klavye hazır ayarlarını değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0106",
+        "msgStr": "Hangi tuş simgelerinin görüntüleneceğini değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0107",
+        "msgStr": "Çağrılan iblisin Soruşturma Yeteneğini kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0108",
+        "msgStr": "Sizin ve müttefiklerinizin ölemeyeceği sıra dışı bir zorluk seviyesi. Boyun eğmez Ruh Gücünüzle tüm zorlukların üstesinden gelin. (Zorluk seviyesi oyunun hikayesini etkilemez.)"
+      },
+      {
+        "msgID": "CONFIG_HELP_L0109",
+        "msgStr": "Savaşta eylem değiştirirken çatışmanın duraklatılıp duraklatılmayacağını aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0110",
+        "msgStr": "Hangi hedefe kilitlenileceğini değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0111",
+        "msgStr": "Kilitlenilen hedefi değiştir (sol)."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0112",
+        "msgStr": "Kilitlenilen hedefi değiştir (sağ)."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0113",
+        "msgStr": "Ekrandaki en uzak hedefe kilitlen."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0114",
+        "msgStr": "Ekrandaki en yakın hedefe kilitlen."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0115",
+        "msgStr": "İblis 1 için yetenek kullanım davranışını değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0116",
+        "msgStr": "İblis 2 için yetenek kullanım davranışını değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0117",
+        "msgStr": "İblisleri değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0118",
+        "msgStr": "Savaş Yeteneği 1'i kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0119",
+        "msgStr": "Savaş Yeteneği 2'yi kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0120",
+        "msgStr": "Savaş Yeteneği 3'ü kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0121",
+        "msgStr": "Mistik Göz'ü kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0122",
+        "msgStr": "Bir eşya kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0123",
+        "msgStr": "İblis Kıran'ı kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0124",
+        "msgStr": "Ruh Kesişi'ni kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0125",
+        "msgStr": "Gizli Saldırı'yı kullan."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0126",
+        "msgStr": "Gizli Saldırı hedefini değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0127",
+        "msgStr": "Sahada ve savaşlar sırasında arayüzün (HUD) görüntülenip görüntülenmeyeceğini aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0128",
+        "msgStr": "Raidou için hedef kilitlemeyi aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0129",
+        "msgStr": "Tüpe alma sanatını gerçekleştirmek için giriş yöntemini seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0130",
+        "msgStr": "Sahadayken hızlı koşma ve normal yürüme arasında geçiş yap."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0131",
+        "msgStr": "İblisin kaçınmasını sağla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0132",
+        "msgStr": "Hareket ve menü seçimleri için kontroller."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0133",
+        "msgStr": "Sağdaki kategoriye geç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0134",
+        "msgStr": "Soldaki kategoriye geç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0135",
+        "msgStr": "Bir sayfa yukarı çık."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0136",
+        "msgStr": "Bir sayfa aşağı in."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0137",
+        "msgStr": "Sıralama menüsünü görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0138",
+        "msgStr": "Soruşturma Yeteneği bilgilerini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0139",
+        "msgStr": "Görüntülenen kaydı yukarı doğru kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0140",
+        "msgStr": "Görüntülenen kaydı aşağı doğru kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0141",
+        "msgStr": "Bir iblisi stoğa geri döndür."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0142",
+        "msgStr": "Bir iblis müttefikle yollarını ayır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0143",
+        "msgStr": "Hedefin durumunu görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0144",
+        "msgStr": "Bir Çağırıcı Yeteneğini çıkar."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0145",
+        "msgStr": "Oyunun kontrollerini yeniden yapılandır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0146",
+        "msgStr": "Ortam ayarlarını varsayılanlara sıfırla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0147",
+        "msgStr": "Listede hemen üstte yer alan grup üyesine geç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0148",
+        "msgStr": "Listede hemen altta yer alan grup üyesine geç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0149",
+        "msgStr": "Yetenek bilgilerini görüntüle ve yetenek sırasını düzenle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0150",
+        "msgStr": "Raidou'nun unvanlarının listesini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0151",
+        "msgStr": "Kılıç kuşanma menüsünü aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0152",
+        "msgStr": "Kılıç Yeteneği geçmişini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0153",
+        "msgStr": "Pasif Yetenekler menüsünü aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0154",
+        "msgStr": "Pasif Yetenek geçmişini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0155",
+        "msgStr": "Karakter modelini incelemek için İnceleme Modu'na gir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0156",
+        "msgStr": "İnceleme Modu'nda karakter modelini sola döndür."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0157",
+        "msgStr": "İnceleme Modu'nda karakter modelini sağa döndür."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0158",
+        "msgStr": "İnceleme Modu'nda karakter modelini varsayılan konumuna döndür."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0159",
+        "msgStr": "Metni yukarı doğru kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0160",
+        "msgStr": "Metni aşağı doğru kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0161",
+        "msgStr": "Bir dava dosyasının başlatılabileceği konumu göster."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0162",
+        "msgStr": "Tamamlanmış bir dava dosyasından alınmamış ödülleri teslim al."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0163",
+        "msgStr": "Harita görünümünü yukarı kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0164",
+        "msgStr": "Harita görünümünü aşağı kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0165",
+        "msgStr": "Harita görünümünü sola kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0166",
+        "msgStr": "Harita görünümünü sağa kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0167",
+        "msgStr": "Haritayı yakınlaştır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0168",
+        "msgStr": "Haritayı uzaklaştır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0169",
+        "msgStr": "Harita görünümünü varsayılan konumuna döndür."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0170",
+        "msgStr": "Hemen üstteki katın görünümüne geç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0171",
+        "msgStr": "Hemen alttaki katın görünümüne geç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0172",
+        "msgStr": "Haritaların listesini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0173",
+        "msgStr": "Mevcut haritada bulunan aktif dava dosyalarının listesini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0174",
+        "msgStr": "Harita simgeleri için ek bilgileri görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0175",
+        "msgStr": "Savaş menüsünü kapat ve çatışmaya devam et."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0176",
+        "msgStr": "Yetenek bilgilerini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0177",
+        "msgStr": "Videoları izlerken oynatmayı duraklat veya devam ettir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0178",
+        "msgStr": "Bir iblis füzyonuna dahil olan ve füzyon sonucunda ortaya çıkan iblisleri incelerken listede hemen üstte yer alan iblise geç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0179",
+        "msgStr": "Bir iblis füzyonuna dahil olan ve füzyon sonucunda ortaya çıkan iblisleri incelerken listede hemen altta yer alan iblise geç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0180",
+        "msgStr": "Füzyon Tablosu sembollerinin açıklamalarını görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0181",
+        "msgStr": "Hedefin durumunu görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0182",
+        "msgStr": "Yetenek bilgilerini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0183",
+        "msgStr": "Füzyon Arama koşullarını varsayılanlara sıfırla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0184",
+        "msgStr": "Bir Füzyon Araması gerçekleştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0185",
+        "msgStr": "Yetenek aktarımı menüsünü aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0186",
+        "msgStr": "Hangi yeteneklerin aktarılacağını rastgele seç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0187",
+        "msgStr": "Hangi yeteneklerin aktarılacağını seçmeyi tamamla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0188",
+        "msgStr": "Seçili iblisi kaydet."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0189",
+        "msgStr": "Şu anda stokta bulunan tüm iblisleri kaydet."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0190",
+        "msgStr": "Şu anda stokta bulunan ve önceki kayıtlarından bu yana seviye atlamış olan tüm iblisleri kaydet."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0191",
+        "msgStr": "Hedefin yeteneklerini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0192",
+        "msgStr": "Seçili iblisi kilitle veya kilidini aç."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0193",
+        "msgStr": "Seçili iblisi favorilere ekle veya favorilerden çıkar."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0194",
+        "msgStr": "Seçili iblisin arka plan hikayesini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0195",
+        "msgStr": "Karakter modelini incelemek için İnceleme Modu'na gir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0196",
+        "msgStr": "Seçili iblisi yeniden çağır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0197",
+        "msgStr": "Puan bilgilerini görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0198",
+        "msgStr": "Zafer animasyonlarını atla."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0199",
+        "msgStr": "Oyunun kurallarını görüntüle."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0200",
+        "msgStr": "Metni yukarı doğru kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0201",
+        "msgStr": "Metni aşağı doğru kaydır."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0202",
+        "msgStr": "Kilitlenilen hedefi değiştir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0203",
+        "msgStr": "Hafif ve ağır kılıç saldırıları için kontrol şemasını ayarla. \"Basılı tut\" olarak ayarlandığında güçlendirilmiş kılıç saldırıları yapılamaz."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0204",
+        "msgStr": "Sahada ve dedektif günlüğünde sonraki hedefin görüntülenip görüntülenmeyeceğini aç veya kapat. Bu ayarı kapatmak orijinal oyuna daha yakın bir deneyim sunar."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0205",
+        "msgStr": "Hedef konumlarını (dava dosyaları dahil) gösteren bir simgenin görüntülenip görüntülenmeyeceğini aç veya kapat. Bu ayarı kapatmak orijinal oyuna daha yakın bir deneyim sunar."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0206",
+        "msgStr": "İblislerin Soruşturma Yeteneklerinin eylem penceresinde otomatik olarak görüntülenip görüntülenmeyeceğini aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0207",
+        "msgStr": "İblis Yoklamalarındaki iblis diyaloglarının atlanıp atlanmayacağını aç veya kapat. Bu ayarı açmak yalnızca ödülü doğrudan verir."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0208",
+        "msgStr": "İblis füzyonu yaparken iblislerin selamlamalarının, füzyon animasyonlarının ve veda mektuplarının atlanıp atlanmayacağını aç veya kapat."
+      },
+      {
+        "msgID": "CONFIG_HELP_L0209",
+        "msgStr": "Daha önce ürettiğiniz kılıçları oluştururken animasyonun oynatılıp oynatılmayacağını aç veya kapat."
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/22 16:59:17"
+}

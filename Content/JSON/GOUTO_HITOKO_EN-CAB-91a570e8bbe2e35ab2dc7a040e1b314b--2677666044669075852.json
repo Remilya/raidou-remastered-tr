@@ -1,0 +1,157 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOUTO_HITOKO_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOUTO_HITOKO_L0000",
+        "msgStr": "Kendine dikkat et!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0001",
+        "msgStr": "İblislerinin güvenliğini sağla!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0002",
+        "msgStr": "Zaferi çantada keklik görme."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0003",
+        "msgStr": "Saldırıya geç!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0004",
+        "msgStr": "İblislerinle uyumlu hareket et!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0005",
+        "msgStr": "Raidou!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0006",
+        "msgStr": "Silahını kullan."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0007",
+        "msgStr": "Ruh Gücün parlasın!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0008",
+        "msgStr": "14. Raidou Kuzunoha!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0009",
+        "msgStr": "Yeteneklerin gelişmiş, Raidou."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0010",
+        "msgStr": "Etkileyici."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0011",
+        "msgStr": "Aferin."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0012",
+        "msgStr": "Mırr!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0013",
+        "msgStr": "Miyav-kalade!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0014",
+        "msgStr": "Yeteneklerin gelişmiş, Raidou."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0015",
+        "msgStr": "Etkileyici."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0016",
+        "msgStr": "Aferin."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0017",
+        "msgStr": "Mırr!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0018",
+        "msgStr": "Miyav-kalade!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0019",
+        "msgStr": "Şimdi!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0020",
+        "msgStr": "Atıl, Raidou!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0021",
+        "msgStr": "Etkileyici."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0022",
+        "msgStr": "Aferin."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0023",
+        "msgStr": "Takviye kuvvet mi!?"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0024",
+        "msgStr": "Ne!?"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0025",
+        "msgStr": "Hm?"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0026",
+        "msgStr": "İyileşmeyi düşün."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0027",
+        "msgStr": "Sorun nedir, Raidou?"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0028",
+        "msgStr": "Ne kadar zayıf bir savunma."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0029",
+        "msgStr": "Düşünmeden hareket etme!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0030",
+        "msgStr": "Gözünü düşmandan ayırma."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0031",
+        "msgStr": "Raidouuuuu!"
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0032",
+        "msgStr": "Olamaz..."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0033",
+        "msgStr": "Hmm, yeni gelen biri var."
+      },
+      {
+        "msgID": "GOUTO_HITOKO_L0034",
+        "msgStr": "Pekâlâ o zaman."
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 16:02:09"
+}

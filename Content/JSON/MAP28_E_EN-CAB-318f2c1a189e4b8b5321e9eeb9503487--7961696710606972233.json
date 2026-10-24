@@ -1,0 +1,125 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP28_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map28_e_map01_ep01_af_sc20_01_000",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP28_E_L0000",
+        "msgStr": "Karanlık Diyar'ı bu işe karıştırmak ona bir fayda sağlayacakmış gibi..."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_af_sc20_02_001",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP28_E_L0001",
+        "msgStr": "Raidou, Kiyoshi'nin peşine düşelim!"
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene21_01_002",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0002",
+        "msgStr": "Tsuchigumo ve Gashadokuro size birer uyarı olmalıydı..."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene21_02_003",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0003",
+        "msgStr": "Yine de devam ettiniz ve asla öğrenmemeniz gereken şeyleri öğrendiniz."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene21_03_004",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0004",
+        "msgStr": "Şimdi buradan öylece gitmenize izin verirsem bu benim için sorun olur."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene21_04_005",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0005",
+        "msgStr": "Korkarım yolun sonuna geldiniz."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene21_05_006",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0006",
+        "msgStr": "Artık beni karşınıza aldığınıza göre, burada öleceksiniz!"
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene22_01_007",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0007",
+        "msgStr": "Hm... Hiç fena değil. Gerçi elbette benden hâlâ epey güçsüzsün."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene22_02_008",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0008",
+        "msgStr": "Eh, Kiyoshi çoktan uzaklaştı, yani buradaki işim tamamlandı."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene22_03_009",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0009",
+        "msgStr": "Eminim sonunda yüz yüze de görüşeceğiz. O zamana dek..."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene22_04_010",
+        "msgStr": "Erkek Sesi"
+      },
+      {
+        "msgID": "MAP28_E_L0010",
+        "msgStr": "Seninle tanışmak bir zevkti, Raidou Kuzunoha."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene22_05_011",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP28_E_L0011",
+        "msgStr": "Demek o da bizim gibi biri..."
+      },
+      {
+        "msgID": "MAP28_E_L0012",
+        "msgStr": "Nereden çıktığını bilmiyorum ama karşı safta bir İblis Çağırıcısı olması can sıkıcı."
+      },
+      {
+        "msgID": "map28_e_map01_ep01_scene22_06_012",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP28_E_L0013",
+        "msgStr": "Kiyoshi'yi boş ver—önceliklerimiz değişti. Dedektiflik bürosuna geri dönelim."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:46:54"
+}

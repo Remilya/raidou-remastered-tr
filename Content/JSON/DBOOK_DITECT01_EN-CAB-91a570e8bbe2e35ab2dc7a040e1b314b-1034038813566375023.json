@@ -1,0 +1,197 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_DITECT01_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_DITECT01_L0000",
+        "msgStr": "Doğum yılı: 1884 / Yaş: 47 / Meslek: Tokyo Polis Teşkilatı, Kriminal Soruşturma Bürosu Çavuşu / Boy: 173cm / Kilo: 69kg / İkamet: Chujou-ku / En sevdiği yemek: Bira\n\nTokyo Polis Teşkilatı'nda çavuş rütbeli bir dedektif. Narumi'nin eski bir tanıdığı gibi görünüyor. Belirgin derecede kibirli, inatçı ve aksi biri; ancak hakkını vermek gerekirse sahada dişiyle tırnağıyla çalışarak kademeleri tırmanmış. Yine de Taisho döneminin genç nesli onun gibileri epey baş belası buluyor.\n\nBiz modern dedektifler soruşturmalarda genellikle polisle işbirliği yaparız; polis başı çeker, dedektifler de talep edildiği ölçüde destek sunar. Ancak Kazama bağımsız dedektiflerden rahatsızlık duyuyor ve (belki de bir memur olarak aşırı gururundan ötürü) soruşturmaları polisin tek başına yürütmesini tercih ediyor.\n\nNeyse, bize faydalı bilgiler sağlamaya devam ettiği sürece tavırlarına katlanabiliriz. Konu işi olduğunda Ruh Gücü ile dolup taşıyor diyelim."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0001",
+        "msgStr": "Doğum yılı: 1915 / Yaş: 16 / Meslek: Ouran Lisesi dördüncü sınıf öğrencisi (Kaya'nın sınıf arkadaşı) / Boy: 153cm / Kilo: 41kg / En sevdiği yemek: Fujiko Salonu pastaları / İdeal partner: Şık bir mezun / İlgi alanları: Modern bir kız olmak\n\nBu satırların yazıldığı sırada kayıp olan Kaya Daidouji'nin sınıf arkadaşı. Soyadı bilinmiyor ama zaten mevcut soruşturmamızla bir ilgisi de yok. Sert ve dobra biri olabiliyor ama iyi bir kalbi var ve Kaya için büyük endişe duyuyor.\n\nTsuchigumo tarafından Karanlık Diyar'a çekildi ama Raidou tarafından kurtarıldı. (Dünyamız ile Karanlık Diyar arasındaki sınır son zamanlarda inceliyor. İblisler masum insanlara saldırmaya devam ederse bu büyük sorun yaratır. Umarım bu daha kötü şeylerin habercisi değildir...)"
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0002",
+        "msgStr": "Kökleri Meiji Restorasyonu öncesine dayanan varlıklı bir aile. Malikâneleri Yarai-ku tepelerinde yer alır ve tüm Başkent manzarasına hâkimdir. Mülkte ayrıca pek çok hizmetkâr çalışmaktadır.\n\nDaidouji ailesi çeşitli ticari faaliyetler yürütür ve o kadar olağanüstü bir öngörüye sahiptir ki rakiplerinin onlara yetişme şansı bile olmamıştır. Emsallerinin boy ölçüşemediği ileri teknolojiler geliştirmeleri sayesinde pazar ve servet üzerinde tekel kurmuşlardır. Ailenin \"lanetli\" olduğuna dair bir söylenti dolaşmaktadır; gerçi bu sadece onların servetini kıskanan eski ailelerin çıkardığı bir propaganda da olabilir."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0003",
+        "msgStr": "Doğum yılı: 1915 / Yaş: 15 / Meslek: Öğrenci / Boy: Yaklaşık 155cm / Kilo: Yaklaşık 42kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Kâhya Nakamura'nın hazırladığı özel puding\n\nİblisler tarafından kaçırılmadan önce ardında \"Beni öldürmenizi istiyorum\" sözlerini bırakan bir kız. Mevcut davamızın merkezindeki isim ve bir o kadar da gizemli biri.\n\nBaşkent'teki varlıklı Daidouji ailesine mensuptur ve ailenin reisi Takeshi Daidouji'nin tek kızıdır.\n\nSaf kalpli bir kıza benziyor. Ne yazık ki bir şeyden dolayı büyük bir sıkıntı içinde olduğu anlaşılıyor. Kaçırılmadan hemen önce tuhaf bir şey daha söyledi: \"Neredeyse on altı yaşıma girdim.\""
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0004",
+        "msgStr": "Doğum yılı: 1867 / Yaş: 64 / Meslek: Daidouji ailesinin başkâhyası / Boy: 160cm / Kilo: 58kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Salatalıklı sandviç ve çörek (scone) / İlgi alanları: Daidouji ailesinin kâhyası olarak sorumlulukları\n\nKaya Daidouji'nin (bu satırların yazıldığı sırada kayıp) mensup olduğu Daidouji ailesinin kâhyası.\n\nNakamura, Daidouji ailesinin önceki nesline de hizmet etmiştir ve profesyonel tavırları nedeniyle çevresindekiler tarafından dört dörtlük bir kâhya olarak kabul edilir. Evin reisi Takeshi'nin durumunun kötüleşmesi ve Kaya'nın ortadan kaybolmasıyla sarsılmış olsa da Daidouji ailesinin işlerini çekip çevirmeye devam etmektedir.\n\nKüçük bir not olarak, görünüşe göre Kaya'nın çocukluğundan beri çok sevdiği enfes bir puding yapmaktadır."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0005",
+        "msgStr": "Doğum yılı: 1888 / Yaş: 42 / Meslek: İş insanı / Boy: 169cm / Kilo: 75kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Beyaz balık tempurası / İdeal partner: (şimdi bunu araştırmanın sırası değil) / İlgi alanları: Aileye ait fabrikanın zor durumu, yeğeni Kaya (onun hakkında belli ettiğinden daha fazlasını biliyor olabilir)\n\nŞu anda kayıp olan Kaya Daidouji'nin amcası ve Daidouji ailesinin reisi Takeshi'nin küçük kardeşi. Daidouji Tekstil fabrikasını işletiyor. Yeterince iyi huylu görünüyor ama tamamen güvenilir olmayabilir."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0006",
+        "msgStr": "Doğum yılı: 1884 / Yaş: 47 / Meslek: Daidouji ailesinin reisi, iş insanı / Boy: Bilinmiyor / Kilo: Bilinmiyor / İkamet: Yarai-ku'daki Daidouji mülkü içinde ayrı bir konut (tıbbi bakım altında) / En sevdiği yemek: Bilinmiyor / İdeal partner: Bilinmiyor (şimdi bunu araştırmanın sırası değil) / İlgi alanları: Daidouji ailesinin refahı, kızı Kaya'nın geleceği\n\nDaidouji ailesinin reisi, aynı zamanda kayıp Kaya Daidouji'nin babası ve Kiyoshi Daidouji'nin ağabeyi. Şu anda hasta ve tıbbi bakım altında. Görünüşe göre kimsenin onu ziyaret etmesine izin verilmiyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0007",
+        "msgStr": "Doğum yılı: 1901 / Yaş: 29 / Meslek: Ryugu'nun sahibi / Boy: 162cm / Kilo: 48kg / İkamet: Chujou-ku'daki Ryugu / En sevdiği yemek: Batı içkileri (belli bir yabancının etkisiyle) / İdeal partner: Zaten evli (kızlık soyadı Harada) / İlgi alanları: Harada Şti.'nin yönetimi, müdavim müşterilerin (Narumi) veresiye hesaplarını kapatmak\n\nChujou-ku'nun Ginza-cho banliyösündeki Ryugu'yu işletiyor. Oldukça korkusuz bir kadın."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0008",
+        "msgStr": "Doğum yılı: 1898 / Yaş: 32 / Meslek: Ryugu'nun özel çekçekçisi / Boy: 166cm / Kilo: 62kg / İkamet: Senju-ku, Fukagawa-cho'da kenar mahalledeki bir pansiyon / En sevdiği yemek: Çiğ yumurtalı pilav / İdeal partner: Yüce gönüllü biri / İlgi alanları: Sevdiğiyle kaçan kız kardeşi Shizu'nun nerede olduğu\n\nRyugu'nun özel çekçekçisi. Edo şivesiyle konuşur. Kız kardeşini seven samimi bir adam.\n\nAnne ve babasını erken yaşta kaybettikten sonra hem kız kardeşi Shizu'nun geçimini sağlamak hem de dürüst bir işte çalışmanın gururunu yaşamak için tüm kalbiyle çekçekçilik işine atıldı.\n\nAncak son zamanlarda otomobillerin yaygınlaşması müşterilerin azalmasına yol açarak zaten kötü olan durumunu daha da ağırlaştırdı. İşleri daha da kötüleştiren şey ise kız kardeşinin bir taksi şoförüyle kaçması oldu. İdealindeki dünya ile mevcut gerçeklik arasındaki keskin uçurum yüreğine ağır bir yük bindiriyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0009",
+        "msgStr": "Doğum yılı: 1907 / Yaş: 24 / Meslek: Sözleşmeli hizmetkâr / Boy: 158cm / Kilo: 44kg / İkamet: Senju-ku, Fukagawa-cho'daki Kırmızı Fener Mahallesi / En sevdiği yemek: Yeşil çaylı pilav (ochazuke) / İdeal partner: Âşık olduğu kişi (kocası olduğunu varsayıyorum) / İlgi alanları: Bir kazadan sonra tedavi gören kocasının hastane masrafları ve ağabeyi Denpachi'nin iyiliği\n\nÇekçekçi Denpachi Iida'nın küçük kız kardeşi.\n\nKocası (ağabeyinin izni olmadığı için resmi olarak evli değiller) iş başındayken geçirdiği bir taksi kazasında ağır yaralandı. Aniden kocasının tedavisi için paraya ihtiyaç duyunca ve destek için ağabeyine başvuramadığından Fukagawa-cho'nun Kırmızı Fener Mahallesi'nde sözleşmeli hizmetkâr olarak çalışmaya başladı.\n\nDenpachi onun evliliğine karşı çıktığından beri ağabeyiyle yıldızları barışmadı. Yine de onun için endişelenmediği tek bir gün bile geçmiyor. Ayrıca inatçı ağabeyinden daha güçlü ve daha olgun biri."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0010",
+        "msgStr": "Doğum yılı: 1870 civarı, ancak detaylar belirsiz / Yaş: Bilinmiyor (söylenenlere göre birkaç yıl önce 47 yaşında ölmüş) / Meslek: Karanlık Çağırıcı / Boy: 187cm / Kilo: 230kg (?) / İkamet: Bilinmiyor / En sevdiği yemek: Votka / İdeal partner: Herhangi bir güzel kadın (ne çapkın ama...) / İlgi alanları: \"Dünyevi\" zevkler (...ve aşağılık biri) / Özel not: Geçmişte birkaç kez suikasta uğradığı ve her seferinde hayata döndüğü söyleniyor.\n\n1916 yılında suikasta kurban gittiği bildirilen yabancı bir keşiş. Kendisi bir Karanlık Çağırıcıdır; bu nedenle belirli bir örgüte mensup olmak yerine yeteneklerini kiralık Çağırıcı olarak sunar.\n\nTüp kullanmak yerine iblisleri Matryoshka (Ölüm Matryoshkaları olarak da bilinir) adlı büyülü araçlarla hapseder ve çağırır. Ayrıca Qi Men Dun Jia'ya dayanan ve başa çıkması tam bir baş belası olan Matris Labirenti adlı bir illüzyon yaratmıştır. Dikkat çeken özellikleri arasında kendine has konuşma tarzı ve sığ, yozlaşmış doğası yer alır.\n\nBaşkent'te işvereninin (kimliği bilinmiyor) emriyle faaliyet gösteriyor gibi görünüyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0011",
+        "msgStr": "*Bilgiler kısmen Sadakichi'nin dosyalarından alınmıştır\nDoğum yılı: 1884 / Yaş: 46 / Meslek: İmparatorluk Ordusu Tümgenerali / Boy: 172cm / Kilo: 73kg / İkamet: Orduyla bağlantılı bir tesiste kaldığı bildiriliyor ancak doğrulanmadı / En sevdiği yemek: Bilinmiyor / İdeal partner: Bilinmiyor / İlgi alanları: Bilinmiyor\n\nOrdu Tümgenerali. Süper Asker ordusunu kurma planlarını tasarladı."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0012",
+        "msgStr": "Bir zamanlar bir Amatsukami olmasına rağmen artık bir Kunitsukami olan bir iblis.\n\nEfsaneler çağında Kunitsukamiler, Sukuna-Hikona'nın iddiasına göre evlerini çalan Amatsukamilere karşı intikam yemini ettiler. Bu amaçla Munakata'nın bedenini ele geçirdi (bu sırada Munakata'yı öldürdü) ve Süper Asker Projesi'ni devralıp gerçeğe dönüştürerek kendi amacı doğrultusunda yeniden şekillendirdi. Ardından gözünü, Amatsukamiler tarafından inşa edildiğini iddia ettiği Başkent'i yok etmeye dikti.\n\nMunakata ülkesinin geleceğinden endişe duyuyor ve onu kurtarmak için Süper Asker Projesi'ni tasarlıyordu; ancak proje ironik bir şekilde tam tersi bir vizyonu gerçekleştirmek isteyen bir iblisin eline geçti."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0014",
+        "msgStr": "Şu anda bu konu hakkında pek bir şey bilmiyoruz.\n\nGörünüşe göre Karanlık Çağırıcı Rasputin, bu projenin hayata geçirilmesine yardımcı olmak amacıyla burada, Başkent'te işe alınmış. Kaya Daidouji'nin kaçırılması da bununla bağlantılı olabilir. Rasputin'in önceki ifadesine dayanarak, insanların içinden Hiruko çıkmadan önce Kırmızı Pelerinlere dönüşmesi olayı da bu planla bağlantılıdır."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0015",
+        "msgStr": "Başkent sakinlerinin yüreğine korku salan gizemli bir yaratık. Birkaç farklı noktada görüldü ve tüm şehirde konuşulan bir konu haline geldi.\n\nKimileri insanları kaçırdığını, kimileri ise rastgele saldırdığını söylüyor (bir hikâyeye göre birinin boğazını kesmiş ve fışkıran kan kızıl bir pelerini andırmış). Hatta gittiği her yerde radyo parazitine yol açtığını iddia eden bir anlatım bile var.\n\nAncak bu raporların çoğu yalnızca asılsız söylentilerden ibaret; muhtemelen devam eden ekonomik durgunluk ve kamu güvenliğindeki düşüşle bağlantılı huzursuzluğun bir sonucu (çağlar boyunca okült konulara duyulan ilginin yeniden canlanması her zaman toplumsal kaygıların bir yansıması olmuştur).\n\nFakat Tae Asakura'dan gelen fotoğraftaki Kırmızı Pelerin, Daidouji Malikânesi'nden kaçarken gördüğümüz Kiyoshi Daidouji'ye benziyor. Bu fotoğrafın gerçek olma ihtimalini göz önünde bulundurmalıyız."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0016",
+        "msgStr": "*Bilgiler kısmen Sadakichi'nin dosyalarından alınmıştır\nUshigome-Gaeri Köprüsü'nde bize saldıran ve Kaya Daidouji'yi kaçıranlar gibi varlıkları ifade eder. Süper Asker Projesi kapsamında üretilen ve başlangıçta Tip 91 Ölümsüz Askerler olarak adlandırılan ölümsüz bir asker grubuna mensupturlar.\n\nFarklı Cehennem Piyonları, birbirinden farklı silahlarda uzmanlaşmıştır. Bir türü kılıçla, biri Tip 91 hafif makineli tüfekle ve bir diğeri de standart Tip 91 makineli tüfekle savaşır.\n\nGörünüşe göre Kırmızı Pelerin söylentileri, hem gerçek Kırmızı Pelerinlerin hem de Cehennem Piyonlarının görülmesine dayanıyordu. Ne de olsa Cehennem Piyonları, Munakata'nın emriyle gerçek dünyada faaliyet gösteriyordu ve bu nedenle insanlar tarafından görülebiliyorlardı.\n\nAyrıca Kırmızı Pelerinlerin radyo parazitine yol açtığına dair söylentiler de vardı (gerçekte buna neden olan Cehennem Piyonlarıydı). Radyo paraziti vakaları sıklıkla Cehennem Piyonlarının görülmesiyle birlikte rapor ediliyordu. Şehir halkı dedikodu yaptıkça bu benzer söylentilerin iki farklı versiyonu birbirine karıştı.\n\nBir Cehennem Piyonu üretmek için (kabul etmek gerekir ki bu insanlıktan çıkarıcı bir tabir ama sürecin kendisi de kelimenin tam anlamıyla insanlıktan çıkarıcıdır), Kırmızı Pelerin'e dönüşen bir insan sasumata ile yakalanır ve silahlarla donatılır. (Görünüşe göre Cehennem Piyonları, Kırmızı Pelerin'e dönüşmüş insanları kaçırıyordu—yani özünde \"müttefik\" topluyorlardı.) Yakalanan bir Kırmızı Pelerin'in kafasına, Hiruko kaynaklı ileri evreyi (Kırmızı Pelerin formunu) koruyan bir cihaz yerleştirilir ve böylece insanüstü yeteneklerini muhafaza etmesi sağlanır.\n\nAncak ileri evre korunsa da Hiruko'nun kendisi çıkarılır ve geriye artık tekrar insana dönemeyecek olan konağın kabuğu kalır. Bu işlem aynı zamanda Kırmızı Pelerin'in zihinsel dengesizliğini de ortadan kaldırarak savaştan zevk alan korkunç bir asker ortaya çıkarır. İblis Çağırıcıları olarak yapabileceğimiz tek şey onların acısına son vermektir."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0017",
+        "msgStr": "Hepimizin içinde barınan \"Hiruko elementlerinin\" olgunlaşmış bir formu. Birinin Hiruko elementleri ileri bir evreye ulaştığında o kişi bir Kırmızı Pelerin'e dönüşür. Bir Hiruko, Kırmızı Pelerin'in içinde yetişkin evresine ulaştığında (daha fazla bilgi için bkz. Kırmızı Pelerin maddesi) konağını terk eder ve sözde bir tür \"planı\" gerçekleştirmek üzere bir yerlere uçar.\n\nBaşkent'in Karanlık Diyarı'nda dolaşan zombilerin, Hirukoların geride bıraktığı insan kalıntıları olduğu düşünülmektedir. Bir Hiruko bir Kırmızı Pelerin'i terk ettiğinde eski konağı özünde bir cesede dönüşür (zombilerin hiçbir Ruh Gücü sergilememesinin nedeni de budur)."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0018",
+        "msgStr": "Munakata'nın gökyüzüne fırlattığı ve şu anda uzayda asılı duran bir makine (veya sözde \"yapay uydu\").\n\nAmacı, EL 200'ü kullanarak kozmostan (tam olarak nasıl olduğu bilinmiyor) özünde sonsuz miktarda enerji toplamaktır. Bu enerji daha sonra Waden One radyo kulesine iletilir ve oradan da Ruhsuz Tanrı'ya yönlendirilir.\n\nRuhsuz Tanrı bu enerjiyi aldığı sürece yıkım saltanatı devam edecektir. Gerçekten dehşet verici bir düşünce."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0019",
+        "msgStr": "Süper Asker Projesi kapsamında yaratılan ilk savaş gemisi. Koutou-ku, Harumi-cho açıklarında belirdi ve ardından Süper Savaş Gemisi Omagatsu'ya dönüştü (görünüşe göre savaş gemisi formuna \"süper savaş gemisi\", dönüşmüş insansı formuna ise \"Ruhsuz Tanrı\" deniyor).\n\nBaşkent korkunç kayıplar verdi ama sonunda Tai-itsu Uydusu yok edildi (Raidou'nun iblisi ve benim sayemde!), böylece Omagatsu'nun enerji kaynağı kesildi ve kapanıp \"batmasına\" neden olundu.\n\n*Aşağıdaki bilgiler Donanma'nın \"SS Projesi Raporu\"ndan alınmıştır\nSüper Asker Projesi kapsamında \"yaşayan, batmaz savaş gemisi\" olarak da biliniyordu. Geminin Tip 91 Ölümsüz Askerleri (daha sonra Cehennem Piyonları olarak adlandırıldı) taşıması ve su altına dalarak diğer ülkelere gizlice saldırmaya olanak tanıması amaçlanmıştı.\n\nKaraya ulaştığında başkentler, askeri tesisler, fabrikalar ve diğer önemli noktalar hedef alınıp yok edilecekti. Ardından Tip 91 Ölümsüz Askerler zayıflamış düşman ulusu kaba kuvvetle boyunduruk altına alacaktı. Orijinal plan buydu.\n\nMunakata'nın ilk Süper Asker Projesi'nde bu gemi \"değişken formlu dalgıç savaş gemisi\" olarak tanımlanmıştı. Bir noktada karada hareket edebilmesini sağlamak için gemiye büyük paletler takmayı amaçladı, ancak bunların geminin 45.000 tonluk ağırlığını taşımasının imkânsız olduğuna karar verildi. Daha sonra geminin yürüyebileceği bir tasarım önerdi, ancak mevcut çağımızın teknoloji seviyesi göz önüne alındığında meslektaşları tarafından alaya alındı.\n\nAncak Sukuna-Hikona'nın iblis güçleri, zaman yolcusunun \"süper\" teknolojisiyle birleşince Hirukoları kullanarak bu fanteziyi gerçeğe dönüştürmeyi başardı.\n\nHirukoların kemikleri yoktur; bu sayede Ruhsuz Tanrı ile kaynaşarak Ruhsuz Tanrı'nın onlara dış iskelet görevi gördüğü, onların ise geminin insansı formunda hareket etmesini sağlayan kaslar ve eklemler haline geldiği simbiyotik bir ilişki kurabildiler. Üstelik Ruhsuz Tanrı'nın gücü, atmosferin ötesinden Tai-itsu Uydusu tarafından Waden One radyo kulesi aracılığıyla tükenmez bir enerji kaynağı olarak sağlanıyordu."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0020",
+        "msgStr": "Omagatsu'dan sonra ortaya çıkan ikinci savaş gemisinin insansı versiyonu (bu formdayken \"Ruhsuz Tanrı\" olarak anılır). (Kişisel bir not düşmek gerekirse, omzunda Kaya—ya da daha doğrusu Raidou XL—ile Harumi-cho'da denizden yükselişini izlerken dehşete kapıldım.)\n\n*Aşağıdaki bilgiler Donanma'nın \"SS Projesi Raporu\"ndan alınmıştır\nBoy: Yaklaşık 400m / Ağırlık: Yaklaşık 60.000 ton (üzerine tutunan Hirukolar nedeniyle savaş gemisi formundan daha ağırdır) / Silahlar: Beş adet çift namlulu 30cm ana top, on iki adet 15cm ikincil top, iki adet yönlendirilmiş yüklü parçacık yoğunlaştırıcısı (yüklü parçacık dağıtım topları)"
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0021",
+        "msgStr": "Kunitsukamiler yönetimi \"bıraktıktan\" sonra ülkemizde şu anda gücü elinde bulunduran ilahi güçler. Amatsukamiler, Yatagarasu'yu kontrol eder ve insan dünyasındaki hükümeti desteklemek için onları kullanır.\n\nBaşlangıçta topraklarımız, her biri kendi bölgesini ayrı bir ülke gibi yöneten Kunitsukami adlı yerli ilahlar tarafından yönetiliyordu. Ancak Takamagahara'dan (göklerden) bir Amatsu elçisi indi ve tüm bölgelerin teslim edilmesini talep etti; Kunitsukamiler de buna boyun eğdi.\n\nFakat bu, her şeyin dostane bir şekilde çözüldüğü anlamına gelmiyor. İki güç çağlar boyunca çarpışmaya devam etti ve çatışma sona erdikten sonra bile bugüne dek süren bir husumet kaldı. Görünüşe göre bu kin mevcut davamızda büyük bir rol oynuyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0022",
+        "msgStr": "Doğum yılı: 1899 / Yaş: 31 / Meslek: Orduda Er / Boy: 174cm / Kilo: 62kg / İkamet: Devam eden görevine göre değişir ancak genellikle Orduya bağlı bir tesiste kalır / En sevdiği yemek: Kroket ve kızarmış pirzola gibi kızartılmış Batı yemekleri (İşinin çoğu zaman fiziksel doğası gereği yakmak için belirli bir miktarda yağ alımına mı ihtiyaç duyuyor? Yoksa sadece bir çocuğunkine benzer damak tadına mı sahip?) / İlgi alanları: Görevini soğukkanlılıkla başarmak\n\nOrduda rahat tavırlı bir birinci sınıf er. Pek zeki görünmüyor ama yine de içten pazarlıklı biri gibi duruyor. Başkalarına oldukça sert davrandığı da biliniyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0023",
+        "msgStr": "Doğum yılı: Bilinmiyor (kontrol etmedim) / Yaş: Muhtemelen ellili yaşlarının sonlarında / Meslek: Kendini bilim insanı ilan etmiş biri / Boy: 180cm / Kilo: 96kg / İkamet: Muhteşem Bilim Laboratuvarı (Senju-ku'da nehir kıyısında bir baraka) / En sevdiği yemek: Etli pilav kasesi (gyudon) / İdeal partner: Bilinmiyor (kasıtlı olarak kontrol etmedim) / İlgi alanları: Yeni bir ulaşım sisteminin geliştirilmesi (roketler ve diğer uçan nesneler üzerine araştırmaları bu yüzdendir)\n\nİyi ya da kötü, tasasız bir kişiliğe sahip sözde bir bilim insanı. Araştırmaları dışında hiçbir şeye ilgi duymuyor.\n\nHayat boyu hayali kendi roketini uzaya fırlatmaktır. Bu hayalin peşinden tüm kalbiyle gidecek Ruh Gücü'ne sahiptir ve bu uğurda köhne bir barakada yaşamaktan gocunmaz.\n\nAşırı hevesli doğası nedeniyle ilk başta yaklaşılması zor biri gibi görünse de çevresindekiler tarafından sevilen biri olduğu anlaşılıyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0024",
+        "msgStr": "Doğum yılı: Bilinmiyor / Yaş: Onlu yaşlarının sonlarında olmalı / Meslek: İblis Çağırıcısı (Narumi Dedektiflik Bürosu'nda çalışıp çalışmadığı bilinmiyor) / Boy: 175cm / Kilo: 65kg / İkamet: Emin değilim / En sevdiği yemek: Daigaku-imo olmalı / İdeal partner: İlk önceliği görevi olduğu için bu bir endişe konusu olmamalı / İlgi alanları: Başkent'i koruyor gibi görünüyor (bu iç rahatlatıcı)\n\nGörünüşe göre paralel bir dünyada yaşayan bir başka Raidou Kuzunoha XIV. Yüzündeki yara izi onu benim Raidou'mdan ayırıyor ve oldukça çarpıcı bir izlenim bırakıyor.\n\nO yara izinin de ima ettiği gibi, paralel dünya bizimkine benzese de aslında farklıdır. Bu durum Raido'nun daha sert kişiliğini kısmen açıklıyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0025",
+        "msgStr": "Doğum yılı: Muhtemelen benimkiyle aynı / Yaş: Muhtemelen benimkiyle aynı / Meslek: Benim gibi mevcut Raidou Kuzunoha'nın ortağı / Boy: Kuyruk hariç 40cm (eğer benimle aynıysa) / Kilo: 3 kg'ın biraz altında (eğer benimle aynıysa) / İkamet: Emin değilim / En sevdiği yemek: Muhtemelen buğulama uskumru (kesinlikle kedi otu değildir... herhalde) / İlgi alanları: Muhtemelen Raido Kuzunoha XIV'ün gelişimine tanıklık etmek\n\nGörünüşe göre paralel bir dünyada yaşayan diğer Raidou Kuzunoha XIV ile birlikte hareket ediyor. Başka bir deyişle, bir başka ben.\n\nGerçekten öyle mi konuşuyorum ben? Ve gerçekten öyle biri miyim? Bu Goto bana şefkatten yoksunmuş gibi geliyor. Bu pek verimli bir yaklaşım olamaz. Bu gidişle Raido ondan çabucak bıkacaktır."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0026",
+        "msgStr": "Çeşitli zaman dilimlerine erişim sağlayan gizemli bir geçit. Karanlık Diyar'dan ayrı olsa da burada da iblislerin bulunduğunu göreceksiniz.\n\nBüyük ihtimalle Raidou Kuzunoha XL bu geçidi kullandı ve Kırkıncı'nın kendi anılarını Daidouji ailesinin kızlarına aktaran bir tür büyü gerçekleştirdi.\n\nBurası Zerdüşt öğretisine göre her şeyin ötesindeki tanrı olan Zurvan Akarana'nın adını taşıyor gibi görünüyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0027",
+        "msgStr": "Bu davanın arkasındaki gerçek suçlu.\n\nKuzunoha klanından bir İblis Çağırıcısı olduğuna ve Raidou XL adını aldığına dair bizzat tanıklık etti (hatta On Dördüncü'ye \"büyük selefim\" diye hitap etti. Ne kadar sefilce...).\n\nMotivasyonu, Kırkıncı'nın yaşadığı gelecek dünyayı nihai olarak değiştirmek amacıyla geçmişi değiştirmek gibi görünüyor. Akarana Koridoru aracılığıyla Raidou XL'in anıları Kaya Daidouji'ye kopyalandı. Sonuç olarak Kırkıncı, Taisho dönemine \"kopyalandı\" ve Munakata'nın Süper Asker Projesi bu gizli gündeme hizmet edecek şekilde ele geçirilip değiştirildi—şüphelerim bu yönde."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0028",
+        "msgStr": "Yarai-ku, Tsukudo-cho'da bulunan bir köprü.\n\nKendisiyle bağlantılı anormal olayların sıklığı nedeniyle sürekli dedikodu konusudur. Özellikle kadim zamanlardan beri köprüyü ziyaret eden insanların aniden ortadan kaybolduğuna ve kayıp insanların yeniden ortaya çıktığına dair raporlar vardır. Aynı zamanda o gizemli kızın kırmızı Özel Muhafızlar tarafından kaçırıldığı yerdir."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0029",
+        "msgStr": "Yardım için Narumi Dedektiflik Bürosu'nu arayan ancak Ushigome-Gaeri Köprüsü'nde kırmızı \"Özel Muhafızlar\" (bkz. Özel Muhafızlar maddesi) tarafından kaçırılan bir kız. Kimliği bilinmiyor ancak dikkat çekici uzunlukta saçları var ve kıyafeti (okul üniforması) muhtemelen bir öğrenci olduğunu gösteriyor. \"Beni öldürmenizi istiyorum\" ve \"Neredeyse on altı yaşıma girdim\" gibi çok tuhaf şeyler söyledi."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0030",
+        "msgStr": "Harada Şti. (Ryugu'nun sahibinin ailesi, yani babası ve ağabeyi tarafından işletilen uluslararası bir ticaret şirketi) ile birlikte Koutou-ku, Harumi-cho'daki tüm deniz taşımacılığını yöneten bir yabancı. Harada'nın oğlu öldükten sonra Elfman, Japon tüccarları bölgeden sürmesi ve Harumi-cho'daki liman faaliyetleri üzerinde tekel kurmasıyla kötü bir şöhret kazandı. Şu anda bölgede önemli bir nüfuza sahip."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0031",
+        "msgStr": "Daidouji Malikânesi'nde karşılaştığımız kimliği belirsiz bir İblis Çağırıcısı. Ancak onu bizzat görmedik—yalnızca bir ses duyduk.\n\nBu İblis Çağırıcısı, Kiyoshi Daidouji bir canavara dönüştükten sonra kaçmasına yardım etti. Ayrıca Karanlık Tsukudo-cho'daki Tsuchigumo, bodrumdaki Gashadokuro ve Daidouji Malikânesi'ndeki Ichimokuren'in tamamının bu Çağırıcı tarafından gönderilmiş olması muhtemel görünüyor (o iblislerin söylediklerine dayanan mantıklı bir tahmin).\n\nKonuşmasında bu bölge için alışılmadık bir tonlama bulunduğunu belirtmekte fayda var. Nereden geldiğinden emin değilim. Belki de bir Karanlık Çağırıcıdır."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0032",
+        "msgStr": "Daidouji Malikânesi'nin oturma odasında Kiyoshi Daidouji ile görüşen kimliği belirsiz bir şahıs. Orduyla bağlantılı olduğu anlaşılıyor, ancak kimliğine dair çıkarabildiğimiz bilgi aşağı yukarı bundan ibaret. Raidou'nun iblisinin kulak misafiri olduğu konuşmaya dayanarak, bu kişi Kaya Daidouji'nin kayıp olduğunu ve evin reisi Takeshi'nin hastalandığını biliyor. Ayrıca Kaya'yı kaçırmak için Kiyoshi ile komplo kurmuş olması da oldukça muhtemel görünüyor. Son olarak, bu bilinmeyen figür Kiyoshi'nin bir dedektif tutma kararını kınadı ve Kuzunoha ile bağlantılı olduğumuzun farkında."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0033",
+        "msgStr": "Ushigome-Gaeri Köprüsü'nde bize pusu kuran ve gizemli kızı kaçıran esrarengiz figürler. Birden fazla saldırgan vardı ancak kimlikleri bilinmiyor. Yine de Raidou'nun bir İblis Çağırıcısı olduğunu tanıdılar, yani mesleğimiz hakkında belli bir düzeyde bilgi sahibi oldukları açık. Ancak belki de en önemlisi, tuhaf bir aura yayıyorlardı (açıklaması zor ama iblislerle savaşmakta bolca deneyimi olanlar bunu tanıyabilir); bu da beni onların bir tür iblis olması gerektiğine inandırıyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0034",
+        "msgStr": "Işıltılı Muhafızların kökeninin, Budist rahip Tenkai'nin Tokugawa Iemitsu'ya ruhsal huzur için Başkent'in etrafına yerleştirilmiş bu koruyucu heykellerde dua etmeyi önerdiği 1630 yılına dayandığı düşünülür. Her bir heykele Beş Element felsefesine karşılık gelen bir rengin adının verildiği söylenir.\n\nBu beş renkli heykele ek olarak, Solgun Muhafız adı verilen gizli bir altıncı heykelin daha olduğu söylenir. Adından da anlaşılacağı üzere renksizdir. Etrafındaki araziye atıfla Koy Muhafızı olarak da bilinir. Koy Muhafızı'nın içinde ruhsal huzuru sağlamak için gereken bir kristal kürenin gömülü olduğu ve bu kürenin muazzam bir ruhsal güç barındırdığı söylenir.\n\nKoy Muhafızı ile ilgili yazılı kaynakların çoğunun, muhtemelen kristal küresinin kötü niyetli kullanımını önlemek amacıyla Meiji Restorasyonu civarında yakıldığına inanılmaktadır. (O dönemde yeni kurulan Meiji hükümeti, henüz emekleme aşamasındaki ulusu devirmeye yardımcı olabilecek potansiyele sahip her şeyi ortadan kaldırmak için çaresizce çabalıyordu. Muhtemelen bu kristal küreyi de öyle bir şey olarak gördüler. Önceki hükümeti bizzat devirdikleri için düşmanlarını çok iyi tanıyorlardı ve epey paranoyaklaşmış olmalıydılar.)"
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0035",
+        "msgStr": "Element 200; var olmaması gereken \"süper\" madde (belki uzun zaman önce bir meteordan gelmiştir, kim bilir). Koy Muhafızı'nın içine gömülüydü ve Kaya Daidouji'yi ele geçiren iblis tarafından alındı."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0036",
+        "msgStr": "Yatagarasu Elçisi, Arınma Ritüeli'ni gerçekleştirdiğinde Raidou lanet için bir Fuchikoma görevi gördü. Başka bir deyişle, lanetin kaynağını arayabilmesi için bedeni lanetin aktarılacağı bir kurban haline getirildi.\n\n\"Fuchikoma\" adı \"benekli at\" anlamına gelir. Bu doğrultuda \"Ame-no-Fuchikoma\" (veya \"göksel Fuchikoma\"), \"cennetten gelen bir at\" veya \"güzel bir at\" olarak yorumlanabilir.\n\nTerim, arınma ritüellerindeki yakarışlardan ve Kojiki'de geçen, Susano-o'nun derisi yüzülmüş bir atı (Ame-no-Fuchikoma) Amaterasu'nun dokuma salonuna fırlattığı hikâyeden gelir. Atın bir kurban olarak kullanılması, \"bir laneti kabul etmek için kişinin kendi bedenini kurban etmesi\" prosedürüyle örtüşmektedir. Kendi İblis Çağırıcılarını bile gözden çıkarılabilir yük beygirleri olarak gören Yatagarasu'dan beklenecek derecede yerinde bir isimlendirme."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0037",
+        "msgStr": "Tarihsel olarak bu isim, fatihleri tarafından kökleri kazınanları; daha spesifik olmak gerekirse merkezi otoriteye isyan eden ve bunun sonucunda \"iblis\" olarak damgalanıp idam edilen ruhları ifade eder. Bu ruhlar Kunitsukamilerin bir alt grubuydu.\n\nSonunda ülkenin liderleri korkudan onları tanrılaştırdı—gerçi o noktadan sonra bunun pek bir önemi kalmamıştı. Boyun Eğmeyenlerin öfkesi dindirilemedi ama onları yatıştırmak adına bugün bile festivaller düzenlenmeye devam ediyor. (Bu durum hükümetimiz ve yetkilileri için oldukça tipiktir. En çok ihtiyaç duyulan zamanda asla vakit veya para harcamazlar, sonra da bunun acısını çekerler. Bu ülke kaynaklarını neden bu kadar çarçur ediyor ki?)\n\nAyrıca belirtmeye değer bir diğer nokta: Kunitsukamiler, Yatagarasu'nun tarafını tuttuğu Amatsukamiler tarafından alaşağı edilmiştir."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0038",
+        "msgStr": "Omagatsu'dan sonra ortaya çıkan ikinci savaş gemisi. Tıpkı Omagatsu gibi o da Süper Asker Projesi'nin bir parçası olan \"yaşayan, batmaz bir savaş gemisi\" idi.\n\n*Aşağıdaki bilgiler Donanma'nın \"SS Projesi Raporu\"ndan alınmıştır\nUzunluk: 230m / Ağırlık: 45.000 ton (normalde, kaldırma kuvveti hesaba katılmadan) / Silahlar: Beş adet çift namlulu 30cm ana top, on iki adet 15cm ikincil top, dört adet torpido kovanı"
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0039",
+        "msgStr": "Roket itki sistemi için hayati önem taşıyan matematiksel bir denklem. Doğu Avrupalı bilim insanı Hevrei Itolkovsky (1855 civarında doğdu) tarafından yayımlanmıştır.\n\nItolkovsky boş zamanlarında matematik ve fizik çalışırken bir yandan da bilimkurgu yazarı olarak çalışıyordu. 1896 yılına gelindiğinde Itolkovsky Denklemi'ni içeren \"Roket İtki İlkeleri\" adlı kitabını yayımlamıştı. En bilinen eseri ise 1903'te yayımlanan \"Beşiğin Ötesinde\" idi. Bu bilimkurgu romanı çok kademeli roketlere, sıvı yakıtlara ve yapay uydulara atıflar içeriyordu.\n\nItolkovsky'nin edebi eserlerinin ve denkleminin arkasındaki fikirler o dönem için o kadar özgündü ki pek çok kişi bunları kabul etmekte zorlandı ve çabaları büyük ölçüde görmezden gelindi. Ancak son zamanlarda çalışmaları nihayet takdir edildi ve \"roketçiliğin babası\" olarak anılmaya başladı.\n\nYabancı ülkelerdeki bilim insanları onun denklemini geliştirdiler ve görünüşe göre roket mühendisliği alanında büyük adımlar atıyorlar (sanırım bu, roketlerin yakında gerçeğe dönüşebileceği anlamına geliyor).\n\nDahası, görünüşe göre Itolkovsky bir noktada ülkemizi ziyaret etmiş ve \"İlham Diyarında Geleceği Görmek\" adlı kitabı burada geçirdiği zamanı detaylandırıyor. İlginçtir ki kitapta Daidouji ailesiyle (Takeshi'nin selefi döneminde) kurduğu temastan da bahsediliyor."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0040",
+        "msgStr": "Aslen lanetleri sahiplerine geri göndermek veya kötü ruhları yeraltı dünyasına döndürmek için kullanılan bir teknik. Eşdeğer bir etki tılsımlara da aşılanabilir.\n\nRasputin bizi alternatif bir evrene gönderdikten sonra Raidou ve benim eve dönebilmemiz için, o evrenin Raido Kuzunoha XIV'ünün yardımına başvurduk ve bizi kendi orijinal zaman çizgimize döndürmesi için üzerimizde Ruh Gönderme Ritüeli'ni gerçekleştirmesini sağladık. Bir laneti veya ruhu kovmak yerine kendimizi başka bir zaman çizgisine göndermek, Ruh Gönderme Ritüeli için oldukça sıra dışı bir kullanım.\n\nAlışılmadık uygulaması bir yana, bunu mümkün kılan şey geçmişi, bugünü ve geleceği özgürce algılayabilen ilahi bir alet olan Amatsu Kanagi'nin gücüydü."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0041",
+        "msgStr": "Daidouji ailesinin kızlarının on altı yaşına girdiklerinde \"bir iblis tarafından ele geçirildiklerine\" inanılsa da işin aslı, ele geçiren kişinin gelecekten gelen bir zaman yolcusu olduğudur."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0042",
+        "msgStr": "Raidou Kuzunoha XL, 21. yüzyılda yaşıyor. Taisho döneminin çok ötesindeki bu gelecekte Tokyo, söylenenlere göre başka bir yerden gelen bir Tanrı ve onun hizmetkârları tarafından yönetiliyor.\n\nBaşkent'teki tüm insanların \"eşit\" ilan edilmesi; özel mülkiyet hakkı, kendini ifade etme özgürlüğü, kendi ülkelerini yönetme ve kendi geleceklerini seçme hakkı dahil pek çok toplumsal özelliğin kaybedilmesine yol açmış. Ancak insanlar bitmek bilmeyen savaşlardan ve çöken dünya ekonomisinden o kadar bitkin düşmüşler ki Tanrı'nın bu saltanatını bir lütuf olarak kabul ediyorlar.\n\nEşitliğin ilan edilmesi ve ardından insanların elinden her şeyin alınmasıyla zengin ile fakir arasındaki uçurum (ve bizzat toplumsal hiyerarşi kavramının kendisi) ortadan kalkmış. Elbette bu değişimden en çok zarar görenler varlıklı sınıf ve politikacılar olmuş. Kitleler ise \"kimse bir diğerinden daha iyi yaşamayacak\" hükmü verildiği için Tanrılarının yönetimini kollarını açarak karşılamış.\n\nHerkes aynı kabul edilince \"eşitlik zihniyeti\" yükselmeye başlamış. Kalabalıklar, sadece korkmuş olanlar da dahil olmak üzere bu kutsal tekdüzelikten en ufak bir sapma gösteren herkesi hedef almaya başlamış. Muhalifler, Orta Çağ'daki cadı avlarına benzer şekilde ihbar edilip kınanmış. Bu tür davranışlar coşkulu bir üstünlük hissi sağlamış ve karanlık gerçekliklerinin ağırlığından kısa süreli bir psikolojik kaçış işlevi görmüş.\n\nVe böylece Kırkıncı'ya göre insanlar kendi ayakları üzerinde durmaya çalışmaktan vazgeçmişler."
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0043",
+        "msgStr": "21. yüzyıl dünyasında Raidou Kuzunoha, Tanrı'nın hizbi tarafından bir \"yabancı\" olarak görülüyor ve bir \"kurbanlık piyon\" olarak asi unsurları boyunduruk altına almak üzere (hangi savaşın verildiği belirsiz) cepheye gönderilmiş.\n\nBu dönemde Raidou adını alanlar bir yıldan fazla hayatta kalabilirlerse şanslı sayılıyorlar—bazıları yerlerine yenisi geçmeden önce yalnızca birkaç gün dayanabilmiş. Böylece bu isim hızla 40. nesline ulaşmış. Ayrıca çok eski zamanlardan beri ülkeyi destekleyen Yatagarasu, Tanrı tarafından dağıtılmış ve Kuzunoha klanı da bunun sonucunda sıradan bir askeri unsura indirgenmiş.\n\nDünyanın haline bakan Kırkıncı, bugünden kurtulmanın tek umudunun onu yok etmek olduğuna ve bugünü değiştirmek için geçmişi değiştirmekten başka çare kalmadığına ikna olmuş. (Kırkıncı görünüşe göre gelecekteki dünyanın halinden bizim gibi geçmişteki insanların sorumlu olduğuna ve daha iyi bir gelecek adına ölmeyi hak ettiğimize inanıyor. Ne delilik ama.)"
+      },
+      {
+        "msgID": "DBOOK_DITECT01_L0044",
+        "msgStr": "Her şey Raidou Kuzunoha XL'in anıların aktarılmasına olanak tanıyan bir tekniği uygulamasıyla başladı. Ardından Akarana Koridoru kullanılarak bu anılar uzay-zaman boyunca çeşitli dönemlere, başka insanlara aktarılmak üzere gönderildi.\n\nDaha açık ifade etmek gerekirse, bu aktarımlar Daidouji ailesinin tüm nesillerindeki kızlara eşzamanlı olarak (ya da birden fazla zaman diliminde hareket ederken bir şey ne kadar \"eşzamanlı\" olabilirse o kadar) dayatıldı. Ve Kırkıncı'nın (geleceğe dair bilgiler içeren) anılarının her bir parçası geçmişe gönderildikçe tarihin çarkları kontrolden daha da çıktı ve sonuçta Taisho döneminin 20. yılına kadar devam etmesiyle doruğa ulaştı.\n\nTüm bunlar, Daidouji ailesinin sözüm ona \"bir iblis tarafından ele geçirilme\" geleneğini yaratan kişinin Raidou XL olduğu anlamına geliyor. Üstelik bu tekniğin uygulanmasıyla birlikte Daidouji ailesi bu \"ele geçirilme\" durumunu derhal sözde \"köklü bir gelenek\" olarak benimsedi.\n\nAnılar gönderildikten sonra iblis Sukuna-Hikona, Kırkıncı tarafından çağrıldı ve ardından bir \"tekil soruşturmaya\" gönderildi. Amaç Munakata'nın bedenini ele geçirmek, Süper Asker Projesi'ni tamamlamak ve ritüeli (yeraltı gemi inşa tesisinde) tamamlamak üzere Kaya Daidouji'yi kaçırarak anı aktarımını bitirmekti.\n\nSonuçta Kırkıncı, Sukuna-Hikona ve Kunitsukamilerden faydalanarak onların \"Amatsukamilerden intikam alma\" arzusunu daha kişisel bir gündem için kullandı (gerçi hedeflerinin nihayetinde örtüştüğünü söyleyebilirim).\n\nBu arada, gelecekteki bu Raidou, bilim ve teknolojiden yararlanan \"COMP\" adlı bir makine kullanarak iblisleri çağırıyor ve kullanıyor. Görünüşe göre bu makineler çeşitli şekillerde olabiliyor ve Kırkıncı'nınki bir katana şeklinde. Sukuna-Hikona'yı çağırma imkânını bu makinenin sağlamış olması muhtemel. Çağırmaya yönelik bu gelecek yaklaşımı, iblisleri tüplerden çağırmak ve doğrudan kontrol etmek için ruhsal güç kullandığımız bizim yöntemimizden temel olarak farklıdır.\n\nAyrıca dikkate değer bir nokta: Kırkıncı'nın anılarını Daidouji ailesinin kızlarına aktarmak için kullanılan teknik görünüşe göre tamamlanmamış bir sanat. Görünüşe göre \"Reiwa\" adında bir gelecek dönemi var (tabii bize göre \"gelecek\") ve anı aktarma tekniği bu noktanın ötesine geçememiş gibi duruyor.\n\nAncak On Dördüncü, Kırkıncı'yı alt ettiğine göre bu sözde Reiwa döneminden artık daha fazla zarar gelmemeli. Böylece On Dördüncü, Kırkıncı'nın umutlarına, yani Ruh Gücü'ne karşı zafer kazanmayı başardı.\n\nKırkıncı, bir keresinde bir iblisin insanların korunmayı hak etmediğini söylediğinden bahsetmişti. Bu tür sözler Kırkıncı'nın hissettiği ıstırabı ve yalnızlığı yansıtıyor olmalı. Düşmanımız olsa da içinde bulunduğu durumun oldukça umutsuz olduğunu kesinlikle anlayabiliyorum.\n\nAncak niyet bir yana, hiçbir tehdit onların korkunç eylemlerini haklı çıkaramaz. Bu nedenle Kırkıncı'nın suçları karşılıksız kalamaz.\n\nFakat bizim alt ettiğimiz şey yalnızca aktarılmış anıların bir tezahürüydü. Gerçek Kırkıncı hâlâ gelecekte bir yerlerde varlığını sürdürüyor. O kişi geleceği değiştiremeden şu anda hâlâ acı mı çekiyor? Elbette başka bir ihtimal daha var ama bunu düşünmemeyi tercih ederim."
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:27:34"
+}

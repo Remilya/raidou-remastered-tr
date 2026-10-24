@@ -1,0 +1,133 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "E62X_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "e620_001_CC_00",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "E620_001_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E620_001_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e621_001_e621_001_01_000",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E621_001_L0000",
+        "msgStr": "Tohokami emitama...\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_02_001",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E621_001_L0001",
+        "msgStr": "Ahariya asobasutomausanu...\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_03_002",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E621_001_L0002",
+        "msgStr": "Asakurani...\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_04_003",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E621_001_L0003",
+        "msgStr": "Ibukidonushitoiukami...\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_05_004",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E621_001_L0004",
+        "msgStr": "Orimashimase...\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_06_005",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E621_001_L0005",
+        "msgStr": "Hurube yurayurato hurube...\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_07_006",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "E621_001_L0006",
+        "msgStr": "Kendine güven!\n<mw 90>"
+      },
+      {
+        "msgID": "e621_001_e621_001_08_007",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "E621_001_L0007",
+        "msgStr": "Raidou...\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_09_008",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E621_001_L0008",
+        "msgStr": "Seni bekliyor olacağım.\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_10_009",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E621_001_L0009",
+        "msgStr": "Haraheyare... Haraheyare...!\n<mw 120>"
+      },
+      {
+        "msgID": "e621_001_e621_001_11_010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "E621_001_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "e622_001_e622_001_01_000",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "E622_001_L0000",
+        "msgStr": "Tekrar hoş geldin, Raidou!\n<mw 120>"
+      },
+      {
+        "msgID": "e622_001_e622_001_02_001",
+        "msgStr": "Raidou"
+      },
+      {
+        "msgID": "E622_001_L0001",
+        "msgStr": "T-Teşekkürler... Evde olmak güzel."
+      }
+    ]
+  },
+  "_convDateTime": "2024/12/10 15:49:41"
+}

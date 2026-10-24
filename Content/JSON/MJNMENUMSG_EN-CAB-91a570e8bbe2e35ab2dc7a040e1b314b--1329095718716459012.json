@@ -1,0 +1,49 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MJNMENUMSG_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "MJNMENUMSG_L0000",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MJNMENUMSG_L0001",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "MJNMENUMSG_L0002",
+        "msgStr": "> Bu rakiplerle mahjong oynansın mı?"
+      },
+      {
+        "msgID": "MJNMENUMSG_L0003",
+        "msgStr": "> Mahjong oynamayı bırak?"
+      },
+      {
+        "msgID": "MJNMENUMSG_L0004",
+        "msgStr": "> Raidou <V 0> yen elde etti."
+      },
+      {
+        "msgID": "MJNMENUMSG_L0005",
+        "msgStr": "> Raidou <V 0> yen kaybetti."
+      },
+      {
+        "msgID": "MJNMENUMSG_L0006",
+        "msgStr": "> Narumi de oyuna katılsın mı?"
+      },
+      {
+        "msgID": "MJNMENUMSG_L0007",
+        "msgStr": "> Daha fazla para taşınamaz!"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:50:33"
+}

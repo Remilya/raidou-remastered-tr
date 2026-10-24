@@ -1,0 +1,201 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_BASIC02_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_BASIC02_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0021",
+        "msgStr": "Doğum yılı: 1898 / Yaş: 32 / Meslek: Narumi Dedektiflik Bürosu'nun Yöneticisi / Boy: 180cm / Kilo: 68kg / İkamet: Yarai-ku'daki Narumi Dedektiflik Bürosu / En sevdiği yemek: Kahve ve etli pilav (hayashi rice) / İdeal partner: \"Uzun saçlı olabilir\" (üzerine pek düşünmediği belli)\n\nNarumi Dedektiflik Bürosu'nun başı ve resmiyette Raidou'nun amiri. Her zaman fötr şapkasını takar. \"Eğlenceli ve rahat bir yaşam\" hayat felsefesidir ve bunu kesinlikle dışa vurur.\n\nİlk bakışta sorumsuz ve kaçamak biri gibi görünür, ancak gerçekte güçlü bir Ruh Gücü taşır; her zaman yardıma muhtaç olanların imdadına koşar ve talihsizleri ayakları altına almaya kalkışan herkesin karşısına dikilir.\n\nGeniş bir bağlantı ağı kurmuştur, bu yüzden sıradan bir dedektif olmadığı ortadadır. <U_COLOR 1>Aslına bakılırsa eskiden İmparatorluk Ordusu'nda bir istihbarat subayı (casus) olduğu ortaya çıktı. O dönemde ordunun iç hizip savaşlarına karışmış ve nihayetinde (istemeden de olsa) Munakata'nın gözden düşmesinin sebeplerinden biri olmuş.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0031",
+        "msgStr": "Yatagarasu'nun lideri (gerçi \"lider\" kelimesi onun için fazla basit kalabilir). Bu şahısla ilgili her şey gizem perdesiyle örtülüdür.\n\nDoğal olarak (bizim gibi) alt kademedekiler, Lord Takagi'nin huzuruna çıkmak şöyle dursun, hakkında kayda değer bir bilgi edinme ayrıcalığını bile beklememelidir (Arınma Ritüeli'nde huzuruna kabul edildiğimizde kalbimin neredeyse duracak gibi olmasının nedeni de budur). Yatagarasu Elçisi'nin söylediğine göre Takagi, \"Yatagarasu'nun baş tanrısıdır ve diğer tanrılara rehberlik eder.\"\n\nBundan bahsetmek yakışıksız olabilir ama On Dördüncü'nün iyiliği için not düşüyorum: Takagi'nin, \"Takagi-no-Kami\" olarak da bilinen üç yaratılış tanrısından biri olan Takamimusubi-no-Kami olduğuna dair aptalca bir teorim var. Eğer bu doğruysa, Takagi yerin ve göğün yaratılışında pay sahibi olmuş demektir—kadın ve erkek ayrımından önceki bir zamandan gelen, güneş ve ay da dahil olmak üzere pek çok tanrının ebeveyni olan nev-i şahsına münhasır bir tanrı.\n\n<U_COLOR 1>Not: Böylesine yüce birinin tek bir iblisin lanetini nasıl olup da bozamadığını merak etmeden edemiyorum. Belki de kasıtlı bir eylemsizlikti. (Zihnim boş kaldığında böyle komplo teorileri üretiyorum işte. Neyse, işimize dönsek iyi olur.)<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_BASIC02_L0045",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/29 17:37:56"
+}

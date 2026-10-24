@@ -1,0 +1,253 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "TIPS_PAGE2TEXT_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0017",
+        "msgStr": "<INS_IMG 003>\n\n<BTN_OP1> düğmesine basarak <COLOR 1>haritayı<COLOR 0> kontrol edin. <COLOR 1>Sonraki hedef<COLOR 0>, bir <ICN_02> sembolüyle işaretlenecektir.\n\nAyrıca mini haritada <COLOR 1>sonraki hedefin hangi yönde olduğunu<COLOR 0> da görebilirsiniz.\n\n\nNot: <COLOR 1>Hedeflerin görüntülenip görüntülenmeyeceğini \"Oyun Ayarları\" içinden kontrol edebilirsiniz.<COLOR 0> Kendi başınıza soruşturma yapmayı tercih ederseniz bu özelliği devre dışı bırakabilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0025",
+        "msgStr": "İblislerinizin sahip olduğu üç yetenek türünü de görüntüleyebilirsiniz: <COLOR 1>savaşta kullanılan<COLOR 0> Savaş Yetenekleri; <COLOR 1>sahada kullanılan<COLOR 0> Soruşturma Yetenekleri ve iblislerin kabiliyetlerini otomatik olarak geliştiren Pasif Yetenekler.\n\n<BTN_L1> veya <BTN_R1> düğmesine basarak iblislerin yetenek kategorileri arasında geçiş yapın. Ayrıca <COLOR 1>tekil yeteneklere<COLOR 0> daha yakından bakmak için <BTN_X> düğmesine basabilirsiniz."
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0028",
+        "msgStr": "Gouma-Den'de iblis füzyonu gerçekleştirmek, bir İblis Çağırıcısı olarak rolünüz için hayati önem taşır. <COLOR 1>Sık sık ziyaret ettiğinizden emin olun<COLOR 0>."
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0035",
+        "msgStr": "<INS_IMG 007>\n\nBir yetenek kısmen öğrenildiğinde, yetenek adının altında bir <COLOR 1>ustalık seviyesi<COLOR 0> görüntülenir. Bu seviye, iblisin öğrenimini pekiştirmek için <COLOR 1>aynı yetenek kitabından daha fazla<COLOR 0> kullanıldığında artacaktır. <COLOR 1>Ustalık seviyesi yeterince yükseltildiğinde<COLOR 0>, yetenek tamamen öğrenilmiş olur. Belirli bir yeteneğin sahip olabileceği seviye sayısı, <COLOR 1>kullanılan yetenek kitabının türüne<COLOR 0> ve <COLOR 1>iblisin Düzenine<COLOR 0> bağlı olacaktır.\n\nBir iblise normalde seviye atlayarak öğreneceği bir yeteneği öğretmek için bir yetenek kitabı kullanırsanız, o yetenek yalnızca tek bir yetenek kitabı kullanıldıktan sonra tamamen öğrenilecektir. Belirli bir iblis bir yeteneği füzyon yoluyla devralamıyorsa, <COLOR 1>o iblisin o yeteneği hiçbir şekilde öğrenemeyeceğini<COLOR 0>, yani <COLOR 1>yetenek kitapları kullanarak bile o yeteneği öğrenemeyeceğini<COLOR 0> unutmayın."
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0050",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0051",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0052",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0053",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0054",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0055",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0056",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0057",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "TIPS_PAGE2TEXT_L0058",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/07/22 17:05:38"
+}

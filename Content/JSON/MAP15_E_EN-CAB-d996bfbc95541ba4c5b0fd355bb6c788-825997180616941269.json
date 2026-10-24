@@ -1,0 +1,2541 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP15_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map15_e_map15_DREAM_01_000",
+        "msgStr": "Bakan Shiba"
+      },
+      {
+        "msgID": "MAP15_E_L0000",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map15_e_map15_DREAM_02_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0001",
+        "msgStr": "> Sanki bir şey söylemek istiyor gibi görünüyor."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_01_002",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0002",
+        "msgStr": "Ancak körkütük sarhoş biri kafayı bulmadığını iddia eder!"
+      },
+      {
+        "msgID": "MAP15_E_L0003",
+        "msgStr": "Ha, aslında sarhoş değilim, yanlış anlama. Sadece beş parasız olduğum için kendimi öyle hissediyorum."
+      },
+      {
+        "msgID": "MAP15_E_L0004",
+        "msgStr": "Bu koca toprak parçasının üzerinde hepimiz kardeşiz. Sen ve ben de kardeşiz."
+      },
+      {
+        "msgID": "MAP15_E_L0005",
+        "msgStr": "Sana \"abi\" mi demeliyim? Yoksa sadece \"birader\" dememi mi tercih edersin?"
+      },
+      {
+        "msgID": "MAP15_E_L0006",
+        "msgStr": "Neden sosyetik bir \"restoranda\" yemek için para ödeyesin ki?"
+      },
+      {
+        "msgID": "MAP15_E_L0007",
+        "msgStr": "Çöpleri karıştırarak ihtiyacım olan tüm yemeği ve içkiyi bulabiliyorum."
+      },
+      {
+        "msgID": "MAP15_E_L0008",
+        "msgStr": "Bir otomobil, çekçeği haftanın her günü havada karada geçer."
+      },
+      {
+        "msgID": "MAP15_E_L0009",
+        "msgStr": "İki tekerlekli bir araç dört tekerlekliyle boy ölçüşemez bile! Tekerlek sayısı çok mühimdir!"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP03_01_003",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0010",
+        "msgStr": "İlerideki şu fabrika, çalışkan ipek böceklerini kullanarak ipek ipliği üretiyor."
+      },
+      {
+        "msgID": "MAP15_E_L0011",
+        "msgStr": "Ama ipek böceklerine para ödemiyorlar. O küçük böcekler sendika kurmayı düşünmeli."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP04_01_004",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0012",
+        "msgStr": "Japonya dışına hiç adım atmadım, bu yüzden deniz aşırı ülkelerde neler olup bittiğine dair en ufak bir fikrim yok."
+      },
+      {
+        "msgID": "MAP15_E_L0013",
+        "msgStr": "Benim gibi dar görüşlü bir adamın koca okyanus için endişelenmesine gerek yok."
+      },
+      {
+        "msgID": "MAP15_E_L0014",
+        "msgStr": "Görünüşe göre insanların davranışları falan her ülkede farklıymış."
+      },
+      {
+        "msgID": "MAP15_E_L0015",
+        "msgStr": "Ama bilemiyorum... Ben Başkent'te doğup büyüdüm ama bunun yıkanmamamla hiçbir alakası yok."
+      },
+      {
+        "msgID": "MAP15_E_L0016",
+        "msgStr": "Neden buradaki insanlar yabancılarla birlikte olmaya bu kadar hevesli?"
+      },
+      {
+        "msgID": "MAP15_E_L0017",
+        "msgStr": "<IT_S>Buradaki<IT_E> insanların neyi eksik, ne demek istediğimi anlıyor musun?"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP05_01_005",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0018",
+        "msgStr": "Polis ya da Ordu bu tarafa geldiğinde epey geriliyorum."
+      },
+      {
+        "msgID": "MAP15_E_L0019",
+        "msgStr": "Tabii masum görünmeye ne kadar çok çalışırsam o kadar az masum görünüyorum..."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP05_02_006",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0020",
+        "msgStr": "Fotoğraf çekerken insanlara emir yağdıran o uyuzlar tam bir baş belası."
+      },
+      {
+        "msgID": "MAP15_E_L0021",
+        "msgStr": "Bir tür tehditmiş gibi \"Gülümse!\" diye hırlıyorlar. Ya gülümsemezsem, ha?"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP05_03_007",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0022",
+        "msgStr": "\"Munakata\" Japoncada \"saygıdeğer heykel\" anlamına gelir."
+      },
+      {
+        "msgID": "MAP15_E_L0023",
+        "msgStr": "Başka bir deyişle, saygın bir kalın kafalı. Tıpkı adı gibi taş kafalının teki!"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP06_01_008",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0024",
+        "msgStr": "Telefonlar berbat bir şey çünkü karşındakinin duygularını umursamadan ahizeden bağırabiliyorsun."
+      },
+      {
+        "msgID": "MAP15_E_L0025",
+        "msgStr": "Birinin yüzüne bakmak zorunda olmadığında ona pislik gibi davranmak kolaydır."
+      },
+      {
+        "msgID": "MAP15_E_L0026",
+        "msgStr": "Aradığın şey her neyse, onu aradığını unuttuğun anda bulursun."
+      },
+      {
+        "msgID": "MAP15_E_L0027",
+        "msgStr": "Hayat uzun. Sabırlı ol."
+      },
+      {
+        "msgID": "MAP15_E_L0028",
+        "msgStr": "Ginza'yı düşündüğümde aklıma gelen görüntü epey sıkıcı."
+      },
+      {
+        "msgID": "MAP15_E_L0029",
+        "msgStr": "Ne olduğunu sana söylemek bile istemiyorum. Kulağa bayağı aptalca gelecek."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP07_01_009",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0030",
+        "msgStr": "\"İntikam yolculuğuna çıkmadan önce iki mezar kaz.\" Yani kan peşindeysen sonunda bedelini sen de ödersin."
+      },
+      {
+        "msgID": "MAP15_E_L0031",
+        "msgStr": "Ama herkes birilerinden nefret ediyor... bu yüzden dünya mezarlarla dolup taşıyor."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP08_01_010",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0032",
+        "msgStr": "Kalın enseliler yüksek yerleri sever ve en üst kattaki ofisleri tercih eder."
+      },
+      {
+        "msgID": "MAP15_E_L0033",
+        "msgStr": "Sence nedenini biliyorlar mıdır? Umarım biliyorlardır."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP10_01_011",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0034",
+        "msgStr": "Sadece pislikler not bırakır. Okuduklarında orada olmayacağın için istediğin her şeyi yazabilirsin."
+      },
+      {
+        "msgID": "MAP15_E_L0035",
+        "msgStr": "Doğrudan emir vermek yerine \"genelge yayımlayan\" insanlar en beteridir."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP10_02_012",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0036",
+        "msgStr": "Yukarıdaki o top çoktan gözden kayboldu."
+      },
+      {
+        "msgID": "MAP15_E_L0037",
+        "msgStr": "O şeyi stadyumun dışına kim vurduysa bayağı etkileyici. Su götürmez bir sayı vuruşu."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP11_01_013",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0038",
+        "msgStr": "Hayatta hiçbir hedefi olmayan insanlar aptaldır."
+      },
+      {
+        "msgID": "MAP15_E_L0039",
+        "msgStr": "Ama başkalarını düşünmeden hedeflerinin peşinden koşanlar daha da büyük aptaldır."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP11_02_014",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0040",
+        "msgStr": "O kara gemilere minnettar olmalıyız."
+      },
+      {
+        "msgID": "MAP15_E_L0041",
+        "msgStr": "Ziyaretçilere hâlâ o kadar kaba davransaydık başka dillerin varlığından bile haberdar olmazdık."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_EP12_01_015",
+        "msgStr": "Tuhaf Berduş"
+      },
+      {
+        "msgID": "MAP15_E_L0042",
+        "msgStr": "Hm? Kedinin keyfi bayağı yerinde görünüyor. Ben de kendisini epey severim."
+      },
+      {
+        "msgID": "MAP15_E_L0043",
+        "msgStr": "O rokete bindiğini sanıyordum... Hayalet falan değil, değil mi?"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU00_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0044",
+        "msgStr": "> Tuhaf berduşun düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP02_01_017",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0045",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0046",
+        "msgStr": "\"Ne kadar çok içersen o kadar güçlenirsin!\""
+      },
+      {
+        "msgID": "MAP15_E_L0047",
+        "msgStr": "Bazı insanlar sarhoşken kontrolü kaybeder. Sanırım hiçbir çekincen olmadığında gerçekten her şeyi yapabilirsin.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP02_02_018",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0048",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0049",
+        "msgStr": "\"...kardeşlerin bir niteliği...\""
+      },
+      {
+        "msgID": "MAP15_E_L0050",
+        "msgStr": "\"Nitelik\" mi? \"Nitelik\" derken neyi kastediyorsun?<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP02_03_019",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0051",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0052",
+        "msgStr": "\"...açık büfe...\""
+      },
+      {
+        "msgID": "MAP15_E_L0053",
+        "msgStr": "Korsan gibi mi? Hayır, bunu sadece yerde buldum. Ben çöp toplayıcısıyım, hırsız değil.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP02_04_020",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0054",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0055",
+        "msgStr": "\"...4x4...\""
+      },
+      {
+        "msgID": "MAP15_E_L0056",
+        "msgStr": "\"4x4\" mü? Dünyada— Şey, Jüpiter'de ne oluyor? Kelimenin tam anlamıyla ne düşündüğümü bilmiyorum.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP03_01_021",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0057",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0058",
+        "msgStr": "\"...öb... dev... gü... dev... güve...\""
+      },
+      {
+        "msgID": "MAP15_E_L0059",
+        "msgStr": "Ha? Bir tür dev güve canavarı mı? Neden bahsediyorsun sen, Jüpiter?<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP04_01_022",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0060",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0061",
+        "msgStr": "\"Şu köşe yaz köşesi, şu köşe kış köşesi.\""
+      },
+      {
+        "msgID": "MAP15_E_L0062",
+        "msgStr": "B-Bunu söyleyemem! <IT_S>Kimse<IT_E> bunu söyleyemez!<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP04_02_023",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0063",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0064",
+        "msgStr": "\"Dünya küçük...\""
+      },
+      {
+        "msgID": "MAP15_E_L0065",
+        "msgStr": "Ne? Dünya küçük mü? Bana her zaman bayağı büyük görünmüştür...<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP04_03_024",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0066",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0067",
+        "msgStr": "\"İnsanlar markaları ve üniformaları sever.\""
+      },
+      {
+        "msgID": "MAP15_E_L0068",
+        "msgStr": "Hm, üniformanın bana yakışacağını hep düşünmüşümdür..."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP05_01_025",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0069",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0070",
+        "msgStr": "\"Alkolmetreye üfleyin beyefendi, ehliyet ve ruhsatınızı görelim.\""
+      },
+      {
+        "msgID": "MAP15_E_L0071",
+        "msgStr": "Şu polisler durduk yere insanlardan ne kadar da şüpheleniyor!<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP05_02_026",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0072",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0073",
+        "msgStr": "\"'Peynir' deyin!\""
+      },
+      {
+        "msgID": "MAP15_E_L0074",
+        "msgStr": "\"'Peynir' deyin\" mi? Peynirin söylemek için değil, yemek için olduğunu sanıyordum. Bu yayınlar çok kafa karıştırıcı...<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP05_03_027",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0075",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0076",
+        "msgStr": "\"Sürüsüz kalmak, eşsiz bir çorap gibi, yuvarlanan bir taş gibi mi?\""
+      },
+      {
+        "msgID": "MAP15_E_L0077",
+        "msgStr": "Bir şarkı, ha? Beni dans etme havasına sokuyor!<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP06_01_028",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0078",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0079",
+        "msgStr": "\"Lütfen... titreşime alın... film başladığında... kapatın...\""
+      },
+      {
+        "msgID": "MAP15_E_L0080",
+        "msgStr": "Vay canına, bunun ne anlama geldiğine dair hiçbir fikrim yok. Ama içimden bir ses kiminle konuşuyorlarsa kulak vermesi gerektiğini söylüyor.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP06_02_029",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0081",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0082",
+        "msgStr": "\"Kuş ötmezse, ötene kadar beklerim.\""
+      },
+      {
+        "msgID": "MAP15_E_L0083",
+        "msgStr": "Çok etkileyici! Ieyasu gerçekten zeki adam!<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP06_03_030",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0084",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0085",
+        "msgStr": "\"...Taisho'da taş şov...\""
+      },
+      {
+        "msgID": "MAP15_E_L0086",
+        "msgStr": "Oh, iyi ki bunu sesli söylemedim. Kafamın içinde bile kulağa aptalca geliyor!<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP07_01_031",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0087",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0088",
+        "msgStr": "\"Öf, araban çok yavaş. Daha hızlı gidemiyor musun?\""
+      },
+      {
+        "msgID": "MAP15_E_L0089",
+        "msgStr": "Nedenini pek anlamıyorum ama kendimi çok... mahcup hissediyorum?<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP08_01_032",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0090",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0091",
+        "msgStr": "\"Ne kadar büyüklerse o kadar sert düşerler.\""
+      },
+      {
+        "msgID": "MAP15_E_L0092",
+        "msgStr": "Hım, bu ilginçmiş."
+      },
+      {
+        "msgID": "MAP15_E_L0093",
+        "msgStr": "Sanırım büyük yerlere gelmeyi umanlar düşmeyi seviyor olmalı.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP10_01_033",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0094",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0095",
+        "msgStr": "\"Evden kaçıyorum. Beni bulmaya çalışmayın.\""
+      },
+      {
+        "msgID": "MAP15_E_L0096",
+        "msgStr": "Bahse girerim bu da üzerinde \"Basmayın\" yazan düğmelerle aynı mantıkta çalışıyordur.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0097",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0098",
+        "msgStr": "\"Çift kılıç mı!? Yüz yıldır kimse bunu başaramamıştı!\""
+      },
+      {
+        "msgID": "MAP15_E_L0099",
+        "msgStr": "Vay anasını, işler şimdi iyice kızışıyor.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP11_01_034",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0100",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0101",
+        "msgStr": "\"Hazırlık yapmama gerek yok. Sırf irade gücüyle halledeceğim.\""
+      },
+      {
+        "msgID": "MAP15_E_L0102",
+        "msgStr": "Eh, sanırım işleri halletmenin bir yolu da bu.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP11_02_035",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0103",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0104",
+        "msgStr": "\"Komodor Matthew Perry 1853'te Japonya'ya geldi.\""
+      },
+      {
+        "msgID": "MAP15_E_L0105",
+        "msgStr": "Harika... Şimdi de yayınlar bana tarih dersi veriyor."
+      },
+      {
+        "msgID": "map15_e_map15_npc01_Mhor_JYU_EP12_01_036",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0106",
+        "msgStr": "<COLOR 2>Jüpiter'den bir yayın alıyorum..."
+      },
+      {
+        "msgID": "MAP15_E_L0107",
+        "msgStr": "\"Bir kedi ya da sonbahar göğü kadar değişken.\""
+      },
+      {
+        "msgID": "MAP15_E_L0108",
+        "msgStr": "Aha, yani ikisinin de sağı solu belli olmaz anlamında."
+      },
+      {
+        "msgID": "MAP15_E_L0109",
+        "msgStr": "Demek ki sonbaharda balık pişiriyorsam hem kedilere <IT_S>hem de<IT_E> yağmura dikkat etsem iyi olur.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_01_037",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0110",
+        "msgStr": "İhtiyara biraz yemek getirdim ama görünüşe göre bugün buralarda değil."
+      },
+      {
+        "msgID": "MAP15_E_L0111",
+        "msgStr": "Belki yine laboratuvarda geç saatlere kadar kalmıştır. Bazen uyumayı unutuyor."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_02_038",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0112",
+        "msgStr": "Görünüşe göre ihtiyar hâlâ uyuyor. Bu yemeği buraya kadar getirmek kolay olmadı..."
+      },
+      {
+        "msgID": "MAP15_E_L0113",
+        "msgStr": "Deney yaparak geç saatlere kadar çalıştığını anlıyorum ama... Neyse. Daha sonra tekrar gelirim."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP03_01_039",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0114",
+        "msgStr": "İhtiyar bugün de burada değil. Ona birkaç yeni kıyafet getirmiştim."
+      },
+      {
+        "msgID": "MAP15_E_L0115",
+        "msgStr": "Belki yine laboratuvarda geç saatlere kadar kalmıştır. Bazen uyumayı unutuyor."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP04_01_040",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0116",
+        "msgStr": "İhtiyar bugün de burada değil. Onun için taze balık getirdim."
+      },
+      {
+        "msgID": "MAP15_E_L0117",
+        "msgStr": "Belki yine laboratuvarda geç saatlere kadar kalmıştır. Bazen uyumayı unutuyor."
+      },
+      {
+        "msgID": "MAP15_E_L0118",
+        "msgStr": "İhtiyar bugün de burada değil. Onun için taze balık getirdim."
+      },
+      {
+        "msgID": "MAP15_E_L0119",
+        "msgStr": "Bütün gün burada bekleyemem. Balıklar kokmaya başlayacak. Neyse, daha sonra tekrar gelirim."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP05_01_041",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0120",
+        "msgStr": "İhtiyar bugün de burada değil. Bir türlü doğru zamanda gelemiyorum galiba."
+      },
+      {
+        "msgID": "MAP15_E_L0121",
+        "msgStr": "Belki yine laboratuvarda geç saatlere kadar kalmıştır. Bazen uyumayı unutuyor."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP05_02_042",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0122",
+        "msgStr": "İhtiyar bugün de burada değil. Umarım bir yerlere çekip gitmemiştir..."
+      },
+      {
+        "msgID": "MAP15_E_L0123",
+        "msgStr": "Yok canım, işini bitirmeden gidecek biri değildir o."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP05_03_043",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0124",
+        "msgStr": "Ordu da mı bir proje üzerinde çalışıyor?"
+      },
+      {
+        "msgID": "MAP15_E_L0125",
+        "msgStr": "Bakalım önce kim bitirecek: İhtiyar mı yoksa ordu mu?"
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP06_01_044",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0126",
+        "msgStr": "Acaba ihtiyarı bir daha görebilecek miyim? Yalnızlık çekmeye başladım."
+      },
+      {
+        "msgID": "MAP15_E_L0127",
+        "msgStr": "Ama içimde bugün onu göreceğim gibi bir his var."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP06_02_045",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0128",
+        "msgStr": "Vay be, çok güzel bir kız..."
+      },
+      {
+        "msgID": "MAP15_E_L0129",
+        "msgStr": "Keskin bakışlı, hazırcevap kızlar tam ihtiyarın tipidir."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP06_03_046",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0130",
+        "msgStr": "Sonunda ihtiyarı gördüm!"
+      },
+      {
+        "msgID": "MAP15_E_L0131",
+        "msgStr": "Formda görünüyor. İyi olmasına sevindim."
+      },
+      {
+        "msgID": "map15_e_map15_npc02_Mgsy_EP06_04_047",
+        "msgStr": "Neşeli Seyyar Satıcı"
+      },
+      {
+        "msgID": "MAP15_E_L0132",
+        "msgStr": "Bu ihtiyar zerre kadar değişmemiş. Hatunlara gerçekten bayılıyor."
+      },
+      {
+        "msgID": "MAP15_E_L0133",
+        "msgStr": "Formda görünüyor. İyi olmasına sevindim."
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_00_048",
+        "msgStr": "Bakan Shiba"
+      },
+      {
+        "msgID": "MAP15_E_L0134",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_01_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0135",
+        "msgStr": "> Sanki bir şey söylemek istiyor gibi görünüyor."
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_JYU00_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0136",
+        "msgStr": "> Bakan shiba'nın düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_JYU02_051",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0137",
+        "msgStr": "<COLOR 2>Aa, bir insan söyleyeceklerimi mi duymak istiyor?<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0138",
+        "msgStr": "<COLOR 2>Pekâlâ o hâlde, hikâyemi dinler misin?<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0139",
+        "msgStr": "\"Evet\" diye düşün"
+      },
+      {
+        "msgID": "MAP15_E_L0140",
+        "msgStr": "\"Hayır\" diye düşün"
+      },
+      {
+        "msgID": "MAP15_E_L0141",
+        "msgStr": "<COLOR 2>Teşekkür ederim. Çok naziksin.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0142",
+        "msgStr": "<COLOR 2>İnsanlar kullanışlı teknolojilerle geleceği şekillendirdi."
+      },
+      {
+        "msgID": "MAP15_E_L0143",
+        "msgStr": "Ancak kendi geleceklerini inşa etmek için bizimkini çaldılar. Artık bize yer kalmadı.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0144",
+        "msgStr": "<COLOR 2>Ağaçları sökülmüş dağlar... Atıklarla akan nehirler..."
+      },
+      {
+        "msgID": "MAP15_E_L0145",
+        "msgStr": "Arkadaşlarımın çoğu çok sevdikleri yuvalarını terk etmektense ölmeyi seçti.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0146",
+        "msgStr": "<COLOR 2>İnsan toplumunun temelini oluşturduğu için kelimelerden nefret etmeye başlamıştım ama..."
+      },
+      {
+        "msgID": "MAP15_E_L0147",
+        "msgStr": "Aynı kelimeler beni senin gibi nazik insanlara da ulaştırdı."
+      },
+      {
+        "msgID": "MAP15_E_L0148",
+        "msgStr": "Keşke daha fazla insan senin gibi olsaydı, belki o zaman bir umut olurdu...<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0149",
+        "msgStr": "<COLOR 2>Büyüdüğüm ormana geri dönme hayalim beni hayatta tutuyor.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0150",
+        "msgStr": "<COLOR 2>Sakıncası yoksa hayalini benimle paylaşır mısın?<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_return_052",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0151",
+        "msgStr": "<COLOR 2>Elbette. Sen bir insansın...<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0152",
+        "msgStr": "<COLOR 2>Sanırım başka bir şey beklemek benim hatamdı.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_return2_053",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0153",
+        "msgStr": "<COLOR 2>Ne kadar trajik..."
+      },
+      {
+        "msgID": "MAP15_E_L0154",
+        "msgStr": "İster insan ister köpek olsun, hayaller bize umut verir. Bunu unutma.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_DREAM01_054",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0155",
+        "msgStr": "<COLOR 2>Doğduğum ormana geri dönmeyi diliyorum.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_DREAM02_055",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0156",
+        "msgStr": "<COLOR 2>Ve senin hayalini de hatırlıyorum: \"<COLOR 1><NAME 1><COLOR 2>.\""
+      },
+      {
+        "msgID": "MAP15_E_L0157",
+        "msgStr": "<COLOR 2>İster insan ister köpek olsun, hayaller bize devam etme umudu verir. Bunu unutma.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_BUNRI_01_056",
+        "msgStr": "Bakan Shiba"
+      },
+      {
+        "msgID": "MAP15_E_L0158",
+        "msgStr": "Hep o insanla seyahat ediyor gibisin. Seni korkutmuyor mu?"
+      },
+      {
+        "msgID": "MAP15_E_L0159",
+        "msgStr": "İnsanlar bencil yaratıklardır. Dikkatli olmalısın."
+      },
+      {
+        "msgID": "MAP15_E_L0160",
+        "msgStr": "\"Katılıyorum\" diye düşün"
+      },
+      {
+        "msgID": "MAP15_E_L0161",
+        "msgStr": "\"Katılmıyorum\" diye düşün"
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_BUNRI_02_057",
+        "msgStr": "Bakan Shiba"
+      },
+      {
+        "msgID": "MAP15_E_L0162",
+        "msgStr": "Zaten biliyorsun demek?"
+      },
+      {
+        "msgID": "MAP15_E_L0163",
+        "msgStr": "Seni uyarıyorum, çok geç olmadan hemen kaçmalısın."
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_BUNRI_03_058",
+        "msgStr": "Bakan Shiba"
+      },
+      {
+        "msgID": "MAP15_E_L0164",
+        "msgStr": "Seni temin ederim ki bu doğru. Bir gün göreceksin."
+      },
+      {
+        "msgID": "MAP15_E_L0165",
+        "msgStr": "İnsanlar yuvalarımızı ve geleceğimizi çaldı."
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_BUNRI_04_059",
+        "msgStr": "Bakan Shiba"
+      },
+      {
+        "msgID": "MAP15_E_L0166",
+        "msgStr": "İnsanlarla yakın olanları hor görürdüm..."
+      },
+      {
+        "msgID": "MAP15_E_L0167",
+        "msgStr": "Ama seni ve insanını görünce... Belki de öyle yapmakla yanılmışım."
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_BUNRI_05_060",
+        "msgStr": "Bakan Shiba"
+      },
+      {
+        "msgID": "MAP15_E_L0168",
+        "msgStr": "Bir hayalin var mı?"
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_BUNRI_06_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0169",
+        "msgStr": "> <devil 0>, \"hayal\" kavramını anlamadı."
+      },
+      {
+        "msgID": "map15_e_map15_npc03_dog_BUNRI_07_062",
+        "msgStr": "Bakan Shiba"
+      },
+      {
+        "msgID": "MAP15_E_L0170",
+        "msgStr": "Anlıyorum. Pekâlâ, endişelenme. Eninde sonunda senin de bir hayalin olacaktır."
+      },
+      {
+        "msgID": "MAP15_E_L0171",
+        "msgStr": "Hayaller bize umut verir. İnsanlara, köpeklere ve hatta sana bile. Bunu unutma."
+      },
+      {
+        "msgID": "map15_e_map15_af_DREAM_01_063",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP15_E_L0172",
+        "msgStr": "<COLOR 1><NAME 1><COLOR 2>..."
+      },
+      {
+        "msgID": "MAP15_E_L0173",
+        "msgStr": "<COLOR 2>Seninle konuştuktan sonra kendi hayallerimi daha iyi anladığımı hissediyorum.<COLOR 0>"
+      },
+      {
+        "msgID": "MAP15_E_L0174",
+        "msgStr": "<COLOR 2>Bugün burada yaşananları her zaman hatırlayacağım. Umarım hayalimi unutmazsın... kendi hayalini de.<COLOR 0>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_01_064",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0175",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0176",
+        "msgStr": "Rüzgâr hızı, yer çekimi, nem... O kadar çok etken var ki!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_02_065",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0177",
+        "msgStr": "Hmm? Sana dönüp bir kez bile bakmıyor."
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_03_066",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP15_E_L0178",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0179",
+        "msgStr": "Şey... A-Affedersiniz...\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_04_067",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0180",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0181",
+        "msgStr": "Ha? Oho! Merhaba bakalım, güzel kız!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_04_067_01",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0181_01",
+        "msgStr": "Buranın tek \"tekinsiz\" yanı mekânın kendisi değilmiş."
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_04_067_02",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0182",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0183",
+        "msgStr": "Neye ihtiyacın var? Neden buradasın?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0184",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0185",
+        "msgStr": "Roketler ve uzay yolculuğu hakkında bilmek istediğin her şeyi sana anlatabilirim!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0186",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0187",
+        "msgStr": "Her şeyden önce uzayda oksijen olmadığını bilmen gerekiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0188",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0189",
+        "msgStr": "Bu durum insanların kendi başlarına hayatta kalmasını zorlaştırır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0190",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0191",
+        "msgStr": "Anlıyor musun? Yani başka bir deyişle—\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_10_068",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP15_E_L0192",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0193",
+        "msgStr": "Şey, affedersiniz, Dr. Tsukumo.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0194",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0195",
+        "msgStr": "Özellikle sormak istediğimiz bir konu vardı.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_12_069",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0196",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0197",
+        "msgStr": "Oho, demek adımı şimdiden biliyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_13_070",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP15_E_L0198",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0199",
+        "msgStr": "Şey, bize Koy Muhafızı hakkında bir şeyler anlatabilir misiniz acaba?\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_14_071",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0200",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0201",
+        "msgStr": "Ha? \"Koy Muhafızı\" mı...?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0202",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0203",
+        "msgStr": "Kulağa tanıdık geliyor... Uzun zaman önce bir kumsala yerleştirilmiş bir heykel değil miydi o?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0204",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0205",
+        "msgStr": "Hayal meyal hatırlıyorum... Sanırım şimdiki Ginza-cho'nun olduğu yerin civarındaydı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0206",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0207",
+        "msgStr": "Şey, neden öğrenmek istedin ki?\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_18_072",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0208",
+        "msgStr": "Ginza-cho civarında... Bu yeterli bir bilgi değil."
+      },
+      {
+        "msgID": "MAP15_E_L0209",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0210",
+        "msgStr": "Başkent ile ilgiliyse o muhabir kız bir şeyler biliyor olabilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0211",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0212",
+        "msgStr": "Yazılarını Shin-Sekai'de hazırladığını söylemişti.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_SCENE08_20_073",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0213",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0214",
+        "msgStr": "Durun, nereye gidiyorsunuz? Daha roket itki sistemini açıklamadım!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_DR_01_074",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0215",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0216",
+        "msgStr": "Vakit geçirmek için küçük bir habersiz sınava ne dersin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0217",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0218",
+        "msgStr": "\"Uzay\" dediğimde aklına ne geliyor?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0219",
+        "msgStr": "Yıldızlar ve gezegenler."
+      },
+      {
+        "msgID": "MAP15_E_L0220",
+        "msgStr": "Sonsuz olasılıklar."
+      },
+      {
+        "msgID": "MAP15_E_L0221",
+        "msgStr": "Uzay."
+      },
+      {
+        "msgID": "MAP15_E_L0222",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0223",
+        "msgStr": "Evet, teknik olarak doğru cevap bu ama bulaşık suyu kadar sıkıcı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0224",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0225",
+        "msgStr": "Biraz yaratıcılığın olmadan asla kurtulma hızına ulaşamazsın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0226",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0227",
+        "msgStr": "Hm... Bana bu cevabı veren ilk kişi sensin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0228",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0229",
+        "msgStr": "Bunu ihtiyar kafamın bir köşesine kaydedeceğim. Teşekkürler.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0230",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0231",
+        "msgStr": "Bu şekilde cevap veren ilk kişi değilsin. Gerçi diğerleri bunu sırıtırken söylüyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0232",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0233",
+        "msgStr": "Hiçbirinin sandığı kadar zekice bir cevap değil.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP07_DR_01_075",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0234",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0235",
+        "msgStr": "Bir \"lanet\" mi? Senin ilgini çeken şeyler bunlar, ha?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0236",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0237",
+        "msgStr": "Şahsen ben fizikle ilgileniyorum; hesaplayabileceğin, ölçebileceğin ve tahmin edebileceğin şeylerle.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP08_DR_01_076",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0238",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0239",
+        "msgStr": "Elektromanyetik radyasyon sayesinde bilgileri hızlıca ve geniş çapta yayınlayabiliriz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0240",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0241",
+        "msgStr": "Bir gün gazeteler bile o radyo dalgaları üzerinden dağıtılacak.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP10_DR_01_077",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0242",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0243",
+        "msgStr": "Ne? Dünyalar arasında gidip geldin mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0244",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0245",
+        "msgStr": "Bu tıpkı Dr. Einstein'ın teorisine benziyor...<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0246",
+        "msgStr": "Görelilik teorisi, değil mi?"
+      },
+      {
+        "msgID": "MAP15_E_L0247",
+        "msgStr": "Kuantum teorisi, değil mi?"
+      },
+      {
+        "msgID": "MAP15_E_L0248",
+        "msgStr": "Bu Amatsu Kanagi."
+      },
+      {
+        "msgID": "map15_e_EP10_DR_03_078",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0249",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0250",
+        "msgStr": "Evet! Dünya'nın yer çekimini uzay-zamanın bir bükülmesi olarak hesaba katarsam...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0251",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0252",
+        "msgStr": "Çok geçmeden hepimiz tarihin içinde yolculuk edebiliriz!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0253",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0254",
+        "msgStr": "Benim araştırmam ve canlı bir denek olarak senin sayende...\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP10_DR_06_079",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0255",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0256",
+        "msgStr": "Hayır, senin aklına gelen Schrödinger!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0257",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0258",
+        "msgStr": "Dur, bu bir şaka mıydı? Kedin yüzünden mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP10_DR_08_080",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0259",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0260",
+        "msgStr": "Ha, şu ruhani eser zımbırtısı mı?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0261",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0262",
+        "msgStr": "Eh, bana sorarsan arkanı matematiğe dayamadan pek uzağa gidemezsin. \n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP10_DR_10_081",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0263",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0264",
+        "msgStr": "Başarılı bir roket fırlatışı gerçekleşti ve benim roketim bile değildi, öyle mi!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0265",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0266",
+        "msgStr": "Eh, ordudaki o mankafalar yapabiliyorsa benim için çocuk oyuncağı demektir!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_DR_01_082",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0267",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0268",
+        "msgStr": "Bir uydu, uzayın uçsuz bucaksızlığında yalnızca bir zerredir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0269",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0270",
+        "msgStr": "Rastgele bir roket fırlatmak, gözü bağlı dart atmaya benzer. \n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0271",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0272",
+        "msgStr": "Sanırım yabancı dil derslerimi daha ciddiye almalıydım...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0273",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0274",
+        "msgStr": "O dili konuşan birini tanıyorsan orada ne yazdığını bana mutlaka söyle.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP12_DR_01_083",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0275",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0276",
+        "msgStr": "Hey, şey... Roket kazası için üzgünüm...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0277",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0278",
+        "msgStr": "Ama gördün, değil mi? Roketimi! Gerçekten uçtu!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0279",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0280",
+        "msgStr": "Şimdi biraz açgözlülük etmeye başladım! Bir dahaki sefere yukarıya bizzat çıkabilirim!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP06_KAYA_01_084",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP15_E_L0281",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0282",
+        "msgStr": "Burası geleceğe dair hayallerle dolu.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0283",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0284",
+        "msgStr": "Sevdiğin işi yapabilmek bir ayrıcalıktır. Umarım bunun kıymetini biliyorsundur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0284_01",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0284_02",
+        "msgStr": "Keşke senin yanında istediğim şeyi yapabilseydim, <NAME2N 0>...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0285_01",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0285_02",
+        "msgStr": "Şey, <NAME2N 0>...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0285",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0286",
+        "msgStr": "Eğer insanlar korunmaya değer görülmeseydi...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0287",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0288",
+        "msgStr": "...sen <NAME2N 0> mu olurdun, yoksa yine \"Raidou\" mu olurdun?\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE02_01_085",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0289",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0290",
+        "msgStr": "Ne istiyorsun evlat? Bekleyemez mi? Meşgulüm!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0291",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0292",
+        "msgStr": "Başkent'i parçalayan o dev robotu gördün, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0293",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0294",
+        "msgStr": "Şehrimiz kaşla göz arasında moloz yığınına dönecek.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0295",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0296",
+        "msgStr": "Bu yüzden o çirkin suratı roketimle vurup havaya uçuracağım!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0297",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0298",
+        "msgStr": "Şimdi yaylan bakalım! Ayağımın altında dolaşıyorsun!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE02_06_086",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0299",
+        "msgStr": "Doktor, Başkent için savaşmak mı istiyor? Doğrusu etkilendim."
+      },
+      {
+        "msgID": "MAP15_E_L0300",
+        "msgStr": "Gerçi roketini Tai-itsu Uydusu'na karşı kullanmak daha iyi olurdu."
+      },
+      {
+        "msgID": "MAP15_E_L0301",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE02_09_087",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0302",
+        "msgStr": "> Raidou, Dr. Tsukumo'yu Tai-itsu Uydusu hakkında bilgilendirdi."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE02_10_088",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0303",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0304",
+        "msgStr": "Ne? Yukarı fırlattıkları uydu o canavara güç mü veriyor?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0305",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0306",
+        "msgStr": "Ve benim roketimin onu yok edebileceğini mi düşünüyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0307",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0308",
+        "msgStr": "Hayır... Bu yapılamaz.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0309",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0310",
+        "msgStr": "Uzaydaki küçücük bir uyduyu insansız bir roketle vurmak insanüstü bir şey, imkânsız.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0311",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0312",
+        "msgStr": "Uydunun yörüngesini, hızını... Bir sürü hassas sayıyı bilmemiz gerekir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0313",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0314",
+        "msgStr": "O yüzden siz amatörlerden bu işe burnunuzu sokmamanızı rica edeceğim!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE02_16_089",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0315",
+        "msgStr": "Görünüşe göre onu ikna edemedik..."
+      },
+      {
+        "msgID": "MAP15_E_L0316",
+        "msgStr": "Ancak o canavarın bir roketle bile doğrudan alt edilebileceğini sanmıyorum."
+      },
+      {
+        "msgID": "MAP15_E_L0317",
+        "msgStr": "Ordudan biri bize bilgi sağlayabilir. Belki Deniz Kuvvetleri'ndeki şu casus işe yarar."
+      },
+      {
+        "msgID": "MAP15_E_L0318",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE04_01_090",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0319",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0320",
+        "msgStr": "Yine mi sen? Sana meşgul olduğumu söylemiştim! Şu an odaklanmam gereken çok fazla şey var!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE04_02_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0321",
+        "msgStr": "> Raidou, Dr. Tsukumo'ya SS Projesi Raporu'nu gösterdi."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE04_03_092",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0322",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0323",
+        "msgStr": "Hm? Bu da ne?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0324",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0325",
+        "msgStr": "Dur bir dakika... bu senin şu uydunun raporu mu yoksa!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0326",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0327",
+        "msgStr": "Burada planlar, güç kaynağı, kütle, çıkış kapasitesi; her şey var!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0328",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0329",
+        "msgStr": "Peki bu ne? \"Itolkovsky Denklemi\" mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0330",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0331",
+        "msgStr": "Aşağı yukarı kendi kendimi yetiştirdim sayılır ama bu adamın bazı teorileriyle ilgilenmiştim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0332",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0333",
+        "msgStr": "Demek bu uyduyu geliştirdiler ve Itolkovsky'nin uzay uçuşu teorisini kullanarak fırlattılar...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0334",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0335",
+        "msgStr": "O zaman ben de bu verileri kullanarak <IT_S>kendi<IT_E> roketimi uzaya fırlatabilmeliyim!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0336",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0337",
+        "msgStr": "Lanet olsun! Hepsi yabancı dilde! Hiçbir şey anlamıyorum!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0338",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0339",
+        "msgStr": "Ama bu sayılara bakılırsa o uydu oldukça dayanıklı görünüyor...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0340",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0341",
+        "msgStr": "Onu bir roketle vursak bile yok edebileceğimizden emin değilim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0342",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0343",
+        "msgStr": "Bu umut verici ama raporun geri kalanının çevrilmesine ihtiyacım var.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE04_14_093",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0344",
+        "msgStr": "Onu bir roketle vurmak bile yok etmeye yetmeyecek..."
+      },
+      {
+        "msgID": "MAP15_E_L0345",
+        "msgStr": "Fakat uyduya ulaşabilirsek belki onu içeriden yok edebiliriz."
+      },
+      {
+        "msgID": "MAP15_E_L0346",
+        "msgStr": "Raidou, bu raporu okuyabilecek birini bulalım."
+      },
+      {
+        "msgID": "MAP15_E_L0347",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0348",
+        "msgStr": "Belki o tuhaf— Şey, belki Victor okuyabilir."
+      },
+      {
+        "msgID": "MAP15_E_L0349",
+        "msgStr": "Başka ülkelere seyahat etmişti, belki bunu okuyabilir."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE04_18_094",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0350",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0351",
+        "msgStr": "Okuyacak birini bulabilmek için raporu geri mi istiyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0352",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0353",
+        "msgStr": "Sanırım bu, pes etmekten daha iyidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0354",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0355",
+        "msgStr": "Pekâlâ, elini çabuk tut. Birini bulursan elimden geldiğince yardım ederim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0356",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0357",
+        "msgStr": "O canavarı durdurmalıyız!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_01_095",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0358",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0359",
+        "msgStr": "Seni bekliyordum! Denklemi çözdün mü?\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_02_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0360",
+        "msgStr": "> Raidou, Rasputin'in mesajını Dr. Tsukumo'ya iletti."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_03_097",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0361",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0362",
+        "msgStr": "Hım, anlıyorum... Demek roketim güç çıkışına göre fazla ağır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0363",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0364",
+        "msgStr": "Pekâlâ, birkaç ayarlama yapacağım. Saat 15.00'e kadar bitirmek için hızlı çalışacağım!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_05_098",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0365",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0366",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_05_TUIKA01_099",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0367",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0368",
+        "msgStr": "Unutma, uyduyu bir roketle yok edemeyiz."
+      },
+      {
+        "msgID": "MAP15_E_L0369",
+        "msgStr": "Rasputin uydunun içine girip çekirdeği yok etmemizi önerdi."
+      },
+      {
+        "msgID": "MAP15_E_L0370",
+        "msgStr": "Peki bunu nasıl yapacağız dersin?"
+      },
+      {
+        "msgID": "MAP15_E_L0371",
+        "msgStr": "Roketle ben gideceğim."
+      },
+      {
+        "msgID": "MAP15_E_L0372",
+        "msgStr": "Roketle bir iblis göndereceğim."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_05_TUIKA02_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0373",
+        "msgStr": "> Raidou, Dr. Tsukumo'ya rokete binmeye niyetli olduğunu bildirdi."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_08_101",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0374",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0375",
+        "msgStr": "Ne!? Sen çıldırdın mı!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0376",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0377",
+        "msgStr": "Uzayda vakum ortamı olduğunun farkında değil misin!?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0378",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0379",
+        "msgStr": "İnsanlar yukarıda hayatta kalamaz. Saniyeler içinde ölürsün.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_05_TUIKA03_102",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0380",
+        "msgStr": "Kendin gidemiyorsan bir iblis göndermek zorunda kalacaksın."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_05_TUIKA05_103",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0381",
+        "msgStr": "> Raidou, Gouto'ya roketle bir iblis göndereceğini söyledi."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_05_TUIKA06_104",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0382",
+        "msgStr": "Evet, bir İblis Çağırıcısına oldukça yakışır bir karar."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_05_TUIKA04_105",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0383",
+        "msgStr": "Uzun menzilli bir tek başına soruşturma olacak."
+      },
+      {
+        "msgID": "MAP15_E_L0384",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_06_106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0385",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0386",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0387",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0388",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_11_107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0389",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0390",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_12_108",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0391",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0392",
+        "msgStr": "Roket modifikasyonlarıma odaklanmam gerekiyor.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0393",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0394",
+        "msgStr": "Senin de o uydunun icabına nasıl bakacağını bulman lazım.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_14_109",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0395",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0396",
+        "msgStr": "Oh be... Sanırım tamamen hazırız! Hayalim gerçekleşmek üzere...\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_15_110",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0397",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0398",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0399",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP15_E_L0400",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_19_111",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0401",
+        "msgStr": "> Gouto ve iblis rokete girdi."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_TUIKA01_112",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0402",
+        "msgStr": "İblisi tek başına göndermemek en iyisi."
+      },
+      {
+        "msgID": "MAP15_E_L0403",
+        "msgStr": "Ben de gideceğim."
+      },
+      {
+        "msgID": "MAP15_E_L0404",
+        "msgStr": "Zaten gerçek bir kedi değilim, o yüzden uzayda bile bana bir şey olmaz."
+      },
+      {
+        "msgID": "MAP15_E_L0405",
+        "msgStr": "Öyle endişeli bakma. Her şeyin yolunda gideceğinden eminim."
+      },
+      {
+        "msgID": "MAP15_E_L0406",
+        "msgStr": "Rokete yalnızca <IT_S>bir<IT_E> iblis binecek."
+      },
+      {
+        "msgID": "MAP15_E_L0407",
+        "msgStr": "Uyduyu yok etmek için o iblisi buradan, Dünya'dan yönlendireceksin."
+      },
+      {
+        "msgID": "MAP15_E_L0408",
+        "msgStr": "Uzayda olacağız; o yüzden Fiziksel, Buz ve Güç saldırılarına karşı dayanıklı bir iblis gönder. Ve ne olur ne olmaz, savaşabilen biri olsun."
+      },
+      {
+        "msgID": "MAP15_E_L0409",
+        "msgStr": "Ne olacağını bilemeyiz, bu yüzden İblis Rehberi'ni güncellemek de dâhil gerekli tüm hazırlıkları yap."
+      },
+      {
+        "msgID": "MAP15_E_L0410",
+        "msgStr": "Şimdi, hangi iblis gidecek?"
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_TUIKA02_113",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0411",
+        "msgStr": "Hm, yanındaki iblis sayısı az..."
+      },
+      {
+        "msgID": "MAP15_E_L0412",
+        "msgStr": "Hazır olduğunda hemen buraya dön."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_TUIKA03_114",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0413",
+        "msgStr": "Demek <V 0> gönderiyorsun?"
+      },
+      {
+        "msgID": "MAP15_E_L0414",
+        "msgStr": "Doğru."
+      },
+      {
+        "msgID": "MAP15_E_L0415",
+        "msgStr": "Aslında..."
+      },
+      {
+        "msgID": "MAP15_E_L0416",
+        "msgStr": "Henüz emin değilim."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_TUIKA04_115",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0417",
+        "msgStr": "> <V 0> rokete bindi."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_TUIKA05_116",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0418",
+        "msgStr": "Sanırım uzaya çıkan ilk kedi ben olacağım. Hiç hayal etmezdim..."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_TUIKA06_117",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0419",
+        "msgStr": "Pekâlâ, bir karara var. Fazla vaktimiz yok."
+      },
+      {
+        "msgID": "MAP15_E_L0420",
+        "msgStr": "Karar verdiğinde Dr. Tsukumo ile konuş."
+      },
+      {
+        "msgID": "map15_e_EP11_SCENE08_TUIKA07_118",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0421",
+        "msgStr": "Rokete yalnızca <IT_S>bir<IT_E> iblis binecek."
+      },
+      {
+        "msgID": "MAP15_E_L0421_01",
+        "msgStr": "Uyduyu yok etmek için o iblisi buradan, Dünya'dan yönlendireceksin."
+      },
+      {
+        "msgID": "MAP15_E_L0421_02",
+        "msgStr": "Uzayda olacağız; o yüzden Fiziksel, Buz ve Güç saldırılarına karşı dayanıklı bir iblis gönder. Ve ne olur ne olmaz, savaşabilen biri olsun."
+      },
+      {
+        "msgID": "MAP15_E_L0421_03",
+        "msgStr": "Ne olacağını bilemeyiz, bu yüzden İblis Rehberi'ni güncellemek de dâhil gerekli tüm hazırlıkları yap."
+      },
+      {
+        "msgID": "MAP15_E_L0422",
+        "msgStr": "Şimdi, hangi iblis gidecek?"
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE01_01_119",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP15_E_L0423",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0424",
+        "msgStr": "Görünüşe göre Tai-itsu uydusunu devre dışı bırakmayı başardın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0425",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0426",
+        "msgStr": "Gidip şehrin ne durumda olduğuna bakalım.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP11_NARUMI_01_120",
+        "msgStr": "Narumi"
+      },
+      {
+        "msgID": "MAP15_E_L0427",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0428",
+        "msgStr": "Artık sen de bir ajansın.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0429",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0430",
+        "msgStr": "Önceliğimiz görevi tamamlamak. Fedakârlık yapmaya hazır ol.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0431",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0432",
+        "msgStr": "Rahatla. Sadece sana takılıyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0433",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0434",
+        "msgStr": "Eminim dostunu ve iblisini tehlikeye atmak istemiyorsundur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0435",
+        "msgStr": "Ne yapmam gerektiğini biliyorum."
+      },
+      {
+        "msgID": "MAP15_E_L0436",
+        "msgStr": "Vay, ciddi bir Narumi mi? Tuhaf."
+      },
+      {
+        "msgID": "MAP15_E_L0437",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0438",
+        "msgStr": "Doğru...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0439",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0440",
+        "msgStr": "Ama bu iş bittiğinde hepimiz gülümsüyor olsak iyi olur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0441",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0442",
+        "msgStr": "Tae, Ryugu Sahibi, Satake, Sadakichi... ve elbette Kaya.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0443",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0444",
+        "msgStr": "Hey, ukala dümbeleği, <IT_S>sen<IT_E> ne zamandan beri şaka yapıyorsun?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0445",
+        "msgStr": "<lips 17 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0446",
+        "msgStr": "Belki de benim şu şeytan tüyü sana bulaşıyordur. Ama şey... Sakın abartma.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_01_121",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0447",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0448",
+        "msgStr": "Oldukça görkemli bir manzaraydı!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0449",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0450",
+        "msgStr": "Hem yıllardır kurduğum hayali gerçekleştirdim hem de üstüne Başkent'i kurtarmaya yardım ettim!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0451",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0452",
+        "msgStr": "Hm? Sorun nedir evlat? Sıkıntılı görünüyorsun.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0453",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0454",
+        "msgStr": "Ne? Benim \"saf duyguma\" mı ihtiyacın var?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0455",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP15_E_L0456",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0457",
+        "msgStr": "Şey... Öncelikle sana teşekkür etmeme izin ver.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0458",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0459",
+        "msgStr": "Her zaman umut dolu bir gelecek yaratmak istemişimdir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0459_01",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0459_02",
+        "msgStr": "Bu yüzden roketler hakkında her şeyi öğrendim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0460",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0461",
+        "msgStr": "Ama Süper Asker Projesi hakkındaki o rapor... Ondan tam tersini sezdim.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0462",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0463",
+        "msgStr": "Beni tuhaf ya da eksantrik diyerek bir kenara atanlar da işte o zihniyetteki insanlar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0464",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0465",
+        "msgStr": "Ama sen beni hiç aşağılamadın. Bana nezaket gösterdin ve hatta yardım ettin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0465_01",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0465_02",
+        "msgStr": "Bu benim için çok anlamlıydı. Bana umut verdi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0466",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0467",
+        "msgStr": "Sesli söylemesi biraz tuhaf ama... teşekkür ederim. Şimdi bunu bana bir daha söyletme!\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_12_122",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP15_E_L0468",
+        "msgStr": "> Amatsu Kanagi, Dr. Tsukumo'nun sözlerine karşılık olarak parlamaya başladı."
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_13_123",
+        "msgStr": "Dr. Tsukumo"
+      },
+      {
+        "msgID": "MAP15_E_L0469",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0470",
+        "msgStr": "Neler yaşadığını bilmiyorum ama her neyse üstesinden geleceğini biliyorum.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0471",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0472",
+        "msgStr": "O canavar ortaya çıkıp ortalığı birbirine kattığında...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0473",
+        "msgStr": "<lips 19 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0474",
+        "msgStr": "Onu durdurmaya çalışan diğer tek kişi sendin.\n<lips_stop>"
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_16_124",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0475",
+        "msgStr": "Görünüşe göre Amatsu Kanagi güç kazanıyor."
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_16_124_01",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP15_E_L0476",
+        "msgStr": "Ama bu yeterli değil. Devam etmeliyiz."
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_16_124_02",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0476_01",
+        "msgStr": "Neredeyse tamamladık. Hadi şimdi başka birini bulmaya gidelim."
+      },
+      {
+        "msgID": "MAP15_E_L0477",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_16_124_03",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0478",
+        "msgStr": "Raidou, Ushigome-Gaeri Köprüsü'ne gitmeli ve Ruh Gönderme Ritüeli'ni gerçekleştirmelisin."
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_16_124_04",
+        "msgStr": "Goto"
+      },
+      {
+        "msgID": "MAP15_E_L0479",
+        "msgStr": "Karanlık Diyar'daki Ushigome-Gaeri Köprüsü'ne gidelim."
+      },
+      {
+        "msgID": "map15_e_EP12_SCENE04_16_124_05",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP15_E_L0479_01",
+        "msgStr": "Hıh... Onu ben söyleyecektim!"
+      },
+      {
+        "msgID": "map15_e_EP05_TAE_01_125",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "MAP15_E_L0480",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0481",
+        "msgStr": "Evsizler hakkında ne düşünürsen düşün, etraftaki özgür düşünceli nadir insanlardandırlar.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP15_E_L0482",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP15_E_L0483",
+        "msgStr": "Bununla röportaj yapmayı çok isterdim... ama hadi Kasumidai'ye gidelim.\n<lips_stop>"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:53"
+}

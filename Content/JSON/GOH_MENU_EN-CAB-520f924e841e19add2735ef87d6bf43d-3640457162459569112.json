@@ -1,0 +1,129 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "GOH_MENU_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "GOH_MENU_L0000",
+        "msgStr": "Komut Menüsü"
+      },
+      {
+        "msgID": "GOH_MENU_L0001",
+        "msgStr": "Füzyon"
+      },
+      {
+        "msgID": "GOH_MENU_L0002",
+        "msgStr": "Tedavi"
+      },
+      {
+        "msgID": "GOH_MENU_L0003",
+        "msgStr": "İblis Rehberi"
+      },
+      {
+        "msgID": "GOH_MENU_L0004",
+        "msgStr": "Konuş"
+      },
+      {
+        "msgID": "GOH_MENU_L0005",
+        "msgStr": "Ayrıl"
+      },
+      {
+        "msgID": "GOH_MENU_L0006",
+        "msgStr": "Normal Füzyon"
+      },
+      {
+        "msgID": "GOH_MENU_L0007",
+        "msgStr": "Kılıç Simyası"
+      },
+      {
+        "msgID": "GOH_MENU_L0008",
+        "msgStr": "Kaydet"
+      },
+      {
+        "msgID": "GOH_MENU_L0009",
+        "msgStr": "Görüntüle"
+      },
+      {
+        "msgID": "GOH_MENU_L0010",
+        "msgStr": "Sohbet"
+      },
+      {
+        "msgID": "GOH_MENU_L0011",
+        "msgStr": "Ders"
+      },
+      {
+        "msgID": "GOH_MENU_L0012",
+        "msgStr": "Füzyon Sayısı"
+      },
+      {
+        "msgID": "GOH_MENU_L0013",
+        "msgStr": "Gouma-Den'e nasıl erişebilirim?"
+      },
+      {
+        "msgID": "GOH_MENU_L0014",
+        "msgStr": "Füzyon nedir?"
+      },
+      {
+        "msgID": "GOH_MENU_L0015",
+        "msgStr": "Yetenek Mirası"
+      },
+      {
+        "msgID": "GOH_MENU_L0016",
+        "msgStr": "Füzyon İpuçları"
+      },
+      {
+        "msgID": "GOH_MENU_L0017",
+        "msgStr": "İblis Rehberi nedir?"
+      },
+      {
+        "msgID": "GOH_MENU_L0018",
+        "msgStr": "Kılıç Simyası nedir?"
+      },
+      {
+        "msgID": "GOH_MENU_L0019",
+        "msgStr": "Özel Füzyonlar"
+      },
+      {
+        "msgID": "GOH_MENU_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "GOH_MENU_L0021",
+        "msgStr": "Aramalı Füzyon"
+      },
+      {
+        "msgID": "GOH_MENU_L0022",
+        "msgStr": "Ters Füzyon"
+      },
+      {
+        "msgID": "GOH_MENU_L0023",
+        "msgStr": "Dedektif Günlüğü"
+      },
+      {
+        "msgID": "GOH_MENU_L0024",
+        "msgStr": "Aramalı/Ters Füzyon"
+      },
+      {
+        "msgID": "GOH_MENU_L0025",
+        "msgStr": "Özel İblis Rehberi"
+      },
+      {
+        "msgID": "GOH_MENU_L0026",
+        "msgStr": "Yuva Satın Al"
+      },
+      {
+        "msgID": "GOH_MENU_L0027",
+        "msgStr": "Konnou-ya'ya Git"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:39:06"
+}

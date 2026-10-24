@@ -1,0 +1,1681 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP10_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map10_m_ZOUSEN_EXITWARP_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0000",
+        "msgStr": "> Çıkılsın mı?"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_EXITWARP_SEL SEL 0_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0001",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP10_M_L0002",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_EXITWARP_yes_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0003",
+        "msgStr": "> Raidou tersaneden ayrıldı."
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_EXITWARP_no_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0004",
+        "msgStr": "> Raidou kalmaya karar verdi."
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_NIMOTU_004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TOBIORI01_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0006",
+        "msgStr": "> Raidou'nun tam altında bir kargo yığını var..."
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TOBIORI02_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0007",
+        "msgStr": "> Aşağı atlamak mümkün olabilir."
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TOBIORI_SEL SEL 0_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0008",
+        "msgStr": "Aşağı atla"
+      },
+      {
+        "msgID": "MAP10_M_L0009",
+        "msgStr": "Olduğun yerde kal"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TOBIORI_YES_008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_JUMP01_009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_JUMP02_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0012",
+        "msgStr": "> Hangi taraftan aşağı atlayacaksın?"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_JUMP_SEL SEL 0_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0013",
+        "msgStr": "Sağ"
+      },
+      {
+        "msgID": "MAP10_M_L0014",
+        "msgStr": "Sol"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_JUMP03_012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TAIMAWALL_013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TAIMAWALL_KARI_014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_WALL_AIBOU_015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_M_KAIHUKU_016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_M_KAIHUKU_KARI_017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_M_TAKARA01_018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_M_TAKARA02_019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_M_TAKARA_SEL SEL 0_020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_M_TAKARA_NOGET_021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_M_TAKARA_GET_022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_M_TAKARA_KARAGET_023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_DEBUG01_024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_DEBUG01_SEL SEL 0_025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_DEBUG01_MIGI_026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_DEBUG01_HIDARI_027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_DEBUG01_NO_028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TEST_029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TEST_SEL SEL 0_030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TEST_YES_031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_ZOUSEN_TEST_NO_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_m_Drum01_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0047",
+        "msgStr": "> Birkaç petrol varili merdivenleri kapatıyor."
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_01_034",
+        "msgStr": "Ses"
+      },
+      {
+        "msgID": "MAP10_M_L0048",
+        "msgStr": "Hey! Kim var orada?"
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_02_035",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0049",
+        "msgStr": "Hıh, şimdiden fark edildik bile!"
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_03_036",
+        "msgStr": "Zombi Muhafız 1"
+      },
+      {
+        "msgID": "MAP10_M_L0050",
+        "msgStr": "Sen şu İblis Çağırıcısı, Raidou Kuzunoha'sın!"
+      },
+      {
+        "msgID": "MAP10_M_L0051",
+        "msgStr": "Burayı bulabilmene şaşırdım. İyi iş çıkardın dedektif."
+      },
+      {
+        "msgID": "MAP10_M_L0052",
+        "msgStr": "Burası Ordu'nun <COLOR 1>yeraltı tersanesi<COLOR 0>."
+      },
+      {
+        "msgID": "MAP10_M_L0053",
+        "msgStr": "Burada, <COLOR 1>Tümgeneral Munakata<COLOR 0> o <COLOR 1>ele geçirilmiş kızı<COLOR 0> büyük planında kullanacak!"
+      },
+      {
+        "msgID": "MAP10_M_L0054",
+        "msgStr": "Bizi durdurmak için yapabileceğin hiçbir şey yok! Bundan emin olacağız!"
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_04_037",
+        "msgStr": "Zombi Muhafız 2"
+      },
+      {
+        "msgID": "MAP10_M_L0055",
+        "msgStr": "Efendim, araya girecek olursam... Bu Çağırıcı güçlü. Yeniden toparlanmak isteyebiliriz."
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_05_038",
+        "msgStr": "Zombi Muhafız 3"
+      },
+      {
+        "msgID": "MAP10_M_L0056",
+        "msgStr": "Ne dedin sen az önce?"
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_06_039",
+        "msgStr": "Zombi Muhafız 3"
+      },
+      {
+        "msgID": "MAP10_M_L0057",
+        "msgStr": "Ahmak! Düşmanın karşısında sinmeyeceğiz!"
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_07_040",
+        "msgStr": "Zombi Muhafız 1"
+      },
+      {
+        "msgID": "MAP10_M_L0058",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP10_M_L0059",
+        "msgStr": "Şansın yaver gitti, İblis Çağırıcısı Raidou Kuzunoha!"
+      },
+      {
+        "msgID": "MAP10_M_L0060",
+        "msgStr": "Birinci önceliğimizin Tümgeneral'e rapor vermek olduğunu... şimdi hatırladım."
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_08_041",
+        "msgStr": "Zombi Muhafız 3"
+      },
+      {
+        "msgID": "MAP10_M_L0061",
+        "msgStr": "Müdahale etmemize gerek yok. Zaten alt katlara asla ulaşamayacaksın!"
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_09_042",
+        "msgStr": "Zombi Muhafız 2"
+      },
+      {
+        "msgID": "MAP10_M_L0062",
+        "msgStr": "Taktiksel geri çekilme! Kaçmıyoruz!"
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_10_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0063",
+        "msgStr": "> Zombi Muhafızlar kaçtı."
+      },
+      {
+        "msgID": "map10_m_m_Zombie01_11_044",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0064",
+        "msgStr": "Eh, gözlerini bayağı korkutmuş olmalısın."
+      },
+      {
+        "msgID": "MAP10_M_L0065",
+        "msgStr": "Giderek büyüyen şöhretinin kesin kanıtlarını görmek güzel."
+      },
+      {
+        "msgID": "MAP10_M_L0066",
+        "msgStr": "Her şeye rağmen, güvenlik eksikliği karşısında endişelenmeli miyim yoksa hayal kırıklığına mı uğramalıyım bilmiyorum..."
+      },
+      {
+        "msgID": "MAP10_M_L0067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_m_Last01_01_045",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0068",
+        "msgStr": "Raidou, bak!"
+      },
+      {
+        "msgID": "map10_m_m_Last01_02_046",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0069",
+        "msgStr": "Bu Kaya Daidouji!"
+      },
+      {
+        "msgID": "MAP10_M_L0070",
+        "msgStr": "Ne olursa olsun onu geri almalıyız! İlerlemeye devam edelim!"
+      },
+      {
+        "msgID": "map10_m_m_gouto01_047",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0071",
+        "msgStr": "Bir duvar... Pek de ince düşünülmüş bir savunma değil, öyle değil mi?"
+      },
+      {
+        "msgID": "map10_m_m_WallRev02_01_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0072",
+        "msgStr": "> Cehennem Kapısı kendini yenilerken parlak bir ışık yaydı."
+      },
+      {
+        "msgID": "map10_m_m_WallRev02_02_049",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0073",
+        "msgStr": "Kendini yenileyen bir Cehennem Kapısı mı? İlginç..."
+      },
+      {
+        "msgID": "MAP10_M_L0074",
+        "msgStr": "Unutma, Cehennem Kapıları olumsuz insan duygularının katılaşmış halidir."
+      },
+      {
+        "msgID": "map10_m_m_WallRev02_03_050",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0075",
+        "msgStr": "Eğer duvar kendini yeniliyorsa, dağılan olumsuz enerjiyi yeniden şekillendiren bir çeşit büyü olmalı."
+      },
+      {
+        "msgID": "MAP10_M_L0076",
+        "msgStr": "Görünüşe göre <COLOR 3>o büyüyü bozmak için büyüyü yapanı bulmamız<COLOR 0> gerekecek."
+      },
+      {
+        "msgID": "map10_m_m_WallRev03_01_051",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0077",
+        "msgStr": "Boş ver, Raidou. Sadece enerjini boşa harcarsın."
+      },
+      {
+        "msgID": "MAP10_M_L0078",
+        "msgStr": "Tek seçeneğimiz <COLOR 3>büyüyü bozmak için büyüyü yapanı bulmak<COLOR 0>."
+      },
+      {
+        "msgID": "map10_m_m_ippon01_052",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0079",
+        "msgStr": "nE? dUvArI kAlDıRmAk Mı?"
+      },
+      {
+        "msgID": "MAP10_M_L0080",
+        "msgStr": "nAh YaPaRıM oNu! kEnDiN kIr!"
+      },
+      {
+        "msgID": "MAP10_M_L0081",
+        "msgStr": "aMa KıRaMaZsIn, ÇüNkÜ zAyIıIıFsIıIn!"
+      },
+      {
+        "msgID": "MAP10_M_L0082",
+        "msgStr": "sEn MuHaLlEbİ çOcUğUsUn! kReMaDaN yApIlMıŞsIn!"
+      },
+      {
+        "msgID": "MAP10_M_L0083",
+        "msgStr": "bİr ÇuKuRdA çÜrÜyEbİlİrSiN!"
+      },
+      {
+        "msgID": "map10_m_m_ippon02_01_053",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0084",
+        "msgStr": "dUvAaAr! bEnİm DuVaAaArIıIm!"
+      },
+      {
+        "msgID": "map10_m_m_ippon02_02_054",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0085",
+        "msgStr": "oOooOhHh... tAmAmEn TüKeNdİm..."
+      },
+      {
+        "msgID": "MAP10_M_L0086",
+        "msgStr": "bElKi De EmEkLi OlMa VaKtİ gElMiŞtİr..."
+      },
+      {
+        "msgID": "map10_m_m_ippon03_055",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0087",
+        "msgStr": "eMeKlİ oLuYoRuM."
+      },
+      {
+        "msgID": "MAP10_M_L0088",
+        "msgStr": "aRtIk İyİ, sIrAdAn BiR iPpOn-dAtArA oLaCaĞıM."
+      },
+      {
+        "msgID": "map10_m_m_neg_intro01_056",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0089",
+        "msgStr": "dUvAr! DuVaR! dUvAaAr!"
+      },
+      {
+        "msgID": "MAP10_M_L0090",
+        "msgStr": "sOnSuZ! öLüMsÜz! zİhNi Ve RuHu ZaYıFlAtAn! oNdAn NeFrEt EdEcEkSiN!"
+      },
+      {
+        "msgID": "MAP10_M_L0091",
+        "msgStr": "bU kEsİnLiKlE, tAmAmEn BeNiM eN iYi<mw 15> sAnAt<mw 15> eSeRiM<mw 15>!"
+      },
+      {
+        "msgID": "MAP10_M_L0092",
+        "msgStr": "bEnİm DuVaRlArIm GeLmİş GeÇmİş En İyİsİdİr!"
+      },
+      {
+        "msgID": "map10_m_m_neg_intro02_057",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0093",
+        "msgStr": "Anlaşılan o Cehennem Kapısı'na büyüyü yapan oymuş."
+      },
+      {
+        "msgID": "MAP10_M_L0094",
+        "msgStr": "Bütün bu ucubeler buradaki gerilimi kesinlikle azaltıyor."
+      },
+      {
+        "msgID": "MAP10_M_L0095",
+        "msgStr": "Bak bakalım onunla bir şekilde pazarlık yapabilecek misin."
+      },
+      {
+        "msgID": "MAP10_M_L0096",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_m_neg_menu01_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0097",
+        "msgStr": "> Ne yapacağını seç."
+      },
+      {
+        "msgID": "map10_m_m_neg_menu02 SEL_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0098",
+        "msgStr": "Pazarlık yap"
+      },
+      {
+        "msgID": "MAP10_M_L0099",
+        "msgStr": "Ona sıcak bir bakış at"
+      },
+      {
+        "msgID": "MAP10_M_L0100",
+        "msgStr": "Bulaşma"
+      },
+      {
+        "msgID": "map10_m_m_neg_intro03_060",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0101",
+        "msgStr": "nEeeE? dUvAaArI kAlDıRmAmI mI sÖyLüYoRsUn?"
+      },
+      {
+        "msgID": "MAP10_M_L0102",
+        "msgStr": "bU pAzArLıK mI? pAzArLıK yApArIm!"
+      },
+      {
+        "msgID": "map10_m_m_neg_thinking_061",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0103",
+        "msgStr": "o ZaMaAaAn..."
+      },
+      {
+        "msgID": "map10_m_m_neg_WantMoney01_062",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0104",
+        "msgStr": "paRA! BAnA paRa vER! bEN ZaVAllI bİR iBLisİm!"
+      },
+      {
+        "msgID": "map10_m_m_neg_WantMoney02_063",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0105",
+        "msgStr": "bANA <COLOR 4>1.500 YeN<COLOR 0> vER!"
+      },
+      {
+        "msgID": "map10_m_m_neg_WantMoney03_064",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0106",
+        "msgStr": "bANA <COLOR 4>2.500 YeN<COLOR 0> vER!"
+      },
+      {
+        "msgID": "map10_m_m_neg_WantMag01_065",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0107",
+        "msgStr": "paRA, BAnA paRa vER! bEN ZaVAllI bİR iBLisİm!"
+      },
+      {
+        "msgID": "map10_m_m_neg_WantMag02_066",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0108",
+        "msgStr": "bANA <COLOR 4>2.500 YeN<COLOR 0> vER!"
+      },
+      {
+        "msgID": "map10_m_m_neg_WantMag03_067",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0109",
+        "msgStr": "baNa bİR <COLOR 4>yAşAM tAşI<COLOR 0> vER!"
+      },
+      {
+        "msgID": "map10_m_m_neg_WantItem01_068",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0110",
+        "msgStr": "yEMeK! MaNJa! VeR, vEr BaNA! aÇıM, AÇım, aÇıIıIIıM!"
+      },
+      {
+        "msgID": "map10_m_m_neg_WantItem02_069",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0111",
+        "msgStr": "BanA iKİ <COLOR 4>çAKra PaRçAsI<COLOR 0> vER!"
+      },
+      {
+        "msgID": "map10_m_m_neg_WantItem03_070",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0112",
+        "msgStr": "baNa İkİ <COLOR 4>öKÜz bEZoArI<COLOR 0> vER!"
+      },
+      {
+        "msgID": "map10_m_m_neg_select SEL_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0113",
+        "msgStr": "Tamam, al bakalım."
+      },
+      {
+        "msgID": "MAP10_M_L0114",
+        "msgStr": "Anlaşma yok."
+      },
+      {
+        "msgID": "map10_m_m_neg_accepted_072",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0115",
+        "msgStr": "eVET! O zAMaN aLIyOruM!"
+      },
+      {
+        "msgID": "map10_m_m_neg_rejected_073",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0116",
+        "msgStr": "sENi CiMRi! NEdeN bU kaDAr Elİ sIKısIN BE!?"
+      },
+      {
+        "msgID": "map10_m_m_neg_nothave_074",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0117",
+        "msgStr": "YaLaNncIıIı! sENdE oNDaN yOK kİ!"
+      },
+      {
+        "msgID": "map10_m_m_neg_NotEnough_075",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0118",
+        "msgStr": "dAhA fAZla İStiYOruM!"
+      },
+      {
+        "msgID": "map10_m_m_neg_down_076",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0119",
+        "msgStr": "AaAArgH! hİÇ dE iYİ bİRİ dEğİLsiN!"
+      },
+      {
+        "msgID": "MAP10_M_L0120",
+        "msgStr": "O zAMaN bELkİiiİ bAşKa bİR şEY?"
+      },
+      {
+        "msgID": "map10_m_m_neg_question01_077",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0121",
+        "msgStr": "sANA bİR sORuM vARrR!"
+      },
+      {
+        "msgID": "MAP10_M_L0122",
+        "msgStr": "bENiM hAKkıMdA nE dÜşÜNüyORsUuuUUn?"
+      },
+      {
+        "msgID": "MAP10_M_L0123",
+        "msgStr": "bENiM aPTaL oLDuğUMu mU dÜşÜNüyORsUn?"
+      },
+      {
+        "msgID": "map10_m_m_neg_question01s SEL_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0124",
+        "msgStr": "Evet, aptalsın."
+      },
+      {
+        "msgID": "MAP10_M_L0125",
+        "msgStr": "Hayır, gayet zekisin."
+      },
+      {
+        "msgID": "MAP10_M_L0126",
+        "msgStr": "Gayet normalsin."
+      },
+      {
+        "msgID": "map10_m_m_neg_question01a_079",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0127",
+        "msgStr": "dOğRU! iYİ tAHmİN!"
+      },
+      {
+        "msgID": "MAP10_M_L0128",
+        "msgStr": "bEN dUVaR uSTaSIyıM! sADecE dUVaRlaRDaN aNLaRIm! bEN aPTaLIım!"
+      },
+      {
+        "msgID": "MAP10_M_L0129",
+        "msgStr": "dUVaRlaRa bAYıIıILıRIm!"
+      },
+      {
+        "msgID": "map10_m_m_neg_question01b_080",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0130",
+        "msgStr": "oOo, dEMeK zEKiyİM, hA!?"
+      },
+      {
+        "msgID": "MAP10_M_L0131",
+        "msgStr": "hAYıR, dEĞiLİm! bEYnİnİn yERinDe mUHalLEbi fALaN mI vAR sENiN!?"
+      },
+      {
+        "msgID": "MAP10_M_L0132",
+        "msgStr": "kAFatASınI aÇ, bEYnİ gÖR, kAŞıKLa dALdIr vE aFİyETle yE!"
+      },
+      {
+        "msgID": "MAP10_M_L0133",
+        "msgStr": "öF, bU bİRaZ iĞrENç oLDu."
+      },
+      {
+        "msgID": "map10_m_m_neg_question01c_081",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0134",
+        "msgStr": "aAA, aNLıYOrUM! dEMeK tAMaMen nORmALiM!"
+      },
+      {
+        "msgID": "MAP10_M_L0135",
+        "msgStr": "hAYıR, dEĞiLİm! sEN bENdEn dE mİ dELisİN yOKsA!?"
+      },
+      {
+        "msgID": "MAP10_M_L0136",
+        "msgStr": "yOKsA kÖR mÜsÜN? gÖZlERinİn yERinDe dELiK mİ vAR? bAşKA dELiĞiN vAR mI?"
+      },
+      {
+        "msgID": "MAP10_M_L0137",
+        "msgStr": "iÇleRİnE çUBuK sOKsAm nE oLUr?"
+      },
+      {
+        "msgID": "map10_m_m_neg_badend_082",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0138",
+        "msgStr": "çOK sİnİR bOZucUSuN! dAHa fAZla dAYaNamIYorUM!"
+      },
+      {
+        "msgID": "MAP10_M_L0139",
+        "msgStr": "kO<mw 15>NuŞ<mw 15>mAk<mw 15> yOK!"
+      },
+      {
+        "msgID": "MAP10_M_L0140",
+        "msgStr": "AAaRrggGHh! sENi bİR sONrAKi dUVaRımA hARç yAPacAğIM!"
+      },
+      {
+        "msgID": "map10_m_m_neg_goodend_083",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0141",
+        "msgStr": "sANıRIm sENi sEVdİm, eVLaT!"
+      },
+      {
+        "msgID": "MAP10_M_L0142",
+        "msgStr": "dUVaRI yIKacAğIM! sEN gEÇ bAKaLIım!"
+      },
+      {
+        "msgID": "map10_m_m_neg_respected01_084",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0143",
+        "msgStr": "vAaaAYyYYy! o gÖZlER! o bAKIş!"
+      },
+      {
+        "msgID": "MAP10_M_L0144",
+        "msgStr": "sAYgI mI? bU sAYgI dOLu bİR bAKIş mI?"
+      },
+      {
+        "msgID": "MAP10_M_L0145",
+        "msgStr": "hARiKA! iNAnILmAz! bU... bAYaĞı hOŞ!"
+      },
+      {
+        "msgID": "map10_m_m_neg_respected02_085",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0146",
+        "msgStr": "bENdEn şU dUVaRI yIKmAmI mI iSTiyORsUn?"
+      },
+      {
+        "msgID": "map10_m_m_neg_respected03_086",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0147",
+        "msgStr": "HmMM... yAPsAm mI? nE yAPsAm kİ?"
+      },
+      {
+        "msgID": "MAP10_M_L0148",
+        "msgStr": "dUVaRI kALdIrMamDA sAKıNca vAR mI?"
+      },
+      {
+        "msgID": "map10_m_m_neg_respected04_087",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0149",
+        "msgStr": "hAyIR, hAYıR! hİÇ şANsI yOK!"
+      },
+      {
+        "msgID": "MAP10_M_L0150",
+        "msgStr": "bANA gERçEKtEn sAYgI dUYmUyORsUn! bU nUMaRAlarA kANmAm bEN!"
+      },
+      {
+        "msgID": "map10_m_m_neg_finished_088",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0151",
+        "msgStr": "dUVaR yAPmAYı aSLa bIRaKmAyACağIM! iPpON-dATarA'nIN hAYaTI bUDuR!"
+      },
+      {
+        "msgID": "MAP10_M_L0152",
+        "msgStr": "bİR sONrAKi dUVaRım şURaDA oLAcAK..."
+      },
+      {
+        "msgID": "MAP10_M_L0153",
+        "msgStr": "bELkİ aFRiKa'dA? bELkİ aMERiKa'dA? bELkİ dE aLMaNYa'dA?"
+      },
+      {
+        "msgID": "MAP10_M_L0154",
+        "msgStr": "bEnİm DuVaRlArIm GeLmİş GeÇmİş En İyİsİdİr!"
+      },
+      {
+        "msgID": "map10_m_m_system01_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0155",
+        "msgStr": "> Raidou, Ippon-Datara'ya son derece sıcak bir bakış attı."
+      },
+      {
+        "msgID": "map10_m_m_system02_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0156",
+        "msgStr": "> Raidou onu görmezden gelmeye karar verdi."
+      },
+      {
+        "msgID": "map10_m_m_system03_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0157",
+        "msgStr": "> Yenilenen Yeraltı Kapısı ortadan kaldırıldı!"
+      },
+      {
+        "msgID": "map10_m_m_system04_092",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0158",
+        "msgStr": "> Raidou ikna etmeyi başaramadı."
+      },
+      {
+        "msgID": "map10_m_m_system05_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0159",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_m_10_Exit01_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0160",
+        "msgStr": "> Ne yapacağını seç."
+      },
+      {
+        "msgID": "map10_m_m_10_Exit01s SEL_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0161",
+        "msgStr": "Kasumi Açıklığı'na dön"
+      },
+      {
+        "msgID": "MAP10_M_L0162",
+        "msgStr": "Burada kal"
+      },
+      {
+        "msgID": "map10_m_m_10_gouto01_01_096",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0163",
+        "msgStr": "Görünüşe göre bu geçit daha da aşağılara iniyor. Tetikte ol."
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_01_097",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0164",
+        "msgStr": "Bir Lekeli Geçit..."
+      },
+      {
+        "msgID": "MAP10_M_L0165",
+        "msgStr": "Narumi veya Munakata bunun ötesinde olabilir. Burada takılıp kalamazsın, Raidou."
+      },
+      {
+        "msgID": "MAP10_M_L0166",
+        "msgStr": "Gerçi bunun icabına nasıl bakacağız...?"
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_02_098",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0168",
+        "msgStr": "Bir fikrin var mı?"
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_02s SEL_099",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0169",
+        "msgStr": "Parçalayarak yıkalım."
+      },
+      {
+        "msgID": "MAP10_M_L0170",
+        "msgStr": "Bir iblis gönderelim."
+      },
+      {
+        "msgID": "MAP10_M_L0171",
+        "msgStr": "Bir Ippon-Datara'dan yardım isteyelim."
+      },
+      {
+        "msgID": "MAP10_M_L0172",
+        "msgStr": "Başkent kendi başının çaresine baksın."
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_02a_100",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0173",
+        "msgStr": "Hayır, böyle bir şey imkânsız olurdu."
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_02b_101",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0174",
+        "msgStr": "İblis geri döndüğünde yine hiçbir ilerleme kaydedememiş oluruz."
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_02c_102",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0175",
+        "msgStr": "Ah, hatırladın demek. Bu mükemmel bir fikir."
+      },
+      {
+        "msgID": "MAP10_M_L0176",
+        "msgStr": "Daha önce yenilenen bir Yeraltı Kapısı'nı bizim için bir Ippon-Datara'ya kaldırtmıştık."
+      },
+      {
+        "msgID": "MAP10_M_L0177",
+        "msgStr": "Haklısın, benzer bir taktik yine işe yarayabilir. Hadi deneyelim."
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_02d_103",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0178",
+        "msgStr": "Şu an bu tarz şakalar yapmanın sırası değil."
+      },
+      {
+        "msgID": "MAP10_M_L0179",
+        "msgStr": "Üstelik pek komik de değildi... Mizah anlayışının üzerinde çalışmanı öneririm."
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_03_104",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0180",
+        "msgStr": "Buraya son gelişimizi hatırlamaya çalış, Raidou."
+      },
+      {
+        "msgID": "MAP10_M_L0181",
+        "msgStr": "Yenilenen bir Yeraltı Kapısı'nı <COLOR 3>bir Ippon-Datara'ya kaldırtmıştık<COLOR 0>."
+      },
+      {
+        "msgID": "MAP10_M_L0182",
+        "msgStr": "Neden burada da aynı yöntemi denemiyoruz?"
+      },
+      {
+        "msgID": "map10_m_m_10_gouto02_04_105",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0183",
+        "msgStr": "Yanından geçtiğimiz Ippon-Datara'lardan birinden bu duvarı kaldırmasını isteyelim."
+      },
+      {
+        "msgID": "MAP10_M_L0184",
+        "msgStr": "Elbet içlerinden biri bize yardım edebilir. En iyisi <COLOR 3>konuşmaya istekli birini<COLOR 0> bulalım."
+      },
+      {
+        "msgID": "map10_m_m_10_gouto03_01_106",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0185",
+        "msgStr": "Görünüşe göre <COLOR 3>buradan atlayıp altımızdaki yük yığınının üstüne inebiliriz<COLOR 0>."
+      },
+      {
+        "msgID": "MAP10_M_L0186",
+        "msgStr": "Oradan da <COLOR 3>sola ya da sağa doğru atlamayı seçebiliriz<COLOR 0>."
+      },
+      {
+        "msgID": "MAP10_M_L0187",
+        "msgStr": "Bu senin için sorun olmamalı."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon01_107",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0188",
+        "msgStr": "bEN eMEkLİ oLDuM. sIRaDaN bİR iPpOn-DAtARa oLMaya gERi dÖNüYOrUM."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_01_108",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0189",
+        "msgStr": "Seni emeklilikten <IT_S>dönmeye<IT_E> ikna edebilir miyiz acaba?"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_02_109",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0190",
+        "msgStr": "hİçBİR şEY yAPaMAm! eMEkLİ oLDuM bEN."
+      },
+      {
+        "msgID": "MAP10_M_L0191",
+        "msgStr": "vELeDİn bİRİ gİdİP eN iYİ dUVaRımI yIKtI."
+      },
+      {
+        "msgID": "MAP10_M_L0192",
+        "msgStr": "aRTıK bU iŞİ yAPmAk iSTemİYorUM, sENi aHMaK."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_03_110",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0193",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_04_111",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0194",
+        "msgStr": "hEY, sEN! bU sENsİN! sEN şU mUHalLEbi çOCuğUSUn!"
+      },
+      {
+        "msgID": "MAP10_M_L0195",
+        "msgStr": "bİr ÇuKuRdA çÜrÜyEbİlİrSiN!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_05_112",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0196",
+        "msgStr": "aNLıYOrUM! dEMeK bENdEn bİR dUVaR yAPmAmI iSTiyORsUn, hA?"
+      },
+      {
+        "msgID": "MAP10_M_L0197",
+        "msgStr": "tEHlİkELi bİR dUVaR mI? eZEn, pARçALayAN, dÜMdÜz eDEn?"
+      },
+      {
+        "msgID": "MAP10_M_L0198",
+        "msgStr": "iNSaN gÖZlEMesİ! tEReYaĞı iSTiYOruM! şURuP iSTiYOruM! İİiiİiİiiİİİ!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_06_113",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0199",
+        "msgStr": "Hayalini böldüğüm için kusura bakma ama biz tam tersini rica edecektik."
+      },
+      {
+        "msgID": "MAP10_M_L0200",
+        "msgStr": "Bir duvarın yıkılmasını istiyoruz."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_07_114",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0201",
+        "msgStr": "HahAhaHA! mÜStEHak sANA!"
+      },
+      {
+        "msgID": "MAP10_M_L0202",
+        "msgStr": "dUVaRa yENiLDiN! sEN mUHalLEbi çOCuKLaRınIN şAHıSıN!"
+      },
+      {
+        "msgID": "MAP10_M_L0203",
+        "msgStr": "mUHalLEbi çOCuğU! sENiN tÜM sÜLaLeN mUHalLEbi çOCuğU!"
+      },
+      {
+        "msgID": "MAP10_M_L0204",
+        "msgStr": "aRKaDaşLaRıN, kANKaLaRıN, mANiTaN, kEDiN, hEPsİ mUHalLEbi çOCuğU!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_08_115",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0205",
+        "msgStr": "Evet, tamam, muhallebi çocuğuyuz. Peki işi yapacak mısın?"
+      },
+      {
+        "msgID": "MAP10_M_L0206",
+        "msgStr": "Yoksa bu iş senin boyunu aşar mı?"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_09_116",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0207",
+        "msgStr": "sENi mANkAFa! sENi gERçEKtEn öLDüRmEMi mİ iSTiyORsUn!?"
+      },
+      {
+        "msgID": "MAP10_M_L0208",
+        "msgStr": "hİçBİR dUVaR bANA bÜYüK gELmEZ! dÜŞ öNÜmE uLAn!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_10_117",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0209",
+        "msgStr": "bU nE bE!? yENiLDiĞiN dUVaR bU mUYdU yANi!?"
+      },
+      {
+        "msgID": "MAP10_M_L0210",
+        "msgStr": "sEN eN iYİsİ oKUluNa gERi dÖN, eVLaT!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_11_118",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0211",
+        "msgStr": "Tavra gerek yok. Bize neler yapabildiğini göster yeter."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_12a_119",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0212",
+        "msgStr": "tAMaMmmMMmmM!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_12b_120",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0213",
+        "msgStr": "yIKıLsIN dUVaR! yAAahHh!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_13_121",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0214",
+        "msgStr": "> Lekeli Geçit yıkıldı."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_14_122",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0215",
+        "msgStr": "nASıLmIŞ bAKaLIım!? dUVaRlaRIn pATrONu hÂLâ bENiM!"
+      },
+      {
+        "msgID": "MAP10_M_L0216",
+        "msgStr": "dUVaRlaRa bAYıIıIıııILıRIm!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_15_123",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0217",
+        "msgStr": "> Ippon-Datara çığlıklar atarak kaçıp gitti."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_16_124",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0218",
+        "msgStr": "Umarım bu duvarlardan daha fazla karşımıza çıkmaz..."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon02_17_125",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0219",
+        "msgStr": "> Ippon-Datara kaçarken bir şey düşürdü."
+      },
+      {
+        "msgID": "MAP10_M_L0220",
+        "msgStr": "> Raidou, <ITM_08><COLOR 4>Yaşam Boncuğu<COLOR 0> x1 elde etti."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon03_126",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0221",
+        "msgStr": "aRTıK kİMsE oNU dURdURamAz!"
+      },
+      {
+        "msgID": "MAP10_M_L0222",
+        "msgStr": "sENiN iÇİn iMKânSIz! vAZgEç aRTıK!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon03re_127",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0223",
+        "msgStr": "oNU kİM yIKaBİliR kİ!? vAZgEç aRTıK!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon03after_128",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0224",
+        "msgStr": "eH, eFSaNEvİ dUVaR uSTaSI iÇİn iŞe dÖNmE vAKtİ!"
+      },
+      {
+        "msgID": "MAP10_M_L0225",
+        "msgStr": "tEŞeKKüRe gEReK yOK."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon04_129",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0226",
+        "msgStr": "gEÇmENe iZİn vERmİYorUM! nE oLURsA oLSuN gEÇiRmEyECeğİM!"
+      },
+      {
+        "msgID": "MAP10_M_L0227",
+        "msgStr": "gİT dE gEBeR!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon04re_130",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0228",
+        "msgStr": "cEHeNNeMe kADaR yOLuN vAR!"
+      },
+      {
+        "msgID": "MAP10_M_L0229",
+        "msgStr": "yARıM aKILlI! aHMaK! gİT dE gEBeR!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon04after_131",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0230",
+        "msgStr": "hADi iRAdELerİmİzİ kARşILaŞtIrALıM!"
+      },
+      {
+        "msgID": "MAP10_M_L0231",
+        "msgStr": "dAHa nELeR! eNAyİ!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon05_132",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0232",
+        "msgStr": "bURaDAkİ dUVaRlaRImIzI kİMsE aŞAmAz! oNLaR bİzİM şAHesERimİZ!"
+      },
+      {
+        "msgID": "MAP10_M_L0233",
+        "msgStr": "cİDdeN eN iYİsİ oNLaR!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon05re_133",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0234",
+        "msgStr": "şAHesERimİZ! La LA la, sENi dUYmUyORuM kİ!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon05after_134",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0235",
+        "msgStr": "şAHesERimİZ! yIKıLDı!"
+      },
+      {
+        "msgID": "MAP10_M_L0236",
+        "msgStr": "yIKıM vE yARaTıLıŞ... tIPkI tANrIlaR gİBiyİZ!"
+      },
+      {
+        "msgID": "MAP10_M_L0237",
+        "msgStr": "tANrIlaR!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon06_135",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0238",
+        "msgStr": "hMmm... hEY, aHBaBıM nEReYe gİTtİ?"
+      },
+      {
+        "msgID": "MAP10_M_L0239",
+        "msgStr": "vELeDİn bİRİ dUVaRI yIKtI dİYE eMEkLİ mİ oLDu?"
+      },
+      {
+        "msgID": "MAP10_M_L0240",
+        "msgStr": "oLAmAz! dUVaRlaRIn aRAsıNDa mI sIKıŞıP kALdI yOKsA?"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon06re_136",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0241",
+        "msgStr": "nE? hAYıIIıR!"
+      },
+      {
+        "msgID": "MAP10_M_L0242",
+        "msgStr": "bELkİ aHBaBıM... aHBaBıM yAPaBİliR..."
+      },
+      {
+        "msgID": "MAP10_M_L0243",
+        "msgStr": "eMEkLİ oLMuŞ oLAbİliR aMA hÂLâ dUVaRlaRI sEViYOr. aPAçIK oRTadA."
+      },
+      {
+        "msgID": "map10_m_m_10_ippon06after_137",
+        "msgStr": "Ippon-Datara"
+      },
+      {
+        "msgID": "MAP10_M_L0244",
+        "msgStr": "aHBaBıM iŞİnE gERi dÖNdÜ!"
+      },
+      {
+        "msgID": "MAP10_M_L0245",
+        "msgStr": "bİR yERleRDe hÂLâ dUVaR uSTaLIğI yAPıYOr! iŞTe bUuuUUuu!"
+      },
+      {
+        "msgID": "map10_m_m_10_ippon_kou SEL_138",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0246",
+        "msgStr": "Bundan iste"
+      },
+      {
+        "msgID": "MAP10_M_L0247",
+        "msgStr": "Başka birini bul"
+      },
+      {
+        "msgID": "map10_m_m_10_Ara01_01_139",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP10_M_L0248",
+        "msgStr": "Zzzzz... Zzzzz..."
+      },
+      {
+        "msgID": "map10_m_m_10_Ara01_02_140",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0249",
+        "msgStr": "> Uyuyan iblis yolu kapatıyor..."
+      },
+      {
+        "msgID": "map10_m_m_10_Ara01_02s SEL_141",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP10_M_L0250",
+        "msgStr": "Uyandırmak için vur"
+      },
+      {
+        "msgID": "MAP10_M_L0251",
+        "msgStr": "Sessizce uzaklaş"
+      },
+      {
+        "msgID": "map10_m_m_10_Ara01_03_142",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP10_M_L0252",
+        "msgStr": "Guh...!?"
+      },
+      {
+        "msgID": "MAP10_M_L0253",
+        "msgStr": "Bedenim...? Hm... Uykum sırasında hislerimi kaybetmiş olmalıyım."
+      },
+      {
+        "msgID": "map10_m_m_10_Ara01_04_143",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "MAP10_M_L0254",
+        "msgStr": "Bin yılı aşkın bir süredir uyku hâlindeydim."
+      },
+      {
+        "msgID": "MAP10_M_L0255",
+        "msgStr": "Tam da şu anda uyanmış olmam kader olmalı."
+      },
+      {
+        "msgID": "MAP10_M_L0256",
+        "msgStr": "Ben Boyun Eğmeyen Tanrılardan Arahabaki."
+      },
+      {
+        "msgID": "map10_m_m_10_Ara01_05_144",
+        "msgStr": "Arahabaki"
+      },
+      {
+        "msgID": "MAP10_M_L0257",
+        "msgStr": "Görünüşe göre Yatagarasu'dansın..."
+      },
+      {
+        "msgID": "MAP10_M_L0258",
+        "msgStr": "Amatsu'ya karşı gelen herkesi katleden İblis Çağırıcılarının soyundan biri..."
+      },
+      {
+        "msgID": "MAP10_M_L0259",
+        "msgStr": "...Kunitsu'nun iradesine, yani Süper Asker Projesi'ne engel olmak için buradasın."
+      },
+      {
+        "msgID": "MAP10_M_L0260",
+        "msgStr": "Buna izin vermeyeceğim!"
+      },
+      {
+        "msgID": "map10_m_m_10_TunnelFollow01_145",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0261",
+        "msgStr": "Bir kuyunun dibinde tren rayları..."
+      },
+      {
+        "msgID": "MAP10_M_L0262",
+        "msgStr": "Sergilediği hız da şaşırtıcıydı."
+      },
+      {
+        "msgID": "map10_m_m_10_TunnelFollow02_146",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP10_M_L0263",
+        "msgStr": "Narumi ve Munakata'yı bulmak için biz de kendi hızımızı kullanalım."
+      },
+      {
+        "msgID": "MAP10_M_L0264",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP10_M_L0265",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map10_m_m_10_Yomi01_147",
+        "msgStr": "Cehennem Piyonu"
+      },
+      {
+        "msgID": "MAP10_M_L0266",
+        "msgStr": "Ahmak. Ne zaman pes edeceğini bilmiyorsun. Burnunu soktuğun yeter."
+      },
+      {
+        "msgID": "MAP10_M_L0267",
+        "msgStr": "Şimdi bunun bedelini ödeyeceksin!"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/20 20:14:42"
+}

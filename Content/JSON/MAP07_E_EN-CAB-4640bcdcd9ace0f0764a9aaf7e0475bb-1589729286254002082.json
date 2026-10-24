@@ -1,0 +1,1645 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP07_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map07_e_EPI05_SCENE02_01_000",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "MAP07_E_L0000",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0001",
+        "msgStr": "Ve işte geldik! Daha önce hiç Kasumidai'ye gelmiş miydin Raidou?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0002",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0003",
+        "msgStr": "Bütün siyasi kodamanların ve üst düzey komutanların bir araya geldiği yer burasıdır.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0004",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0005",
+        "msgStr": "O askerin gelip burada bizimle buluşması gerekiyordu ama...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0006",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0007",
+        "msgStr": "Sanırım henüz görünmedi.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0008",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0009",
+        "msgStr": "Hıh! <IT_S>Koca<IT_E> Kichou Asakura'yı ekmek ne cüretmiş...\n<lips_stop>"
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE02_06_001",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "MAP07_E_L0010",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0011",
+        "msgStr": "Raidou, bir tanem, benim için etrafa bir göz atıverir misin?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0012",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0013",
+        "msgStr": "Gizemli arayanımız kendini <COLOR 3>sol yanağında büyük bir ben<COLOR 0> olan biri olarak tarif etti.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0014",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0015",
+        "msgStr": "Yakınlarda bir yerde olmalı. Onu bulacağından eminim.\n<lips_stop>"
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE02_08_002",
+        "msgStr": "Tae"
+      },
+      {
+        "msgID": "MAP07_E_L0016",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0017",
+        "msgStr": "Sol yanağında büyük beni olan bir sürü insan olmalı...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0018",
+        "msgStr": "<lips 7 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0019",
+        "msgStr": "Ama gerçekten <IT_S>o kadar<IT_E> yaygın mıdır? Eğer ucube gibi kocaman bir şeyse bir fotoğraf çekmem gerekebilir.\n<lips_stop>"
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_01_003",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0020",
+        "msgStr": "Hey... Neden yüzüme öyle dik dik bakıyorsun?"
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_02_004",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_E_L0021",
+        "msgStr": "Yanlış adam. Bunun cildi kusursuz."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_03_005",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0022",
+        "msgStr": "Ha, anladım. Beni o işe yaramaz asker kaçağı sandın, değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0023",
+        "msgStr": "Aslına bakarsan, o aşağılık hain az önce buradaydı."
+      },
+      {
+        "msgID": "MAP07_E_L0024",
+        "msgStr": "Onu enseleyip kendime bir terfi koparmayı umuyordum..."
+      },
+      {
+        "msgID": "MAP07_E_L0025",
+        "msgStr": "Ama görünüşe göre çoktan sırra kadem basmış. Başka hiçbir işe yaramasa bile kaçmakta üstüne yok."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_04_006",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0026",
+        "msgStr": "Merak etme. Kasumidai'de olduğu sürece kapana kısılmış bir fare gibidir."
+      },
+      {
+        "msgID": "MAP07_E_L0027",
+        "msgStr": "Ve eğer suç ortakları varsa, hepsini tek seferde kıskıvrak yakalayacağız."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_05_007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_E_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_06_008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_E_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_07_009",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_E_L0030",
+        "msgStr": "Başımız biraz derde girebilir..."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_08_010",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_E_L0031",
+        "msgStr": "Eğer bu asker kaçağı Başkent Günlüğü'nü arayan kişiyle aynıysa, Tae'nin de başı belaya girecek demektir."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE03_09_011",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_E_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_E_L0033",
+        "msgStr": "<COLOR 3>Bunu Tae'ye haber verip buradan gitsek<COLOR 0> iyi olabilir."
+      },
+      {
+        "msgID": "map07_e_MAP07_KENPEI_01_012",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0034",
+        "msgStr": "O asker kaçağı kapana kısılmış bir fare gibi. Onu yakalamamız an meselesi."
+      },
+      {
+        "msgID": "MAP07_E_L0035",
+        "msgStr": "Tabii içeriden yardım almıyorsa..."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE04_01_013",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_E_L0036",
+        "msgStr": "Aa, bu Tae'nin kamerası değil mi!?"
+      },
+      {
+        "msgID": "MAP07_E_L0037",
+        "msgStr": "Bunu öylece burada bırakacağından şüpheliyim. Birisi onu kaçırmış olabilir mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0038",
+        "msgStr": "Kamerayı kontrol etmeliyiz. Belki üzerinde bir ipucu bırakmıştır."
+      },
+      {
+        "msgID": "MAP07_E_L0039",
+        "msgStr": "Hatta Konnou-ya'ya uğramalıyız. Her türlü alet edevat onlarda var. Dedikleri gibi... işin ehli onlardır."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE04_05_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_E_L0040",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Tae'nin Kamerası<COLOR 0>'nı elde etti."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE04_TUIKA_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_E_L0041",
+        "msgStr": "> Bu muhtemelen Raidou'nun incelemesi gereken bir şey."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE10_01_016",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP07_E_L0042",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0043",
+        "msgStr": "Bugünlerde canavarlardan bir türlü kaçamıyorum. Başkent'e neden böyle şeyler oluyor?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0044",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0045",
+        "msgStr": "Ama en azından artık endişelenecek bir derdim eksildi. Sana borçlandım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0046",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0047",
+        "msgStr": "Ha, doğru ya, fotoğraftaki o kız!<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0048",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0049",
+        "msgStr": "Onu Ordu'nun yeraltı tersanesinde ara.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0050",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0051",
+        "msgStr": "Şanslıysan ona denk gelebilirsin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0052",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0053",
+        "msgStr": "Harumi-cho'nun hemen karşısındaki <COLOR 3>4 Nolu Topçu Bataryası<COLOR 0>'na git.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0054",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0055",
+        "msgStr": "Orada, tesise gizli giriş görevi gören alakasız bir <COLOR 3>telefon kulübesi<COLOR 0> var.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0056",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0057",
+        "msgStr": "Belirli bir numarayı çevirdiğinde içeri girebileceksin.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0058",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0059",
+        "msgStr": "O numara da <COLOR 1>49399221<COLOR 0>.<lips_stop>"
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE10_08_017",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP07_E_L0060",
+        "msgStr": "Yeraltı tersanesi... Görünüşe göre nihayet Kaya Daidouji'yi kurtarabiliriz."
+      },
+      {
+        "msgID": "map07_e_EPI05_SCENE10_09_018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP07_E_L0061",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map07_e_EPI05_SADA_01_019",
+        "msgStr": "Sadakichi"
+      },
+      {
+        "msgID": "MAP07_E_L0062",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0063",
+        "msgStr": "Ordu'nun yeraltı tersanesinin girişi, 4 Nolu Topçu Bataryası'ndaki telefon kulübesidir.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0064",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0065",
+        "msgStr": "Belirli bir numara çevrildiğinde kulübe bir asansöre dönüşür.<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0066",
+        "msgStr": "Numara neydi bakalım?"
+      },
+      {
+        "msgID": "MAP07_E_L0067",
+        "msgStr": "Tamam, gitmeye hazırım."
+      },
+      {
+        "msgID": "MAP07_E_L0068",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0069",
+        "msgStr": "Numara 49399221.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0070",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0071",
+        "msgStr": "Unutma ihtimaline karşı bir yere not etsen iyi olur.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0072",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0073",
+        "msgStr": "Ya da adı neydi onun... şu hafıza tekniklerinden birini kullan! Gerçi ben hiç bilmem.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0074",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0075",
+        "msgStr": "Her neyse, o muhabiri bana bırak. Sen önden gemi inşa tesisine git.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0076",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0077",
+        "msgStr": "Muhabirle ben ilgilenirim. Bana güven, ben bir askerim; onun güvende olmasını sağlayacağım.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0078",
+        "msgStr": "<lips 28 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0079",
+        "msgStr": "Sen yeraltı tersanesine git ve Munakata'yı durdur.\n<lips_stop>"
+      },
+      {
+        "msgID": "map07_e_EPI05_TAE_01_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_E_L0080",
+        "msgStr": "> Tae'nin bilinci kapalı."
+      },
+      {
+        "msgID": "map07_e_EPI06_KAYA_01_021",
+        "msgStr": "Kaya"
+      },
+      {
+        "msgID": "MAP07_E_L0081",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0082",
+        "msgStr": "Kasumidai'de bir adliye var, değil mi?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0083",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0084",
+        "msgStr": "Suçları adil bir şekilde yargılayabilmek ne güzel. İdeal bir ülke böyle olmalı.\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0084_01",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0084_02",
+        "msgStr": "Seni mahkemede savunabilirim, <NAME2N 0>! Merak etme, bana güvenebilirsin!\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0084_03",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0084_04",
+        "msgStr": "Tabii bana yeterince güvendiğini varsayarsak...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0085_01",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0085_02",
+        "msgStr": "Şey, <NAME2N 0>...\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0085",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0086",
+        "msgStr": "Bitmek bilmeyen bir savaşın olduğu bir dünyada yaşasaydın ne yapardın?\n<lips_stop>"
+      },
+      {
+        "msgID": "MAP07_E_L0087",
+        "msgStr": "<lips 4 5>"
+      },
+      {
+        "msgID": "MAP07_E_L0088",
+        "msgStr": "Tanrılar ve iblisler arasında geçen, dünya sona erene kadar çatışmanın bitmeyeceği bir savaş...\n<lips_stop>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP05_01_022",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0089",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0090",
+        "msgStr": "> Yüzüne hafif, alaycı bir gülümseme yayılıyor."
+      },
+      {
+        "msgID": "MAP07_E_L0091",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0092",
+        "msgStr": "> Kamerayı kesinlikle fark etti."
+      },
+      {
+        "msgID": "MAP07_E_L0093",
+        "msgStr": "...!?"
+      },
+      {
+        "msgID": "MAP07_E_L0094",
+        "msgStr": "> Gözlerini fotoğraftan alamıyor."
+      },
+      {
+        "msgID": "MAP07_E_L0095",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0096",
+        "msgStr": "> Çatık kaşlarla bu tarafa bakıyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP06_01_023",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0097",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0098",
+        "msgStr": "> Dudakları sıkıca büzülmüş."
+      },
+      {
+        "msgID": "MAP07_E_L0099",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0100",
+        "msgStr": "> Arada sırada Kaya'ya kaçamak bakışlar atıyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP07_01_024",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0101",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0102",
+        "msgStr": "> Büyülenmiş gibi Raidou'ya dik dik bakıyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP08_01_025",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0103",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0104",
+        "msgStr": "> Düşüncelere dalmış görünüyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP10_01_026",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0105",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0106",
+        "msgStr": "> Raidou'ya bakıyor ve kılıcını temkinli bir şekilde süzüyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP10_02_027",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0107",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0108",
+        "msgStr": "> Doğrudan gökyüzüne bakıyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP11_01_028",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0109",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0110",
+        "msgStr": "> Boynundan aşağı oluk oluk ter akıyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP11_02_029",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0111",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0112",
+        "msgStr": "> Bakışları gökyüzü ile Koutou-ku yönü arasında gidip geliyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP12_01_030",
+        "msgStr": "Ordu Müfettişi"
+      },
+      {
+        "msgID": "MAP07_E_L0113",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0114",
+        "msgStr": "> Gözlerinde parıldayan bir umutla, yüzünde geniş bir gülümseme taşıyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_JYU00_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_E_L0115",
+        "msgStr": "> Ordu müfettişinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP05_JYU01_032",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0116",
+        "msgStr": "<COLOR 2>Benim suçum değil... Burada her an bir çatışma çıkabilir."
+      },
+      {
+        "msgID": "MAP07_E_L0117",
+        "msgStr": "Serseri bir kurşuna hedef olursa benim suçum değil...<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP05_JYU02_033",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0118",
+        "msgStr": "<COLOR 2>H-Hey... Fotoğrafımı çekmeyecek, değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0119",
+        "msgStr": "Ama ben kameradan çok çekinirim... Bana bir mercek doğrultulduğunda geriliyorum.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP05_JYU03_034",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0120",
+        "msgStr": "<COLOR 2>Bu fotoğraftaki adam bizim üniformamızı giyiyor ama..."
+      },
+      {
+        "msgID": "MAP07_E_L0121",
+        "msgStr": "Onu daha önce hiç görmedim. Birliğimizde böyle biri var mıydı?<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP05_JYU04_035",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0122",
+        "msgStr": "<COLOR 2>Bu erkek öğrencinin üzerinde kan kokusu var gibi hissediyorum..."
+      },
+      {
+        "msgID": "MAP07_E_L0123",
+        "msgStr": "Üstelik sadece bir kavgadan kalma da değil. Ölümün pis kokusu gibi...<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP06_JYU01_036",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0124",
+        "msgStr": "<COLOR 2>Peki, casus kimdi? En başında bir casus var mıydı ki?"
+      },
+      {
+        "msgID": "MAP07_E_L0125",
+        "msgStr": "Habersiz bir tatbikat falan değildi, değil mi?<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP06_JYU02_037",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0126",
+        "msgStr": "<COLOR 2>Ouran'ın üniforması epey sevimliymiş."
+      },
+      {
+        "msgID": "MAP07_E_L0127",
+        "msgStr": "Ordu'nun Ouran kızlarına bu kadar hayran görünmesinin sebebi bu mu acaba?<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP07_JYU01_038",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0128",
+        "msgStr": "<COLOR 2>Biliyor musun, daha önce hiç fark etmemiştim ama bu çocuğun talihsiz bir yüzü var."
+      },
+      {
+        "msgID": "MAP07_E_L0129",
+        "msgStr": "Sanki başkalarının talihsizliklerini sırtında taşıyor gibi.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP08_JYU01_039",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0130",
+        "msgStr": "<COLOR 2>Tümgeneral Munakata bugün gerçekten heyecanlı görünüyordu."
+      },
+      {
+        "msgID": "MAP07_E_L0131",
+        "msgStr": "Sanırım bu sabah yataktan sağ tarafıyla kalkmış.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP10_JYU01_040",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0132",
+        "msgStr": "<COLOR 2>Bütün gün burada öylece dikilmek insanı bıktırıyor..."
+      },
+      {
+        "msgID": "MAP07_E_L0133",
+        "msgStr": "Ne sıkıcı. Belki de sırf eğlencesine şu çocuğu biraz azarlarım.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP10_JYU02_041",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0134",
+        "msgStr": "<COLOR 2>Hım... Demek uyduyu fırlattılar. Güç kaynakları olmadığını söylememişler miydi?"
+      },
+      {
+        "msgID": "MAP07_E_L0135",
+        "msgStr": "Gerçi bize yardım eden <IT_S>şu<IT_E> kız var. Muhtemelen bir şekilde hallolacaktır.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP11_JYU01_042",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0136",
+        "msgStr": "<COLOR 2>Şu savaş gemisi canavarıyla ilgili kargaşa Munakata'nın sorumluluğunda, değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0137",
+        "msgStr": "Bütün emirleri o verdi... S-Suçlu olan Munakata!<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP11_JYU02_043",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0138",
+        "msgStr": "<COLOR 2>Buna bakılırsa, Harumi-cho daha fazla dayanamayacak..."
+      },
+      {
+        "msgID": "MAP07_E_L0139",
+        "msgStr": "A-Ama bunların hepsi Munakata'nın suçu! Beni suçlayamazlar!<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc01_Mkep01_EP12_JYU01_044",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0140",
+        "msgStr": "<COLOR 2>O-O canavarın nesi vardı öyle? Çok çabuk bitti. Yani, aniden duruverdi."
+      },
+      {
+        "msgID": "MAP07_E_L0141",
+        "msgStr": "Gerçekten çok mu zayıftı? Sadece kuru gürültü müydü?<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP05_01_045",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0142",
+        "msgStr": "Ordu'nun gözetimi altından kaçmaya çalışmak ha... Ne komik ama."
+      },
+      {
+        "msgID": "MAP07_E_L0143",
+        "msgStr": "Kartal gözlerimden saklanabilecek hiçbir yer yok."
+      },
+      {
+        "msgID": "MAP07_E_L0144",
+        "msgStr": "Ne dedin? Bir muhabir mi kaybolmuş?"
+      },
+      {
+        "msgID": "MAP07_E_L0145",
+        "msgStr": "Sen beni kör mü sandın!? Böyle bir şeyin gözümden kaçmasına imkân yok!"
+      },
+      {
+        "msgID": "MAP07_E_L0146",
+        "msgStr": "Ne? Bu fotoğraf kısa süre önce burada mı çekilmiş?"
+      },
+      {
+        "msgID": "MAP07_E_L0147",
+        "msgStr": "Kör müsün sen!? Heykelin önünde kimse yok!"
+      },
+      {
+        "msgID": "MAP07_E_L0148",
+        "msgStr": "Ha? Karanlık Diyar mı? Şu an içinde bulunduğumuz dünyaya alternatif bir dünya mı?"
+      },
+      {
+        "msgID": "MAP07_E_L0149",
+        "msgStr": "Uyanık olduğuna emin misin? Uykunda sayıklıyor gibi konuşuyorsun."
+      },
+      {
+        "msgID": "MAP07_E_L0150",
+        "msgStr": "Ş-Şuradaki asker ve kadın... Hiçbir yerden çıkıverdiklerini gördüm sandım."
+      },
+      {
+        "msgID": "MAP07_E_L0151",
+        "msgStr": "Belki de fazla çalıştım. Kendi sağlığımı hiçe sayarak başkalarını gözetlemeye fazla odaklandım..."
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP06_01a_046",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0152",
+        "msgStr": "İlerideki meydanda bulunan subay, bilinci kapalı sivili evine kadar götürdü."
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP06_01b_047",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0153",
+        "msgStr": "Yine de yüzündeki o gülümseme ve üniformasını giyiş tarzı bir subaya hiç yakışmıyordu."
+      },
+      {
+        "msgID": "MAP07_E_L0154",
+        "msgStr": "Sivil kıza yardım eden şu subay var ya..."
+      },
+      {
+        "msgID": "MAP07_E_L0155",
+        "msgStr": "Üniforması ve rütbe işareti kesinlikle gerçekti ama yüzünü daha önce hiç görmemiştim..."
+      },
+      {
+        "msgID": "MAP07_E_L0156",
+        "msgStr": "Sadakichi'nin adını ver"
+      },
+      {
+        "msgID": "MAP07_E_L0157",
+        "msgStr": "Tek kelime etme"
+      },
+      {
+        "msgID": "MAP07_E_L0158",
+        "msgStr": "Ya? Onu tanıyor musun?"
+      },
+      {
+        "msgID": "MAP07_E_L0159",
+        "msgStr": "Kusura bakma, isimlerle yüzleri eşleştirmekte pek iyi değilimdir."
+      },
+      {
+        "msgID": "MAP07_E_L0160",
+        "msgStr": "Hangi birliğe bağlı olduğunu biliyor musun?"
+      },
+      {
+        "msgID": "MAP07_E_L0161",
+        "msgStr": "O kadar büyük bir beni nasıl unutabilirim ki..."
+      },
+      {
+        "msgID": "MAP07_E_L0162",
+        "msgStr": "Beni olan o subay sivil kızı evine götürmeye gitti ama hâlâ geri dönüp rapor vermedi."
+      },
+      {
+        "msgID": "MAP07_E_L0163",
+        "msgStr": "Eğer öyle bir adamın emri altındalarsa birliğindeki erlere acırım doğrusu."
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP07_01_048",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0164",
+        "msgStr": "İstihbarat subaylarımızın söylediğine göre Donanma kargaşa içindeymiş."
+      },
+      {
+        "msgID": "MAP07_E_L0165",
+        "msgStr": "Hıh, anlayacağın Ordu'nun istihbaratı Donanma'nınkinden katbekat üstündür."
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP08_01_049",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0166",
+        "msgStr": "İstihbarat subaylarımızın söylediğine göre Donanma'nın casusları yine harekete geçiyormuş."
+      },
+      {
+        "msgID": "MAP07_E_L0167",
+        "msgStr": "Hıh, anlayacağın Ordu'nun istihbaratı Donanma'nınkinden katbekat üstündür."
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP10_01_050",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0168",
+        "msgStr": "Görünüşe göre yüzünde ben olan o subay... meğer köstebekmiş."
+      },
+      {
+        "msgID": "MAP07_E_L0169",
+        "msgStr": "Şimdi gitti ama istihbarat subaylarımız onun foyasını ortaya çıkardı."
+      },
+      {
+        "msgID": "MAP07_E_L0170",
+        "msgStr": "O zaman bilseydim, o kocaman benini yüzünden söküp alırdım."
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP10_02_051",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0171",
+        "msgStr": "O Donanma casusu parmaklarımızın arasından kayıp gitti ama konu istihbarat olduğunda avantaj Ordu'dadır."
+      },
+      {
+        "msgID": "MAP07_E_L0172",
+        "msgStr": "Buradakiler hâlâ birkaç yıl önce ayrılan efsanevi istihbarat subayından bahsediyor."
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP11_01_052",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0173",
+        "msgStr": "Harumi-cho'daki o insansı şey... O da ne? C-Canlı mı o?"
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP11_02_053",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0174",
+        "msgStr": "Harumi-cho'daki o insansı şey... Canlı mı?"
+      },
+      {
+        "msgID": "MAP07_E_L0175",
+        "msgStr": "O uluyuşu... Sanki burasıyla eskiye dayanan bir husumeti var gibiydi."
+      },
+      {
+        "msgID": "map07_e_map07_npc02_Mkep02_EP12_01_054",
+        "msgStr": "Tetikte Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0176",
+        "msgStr": "Anlıyorum... Demek Ruhsuz Tanrı bir sivilin roketiyle yıkıldı."
+      },
+      {
+        "msgID": "MAP07_E_L0177",
+        "msgStr": "Sanırım senin kişisel kararlılığın ile bizim liderimize olan körü körüne inancımız arasındaki fark bu."
+      },
+      {
+        "msgID": "map07_e_map07_npc03_Mkep03_EP05_01_055",
+        "msgStr": "Terli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0178",
+        "msgStr": "Buraya okul gezisi için mi geldin? Çünkü kimse bana haber vermedi..."
+      },
+      {
+        "msgID": "MAP07_E_L0179",
+        "msgStr": "Öyleyse derslerine olan tutkuna hayran kaldım!"
+      },
+      {
+        "msgID": "MAP07_E_L0180",
+        "msgStr": "Kasumidai'nin ana binaları Ordu Karargâhı, Meclis Binası ve Yüce Mahkeme'dir!"
+      },
+      {
+        "msgID": "MAP07_E_L0181",
+        "msgStr": "Ordu Karargâhı hakkında sor"
+      },
+      {
+        "msgID": "MAP07_E_L0182",
+        "msgStr": "Meclis Binası hakkında sor"
+      },
+      {
+        "msgID": "MAP07_E_L0183",
+        "msgStr": "Yüce Mahkeme hakkında sor"
+      },
+      {
+        "msgID": "MAP07_E_L0184",
+        "msgStr": "Hiçbir şey sorma"
+      },
+      {
+        "msgID": "MAP07_E_L0185",
+        "msgStr": "Tam karşında duruyor!"
+      },
+      {
+        "msgID": "MAP07_E_L0186",
+        "msgStr": "Ulusal savunma stratejilerinin planlanması, personel denetimi ve eğitimi; hepsi burada yapılır!"
+      },
+      {
+        "msgID": "MAP07_E_L0187",
+        "msgStr": "Dürüst olmak gerekirse benim gibi bir askeri öğrencinin burada hiçbir işi yok..."
+      },
+      {
+        "msgID": "MAP07_E_L0188",
+        "msgStr": "Sadece soluna dön; gözünden kaçırman imkânsız!"
+      },
+      {
+        "msgID": "MAP07_E_L0189",
+        "msgStr": "Meclis üyelerinin yan gelip yattığı... şey, yani ciddi ulusal meseleleri tartıştığı yer orasıdır!"
+      },
+      {
+        "msgID": "MAP07_E_L0190",
+        "msgStr": "Görevim, Başkent'in geleceğini sırtlarında taşıyan önemli şahsiyetleri korumaktır!"
+      },
+      {
+        "msgID": "MAP07_E_L0191",
+        "msgStr": "Sağına bir bak, onu göreceksin!"
+      },
+      {
+        "msgID": "MAP07_E_L0192",
+        "msgStr": "Özel ve idari mahkemelerin üzerindeki hukuk ve ceza davalarının görüldüğü mahkemedir."
+      },
+      {
+        "msgID": "MAP07_E_L0193",
+        "msgStr": "O mahkemenin huzuruna çıkma düşüncesi bile beni ecel terleri döktürüyor!"
+      },
+      {
+        "msgID": "MAP07_E_L0194",
+        "msgStr": "Aa... Ö-Öyle mi...?"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP05_01_056",
+        "msgStr": "Gergin Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0195",
+        "msgStr": "Böyle tehlikeli bir zamanda ta Kasumidai'ye kadar gelmek..."
+      },
+      {
+        "msgID": "MAP07_E_L0196",
+        "msgStr": "Tavsiyemi dinle; gerçekten bilmemen gereken şeyleri öğrenmeden önce buradan git."
+      },
+      {
+        "msgID": "MAP07_E_L0197",
+        "msgStr": "Kasumidai'de bir kayıp olduğu söylentilerini yayan kişi sen değilsin, değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0198",
+        "msgStr": "Her neyse, bilmemen gereken şeyleri öğrenmeden önce buradan git..."
+      },
+      {
+        "msgID": "MAP07_E_L0199",
+        "msgStr": "Seni buralarda çok görüyorum. Burada ne yaptığın pek umurumda değil ama..."
+      },
+      {
+        "msgID": "MAP07_E_L0200",
+        "msgStr": "Tavsiyemi dinle; gerçekten bilmemen gereken şeyleri öğrenmeden önce buradan git."
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP06_01_057",
+        "msgStr": "Gergin Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0201",
+        "msgStr": "Birlikler artık yüksek alarmda olmasa bile kafana göre Kasumidai'ye gelmemelisin."
+      },
+      {
+        "msgID": "MAP07_E_L0202",
+        "msgStr": "Bilmemen gereken şeyleri öğrenmeden önce buradan gitmelisin."
+      },
+      {
+        "msgID": "MAP07_E_L0203",
+        "msgStr": "Birlikler artık yüksek alarmda olmasa bile Kasumidai'ye popüler bir randevu mekânı gibi davranmamalısın."
+      },
+      {
+        "msgID": "MAP07_E_L0204",
+        "msgStr": "Bilmemen gereken şeyleri öğrenmeden önce buradan gitmelisin."
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP07_01_058",
+        "msgStr": "Gergin Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0205",
+        "msgStr": "Birlikler artık yüksek alarmda olmasa bile sebepsiz yere Kasumidai'ye gelmemelisin."
+      },
+      {
+        "msgID": "MAP07_E_L0206",
+        "msgStr": "Bilmemen gereken şeyleri öğrenmeden önce buradan gitmelisin."
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP08_01_059",
+        "msgStr": "Gergin Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0207",
+        "msgStr": "Seninle konuşma zahmetine girdiğim için bile şanslı olduğunu bil."
+      },
+      {
+        "msgID": "MAP07_E_L0208",
+        "msgStr": "Bazı birlikler arkalarından gelen bir sese önce bıçak fırlatıp sonra soru sorarak karşılık verir."
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP10_01_060",
+        "msgStr": "Gergin Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0209",
+        "msgStr": "Sıkıyönetim durumunu duymuşsundur, değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0210",
+        "msgStr": "...Ne? Burada kim mi yetkili? Öğretmenlerin sana bundan bahsetmedi mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0211",
+        "msgStr": "Benden sana bir tavsiye; canına değer veriyorsan karşımıza çıkma."
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP11_01_061",
+        "msgStr": "Gergin Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0212",
+        "msgStr": "Sakuradayama'daki bir silah arkadaşımdan mesaj aldım... Koutou-ku'nun yarısı yerle bir olmuş."
+      },
+      {
+        "msgID": "MAP07_E_L0213",
+        "msgStr": "O canavar buraya gelirse bu zavallı silahlarla hiç şansımız yok!"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP11_02_062",
+        "msgStr": "Gergin Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0214",
+        "msgStr": "Sakuradayama'daki bir silah arkadaşımdan mesaj aldım... Harumi-cho'da çok sayıda kayıp verilmiş."
+      },
+      {
+        "msgID": "MAP07_E_L0215",
+        "msgStr": "D-Dünyadaki tüm silahları birleştirsek bile o canavara karşı hiç şansımız yok!"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP12_01a_063",
+        "msgStr": "Gergin Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0216",
+        "msgStr": "Sakuradayama'daki bir silah arkadaşımdan mesaj aldım... Ruhsuz Tanrı gibi bir dev daha ortaya çıkmış."
+      },
+      {
+        "msgID": "MAP07_E_L0217",
+        "msgStr": "En kötüsüne hazırım. Gel bakalım canavar! Yetersiz ateş gücünü saf cesaretimle telafi edeceğim!"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_JYU00_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP07_E_L0218",
+        "msgStr": "> Gergin Ordu askerinin düşünceleri duyulabiliyor..."
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP05_JYU01_065",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0219",
+        "msgStr": "<COLOR 2>Siviller askerî skandallara bir türlü doymuyor."
+      },
+      {
+        "msgID": "MAP07_E_L0220",
+        "msgStr": "Etrafta gazete muhabirleri yok, değil mi...?<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP05_JYU02_066",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0221",
+        "msgStr": "<COLOR 2>Sivillere ne olduğu umurumda bile değil."
+      },
+      {
+        "msgID": "MAP07_E_L0222",
+        "msgStr": "Bırak kaybolsunlar. Asker kaçağıyla elimiz kolumuz yeterince dolu zaten.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP05_JYU03_067",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0223",
+        "msgStr": "<COLOR 2>Kasumidai'de saklanacak pek fazla yer yoktur..."
+      },
+      {
+        "msgID": "MAP07_E_L0224",
+        "msgStr": "Her yeri aradık ama onu bulamıyoruz. Nerede bu asker kaçağı?<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP06_JYU01_068",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0225",
+        "msgStr": "<COLOR 2>Casusu yakalama emri iptal edildi ama ya gizli bilgiler sızdırılırsa?"
+      },
+      {
+        "msgID": "MAP07_E_L0226",
+        "msgStr": "İşlerin gidişatına bağlı olarak... bu çocuk için bir mezar taşı hazırlamamız gerekebilir.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP06_JYU02_069",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0227",
+        "msgStr": "<COLOR 2>Casusu yakalama emri iptal edildi ama ya gizli bilgiler sızdırılırsa?"
+      },
+      {
+        "msgID": "MAP07_E_L0228",
+        "msgStr": "Kız için üzülüyorum ama bu çocuk için bir mezar taşı hazırlamamız gerekebilir.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP07_JYU01_070",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0229",
+        "msgStr": "<COLOR 2>Donanma zayıflarsa, Tümgeneral Munakata Meclis'te tek başına söz sahibi olacak."
+      },
+      {
+        "msgID": "MAP07_E_L0230",
+        "msgStr": "Nihayet Tümgeneral Munakata'nın idealleri gerçeğe dönüşecek.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP08_JYU01_071",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0231",
+        "msgStr": "<COLOR 2>Sıfırıncı Tümen, doğrudan Tümgeneral Munakata'nın kontrolü altındaki kırmızı üniformalı Özel Muhafızlar..."
+      },
+      {
+        "msgID": "MAP07_E_L0232",
+        "msgStr": "Onları daha önce hiç görmedim. Savaşta eşi benzeri olmasın diye oluşturulmuş bir birlik ha...<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc04_Mkep04_EP10_JYU01_072",
+        "msgStr": "İç Ses"
+      },
+      {
+        "msgID": "MAP07_E_L0233",
+        "msgStr": "<COLOR 2>Ordu, sıkıyönetimle sokakları kontrol altında tutuyor."
+      },
+      {
+        "msgID": "MAP07_E_L0234",
+        "msgStr": "İstesek bu çocuğu öldürüp bir isyancıyı bastırdık diye geçiştirebiliriz.<COLOR 0>"
+      },
+      {
+        "msgID": "map07_e_map07_npc05_Mkep05_EP05_01_073",
+        "msgStr": "Dalgın Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0235",
+        "msgStr": "Bir asker kaçağımız olmasına şaşırdım. Bu Tümgeneral Munakata'ya ihanettir, biliyorsun değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0236",
+        "msgStr": "Ben de Ordu'daki herkesin Tümgeneral Munakata hakkında aynı şeyleri hissettiğini sanıyordum."
+      },
+      {
+        "msgID": "MAP07_E_L0237",
+        "msgStr": "Bir asker kaçağımız olmasına şaşırdım. Bu Tümgeneral Munakata'ya ihanettir, biliyorsun değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0238",
+        "msgStr": "Meclis'te çok nüfuzlu biri, üstelik bir o kadar da popüler."
+      },
+      {
+        "msgID": "MAP07_E_L0239",
+        "msgStr": "Bir asker kaçağımız olmasına şaşırdım. Bu Tümgeneral Munakata'ya ihanettir, biliyorsun değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0240",
+        "msgStr": "Meclis'te çok nüfuzlu biri, üstelik bir o kadar da popüler."
+      },
+      {
+        "msgID": "MAP07_E_L0241",
+        "msgStr": "Düşünüyorum da, Tümgeneral Munakata son zamanlarda tuhaf davranıyor..."
+      },
+      {
+        "msgID": "MAP07_E_L0242",
+        "msgStr": "Belki de asker kaçağı sadece ondan bıkmıştır?"
+      },
+      {
+        "msgID": "MAP07_E_L0243",
+        "msgStr": "Ne açıdan mı tuhaf? Kim bilir?"
+      },
+      {
+        "msgID": "MAP07_E_L0244",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0245",
+        "msgStr": "Büyük askerî projesi reddedildiğinde gerçekten yıkılmıştı."
+      },
+      {
+        "msgID": "MAP07_E_L0246",
+        "msgStr": "Her zamanki kadar konuşkan değildi. Hatta tanrılara dua etmeye bile başladı."
+      },
+      {
+        "msgID": "MAP07_E_L0247",
+        "msgStr": "Yine de Ordu'dan firar etmenin iyi bir şey olduğunu düşünmüyorum."
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP05_01_074",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0248",
+        "msgStr": "O Donanma kappaları nasıl olur da yabancılarla içli dışlı olup sonra da Başkent'imizi korumaları beklenir?"
+      },
+      {
+        "msgID": "MAP07_E_L0249",
+        "msgStr": "Kappalar kappa gibi davranmalı ve gidip göle atlamalı."
+      },
+      {
+        "msgID": "MAP07_E_L0250",
+        "msgStr": "O Donanma kappaları nasıl olur da yabancılarla içli dışlı olup sonra da Başkent'imizi korumaları beklenir?"
+      },
+      {
+        "msgID": "MAP07_E_L0251",
+        "msgStr": "Kappalar kappa gibi davranmalı ve gidip biraz salatalık kemirmeli."
+      },
+      {
+        "msgID": "MAP07_E_L0252",
+        "msgStr": "O Donanma kappaları nasıl olur da yabancılarla içli dışlı olup sonra da Başkent'imizi korumaları beklenir?"
+      },
+      {
+        "msgID": "MAP07_E_L0253",
+        "msgStr": "Kappalar tıpkı iblisler gibidir. İblislerle başın dertteyse git kappalarla konuş."
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP06_01_075",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0254",
+        "msgStr": "4 Nolu Topçu Bataryası'nın yakınlarında yüzen insanlar olduğunu duydum."
+      },
+      {
+        "msgID": "MAP07_E_L0255",
+        "msgStr": "Muhtemelen o Donanma kappalarıdır. Kafalarının üstündeki tabakları yeniden doldurmaları gerekiyor, bilirsin."
+      },
+      {
+        "msgID": "MAP07_E_L0256",
+        "msgStr": "Ne? Bir kristal mi arıyorsun?"
+      },
+      {
+        "msgID": "MAP07_E_L0257",
+        "msgStr": "Git Donanma kappalarına sor. Okyanusun dibini aramana yardım ederler."
+      },
+      {
+        "msgID": "MAP07_E_L0258",
+        "msgStr": "Dışarıda birileri Başkent'imizin sivillerini öldürmeye mi çalışıyor?"
+      },
+      {
+        "msgID": "MAP07_E_L0259",
+        "msgStr": "Kappaların ne kadar zayıf olduğunu dert etme. Ordu bunun olmasına asla izin vermez!"
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP07_01_076",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0260",
+        "msgStr": "Bir dedektifin o Donanma kappaları tarafından enselendiğini duydum."
+      },
+      {
+        "msgID": "MAP07_E_L0261",
+        "msgStr": "Ne çevirdiklerinden asla emin olamazsın. Ama kappalarla uğraşıyorsan akıntıya karşı yüzmemelisin."
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP08_01_077",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0262",
+        "msgStr": "O Donanma kappaları Harumi-cho'nun kendilerine ait olduğunu sanıyor."
+      },
+      {
+        "msgID": "MAP07_E_L0263",
+        "msgStr": "Eh, Sakuradayama'da Waden One'ımız var. Koutou-ku bizimdir."
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP10_01_078",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0264",
+        "msgStr": "Biz Ordu askerleri sıkıyönetim ilan edilir edilmez mevzilerimizi aldık. Şu Donanma kappalarına bir bak..."
+      },
+      {
+        "msgID": "MAP07_E_L0265",
+        "msgStr": "Su birikintilerinden kımıldamadılar bile. Muhtemelen kafalarındaki tabakların kuruyacağından korkuyorlardır."
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP10_02_079",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0266",
+        "msgStr": "O kappalar sürekli Dünya'nın %70'inin su olduğunu söyleyip duruyor..."
+      },
+      {
+        "msgID": "MAP07_E_L0267",
+        "msgStr": "Ama hiçbir şey gökyüzünün eline su dökemez. Yukarıdan onların o ufacık kafalarına tepeden bakabiliriz."
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP11_01_080",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0268",
+        "msgStr": "H-Hey, Harumi-cho iyi mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0269",
+        "msgStr": "Orada o Donanma kappaları olsa bile, böylesi bir hortuma karşı..."
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP11_02_081",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0270",
+        "msgStr": "H-Hey, Harumi-cho iyi mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0271",
+        "msgStr": "Donanma kappaları denizde yenilmez olsa bile, böylesi bir canavara karşı..."
+      },
+      {
+        "msgID": "map07_e_map07_npc06_Mkep06_EP12_01_082",
+        "msgStr": "Kibirli Ordu Askeri"
+      },
+      {
+        "msgID": "MAP07_E_L0272",
+        "msgStr": "H-Hey, canavar tamamen gitmedi, değil mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0273",
+        "msgStr": "Zamanı gelirse o Donanma kappalarıyla güçlerimi birleştireceğim."
+      },
+      {
+        "msgID": "MAP07_E_L0274",
+        "msgStr": "O-Onlarla dost falan değilim! Sadece, bilirsin işte, bulabileceğimiz tüm ateş gücüne ihtiyacımız var."
+      },
+      {
+        "msgID": "map07_e_map07_npc07_Mkep07_EP05_01_083",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0275",
+        "msgStr": "Görev başındaki bir Ordu subayının genç bir hanımla buluştuğunu gösteren bir fotoğraf..."
+      },
+      {
+        "msgID": "MAP07_E_L0276",
+        "msgStr": "Asker kesinlikle şüpheli görünüyor ama bu fotoğrafı çeken kameramanı da merak etmeden duramıyorum."
+      },
+      {
+        "msgID": "MAP07_E_L0277",
+        "msgStr": "Keşke Kasumidai kargaşa içindeyken Tümgeneral Munakata'nın hayali şimdi gerçeğe dönüşebilse."
+      },
+      {
+        "msgID": "MAP07_E_L0278",
+        "msgStr": "Huzursuzluk havası dört bir yanımızda yükseliyor."
+      },
+      {
+        "msgID": "MAP07_E_L0279",
+        "msgStr": "Meclis'in Tümgeneral Munakata'nın Süper Asker Projesi'ni reddettiğini duydum."
+      },
+      {
+        "msgID": "MAP07_E_L0280",
+        "msgStr": "Kâhin'in avucumuzun içinde olduğundan haberleri bile yok..."
+      },
+      {
+        "msgID": "MAP07_E_L0281",
+        "msgStr": "Kâhin mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0282",
+        "msgStr": "Kulağa korkutucu geliyor."
+      },
+      {
+        "msgID": "MAP07_E_L0283",
+        "msgStr": "Senin yaşlarında, zengin bir aileden gelen bir kız."
+      },
+      {
+        "msgID": "MAP07_E_L0284",
+        "msgStr": "Onun kehanetleri sayesinde pek çok teknolojik engeli aşmayı başardık."
+      },
+      {
+        "msgID": "MAP07_E_L0285",
+        "msgStr": "Onda pek normal olmayan bir şeyler var ama öte yandan, kâhinler her zaman tuhaf insanlar olmuştur."
+      },
+      {
+        "msgID": "MAP07_E_L0286",
+        "msgStr": "Başkent'te doğduğun için şanslı olduğunu bil."
+      },
+      {
+        "msgID": "MAP07_E_L0287",
+        "msgStr": "Bu sayede Tümgeneral Munakata ile asla bir düşman olarak karşı karşıya gelmek zorunda kalmayacaksın."
+      },
+      {
+        "msgID": "map07_e_map07_npc07_Mkep07_EP06_01_084",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0288",
+        "msgStr": "Yeraltı tersanesine davetsiz birinin girdiğine dair haber aldık. O casusun işi olmalı."
+      },
+      {
+        "msgID": "MAP07_E_L0289",
+        "msgStr": "Amacı ne acaba? Veri toplamak, gizli haberleşmeler, adam hazırlamak... Bir türlü kestiremiyorum."
+      },
+      {
+        "msgID": "map07_e_map07_npc07_Mkep07_EP07_01_085",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0290",
+        "msgStr": "Tümgeneral Munakata'dan 4 Nolu Topçu Bataryası'ndaki davetsiz misafiri unutmamız yönünde talimat aldık."
+      },
+      {
+        "msgID": "MAP07_E_L0291",
+        "msgStr": "Başka bir deyişle, uyuyan yılanın kuyruğuna basma diyor. Mükemmel bir strateji."
+      },
+      {
+        "msgID": "map07_e_map07_npc07_Mkep07_EP08_01_086",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0292",
+        "msgStr": "Tümgeneral Munakata'nın idealleri yakında gerçeğe dönüşecek."
+      },
+      {
+        "msgID": "MAP07_E_L0293",
+        "msgStr": "Projemizin geçiş sürecinin tamamlandığını belirten bir bildiri aldık."
+      },
+      {
+        "msgID": "MAP07_E_L0294",
+        "msgStr": "Proje mi?"
+      },
+      {
+        "msgID": "MAP07_E_L0295",
+        "msgStr": "......"
+      },
+      {
+        "msgID": "MAP07_E_L0296",
+        "msgStr": "Başkent'in her vatandaşı yakında Süper Asker Projesi'nin boyutunu anlayacak."
+      },
+      {
+        "msgID": "MAP07_E_L0297",
+        "msgStr": "Bizzat Tümgeneral Munakata tarafından hazırlanan bir savunma tasarısı."
+      },
+      {
+        "msgID": "MAP07_E_L0298",
+        "msgStr": "Sınırsız güç yaratmaya yönelik bir proje... Başka bir deyişle, yenilmez bir birlik!"
+      },
+      {
+        "msgID": "MAP07_E_L0299",
+        "msgStr": "Bu belirsiz zamanlar bizi alt edemeyecek! Tümgeneral Munakata'nın ideali halkın mutluluğudur!"
+      },
+      {
+        "msgID": "map07_e_map07_npc07_Mkep07_EP10_01_087",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0300",
+        "msgStr": "Başkent vatandaşıysan bugünün tarihini kalbine kazı."
+      },
+      {
+        "msgID": "MAP07_E_L0301",
+        "msgStr": "Bugün, Tümgeneral Munakata'nın ideallerinin gerçeğe dönüştüğü gündür!"
+      },
+      {
+        "msgID": "map07_e_map07_npc07_Mkep07_EP10_02_088",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0302",
+        "msgStr": "Gördün mü!? Tümgeneralimizin tutkusunu simgeleyen uydumuz Tai-itsu'nun silüetini!"
+      },
+      {
+        "msgID": "MAP07_E_L0303",
+        "msgStr": "Bugünün tarihini sonsuza dek zihnine kazı; Tümgeneral Munakata'nın ideallerinin gerçeğe dönüştüğü günü!"
+      },
+      {
+        "msgID": "map07_e_map07_npc07_Mkep07_EP11_01a_089",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0304",
+        "msgStr": "Süper Asker Projesi'nin tüm kapsamı bu muydu? Sadece ölüm makineleri inşa etmek için mi çalıştık?"
+      },
+      {
+        "msgID": "MAP07_E_L0305",
+        "msgStr": "Dış tehditleri püskürtüp halka önderlik etmemiz gerekmiyor muydu!? Hepsi birer yalan mıydı!?"
+      },
+      {
+        "msgID": "MAP07_E_L0306",
+        "msgStr": "Tümgeneralim! Cevap verin! Tümgeneral Munakataaa!"
+      },
+      {
+        "msgID": "map07_e_map07_npc07_Mkep07_EP12_01a_090",
+        "msgStr": "Ordu Muhafızı"
+      },
+      {
+        "msgID": "MAP07_E_L0307",
+        "msgStr": "Süper Asker Projesi'nin amacı Başkent'i yok etmekmiş..."
+      },
+      {
+        "msgID": "MAP07_E_L0308",
+        "msgStr": "Tümgeneral Munakata bizi kandırdı... Buna inanamıyorum!"
+      },
+      {
+        "msgID": "MAP07_E_L0309",
+        "msgStr": "Bir sahtekâr Tümgeneral'in yerine geçmiş olmalı. Öyle değilse... biz ne uğruna savaşıyorduk?"
+      }
+    ]
+  },
+  "_convDateTime": "2025/02/04 17:01:35"
+}

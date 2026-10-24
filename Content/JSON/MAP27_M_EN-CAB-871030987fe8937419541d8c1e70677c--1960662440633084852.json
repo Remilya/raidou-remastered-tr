@@ -1,0 +1,1741 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP27_M_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map27_m_m_sys_en_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0000",
+        "msgStr": "> <devil 0> onu tutuşturdu."
+      },
+      {
+        "msgID": "map27_m_m_sys_sui_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0001",
+        "msgStr": "> <devil 0> onu soğuttu."
+      },
+      {
+        "msgID": "map27_m_m_sys_kan_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0002",
+        "msgStr": "> <devil 0>, İnceleme yeteneğini kullandı."
+      },
+      {
+        "msgID": "map27_m_m_sys_riki_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0003",
+        "msgStr": "> <devil 0> tüm gücüyle vurdu!"
+      },
+      {
+        "msgID": "map27_m_m_Exit01_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0004",
+        "msgStr": "> İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map27_m_m_Exit01s SEL_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0005",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP27_M_L0006",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map27_m_m_report01_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0007",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0008",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Rapor 1. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report01dev_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0009",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0010",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 1. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report02_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0011",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0012",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Rapor 2. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report02dev_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0013",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0014",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 2. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report03_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0015",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0016",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Rapor 3. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report03dev_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0017",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0018",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 3. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report04_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0019",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0020",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Rapor 4. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report04dev_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0021",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0022",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 4. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report05_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0023",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0024",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Rapor 5. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report05dev_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0025",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0026",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 5. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report06_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_report06dev_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0029",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0030",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 6. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report07_01_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0031",
+        "msgStr": "> Ağacın yüksek dallarına sıkışmış beyaz bir kâğıt parçası var."
+      },
+      {
+        "msgID": "map27_m_m_report07_02_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0032",
+        "msgStr": "> Ağaç sallanınca kâğıt parçası yapraklarla birlikte yere düştü."
+      },
+      {
+        "msgID": "map27_m_m_report07_03_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0033",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0034",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Rapor 7. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report07_03dev_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0035",
+        "msgStr": "> Bu bir belge. Sadakichi'nin düşürdüğü dosyalardan biri olmalı."
+      },
+      {
+        "msgID": "MAP27_M_L0036",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 7. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report07_04_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0037",
+        "msgStr": "> <devil 0> kâğıt parçasını almak için ağaca tırmandı."
+      },
+      {
+        "msgID": "map27_m_m_report07_05_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0038",
+        "msgStr": "> Kâğıt parçası, Sadakichi'nin dosyalarından biriydi."
+      },
+      {
+        "msgID": "MAP27_M_L0039",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Rapor 7. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report07_05dev_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0040",
+        "msgStr": "> Kâğıt parçası, Sadakichi'nin dosyalarından biriydi."
+      },
+      {
+        "msgID": "MAP27_M_L0041",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 7. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report08_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0042",
+        "msgStr": "> Zombi Subay bir kâğıt parçası taşıyordu."
+      },
+      {
+        "msgID": "MAP27_M_L0043",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Rapor 8. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report08dev_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0044",
+        "msgStr": "> Zombi Subay bir kâğıt parçası taşıyordu."
+      },
+      {
+        "msgID": "MAP27_M_L0045",
+        "msgStr": "> <devil 0>, <ITM_04><COLOR 4>Rapor 8. Sayfa<COLOR 0>'yı elde etti."
+      },
+      {
+        "msgID": "map27_m_m_report09_01_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0046",
+        "msgStr": "> Sadakichi'nin düşürdüğü sekiz dosyanın tamamı toplandı."
+      },
+      {
+        "msgID": "map27_m_m_report09_02_028",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_M_L0047",
+        "msgStr": "Gerçekten çetin bir uğraştı... Aferin Raidou."
+      },
+      {
+        "msgID": "MAP27_M_L0048",
+        "msgStr": "Şimdi gidip şu Sadakichi denen adama bu gizli projeyi soralım."
+      },
+      {
+        "msgID": "map27_m_m_ReportRest01_029",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0049",
+        "msgStr": "O adamın düşürdüğü dosyaları mı topluyorsun? Valla ne angarya iş ama."
+      },
+      {
+        "msgID": "MAP27_M_L0050",
+        "msgStr": "Dur sana bir el atayım. Daha kaç tane bulman gerektiğini bilmek ister misin?"
+      },
+      {
+        "msgID": "MAP27_M_L0051",
+        "msgStr": "Bakalım şu ana kadar kaç tane bulmuşsun."
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_00_030",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0052",
+        "msgStr": "Hey, hepsini toplamışsın! Artık buralarda vakit kaybetmene gerek yok."
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_01_031",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0053",
+        "msgStr": "Vay, sadece bir tane kalmış! Eminim İraden onu bulmak için yanıp tutuşuyordur, ha?"
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_02_032",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0054",
+        "msgStr": "Hey, geriye iki tane kalmış. Neredeyse bitirdin, ha?"
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_03_033",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0055",
+        "msgStr": "Üç tane kaldı. Son düzlüğe girdin."
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_04_034",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0056",
+        "msgStr": "Hmm, görünüşe göre dört tane daha lazım. Yolun yarısındasın."
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_05_035",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0057",
+        "msgStr": "Beş tane kaldı. Bu işi bitirmek istiyorsan rehavete kapılmamalısın."
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_06_036",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0058",
+        "msgStr": "Altı tane kaldı. Yavaş yavaş elin alışıyor mu?"
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_07_037",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0059",
+        "msgStr": "Hmm, dışarıda hâlâ yedi tane daha var. Elini çabuk tutsan iyi olur."
+      },
+      {
+        "msgID": "map27_m_m_ReportRest02_08_038",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0060",
+        "msgStr": "Hey, elinde bir tane bile yok! Çık dışarı da avla şunları!"
+      },
+      {
+        "msgID": "map27_m_m_ReportRest03_039",
+        "msgStr": "Utai-Gaikotsu"
+      },
+      {
+        "msgID": "MAP27_M_L0061",
+        "msgStr": "Yine o raporları sormaya mı geldin? İnsanlar angarya işlere bayılıyor doğrusu..."
+      },
+      {
+        "msgID": "map27_m_m_bari01_01_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0062",
+        "msgStr": "> Yolu kapatan bir barikat var."
+      },
+      {
+        "msgID": "map27_m_m_bari01_02_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0063",
+        "msgStr": "> Bir barikat sokağı kapatıyor ama iblis üzerinden uçabilir."
+      },
+      {
+        "msgID": "MAP27_M_L0064",
+        "msgStr": "> Barikatın üzerinden uçulsun mu?"
+      },
+      {
+        "msgID": "map27_m_m_bari01_02s SEL_042",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0065",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP27_M_L0066",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map27_m_m_bari01_01ss SEL_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0067",
+        "msgStr": "İblisi diğer tarafa gönder"
+      },
+      {
+        "msgID": "MAP27_M_L0068",
+        "msgStr": "Vazgeç"
+      },
+      {
+        "msgID": "map27_m_m_bari01_02_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0069",
+        "msgStr": "> Bir barikat yolu kapatıyor."
+      },
+      {
+        "msgID": "map27_m_m_tiisai01_01_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0070",
+        "msgStr": "> Burası küçük bir delik."
+      },
+      {
+        "msgID": "map27_m_m_tiisai01_02_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0071",
+        "msgStr": "> Küçük bir delik ama bu iblis muhtemelen içine sığabilir."
+      },
+      {
+        "msgID": "MAP27_M_L0072",
+        "msgStr": "> Girilsin mi?"
+      },
+      {
+        "msgID": "map27_m_m_tiisai01_02s SEL_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0073",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP27_M_L0074",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map27_m_m_tiisai02_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0075",
+        "msgStr": "> Delikten çıkılsın mı?"
+      },
+      {
+        "msgID": "map27_m_m_tiisai02s SEL_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0076",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP27_M_L0077",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map27_m_m_hint01_01_050",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_M_L0078",
+        "msgStr": "Şimdi Sadakichi'nin dosyalarını nasıl bulacağız?"
+      },
+      {
+        "msgID": "MAP27_M_L0079",
+        "msgStr": "Bölgeyi <COLOR 3>inceleyebiliriz<COLOR 0> ama bu oldukça belirsiz bir yöntem. Daha fazla bilgiye ihtiyacımız var."
+      },
+      {
+        "msgID": "map27_m_m_hint01_02_051",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0080",
+        "msgStr": "Devriyemi tamamladım, Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_hint01_03_052",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0081",
+        "msgStr": "İyi iş çıkardın Çaylak! Şimdi bana tekmil ver!"
+      },
+      {
+        "msgID": "map27_m_m_hint01_04_053",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0082",
+        "msgStr": "Emredersiniz, Efendim! Karanlık Kasumidai güvenli, Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_hint01_05_054",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0083",
+        "msgStr": "Unutma, Karanlık Başkent'i korumak bizim görevimiz."
+      },
+      {
+        "msgID": "MAP27_M_L0084",
+        "msgStr": "Yardıma muhtaç düşen her vatandaşa destek olmalıyız!"
+      },
+      {
+        "msgID": "map27_m_m_hint01_06_055",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0085",
+        "msgStr": "Emredersiniz, Efendim! Yardıma muhtaç her vatandaşa destek olmaya hazırız, Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_hint01_07_056",
+        "msgStr": "Her İki Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0086",
+        "msgStr": "Selam dur!"
+      },
+      {
+        "msgID": "map27_m_m_hint01_08_057",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_M_L0087",
+        "msgStr": "Görünüşe göre hâlâ kanun adamı oldukları zamanların anılarına bağlılar."
+      },
+      {
+        "msgID": "MAP27_M_L0088",
+        "msgStr": "Bize gerçekten yardımları dokunabilir."
+      },
+      {
+        "msgID": "MAP27_M_L0088_01",
+        "msgStr": "Hadi onlarla konuşalım. Belki o dosyaları bulmak için <COLOR 3>nereyi incelememiz gerektiğini söyleyebilirler<COLOR 0>."
+      },
+      {
+        "msgID": "map27_m_m_hint02_01_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0089",
+        "msgStr": "> Tuhaf bir varlık Raidou'nun etrafını sarıp bedenine işliyor..."
+      },
+      {
+        "msgID": "map27_m_m_hint02_02_059",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0090",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0091",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0092",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_hint02_03_060",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0093",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0094",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_hint03_01_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0095",
+        "msgStr": "> ......"
+      },
+      {
+        "msgID": "MAP27_M_L0096",
+        "msgStr": "> Üst dallara beyaz bir kâğıt sıkışmış."
+      },
+      {
+        "msgID": "map27_m_m_hint03_02_062",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_M_L0097",
+        "msgStr": "O kâğıt dosyalardan biri mi?"
+      },
+      {
+        "msgID": "MAP27_M_L0098",
+        "msgStr": "O şapşal kaçarken gerçekten ağaca mı tırmanmak zorunda kalmış...?"
+      },
+      {
+        "msgID": "map27_m_m_hint03_03_063",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_M_L0099",
+        "msgStr": "Neyse ki bizim yerimize yukarıya kolayca bir iblis gönderebiliriz."
+      },
+      {
+        "msgID": "map27_m_m_hint03_04_064",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_M_L0100",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_hint04_01_065",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0101",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_hint04_02_066",
+        "msgStr": "Gouto"
+      },
+      {
+        "msgID": "MAP27_M_L0102",
+        "msgStr": "Hm, bir barikat."
+      },
+      {
+        "msgID": "MAP27_M_L0103",
+        "msgStr": "Bir iblis <COLOR 3>şunun üzerinden kolayca uçabilir<COLOR 0>."
+      },
+      {
+        "msgID": "map27_m_m_monster01_067",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0104",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0105",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0106",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0107",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0108",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil01_068",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0109",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0110",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0111",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil01s SEL_069",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0112",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0113",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil01a_070",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0114",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil01b_071",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0115",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_01_072",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0116",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_02_073",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0117",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0118",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_03_074",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0119",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0120",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0121",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_04_075",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0122",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0123",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_05_076",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0124",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0125",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_06_077",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0126",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_07a_078",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0127",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0128",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_07b_079",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0129",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0130",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_07c_080",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0131",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0132",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_08_081",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0133",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0134",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0135",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0136",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0137",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil02_09_082",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0138",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0139",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_InfoDevil03_083",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0140",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_TsumeInfo01_084",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "MAP27_M_L0141",
+        "msgStr": "Hee ho! Beni olan yaşlı bir adam saklan-hee-baç oynuyordu, ho."
+      },
+      {
+        "msgID": "MAP27_M_L0142",
+        "msgStr": "Şu evin arkasına, minik bir hee-deliğin içine, bulduğu her yere saklandı-ho!"
+      },
+      {
+        "msgID": "MAP27_M_L0143",
+        "msgStr": "Ama her seferinde yerini bul-hee-dular, ho."
+      },
+      {
+        "msgID": "MAP27_M_L0144",
+        "msgStr": "Bir yetişkine göre saklanmakta pek hee-vasat, ho. Ben çok daha hee-iyisini yapardım, ho!"
+      },
+      {
+        "msgID": "map27_m_m_TsumeInfo02_085",
+        "msgStr": "Jack Frost"
+      },
+      {
+        "msgID": "MAP27_M_L0145",
+        "msgStr": "Hee ho! Saklan-hee-baç oynayan o yaşlı adamla tanışmak istiyorum-ho, ho."
+      },
+      {
+        "msgID": "MAP27_M_L0146",
+        "msgStr": "Ona ne kadar iyi olduğumu hee-göstereceğim, ho!"
+      },
+      {
+        "msgID": "map27_m_m_WoodInfo01_086",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "MAP27_M_L0147",
+        "msgStr": "Az önce aklıma geldi..."
+      },
+      {
+        "msgID": "MAP27_M_L0148",
+        "msgStr": "Elinde bir kâğıt parçasıyla ayaklarını sürüyerek dolaşan bir zombi vardı."
+      },
+      {
+        "msgID": "MAP27_M_L0149",
+        "msgStr": "Bahse girerim onu dövüşte yenersen kâğıdı onun soğuk, ölü ellerinden söküp alabilirsin."
+      },
+      {
+        "msgID": "map27_m_m_WoodInfo02_087",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "MAP27_M_L0150",
+        "msgStr": "Duyduğuma göre bu bölge insan dünyasında önemli bir tesismiş."
+      },
+      {
+        "msgID": "MAP27_M_L0151",
+        "msgStr": "O insanlara karşı dikkatli olmalısın. Her zaman tehlikeli fikirler yumurtluyorlar."
+      },
+      {
+        "msgID": "map27_m_m_WoodInfo03_088",
+        "msgStr": "Leanan Sidhe"
+      },
+      {
+        "msgID": "MAP27_M_L0152",
+        "msgStr": "Bir insanın düşürdüğü kâğıt parçasını mı arıyorsun?"
+      },
+      {
+        "msgID": "MAP27_M_L0153",
+        "msgStr": "O konuda hiçbir şey bilmiyorum."
+      },
+      {
+        "msgID": "MAP27_M_L0154",
+        "msgStr": "İnsanlara bulaşmaktan asla hayır gelmez."
+      },
+      {
+        "msgID": "map27_m_m_taihou01_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0155",
+        "msgStr": "> Bu bir top."
+      },
+      {
+        "msgID": "map27_m_m_taihou02_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0156",
+        "msgStr": "> Bir Ordu topu."
+      },
+      {
+        "msgID": "MAP27_M_L0157",
+        "msgStr": "> Konumu ve açısı göz önüne alındığında savunma amaçlı olması pek olası görünmüyor."
+      },
+      {
+        "msgID": "MAP27_M_L0158",
+        "msgStr": "> Barut ve gülle çoktan doldurulmuş. Geriye sadece fitili ateşlemek kalmış."
+      },
+      {
+        "msgID": "map27_m_m_taihou03_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0159",
+        "msgStr": "> Top ateşlendi."
+      },
+      {
+        "msgID": "map27_m_m_taihou04_092",
+        "msgStr": "Askerlerin Sesleri"
+      },
+      {
+        "msgID": "MAP27_M_L0160",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0161",
+        "msgStr": "O ses toptan mı geldi? Öğle yemeği vakti geldi mi ki? Biraz erken değil mi?"
+      },
+      {
+        "msgID": "MAP27_M_L0162",
+        "msgStr": "Sana göre öyle. Hadi gidelim, karnım acıktı."
+      },
+      {
+        "msgID": "MAP27_M_L0163",
+        "msgStr": "Pekâlâ, vardiya değişimi vakti! Hadi yemeğe!"
+      },
+      {
+        "msgID": "MAP27_M_L0164",
+        "msgStr": "Hey, hadi radyoyu açalım! Şu spikerin sesine bayılıyorum."
+      },
+      {
+        "msgID": "map27_m_m_taihou05_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0165",
+        "msgStr": "> Askerler kandırılarak öğle yemeği molasına erken çıktılar."
+      },
+      {
+        "msgID": "map27_m_m_taihou06_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0168",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou07_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0169",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou07s SEL_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0170",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0171",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou08_097",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0172",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou08s SEL_098",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0173",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0174",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou09_099",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0175",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou10_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou11_01_101",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou11_02_102",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou12_01_103",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_taihou12_02_104",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0184",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_help01_105",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0185",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "MAP27_M_L0186",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_JunsaFirst01_106",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0187",
+        "msgStr": "Merhaba. Biz Zombi Subaylarız. Devriyeye her zaman ikili olarak çıkarız."
+      },
+      {
+        "msgID": "map27_m_m_JunsaFirst02_107",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0188",
+        "msgStr": "Anladığım kadarıyla bazı belgeler arıyorsunuz?"
+      },
+      {
+        "msgID": "map27_m_m_JunsaFirst03_108",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0189",
+        "msgStr": "Hm... Az önce buralarda koşturan bir insan vardı."
+      },
+      {
+        "msgID": "MAP27_M_L0190",
+        "msgStr": "Ve siz bahsedince hatırladım, gerçekten de birkaç kâğıt düşürmüştü."
+      },
+      {
+        "msgID": "map27_m_m_JunsaFirst04_109",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0191",
+        "msgStr": "Karanlık Başkent'in vatandaşlarına yardım etmek bizim görevimizdir!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaFirst05_110",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0192",
+        "msgStr": "Size elimizden gelen en iyi şekilde yardımcı olmak için bildiğimiz her şeyi anlatacağız."
+      },
+      {
+        "msgID": "map27_m_m_JunsaFirst06_111",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0193",
+        "msgStr": "Yardıma ihtiyacınız olursa bize sormaktan çekinmeyin!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaFirst07_112",
+        "msgStr": "Her İki Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0194",
+        "msgStr": "Selam dur!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaR01_113",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0195",
+        "msgStr": "Raporun hangi bölümünü arıyorsunuz?"
+      },
+      {
+        "msgID": "map27_m_m_JunsaR01s SEL_114",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0196",
+        "msgStr": "1. Sayfa."
+      },
+      {
+        "msgID": "MAP27_M_L0197",
+        "msgStr": "2. Sayfa."
+      },
+      {
+        "msgID": "MAP27_M_L0198",
+        "msgStr": "3. Sayfa."
+      },
+      {
+        "msgID": "MAP27_M_L0199",
+        "msgStr": "4. Sayfa."
+      },
+      {
+        "msgID": "MAP27_M_L0200",
+        "msgStr": "Boş ver."
+      },
+      {
+        "msgID": "map27_m_m_JunsaR01rej_115",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0201",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_JunsaL01_116",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0202",
+        "msgStr": "Raporun hangi kısmını arıyorsunuz?"
+      },
+      {
+        "msgID": "map27_m_m_JunsaL01s SEL_117",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0203",
+        "msgStr": "5. Sayfa."
+      },
+      {
+        "msgID": "MAP27_M_L0204",
+        "msgStr": "6. Sayfa."
+      },
+      {
+        "msgID": "MAP27_M_L0205",
+        "msgStr": "7. Sayfa."
+      },
+      {
+        "msgID": "MAP27_M_L0206",
+        "msgStr": "8. Sayfa."
+      },
+      {
+        "msgID": "MAP27_M_L0207",
+        "msgStr": "Boş ver."
+      },
+      {
+        "msgID": "map27_m_m_JunsaL01rej_118",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0208",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo01_01_119",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0209",
+        "msgStr": "O sayfa bazı silahların yakınındaydı."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo01_02_120",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0210",
+        "msgStr": "Ama onlara yalnızca yetkili personel dokunabilir!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo02_01_121",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0211",
+        "msgStr": "Etrafına serinlik yayan, tanıdık görünümlü bir iblisin yakınındaydı."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo02_02_122",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0212",
+        "msgStr": "O insan kaçarken ona kocaayak dedi, Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo03_01_123",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0213",
+        "msgStr": "Şeydeydi... dikkat çekici hiçbir özelliği olmayan sıradan bir yerde."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo03_02_124",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0214",
+        "msgStr": "Onu yakınlarda, üç yol ağzında gördüm, Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo04_01_125",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0215",
+        "msgStr": "O sayfa büyük kapının yanında."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo04_02_126",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0216",
+        "msgStr": "O insan duvarların arasına saklanmaya çalıştı ama yine de onu fark ettim, Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo05_01_127",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0217",
+        "msgStr": "İnsanın küçük bir deliğe sürünerek girdiğini gördüm. Daha doğrusu çalıların arasındaki bir deliğe."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo05_02_128",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0218",
+        "msgStr": "Oraya sığabilmesine bile şaşırdım. Oraya sadece küçük iblisler girebilir sanıyordum."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo06_01_129",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0219",
+        "msgStr": "Çıkmaz bir sokakta, etrafı iyi gören bir noktada."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo06_02_130",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0220",
+        "msgStr": "Evet, orada bir ilah heykeli vardı."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo07_01_131",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0221",
+        "msgStr": "Onu bizzat ben gördüm! Bir ağaca takılıp kalmıştı!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo07_02_132",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0222",
+        "msgStr": "O insan çok yetenekli bir tırmanıcıydı."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_01_133",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0223",
+        "msgStr": "O sayfa şeydeydi... Iıı..."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_02_134",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0224",
+        "msgStr": "Sorun nedir memur? Unuttun mu yoksa?"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_03_135",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0225",
+        "msgStr": "Evet, Efendim! Özür dilerim, Efendim! Beynimdeki çürüme bazen unutmama yol açıyor, Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_04_136",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0226",
+        "msgStr": "Keşke zihnimi <COLOR 3>uyarmanın<COLOR 0> bir yolu olsaydı... Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_05a_137",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0227",
+        "msgStr": "Vay canına! Hafızamda bir kıvılcım çaktı! Şimdi her şeyi hatırlıyorum!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_05b_138",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0228",
+        "msgStr": "Hey, kendimi tazelenmiş hissediyorum! Şimdi her şeyi hatırlıyorum!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_05c_139",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0229",
+        "msgStr": "Vay, bu kafamdaki pası silkeledi! Şimdi her şeyi hatırlıyorum!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_06_140",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0230",
+        "msgStr": "Artık net bir şekilde hatırlıyorum! Birinin bir belge çaldığını çok iyi anımsıyorum."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_07_141",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0231",
+        "msgStr": "Ne!? Zombi kanununun bir deri bir kemik kalmış kolundan kaçamayacak!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_08_142",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0232",
+        "msgStr": "Tek gözüm hep açık olacak, Efendim!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfo08_09_143",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0233",
+        "msgStr": "O belge meslektaşlarımızdan biri tarafından çalındı!"
+      },
+      {
+        "msgID": "MAP27_M_L0234",
+        "msgStr": "Merak etmeyin, öyle ya da böyle onu dışarı çekmenin bir yolunu bulacağız."
+      },
+      {
+        "msgID": "MAP27_M_L0235",
+        "msgStr": "<COLOR 3>Birisi adliye kapısının önünde kavga çıkarmaya başlarsa kesin ortaya çıkacaktır!<COLOR 0>"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfoCancelR_144",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0236",
+        "msgStr": "Anlaşıldı."
+      },
+      {
+        "msgID": "MAP27_M_L0237",
+        "msgStr": "Unutmayın—bazı durumlarda <COLOR 3>bölgeyi sadece incelemek yeterli olmayacaktır<COLOR 0>!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfoCancelL_145",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0238",
+        "msgStr": "Evet, tamam, anlaşıldı!"
+      },
+      {
+        "msgID": "MAP27_M_L0239",
+        "msgStr": "Ama unutmayın ki bazen <COLOR 3>bölgeyi sadece incelemek yeterli olmayacaktır<COLOR 0>!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfoAlreadyR_146",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0240",
+        "msgStr": "Hmm... Bana öyle geliyor ki o sayfayı zaten almışsınız."
+      },
+      {
+        "msgID": "map27_m_m_JunsaInfoAlreadyL_147",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0241",
+        "msgStr": "Hmm... Görünüşe göre o sayfayı zaten almışsınız ama."
+      },
+      {
+        "msgID": "map27_m_m_JunsaR02_148",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0242",
+        "msgStr": "Ben zombi polis teşkilatından bir memurum. Tanıştığımıza memnun oldum."
+      },
+      {
+        "msgID": "map27_m_m_JunsaL02_149",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0243",
+        "msgStr": "Efendim! Karanlık Kasumidai tamamen temiz!"
+      },
+      {
+        "msgID": "map27_m_m_JunsaDev01_150",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0244",
+        "msgStr": "Buralarda yeni misiniz? Sizi daha önce gördüğümü sanmıyorum."
+      },
+      {
+        "msgID": "map27_m_m_JunsaDev02R_151",
+        "msgStr": "Kıdemli Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0245",
+        "msgStr": "Bölgede yeni misiniz? Yüzünüzü pek çıkaramadım."
+      },
+      {
+        "msgID": "map27_m_m_JunsaDev02L_152",
+        "msgStr": "Çaylak Zombi Subay"
+      },
+      {
+        "msgID": "MAP27_M_L0246",
+        "msgStr": "Şu an devriyedeyiz. Her zaman ikili olarak devriye gezmeye özen gösteririz."
+      },
+      {
+        "msgID": "map27_m_m_Common_IkaiExit01_153",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0247",
+        "msgStr": "> Yatagarasu Elçisi, gerçek dünya ile Karanlık Diyar arasında bir bağlantı kurdu."
+      },
+      {
+        "msgID": "MAP27_M_L0248",
+        "msgStr": "> Işığın ötesinde İsimsiz Tapınak görünüyor. İsimsiz Tapınak'a dönülsün mü?"
+      },
+      {
+        "msgID": "map27_m_m_Common_IkaiExit02_154",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0249",
+        "msgStr": "> Işığın ötesinde gerçek dünya görünüyor."
+      },
+      {
+        "msgID": "MAP27_M_L0250",
+        "msgStr": "> Gerçek dünyaya dönülsün mü?"
+      },
+      {
+        "msgID": "MAP27_M_L0251",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "map27_m_m_Common_IkaiExitSelect SEL_155",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0252",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "MAP27_M_L0253",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "map27_m_m_map27_devil_01_156",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "MAP27_M_L0254",
+        "msgStr": "UUUUUUUGGGHHHHH..."
+      },
+      {
+        "msgID": "map27_m_m_map27_devil_02_157",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "MAP27_M_L0255",
+        "msgStr": "BAK..."
+      },
+      {
+        "msgID": "map27_m_m_map27_devil_03_158",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "MAP27_M_L0256",
+        "msgStr": "ŞURADA <COLOR 3>KÜÇÜK BİR DELİK<COLOR 0> VAR..."
+      },
+      {
+        "msgID": "map27_m_m_map27_devil_04_159",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "MAP27_M_L0257",
+        "msgStr": "BEN ÇOK BÜYÜĞÜM..."
+      },
+      {
+        "msgID": "MAP27_M_L0258",
+        "msgStr": "SIĞAMIYORUM. ÜZGÜNÜM."
+      },
+      {
+        "msgID": "map27_m_m_map27_devil_05_160",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "MAP27_M_L0259",
+        "msgStr": "AUUUUU!"
+      },
+      {
+        "msgID": "map27_m_m_map27_devil_06_161",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "MAP27_M_L0260",
+        "msgStr": "BEN GİDİYORUM..."
+      },
+      {
+        "msgID": "MAP27_M_L0261",
+        "msgStr": "BİR YOLCULUĞA ÇIKIYORUM."
+      },
+      {
+        "msgID": "map27_m_m_map27_devil_07_162",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0262",
+        "msgStr": "> İblis ayrıldı."
+      },
+      {
+        "msgID": "map27_m_m_map27_devil_08_163",
+        "msgStr": "Gdon"
+      },
+      {
+        "msgID": "MAP27_M_L0263",
+        "msgStr": "LÜTFEN BENİ ARAMA."
+      },
+      {
+        "msgID": "map27_m_m_tiisai02_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP27_M_L0264",
+        "msgStr": "> Delikten çıkıldı."
+      }
+    ]
+  },
+  "_convDateTime": "2025/04/10 14:19:25"
+}

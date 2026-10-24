@@ -1,0 +1,81 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "QUEST_CATEGORY_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "QUEST_CATEGORY_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0001",
+        "msgStr": "Acemi İblis Çağırıcıları İçin I"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0002",
+        "msgStr": "Acemi İblis Çağırıcıları İçin II"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0003",
+        "msgStr": "Acemi İblis Çağırıcıları İçin III"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0004",
+        "msgStr": "Yetkin İblis Çağırıcıları İçin I"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0005",
+        "msgStr": "Yetkin İblis Çağırıcıları İçin II"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0006",
+        "msgStr": "Yetkin İblis Çağırıcıları İçin III"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0007",
+        "msgStr": "Yetenekli İblis Çağırıcıları İçin I"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0008",
+        "msgStr": "Yetenekli İblis Çağırıcıları İçin II"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0009",
+        "msgStr": "Yetenekli İblis Çağırıcıları İçin III"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0010",
+        "msgStr": "İleri Düzey İblis Çağırıcıları İçin I"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0011",
+        "msgStr": "İleri Düzey İblis Çağırıcıları İçin II"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0012",
+        "msgStr": "İleri Düzey İblis Çağırıcıları İçin III"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0013",
+        "msgStr": "Usta İblis Çağırıcıları İçin I"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0014",
+        "msgStr": "Usta İblis Çağırıcıları İçin II"
+      },
+      {
+        "msgID": "QUEST_CATEGORY_L0015",
+        "msgStr": "Usta İblis Çağırıcıları İçin III"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:04:16"
+}

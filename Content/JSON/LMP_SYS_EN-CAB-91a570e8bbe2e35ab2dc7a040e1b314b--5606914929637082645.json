@@ -1,0 +1,85 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "LMP_SYS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "lmp_sys_LMP_SYS_EITHER SEL_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "LMP_SYS_L0000",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "LMP_SYS_L0001",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "lmp_sys_LMP_SYS_ENTER_CONF_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "LMP_SYS_L0002",
+        "msgStr": "> Girilsin mi?"
+      },
+      {
+        "msgID": "lmp_sys_LMP_SYS_STATION_CONF_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "LMP_SYS_L0003",
+        "msgStr": "> <COLOR 1><V 0><COLOR 0> bölgesine gidilsin mi?"
+      },
+      {
+        "msgID": "lmp_sys_LMP_SYS_N_ENTER_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "LMP_SYS_L0004",
+        "msgStr": "> Giriş kapalı..."
+      },
+      {
+        "msgID": "lmp_sys_LMP_SYS_USE_SHIPITEM_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "LMP_SYS_L0005",
+        "msgStr": "> Raidou, Rhone Flütü'nü çaldı..."
+      },
+      {
+        "msgID": "lmp_sys_LMP_SYS_USE_SHIPITEM2_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "LMP_SYS_L0006",
+        "msgStr": "> Ancak Büyük Tarrasque gelmedi..."
+      },
+      {
+        "msgID": "lmp_sys_LMP_SYS_TALK_SHIP_006",
+        "msgStr": "Büyük Tarrasque"
+      },
+      {
+        "msgID": "LMP_SYS_L0007",
+        "msgStr": "Pekâlâ, evlat. Düş önüme!"
+      },
+      {
+        "msgID": "lmp_sys_LMP_SYS_STATION_CONF_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "LMP_SYS_L0008",
+        "msgStr": "> Demo sürümünde Ginza-cho'ya erişilemez."
+      }
+    ]
+  },
+  "_convDateTime": "2025/08/08 11:27:22"
+}

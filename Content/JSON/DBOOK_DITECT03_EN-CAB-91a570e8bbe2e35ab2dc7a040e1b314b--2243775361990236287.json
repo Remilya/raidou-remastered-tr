@@ -1,0 +1,197 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_DITECT03_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_DITECT03_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0002",
+        "msgStr": "Kökleri Meiji Restorasyonu öncesine dayanan varlıklı bir aile. Malikâneleri Yarai-ku tepelerinde yer alır ve tüm Başkent manzarasına hâkimdir. Mülkte ayrıca pek çok hizmetkâr çalışmaktadır.\n\nDaidouji ailesi çeşitli ticari faaliyetler yürütür ve o kadar olağanüstü bir öngörüye sahiptir ki rakiplerinin onlara yetişme şansı bile olmamıştır. Emsallerinin boy ölçüşemediği ileri teknolojiler geliştirmeleri sayesinde pazar ve servet üzerinde tekel kurmuşlardır. Ailenin \"lanetli\" olduğuna dair bir söylenti dolaşmaktadır; gerçi bu sadece onların servetini kıskanan eski ailelerin çıkardığı bir propaganda da olabilir.\n\nAile armaları kırlangıçkuyruk kelebeğidir. Evin şu anki reisi, Kaya Daidouji'nin babası olan Takeshi Daidouji'dir. Bu sıfatla ailenin temel ticari faaliyetlerini yürütür. Şu anda hastadır ve durumunun oldukça vahim olduğu bildirilmektedir.\n\n<U_COLOR 1>Daidouji ailesinde nesilden nesile aktarıldığı söylenen bir şarkı vardır: \"Anne, baba—aralarında toprak. İblisin kanı yeniden bütünlenecek. Uçurumda kanı katledilecek.\"<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0003",
+        "msgStr": "Doğum yılı: 1915 / Yaş: 15 / Meslek: Ouran Lisesi dördüncü sınıf öğrencisi / Boy: Yaklaşık 155cm / Kilo: Yaklaşık 42kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Kâhya Nakamura'nın hazırladığı özel puding\n\nİblisler tarafından kaçırılmadan önce ardında \"Beni öldürmenizi istiyorum\" sözlerini bırakan bir kız. Mevcut davamızın merkezindeki isim ve bir o kadar da gizemli biri.\n\nBaşkent'teki varlıklı Daidouji ailesine mensuptur ve ailenin reisi Takeshi Daidouji'nin tek kızıdır.\n\nSaf kalpli bir kıza benziyor. Ne yazık ki bir şeyden dolayı büyük bir sıkıntı içinde olduğu anlaşılıyor. Kaçırılmadan hemen önce tuhaf bir şey daha söyledi: \"Neredeyse on altı yaşıma girdim.\"\n\n<U_COLOR 1>Kaya'nın esrarengiz sözlerinin arkasındaki anlamı çözdük. Sınıf arkadaşı Rin'e göre (ki bu bilgiyi daha önce bizzat Kaya'dan öğrenmiş), Daidouji ailesinin kızları on altı yaşına girdiklerinde bir iblis tarafından ele geçirildikleri bir lanetten muzdaripmiş.\n\nBununla bağlantılı olarak Kaya görünüşe göre kendi kendine şu şarkıyı söylüyormuş: \"Anne, baba—aralarında toprak. İblisin kanı yeniden bütünlenecek. Uçurumda kanı katledilecek.\" Rin, şarkıda bahsedilen \"uçurumun\" Daidouji Malikânesi'nin bodrum katını ifade ettiğinden şüpheleniyor.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0005",
+        "msgStr": "Doğum yılı: 1888 / Yaş: 42 / Meslek: İş insanı / Boy: 169cm / Kilo: 75kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Beyaz balık tempurası / İdeal partner: (şimdi bunu araştırmanın sırası değil) / İlgi alanları: Aileye ait fabrikanın zor durumu, yeğeni Kaya (onun hakkında belli ettiğinden daha fazlasını biliyor olabilir)\n\nŞu anda kayıp olan Kaya Daidouji'nin amcası ve Daidouji ailesinin reisi Takeshi'nin küçük kardeşi. Daidouji Tekstil fabrikasını işletiyor. Yeterince iyi huylu görünüyor ama tamamen güvenilir olmayabilir.\n\nFabrikayla ilgili giderek artan bir borç batağına saplanıyor gibi görünüyor. Ve Kaya'nın günlüğü olduğuna inandığımız deftere göre son zamanlarda her zamanki iyi huylu halinden eser yokmuş; telefonda sesini yükseltip duruyormuş.\n\nAyrıca Kiyoshi'nin Kaya'nın kaçırılmasında parmağı olduğu da aşikâr görünüyor. Buna ek olarak Kiyoshi ordudan biriyle bağlantılı gibi duruyor.\n\nKiyoshi genç yaşlardan beri her zaman kendisinden daha yetenekli olan ağabeyiyle kıyaslanmış. Sonuç olarak, bugün bile yakasını bırakmadığı belli olan bir aşağılık kompleksi geliştirmiş.\n\n<U_COLOR 1>Kendini kanıtlama çabasıyla fabrikayı ağabeyinin yardımı olmadan işletmeye çalıştı. Ancak o dönemdeki makineleşme ve seri üretim dalgasına kapıldı ve fabrika sonunda kapanmak zorunda kaldı.\n\nKiyoshi'ye arkasından sık sık \"beceriksiz Daidouji\" deniyor. Nazik ve düşünceli biri olmasına rağmen başkaları onu sadece kararsız biri olarak görme eğiliminde. Bu kadar acı çekmesine şaşmamalı. (Kültürümüzün dürüst insanları aptal yerine koymakta ısrar eden yönlerinden nefret ediyorum.)<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0007",
+        "msgStr": "Doğum yılı: 1901 / Yaş: 29 / Meslek: Ryugu'nun sahibi / Boy: 162cm / Kilo: 48kg / İkamet: Chujou-ku'daki Ryugu / En sevdiği yemek: Batı içkileri (belli bir yabancının etkisiyle) / İdeal partner: Zaten evli (kızlık soyadı Harada) / İlgi alanları: Harada Şti.'nin yönetimi, müdavim müşterilerin (Narumi) veresiye hesaplarını kapatmak\n\nChujou-ku'nun Ginza-cho banliyösündeki Ryugu'yu işletiyor. Oldukça korkusuz bir kadın.\n\nBabasıyla (Koutou-ku, Harumi-cho'da bir ticaret şirketi işletiyordu) anlaşamayınca baba evini terk etti ve şu anda siyaset, iş dünyası ve ordudaki önemli isimlerin gözde mekanı olan Ryugu'yu kurdu. (Görünüşe göre Narumi söz konusu önemli isimlerden bilgi almak için Ryugu'ya sık sık uğruyor; sürekli kabaran veresiye hesabı da bundan kaynaklanıyor.)\n\nRyugu'nun sahibinin babası bir süre önce vefat etti, ağabeyi ise yakın zamanda beklenmedik bir gemi kazasında hayatını kaybetti. Sonuç olarak aile işi ona kaldı ve hem Ryugu'yu hem de Harada Şti.'yi aynı anda yönetmeyi üstlendi.\n\n<U_COLOR 1>Not: Bir zamanlar Elfman adında bir yabancıyla romantik bir ilişkisi olduğuna dair söylentiler var.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0010",
+        "msgStr": "Doğum yılı: 1870 civarı, ancak detaylar belirsiz / Yaş: Bilinmiyor (söylenenlere göre birkaç yıl önce 47 yaşında ölmüş) / Meslek: Karanlık Çağırıcı / Boy: 187cm / Kilo: 230kg (bir makine olduğunu öğrendikten sonra şimdi daha mantıklı geliyor) / İkamet: Bilinmiyor / En sevdiği yemek: Votka / İdeal partner: Herhangi bir güzel kadın (ne çapkın ama...) / İlgi alanları: \"Dünyevi\" zevkler (...ve aşağılık biri) / Özel not: Geçmişte birkaç kez suikasta uğradığı ve her seferinde hayata döndüğü söyleniyor (bu da şimdi daha mantıklı geliyor).\n\n1916 yılında suikasta kurban gittiği bildirilen yabancı bir keşiş. Kendisi bir Karanlık Çağırıcıdır; bu nedenle belirli bir örgüte mensup olmak yerine yeteneklerini kiralık Çağırıcı olarak sunar.\n\nTüp kullanmak yerine iblisleri Matryoshka (Ölüm Matryoshkaları olarak da bilinir) adlı büyülü araçlarla hapseder ve çağırır. Ayrıca Qi Men Dun Jia'ya dayanan ve başa çıkması tam bir baş belası olan Matris Labirenti adlı bir illüzyon yaratmıştır. Dikkat çeken özellikleri arasında kendine has konuşma tarzı ve sığ, yozlaşmış doğası yer alır.\n\n<U_COLOR 1>Başkent'te işvereni Munakata'nın emriyle faaliyet gösteriyor ve dolayısıyla Süper Asker Projesi ile bağlantılı.<U_COLOR 0> İnsan gibi görünse de aslında ustaca gizlenmiş bir makinedir.\n\n<U_COLOR 1>Rasputin'in yalnızca kendi arzularına sadık kalan bir tip olduğu söyleniyor. Munakata ile olan bağının zayıf ve tamamen çıkara dayalı olması muhtemeldir.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0011",
+        "msgStr": "*Bilgiler kısmen Sadakichi'nin dosyalarından alınmıştır\nDoğum yılı: 1884 / Yaş: 46 / Meslek: İmparatorluk Ordusu Tümgenerali / Boy: 172cm / Kilo: 73kg / İkamet: Orduyla bağlantılı bir tesiste kaldığı bildiriliyor ancak doğrulanmadı / En sevdiği yemek: <U_COLOR 1>Eşinin ev yemekleri<U_COLOR 0> / İdeal partner: <U_COLOR 1>Zaten evli (ayrı bir ideal partner hayal etmesi aile hayatına zarar verirdi)<U_COLOR 0> / İlgi alanları: Ulusu güçlendirmek olmalı\n\nMesafeli ama kararlı bir tavra sahip Ordu Tümgenerali. Dünya genelinde artan gerilimler anavatanı için duyduğu endişeyi körükledi ve bu nedenle süper savaş gemileri, süper tanklar ve süper lazerler gibi şüphesiz \"süper\" olan pek çok teçhizatın üretilmesini öngören Süper Asker ordusunu kurma planlarını tasarladı.\n\nAdam pek çok söylentinin merkezinde yer alıyor. Bunlar arasında sözde büyü bilgisi, tehditkâr bir asker birliği üzerindeki görünürdeki komutası ve Süper Asker Projesi'nin gerçekleşmesini engelleyebilecek herkesi gizlice ortadan kaldırma niyeti yer alıyor.\n\n<U_COLOR 1>Munakata'yı tanıyan pek çok kişi, onun eskisine kıyasla çarpıcı biçimde farklı bir insan olduğu konusunda hemfikir görünüyor. Görünüşe göre eskiden adamlarına değer veren güvenilir biriymiş. Ancak bir gün kişiliği aniden değişmiş. Ayrıca konuşurken ağzını eliyle kapatmak gibi alışılmadık bir huy edinmiş.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0014",
+        "msgStr": "Şu anda Akasaka-ku, Kasumidai'daki Ordu Karargâhı'nda geliştirilmekte olan ve Tümgeneral Munakata tarafından yönetilen gizli bir silah projesi <U_COLOR 1>(gerçi projeyi yöneten ve Munakata'nın bedenini ele geçirdikten sonra kendi amaçları doğrultusunda değiştiren kişinin aslında Kunitsukamilerden Sukuna-Hikona olduğu ortaya çıktı)<U_COLOR 0>. Proje, Washington Deniz Antlaşması uyarınca hizmet dışı bırakılan bir savaş gemisinin yeniden işlevlendirilerek \"yaşayan, batmaz bir savaş gemisine\" (daha sonra süper savaş gemisi veya Ruhsuz Tanrı olarak bilindi) dönüştürülmesini, gemiye \"Cehennem Piyonları\" (bkz. Cehennem Piyonları maddesi) olarak bilinen ölümsüz bir asker ordusunun yüklenmesini ve ülkenin düşmanlarının üzerine salınmasını içeriyor.\n\n<U_COLOR 1>Sonunda proje, yabancı düşmanları yok etme yönündeki orijinal amacının aksine, Sukuna-Hikona'nın intikam arayışı (Boyun Eğmeyenlerin arzusu) ve zaman yolcusu Raidou Kuzunoha XL'in Başkent'i yok ederek tarihi değiştirme çabası için kullanıldı. Bir noktada Karanlık Çağırıcı Rasputin, projenin hayata geçirilmesine yardımcı olmak amacıyla Munakata (aslında Sukuna-Hikona) tarafından işe alındı.\n\nBaşlangıçta Kaya Daidouji'nin projeye katılmaya zorlanmak amacıyla kaçırıldığı düşünülüyordu. Gerçekte ise Raidou XL'in anılarının Kaya'ya aktarımının tamamlanabilmesi ve böylece Kaya'nın (ya da daha doğru bir ifadeyle Kaya üzerinden hareket eden Kırkıncı'nın anılarının) bundan böyle projeyi yönetmesi içindi. Bir bakıma Kaya'nın zorla dahil edildiği teorisi tamamen yanlış sayılmazdı.<U_COLOR 0>\n\nRasputin'in önceki ifadesine dayanarak, insanların içinden Hiruko çıkmadan önce Kırmızı Pelerinlere dönüşmesi olayı da bu planla bağlantılı görünüyordu. <U_COLOR 1>Bu varsayımın doğruluğu o zamandan beri teyit edildi. Süper savaş gemisi Ruhsuz Tanrı'ya (insansı formuna) dönüştüğünde, Hirukolar Ruhsuz Tanrı'nın hareket etmesini sağlayan kaslar olarak işlev görür. Bu da neden çok sayıda Hiruko'ya ihtiyaç duyulduğunu açıklıyor.<U_COLOR 0>\n\n*Aşağıdaki bilgiler kısmen Sadakichi'nin dosyalarından alınmıştır\nProje; süper savaş gemilerinin (uçan savaş gemileri), süper lazerlerin (herhangi bir hedefi tamamen yok etmeye yetecek güçte parçacık ışını silahları), süper tankların (yeraltında tünel açabilen çok amaçlı tanklar), Tip 91 Ölümsüz Askerlerin (Cehennem Piyonları) ve süper savaş gemilerine güç sağlayacak uzaktan bir enerji kaynağının üretilmesini öngörüyordu. Bu silahların çoğunun mevcut teknolojiyle üretilmesi imkânsız olmalıdır. <U_COLOR 1>Ancak Kaya'ya aktarılan Kırkıncı'nın anılarındaki gelecek \"süper\" teknolojilerin bilgisiyle donanıldığında, iblislerin gücü (Kırmızı Pelerinler ve Hirukolar gibi) bu vizyonun Taisho döneminde bile gerçekleştirilmesine olanak tanıyacaktı. Tüm bunlar Raidou XL tarafından geçmişi değiştirmek ve böylece aynı ölçüde değişmiş bir gelecek yaratmak umuduyla yapıldı.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0015",
+        "msgStr": "Başkent sakinlerinin yüreğine korku salan gizemli bir yaratık. Birkaç farklı noktada görüldü ve tüm şehirde konuşulan bir konu haline geldi.\n\nKimileri insanları kaçırdığını, kimileri ise rastgele saldırdığını söylüyor (bir hikâyeye göre birinin boğazını kesmiş ve fışkıran kan kızıl bir pelerini andırmış). Hatta gittiği her yerde radyo parazitine yol açtığını iddia eden bir anlatım bile var.\n\nAncak bu raporların çoğu yalnızca asılsız söylentilerden ibaret; muhtemelen devam eden ekonomik durgunluk ve kamu güvenliğindeki düşüşle bağlantılı huzursuzluğun bir sonucu (çağlar boyunca okült konulara duyulan ilginin yeniden canlanması her zaman toplumsal kaygıların bir yansıması olmuştur).\n\nFakat Tae Asakura'dan gelen fotoğraftaki Kırmızı Pelerin, Daidouji Malikânesi'nden kaçarken gördüğümüz Kiyoshi Daidouji'ye benziyor. Bu fotoğrafın gerçek olma ihtimalini göz önünde bulundurmalıyız.\n\nSoruşturmamız sırasında Kırmızı Pelerin'i Ginza-cho'da taksilere saldırırken bulduk. Şüphesiz Tae'nin fotoğrafındaki canavardı. Ancak gerçek kimliği Kiyoshi değil, Ryugu'nun çekçekçisi Denpachi Iida idi.\n\n<U_COLOR 1>Ayrıca birden fazla Kırmızı Pelerin olduğu da ortaya çıktı. Aslına bakılırsa Başkent'te birden çok—hatta belki de sayısız—Kırmızı Pelerin var.\n\nİşin aslı şu ki Kırmızı Pelerinler, pupa evresindeki Hirukolardır (daha fazla bilgi için bkz. Hiruko maddesi). Hirukolar, sözde tüm insanların içinde bulunan Hiruko elementlerinden doğar. Normalde bu Hiruko elementleri uykudadır ancak bir kez etkinleştiklerinde beyindeki kaygıyı kontrol eden salgılarla beslenirler. Bir Hiruko bu salgıları tükettikçe insan kaygısını savuşturmakta giderek daha çaresiz kalır. Bu da artan kaygının daha fazla salgı ürettiği, Hiruko'yu sürekli beslediği ve karşılığında beynin söz konusu kaygıyı dizginlemekte sürekli başarısız olmasını garantilediği bir kısır döngüyle sonuçlanır.\n\nHiruko sonunda konağının içinde olgunlaştığında, gelişmekte olan bir kelebeği koruyan bir koza gibi konağı dış tehditlerden korumak için vücuttan kırmızı, pelerin benzeri bir madde dışarı çıkar. Bir Kırmızı Pelerin'in gerçek doğası budur.\n\n*Aşağıdakiler sadece kendi gevezeliklerim. Okumanıza gerek yok.\nBu davanın gidişatını gözlemledikçe insanların olumsuz duygular tarafından kontrol edilmeye izin verme eğilimini her zamankinden daha güçlü bir şekilde fark ettim. Köşeye sıkıştıklarını hissettiklerinde çoğu zaman kendi yıkımlarıyla sonuçlanan çaresiz önlemlere başvuruyorlar ve umutsuzluk çukuruna gerçekten hapsolmuş olanlar kendi olumsuz düşüncelerinin içine gittikçe daha derine batıyorlar. Çoğu insanın, bu tür davranışlar sergilemenin kendilerini iblisler için kolay hedef haline getiren şey olduğunu fark edememesi ne yazık.\n\nBir bakıma herkes kalbinde zararlı duygularla açılabilecek mecazi bir Aril Yarığı taşır. Ancak insan bir iblisin ayartmalarına asla boyun eğmemelidir. Bunu yapmak yıkıma davetiye çıkarmayı kabul etmek demektir.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0027",
+        "msgStr": "Bu davanın arkasındaki gerçek suçlu.\n\nKuzunoha klanından bir İblis Çağırıcısı olduğuna ve Raidou XL adını aldığına dair bizzat tanıklık etti (hatta On Dördüncü'ye \"büyük selefim\" diye hitap etti. Ne kadar sefilce...).\n\nMotivasyonu, Kırkıncı'nın yaşadığı gelecek dünyayı nihai olarak değiştirmek (veya nereden baktığınıza bağlı olarak yok etmek) amacıyla geçmişi değiştirmek gibi görünüyor. Akarana Koridoru aracılığıyla Raidou XL'in anıları Kaya Daidouji'ye kopyalandı. Sonuç olarak Kırkıncı, Taisho dönemine \"kopyalandı\" ve Munakata'nın Süper Asker Projesi bu gizli gündeme hizmet edecek şekilde ele geçirilip değiştirildi.\n\nŞimdilik sana savaşa odaklanmanı tavsiye ederim, Raidou. Dikkat dağıtıcı unsurları en aza indirmek için bu günlüğü sık sık gözden geçirmemeye çalışacağım.\n\nAma endişelenme—Raidou Kuzunoha XL ile ilgili bu meselenin net bir kaydını tutacağımdan emin olabilirsin. Bu dava çözüldüğünde kaydettiğim bilgiler kontrol etmen (hatta belki bizzat gözden geçirmen, gerçi şimdilik bunu bir kenara bırakalım) için burada olmaya devam edecek.\n\nNot: 21. yüzyılda bir Tanrı ve hizmetkârları Başkent'i ele geçirir. İnsanlar kasıtlı bir cehalete sürüklenir ve görünüşe göre tek çözüm o \"bugünü\" yok etmektir.\n\n<U_COLOR 1>Anıları başkalarına kopyalama tekniği, Daidouji ailesinin tüm nesillerindeki kızlar üzerinde eşzamanlı olarak uygulandı. Zamana yapılan bu müdahalenin sonucu, Taisho döneminin yirminci yılına kadar devam etmesi de dahil olmak üzere tarihin çarpıtılması oldu.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0028",
+        "msgStr": "Yarai-ku, Tsukudo-cho'da bulunan bir köprü.\n\nKendisiyle bağlantılı anormal olayların sıklığı nedeniyle sürekli dedikodu konusudur. Özellikle kadim zamanlardan beri köprüyü ziyaret eden insanların aniden ortadan kaybolduğuna ve kayıp insanların yeniden ortaya çıktığına dair raporlar vardır. Aynı zamanda o gizemli kızın kırmızı Özel Muhafızlar tarafından kaçırıldığı yerdir.\n\nDaha sonra Raidou ve ben Rasputin'in saldırısına yakalandık ve alternatif bir zaman çizgisine gönderildik; orada gözümüzü Ushigome-Gaeri Köprüsü'nde açtık (gerçi başka bir zaman çizgisinde olduğu için teknik olarak farklı bir köprüydü). Aynı zamanda eve döndüğümüzde kendimizi bulduğumuz yer de burasıydı (yani kendimizi orijinal zaman çizgimizin Ushigome-Gaeri Köprüsü'nde bulduk).\n\nDiğer zaman çizgisindeki Yatagarasu Elçisi'ne göre Ushigome-Gaeri Köprüsü, gerçek dünya ile Karanlık Diyar arasında bir tür sınır görevi gördüğü için büyü yapmak adına uygun bir mekandır.\n\n<U_COLOR 1>Ayrıca Ushigome-Gaeri Köprüsü, Kaya Daidouji'yi ele geçiren kişiyi (Raidou Kuzunoha XL) Akarana Koridoru (bkz. Akarana Koridoru maddesi) boyunca takip etmek için Amatsu Kanagi'yi kullandığımız yer olarak da işlev gördü. Amatsu Kanagi, Karanlık Diyar'ın Ushigome-Gaeri Köprüsü'nde gerçekleşen Ruh Gönderme Ritüeli'ni (bkz. Ruh Gönderme Ritüeli maddesi) yapmak için kullanıldı. Sanırım köprünün Karanlık Diyar'daki versiyonu bile insanların ortadan kaybolmasına ve yeniden ortaya çıkmasına neden olma şöhretini koruyor.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0030",
+        "msgStr": "Harada Şti. (Ryugu'nun sahibinin ailesi, yani babası ve ağabeyi tarafından işletilen uluslararası bir ticaret şirketi) ile birlikte Koutou-ku, Harumi-cho'daki tüm deniz taşımacılığını yöneten bir yabancı. Harada'nın oğlu öldükten sonra Elfman, Japon tüccarları bölgeden sürmesi ve Harumi-cho'daki liman faaliyetleri üzerinde tekel kurmasıyla kötü bir şöhret kazandı. Şu anda bölgede önemli bir nüfuza sahip.\n\nDaha detaylı soruşturma sonucunda Elfman'ın bir süredir ölü olduğu belirlendi. <U_COLOR 1>Cesedi yabancılar mezarlığına gömülmüştü.\n\nÜstelik suçlu, daha önce bahsedildiği gibi Harumi-cho'daki liman faaliyetlerini tekeline almak için kimliğine bürünmeden önce Elfman'ı öldürdüğüne inanılan Karanlık Çağırıcı Rasputin'dir. Dolayısıyla Elfman etrafındaki olumsuz söylentilerin aslında Rasputin'den kaynaklandığı anlaşılıyor.<U_COLOR 0>\n\nZamansız ölümünden önce Elfman, Ryugu'nun sahibine bir yüzük vermiş. Bu eylemin arkasındaki niyet hâlâ belirsizdir."
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0032",
+        "msgStr": "Daidouji Malikânesi'nin oturma odasında Kiyoshi Daidouji ile görüşen kimliği belirsiz bir şahıs. Orduyla bağlantılı olduğu anlaşılıyor, ancak kimliğine dair çıkarabildiğimiz bilgi aşağı yukarı bundan ibaret. Raidou'nun iblisinin kulak misafiri olduğu konuşmaya dayanarak, bu kişi Kaya Daidouji'nin kayıp olduğunu ve evin reisi Takeshi'nin hastalandığını biliyor. Ayrıca Kaya'yı kaçırmak için Kiyoshi ile komplo kurmuş olması da oldukça muhtemel görünüyor. Son olarak, bu bilinmeyen figür Kiyoshi'nin bir dedektif tutma kararını kınadı ve Kuzunoha ile bağlantılı olduğumuzun farkında.\n\nKiyoshi'nin ifadesine dayanarak, bu gizemli konuğun gerçekten de orduda olduğunu ve \"M\" baş harfini kullandığını artık biliyoruz. Astları ona aşırı bir saygı gösteriyor gibi görünüyor, bu nedenle oldukça yüksek rütbeli bir şahıs olduğunu varsaymak yanlış olmaz.\n\n<U_COLOR 1>Not: Bu şahsın Süper Asker Projesi'nin arkasındaki isim olan Ordu Tümgenerali Munakata olduğu ortaya çıktı. Bu maddeyi güncellemeyi bırakacağım ve bunun yerine \"Munakata\" için ayrı bir madde ekleyeceğim.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0033",
+        "msgStr": "Ushigome-Gaeri Köprüsü'nde bize pusu kuran ve gizemli kızı kaçıran esrarengiz figürler. Birden fazla saldırgan vardı ancak kimlikleri bilinmiyor. Yine de Raidou'nun bir İblis Çağırıcısı olduğunu tanıdılar, yani mesleğimiz hakkında belli bir düzeyde bilgi sahibi oldukları açık. Ancak belki de en önemlisi, tuhaf bir aura yayıyorlardı (açıklaması zor ama iblislerle savaşmakta bolca deneyimi olanlar bunu tanıyabilir); bu da beni onların bir tür iblis olması gerektiğine inandırıyor.\n\nŞimdi sokaklarda \"Kırmızı Pelerin\" hakkında konuşuluyor. Bunun o kırmızı Özel Muhafızlarla bağlantılı olması mümkün.\n\n<U_COLOR 1>Not: Bu Özel Muhafızların Cehennem Piyonları olduğu tespit edildi. Bu maddeyi güncellemeyi bırakacağım ve bunun yerine \"Cehennem Piyonları\" için ayrı bir madde ekleyeceğim.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0041",
+        "msgStr": "Daidouji ailesinin kızlarının on altı yaşına girdiklerinde \"bir iblis tarafından ele geçirildiklerine\" inanılsa da işin aslı, ele geçiren kişinin gelecekten gelen bir zaman yolcusu olduğudur.\n\nRaido'ya göre kendi zaman çizgisinde, \"bir kızın\" bilincine erişmeye çalışan ve görevi \"geçmişi değiştirerek geleceği değiştirmek\" olan \"birkaç nesil gelecekten gelen bir Raidou\" var. Eğer bu \"kız\" Kaya Daidouji ise, bu durum teorik olarak zaman yolcusunu \"birkaç nesil gelecekten gelen bu Raidou\" yapar.\n\n<U_COLOR 1>Not: Kaya'yı ele geçiren sözde \"iblisten\" duyduklarımızdan sonra, zaman yolcusunun kimliğinin Raidou Kuzunoha XL olduğu tespit edildi.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT03_L0044",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:27:42"
+}

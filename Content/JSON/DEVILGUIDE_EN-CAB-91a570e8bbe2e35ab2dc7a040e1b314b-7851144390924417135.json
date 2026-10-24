@@ -1,0 +1,1781 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DEVILGUIDE_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "devilguide_DEVILGUIDE_000_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_001_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0002",
+        "msgStr": "Geceleri başıboş alevler olarak görülen bir İrlanda ruhu."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0003",
+        "msgStr": "Karanlıkta önünü görmek için elinde bir fenerle dünyayı dolaşmaya lanetlenmiş bir adamın ruhu olduğu söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_002_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0004",
+        "msgStr": "Kazığa bağlanarak yakılan, Edo döneminden bir manavın kızı olan Oshichi'nin ruhu."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0005",
+        "msgStr": "Sevgilisiyle bir yangında tanıştı ve onu tekrar görebilmek için başka bir yangın çıkarmaya çalıştı ancak yakalandı."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_003_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0006",
+        "msgStr": "Hindu mitolojisindeki tanrıça Durga'nın kaplan bineği."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0007",
+        "msgStr": "Durga, Asura Mahisha'yı alt etmek için doğdu ve bu görevi tamamlamasına yardımcı olması için Gdon ona bahşedildi."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_004_004",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0008",
+        "msgStr": "İskandinav mitolojisinden bir ateş devi. Alevler içindeki Muspellheim diyarında yaşadığı söylenir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0009",
+        "msgStr": "İnsanlardan ve tanrılardan uzak durur, ancak Ragnarok sırasında insan dünyasını istila edecektir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_005_005",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0010",
+        "msgStr": "Hindu mitolojisinde Shiva'nın ilk eşiydi."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0011",
+        "msgStr": "Daksha ile Shiva arasındaki bir anlaşmazlık sırasında kendini ateşe attı ancak Parvati olarak yeniden doğdu."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_006_006",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0012",
+        "msgStr": "Melekler hiyerarşisinde 3. sıradadır ve 1. kürede ikamet eder."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0013",
+        "msgStr": "İbranice adları Ophan, \"tekerlek\" anlamını taşır ve Tanrı'nın tahtını taşımakla görevlidirler."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_007_007",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0014",
+        "msgStr": "Yankıların tanrılaştırılmış hali olduğu düşünülen Japon söz tanrısı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0015",
+        "msgStr": "İyiyi ve kötüyü tek bir sözle ilan ettiği ve ağzından çıkan tüm sözlerin gerçekleştiği söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_008_008",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0016",
+        "msgStr": "Kral Süleyman tarafından çağrılan 72 iblisten biri. Komutanları olarak 50 iblis lejyonuna liderlik eder."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0017",
+        "msgStr": "Onu çağıran kişinin karşısına ateşten bir savaş arabasında iki güzel melek olarak çıktığı söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_009_009",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0018",
+        "msgStr": "Savaş alanları veya idam yerleri gibi ölüm topraklarında yetişen kötücül bir ağaç."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0019",
+        "msgStr": "Yanından geçenler dallarına yakalanır ve beslenmesi için kanları emilir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_00a_010",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0020",
+        "msgStr": "Japon balıkçı kabilesi Azumi'nin bir su ilahı. Suyu kontrol edebilir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0021",
+        "msgStr": "Izanagi'nin Yomi'den döndükten sonra ondan doğan üç tanrının, kabilenin ataları olduğu söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_00b_011",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0022",
+        "msgStr": "Avrupa kökenli bir kış perisi."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0023",
+        "msgStr": "Normalde masum bir yaratıktır, ancak kışkırtılırsa kurbanlarını karla kaplayarak öldürür."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_00c_012",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0024",
+        "msgStr": "Orta Fransa yakınlarındaki Rhone nehrinde yaşadığı söylenen ejderha benzeri bir canavar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0025",
+        "msgStr": "İnsanları kolayca bütün olarak yutabilmek için altı bacağı ve uzun dişli büyük bir ağzı vardır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_00d_013",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0026",
+        "msgStr": "Cehennemin alt düzey bir iblisi. Beelzebub'un emriyle cehennem kazanlarının bakımını yapar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0027",
+        "msgStr": "Cehennemdeki insanların üzerine yanan kömürler atarak onlara işkence eder."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_00e_014",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0028",
+        "msgStr": "Antik Japonya'nın ana ilahlarından biri. Görünüşü kil heykellerden esinlenilmiştir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0029",
+        "msgStr": "İmparator'a karşı hainlik olarak görüldüğü için ona tapınmak uzun dönemler boyunca tabu sayılmıştır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_00f_015",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0030",
+        "msgStr": "Hindu mitolojisindeki yarı insan, yarı yılan kabile olan Nagaların kralı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0031",
+        "msgStr": "Budist mitolojisindeki ejderha krallar Nanda ve Takshaka bu kraliyet kategorisine girer."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_010_016",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0032",
+        "msgStr": "Japon mitolojisindeki Kunitsukamilerden biri. Susano-o'nun eşi Kushinada-Hime'nin büyükbabasıdır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0033",
+        "msgStr": "Dağların tanrısı olarak bilinir ancak su kaynaklarına ve hasatlara hükmettiği için su ve pirinç tarlalarının tanrısı olarak da kabul edilir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_011_017",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0034",
+        "msgStr": "Japon mitolojisinde tarım ve tıbba hükmeden bir Kunitsu ilahı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0035",
+        "msgStr": "Susano-o'nun kızı Suseri-Hime ile birlikte Izumo ülkesini kurduğu söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_012_018",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0036",
+        "msgStr": "Susano-o'nun ellerinde can veren sekiz başlı dev bir yılan."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0037",
+        "msgStr": "\"Kusanagi Kılıcı\" olarak da bilinen efsanevi kılıç Ame-no-Murakumo-no-Tsurugi'nin onun karnından çıktığı söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_013_019",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0038",
+        "msgStr": "Japon folklorundan, yeryüzüne bir yıldırımın üzerinde indiği söylenen bir canavar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0039",
+        "msgStr": "Genellikle fırtına bulutlarının arasında koşar ancak yıldırımların üzerine binerek yere de iner."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_014_020",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0040",
+        "msgStr": "İçinde insanların kinlerini ve olumsuz enerjilerini taşıyan canavar tekerlekli bir araç."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0041",
+        "msgStr": "Aslen bir öküz arabası yüzünden öldürülen bir kadındı, ancak hayaleti arabayı ele geçirdi."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_015_021",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0042",
+        "msgStr": "Japon efsanelerinden bir yaratık. Maymun başına, kaplan bacaklarına ve yılan kuyruğuna sahiptir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0043",
+        "msgStr": "Heike Destanı'nda İmparator'a saldırmak için her gece kara bulutların arkasına saklandığı söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_016_022",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0044",
+        "msgStr": "Katsuragi Dağı'nda yaşadığı söylenen, dev bir örümcek şeklindeki vahşi bir tanrı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0045",
+        "msgStr": "Aslen kabilesi İmparatorluk Sarayı tarafından yenilgiye uğratıldıktan sonra bir çukurda yaşayan bu toprakların bir yerlisiydi."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_017_023",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0046",
+        "msgStr": "Izumo-no-kuni Fudoki, yani Izumo Kayıtları'nda geçen dev."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0047",
+        "msgStr": "Izumo'yu genişletmek amacıyla rakip Silla'dan halatla toprak çekerek Kuni-biki'yi gerçekleştirdi."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_018_024",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0048",
+        "msgStr": "Hindu mitolojisinde Shiva'nın son derece güzel bir eşi; pek çok erdemi simgeler."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0049",
+        "msgStr": "Her zaman Shiva'nın yanındadır ve onun iki gözünü kapatarak dünyayı karanlığa gömmüştür."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_019_025",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0050",
+        "msgStr": "Yamato iktidarı ele geçirmeden önce Shinano bölgesinde tapınılan yerli bir tanrı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0051",
+        "msgStr": "Kayaların ve taşların ilahi ruhları barındırdığına dair kadim inançtan doğan bir tanrı olduğu söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_01a_026",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0052",
+        "msgStr": "İskandinav gök gürültüsü ve doğa tanrısı. Çekici Mjolnir her düşmanı ezebilir ve ellerine geri döner."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0053",
+        "msgStr": "Ragnarok gününde Thor ve Midgard Yılanı Jormungand'ın birbirlerini öldürmesi mukadderdir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_01b_027",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0054",
+        "msgStr": "Yahudi-Hristiyan büyücüler tarafından kullanılan bedensiz hizmetkâr ruhlar için kullanılan genel bir terim."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0055",
+        "msgStr": "Çağrıldığında, kendisini çağıran kişinin seçtiği hedefe eziyet eder."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_01c_028",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0056",
+        "msgStr": "Buryat folklorunda \"kötü kuş\" anlamına gelir; aşkı tatmadan ölen genç bir kızın hayaletidir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0057",
+        "msgStr": "Yolcuları baştan çıkarır, ardından kafalarını yarıp gagasıyla beyinlerini emer."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_01d_029",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0058",
+        "msgStr": "Evlere musallat olmasıyla ünlü düzenbaz bir hayalet."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0059",
+        "msgStr": "Yüksek sesler çıkararak ve nesneleri havada hareket ettirerek ortalığı birbirine katarlar."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_01e_030",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0060",
+        "msgStr": "Yalnızca barış zamanlarında ortaya çıktığı söylenen efsanevi kuş."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0061",
+        "msgStr": "Tüm kuşların hükümdarıdır; öldüğünde diyardaki bütün kuşlar hüzünle öter."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_01f_031",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0062",
+        "msgStr": "Kyoto'daki Kurama Dağı'nda yaşadığı söylenen Tengu."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0063",
+        "msgStr": "En güçlü ve en tanınmış Tengu'dur; hastalıkları savuşturma ve iyi şans getirme gücüne sahiptir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_020_032",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0064",
+        "msgStr": "Melekler hiyerarşisinde 6. sıradadır ve 2. kürede ikamet eder."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0065",
+        "msgStr": "Görevleri cenneti iblislerden korumak ve insanlar arasındaki güç dağılımını denetlemektir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_021_033",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0066",
+        "msgStr": "Aynı türden acılar çeken hayaletlerin birbirine bağlanmasıyla doğan, pek çok iblisten oluşan kötü bir ruh."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0067",
+        "msgStr": "İblisler Gerasalı bir adamı ele geçirmiş, İsa da onları bir domuz sürüsüne göndererek adamı iyileştirmiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_022_034",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0068",
+        "msgStr": "Hem rüzgâr tanrısı hem de demircilik tanrısı olarak bilinen bir ruh."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0069",
+        "msgStr": "Güçlü rüzgârları çatıları ve insanları uçurur, denizdeki gemileri devirir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_023_035",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0070",
+        "msgStr": "Zu olarak da bilinen, Mezopotamya folklorundan kötücül bir ilah. Kartal gövdesine ve aslan başına sahiptir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0071",
+        "msgStr": "Her şeye hükmetme arzusuyla yanıp tutuşan Anzu, gök tanrısı Enlil'den Kader Tabletleri'ni çaldı."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_024_036",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0072",
+        "msgStr": "Yahudi-Hristiyan anlatılarında Metatron'un ikiz kardeşi. Göksel şarkıların efendisidir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0073",
+        "msgStr": "İnanılmaz derecede uzundur; bir insanın onun boyunu yürümesinin 500 yıl süreceği söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_025_037",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0074",
+        "msgStr": "Çimenli patikalarda yürüyen insanların sırtına atlayan bir Japon \"sırt canavarı.\""
+      },
+      {
+        "msgID": "DEVILGUIDE_L0075",
+        "msgStr": "Kolayca çıkarılamaz ama onu eve kadar götürebilirseniz altın sikkelerine dönüşür."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_026_038",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0076",
+        "msgStr": "Korkunç görünümü ve kaba kuvvetiyle bilinen, Japon anlatılarından kötücül bir canavar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0077",
+        "msgStr": "Köyleri yağmalar ve demir sopalarıyla kasaba halkını katlederler."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_027_039",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0078",
+        "msgStr": "Ölüm tanrısı Yama'nın emri altında yargılanmış ruhların Hindu celladı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0079",
+        "msgStr": "Yama hükmünü verdiğinde, ruhu uygun cehenneme sürüklemek Turdak'ın görevidir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_028_040",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0080",
+        "msgStr": "Yunan mitolojisinden yılan bedenli bir kadın; Libya kraliçesiydi."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0081",
+        "msgStr": "Güzel bir kadın gövdesine ve yılan kuyruğuna sahiptir. Genç erkeklerin kanıyla beslenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_029_041",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0082",
+        "msgStr": "Izanami onları Japon yeraltı dünyası Yomi'nin girişi olan Yomotsu Hirasaka'da Izanagi'nin peşinden gönderdi."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0083",
+        "msgStr": "Yomotsu-Ikusa ordusuna Yomotsu-Shikome liderlik eder."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_02a_042",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0084",
+        "msgStr": "Hindu mitolojisinde tanrılarla savaşan kötü ruhlar. İnsanlara da saldırırlar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0085",
+        "msgStr": "Korkunç görünümleri kötü doğalarını simgeler, ancak insanları kandırmak için şekil de değiştirebilirler."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_02b_043",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0086",
+        "msgStr": "Adı \"üç baş\" anlamına gelen bir Slav tanrısı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0087",
+        "msgStr": "Beyaz bir ata binen Sventovit'in aksine o, kutsal siyah bir ata binerdi."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_02c_044",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0088",
+        "msgStr": "Slav mitolojisinde karanlığın lanetli bir tanrısı. Adı \"Kara Tanrı\" anlamına gelir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0089",
+        "msgStr": "\"Beyaz Tanrı\" Belobog'un zıt karşılığıdır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_02d_045",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0090",
+        "msgStr": "Yunan mitolojisinde Hades'in bekçi köpeği. Geleneksel olarak üç başı ve yılan kuyruğu vardır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0091",
+        "msgStr": "Rüzgâr devi Typhon ile canavarların anası Echidna'nın yavrusudur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_02e_046",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0092",
+        "msgStr": "Ezoterik Budizm'de bir tanrı; Hindu mitolojisindeki Ganesha'nın eşdeğeridir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0093",
+        "msgStr": "Bilgelik, şans ve sağlık gibi lütuflar bahşeder ancak gönülsüz bağlılık bunları lanete dönüştürür."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_02f_047",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0094",
+        "msgStr": "Epik şiir Nibelungenlied'deki kahramanın Almanca adı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0095",
+        "msgStr": "Ejderha Fafnir'in kanı onu yenilmez kıldı, ancak sırtına düşen tek bir yaprak zayıf bir nokta oluşmasına yol açtı."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_030_048",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0096",
+        "msgStr": "Japon efsanelerinden şiddet yanlısı bir tanrı; Izanagi'den doğan üç tanrıdan biriydi."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0097",
+        "msgStr": "Başlangıçta kaba davranışları nedeniyle Takamagahara'dan sürgün edildi, daha sonra Ne-no-kuni'nin büyük bir tanrısı oldu."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_031_049",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0098",
+        "msgStr": "Savaşta veya açlıktan ölen insanların ruhlarından oluşan dev bir iskelet canavarı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0099",
+        "msgStr": "Geceleri takırtı sesleri çıkararak etrafta dolaşır. Bir insan görürse saldırır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_032_050",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0100",
+        "msgStr": "Hem canlı insan etiyle hem de leşlerin çürümüş etiyle beslenen insan yiyici bir iblis."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0101",
+        "msgStr": "Şeklini değiştirebilir; çoğunlukla sırtlan kılığına girer."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_033_051",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0102",
+        "msgStr": "Öldürülen kişinin olumsuz enerjisinin bir kafatasını ele geçirmesiyle doğan konuşan bir canavar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0103",
+        "msgStr": "Ölümünün detaylarını anlatan bir şarkı söyleyerek katilinden intikam almaya çalışır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_034_052",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0104",
+        "msgStr": "Alman anlatılarından bir rüya iblisi. Çeşitli hayvanlara dönüşebilir ve gece terörüne yol açabilirler."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0105",
+        "msgStr": "Diğer iblisler gibi kanla beslenirler, ancak uyuyan kadınların sütünü de içerler."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_035_053",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0106",
+        "msgStr": "Murngin mitolojisinde ormanda yaşayan insan benzeri bir ruh."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0107",
+        "msgStr": "Bir Mokoi, kara büyü kullananları cezalandırmak için ortaya çıkar. Ayrıca çocukları yediği ve insanlarla savaştığı söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_036_054",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0108",
+        "msgStr": "Ellerini arkadan bağlamış bir kadın formuna bürünen bir böcek iblisi."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0109",
+        "msgStr": "Bir suçtan haksız yere hüküm giyip idam edilen Okiku adındaki bir kızın nefretinden doğmuştur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_037_055",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0110",
+        "msgStr": "Avrupa folklorundan gelen bir iblis; incubus, succubus'un erkek karşılığıdır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0111",
+        "msgStr": "Kadınlar uyurken onlara saldırır, onları hamile bırakır ve kâbus görmelerine neden olur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_038_056",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0112",
+        "msgStr": "Apokrif İncil metinlerinde Âdem'in ilk eşi. Cennet Bahçesi'nden ayrıldıktan sonra bir iblise dönüştü."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0113",
+        "msgStr": "Gözden düşmesinin nedenlerine dair birkaç teori vardır ancak hepsi onun sadakatsizliğine dikkat çeker."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_039_057",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0114",
+        "msgStr": "Cehennemin generali. Diğer iblisleri gözetim altında tutar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0115",
+        "msgStr": "Cehennemdeki en büyük ölü çağıranlardan (nekromansır) biridir; ruhları ve cesetleri kontrol edebilir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_03a_058",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0116",
+        "msgStr": "Sineklerin Efendisi ve Cehennemin prensi."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0117",
+        "msgStr": "Sinekleri ruhları uçuruma taşır. Kenan tanrısı Ba'al'ın yozlaştırılmış bir hali olabilir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_03b_059",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0118",
+        "msgStr": "İrlanda folklorunda insan bir erkeğin aşkına özlem duyan güzel bir peri."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0119",
+        "msgStr": "Sevgililerine sanatsal ilham bahşetmek karşılığında onların yaşam enerjisini tüketir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_03c_060",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0120",
+        "msgStr": "Japonya'nın Kumano dağlarının derinliklerinde yaşadığı söylenen tek gözlü ve tek bacaklı bir canavar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0121",
+        "msgStr": "Dağın karlarında 30 santimetre uzunluğunda tek bir ayak izi görülmüştür."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_03d_061",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0122",
+        "msgStr": "Mısır mitolojisinde babun başlı, her şeyi bilen bir tanrı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0123",
+        "msgStr": "Kötülük tanrısı Seth'in karşısında durur ve iyilik tanrıları Osiris ile Isis'in tarafını tutar."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_03e_062",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0124",
+        "msgStr": "Nihonshoki'deki kılıç ilahı. Ninigi oraya inmeden önce Ashihara-no-Nakatsukuni'de barışı sağladı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0125",
+        "msgStr": "Adı, şeylerin kesilme biçimini ifade eden \"futsu\" ve bir tanrı olarak doğasını ifade eden \"nushi\" kelimelerinden gelir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_03f_063",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0126",
+        "msgStr": "Antik Yamato'nun kralı. Abihiko'nun küçük kardeşidir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0127",
+        "msgStr": "İmparator Jimmu'yu ve onun doğuya göçünü püskürttü ancak Amaterasu İmparator'un ordusuna yardım edince yenildi."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_040_064",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0128",
+        "msgStr": "İrlanda folklorunda Gölgeler Diyarı'nın savaşçı bir kraliçesi."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0129",
+        "msgStr": "İrlanda kahramanı Cu Chulainn'e savaş sanatını öğretti ve ona Gae Bolg mızrağını verdi."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_041_065",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0130",
+        "msgStr": "İnsan yüzlü ve insan dillerini konuşabilen bir inek. Diğer ineklerden doğar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0131",
+        "msgStr": "Korkunç bir alamet olduğu söylenir; ölmeden önce gerçekleşmesi kesin olan bir kehanet bırakır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_042_066",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0132",
+        "msgStr": "Jack Frost'un, Dedektif Kazama'nın sahip olduğu Bancho Üniforması ile birleşmesinin sonucu."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0133",
+        "msgStr": "Soğuk bedeni ve yakıcı tutkusuyla hedefi Raiho XV adını miras almaktır..."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_043_067",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0134",
+        "msgStr": "Uzun bir ömür süren kedilerin bunlara dönüştüğü söylenir. İnsan dillerini konuşabilirler."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0135",
+        "msgStr": "Güçleri ne kadar uzun yaşadıklarına göre değişir; şekil değiştirmekten ölüleri kontrol etmeye kadar uzanır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_044_068",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0136",
+        "msgStr": "Antik Yamato'daki güçlü bir ailenin üyesi; Nagasunehiko'nun ağabeyidir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0137",
+        "msgStr": "Yenilgilerinden sonra kardeşler Tsugaru'ya göç ettiler ve söylenenlere göre orada bir hanedan kurdular."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_045_069",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0138",
+        "msgStr": "Genç sarışın bir kız olarak ortaya çıkan bir hayalet. Genç görünür ama büyü güçleri muazzamdır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0139",
+        "msgStr": "Kimileri onun talihsiz bir şekilde ölen zavallı bir İngiliz kızın hayaleti olduğunu söyler."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_046_070",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0140",
+        "msgStr": "Heian döneminin sonu ve Kamakura döneminin başındaki Genpei Savaşı'ndan bir Japon general."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0141",
+        "msgStr": "Ushiwakamaru olarak da bilinir; savaş sanatını Kurama Dağı'nın Tengularından öğrendiği söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_047_071",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0142",
+        "msgStr": "Yunan mitolojisinde titan Geryon'un kırmızı sığırlarını koruyan iki başlı köpek."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0143",
+        "msgStr": "Bir muhafız olarak ustalığına rağmen Herkül, On İki Görevini yerine getirirken onu tek darbede öldürdü."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_048_072",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0144",
+        "msgStr": "Aynı türden acılar çeken hayaletlerin birbirine bağlanmasıyla doğan, pek çok iblisten oluşan kötü bir ruh."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0145",
+        "msgStr": "İblisler Gerasalı bir adamı ele geçirmiş, İsa da onları bir domuz sürüsüne göndererek adamı iyileştirmiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_049_073",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0146",
+        "msgStr": "Aynı türden acılar çeken hayaletlerin birbirine bağlanmasıyla doğan, pek çok iblisten oluşan kötü bir ruh."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0147",
+        "msgStr": "İblisler Gerasalı bir adamı ele geçirmiş, İsa da onları bir domuz sürüsüne göndererek adamı iyileştirmiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_04a_074",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0148",
+        "msgStr": "Aynı türden acılar çeken hayaletlerin birbirine bağlanmasıyla doğan, pek çok iblisten oluşan kötü bir ruh."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0149",
+        "msgStr": "İblisler Gerasalı bir adamı ele geçirmiş, İsa da onları bir domuz sürüsüne göndererek adamı iyileştirmiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_04b_075",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0150",
+        "msgStr": "Aynı türden acılar çeken hayaletlerin birbirine bağlanmasıyla doğan, pek çok iblisten oluşan kötü bir ruh."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0151",
+        "msgStr": "İblisler Gerasalı bir adamı ele geçirmiş, İsa da onları bir domuz sürüsüne göndererek adamı iyileştirmiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_151_076",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0152",
+        "msgStr": "Güzel bir su ruhu. 16. yüzyıl simyacısı Paracelsus onu dört büyük ruhtan biri olarak adlandırmıştır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0153",
+        "msgStr": "Doğası gereği perilere yakın olduğu için adı Latince \"dalga\" kelimesinden türetilmiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_152_077",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0154",
+        "msgStr": "Rüzgârı ve havayı kontrol eden bir ruh. Adı Latince \"orman\" kelimesinden türetilmiştir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0155",
+        "msgStr": "Paracelsus tarafından tanımlanan dört büyük ruhtan biridir; değişken bir doğası ve büyük bir gücü vardır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_153_078",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0156",
+        "msgStr": "Bu düşük seviyeli su elementali, dünyayı oluşturan dört temel elementten birini kontrol eder."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0157",
+        "msgStr": "Aristoteles'e göre bir Aquans, \"soğuk\" ve \"nem\" özlerinden oluşur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_154_079",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0158",
+        "msgStr": "Bu düşük seviyeli rüzgâr elementali, dünyayı oluşturan dört temel elementten birini kontrol eder."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0159",
+        "msgStr": "Bir Aeros, \"ısı\" ve \"nem\" özlerinin birleşimidir ve katlanarak artan bir enerji artışının temelini oluşturur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_155_080",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0160",
+        "msgStr": "Bir ateş elementali ya da enerji formundaki dört elementten biri. \"Isı\" ve \"kuruluk\" özlerinden oluşur."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0161",
+        "msgStr": "Antik Yunan'daki dört temel element kavramı, erken dönem astrolojiyi önemli ölçüde etkilemiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_156_081",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0162",
+        "msgStr": "Bir toprak elementali ya da enerji formundaki dört temel elementten biri."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0163",
+        "msgStr": "Erthys, yıkımın temel bileşenleri olan \"soğuk\" ve \"kuruluk\" özlerinden oluşur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_157_082",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0164",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0165",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_158_083",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0166",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0167",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_159_084",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0168",
+        "msgStr": "Şinto düşüncesinin dört büyük suretinden biri; gücünü hayırlı alametler getirmek için kullanır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0169",
+        "msgStr": "Kişinin bilgeliğine, hünerine ve gözlem gücüne yardımcı olduğu ve kırık yolları onarabildiği söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_15a_085",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0170",
+        "msgStr": "Şinto düşüncesinin dört büyük suretinden biri; vahşilik ve yırtıcılık bahşetme gücüne sahiptir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0171",
+        "msgStr": "Olumsuz bir yöne sevk edebilse de kişinin cesaretine, gelişimine ve çabalarına yardımcı olduğu söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_15b_086",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0172",
+        "msgStr": "Şinto düşüncesinin dört büyük suretinden biri; sakin bir zihni korumaya yardımcı olmak için nazikçe çalışır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0173",
+        "msgStr": "Kişinin ilişkilerine, sakinliğine ve sosyalliğine yardımcı olduğu ve kişiyi olumlu bir yöne sevk edebildiği söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_15c_087",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0174",
+        "msgStr": "Şinto düşüncesinin dört büyük suretinden biri; avdan büyük bereket getirir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0175",
+        "msgStr": "Kişinin aşkına, kazancına ve gelişimine yardımcı olduğu ve yeni yollar açabildiği söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_15d_088",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0176",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0177",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_15e_089",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0178",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0179",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_15f_090",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0180",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0181",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_160_091",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0182",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0183",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_161_092",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0184",
+        "msgStr": "Altı Budist cehenneminin açlık diyarından gelen ve ateş püsküren bir gulyabani."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0185",
+        "msgStr": "Havadaki böcekleri pişirip yiyebilir ancak doymak bilmez açlığı yüzünden sonsuza dek azap çeker."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_162_093",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0186",
+        "msgStr": "Maha Virocana olarak bilinen, Hindistan'ın Asura kabilesinin kralı. Budizm'de Büyük Güneş Tanrısı olarak bilinir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0187",
+        "msgStr": "Işık ve ateş tanrısı olarak Asura'nın tüm evreni iyiliğe yönlendirme gücüne sahip olduğu söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_163_094",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0188",
+        "msgStr": "İnsan yüzlü bir kuş formuna bürünen bir Japon canavarı. Mide bulandırıcı bir ötüş çıkarır ve uğursuz bir alev püskürtür."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0189",
+        "msgStr": "Gerçek kimliği uygun bir anma töreni yapılmamış bir cesettir ve görevlerini ihmal eden keşişlerin karşısına çıktığı söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_164_095",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0190",
+        "msgStr": "Adı \"kuşatan\" anlamına gelen, Hindu anlatılarından büyük ve şiddet yanlısı bir yılan. Nehirlerin önünü kesmiş ve tüm diyarda şiddetli kuraklıklara yol açmıştır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0191",
+        "msgStr": "Koruyucu ilah Indra tarafından yenilgiye uğratıldıktan sonra Vritra\nertesi yıl yeniden dirildi ve iki güç arasındaki mücadele\no zamandan beri devam etmektedir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_165_096",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0192",
+        "msgStr": "Nihon Shoki'de bahsedilen bir ateş tanrısı. Doğduğu andan itibaren alevler içinde olduğu için annesi Izanami'yi yakarak öldürdü."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0193",
+        "msgStr": "Babası Izanagi, keder dolu bir öfkeyle Hi-no-Kagutsuchi'yi totsuka kılıcı Ame-no-Ohabari ile katletti. Dökülen kandan pek çok tanrı doğdu."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_166_097",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0194",
+        "msgStr": "Budist mitolojisinden gulyabani benzeri bir iblis. Cehennemin Preta diyarına atılan açgözlü insanlar bunlara dönüşür."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0195",
+        "msgStr": "Açlıkları amansızdır ve yeniden doğana kadar acıları devam eder."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_167_098",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0196",
+        "msgStr": "Pek çok balıkçı tarafından uğursuz alamet olarak görülen, genellikle şiddetli fırtınaları veya bereketi az avları haber veren yarı kadın, yarı balık okyanus sakini."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0197",
+        "msgStr": "Efsaneye göre seslerini erkekleri büyülemek için kullanır ve gemilerini çarpmalarına neden olurlar."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_168_099",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0198",
+        "msgStr": "Yahudi-Hristiyan anlatılarında intikamcı ruhları temsil eden düşmüş bir melek. Adı \"Korkunç Aslan\" anlamına gelir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0199",
+        "msgStr": "Henüz Tanrı'ya hizmet ettiği dönemde Aziz Enoch'un korunması ona emanet edilmişti."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_169_100",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0200",
+        "msgStr": "Babil efsanelerinde geçen bir akrep-adam. Zekâsıyla dolup taşan, güzel ve kutsal bir canavar olarak tapınılır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0201",
+        "msgStr": "Mashu Dağı'nda doğan ve batan güneşi karanlıktan korur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_16a_101",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0202",
+        "msgStr": "Çin efsanelerindeki göksel varlıklar olan Ssu-Ling'lerin en soylusu.\nDoğu yönünü, bahar mevsimini ve tahta elementini\ntemsil eder."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0203",
+        "msgStr": "Okyanusun dibindeki bir sarayda yaşar. Feng Shui'de doğuya su\nyerleştirmenin Qing Long'un gücünü yönlendirdiği bilinir ve bunun\niyi şans getirdiğine inanılır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_16b_102",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0204",
+        "msgStr": "Toprak Ana'nın vücut bulmuş hali ve aynı zamanda koruyucusu olarak Türkiye dağlarında saygı görür."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0205",
+        "msgStr": "Cybele vahşi canavarlara hükmeder ve daha sonraları Roma kültüründe de kutsanmıştır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_16c_103",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0206",
+        "msgStr": "Yangınlardan koruduğu söylenen kırsal bir Japon kurt tanrısı. Karşılığında ise ekinleri çalar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0207",
+        "msgStr": "Kapı girişlerine onun resimlerini yapıştırarak korumasını kazanmak mümkündür."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_16d_104",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0208",
+        "msgStr": "Nagano'daki bir tapınakta yaşamış ve canavarları katlettiği efsanelerle anlatılan bir köpeğin ruhu."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0209",
+        "msgStr": "Köyün kızlarını kaçıran bir maymun yokai'yi alt etmiş, ancak bu destansı savaşta ölümcül şekilde yaralanmıştır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_16e_105",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0210",
+        "msgStr": "Hindu efsanelerindeki en yüce tanrı; evrenin yaratıcısı ve koruyucusudur."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0211",
+        "msgStr": "Dünyanın koruyucusu olarak, yeryüzü ne zaman tehlikeye düşse avatarı aşağı iner."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_16f_106",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0212",
+        "msgStr": "Nazik ve sakin kişiliklere sahip, küçük ve insansı yaratıklar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0213",
+        "msgStr": "Bir zamanlar Japonya'nın Ainu halkıyla bir arada yaşarken, bir noktada araları açılmış ve ortadan kaybolmuşlardır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_170_107",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0214",
+        "msgStr": "Dokuz melek sınıfının 9.'su. Doğaları gereği insanlara en yakın olanlardır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0215",
+        "msgStr": "Bireyleri gözetir ve yoldan sapanlara uyarılarda bulunurlar."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_171_108",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0216",
+        "msgStr": "Otomobillerin yaygınlaşmasıyla ortaya çıkan bir hayalet. Dört ayak üzerinde yüksek hızla koşan yaşlı bir kadın olarak göründüğü söylenir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0217",
+        "msgStr": "Yanınızdan hızla geçerken göz ucuyla bakarsanız, sırtına yapıştırılmış \"Turbo\" yazan bir kâğıt parçası görmeniz muhtemeldir. Göründüğü yere bağlı olarak pek çok farklı isimle bilinir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_172_109",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0218",
+        "msgStr": "Goetia'nın 72 iblisinden biri. Bir yıldız biçiminde ortaya çıkar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0219",
+        "msgStr": "Şifalı otlar ve mücevherler konusunda engin bir bilgiye sahiptir. Ayrıca kuşları dilediği gibi kontrol edebilir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_173_110",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0220",
+        "msgStr": "Dokuz melek sınıfının sekizincisi. İnsanlara rehberlik etmekten ve mesaj iletmekten sorumludurlar."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0221",
+        "msgStr": "Göklerin savaşçıları olarak, karanlığın güçlerine karşı cennetin ordularına önderlik ederler."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_174_111",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0222",
+        "msgStr": "Dokuz melek sınıfının dördüncüsü. İsimleri \"yönetim\" anlamı taşır ve diğer melekleri denetlemek onların görevidir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0223",
+        "msgStr": "Yaptıkları işin Tanrı'nın iradesinin vücut bulmuş hali olduğu ve bu yönetimin tüm kozmosa yayılmasını diledikleri söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_175_112",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0224",
+        "msgStr": "Taoist inancındaki kehanet tanrısı. Kedi başına ve insan bedenine sahip olduğu söylenir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0225",
+        "msgStr": "Tapınağı aslında Mao Shangshu için yapılmıştı; ancak \"Mao\" kelimesi Çincede \"kedi\" anlamına gelen kelimeye benzediğinden tapınak yanlış adlandırıldı ve böylece farklı bir tanrı olarak yeniden doğdu."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_176_113",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0226",
+        "msgStr": "Dünyadaki kötü ruhlarla savaşmak için küçük bir oğlan çocuğu olarak yeniden bedenlenen Taoist savaş tanrısı Dai-Rasen."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0227",
+        "msgStr": "Babası onu intihara zorladıktan sonra Siddhartha tarafından diriltilmiş ve bir dağ bilgesi olmuştur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_177_114",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0228",
+        "msgStr": "Dünyanın yıkımına ve yaratılışına hükmeden yüce tanrı. Hinduizmde Vishnu ile birlikte en çok tapınılan tanrıdır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0229",
+        "msgStr": "Üçüncü gözünün dokunduğu her şeyi yok eden bir ışık huzmesi yaydığı söylenir; dünyayı baştan yaratmak üzere yıkımla arındırır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_178_115",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0230",
+        "msgStr": "İskandinav efsanelerindeki dev kurt yaratık, kötü tanrı Loki'nin oğlu. Fenrir'in kaderinde Ragnarok'ta Odin'i öldürmek vardır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0231",
+        "msgStr": "O gün geldiğinde büyülü bağları kopacak ve savaşta Aesir tanrılarına karşı ayaklanacaktır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_179_116",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0232",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0233",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_17a_117",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0234",
+        "msgStr": "Batı Japonya'da yaygın olan bir köpek ruhu. İnsanları ele geçirir ve onları deliliğe sürükler."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0235",
+        "msgStr": "Bir zamanlar başkalarını lanetlemek için yaygın olarak köpekler kurban edilirdi. Bu uygulama bir Inugami'nin doğmasına yol açar."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_17b_118",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0236",
+        "msgStr": "Yahudi-Hristiyan efsanelerinde geçen dişi görünümlü bir iblis. Uyuyan erkekleri baştan çıkardığı ve bebeklere saldırdığı söylenir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0237",
+        "msgStr": "Adem'i baştan çıkaran dişi iblis Lilith'in kızı. Tıpkı annesi gibi, erkeklerin yaşam özünü tüketir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_17c_119",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0238",
+        "msgStr": "Ölüm korkusunu temsil eden bir Hindu iblisi. Meditasyonları sırasında Buda'yı yoldan çıkarmaya çalışmıştır."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0239",
+        "msgStr": "Başlangıçta Mara, geceleri kurbanlarının yaşam özünü emen korkunç bir tanrıçaydı."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_17d_120",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0240",
+        "msgStr": "Yunan efsanelerinden bir örümcek iblisi. Bir zamanlar yetenekli bir dokumacıyken, Athena'ya meydan okuduktan sonra dönüştürülmüştür."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0241",
+        "msgStr": "Yarışmada tanrılarla alay eden bir duvar halısı dokumuş ve Athena da onu bir örümceğe dönüşmesi için lanetlemiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_17e_121",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0242",
+        "msgStr": "Güçlenip kötüleşmiş bir Jack Frost."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0243",
+        "msgStr": "Oldukça barışçıl olan kış perisinin evrimleşmiş halidir ve küçük bir şakacıdan muazzam güçte bir varlığa dönüşümü simgeler."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_17f_122",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0244",
+        "msgStr": "Güneybatı Britanya kökenli küçük bir peri. Şaka yapmaktan hoşlanır ama ihtiyaç anında çiftçilere yardım da eder."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0245",
+        "msgStr": "Yolcular kaybolduğunda veya ani seslerle irkildiğinde iş başında Pixie'lerin olduğu söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_180_123",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0246",
+        "msgStr": "İskoçya kökenli bir peri şövalyesi. Seelie Meclisi'nin bir üyesi olarak Carterhaugh'u korumakla görevlidir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0247",
+        "msgStr": "Aslen o bölgeden bir çocukken, 9 yaşında periler tarafından kaçırıldıktan sonra onların yaşam tarzını benimsemiştir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_181_124",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0248",
+        "msgStr": "İskandinav mitolojisinden bir tanrıça. Altın elmaların koruyucusu ve şiir tanrısı Bragi'nin eşidir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0249",
+        "msgStr": "İskandinav mitolojisindeki tanrıların gençliklerini, onun dişbudak ağacından yapılmış bir kutuda güvenle sakladığı elmalar sayesinde korudukları söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_182_125",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0250",
+        "msgStr": "Tembellik günahını temsil eden kötü ruh. Keşif ve icat yeteneği bahşeder."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0251",
+        "msgStr": "Aslen Asur hasat tanrısı Baal-Peor'du. Bu onun yozlaşmış iblis formudur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_183_126",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0252",
+        "msgStr": "Çin mitolojisinde korkulan dört uğursuz canavar Si-Xiong'dan biri. Zayıfları avlamaktan zevk alır ve açgözlülüğün sembolü haline gelmiştir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0253",
+        "msgStr": "Hazineleri çalıp istiflediği, ancak bunların kendisi için hiçbir işe yaramadığı söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_184_127",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0254",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0255",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_185_128",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0256",
+        "msgStr": "Hinduizmde adı \"sarhoş edici\" anlamına gelen dev bir Asura. Bilge Chyavana'nın onu ateşten yarattığı söylenir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0257",
+        "msgStr": "Mada düşmanlarını yutma gücüne sahiptir ve tanrı Indra'nın bile onun gücüne boyun eğdiği söylenir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_186_129",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0258",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0259",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_187_130",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0260",
+        "msgStr": "Kanatları ve ibikli tacıyla dikkat çeken Kuzey Afrika kökenli karanlık bir ejderha. Adı \"yılanların kralı\" anlamına gelir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0261",
+        "msgStr": "Hem nefesi hem de bakışları o kadar zehirlidir ki, bunlara maruz kalacak kadar talihsiz olan her insanı veya hayvanı anında öldürür."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_188_131",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0262",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0263",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_189_132",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0264",
+        "msgStr": "Hindu mitolojisinde Shiva'nın bineği olarak hizmet eden ve hayvanların koruyucusu olduğu söylenen kutsal boğa."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0265",
+        "msgStr": "Shiva, Nataraja olarak yaratılış ve yıkım dansını sergilediğinde, dansa eşlik eden müziği Nandi çalar."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_18a_133",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0266",
+        "msgStr": "Bali ormanlarında yaşadığı söylenen, halkın kutsallaştırarak kendi koruyucuları haline getirdiği eski bir kötü tanrı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0267",
+        "msgStr": "Artık iyiliğin bir sembolü olarak, kötülüğün beden bulmuş hali olan Rangda ile sonsuza dek savaşmaya mahkûmdur."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_18b_134",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0268",
+        "msgStr": "Peygamber Hezekiel'in huzurunda beliren Yahudi meleği."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0269",
+        "msgStr": "Ateşli bir parıltı yayar ve aslan, inek, kartal ile genç bir adamın yüzlerini kendinde birleştirir."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_18c_135",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0270",
+        "msgStr": "Yahudi mitolojisinde Tanrı'nın meleği. Güçler olarak bilinen meleklere hükmeder ve Camael adı \"Tanrı'yı gören\" anlamına gelir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0271",
+        "msgStr": "Mars'ın hükümdarı olmasının yanı sıra yıkım, ceza ve ölüm meleklerinin de komutanıdır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_18d_136",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0272",
+        "msgStr": "Bali efsanelerinde geçen kötücül bir cadı; kötülüğü temsil eder ve Barong'un ezeli rakibidir."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0273",
+        "msgStr": "Her şeye dönüşebilme gücüne sahip olduğu söylenir; büyüsünü salgın hastalıklar yaymak, doğal afetlere yol açmak, insanları lanetlemek ve hatta kötü ruhlara emirlerini yaptırmak için kullanır."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_18e_137",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0274",
+        "msgStr": "Bereket tanrısı Baal'ı her yıl öldürmeye çalışan Kenan ölüm tanrısı."
+      },
+      {
+        "msgID": "DEVILGUIDE_L0275",
+        "msgStr": "Ancak Baal'ın kız kardeşi Anat, Baal'ı ölümden dirilttiği için girişimleri her defasında boşa çıkar."
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_18f_138",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0276",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0277",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_1f0_139",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0278",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0279",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0280",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0281",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_1f1_140",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0282",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0283",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0284",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_1f2_141",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0285",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0286",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0287",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_1f3_142",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0288",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0289",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_1f4_143",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0290",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0291",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "devilguide_DEVILGUIDE_1f5_144",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0292",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "DEVILGUIDE_L0293",
+        "msgStr": "???"
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:33:58"
+}

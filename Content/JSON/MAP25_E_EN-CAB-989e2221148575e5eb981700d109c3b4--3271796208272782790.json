@@ -1,0 +1,93 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "MAP25_E_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "map25_e_EP09_SCENE05_01_000",
+        "msgStr": "Omitsunu"
+      },
+      {
+        "msgID": "MAP25_E_L0000",
+        "msgStr": "Gözüme küçük bir zerre gibi görünen şey, meğer Kuzunoha soyundan biriymiş."
+      },
+      {
+        "msgID": "MAP25_E_L0001",
+        "msgStr": "Demek bunu benden almak istiyorsun..."
+      },
+      {
+        "msgID": "MAP25_E_L0002",
+        "msgStr": "Ancak ben, Omitsunu, onu korumak istiyorum!"
+      },
+      {
+        "msgID": "MAP25_E_L0003",
+        "msgStr": "Davanın asil olduğuna inanıyorsan, cesaretini benimkiyle sına!"
+      },
+      {
+        "msgID": "map25_e_EP09_SCENE05_05_001",
+        "msgStr": "Omitsunu"
+      },
+      {
+        "msgID": "MAP25_E_L0004",
+        "msgStr": "Kararlılığın su götürmez..."
+      },
+      {
+        "msgID": "MAP25_E_L0005",
+        "msgStr": "Öyleyse bu senindir."
+      },
+      {
+        "msgID": "map25_e_EP09_SCENE05_07_002",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_E_L0006",
+        "msgStr": "> Raidou, <ITM_04><COLOR 4>Toprak Prizması<COLOR 0>'nı elde etti."
+      },
+      {
+        "msgID": "map25_e_EP09_SCENE05_08_003",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "MAP25_E_L0007",
+        "msgStr": "> Asil bir ses çınladı."
+      },
+      {
+        "msgID": "map25_e_EP09_SCENE05_09_004",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP25_E_L0008",
+        "msgStr": "Toprak Prizması'nı başarıyla elde ettin."
+      },
+      {
+        "msgID": "MAP25_E_L0009",
+        "msgStr": "Ancak kutlama yapacak vakit yok. Yanıma dön."
+      },
+      {
+        "msgID": "map25_e_EP09_SCENE05_11_005",
+        "msgStr": "Yatagarasu Elçisi"
+      },
+      {
+        "msgID": "MAP25_E_L0010",
+        "msgStr": "Üç prizmayı da elde etmeyi başardın."
+      },
+      {
+        "msgID": "MAP25_E_L0011",
+        "msgStr": "Söz verdiğim gibi, kendi zaman çizgine dönmende sana yardım edeceğim."
+      },
+      {
+        "msgID": "MAP25_E_L0012",
+        "msgStr": "Yanıma dön."
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:46:43"
+}

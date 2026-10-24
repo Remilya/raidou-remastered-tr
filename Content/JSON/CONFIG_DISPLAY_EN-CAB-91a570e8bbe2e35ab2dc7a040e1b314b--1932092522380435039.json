@@ -1,0 +1,45 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "CONFIG_DISPLAY_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "CONFIG_DISPLAY_L0000",
+        "msgStr": "Çözünürlük"
+      },
+      {
+        "msgID": "CONFIG_DISPLAY_L0001",
+        "msgStr": "Monitör"
+      },
+      {
+        "msgID": "CONFIG_DISPLAY_L0002",
+        "msgStr": "Ekran Modu"
+      },
+      {
+        "msgID": "CONFIG_DISPLAY_L0003",
+        "msgStr": "Dikey Senkronizasyon (VSync)"
+      },
+      {
+        "msgID": "CONFIG_DISPLAY_L0004",
+        "msgStr": "Pencere"
+      },
+      {
+        "msgID": "CONFIG_DISPLAY_L0005",
+        "msgStr": "Tam Ekran"
+      },
+      {
+        "msgID": "CONFIG_DISPLAY_L0006",
+        "msgStr": "Çerçevesiz Pencere"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:38:05"
+}

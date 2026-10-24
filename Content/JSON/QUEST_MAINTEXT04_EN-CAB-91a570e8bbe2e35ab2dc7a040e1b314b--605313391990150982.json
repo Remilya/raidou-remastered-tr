@@ -1,0 +1,221 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "QUEST_MAINTEXT04_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "QUEST_MAINTEXT04_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0003",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0027",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0044",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0045",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0046",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0047",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0048",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0049",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_MAINTEXT04_L0050",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:04:30"
+}

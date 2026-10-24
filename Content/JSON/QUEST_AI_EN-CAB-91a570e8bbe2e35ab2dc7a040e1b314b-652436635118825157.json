@@ -1,0 +1,129 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "QUEST_AI_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "quest_ai_ID01_00_000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "QUEST_AI_01_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "quest_ai_ID06_00_000",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "QUEST_AI_06_L0000",
+        "msgStr": "Ah, kahretsin! Yine mi sen! Korkudan midem bulanmaya başladı şimdi..."
+      },
+      {
+        "msgID": "QUEST_AI_06_L0000_001",
+        "msgStr": "Sen beni böyle hasta etmeden önce tam yemek yemek üzereydim!"
+      },
+      {
+        "msgID": "QUEST_AI_06_L0001",
+        "msgStr": "Ve beni daha iyi hissettirecek tek şey seni tek lokmada mideye indirmek!"
+      },
+      {
+        "msgID": "quest_ai_ID06_00_001",
+        "msgStr": "Tsuchigumo"
+      },
+      {
+        "msgID": "QUEST_AI_06_L0002",
+        "msgStr": "Off, neden ya...?"
+      },
+      {
+        "msgID": "QUEST_AI_06_L0003",
+        "msgStr": "Karanlık Diyar ile gerçek dünyanın ayrılması tamamen Yatagarasu'nun suçu..."
+      },
+      {
+        "msgID": "QUEST_AI_06_L0004",
+        "msgStr": "Neden onlar istedikleri her şeyi yapabiliyor da iblisler yapamıyor...?"
+      },
+      {
+        "msgID": "quest_ai_ID44_00_000",
+        "msgStr": "İblis"
+      },
+      {
+        "msgID": "QUEST_AI_44_L0000",
+        "msgStr": "Yatagarasu'dan Raido Kuzunoha..."
+      },
+      {
+        "msgID": "QUEST_AI_44_L0001",
+        "msgStr": "Hayır... Sen diğerisin—\"Raidou.\""
+      },
+      {
+        "msgID": "QUEST_AI_44_L0002",
+        "msgStr": "Gördüğün gibi, ben artık kudretli Asura'yım."
+      },
+      {
+        "msgID": "quest_ai_ID44_00_001",
+        "msgStr": "Asura"
+      },
+      {
+        "msgID": "QUEST_AI_44_L0003",
+        "msgStr": "Anlaşılan Yatagarasu beni durdurmak için seni buraya gönderdi."
+      },
+      {
+        "msgID": "QUEST_AI_44_L0004",
+        "msgStr": "Ancak Dainichi Nyorai'ye geri dönmeye hiç niyetim yok."
+      },
+      {
+        "msgID": "QUEST_AI_44_L0005",
+        "msgStr": "\"Tek Gerçek Tanrı\" olduğunu iddia eden bir düzen elçisi, evrenin kontrolünü ele geçireceği sapkın bir gelecek yaratmaya çalışıyor."
+      },
+      {
+        "msgID": "QUEST_AI_44_L0006",
+        "msgStr": "Bunu önlemek için, 199X zaman çizgisini kaos yoluna yönlendirmek üzere Asura olarak gücümü kullanacağım!"
+      },
+      {
+        "msgID": "QUEST_AI_44_L0007",
+        "msgStr": "Ve burası senin dünyan olsa bile bana engel olamayacaksın!"
+      },
+      {
+        "msgID": "quest_ai_ID44_00_002",
+        "msgStr": "Asura"
+      },
+      {
+        "msgID": "QUEST_AI_44_L0008",
+        "msgStr": "Nasıl olur...? Dünyayı şekillendirecek kudrete sahibim ama yine de senin ellerinde iki kez yenilgiye uğradım..."
+      },
+      {
+        "msgID": "QUEST_AI_44_L0009",
+        "msgStr": "Şunu bil ki..."
+      },
+      {
+        "msgID": "QUEST_AI_44_L0010",
+        "msgStr": "Sözde Tek Gerçek Tanrı'yı yeneceğim ve bunu yaparak Ahura Mazda olarak eski ilahi gücümü geri alacağım!"
+      },
+      {
+        "msgID": "QUEST_AI_44_L0011",
+        "msgStr": "Evet, Tek Gerçek Tanrı bana yaptıklarının hesabını verecek..."
+      },
+      {
+        "msgID": "QUEST_AI_44_L0012",
+        "msgStr": "Şimdilik ayrılıyorum. Elveda, Raidou Kuzunoha."
+      },
+      {
+        "msgID": "QUEST_AI_44_L0013",
+        "msgStr": "Gelecek öyle kolay kolay değiştirilemez..."
+      },
+      {
+        "msgID": "",
+        "msgStr": ""
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 12:04:35"
+}

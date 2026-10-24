@@ -1,0 +1,197 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "DBOOK_DITECT07_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "DBOOK_DITECT07_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0001",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0002",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0003",
+        "msgStr": "Doğum yılı: 1915 / Yaş: 16 / Meslek: Ouran Lisesi dördüncü sınıf öğrencisi / Boy: Yaklaşık 155cm / Kilo: Yaklaşık 42kg / İkamet: Yarai-ku'daki Daidouji mülkü / En sevdiği yemek: Kâhya Nakamura'nın hazırladığı özel puding / Özel not: Bu kızın içinde başka bir varlığın izleri vardı ve bunun <U_COLOR 1>gelecekten gelen<U_COLOR 0> bir \"iblis\" olduğu ortaya çıktı.\n\nİblisler tarafından kaçırılmadan önce ardında \"Beni öldürmenizi istiyorum\" sözlerini bırakan bir kız. Mevcut davamızın merkezindeki isim ve bir o kadar da gizemli biri.\n\nBaşkent'teki varlıklı Daidouji ailesine mensuptur ve ailenin reisi Takeshi Daidouji'nin tek kızıdır.\n\nSaf kalpli bir kıza benziyor. Ne yazık ki bir şeyden dolayı büyük bir sıkıntı içinde olduğu anlaşılıyor. Kaçırılmadan hemen önce tuhaf bir şey daha söyledi: \"Neredeyse on altı yaşıma girdim.\"\n\nKaya'nın esrarengiz sözlerinin arkasındaki anlamı çözdük. Sınıf arkadaşı Rin'e göre (ki bu bilgiyi daha önce bizzat Kaya'dan öğrenmiş), Daidouji ailesinin kızları on altı yaşına girdiklerinde bir iblis tarafından ele geçirildikleri bir lanetten muzdaripmiş.\n\nBununla bağlantılı olarak Kaya görünüşe göre kendi kendine şu şarkıyı söylüyormuş: \"Anne, baba—aralarında toprak. İblisin kanı yeniden bütünlenecek. Uçurumda kanı katledilecek.\" Rin, şarkıda bahsedilen \"uçurumun\" Daidouji Malikânesi'nin bodrum katını ifade ettiğinden şüpheleniyor.\n\nGörünüşe göre Rin'in şüpheleri haklıymış—anlaşılan Kaya, Daidouji Malikânesi'nin altındaki bir hapishanede tutuluyormuş. Geride bıraktığı günlüğe göre amcası Kiyoshi Daidouji ve malikâne çalışanları onun hapsedilmesinde rol oynamış.\n\nDaha sonra Kaya'yı 4 Nolu Topçu Bataryası'nın altındaki yeraltı tersanesinde bulduk ve Raidou onu Tümgeneral Munakata'nın elinden kurtarmayı başardı.\n\nŞu anda bizim korumamız altında. Gidecek başka yeri olmadığından (Daidouji ailesinin sözde ele geçirilmiş kızlarını öldürme geleneği yüzünden eve dönerse öldürülecek, başka bir yerde ise Munakata tarafından yeniden yakalanma tehlikesi altında olacaktı), Narumi'nin tavsiyesiyle Narumi Dedektiflik Bürosu'nda çalışmaya başladı (şahsen ben bundan memnunum—mekana çok ihtiyaç duyulan bir canlılık katıyor).\n\nBir terslik olduğunu biliyordum. Kaya, EL 200'ü aldı ve onunla birlikte ortadan kayboldu. Görünüşe göre \"iblis\" onu çoktan ele geçirmişti.\n\n<U_COLOR 1>Munakata'ya göre bu \"iblis\", şu anda var olmaması gereken \"süper\" teknoloji bilgisine sahip \"gelecekten gelen bir zaman yolcusu\" ve bu bilgi geçmişteki insanlara (bize ve çağdaşlarımıza) sözde \"kehanetler\" olarak getirilmiş.\n\n(Artık açıkça anlaşılıyor ki Daidouji aile işletmelerini refaha kavuşturan şey, zaman yolcusunun gelecekten getirdiği \"kehanet\" niteliğindeki teknoloji ve bilgisiymiş. Daidouji ailesi açısından bu bilginin sunulması gerçek birer kehanet teşkil ediyordu.)<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0004",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0005",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0006",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0007",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0008",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0009",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0010",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0011",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0012",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0013",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0014",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0015",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0016",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0017",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0018",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0019",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0020",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0021",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0022",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0023",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0024",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0025",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0026",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0027",
+        "msgStr": "Bu davanın arkasındaki gerçek suçlu.\n\nKuzunoha klanından bir İblis Çağırıcısı olduğuna ve Raidou XL adını aldığına dair bizzat tanıklık etti (hatta On Dördüncü'ye \"büyük selefim\" diye hitap etti. Ne kadar sefilce...).\n\nMotivasyonu, Kırkıncı'nın yaşadığı gelecek dünyayı nihai olarak değiştirmek (veya nereden baktığınıza bağlı olarak yok etmek) amacıyla geçmişi değiştirmek gibi görünüyor. Akarana Koridoru aracılığıyla Raidou XL'in anıları Kaya Daidouji'ye kopyalandı. Sonuç olarak Kırkıncı, Taisho dönemine \"kopyalandı\" ve Munakata'nın Süper Asker Projesi bu gizli gündeme hizmet edecek şekilde ele geçirilip değiştirildi.\n\nŞimdilik sana savaşa odaklanmanı tavsiye ederim, Raidou. Dikkat dağıtıcı unsurları en aza indirmek için bu günlüğü sık sık gözden geçirmemeye çalışacağım.\n\nAma endişelenme—Raidou Kuzunoha XL ile ilgili bu meselenin net bir kaydını tutacağımdan emin olabilirsin. Bu dava çözüldüğünde kaydettiğim bilgiler kontrol etmen (hatta belki bizzat gözden geçirmen, gerçi şimdilik bunu bir kenara bırakalım) için burada olmaya devam edecek.\n\n<U_COLOR 1>*Söz verdiğim gibi net bir kayıt tuttum. Ancak biraz fazla hevese kapılmış olabilirim ve sonuç olarak yazdıklarım epey uzadı. Zahmet verdiğim için bağışla ama tüm anlatıyı ayrı bir maddede detaylandırmaya karar verdim; mutlaka bir göz at.<U_COLOR 0>"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0028",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0029",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0030",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0031",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0032",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0033",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0034",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0035",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0036",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0037",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0038",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0039",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0040",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0041",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0042",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0043",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "DBOOK_DITECT07_L0044",
+        "msgStr": "ER100"
+      }
+    ]
+  },
+  "_convDateTime": "2025/01/25 20:27:57"
+}

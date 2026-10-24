@@ -1,0 +1,49 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "LMAPAREANAME_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "LMAPAREANAME_L0000",
+        "msgStr": "ER100"
+      },
+      {
+        "msgID": "LMAPAREANAME_L0001",
+        "msgStr": "Yarai-ku"
+      },
+      {
+        "msgID": "LMAPAREANAME_L0002",
+        "msgStr": "Hongo"
+      },
+      {
+        "msgID": "LMAPAREANAME_L0003",
+        "msgStr": "Senju-ku"
+      },
+      {
+        "msgID": "LMAPAREANAME_L0004",
+        "msgStr": "Chujou-ku"
+      },
+      {
+        "msgID": "LMAPAREANAME_L0005",
+        "msgStr": "Koutou-ku"
+      },
+      {
+        "msgID": "LMAPAREANAME_L0006",
+        "msgStr": "Akasaka-ku"
+      },
+      {
+        "msgID": "LMAPAREANAME_L0007",
+        "msgStr": "Shinoda"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:42:27"
+}

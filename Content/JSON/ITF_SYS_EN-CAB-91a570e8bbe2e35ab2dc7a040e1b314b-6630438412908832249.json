@@ -1,0 +1,37 @@
+﻿{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8218211772927028132
+  },
+  "m_Name": "ITF_SYS_EN",
+  "_TextMsgData": {
+    "Array": [
+      {
+        "msgID": "itf_sys_ITF_SYS_EITHER SEL_000",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "ITF_SYS_L0000",
+        "msgStr": "Evet"
+      },
+      {
+        "msgID": "ITF_SYS_L0001",
+        "msgStr": "Hayır"
+      },
+      {
+        "msgID": "itf_sys_ITF_SYS_MOVE_CONF_001",
+        "msgStr": "NULL"
+      },
+      {
+        "msgID": "ITF_SYS_L0002",
+        "msgStr": "> <COLOR 1><V 0><COLOR 0> konumuna gidilsin mi?"
+      }
+    ]
+  },
+  "_convDateTime": "2024/11/17 11:50:12"
+}
